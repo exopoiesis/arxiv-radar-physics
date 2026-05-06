@@ -1,0 +1,97 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "exopoiesis"
+repo_name: "arxiv-radar-physics"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/physics-arxiv-daily.json'
+json_gitpage_path: './docs/physics-arxiv-daily-web.json'
+json_wechat_path: './docs/physics-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# Search filters per topic.
+#
+# This follows the chemistry radar pattern: broad method terms are written as
+# RAW expressions with an explicit physics-domain context. Avoid standalone
+# domain terms such as "Astrophysics", "High Energy Physics", or
+# "Condensed Matter Physics"; those fetch ordinary physics, not AI4Physics.
+#
+# Each filter becomes part of an OR-joined arXiv search query. Three forms:
+#   - "single phrase"  -> single-word, used bare
+#   - "Multi word"     -> quoted as phrase
+#   - "RAW:expr"       -> expression passed through verbatim, wrapped in parens.
+keywords:
+    "Scientific Machine Learning & PINNs":
+        filters:
+          - "Scientific Machine Learning"
+          - "SciML"
+          - "Physics-Informed Neural Networks"
+          - "PINNs"
+          - "Neural Operators"
+          - "DeepONet"
+          - "Neural Differential Equations"
+          - "Operator Learning"
+          - "Hamiltonian Neural Networks"
+          - "Lagrangian Neural Networks"
+          - 'RAW:("Equivariant Neural Networks" OR "Symmetry-Preserving ML" OR "Inductive Bias") AND (physics OR physical OR scientific OR Hamiltonian OR Lagrangian OR PDE OR "partial differential equation")'
+
+    "Dynamical Systems & PDE Learning":
+        filters:
+          - "PDE Learning"
+          - "Data-Driven Physics"
+          - 'RAW:("Partial Differential Equations" OR PDEs OR "Dynamical Systems" OR "Chaotic Systems" OR "Reduced-Order Modeling" OR ROM OR "Koopman Operator" OR "Time-Series Prediction" OR "Surrogate Modeling") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "physics-informed" OR PINN OR PINNs OR "neural operator" OR "operator learning" OR "data-driven")'
+
+    "Quantum Physics & Information":
+        filters:
+          - "Quantum Machine Learning"
+          - "QML"
+          - "Quantum Circuit Learning"
+          - "Hamiltonian Learning"
+          - 'RAW:("Quantum Many-Body Systems" OR "Variational Quantum Algorithms" OR VQE OR QAOA OR "Quantum State Reconstruction" OR "Quantum Error Correction" OR "Schrödinger Equation" OR "Tensor Networks") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "surrogate" OR "generative" OR "data-driven" OR "AI")'
+
+    "Materials Science & Condensed Matter":
+        filters:
+          - "Materials Discovery"
+          - "Machine Learning Interatomic Potentials"
+          - "MLIP"
+          - "DFT Surrogate"
+          - "Graph Neural Networks for Materials"
+          - 'RAW:("Crystal Structure Prediction" OR "Electronic Structure" OR "Phase Transitions" OR "Topological Insulators" OR "Battery Materials" OR "Condensed Matter Physics" OR "Force Fields") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "graph neural" OR GNN OR "surrogate" OR "generative" OR "active learning" OR "Bayesian optimization" OR "AI")'
+
+    "Fluid Dynamics & Plasma Physics":
+        filters:
+          - "Turbulence Modeling"
+          - "Tokamak Control"
+          - 'RAW:("Computational Fluid Dynamics" OR CFD OR "Navier-Stokes Equations" OR RANS OR LES OR "Flow Control" OR Magnetohydrodynamics OR MHD OR "Plasma Physics" OR "Fusion Energy" OR "Laser-Plasma Interaction") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "physics-informed" OR PINN OR PINNs OR "neural operator" OR "surrogate" OR "reinforcement learning" OR "data-driven" OR "AI")'
+
+    "Particle & High Energy Physics":
+        filters:
+          - "Jet Tagging"
+          - "Particle Reconstruction"
+          - "Event Classification"
+          - 'RAW:("High Energy Physics" OR HEP OR "Particle Physics" OR "Collider Physics" OR "Lattice QCD" OR "Detector Simulation" OR "Fast Simulation" OR "Anomaly Detection" OR "Physics Beyond the Standard Model") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "graph neural" OR GNN OR "normalizing flows" OR "generative" OR "simulation-based inference" OR "AI")'
+
+    "Astrophysics & Cosmology":
+        filters:
+          - "Astrostatistics"
+          - 'RAW:("Astrophysics" OR Cosmology OR "Dark Matter" OR "Dark Energy" OR "Gravitational Waves" OR LIGO OR "Cosmological Simulations" OR "Galaxy Formation" OR "Strong Lensing" OR "Black Holes") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR "foundation model" OR "diffusion model" OR "surrogate" OR "emulator" OR "Bayesian inference" OR "simulation-based inference" OR "data-driven" OR "AI")'
+
+    "Climate, Weather & Geophysics":
+        filters:
+          - 'RAW:("Weather Forecasting" OR "Climate Modeling" OR "Atmospheric Physics" OR "Seismic Inversion" OR "Earthquake Prediction" OR Oceanography OR "Remote Sensing" OR Hydrology OR "Data Assimilation") AND ("machine learning" OR "deep learning" OR "neural network" OR "neural networks" OR transformer OR "foundation model" OR "diffusion model" OR "surrogate" OR "emulator" OR "Bayesian inference" OR "data-driven" OR "AI")'
+
+    "Generative Models & Discovery":
+        filters:
+          - "Generative Models for Physics"
+          - "AI4Science"
+          - 'RAW:("Diffusion Models" OR "Normalizing Flows" OR "Symbolic Regression" OR "Equation Discovery" OR "Inverse Problems" OR "Uncertainty Quantification" OR "Bayesian Inference" OR "Scientific Discovery") AND (physics OR physical OR scientific OR PDE OR quantum OR materials OR fluid OR plasma OR HEP OR particle OR astrophysics OR cosmology OR climate OR weather OR geophysics)'

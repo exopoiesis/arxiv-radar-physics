@@ -1,0 +1,144 @@
+---
+layout: page
+title: "variational-quantum-algorithms (90d)"
+current_tag: variational-quantum-algorithms
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>variational-quantum-algorithms — 90d</h1>
+  <span class="paper-count">21 papers</span>
+  <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02066.html">Accelerating Noisy Variational Quantum Algorithms with Physics-Informed Denoising Networks</a></div></td>
+<td>Jie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02066">2605.02066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19461.html">Iterative Quantum Feature Maps</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Nasa Matsumoto et al.</td>
+<td><a href="http://arxiv.org/abs/2506.19461">2506.19461</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20180.html">Tensor network surrogate models for variational quantum computation</a></div><div class="paper-tags"><a href="qaoa-90d.html">qaoa</a></div></td>
+<td>Ryo Watanabe et al.</td>
+<td><a href="http://arxiv.org/abs/2604.20180">2604.20180</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15666.html">Explainable quantum regression algorithm with encoded data structure</a></div><div class="paper-tags"><a href="quantum-error-correction-90d.html">quantum-error-correction</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>C. -C. Joseph Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15666">2604.15666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Joona Pankkonen et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
+<td>Cesar A. Amaral et al.</td>
+<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07896.html">Non-variational supervised quantum kernel methods: a review</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>John Tanner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07896">2604.07896</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07909.html">A Review of Variational Quantum Algorithms: Insights into Fault-Tolerant Quantum Computing</a></div></td>
+<td>Zhirao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07909">2604.07909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02804.html">Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Yoshiaki Kawase</td>
+<td><a href="http://arxiv.org/abs/2603.02804">2603.02804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08948.html">Random layers for quantum optimal control with exponential expressivity</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Marco Dall&#x27;Ara et al.</td>
+<td><a href="http://arxiv.org/abs/2603.08948">2603.08948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04825.html">Universal 2-Local Symmetry-Preserving Quantum Neural Networks for Fermionic Systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a></div></td>
+<td>Ge Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2412.04825">2412.04825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23979.html">BRIDG-Q: Barren-Plateau-Resilient Initialisation with Data-Aware LLM-Generated Quantum Circuits</a></div></td>
+<td>Ngoc Nhi Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2603.23979">2603.23979</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21300.html">The Average Relative Entropy and Transpilation Depth determines the noise robustness in Variational Quantum Classifiers</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Aakash Ravindra Shinde et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21300">2603.21300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18060.html">Overcoming Barren Plateaus in Variational Quantum Circuits using a Two-Step Least Squares Approach</a></div></td>
+<td>Francis Boabang et al.</td>
+<td><a href="http://arxiv.org/abs/2601.18060">2601.18060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14451.html">How to find expressible and trainable parameterized quantum circuits?</a></div><div class="paper-tags"><a href="vqe-90d.html">vqe</a></div></td>
+<td>Peter Röseler et al.</td>
+<td><a href="http://arxiv.org/abs/2603.14451">2603.14451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07555.html">A Neural-Guided Variational Quantum Algorithm for Efficient Sign Structure Learning in Hybrid Architectures</a></div><div class="paper-tags"><a href="vqe-90d.html">vqe</a></div></td>
+<td>Mengzhen Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07555">2507.07555</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20352.html">Quantum Machine Learning for Complex Systems</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Vinit Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2602.20352">2602.20352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05804.html">Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Manish Mallapur et al.</td>
+<td><a href="http://arxiv.org/abs/2509.05804">2509.05804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14167.html">TensorCircuit-NG: A Universal, Composable, and Scalable Platform for Quantum Computing and Quantum Simulation</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
+<td>Shi-Xin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14167">2602.14167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08485.html">Empirical Study of Observable Sets in Multiclass Quantum Classification</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Paul San Sebastian et al.</td>
+<td><a href="http://arxiv.org/abs/2602.08485">2602.08485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24050.html">Exploiting biased noise in variational quantum models</a></div></td>
+<td>Connor van Rossum et al.</td>
+<td><a href="http://arxiv.org/abs/2510.24050">2510.24050</a></td>
+</tr>
+</tbody></table>

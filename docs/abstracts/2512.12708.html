@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2512.12708">
+<h1 class="abstract-title">Multi-Trajectory Physics-Informed Neural Networks for HJB Equations with Hard-Zero Terminal Inventory: Optimal Execution on Synthetic &amp; SPY Data</h1>
+<p class="abstract-authors">Anthime Valin</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2512.12708" rel="nofollow noopener">arXiv:2512.12708</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2025-12-14</span></p>
+<div class="abstract-body">We study optimal trade execution with a hard-zero terminal inventory constraint, modeled via Hamilton-Jacobi-Bellman (HJB) equations. Vanilla PINNs often under-enforce this constraint and produce unstable controls. We propose a Multi-Trajectory PINN (MT-PINN) that adds a rollout-based trajectory loss and propagates a terminal penalty on terminal inventory via backpropagation-through-time, directly enforcing zero terminal inventory. A lightweight lambda-curriculum is adopted to stabilize training as the state expands from a risk-neutral reduced HJB to a risk-averse HJB. On the Gatheral-Schied single-asset model, MT-PINN aligns closely with their derived closed-form solutions and concentrates terminal inventory tightly around zero while reducing errors along optimal paths. We apply MT-PINNs on SPY intraday data, matching TWAP when risk-neutral, and achieving lower exposure and competitive costs, especially in falling windows, for higher risk-aversion.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Scientific Machine Learning &amp; PINNs</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/pinns-30d.html">pinns</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG, math.OC</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2512.12708" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2512.12708" rel="nofollow noopener">PDF</a></p>
+</article>

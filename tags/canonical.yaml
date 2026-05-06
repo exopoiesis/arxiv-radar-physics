@@ -1,0 +1,617 @@
+# Canonical tags for Physics arxiv-radar.
+#
+# Seed vocabulary derived from daily-arxiv-ai4physics/config.yaml. These tags
+# are used only for deterministic keyword matching after fetch; arXiv fetch
+# queries remain in config.yaml.
+
+scientific-machine-learning:
+  group: scientific-machine-learning
+  synonyms:
+    - Scientific Machine Learning
+    - scientific machine learning
+
+sciml:
+  group: scientific-machine-learning
+  synonyms:
+    - SciML
+    - sciml
+
+physics-informed-neural-networks:
+  group: scientific-machine-learning
+  synonyms:
+    - Physics-Informed Neural Networks
+    - physics-informed neural networks
+
+pinns:
+  group: scientific-machine-learning
+  synonyms:
+    - PINNs
+    - pinns
+
+neural-operators:
+  group: scientific-machine-learning
+  synonyms:
+    - Neural Operators
+    - neural operators
+
+deeponet:
+  group: scientific-machine-learning
+  synonyms:
+    - DeepONet
+    - deeponet
+
+neural-differential-equations:
+  group: scientific-machine-learning
+  synonyms:
+    - Neural Differential Equations
+    - neural differential equations
+
+operator-learning:
+  group: scientific-machine-learning
+  synonyms:
+    - Operator Learning
+    - operator learning
+
+hamiltonian-neural-networks:
+  group: scientific-machine-learning
+  synonyms:
+    - Hamiltonian Neural Networks
+    - hamiltonian neural networks
+
+lagrangian-neural-networks:
+  group: scientific-machine-learning
+  synonyms:
+    - Lagrangian Neural Networks
+    - lagrangian neural networks
+
+symmetry-preserving-ml:
+  group: scientific-machine-learning
+  synonyms:
+    - Symmetry-Preserving ML
+    - symmetry-preserving ml
+
+equivariant-neural-networks:
+  group: scientific-machine-learning
+  synonyms:
+    - Equivariant Neural Networks
+    - equivariant neural networks
+
+inductive-bias:
+  group: scientific-machine-learning
+  synonyms:
+    - Inductive Bias
+    - inductive bias
+
+partial-differential-equations:
+  group: dynamical-systems
+  synonyms:
+    - Partial Differential Equations
+    - partial differential equations
+
+pde-learning:
+  group: dynamical-systems
+  synonyms:
+    - PDE Learning
+    - pde learning
+
+dynamical-systems:
+  group: dynamical-systems
+  synonyms:
+    - Dynamical Systems
+    - dynamical systems
+
+chaotic-systems:
+  group: dynamical-systems
+  synonyms:
+    - Chaotic Systems
+    - chaotic systems
+
+reduced-order-modeling:
+  group: dynamical-systems
+  synonyms:
+    - Reduced-Order Modeling
+    - reduced-order modeling
+
+rom:
+  group: dynamical-systems
+  synonyms:
+    - ROM
+    - rom
+
+koopman-operator:
+  group: dynamical-systems
+  synonyms:
+    - Koopman Operator
+    - koopman operator
+
+time-series-prediction:
+  group: dynamical-systems
+  synonyms:
+    - Time-Series Prediction
+    - time-series prediction
+
+surrogate-modeling:
+  group: dynamical-systems
+  synonyms:
+    - Surrogate Modeling
+    - surrogate modeling
+
+data-driven-physics:
+  group: dynamical-systems
+  synonyms:
+    - Data-Driven Physics
+    - data-driven physics
+
+quantum-machine-learning:
+  group: quantum-physics
+  synonyms:
+    - Quantum Machine Learning
+    - quantum machine learning
+
+qml:
+  group: quantum-physics
+  synonyms:
+    - QML
+    - qml
+
+quantum-many-body-systems:
+  group: quantum-physics
+  synonyms:
+    - Quantum Many-Body Systems
+    - quantum many-body systems
+
+variational-quantum-algorithms:
+  group: quantum-physics
+  synonyms:
+    - Variational Quantum Algorithms
+    - variational quantum algorithms
+
+vqe:
+  group: quantum-physics
+  synonyms:
+    - VQE
+    - vqe
+
+qaoa:
+  group: quantum-physics
+  synonyms:
+    - QAOA
+    - qaoa
+
+quantum-state-reconstruction:
+  group: quantum-physics
+  synonyms:
+    - Quantum State Reconstruction
+    - quantum state reconstruction
+
+quantum-error-correction:
+  group: quantum-physics
+  synonyms:
+    - Quantum Error Correction
+    - quantum error correction
+
+quantum-circuit-learning:
+  group: quantum-physics
+  synonyms:
+    - Quantum Circuit Learning
+    - quantum circuit learning
+
+hamiltonian-learning:
+  group: quantum-physics
+  synonyms:
+    - Hamiltonian Learning
+    - hamiltonian learning
+
+schr-dinger-equation:
+  group: quantum-physics
+  synonyms:
+    - Schrödinger Equation
+    - schrödinger equation
+
+tensor-networks:
+  group: quantum-physics
+  synonyms:
+    - Tensor Networks
+    - tensor networks
+
+condensed-matter-physics:
+  group: materials-science
+  synonyms:
+    - Condensed Matter Physics
+    - condensed matter physics
+
+materials-discovery:
+  group: materials-science
+  synonyms:
+    - Materials Discovery
+    - materials discovery
+
+crystal-structure-prediction:
+  group: materials-science
+  synonyms:
+    - Crystal Structure Prediction
+    - crystal structure prediction
+
+machine-learning-interatomic-potentials:
+  group: materials-science
+  synonyms:
+    - Machine Learning Interatomic Potentials
+    - machine learning interatomic potentials
+
+mlip:
+  group: materials-science
+  synonyms:
+    - MLIP
+    - mlip
+
+force-fields:
+  group: materials-science
+  synonyms:
+    - Force Fields
+    - force fields
+
+dft-surrogate:
+  group: materials-science
+  synonyms:
+    - DFT Surrogate
+    - dft surrogate
+
+electronic-structure:
+  group: materials-science
+  synonyms:
+    - Electronic Structure
+    - electronic structure
+
+phase-transitions:
+  group: materials-science
+  synonyms:
+    - Phase Transitions
+    - phase transitions
+
+topological-insulators:
+  group: materials-science
+  synonyms:
+    - Topological Insulators
+    - topological insulators
+
+graph-neural-networks-for-materials:
+  group: materials-science
+  synonyms:
+    - Graph Neural Networks for Materials
+    - graph neural networks for materials
+
+battery-materials:
+  group: materials-science
+  synonyms:
+    - Battery Materials
+    - battery materials
+
+computational-fluid-dynamics:
+  group: fluid-dynamics
+  synonyms:
+    - Computational Fluid Dynamics
+    - computational fluid dynamics
+
+cfd:
+  group: fluid-dynamics
+  synonyms:
+    - CFD
+    - cfd
+
+turbulence-modeling:
+  group: fluid-dynamics
+  synonyms:
+    - Turbulence Modeling
+    - turbulence modeling
+
+navier-stokes-equations:
+  group: fluid-dynamics
+  synonyms:
+    - Navier-Stokes Equations
+    - navier-stokes equations
+
+rans:
+  group: fluid-dynamics
+  synonyms:
+    - RANS
+    - rans
+
+les:
+  group: fluid-dynamics
+  synonyms:
+    - LES
+    - les
+
+flow-control:
+  group: fluid-dynamics
+  synonyms:
+    - Flow Control
+    - flow control
+
+magnetohydrodynamics:
+  group: fluid-dynamics
+  synonyms:
+    - Magnetohydrodynamics
+    - magnetohydrodynamics
+
+mhd:
+  group: fluid-dynamics
+  synonyms:
+    - MHD
+    - mhd
+
+plasma-physics:
+  group: fluid-dynamics
+  synonyms:
+    - Plasma Physics
+    - plasma physics
+
+fusion-energy:
+  group: fluid-dynamics
+  synonyms:
+    - Fusion Energy
+    - fusion energy
+
+tokamak-control:
+  group: fluid-dynamics
+  synonyms:
+    - Tokamak Control
+    - tokamak control
+
+laser-plasma-interaction:
+  group: fluid-dynamics
+  synonyms:
+    - Laser-Plasma Interaction
+    - laser-plasma interaction
+
+high-energy-physics:
+  group: particle
+  synonyms:
+    - High Energy Physics
+    - high energy physics
+
+hep:
+  group: particle
+  synonyms:
+    - HEP
+    - hep
+
+particle-physics:
+  group: particle
+  synonyms:
+    - Particle Physics
+    - particle physics
+
+jet-tagging:
+  group: particle
+  synonyms:
+    - Jet Tagging
+    - jet tagging
+
+particle-reconstruction:
+  group: particle
+  synonyms:
+    - Particle Reconstruction
+    - particle reconstruction
+
+event-classification:
+  group: particle
+  synonyms:
+    - Event Classification
+    - event classification
+
+collider-physics:
+  group: particle
+  synonyms:
+    - Collider Physics
+    - collider physics
+
+lattice-qcd:
+  group: particle
+  synonyms:
+    - Lattice QCD
+    - lattice qcd
+
+detector-simulation:
+  group: particle
+  synonyms:
+    - Detector Simulation
+    - detector simulation
+
+fast-simulation:
+  group: particle
+  synonyms:
+    - Fast Simulation
+    - fast simulation
+
+anomaly-detection:
+  group: particle
+  synonyms:
+    - Anomaly Detection
+    - anomaly detection
+
+physics-beyond-the-standard-model:
+  group: particle
+  synonyms:
+    - Physics Beyond the Standard Model
+    - physics beyond the standard model
+
+astrophysics:
+  group: astrophysics
+  synonyms:
+    - Astrophysics
+    - astrophysics
+
+cosmology:
+  group: astrophysics
+  synonyms:
+    - Cosmology
+    - cosmology
+
+dark-matter:
+  group: astrophysics
+  synonyms:
+    - Dark Matter
+    - dark matter
+
+dark-energy:
+  group: astrophysics
+  synonyms:
+    - Dark Energy
+    - dark energy
+
+gravitational-waves:
+  group: astrophysics
+  synonyms:
+    - Gravitational Waves
+    - gravitational waves
+
+ligo:
+  group: astrophysics
+  synonyms:
+    - LIGO
+    - ligo
+
+cosmological-simulations:
+  group: astrophysics
+  synonyms:
+    - Cosmological Simulations
+    - cosmological simulations
+
+galaxy-formation:
+  group: astrophysics
+  synonyms:
+    - Galaxy Formation
+    - galaxy formation
+
+strong-lensing:
+  group: astrophysics
+  synonyms:
+    - Strong Lensing
+    - strong lensing
+
+black-holes:
+  group: astrophysics
+  synonyms:
+    - Black Holes
+    - black holes
+
+astrostatistics:
+  group: astrophysics
+  synonyms:
+    - Astrostatistics
+    - astrostatistics
+
+weather-forecasting:
+  group: climate
+  synonyms:
+    - Weather Forecasting
+    - weather forecasting
+
+climate-modeling:
+  group: climate
+  synonyms:
+    - Climate Modeling
+    - climate modeling
+
+atmospheric-physics:
+  group: climate
+  synonyms:
+    - Atmospheric Physics
+    - atmospheric physics
+
+seismic-inversion:
+  group: climate
+  synonyms:
+    - Seismic Inversion
+    - seismic inversion
+
+earthquake-prediction:
+  group: climate
+  synonyms:
+    - Earthquake Prediction
+    - earthquake prediction
+
+oceanography:
+  group: climate
+  synonyms:
+    - Oceanography
+    - oceanography
+
+remote-sensing:
+  group: climate
+  synonyms:
+    - Remote Sensing
+    - remote sensing
+
+hydrology:
+  group: climate
+  synonyms:
+    - Hydrology
+    - hydrology
+
+data-assimilation:
+  group: climate
+  synonyms:
+    - Data Assimilation
+    - data assimilation
+
+generative-models-for-physics:
+  group: generative-models
+  synonyms:
+    - Generative Models for Physics
+    - generative models for physics
+
+diffusion-models:
+  group: generative-models
+  synonyms:
+    - Diffusion Models
+    - diffusion models
+
+normalizing-flows:
+  group: generative-models
+  synonyms:
+    - Normalizing Flows
+    - normalizing flows
+
+symbolic-regression:
+  group: generative-models
+  synonyms:
+    - Symbolic Regression
+    - symbolic regression
+
+equation-discovery:
+  group: generative-models
+  synonyms:
+    - Equation Discovery
+    - equation discovery
+
+ai4science:
+  group: generative-models
+  synonyms:
+    - AI4Science
+    - ai4science
+
+inverse-problems:
+  group: generative-models
+  synonyms:
+    - Inverse Problems
+    - inverse problems
+
+uncertainty-quantification:
+  group: generative-models
+  synonyms:
+    - Uncertainty Quantification
+    - uncertainty quantification
+
+bayesian-inference:
+  group: generative-models
+  synonyms:
+    - Bayesian Inference
+    - bayesian inference
+
+scientific-discovery:
+  group: generative-models
+  synonyms:
+    - Scientific Discovery
+    - scientific discovery

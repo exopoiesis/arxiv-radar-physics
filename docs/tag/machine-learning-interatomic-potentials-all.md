@@ -1,0 +1,1152 @@
+---
+layout: page
+title: "machine-learning-interatomic-potentials (all)"
+current_tag: machine-learning-interatomic-potentials
+current_window: all
+---
+
+<header class="tag-header">
+  <h1>machine-learning-interatomic-potentials — all</h1>
+  <span class="paper-count">189 papers</span>
+  <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <strong>all</strong></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01181.html">Grain boundary segregation of light elements and their effects on cohesion in ferritic steels</a></div></td>
+<td>Han Lin Mai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01181">2605.01181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21850.html">OptiMat Alloys: a FAIR, living database of multi-principal element alloys enabled by a conversational agent</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Yang Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.21850">2604.21850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04015.html">Atomistic Machine Learning with Irreducible Cartesian Natural Tensors</a></div><div class="paper-tags"><a href="tensor-networks-all.html">tensor-networks</a></div></td>
+<td>Qun Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2510.04015">2510.04015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26143.html">Mixture of Experts Framework in Machine Learning Interatomic Potentials for Atomistic Simulations</a></div></td>
+<td>Gabriel de Miranda Nascimento et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26143">2604.26143</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21401.html">GEWUM: General Exploration Workflow for the Utopia of Materials: A Unified Platform for Automated Structure Generation, Selection, and Validation</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Jiexi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2604.21401">2604.21401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Aleksander Szewczyk et al.</td>
+<td><a href="http://arxiv.org/abs/2604.21494">2604.21494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16418.html">Scalable Data-Driven Basis Selection for Linear Machine Learning Interatomic Potentials</a></div></td>
+<td>Tina Torabi et al.</td>
+<td><a href="http://arxiv.org/abs/2504.16418">2504.16418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16331.html">Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Peter Eastman et al.</td>
+<td><a href="http://arxiv.org/abs/2601.16331">2601.16331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15821.html">Breaking the Training Barrier of Billion-Parameter Universal Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
+<td>Yuanchang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15821">2604.15821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13699.html">MIND: AI Co-Scientist for Material Research</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
+<td>Geonhee Ahn et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13699">2604.13699</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04110.html">Accelerating Discovery of Ternary Chiral Materials via Large-Scale Random Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-prediction-all.html">crystal-structure-prediction</a></div></td>
+<td>Jiexi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2508.04110">2508.04110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Xintian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07197.html">Machine learning Hamiltonian enables scalable and accurate defect calculations: The case of oxygen vacancies in amorphous SiO$_2$</a></div></td>
+<td>Zhenxing Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07197">2604.07197</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10419.html">Equivariant Evidential Deep Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Zhongyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10419">2602.10419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01642.html">Machine Learning Interatomic Potentials for Million-Atom Simulations of Multicomponent Alloys</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Fei Shuang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.01642">2604.01642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02524.html">AQVolt26: High-Temperature r$^2$SCAN Halide Dataset for Universal ML Potentials and Solid-State Batteries</a></div></td>
+<td>Jiyoon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2604.02524">2604.02524</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01360.html">A New Paradigm for Computational Chemistry</a></div></td>
+<td>Raphael T. Husistein et al.</td>
+<td><a href="http://arxiv.org/abs/2604.01360">2604.01360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div></td>
+<td>Jack Jon Hinsch et al.</td>
+<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26471.html">Importance of Electronic Entropy for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Martin Hoffmann Petersen et al.</td>
+<td><a href="http://arxiv.org/abs/2603.26471">2603.26471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25373.html">Hessian-informed machine learning interatomic potential towards bridging theory and experiments</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Bangchen Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25373">2603.25373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05221.html">Benchmarking Universal Machine Learning Interatomic Potentials for Supported Nanoparticles: Decoupling Energy Accuracy from Structural Exploration</a></div></td>
+<td>Jiayan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05221">2512.05221</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div></td>
+<td>Shuyu Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22160.html">Data Curation for Machine Learning Interatomic Potentials by Determinantal Point Processes</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22160">2603.22160</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20183.html">Prediction and Experimental Verification of Electrolyte Solvation Structure from an OMol25-Trained Interatomic Potential</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Nitesh Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2603.20183">2603.20183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10989.html">Generalization of Long-Range Machine Learning Potentials in Complex Chemical Spaces</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Michal Sanocki et al.</td>
+<td><a href="http://arxiv.org/abs/2512.10989">2512.10989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11063.html">Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional</a></div></td>
+<td>Chikashi Shinagawa et al.</td>
+<td><a href="http://arxiv.org/abs/2603.11063">2603.11063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14700.html">Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials</a></div></td>
+<td>William J. Baldwin et al.</td>
+<td><a href="http://arxiv.org/abs/2603.14700">2603.14700</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07977.html">Scaling Machine Learning Interatomic Potentials with Mixtures of Experts</a></div></td>
+<td>Yuzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.07977">2603.07977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15294.html">UniMatSim: A High-Throughput Materials Simulation Automation Framework Based on Universal Machine Learning Potentials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Yanjin Xiang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15294">2603.15294</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09744.html">AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Bonwook Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.09744">2603.09744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10205.html">Flexible Cutoff Learning: Optimizing Machine Learning Potentials After Training</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Rick Oerder et al.</td>
+<td><a href="http://arxiv.org/abs/2603.10205">2603.10205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19382.html">Learning Long-Range Representations with Equivariant Messages</a></div></td>
+<td>Egor Rumiantsev et al.</td>
+<td><a href="http://arxiv.org/abs/2507.19382">2507.19382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22999.html">Benchmarking Universal Machine Learning Interatomic Potentials for Elastic Property Prediction</a></div></td>
+<td>Pengfei Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2510.22999">2510.22999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05238.html">Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Xinwei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.05238">2603.05238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03223.html">Expanding Universal Machine Learning Interatomic Potentials to 97 Elements Towards Nuclear Applications</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Naoya Kuroda et al.</td>
+<td><a href="http://arxiv.org/abs/2603.03223">2603.03223</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05339.html">Machine Learning Interatomic Potentials Enable Molecular Dynamics Simulations of Doped MoS2</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Abrar Faiyad et al.</td>
+<td><a href="http://arxiv.org/abs/2510.05339">2510.05339</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Lucas B. T. de Kam et al.</td>
+<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19411.html">MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry</a></div></td>
+<td>Ilyes Batatia et al.</td>
+<td><a href="http://arxiv.org/abs/2602.19411">2602.19411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15747.html">How to Train a Shallow Ensemble</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Moritz Schäfer et al.</td>
+<td><a href="http://arxiv.org/abs/2602.15747">2602.15747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14603.html">DFT and MLIP study of solute segregation to coherent and semi-coherent α-Fe/Fe$_3$C interfaces</a></div></td>
+<td>Amin Reiners-Sakic et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14603">2602.14603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13553.html">fix pimd/langevin: An Efficient Implementation of Path Integral Molecular Dynamics in LAMMPS</a></div></td>
+<td>Yifan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2602.13553">2602.13553</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11548.html">Efficient molecular dynamics simulation of 2D penta-silicene materials using machine learning potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Le Huu Nghia et al.</td>
+<td><a href="http://arxiv.org/abs/2602.11548">2602.11548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07295.html">The impact of spurious imaginary phonon modes on thermal properties of Metal-organic Frameworks</a></div></td>
+<td>Prathami Divakar Kamath et al.</td>
+<td><a href="http://arxiv.org/abs/2602.07295">2602.07295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10064.html">PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials</a></div></td>
+<td>Harrison A. Walker et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10064">2602.10064</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08849.html">Cutting Through the Noise: On-the-fly Outlier Detection for Robust Training of Machine Learning Interatomic Potentials</a></div></td>
+<td>Terry C. W. Lam et al.</td>
+<td><a href="http://arxiv.org/abs/2602.08849">2602.08849</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04861.html">From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Ryan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04861">2602.04861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02023.html">DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Kevin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2506.02023">2506.02023</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21147.html">Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Kevin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2601.21147">2601.21147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21056.html">Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs</a></div></td>
+<td>Thomas Warford et al.</td>
+<td><a href="http://arxiv.org/abs/2601.21056">2601.21056</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18069.html">Hydrogen diffusion in TiCr$_2$H$_x$ Laves phases: A combined ab initio and machine-learning-potential study</a></div></td>
+<td>Pranav Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2511.18069">2511.18069</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11628.html">Developing a Machine-Learning Interatomic Potential for Non-Covalent Interactions in Proteins</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Lejia Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2601.11628">2601.11628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19720.html">Defects and Impurity Properties of VN precipitates in ARAFM Steels: Modelling using a Universal Machine Learning Potential and Experimental Validation</a></div></td>
+<td>R. S. Stroud et al.</td>
+<td><a href="http://arxiv.org/abs/2503.19720">2503.19720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12984.html">Machine learning interatomic potentials for solid-state precipitation</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Lorenzo Piersante et al.</td>
+<td><a href="http://arxiv.org/abs/2601.12984">2601.12984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10211.html">Going beyond density functional theory accuracy: Leveraging experimental data to refine pre-trained machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Shriya Gumber et al.</td>
+<td><a href="http://arxiv.org/abs/2506.10211">2506.10211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14022.html">BLIPs: Bayesian Learned Interatomic Potentials</a></div></td>
+<td>Dario Coscia et al.</td>
+<td><a href="http://arxiv.org/abs/2508.14022">2508.14022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10938.html">Are Universal Potentials Ready for Alkali-Ion Battery Kinetics?</a></div></td>
+<td>Xingyu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2601.10938">2601.10938</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11295.html">Computational Design of Ductile Additively Manufactured Tungsten-Based Refractory Alloys</a></div></td>
+<td>Kareem Abdelmaqsoud et al.</td>
+<td><a href="http://arxiv.org/abs/2601.11295">2601.11295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09123.html">Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials</a></div></td>
+<td>Huiju Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2601.09123">2601.09123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01131.html">Tensor Decomposition Networks for Fast Machine Learning Interatomic Potential Computations</a></div></td>
+<td>Yuchao Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2507.01131">2507.01131</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05003.html">Stable Machine Learning Potentials for Liquid Metals via Dataset Engineering</a></div></td>
+<td>Alex Tai et al.</td>
+<td><a href="http://arxiv.org/abs/2601.05003">2601.05003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03933.html">Material exploration through active learning -- METAL</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Joakim Brorsson et al.</td>
+<td><a href="http://arxiv.org/abs/2601.03933">2601.03933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14146.html">Resolving the Body-Order Paradox of Machine Learning Interatomic Potentials</a></div></td>
+<td>Sanggyu Chong et al.</td>
+<td><a href="http://arxiv.org/abs/2509.14146">2509.14146</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17936.html">Graph atomic cluster expansion for foundational machine learning interatomic potentials</a></div></td>
+<td>Yury Lysogorskiy et al.</td>
+<td><a href="http://arxiv.org/abs/2508.17936">2508.17936</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20230.html">Benchmarking Universal Machine Learning Interatomic Potentials on Elemental Systems</a></div></td>
+<td>Hossein Tahmasbi et al.</td>
+<td><a href="http://arxiv.org/abs/2512.20230">2512.20230</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21647.html">Automated Machine Learning Pipeline: Large Language Models-Assisted Automated Dataset Generation for Training Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Adam Lahouari et al.</td>
+<td><a href="http://arxiv.org/abs/2509.21647">2509.21647</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18029.html">Long-range electrostatics for machine learning interatomic potentials is easier than we thought</a></div><div class="paper-tags"><a href="les-all.html">les</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2512.18029">2512.18029</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16590.html">Recent Advances in Metallic Glasses</a></div></td>
+<td>Silvia Bonfanti et al.</td>
+<td><a href="http://arxiv.org/abs/2512.16590">2512.16590</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16702.html">How accurate are foundational machine learning interatomic potentials for heterogeneous catalysis?</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Luuk H. E. Kempen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.16702">2512.16702</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22938.html">AQCat25: Unlocking spin-aware, high-fidelity machine learning potentials for heterogeneous catalysis</a></div></td>
+<td>Omar Allam et al.</td>
+<td><a href="http://arxiv.org/abs/2510.22938">2510.22938</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05349.html">Platonic representation of foundation machine learning interatomic potentials</a></div></td>
+<td>Zhenzhu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05349">2512.05349</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03750.html">Universally Converging Representations of Matter Across Scientific Foundation Models</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2512.03750">2512.03750</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Soumajit Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01160.html">From Regression to Classification: Exploring the Benefits of Categorical Representations of Energy in MLIPs</a></div></td>
+<td>Ahmad Ali</td>
+<td><a href="http://arxiv.org/abs/2512.01160">2512.01160</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22874.html">Ready-to-Use Polymerization Simulations Combining Universal Machine Learning Interatomic Potential with Time-Dependent Bond Boosting for Polymer and Interface Design</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Hodaka Mori et al.</td>
+<td><a href="http://arxiv.org/abs/2511.22874">2511.22874</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Suhwan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22824.html">Machine Learning Potentials for Hydrogen Absorption in TiCr$_2$ Laves Phases</a></div></td>
+<td>Pranav Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2503.22824">2503.22824</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15190.html">Energy Underprediction from Symmetry in Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Wei Nong et al.</td>
+<td><a href="http://arxiv.org/abs/2507.15190">2507.15190</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10561.html">Maximizing Efficiency of Dataset Compression for Machine Learning Potentials With Information Theory</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Benjamin Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2511.10561">2511.10561</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02927.html">P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Shih-Peng Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2509.02927">2509.02927</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20630.html">MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Yuan Chiang et al.</td>
+<td><a href="http://arxiv.org/abs/2509.20630">2509.20630</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13088.html">Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Tomoya Shiota et al.</td>
+<td><a href="http://arxiv.org/abs/2412.13088">2412.13088</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20481.html">Self-consistency error correction for accurate machine learning potentials from variational Monte Carlo</a></div></td>
+<td>Giacomo Tenti et al.</td>
+<td><a href="http://arxiv.org/abs/2504.20481">2504.20481</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23064.html">LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Wenwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2510.23064">2510.23064</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24874.html">Molecular simulations of Perovskites CsXI3 (X = Pb,Sn) Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
+<td>Atefe Ebrahimi et al.</td>
+<td><a href="http://arxiv.org/abs/2510.24874">2510.24874</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20179.html">A follow-up on the sulphur atom popping model for MoS$_2$ memristor</a></div></td>
+<td>Sanchali Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2509.20179">2509.20179</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19774.html">How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Domantas Kuryla et al.</td>
+<td><a href="http://arxiv.org/abs/2510.19774">2510.19774</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20875.html">LeMat-Traj: A Scalable and Unified Dataset of Materials Trajectories for Atomistic Modeling</a></div></td>
+<td>Ali Ramlaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2508.20875">2508.20875</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15397.html">Unravelling the Catalytic Activity of Dual-Metal Doped N6-Graphene for Sulfur Reduction via Machine Learning-Accelerated First-Principles Calculations</a></div></td>
+<td>Sahil Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2510.15397">2510.15397</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13055.html">Reciprocal Space Attention for Learning Long-Range Interactions</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Hariharan Ramasubramanian et al.</td>
+<td><a href="http://arxiv.org/abs/2510.13055">2510.13055</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="crystal-structure-prediction-all.html">crystal-structure-prediction</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Jingru Gan et al.</td>
+<td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Olga Chalykh et al.</td>
+<td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02259.html">Transformers Discover Molecular Structure Without Graph Priors</a></div></td>
+<td>Tobias Kreiman et al.</td>
+<td><a href="http://arxiv.org/abs/2510.02259">2510.02259</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15061.html">An Atomic Cluster Expansion Potential for Twisted Multilayer Graphene</a></div></td>
+<td>Yangshuai Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2506.15061">2506.15061</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26095.html">The diffusion-driven orthorhombic to tetragonal transition in YBa$_2$Cu$_3$O$_7$ derived with a machine learning interatomic potential</a></div></td>
+<td>Davide Gambino et al.</td>
+<td><a href="http://arxiv.org/abs/2509.26095">2509.26095</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20662.html">Atomistic Insights into Cu/amorphous-Ta$_x$N Interfacial Adhesion via Machine Learning Interatomic Potentials: Effects of Stoichiometry and Interface Construction</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Jeong Min Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2509.20662">2509.20662</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19438.html">Gradient-based grand canonical optimization enabled by graph neural networks with fractional atomic existence</a></div></td>
+<td>Mads-Peter Verner Christiansen et al.</td>
+<td><a href="http://arxiv.org/abs/2507.19438">2507.19438</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19180.html">Bayesian Neural Networks versus deep ensembles for uncertainty quantification in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Riccardo Farris et al.</td>
+<td><a href="http://arxiv.org/abs/2509.19180">2509.19180</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01590.html">Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Mitchell Messerly et al.</td>
+<td><a href="http://arxiv.org/abs/2505.01590">2505.01590</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div></td>
+<td>Peichen Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2506.20605">2506.20605</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16601.html">The Good, the Bad, and the Ugly of Atomistic Learning for &quot;Clusters-to-Bulk&quot; Generalization</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2509.16601">2509.16601</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12648.html">Atomic-scale phase-field modeling with universal machine learning potentials</a></div></td>
+<td>Kairi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12648">2509.12648</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15760.html">Moment Tensor Potential and Equivariant Tensor Network Potential with explicit dispersion interactions</a></div></td>
+<td>Olga Chalykh et al.</td>
+<td><a href="http://arxiv.org/abs/2504.15760">2504.15760</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10872.html">Reactive Chemistry at Unrestricted Coupled Cluster Level: High-throughput Calculations for Training Machine Learning Potentials</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="force-fields-all.html">force-fields</a></div></td>
+<td>Alice E. A. Allen et al.</td>
+<td><a href="http://arxiv.org/abs/2509.10872">2509.10872</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08159.html">Self-Optimizing Machine Learning Potential Assisted Automated Workflow for Highly Efficient Complex Systems Material Design</a></div><div class="paper-tags"><a href="crystal-structure-prediction-all.html">crystal-structure-prediction</a></div></td>
+<td>Jiaxiang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2505.08159">2505.08159</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div></td>
+<td>Pjotrs Žguns et al.</td>
+<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01403.html">Accelerating point defect photo-emission calculations with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Kartikeya Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2505.01403">2505.01403</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13744.html">Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations</a></div></td>
+<td>Jorge Suárez-Recio et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13744">2505.13744</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00498.html">&quot;One defect, one potential&quot; strategy for accurate machine learning prediction of defect phonons</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Junjie Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2509.00498">2509.00498</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21663.html">Surface Stability Modeling with Universal Machine Learning Interatomic Potentials: A Comprehensive Cleavage Energy Benchmarking Study</a></div></td>
+<td>Ardavan Mehdizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2508.21663">2508.21663</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17792.html">Universal Machine Learning Potentials under Pressure</a></div></td>
+<td>Antoine Loew et al.</td>
+<td><a href="http://arxiv.org/abs/2508.17792">2508.17792</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16425.html">Global properties of the energy landscape: a testing and training arena for machine learned potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Vlad Cărare et al.</td>
+<td><a href="http://arxiv.org/abs/2508.16425">2508.16425</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15614.html">Universal Machine Learning Potential for Systems with Reduced Dimensionality</a></div></td>
+<td>Giulio Benedini et al.</td>
+<td><a href="http://arxiv.org/abs/2508.15614">2508.15614</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13790.html">Large-scale cooperative sulfur vacancy dynamics in two-dimensional MoS2 from machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11989.html">Accelerating Amorphous Alloy Discovery: Data-Driven Property Prediction via General-Purpose Machine Learning Interatomic Potential</a></div></td>
+<td>Xuhe Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2508.11989">2508.11989</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Christoph Brunken et al.</td>
+<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Jonathan Schmidt et al.</td>
+<td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09113.html">Machine Learning Phonon Spectra for Fast and Accurate Optical Lineshapes of Defects</a></div></td>
+<td>Mark E. Turiansky et al.</td>
+<td><a href="http://arxiv.org/abs/2508.09113">2508.09113</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06456.html">Comparative study of ensemble-based uncertainty quantification methods for neural network interatomic potentials</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Yonatan Kurniawan et al.</td>
+<td><a href="http://arxiv.org/abs/2508.06456">2508.06456</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03405.html">Model Accuracy and Data Heterogeneity Shape Uncertainty Quantification in Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Fei Shuang et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03405">2508.03405</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-prediction-all.html">crystal-structure-prediction</a> · <a href="force-fields-all.html">force-fields</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Vahe Gharakhanyan et al.</td>
+<td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02651.html">Open Molecular Crystals 2025 (OMC25) Dataset and Models</a></div></td>
+<td>Vahe Gharakhanyan et al.</td>
+<td><a href="http://arxiv.org/abs/2508.02651">2508.02651</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21297.html">Heterogeneous Ensemble Enables a Universal Uncertainty Metric for Atomistic Foundation Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Kai Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2507.21297">2507.21297</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20118.html">Iterative Pretraining Framework for Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Taoyong Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2507.20118">2507.20118</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div></td>
+<td>Joe Pitfield et al.</td>
+<td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00589.html">Efficient training of machine learning potentials for metallic glasses: CuZrAl validation</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Antoni Wadowski et al.</td>
+<td><a href="http://arxiv.org/abs/2501.00589">2501.00589</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="les-all.html">les</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Hendrik Kraß et al.</td>
+<td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23008.html">A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Cong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2506.23008">2506.23008</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04813.html">Activation entropy of dislocation glide in body-centered cubic metals from atomistic simulations</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2410.04813">2410.04813</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div></td>
+<td>Jingchen Lian et al.</td>
+<td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05379.html">Teacher-student training improves accuracy and efficiency of machine learning interatomic potentials</a></div></td>
+<td>Sakib Matin et al.</td>
+<td><a href="http://arxiv.org/abs/2502.05379">2502.05379</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14293.html">Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Sakib Matin et al.</td>
+<td><a href="http://arxiv.org/abs/2503.14293">2503.14293</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03578.html">Universal machine learning interatomic potentials poised to supplant DFT in modeling general defects in metals and random alloys</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Fei Shuang et al.</td>
+<td><a href="http://arxiv.org/abs/2502.03578">2502.03578</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07579.html">Beyond Scaling: Chemical Intuition as Emergent Ability of Universal Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Shinnosuke Hattori et al.</td>
+<td><a href="http://arxiv.org/abs/2506.07579">2506.07579</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14608.html">Toward machine learning interatomic potentials for modeling uranium mononitride</a></div></td>
+<td>Lorena Alzate-Vargas et al.</td>
+<td><a href="http://arxiv.org/abs/2411.14608">2411.14608</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div></td>
+<td>Thang D. Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01860.html">Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Bowen Han et al.</td>
+<td><a href="http://arxiv.org/abs/2506.01860">2506.01860</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01868.html">NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials</a></div></td>
+<td>Chengbing Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2506.01868">2506.01868</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05771.html">A Materials Foundation Model via Hybrid Invariant-Equivariant Architectures</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Keqiang Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2503.05771">2503.05771</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18571.html">High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties</a></div></td>
+<td>Xiao Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18571">2505.18571</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18141.html">INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Taskin Mehereen et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18141">2505.18141</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18147.html">Nonadiabatic reactive scattering of hydrogen on different surface facets of copper</a></div></td>
+<td>Wojciech G. Stark et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18147">2505.18147</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18314.html">Learning atomic forces from uncertainty-calibrated adversarial attacks</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Henrique Musseli Cezar et al.</td>
+<td><a href="http://arxiv.org/abs/2502.18314">2502.18314</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12447.html">HORM: A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Taoyong Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2505.12447">2505.12447</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12140.html">Efficient and Accurate Machine Learning Interatomic Potential for Graphene: Capturing Stress-Strain and Vibrational Properties</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Felipe Hawthorne et al.</td>
+<td><a href="http://arxiv.org/abs/2505.12140">2505.12140</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05084.html">Thermal boundary conductance in standalone and non-standalone GaN/AlN heterostructures predicted using machine learning interatomic potentials</a></div></td>
+<td>Hao Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2503.05084">2503.05084</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07580.html">Optimizing Machine Learning Potentials for Hydroxide Transport: Surprising Efficiency of Single-Concentration Training</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2505.07580">2505.07580</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16551.html">Universal Machine Learning Interatomic Potentials are Ready for Phonons</a></div></td>
+<td>Antoine Loew et al.</td>
+<td><a href="http://arxiv.org/abs/2412.16551">2412.16551</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05652.html">Fast and Fourier Features for Transfer Learning of Interatomic Potentials</a></div></td>
+<td>Pietro Novelli et al.</td>
+<td><a href="http://arxiv.org/abs/2505.05652">2505.05652</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02503.html">Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency</a></div></td>
+<td>Niklas Leimeroth et al.</td>
+<td><a href="http://arxiv.org/abs/2505.02503">2505.02503</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12096.html">Cartesian atomic moment machine learning interatomic potentials</a></div></td>
+<td>Mingjian Wen et al.</td>
+<td><a href="http://arxiv.org/abs/2411.12096">2411.12096</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12147.html">Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction</a></div></td>
+<td>Xiang Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2502.12147">2502.12147</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16068.html">High-performance training and inference for deep equivariant interatomic potentials</a></div><div class="paper-tags"><a href="equivariant-neural-networks-all.html">equivariant-neural-networks</a></div></td>
+<td>Chuin Wei Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2504.16068">2504.16068</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13994.html">Evidential Deep Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Han Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2407.13994">2407.13994</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11224.html">Accurate Machine Learning Interatomic Potentials for Polyacene Molecular Crystals: Application to Single Molecule Host-Guest Systems</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Burak Gurlek et al.</td>
+<td><a href="http://arxiv.org/abs/2504.11224">2504.11224</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07293.html">Small-Cell-Based Fast Active Learning of Machine Learning Interatomic Potentials</a></div></td>
+<td>Zijian Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2504.07293">2504.07293</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05169.html">Machine learning interatomic potential can infer electrical response</a></div><div class="paper-tags"><a href="les-all.html">les</a></div></td>
+<td>Peichen Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2504.05169">2504.05169</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05565.html">Cross-functional transferability in universal machine learning interatomic potentials</a></div></td>
+<td>Xu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2504.05565">2504.05565</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23794.html">Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Fabian L. Thiemann et al.</td>
+<td><a href="http://arxiv.org/abs/2503.23794">2503.23794</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20412.html">Large-Scale, Long-Time Atomistic Simulations of Proton Transport in Polymer Electrolyte Membranes Using a Neural Network Interatomic Potential</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Yuta Yoshimoto et al.</td>
+<td><a href="http://arxiv.org/abs/2503.20412">2503.20412</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17949.html">Equivariant Machine Learning Interatomic Potentials with Global Charge Redistribution</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Moin Uddin Maruf et al.</td>
+<td><a href="http://arxiv.org/abs/2503.17949">2503.17949</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07865.html">Thermodynamics-Inspired High-Entropy Oxide Synthesis</a></div></td>
+<td>Saeed S. I. Almishal et al.</td>
+<td><a href="http://arxiv.org/abs/2503.07865">2503.07865</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09814.html">A practical guide to machine learning interatomic potentials -- Status and future</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Ryan Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2503.09814">2503.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07839.html">Does Hessian Data Improve the Performance of Machine Learning Potentials?</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Austin Rodriguez et al.</td>
+<td><a href="http://arxiv.org/abs/2503.07839">2503.07839</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04070.html">A Foundational Potential Energy Surface Dataset for Materials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Aaron D. Kaplan et al.</td>
+<td><a href="http://arxiv.org/abs/2503.04070">2503.04070</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15530.html">Accurate and efficient machine learning interatomic potentials for finite temperature modeling of molecular crystals</a></div></td>
+<td>Flaviano Della Pia et al.</td>
+<td><a href="http://arxiv.org/abs/2502.15530">2502.15530</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07104.html">Uncertainty Quantification for Misspecified Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Danny Perez et al.</td>
+<td><a href="http://arxiv.org/abs/2502.07104">2502.07104</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09970.html">Universal Machine Learning Interatomic Potentials are Ready for Solid Ion Conductors</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Hongwei Du et al.</td>
+<td><a href="http://arxiv.org/abs/2502.09970">2502.09970</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02211.html">Tadah! A Swiss Army Knife for Developing and Deployment of Machine Learning Interatomic Potentials</a></div></td>
+<td>M. Kirsz et al.</td>
+<td><a href="http://arxiv.org/abs/2502.02211">2502.02211</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07367.html">Modeling Extensive Defects in Metals through Classical Potential-Guided Sampling and Automated Configuration Reconstruction</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Fei Shuang et al.</td>
+<td><a href="http://arxiv.org/abs/2411.07367">2411.07367</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13178.html">Efficient Modelling of Anharmonicity and Quantum Effects in PdCuH$_2$ with Machine Learning Potentials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Francesco Belli et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13178">2406.13178</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06116.html">Multi-Phase Dataset for Ti and Ti-6Al-4V</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Connor S. Allen et al.</td>
+<td><a href="http://arxiv.org/abs/2501.06116">2501.06116</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20398.html">Evaluation of uncertainty estimations for Gaussian process regression based machine learning interatomic potentials</a></div></td>
+<td>Matthias Holzenkamp et al.</td>
+<td><a href="http://arxiv.org/abs/2410.20398">2410.20398</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15165.html">Latent Ewald summation for machine learning of long-range interactions</a></div></td>
+<td>Bingqing Cheng</td>
+<td><a href="http://arxiv.org/abs/2408.15165">2408.15165</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15370.html">Machine learning assisted canonical sampling (MLACS)</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Aloïs Castellano et al.</td>
+<td><a href="http://arxiv.org/abs/2412.15370">2412.15370</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15455.html">Learning charges and long-range interactions from energies and forces</a></div><div class="paper-tags"><a href="les-all.html">les</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2412.15455">2412.15455</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05773.html">Scalable Training of Neural Network Potentials for Complex Interfaces Through Data Augmentation</a></div></td>
+<td>In Won Yeu et al.</td>
+<td><a href="http://arxiv.org/abs/2412.05773">2412.05773</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19629.html">OpenQDC: Open Quantum Data Commons</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Cristian Gabellini et al.</td>
+<td><a href="http://arxiv.org/abs/2411.19629">2411.19629</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15351.html">Accelerating CALPHAD-based Phase Diagram Predictions in Complex Alloys Using Universal Machine Learning Potentials: Opportunities and Challenges</a></div></td>
+<td>Siya Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2411.15351">2411.15351</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05035.html">Is the Future of Materials Amorphous? Challenges and Opportunities in Simulations of Amorphous Materials</a></div></td>
+<td>Ata Madanchi et al.</td>
+<td><a href="http://arxiv.org/abs/2410.05035">2410.05035</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18009.html">Liquid-Vapor Phase Equilibrium in Molten Aluminum Chloride (AlCl3) Enabled by Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Rajni Chahal et al.</td>
+<td><a href="http://arxiv.org/abs/2410.18009">2410.18009</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07947.html">Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Jaesun Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2409.07947">2409.07947</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08663.html">Substrate-aware computational design of two-dimensional materials</a></div></td>
+<td>Arslan Mazitov et al.</td>
+<td><a href="http://arxiv.org/abs/2408.08663">2408.08663</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08006.html">Hessian QM9: A quantum chemistry database of molecular Hessians in implicit solvents</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Nicholas J. Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2408.08006">2408.08006</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12525.html">Efficient ensemble uncertainty estimation in Gaussian Processes Regression</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Mads-Peter Verner Christiansen et al.</td>
+<td><a href="http://arxiv.org/abs/2407.12525">2407.12525</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Yair Litman et al.</td>
+<td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15491.html">Vibrational Entropy and Free Energy of Solid Lithium using Covariance of Atomic Displacements Enabled by Machine Learning</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Mgcini Keith Phuthi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15491">2406.15491</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08308.html">Online Test-time Adaptation for Interatomic Potentials</a></div></td>
+<td>Taoyong Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08308">2405.08308</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07105.html">Overcoming systematic softening in universal machine learning interatomic potentials by fine-tuning</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
+<td>Bowen Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07105">2405.07105</a></td>
+</tr>
+</tbody></table>

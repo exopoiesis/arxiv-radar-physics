@@ -1,0 +1,1158 @@
+---
+layout: page
+title: "cosmology (360d)"
+current_tag: cosmology
+current_window: 360d
+---
+
+<header class="tag-header">
+  <h1>cosmology — 360d</h1>
+  <span class="paper-count">190 papers</span>
+  <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Julia Dima et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03442">2605.03442</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03446.html">\textit{Euclid} preparation. Baryon acoustic oscillations extraction techniques: comparison and optimisation</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03446">2605.03446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20429.html">Estimating the triaxiality of massive clusters from 2D observables in MillenniumTNG with machine learning</a></div></td>
+<td>Ana Maria Delgado et al.</td>
+<td><a href="http://arxiv.org/abs/2511.20429">2511.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21432.html">Cosmological analysis of the DESI DR1 Lyman alpha 1D power spectrum</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>J. Chaves-Montero et al.</td>
+<td><a href="http://arxiv.org/abs/2601.21432">2601.21432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22372.html">Testing $Λ$CDM with ANN-Reconstructed Expansion History from Cosmic Chronometers</a></div></td>
+<td>Yuki Hashimoto et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22372">2604.22372</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07651.html">Cosmology with one galaxy: An analytic formula relating $Ω_{\rm m}$ with galaxy properties</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Kito Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2602.07651">2602.07651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20363.html">The Pristine HeII Emitter near GN-z11: Constraining the Mass Distribution of the First Stars</a></div></td>
+<td>Elka Rusta et al.</td>
+<td><a href="http://arxiv.org/abs/2603.20363">2603.20363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="particle-physics-360d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Andrea Addazi et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22703.html">Reionization, UV Luminosity and 21$\,$cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses</a></div></td>
+<td>Gaétan Facchinetti et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22703">2604.22703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22928.html">Quantitative modelling of type Ia supernovae spectral time series III: Implications for type Ia supernovae standardisation in cosmology</a></div></td>
+<td>M. R. Magee</td>
+<td><a href="http://arxiv.org/abs/2604.22928">2604.22928</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19613.html">MG-NECOLA: A Field-Level Emulator for $f(R)$ Gravity and Massive Neutrino Cosmologies</a></div></td>
+<td>J. Bayron Orjuela-Quintana et al.</td>
+<td><a href="http://arxiv.org/abs/2604.19613">2604.19613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18006.html">Mapping the CMB with QUBIC spectral imaging</a></div></td>
+<td>Alexandre Huchet et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18006">2604.18006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18859.html">Testing $Λ$CDM versus dynamical dark energy in one year: A DESI spectroscopic follow-up program for Rubin supernovae</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Jannik Truong et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18859">2604.18859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18086.html">DESI Strong Lens Foundry III: Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
+<td>Shrihan Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2509.18086">2509.18086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Ziyong Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11895.html">Cosmological gravity on all scales V: MCMC forecasts combining large scale structure and CMB lensing for binned phenomenological modified gravity</a></div></td>
+<td>Sankarshana Srinivasan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.11895">2603.11895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11068.html">Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
+<td>Waqas Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2604.11068">2604.11068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20903.html">Improved photometric redshift estimations through self-organising map-based data augmentation</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Yun-Hao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2508.20903">2508.20903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06318.html">Introducing sapphire: Towards Hybrid Physics-Informed, Data-Driven Modeling of Galaxy Formation</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Viraj Pandya et al.</td>
+<td><a href="http://arxiv.org/abs/2604.06318">2604.06318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18698.html">Spectral Imaging with QUBIC: building frequency maps from Time-Ordered-Data using Bolometric Interferometry</a></div></td>
+<td>M. Regnier et al.</td>
+<td><a href="http://arxiv.org/abs/2409.18698">2409.18698</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04122.html">Gaussian-Process Emulation of the Redshift-Space Halo Power Spectrum Monopole in Cosmologies with Massive Neutrinos</a></div></td>
+<td>Jixin Gan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.04122">2604.04122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01291.html">Fast End-to-End Framework for Cosmological Parameter Inference from CMB Data Using Machine Learning</a></div></td>
+<td>Larissa Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2511.01291">2511.01291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04661.html">unimpeded: A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Dily Duan Yi Ong et al.</td>
+<td><a href="http://arxiv.org/abs/2511.04661">2511.04661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29879.html">CROCS Data Release I: Constraints on the Hubble Constant</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Luke Weisenbach et al.</td>
+<td><a href="http://arxiv.org/abs/2603.29879">2603.29879</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21675.html">Unimodular Diffusion and Interacting Vacuum Cosmology</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Gopal Kashyap et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21675">2603.21675</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26533.html">Extracting Cosmological Information from Lightcone Data: A Comparison of CNNs and Summary-Statistic-Based Approaches</a></div></td>
+<td>Min Zhiwei et al.</td>
+<td><a href="http://arxiv.org/abs/2603.26533">2603.26533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22135.html">The SPHEREx Ices Investigation: An Overview</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Gary J. Melnick et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22135">2603.22135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19600.html">Furax: A Modular JAX Framework for Linear Operators in Astrophysical and Cosmological Data Analysis</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Pierre Chanial et al.</td>
+<td><a href="http://arxiv.org/abs/2603.19600">2603.19600</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16003.html">Emulation of SPHEREx Galaxy Power Spectra I: Neural Network Details and Optimization</a></div></td>
+<td>Joseph Adamo et al.</td>
+<td><a href="http://arxiv.org/abs/2603.16003">2603.16003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19377.html">Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Dounia Nanadoumgar-Lacroze et al.</td>
+<td><a href="http://arxiv.org/abs/2603.19377">2603.19377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17500.html">Tightening Cosmological Constraints Within and Beyond $Λ$CDM Using Gamma-Ray Bursts Calibrated with Type Ia Supernovae</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Wei Hong et al.</td>
+<td><a href="http://arxiv.org/abs/2603.17500">2603.17500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15072.html">Circuit Modeling for In Situ 21 cm Radiometer Calibration</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Gary Vincent Charles Allen et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15072">2603.15072</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15332.html">Calibrating spectral siren cosmology with synthetic catalogs of binary black hole mergers</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Arianna Scarpa et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15332">2603.15332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11165.html">FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Benjamin M. Boyd et al.</td>
+<td><a href="http://arxiv.org/abs/2603.11165">2603.11165</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13011.html">Simulation-based inference from the Lyman-alpha forest 1D power spectrum with CAMELS</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Francesco Sinigaglia et al.</td>
+<td><a href="http://arxiv.org/abs/2603.13011">2603.13011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11928.html">AS-Bridge: A Bidirectional Generative Framework Bridging Next-Generation Astronomical Surveys</a></div></td>
+<td>Dichang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.11928">2603.11928</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12380.html">HaloFlow II: Robust Galaxy Halo Mass Inference with Domain Adaptation</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Nikhil Garuda et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12380">2603.12380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10424.html">CSST-PSFNet: A Point Spread Function Reconstruction Model for the CSST Based on Deep Learning</a></div></td>
+<td>Peipei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.10424">2603.10424</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09067.html">Verifying Good Regulator Conditions for Hypergraph Observers: Natural Gradient Learning from Causal Invariance via Established Theorems</a></div></td>
+<td>Max Zhuravlev</td>
+<td><a href="http://arxiv.org/abs/2603.09067">2603.09067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01529.html">CosmicWeb-21cm array: A New Radio Observation Array Design for 21cm Cosmology</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Jiancheng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.01529">2603.01529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22537.html">LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
+<td>Shouwei Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2602.22537">2602.22537</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20483.html">Cosmology with galaxy clusters using machine learning. Application to eROSITA Data</a></div></td>
+<td>Fucheng Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2602.20483">2602.20483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13263.html">On the accuracy of posterior recovery with neural network emulators</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>H. T. J. Bevins et al.</td>
+<td><a href="http://arxiv.org/abs/2503.13263">2503.13263</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19451.html">BayeSED-GALAXIES II. Bayesian full spectrum analysis of galaxies and application in the CSST wide-field slitless spectroscopy survey</a></div></td>
+<td>Yunkun Han et al.</td>
+<td><a href="http://arxiv.org/abs/2602.19451">2602.19451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22076.html">HOLISMOKES XVII: Detecting strongly lensed SNe Ia from time series of multi-band LSST-like imaging data</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Satadru Bag et al.</td>
+<td><a href="http://arxiv.org/abs/2506.22076">2506.22076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17592.html">AstroMLab 4: Benchmark-Topping Performance in Astronomy Q&amp;A with a 70B-Parameter Domain-Specialized Reasoning Model</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Tijmen de Haan et al.</td>
+<td><a href="http://arxiv.org/abs/2505.17592">2505.17592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07469.html">Influence of finite-temperature effects on CMB power spectrum</a></div></td>
+<td>I. Y. Park et al.</td>
+<td><a href="http://arxiv.org/abs/2503.07469">2503.07469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12019.html">Is cosmic birefringence due to dark energy or dark matter? Simulation-based inference</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Florie Carralot et al.</td>
+<td><a href="http://arxiv.org/abs/2602.12019">2602.12019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24740.html">SymBoltz.jl: A symbolic-numeric, approximation-free, and differentiable linear Einstein-Boltzmann solver</a></div></td>
+<td>Herman Sletmoen</td>
+<td><a href="http://arxiv.org/abs/2509.24740">2509.24740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12870.html">GAME: Genetic Algorithms with Marginalised Ensembles for model-independent reconstruction of cosmological quantities</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Matteo Peronaci et al.</td>
+<td><a href="http://arxiv.org/abs/2602.12870">2602.12870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07177.html">Ten-dimensional neural network emulator for the nonlinear matter power spectrum</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Yanhui Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07177">2507.07177</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25596.html">Constraining baryonic feedback and cosmology from DES Y3 and Planck PR4 6$\times$2pt data. I. $Λ$CDM models</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Jiachuan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2510.25596">2510.25596</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16408.html">Stabilizing simulation-based cosmological Fisher forecasts: a case study using the Voronoi volume function</a></div></td>
+<td>Saee Dhawalikar et al.</td>
+<td><a href="http://arxiv.org/abs/2506.16408">2506.16408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05816.html">Bayesian imaging inverse problem with scattering transform</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Sébastien Pierre et al.</td>
+<td><a href="http://arxiv.org/abs/2602.05816">2602.05816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05881.html">Predicting galaxy bias using machine learning</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Catalina Riveros-Jara et al.</td>
+<td><a href="http://arxiv.org/abs/2602.05881">2602.05881</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05135.html">Growth of High-Redshift Quasars from Fermion Dark Matter Seeds</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Yu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2602.05135">2602.05135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03313.html">Seeing Wiggles without Seeing Wiggles: BAO Recovery in 21 cm Intensity Mapping with Deep Learning</a></div></td>
+<td>Kaifeng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2602.03313">2602.03313</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03935.html">pop-cosmos: Forward modeling KiDS-1000 redshift distributions using realistic galaxy populations</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Boris Leistedt et al.</td>
+<td><a href="http://arxiv.org/abs/2602.03935">2602.03935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02778.html">Probing The Dark Matter Halo of High-redshift Quasar from Wide-Field Clustering Analysis</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Hao Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2602.02778">2602.02778</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01504.html">Probing Cosmic Curvature with Fast Radio Bursts and DESI DR2</a></div></td>
+<td>Jéferson A. S. Fortunato et al.</td>
+<td><a href="http://arxiv.org/abs/2506.01504">2506.01504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16919.html">CosmoSlider: An educational tool for cosmology</a></div></td>
+<td>Andreas Nygaard et al.</td>
+<td><a href="http://arxiv.org/abs/2601.16919">2601.16919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17222.html">Improving Generalization and Uncertainty Quantification of Photometric Redshift Models</a></div></td>
+<td>Jonathan Soriano et al.</td>
+<td><a href="http://arxiv.org/abs/2601.17222">2601.17222</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12772.html">Neural Ordinary Differential Equations for Mapping the Magnetic QCD Phase Diagram via Holography</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
+<td>Rong-Gen Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2406.12772">2406.12772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18974.html">Euclid: An emulator for baryonic effects on the matter bispectrum</a></div></td>
+<td>P. A. Burger et al.</td>
+<td><a href="http://arxiv.org/abs/2506.18974">2506.18974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14235.html">Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>LSST Dark Energy Science Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2601.14235">2601.14235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09146.html">Distinguishing Orbiting and Infalling Dark Matter Particles with Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Ze&#x27;ev Vladimir et al.</td>
+<td><a href="http://arxiv.org/abs/2506.09146">2506.09146</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10152.html">The BINGO project X. Cosmological parameter constraints from HI Intensity Mapping lognormal simulations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Pablo Motta et al.</td>
+<td><a href="http://arxiv.org/abs/2601.10152">2601.10152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14288.html">DeepInflation: an AI agent for research and model discovery of inflation</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Ze-Yu Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2601.14288">2601.14288</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07306.html">Emulator-Based Inference of Cosmological Subgrid Models</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
+<td>Nesar Ramachandra et al.</td>
+<td><a href="http://arxiv.org/abs/2601.07306">2601.07306</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06258.html">Cosmological back-reaction of baryons on dark matter in the CAMELS simulations</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Matthew Gebhardt et al.</td>
+<td><a href="http://arxiv.org/abs/2601.06258">2601.06258</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06290.html">CAMELS Environments: The Impact of Local Neighbours on Galaxy Evolution across the SIMBA, IllustrisTNG, ASTRID, and Swift-EAGLE Simulations</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Xavier Sims et al.</td>
+<td><a href="http://arxiv.org/abs/2601.06290">2601.06290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04760.html">Probing Trans-Planckian Signatures in the Early Universe: A Bayesian Analysis of the Generalized Sasaki-Mukhanov Equation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Mahdieh Eskandari Merajin</td>
+<td><a href="http://arxiv.org/abs/2601.04760">2601.04760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00146.html">Combining datasets with different ground truths using Low-Rank Adaptation to generalize image-based CNN models for photometric redshift prediction</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Vikram Seenivasan et al.</td>
+<td><a href="http://arxiv.org/abs/2601.00146">2601.00146</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00495.html">Late-Time Resolution of the Hubble Tension in CPL Cosmology with Massive Neutrinos via Bayesian Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Muhammad Yarahmadi et al.</td>
+<td><a href="http://arxiv.org/abs/2601.00495">2601.00495</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16515.html">The Universe Learning Itself: On the Evolution of Dynamics from the Big Bang to Machine Intelligence</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Pradeep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2512.16515">2512.16515</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18883.html">EuroHPC SPACE CoE: Redesigning Scalable Parallel Astrophysical Codes for Exascale</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Nitin Shukla et al.</td>
+<td><a href="http://arxiv.org/abs/2512.18883">2512.18883</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15266.html">BBNet: accurate neural network emulator for primordial light element abundances</a></div></td>
+<td>Fan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2512.15266">2512.15266</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16010.html">LSTM-MDNz: Estimating Quasar Photometric Redshifts with an LSTM-Augmented Mixture Density Network</a></div></td>
+<td>Jianzhen Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.16010">2512.16010</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13681.html">Bridging Simulations and EFT: A Hybrid Model of the Lyman-Alpha Forest Field</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Roger de Belsunce et al.</td>
+<td><a href="http://arxiv.org/abs/2512.13681">2512.13681</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12530.html">Reconstruction of Dark Matter and Baryon Density From Galaxies: A Comparison of Linear, Halo Model and Machine Learning-Based Methods</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Jordan Krywonos et al.</td>
+<td><a href="http://arxiv.org/abs/2507.12530">2507.12530</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10032.html">Photo-$z$ Estimation with Normalizing Flow</a></div></td>
+<td>Yiming Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2510.10032">2510.10032</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07125.html">Vision Transformers for Cosmological Fields: Application to Weak Lensing Mass Maps</a></div></td>
+<td>Jash Kakadia et al.</td>
+<td><a href="http://arxiv.org/abs/2512.07125">2512.07125</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07236.html">Counting voids and filaments: Betti Curves as a Powerful Probe for Cosmology</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Jiayi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2512.07236">2512.07236</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06319.html">A Fully Photometric Approach to Type Ia Supernova Cosmology in the LSST Era: Host Galaxy Redshifts and Supernova Classification</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Ayan Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2512.06319">2512.06319</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07060.html">LIMFAST. IV. Learning High-Redshift Galaxy Formation from Multiline Intensity Mapping with Implicit Likelihood Inference</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Guochao Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2509.07060">2509.07060</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06299.html">Deep Learning Improves Photometric Redshifts in All Regions of Color Space</a></div></td>
+<td>Emma R. Moran et al.</td>
+<td><a href="http://arxiv.org/abs/2507.06299">2507.06299</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19919.html">Bayesian Posteriors with Stellar Population Synthesis on GPUs</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Georgios Zacharegkas et al.</td>
+<td><a href="http://arxiv.org/abs/2506.19919">2506.19919</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13811.html">Testing the cosmic distance duality relation with baryon acoustic oscillations and supernovae data</a></div></td>
+<td>Tian-Nuo Li et al.</td>
+<td><a href="http://arxiv.org/abs/2507.13811">2507.13811</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13669.html">Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Sydney Erickson et al.</td>
+<td><a href="http://arxiv.org/abs/2511.13669">2511.13669</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14947.html">Revealing Limitation in the Standard Cosmological Model: A Redshift-Dependent Hubble Constant from Fast Radio Bursts</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Surajit Kalita et al.</td>
+<td><a href="http://arxiv.org/abs/2506.14947">2506.14947</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06834.html">Unlocking 21cm Cosmology with SBI: A Beginner friendly NRE for Inference of Astrophysical Parameters</a></div></td>
+<td>Bisweswar Sen</td>
+<td><a href="http://arxiv.org/abs/2509.06834">2509.06834</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14369.html">QHSC: The Quasar Candidate Catalog for the Hyper Suprime-Cam Subaru Strategic Program</a></div></td>
+<td>Rui Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2511.14369">2511.14369</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14631.html">Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Kahaan Gandhi et al.</td>
+<td><a href="http://arxiv.org/abs/2511.14631">2511.14631</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22990.html">How to embed any likelihood into SBI: Application to Planck + Stage IV galaxy surveys and Dynamical Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Guillermo Franco Abellán et al.</td>
+<td><a href="http://arxiv.org/abs/2507.22990">2507.22990</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13393.html">Learning Cosmology from Nearest Neighbour Statistics</a></div></td>
+<td>Atrideb Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2511.13393">2511.13393</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13826.html">Aletheia: Emulating the non-linear matter power spectrum in the context of evolution mapping</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Ariel G. Sanchez et al.</td>
+<td><a href="http://arxiv.org/abs/2511.13826">2511.13826</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10299.html">Nature-inspired optimization, the Philippine Eagle, and cosmological parameter estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Reginald Christian Bernardo et al.</td>
+<td><a href="http://arxiv.org/abs/2505.10299">2505.10299</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22979.html">A test of Amati relation using HII galaxy distances</a></div></td>
+<td>Rikiya Okazaki et al.</td>
+<td><a href="http://arxiv.org/abs/2510.22979">2510.22979</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06332.html">Bayesian and Machine-Learning Analyses of Nonminimal $f(Q)$ Gravity and $H_0$ Tension</a></div></td>
+<td>Simran Arora et al.</td>
+<td><a href="http://arxiv.org/abs/2511.06332">2511.06332</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17459.html">Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
+<td>Bo Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2510.17459">2510.17459</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05367.html">Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Ilem Leisher et al.</td>
+<td><a href="http://arxiv.org/abs/2511.05367">2511.05367</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05470.html">$\texttt{unimpeded}$: A Public Nested Sampling Database for Bayesian Cosmology</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Dily Duan Yi Ong et al.</td>
+<td><a href="http://arxiv.org/abs/2511.05470">2511.05470</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02034.html">Accelerating the standard siren method: Improved constraints on modified gravitational-wave propagation with future data</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
+<td>Matteo Tagliazucchi et al.</td>
+<td><a href="http://arxiv.org/abs/2504.02034">2504.02034</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13304.html">Searching for a signature of turnaround in galaxy clusters with convolutional neural networks</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Nikolaos Triantafyllou et al.</td>
+<td><a href="http://arxiv.org/abs/2412.13304">2412.13304</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03707.html">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Ningyuan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2507.03707">2507.03707</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13577.html">Constraints on Compact Dark Matter Population from Micro-lensing Effect of Gravitational Wave for the third-generation gravitational Wave Detector</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="ligo-360d.html">ligo</a></div></td>
+<td>Xin-Yi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13577">2508.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13960.html">Learning the Universe: Cosmological and Astrophysical Parameter Inference with Galaxy Luminosity Functions and Colours</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Christopher C. Lovell et al.</td>
+<td><a href="http://arxiv.org/abs/2411.13960">2411.13960</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20795.html">Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Juan Alejandro Pinto Castro et al.</td>
+<td><a href="http://arxiv.org/abs/2510.20795">2510.20795</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19168.html">Transfer Learning Beyond the Standard Model</a></div></td>
+<td>Veena Krishnaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2510.19168">2510.19168</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00063.html">AstroMMBench: A Benchmark for Evaluating Multimodal Large Language Models Capabilities in Astronomy</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Jinghang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2510.00063">2510.00063</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18749.html">Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Deaglan J. Bartlett et al.</td>
+<td><a href="http://arxiv.org/abs/2510.18749">2510.18749</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16228.html">Observational constraints on the modified cosmology inspired by string T-duality</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>G. G. Luciano et al.</td>
+<td><a href="http://arxiv.org/abs/2510.16228">2510.16228</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12715.html">Hierarchical summaries for primordial non-Gaussianities</a></div></td>
+<td>M. S. Cagliari et al.</td>
+<td><a href="http://arxiv.org/abs/2510.12715">2510.12715</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.24197.html">Generative modelling for mass-mapping with fast uncertainty quantification</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Jessica J. Whitney et al.</td>
+<td><a href="http://arxiv.org/abs/2410.24197">2410.24197</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09147.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 5. Extensions beyond the standard modelling of theoretical probes and systematic effects</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09147">2510.09147</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09153.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 3. Inference and Forecasts</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09153">2510.09153</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09503.html">Extending CSST Emulator to post-DESI era</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Zhao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09503">2510.09503</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09876.html">A Systematic Literature Review of Machine Learning Techniques for Observational Constraints in Cosmology</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Luis Rojas et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09876">2510.09876</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07684.html">Multi-modal Foundation Model for Cosmological Simulation Data</a></div></td>
+<td>Bin Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2510.07684">2510.07684</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19925.html">Direct reconstruction of the Reionization history from 21cm 2D Power Spectra</a></div></td>
+<td>Yannic Pietschke et al.</td>
+<td><a href="http://arxiv.org/abs/2506.19925">2506.19925</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07375.html">Control variates from Eulerian and Lagrangian perturbation theory: Application to the bispectrum</a></div></td>
+<td>Nickolas Kokron et al.</td>
+<td><a href="http://arxiv.org/abs/2510.07375">2510.07375</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17113.html">The impact of 2D and 3D BAO measurements on the Cosmic Distance Duality Relation with HII galaxies</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Jie Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2507.17113">2507.17113</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13307.html">High-Dimensional Bayesian Model Comparison in Cosmology with GPU-accelerated Nested Sampling and Neural Emulators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Toby Lovick et al.</td>
+<td><a href="http://arxiv.org/abs/2509.13307">2509.13307</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01785.html">cuHPX: GPU-Accelerated Differentiable Spherical Harmonic Transforms on HEALPix Grids</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Xiaopo Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2510.01785">2510.01785</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02426.html">ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>S. D. Bakshi et al.</td>
+<td><a href="http://arxiv.org/abs/2510.02426">2510.02426</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12199.html">Deriving accurate galaxy cluster masses using X-ray thermodynamic profiles and graph neural networks</a></div></td>
+<td>Asif Iqbal et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12199">2509.12199</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14265.html">Impact of Large-Scale Structure Systematics on Cosmological Parameter Estimation</a></div></td>
+<td>Humna Awan et al.</td>
+<td><a href="http://arxiv.org/abs/2409.14265">2409.14265</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22478.html">halox: Dark matter halo properties and large-scale structure calculations using JAX</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Florian Kéruzoré</td>
+<td><a href="http://arxiv.org/abs/2509.22478">2509.22478</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18078.html">DESI Strong Lens Foundry IV: Spectroscopic Confirmation of DESI Lens Candidates with VLT/MUSE</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
+<td>Emerald Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2509.18078">2509.18078</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Adriano Frattale Mascioli et al.</td>
+<td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18876.html">A field-level reaction for screened modified gravity</a></div></td>
+<td>Daniela Saadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2506.18876">2506.18876</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15223.html">Parameter sensitivity of cosmic pairwise velocities in the non-linear regime of structure formation</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Jorge Enrique García-Farieta et al.</td>
+<td><a href="http://arxiv.org/abs/2509.15223">2509.15223</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16280.html">Towards a Robust Machine-Learning Pipeline for 21-cm Cosmology Data Analysis I: A Roadmap for Development and Demonstration of Robustness Against PSF Modeling Errors</a></div></td>
+<td>Madhurima Choudhury et al.</td>
+<td><a href="http://arxiv.org/abs/2509.16280">2509.16280</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12122.html">pop-cosmos: Insights from generative modeling of a deep, infrared-selected galaxy population</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Stephen Thorp et al.</td>
+<td><a href="http://arxiv.org/abs/2506.12122">2506.12122</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06174.html">On Soft Clustering For Correlation Estimators</a></div></td>
+<td>Edward Berman et al.</td>
+<td><a href="http://arxiv.org/abs/2504.06174">2504.06174</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05551.html">Uncertainty-Aware Neural Networks for Fuzzy Dark Matter Model Selection from \texorpdfstring{$x_{\rm HI}$}{x_HI} Measurements</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Bahareh Soleimanpour Salmasi et al.</td>
+<td><a href="http://arxiv.org/abs/2509.05551">2509.05551</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12205.html">Barrow and Tsallis entropies after the DESI DR2 BAO data</a></div></td>
+<td>Giuseppe Gaetano Luciano et al.</td>
+<td><a href="http://arxiv.org/abs/2504.12205">2504.12205</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05096.html">An emulator-based forecasting on astrophysics and cosmology with 21 cm and density cross-correlations during EoR</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Barun Maity</td>
+<td><a href="http://arxiv.org/abs/2509.05096">2509.05096</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10798.html">The Atacama Cosmology Telescope: Machine Learning Driven Tools for Detecting Millimeter Sources in Timestream Pre-processing</a></div></td>
+<td>Simran K. Nerval et al.</td>
+<td><a href="http://arxiv.org/abs/2503.10798">2503.10798</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13755.html">How many simulations do we need for simulation-based inference in cosmology?</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Anirban Bairagi et al.</td>
+<td><a href="http://arxiv.org/abs/2503.13755">2503.13755</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20971.html">Cosmo-Learn: code for learning cosmology using different methods and mock data</a></div></td>
+<td>Reginald Christian Bernardo et al.</td>
+<td><a href="http://arxiv.org/abs/2508.20971">2508.20971</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19311.html">Identification of Strongly Lensed Gravitational Wave Events Using Squeeze-and-Excitation Multilayer Perceptron Data-efficient Image Transformer</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
+<td>Dejiang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.19311">2508.19311</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06309.html">AI-Driven Reconstruction of Large-Scale Structure from Combined Photometric and Spectroscopic Surveys</a></div></td>
+<td>Wenying Du et al.</td>
+<td><a href="http://arxiv.org/abs/2504.06309">2504.06309</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16990.html">Score Matching on Large Geometric Graphs for Cosmology Generation</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Diana-Alexandra Onutu et al.</td>
+<td><a href="http://arxiv.org/abs/2508.16990">2508.16990</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15574.html">Using gravitational wave dark sirens to choose between host galaxy weighting models</a></div></td>
+<td>Zhuotao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.15574">2508.15574</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15899.html">CIGaRS I: Combined simulation-based inference from SNae Ia and host photometry</a></div></td>
+<td>Konstantin Karchev et al.</td>
+<td><a href="http://arxiv.org/abs/2508.15899">2508.15899</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14624.html">The revolution in strong lensing discoveries from Euclid</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
+<td>Natalie E. P. Lines et al.</td>
+<td><a href="http://arxiv.org/abs/2508.14624">2508.14624</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11752.html">The Wrath of KAN: Enabling Fast, Accurate, and Transparent Emulation of the Global 21 cm Cosmology Signal</a></div></td>
+<td>J. Dorigo Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2508.11752">2508.11752</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10758.html">Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets</a></div></td>
+<td>Nicolas Lapautre et al.</td>
+<td><a href="http://arxiv.org/abs/2508.10758">2508.10758</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10876.html">Accelerating cosmological inference of interacting dark energy with neural emulators</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Karim Carrion</td>
+<td><a href="http://arxiv.org/abs/2508.10876">2508.10876</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00632.html">Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Kangning Diao et al.</td>
+<td><a href="http://arxiv.org/abs/2505.00632">2505.00632</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05728.html">CLAPP: The CLASS LLM Agent for Pair Programming</a></div></td>
+<td>Santiago Casas et al.</td>
+<td><a href="http://arxiv.org/abs/2508.05728">2508.05728</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03291.html">Investigation on deep learning-based galaxy image translation models</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Hengxin Ruan et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03291">2508.03291</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03837.html">STAR NRE: Solving supernova selection effects with set-based truncated auto-regressive neural ratio estimation</a></div></td>
+<td>Konstantin Karchev et al.</td>
+<td><a href="http://arxiv.org/abs/2409.03837">2409.03837</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07346.html">CLASS_SZ II: Notes and Examples of Fast and Accurate Calculations of Halo Model, Large Scale Structure and Cosmic Microwave Background Observables</a></div></td>
+<td>Boris Bolliet et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07346">2507.07346</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18054.html">Variational autoencoder for generating realistic $N$-body simulations for dark matter halos</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Jazhiel Chacón-Lavanderos et al.</td>
+<td><a href="http://arxiv.org/abs/2507.18054">2507.18054</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18683.html">Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Stephen A. Walsh et al.</td>
+<td><a href="http://arxiv.org/abs/2507.18683">2507.18683</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07090.html">A Differentiable, End-to-End Forward Model for 21 cm Cosmology: Estimating the Foreground, Instrument, and Signal Joint Posterior</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Nicholas Kern</td>
+<td><a href="http://arxiv.org/abs/2504.07090">2504.07090</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07257.html">Open Source Planning &amp; Control System with Language Agents for Autonomous Scientific Discovery</a></div></td>
+<td>Licong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07257">2507.07257</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15530.html">Constraints on fast radio burst population from the first CHIME/FRB catalog with the Hierarchical Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Huan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2501.15530">2501.15530</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07155.html">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Xueqing Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07155">2507.07155</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03074.html">Differentiable Halo Mass Prediction and the Cosmology-Dependence of Halo Mass Functions</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Jim Buisman et al.</td>
+<td><a href="http://arxiv.org/abs/2507.03074">2507.03074</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03086.html">Mitigating Model Misspecification in Simulation-Based Inference for Galaxy Clustering</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
+<td>Sébastien Pierre et al.</td>
+<td><a href="http://arxiv.org/abs/2507.03086">2507.03086</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17597.html">Unraveling particle dark matter with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>M. P. Bento et al.</td>
+<td><a href="http://arxiv.org/abs/2502.17597">2502.17597</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01820.html">The Cosmological analysis of X-ray cluster surveys VII. Bypassing scaling relations with Lagrangian Deep Learning and Simulation-based inference</a></div></td>
+<td>Nicolas Cerardi et al.</td>
+<td><a href="http://arxiv.org/abs/2507.01820">2507.01820</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18722.html">On the universality of the halo mass function beyond $Λ$CDM cosmology</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Yuhao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2411.18722">2411.18722</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00866.html">Template-Fitting Meets Deep Learning: Redshift Estimation Using Physics-Guided Neural Networks</a></div></td>
+<td>Jonas Chris Ferrao et al.</td>
+<td><a href="http://arxiv.org/abs/2507.00866">2507.00866</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21684.html">KSZ Velocity Reconstruction with ACT and DESI-LS using a Tomographic QML Power Spectrum Estimator</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Anderson C. M. Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21684">2506.21684</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20862.html">Nonlinear reconstruction of 21cm global signal from 21cm power spectrum with artificial neural networks</a></div></td>
+<td>Hayato Shimabukuro</td>
+<td><a href="http://arxiv.org/abs/2412.20862">2412.20862</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11998.html">Determination of Hubble constant from Megamaser Cosmology Project using Profile Likelihood</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Shubham Barua et al.</td>
+<td><a href="http://arxiv.org/abs/2502.11998">2502.11998</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12759.html">New tests of cosmic distance duality relation with DESI 2024 BAO observations</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Qiumin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2506.12759">2506.12759</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11846.html">Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Jelte Bottema et al.</td>
+<td><a href="http://arxiv.org/abs/2502.11846">2502.11846</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11715.html">Simulating realistic radio continuum survey maps with diffusion models</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
+<td>Tobias Vičánek Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2506.11715">2506.11715</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17553.html">SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Silvan Fischbacher et al.</td>
+<td><a href="http://arxiv.org/abs/2502.17553">2502.17553</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08783.html">syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Lukas Kammerer et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08783">2506.08783</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08086.html">Large, fast and accurate HI intensity maps with latent overlap diffusion</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Satvik Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08086">2506.08086</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19251.html">Probing the Bounce Energy Scale in Bouncing Cosmologies with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Junrong Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2504.19251">2504.19251</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03235.html">Model-Independent Reconstruction of f(T) Gravity Using Genetic Algorithms</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Redouane El Ouardi et al.</td>
+<td><a href="http://arxiv.org/abs/2506.03235">2506.03235</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Pablo Flores et al.</td>
+<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Kiyam Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02638.html">An Alcock-Paczynski Test on Reionization Bubbles for Cosmology</a></div></td>
+<td>Emilie Thélie et al.</td>
+<td><a href="http://arxiv.org/abs/2502.02638">2502.02638</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02957.html">SPINN: Advancing Cosmological Simulations of Fuzzy Dark Matter with Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Ashutosh Kumar Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2506.02957">2506.02957</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17019.html">Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems</a></div></td>
+<td>Maksim Zhdanov et al.</td>
+<td><a href="http://arxiv.org/abs/2502.17019">2502.17019</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21368.html">The Jiutian simulations for the CSST extra-galactic surveys</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Jiaxin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2503.21368">2503.21368</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13591.html">Modeling Galaxy Surveys with Hybrid SBI</a></div></td>
+<td>Gemma Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13591">2505.13591</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11157.html">Attention on the Sphere</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Boris Bonev et al.</td>
+<td><a href="http://arxiv.org/abs/2505.11157">2505.11157</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03221.html">Modelling the BOSS void-galaxy cross-correlation function using a neural-network emulator</a></div></td>
+<td>Tristan S. Fraser et al.</td>
+<td><a href="http://arxiv.org/abs/2407.03221">2407.03221</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10636.html">Searching optimal scales for reconstructing cosmological initial conditions using convolutional neural networks</a></div></td>
+<td>Koichiro Nakashima et al.</td>
+<td><a href="http://arxiv.org/abs/2505.10636">2505.10636</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10279.html">Constraints on primordial non-Gaussianity from the cross-correlation of DESI Luminous Red Galaxies and $Planck$ CMB lensing</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>J. R. Bermejo-Climent et al.</td>
+<td><a href="http://arxiv.org/abs/2412.10279">2412.10279</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01129.html">Reheating ACTs on Starobinsky and Higgs inflation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>D. S. Zharov et al.</td>
+<td><a href="http://arxiv.org/abs/2505.01129">2505.01129</a></td>
+</tr>
+</tbody></table>

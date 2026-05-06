@@ -1,0 +1,22 @@
+arxiv-radar-physics
+Copyright 2026 Igor Morozov
+
+This project is an independent arXiv radar for AI physics and scientific
+machine learning papers. It is inspired by the public arXiv-daily repository
+pattern in:
+
+  Vincentqyw/cv-arxiv-daily
+  https://github.com/Vincentqyw/cv-arxiv-daily
+  License: Apache License 2.0
+
+The first Physics prototype was seeded from:
+
+  YuzeHao2023/daily-arxiv-ai4physics
+  https://github.com/YuzeHao2023/daily-arxiv-ai4physics
+
+The arxiv-radar layer adds monthly corpus shards, canonical tags, pre-rendered
+tag pages, popup abstracts, archive/prune tooling, tests, and an MCP-oriented
+data layout.
+
+arXiv metadata and abstracts are obtained from arXiv public metadata services.
+Do not assume paper PDFs or source archives inherit this repository's license.

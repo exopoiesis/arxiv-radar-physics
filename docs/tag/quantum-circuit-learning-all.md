@@ -1,0 +1,66 @@
+---
+layout: page
+title: "quantum-circuit-learning (all)"
+current_tag: quantum-circuit-learning
+current_window: all
+---
+
+<header class="tag-header">
+  <h1>quantum-circuit-learning — all</h1>
+  <span class="paper-count">8 papers</span>
+  <nav class="window-nav"><a href="quantum-circuit-learning-7d.html">7d</a> <a href="quantum-circuit-learning-30d.html">30d</a> <a href="quantum-circuit-learning-90d.html">90d</a> <a href="quantum-circuit-learning-360d.html">360d</a> <strong>all</strong></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27648.html">Effective Noise Mitigation via Quantum Circuit Learning in Quantum Simulation of Integrable Spin Chains</a></div></td>
+<td>Wenlong Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27648">2604.27648</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10584.html">Volatility time series modeling by single-qubit quantum circuit learning</a></div></td>
+<td>Tetsuya Takaishi</td>
+<td><a href="http://arxiv.org/abs/2512.10584">2512.10584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14556.html">Sparse identification of quantum Hamiltonian dynamics via quantum circuit learning</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Yusei Tateyama et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14556">2602.14556</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18286.html">Information geometry of nonmonotonic quantum natural gradient</a></div></td>
+<td>Hideyuki Miyahara</td>
+<td><a href="http://arxiv.org/abs/2510.18286">2510.18286</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04958.html">Enhancing the Dynamic Range of Quantum Sensing via Quantum Circuit Learning</a></div></td>
+<td>Hideaki Kawaguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2505.04958">2505.04958</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18090.html">Quantum Circuit Learning Using Non-Integrable System Dynamics</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>Ryutaro Sato et al.</td>
+<td><a href="http://arxiv.org/abs/2504.18090">2504.18090</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02069.html">Variational Quantum Algorithms for Differential Equations on a Noisy Quantum Computer</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>Niclas Schillo et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02069">2405.02069</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03466.html">Parallel Quantum Computing Simulations via Quantum Accelerator Platform Virtualization</a></div></td>
+<td>Daniel Claudino et al.</td>
+<td><a href="http://arxiv.org/abs/2406.03466">2406.03466</a></td>
+</tr>
+</tbody></table>

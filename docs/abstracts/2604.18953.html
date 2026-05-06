@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2604.18953">
+<h1 class="abstract-title">FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction</h1>
+<p class="abstract-authors">Xiaowen Zhang, Ziming Zhou, Fengnian Zhao, David L. S. Hung</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2604.18953" rel="nofollow noopener">arXiv:2604.18953</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2026-04-21</span><span class="sep">·</span><span>Updated 2026-04-24</span></p>
+<div class="abstract-body">Deep learning surrogates for CFD flow-field prediction often rely on large, complex models, which can be slow and fragile when data are noisy or incomplete. We introduce FlowForge, a staged local rollout engine that predicts future flow fields by compiling a locality-preserving update schedule and executing it with a shared lightweight local predictor. Rather than producing the next frame in a single global pass, FlowForge rewrites spatial sites stage by stage so that each update conditions only on bounded local context exposed by earlier stages. This compile-execute design aligns inference with short-range physical dependence, keeps latency predictable, and limits error amplification from global mixing. Across PDEBench, CFDBench, and BubbleML, FlowForge matches or improves upon strong baselines in pointwise accuracy, delivers consistently better robustness to noise and missing observations, and maintains stable multi-step rollout behavior while reducing per-step latency.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Fluid Dynamics &amp; Plasma Physics</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/cfd-30d.html">cfd</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2604.18953" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2604.18953" rel="nofollow noopener">PDF</a></p>
+</article>

@@ -1,0 +1,126 @@
+---
+layout: page
+title: "gravitational-waves (90d)"
+current_tag: gravitational-waves
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>gravitational-waves — 90d</h1>
+  <span class="paper-count">18 papers</span>
+  <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <strong>90d</strong> <a href="gravitational-waves-360d.html">360d</a> <a href="gravitational-waves-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03156.html">Primordial Black Hole contribution to the stochastic background of Gravitational Waves</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="black-holes-90d.html">black-holes</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>D. Martín-González</td>
+<td><a href="http://arxiv.org/abs/2605.03156">2605.03156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25639.html">Large language models eroding science understanding: an experimental study</a></div></td>
+<td>Harry Collins et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25639">2604.25639</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-matter-90d.html">dark-matter</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Andrea Addazi et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11209.html">Black-hole spectroscopy from a giant quantum vortex</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Pietro Smaniotto et al.</td>
+<td><a href="http://arxiv.org/abs/2502.11209">2502.11209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13930.html">Bayesian Analysis of Gravitational Wave Microlensing Effects from Galactic Double White Dwarfs</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Yan Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13930">2604.13930</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14270.html">Fast neural network surrogate for multimodal effective-one-body gravitational waveforms from generically precessing compact binaries</a></div></td>
+<td>Christopher Whittall et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14270">2604.14270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24243.html">Core-Collapse Supernovae and their Gravitational Wave Signals: The Status of Theory and Modeling</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Bernhard Müller</td>
+<td><a href="http://arxiv.org/abs/2603.24243">2603.24243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22461.html">Impact of eccentricity on the population properties of neutron star - black hole mergers</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Gonzalo Morras et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22461">2603.22461</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05558.html">Environmental Measurements in the Sedrun Access Shaft to the Gotthard Base Tunnel -- a Promising Site for a Long-Baseline Atom Interferometer</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>M. Guinchard et al.</td>
+<td><a href="http://arxiv.org/abs/2603.05558">2603.05558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15984.html">Direct Inference of Nuclear Equation-of-State Parameters from Gravitational-Wave Observations</a></div></td>
+<td>Brendan T. Reed et al.</td>
+<td><a href="http://arxiv.org/abs/2506.15984">2506.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15393.html">Orbital eccentricity in a neutron star - black hole merger</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Gonzalo Morras et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15393">2503.15393</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12364.html">Robustness of Neural Networks for CMB Polarization Foreground Removal</a></div></td>
+<td>Luca Gomez Bachar et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12364">2603.12364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15332.html">Calibrating spectral siren cosmology with synthetic catalogs of binary black hole mergers</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Arianna Scarpa et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15332">2603.15332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12032.html">Assessing the robustness of amortized simulation-based inference to transient noise in gravitational-wave ringdowns</a></div></td>
+<td>Song-Tao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12032">2603.12032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19911.html">Adding equatorial-asymmetric effects for spin-precessing binaries into the SEOBNRv5PHM waveform model</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Héctor Estellés et al.</td>
+<td><a href="http://arxiv.org/abs/2506.19911">2506.19911</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00699.html">Deep learning-based astronomical multimodal data fusion: A comprehensive review</a></div></td>
+<td>Wujun Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2603.00699">2603.00699</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13714.html">Gravitational-wave signatures of nonviolent nonlocality</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="ligo-90d.html">ligo</a></div></td>
+<td>Brian C. Seymour et al.</td>
+<td><a href="http://arxiv.org/abs/2411.13714">2411.13714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13154.html">Towards an anomaly detection pipeline for gravitational waves at the Einstein Telescope</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Gianluca Inguglia et al.</td>
+<td><a href="http://arxiv.org/abs/2511.13154">2511.13154</a></td>
+</tr>
+</tbody></table>

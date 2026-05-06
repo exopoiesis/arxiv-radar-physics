@@ -1,0 +1,60 @@
+---
+layout: page
+title: "flow-control (90d)"
+current_tag: flow-control
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>flow-control — 90d</h1>
+  <span class="paper-count">7 papers</span>
+  <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <strong>90d</strong> <a href="flow-control-360d.html">360d</a> <a href="flow-control-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09434.html">Physics-guided surrogate learning enables zero-shot control of turbulent wings</a></div></td>
+<td>Yuning Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.09434">2604.09434</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22795.html">Load constrained wind farm flow control through multi-objective multi-agent reinforcement learning</a></div></td>
+<td>Teodor Åstrand et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22795">2604.22795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04742.html">Employing Deep Neural Operators for PDE control by decoupling training and optimization</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Oliver G. S. Lundqvist et al.</td>
+<td><a href="http://arxiv.org/abs/2506.04742">2506.04742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04986.html">Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
+<td>Zesheng Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.04986">2604.04986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07678.html">Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Xinyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.07678">2603.07678</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23550.html">Clustering the Flow: A Data-Driven Framework for Pattern Discovery in Fluid Dynamics</a></div></td>
+<td>Juan Angel Martin et al.</td>
+<td><a href="http://arxiv.org/abs/2602.23550">2602.23550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09947.html">Trustworthy Agentic AI Requires Deterministic Architectural Boundaries</a></div></td>
+<td>Manish Bhattarai et al.</td>
+<td><a href="http://arxiv.org/abs/2602.09947">2602.09947</a></td>
+</tr>
+</tbody></table>

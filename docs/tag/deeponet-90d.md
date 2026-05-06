@@ -1,0 +1,300 @@
+---
+layout: page
+title: "deeponet (90d)"
+current_tag: deeponet
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>deeponet — 90d</h1>
+  <span class="paper-count">47 papers</span>
+  <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13746.html">Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network</a></div></td>
+<td>Elham Kiyani et al.</td>
+<td><a href="http://arxiv.org/abs/2512.13746">2512.13746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Purav Matlia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00760.html">Learning the Helmholtz equation operator with DeepONet for non-parametric 2D geometries</a></div></td>
+<td>Rodolphe Barlogis et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00760">2605.00760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11428.html">Diagnosing Failure Modes of Neural Operators Across Diverse PDE Families</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Lennon Shikhman</td>
+<td><a href="http://arxiv.org/abs/2601.11428">2601.11428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19930.html">Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential-Algebraic Systems</a></div></td>
+<td>Huy Hoang Le et al.</td>
+<td><a href="http://arxiv.org/abs/2604.19930">2604.19930</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03248.html">Multimodal Neural Operators for Real-Time Biomechanical Modelling of Traumatic Brain Injury</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Anusha Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2510.03248">2510.03248</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20993.html">Droplet-LNO: Physics-Informed Laplace Neural Operators for Accurate Prediction of Droplet Spreading Dynamics on Complex Surfaces</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Ganesh Sahadeo Meshram et al.</td>
+<td><a href="http://arxiv.org/abs/2604.20993">2604.20993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18507.html">Learning the Riccati solution operator for time-varying LQR via Deep Operator Networks</a></div></td>
+<td>Jun Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18507">2604.18507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19027.html">Neural Operator Representation of Granular Micromechanics-based Failure Envelope</a></div></td>
+<td>Jinkyo Han et al.</td>
+<td><a href="http://arxiv.org/abs/2604.19027">2604.19027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08992.html">Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Dibakar Roy Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08992">2511.08992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17182.html">A DeepONet for inverting the Neumann-to-Dirichlet Operator in Electrical Impedance Tomography: An approximation theoretic perspective and numerical results</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Anuj Abhishek et al.</td>
+<td><a href="http://arxiv.org/abs/2407.17182">2407.17182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11625.html">SCNO: Spiking Compositional Neural Operator -- Towards a Neuromorphic Foundation Model for Nuclear PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Samrendra Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2604.11625">2604.11625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11972.html">Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Wave Dynamics</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Zhiwei Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.11972">2604.11972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Vikas Dwivedi et al.</td>
+<td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04742.html">Employing Deep Neural Operators for PDE control by decoupling training and optimization</a></div><div class="paper-tags"><a href="flow-control-90d.html">flow-control</a></div></td>
+<td>Oliver G. S. Lundqvist et al.</td>
+<td><a href="http://arxiv.org/abs/2506.04742">2506.04742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01349.html">PI-JEPA: Label-Free Surrogate Pretraining for Coupled Multiphysics Simulation via Operator-Split Latent Prediction</a></div></td>
+<td>Brandon Yee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.01349">2604.01349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08076.html">$φ-$DeepONet: A Discontinuity Capturing Neural Operator</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Sumanta Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2604.08076">2604.08076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18288.html">Operator Learning for Schrödinger Equation: Unitarity, Error Bounds, and Time Generalization</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
+<td>Yash Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18288">2505.18288</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21437.html">PVD-ONet: A Multi-scale Neural Operator Method for Singularly Perturbed Boundary Layer Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Tiantian Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2507.21437">2507.21437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04738.html">SetONet: A Set-Based Operator Network for Solving PDEs with Variable-Input Sampling</a></div></td>
+<td>Stepan Tretiakov et al.</td>
+<td><a href="http://arxiv.org/abs/2505.04738">2505.04738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25122.html">Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Guojie Li et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25122">2603.25122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24644.html">Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Debadutta Patra et al.</td>
+<td><a href="http://arxiv.org/abs/2603.24644">2603.24644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12344.html">FEDONet : Fourier-Embedded DeepONet for Spectrally Accurate Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Arth Sojitra et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12344">2509.12344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21683.html">Learning operators on labelled conditional distributions with applications to mean field control of non exchangeable systems</a></div></td>
+<td>Samy Mekkaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21683">2603.21683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22525.html">Adversarial Vulnerabilities in Neural Operator Digital Twins: Gradient-Free Attacks on Nuclear Thermal-Hydraulic Surrogates</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Samrendra Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22525">2603.22525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05133.html">Learning Hidden Physics and System Parameters with Deep Operator Networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Dibakar Roy Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2412.05133">2412.05133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21308.html">Direct Interval Propagation Methods using Neural-Network Surrogates for Uncertainty Quantification in Physical Systems Surrogate Model</a></div></td>
+<td>Ghifari Adam Faza et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21308">2603.21308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18581.html">WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network</a></div></td>
+<td>Haotian Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.18581">2603.18581</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Purna Vindhya Kota et al.</td>
+<td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08005.html">SG-DeepONet: Source-generalized deep operator learning for full waveform inversion</a></div></td>
+<td>Zekai Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2408.08005">2408.08005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17341.html">TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Dibyajyoti Nayak et al.</td>
+<td><a href="http://arxiv.org/abs/2505.17341">2505.17341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04232.html">Soft Actor-Critic with Backstepping-Pretrained DeepONet for control of PDEs</a></div></td>
+<td>Chenchen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2507.04232">2507.04232</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10368.html">Operator Learning for Consolidation: An Architectural Comparison for DeepONet Variants</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Yongjin Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2507.10368">2507.10368</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00359.html">An Interpretable Operator-Learning Model for Electric Field Profile Reconstruction in Discharges Based on the EFISH Method</a></div></td>
+<td>Zhijian Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2512.00359">2512.00359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17198.html">BumpNet: A Sparse MLP Framework for Learning PDE Solutions</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Shao-Ting Chiu et al.</td>
+<td><a href="http://arxiv.org/abs/2512.17198">2512.17198</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15632.html">Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>Changhong Mou et al.</td>
+<td><a href="http://arxiv.org/abs/2602.15632">2602.15632</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02261.html">Quantum AS-DeepOnet: Quantum Attentive Stacked DeepONet for Solving 2D Evolution Equations</a></div></td>
+<td>Hongquan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.02261">2603.02261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05190.html">Physics-Informed Time-Integrated DeepONet: Temporal Tangent Space Operator Learning for High-Accuracy Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Luis Mandl et al.</td>
+<td><a href="http://arxiv.org/abs/2508.05190">2508.05190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24147.html">A neural operator framework for solving inverse scattering problems</a></div></td>
+<td>Victor Chenu et al.</td>
+<td><a href="http://arxiv.org/abs/2602.24147">2602.24147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24228.html">BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Maksym Veremchuk et al.</td>
+<td><a href="http://arxiv.org/abs/2602.24228">2602.24228</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21910.html">The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Alexander Heinlein et al.</td>
+<td><a href="http://arxiv.org/abs/2602.21910">2602.21910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19262.html">A data-driven model-free physical-informed deep operator network for solving nonlinear dynamic system</a></div></td>
+<td>Jieming Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2602.19262">2602.19262</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18362.html">Point-DeepONet: Predicting Nonlinear Fields on Non-Parametric Geometries under Variable Load Conditions</a></div></td>
+<td>Jangseop Park et al.</td>
+<td><a href="http://arxiv.org/abs/2412.18362">2412.18362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Wenqian Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
+<td>Elham Kiyani et al.</td>
+<td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15890.html">Surrogate Modeling for Neutron Transport: A Neural Operator Approach</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Md Hossain Sahadath et al.</td>
+<td><a href="http://arxiv.org/abs/2602.15890">2602.15890</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06842.html">Are Deep Learning Based Hybrid PDE Solvers Reliable? Why Training Paradigms and Update Strategies Matter</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Yuhan Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2602.06842">2602.06842</a></td>
+</tr>
+</tbody></table>

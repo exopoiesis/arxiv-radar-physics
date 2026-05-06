@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2505.10949">
+<h1 class="abstract-title">FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks</h1>
+<p class="abstract-authors">Chenhui Xu, Dancheng Liu, Amir Nassereldine, Jinjun Xiong</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2505.10949" rel="nofollow noopener">arXiv:2505.10949</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2025-05-16</span><span class="sep">·</span><span>Updated 2025-11-28</span></p>
+<div class="abstract-body">Physics Informed Neural Networks (PINNs) often exhibit failure modes in which the PDE residual loss converges while the solution error stays large, a phenomenon traditionally blamed on local optima separated from the true solution by steep loss barriers. We challenge this understanding by demonstrate that the real culprit is insufficient arithmetic precision: with standard FP32, the LBFGS optimizer prematurely satisfies its convergence test, freezing the network in a spurious failure phase. Simply upgrading to FP64 rescues optimization, enabling vanilla PINNs to solve PDEs without any failure modes. These results reframe PINN failure modes as precision induced stalls rather than inescapable local minima and expose a three stage training dynamic unconverged, failure, success whose boundaries shift with numerical precision. Our findings emphasize that rigorous arithmetic precision is the key to dependable PDE solving with neural networks.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Scientific Machine Learning &amp; PINNs</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/pinns-30d.html">pinns</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2505.10949" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2505.10949" rel="nofollow noopener">PDF</a></p>
+</article>

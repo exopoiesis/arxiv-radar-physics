@@ -1,0 +1,552 @@
+---
+layout: page
+title: "tensor-networks (all)"
+current_tag: tensor-networks
+current_window: all
+---
+
+<header class="tag-header">
+  <h1>tensor-networks — all</h1>
+  <span class="paper-count">89 papers</span>
+  <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <strong>all</strong></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15030.html">Anomaly Detection from a Tensor Train Perspective</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Alejandro Mata Ali et al.</td>
+<td><a href="http://arxiv.org/abs/2409.15030">2409.15030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02385.html">Entanglement is Half the Story: Post-Selection vs. Partial Traces</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Gustav J L Jäger et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02385">2605.02385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04015.html">Atomistic Machine Learning with Irreducible Cartesian Natural Tensors</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Qun Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2510.04015">2510.04015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25755.html">Quantum-Inspired Robust and Scalable SAR Object Classification</a></div></td>
+<td>Maximilian Scharf et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25755">2604.25755</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19780.html">Tensor Network Estimation of Distribution Algorithms</a></div></td>
+<td>John Gardiner et al.</td>
+<td><a href="http://arxiv.org/abs/2412.19780">2412.19780</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05050.html">Hybrid between biologically and quantum-inspired many-body states</a></div></td>
+<td>Miha Srdinšek et al.</td>
+<td><a href="http://arxiv.org/abs/2506.05050">2506.05050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15427.html">Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google&#x27;s Quantum Echoes Experiment</a></div></td>
+<td>Pablo Bermejo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15427">2604.15427</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15554.html">Natural gradient descent with momentum</a></div></td>
+<td>Anthony Nouy et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15554">2604.15554</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14287.html">Quantum-inspired tensor networks in machine learning models</a></div></td>
+<td>Guillermo Valverde et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14287">2604.14287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06119.html">Tensor-Parallel Emulation of Quantum Circuits with Block-Cyclic Distributed Matrix Product States</a></div></td>
+<td>Jakub Adamski et al.</td>
+<td><a href="http://arxiv.org/abs/2505.06119">2505.06119</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09263.html">Natural Riemannian gradient for learning functional tensor networks</a></div></td>
+<td>Nikolas Klug et al.</td>
+<td><a href="http://arxiv.org/abs/2604.09263">2604.09263</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>Cesar A. Amaral et al.</td>
+<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06265.html">SMT-AD: a scalable quantum-inspired anomaly detection approach</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Apimuk Sornsaeng et al.</td>
+<td><a href="http://arxiv.org/abs/2604.06265">2604.06265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26461.html">Neuro-Symbolic Process Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Devashish Gaikwad et al.</td>
+<td><a href="http://arxiv.org/abs/2603.26461">2603.26461</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26604.html">Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Sagar Addepalli et al.</td>
+<td><a href="http://arxiv.org/abs/2603.26604">2603.26604</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25066.html">Neural Operator Quantum State: A Foundation Model for Quantum Dynamics</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
+<td>Zihao Qi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25066">2603.25066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19805.html">Quantifying Gate Contribution in Quantum Feature Maps for Scalable Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>F. Rodríguez-Díaz et al.</td>
+<td><a href="http://arxiv.org/abs/2603.19805">2603.19805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21599.html">SHAP Meets Tensor Networks: Provably Tractable Explanations with Parallelism</a></div></td>
+<td>Reda Marzouk et al.</td>
+<td><a href="http://arxiv.org/abs/2510.21599">2510.21599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07387.html">Approximating Tensor Network Contraction with Sketches</a></div></td>
+<td>Mike Heddes et al.</td>
+<td><a href="http://arxiv.org/abs/2603.07387">2603.07387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00453.html">Neurosymbolic Learning for Advanced Persistent Threat Detection under Extreme Class Imbalance</a></div></td>
+<td>Quhura Fathima et al.</td>
+<td><a href="http://arxiv.org/abs/2603.00453">2603.00453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14167.html">TensorCircuit-NG: A Universal, Composable, and Scalable Platform for Quantum Computing and Quantum Simulation</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>Shi-Xin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14167">2602.14167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21767.html">Quantum-inspired space-time PDE solver and dynamic mode decomposition</a></div></td>
+<td>Raghavendra Dheeraj Peddinti et al.</td>
+<td><a href="http://arxiv.org/abs/2510.21767">2510.21767</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06475.html">Successive randomized compression: A randomized algorithm for the compressed MPO-MPS product</a></div></td>
+<td>Chris Camaño et al.</td>
+<td><a href="http://arxiv.org/abs/2504.06475">2504.06475</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04239.html">Benchmarking Quantum and Classical Algorithms for the 1D Burgers Equation: QTN, HSE, and PINN</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
+<td>Vanshaj Kerni et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04239">2602.04239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12596.html">Constructing 3D Rotational Invariance and Equivariance with Symmetric Tensor Networks</a></div></td>
+<td>Meng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2508.12596">2508.12596</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10801.html">Towards Tensor Network Models for Low-Latency Jet Tagging on FPGAs</a></div><div class="paper-tags"><a href="jet-tagging-all.html">jet-tagging</a></div></td>
+<td>Alberto Coppi et al.</td>
+<td><a href="http://arxiv.org/abs/2601.10801">2601.10801</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03302.html">Fourier Neural Operators for Learning Dynamics in Quantum Spin Systems</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Freya Shah et al.</td>
+<td><a href="http://arxiv.org/abs/2409.03302">2409.03302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03839.html">Logic Tensor Network-Enhanced Generative Adversarial Network</a></div></td>
+<td>Nijesh Upreti et al.</td>
+<td><a href="http://arxiv.org/abs/2601.03839">2601.03839</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23917.html">Tensor Computing Interface: An Application-Oriented, Lightweight Interface for Portable High-Performance Tensor Network Applications</a></div></td>
+<td>Rong-Yang Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2512.23917">2512.23917</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23750.html">Machine Learning Invariants of Tensors</a></div></td>
+<td>Athithan Elamaran et al.</td>
+<td><a href="http://arxiv.org/abs/2512.23750">2512.23750</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19389.html">Tree tensor networks for many-body localization in two dimensions</a></div></td>
+<td>Lars Humpert et al.</td>
+<td><a href="http://arxiv.org/abs/2512.19389">2512.19389</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18059.html">Approximation and learning with compositional tensor trains</a></div></td>
+<td>Martin Eigel et al.</td>
+<td><a href="http://arxiv.org/abs/2512.18059">2512.18059</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17090.html">How to Square Tensor Networks and Circuits Without Squaring Them</a></div></td>
+<td>Lorenzo Loconte et al.</td>
+<td><a href="http://arxiv.org/abs/2512.17090">2512.17090</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15875.html">Tree Tensor Networks Methods for Efficient Calculation of Molecular Vibrational Spectra</a></div></td>
+<td>Shuo Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2512.15875">2512.15875</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07814.html">Optimal sampling for least squares approximation with general dictionaries</a></div></td>
+<td>Philipp Trunschke et al.</td>
+<td><a href="http://arxiv.org/abs/2407.07814">2407.07814</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02532.html">Laplace Approximation For Tensor Train Kernel Machines In System Identification</a></div></td>
+<td>Albert Saiapin et al.</td>
+<td><a href="http://arxiv.org/abs/2512.02532">2512.02532</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06251.html">Synthetic Data Generation and Differential Privacy using Tensor Networks&#x27; Matrix Product States (MPS)</a></div></td>
+<td>Alejandro Moreno R. et al.</td>
+<td><a href="http://arxiv.org/abs/2508.06251">2508.06251</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11346.html">Fast and Expressive Multi-Token Prediction with Probabilistic Circuits</a></div></td>
+<td>Andreas Grivas et al.</td>
+<td><a href="http://arxiv.org/abs/2511.11346">2511.11346</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09233.html">Tensor Network Framework for Forecasting Nonlinear and Chaotic Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Jia-Bin You et al.</td>
+<td><a href="http://arxiv.org/abs/2511.09233">2511.09233</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26543.html">The Structure of Relation Decoding Linear Operators in Large Language Models</a></div></td>
+<td>Miranda Anna Christ et al.</td>
+<td><a href="http://arxiv.org/abs/2510.26543">2510.26543</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08329.html">Neuralized Fermionic Tensor Networks for Quantum Many-Body Systems</a></div></td>
+<td>Si-Jing Du et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08329">2506.08329</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01168.html">LimTDD: A Compact Decision Diagram Integrating Tensor and Local Invertible Map Representations</a></div></td>
+<td>Xin Hong et al.</td>
+<td><a href="http://arxiv.org/abs/2504.01168">2504.01168</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14871.html">Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models</a></div></td>
+<td>Ryan Solgi et al.</td>
+<td><a href="http://arxiv.org/abs/2505.14871">2505.14871</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06361.html">Diffusion-Guided Renormalization of Neural Systems via Tensor Networks</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Nathan X. Kodama</td>
+<td><a href="http://arxiv.org/abs/2510.06361">2510.06361</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21726.html">Riemannian Optimization on Tree Tensor Networks with Application in Machine Learning</a></div></td>
+<td>Marius Willner et al.</td>
+<td><a href="http://arxiv.org/abs/2507.21726">2507.21726</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13237.html">Non-zero noise extrapolation: accurately simulating noisy quantum circuits with tensor networks</a></div></td>
+<td>Anthony P. Thompson et al.</td>
+<td><a href="http://arxiv.org/abs/2501.13237">2501.13237</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22399.html">Integrating Background Knowledge in Medical Semantic Segmentation with Logic Tensor Networks</a></div></td>
+<td>Luca Bergamin et al.</td>
+<td><a href="http://arxiv.org/abs/2509.22399">2509.22399</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23537.html">Domain-Aware Tensor Network Structure Search</a></div></td>
+<td>Giorgos Iacovides et al.</td>
+<td><a href="http://arxiv.org/abs/2505.23537">2505.23537</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11980.html">Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Rupayan Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2509.11980">2509.11980</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03911.html">Explaining Anomalies with Tensor Networks</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Hans Hohenfeld et al.</td>
+<td><a href="http://arxiv.org/abs/2505.03911">2505.03911</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21253.html">Reinforcement Learning for Optimizing Large Qubit Array based Quantum Sensor Circuits</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Laxmisha Ashok Attisara et al.</td>
+<td><a href="http://arxiv.org/abs/2508.21253">2508.21253</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20711.html">Hamiltonian Learning of Triplon Excitations in an Artificial Nanoscale Molecular Quantum Magnet</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
+<td>Rouven Koch et al.</td>
+<td><a href="http://arxiv.org/abs/2504.20711">2504.20711</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19409.html">Numerical Optimization for Tensor Disentanglement</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Julia Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2508.19409">2508.19409</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03140.html">HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Ibne Farabi Shihab et al.</td>
+<td><a href="http://arxiv.org/abs/2505.03140">2505.03140</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05169.html">Hybrid quantum tensor networks for aeroelastic applications</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>M. Lautaro Hickmann et al.</td>
+<td><a href="http://arxiv.org/abs/2508.05169">2508.05169</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17170.html">Advancing Quantum State Preparation Using Decision Diagram with Local Invertible Maps</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Xin Hong et al.</td>
+<td><a href="http://arxiv.org/abs/2507.17170">2507.17170</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23346.html">Transfer entropy and O-information to detect grokking in tensor network multi-class classification problems</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Domenico Pomarico et al.</td>
+<td><a href="http://arxiv.org/abs/2507.23346">2507.23346</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19276.html">Hybrid tensor network and neural network quantum states for quantum chemistry</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Zibo Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2507.19276">2507.19276</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21640.html">A Survey on Continuous Variable Quantum Key Distribution for Secure Data Transmission: Toward the Future of Secured Quantum-Networks</a></div></td>
+<td>Mobin Motaharifar et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21640">2506.21640</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14569.html">Enhancing Symbolic Machine Learning by Subsymbolic Representations</a></div></td>
+<td>Stephen Roth et al.</td>
+<td><a href="http://arxiv.org/abs/2506.14569">2506.14569</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03686.html">GenTT: Generate Vectorized Codes for General Tensor Permutation</a></div></td>
+<td>Yaojian Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2506.03686">2506.03686</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02105.html">Learning Circuits with Infinite Tensor Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Joe Gibbs et al.</td>
+<td><a href="http://arxiv.org/abs/2506.02105">2506.02105</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00102.html">Tensor Network for Anomaly Detection in the Latent Space of Proton Collision Events at the LHC</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Ema Puljak et al.</td>
+<td><a href="http://arxiv.org/abs/2506.00102">2506.00102</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17441.html">A Matrix Product State Model for Simultaneous Classification and Generation</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Alex Mossi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.17441">2406.17441</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08626.html">Tensor networks for quantum computing</a></div><div class="paper-tags"><a href="quantum-error-correction-all.html">quantum-error-correction</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Aleksandr Berezutskii et al.</td>
+<td><a href="http://arxiv.org/abs/2503.08626">2503.08626</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14995.html">Trainable Quantum Neural Network for Multiclass Image Classification with the Power of Pre-trained Tree Tensor Networks</a></div></td>
+<td>Keisuke Murota et al.</td>
+<td><a href="http://arxiv.org/abs/2504.14995">2504.14995</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12037.html">Integrating Neural Networks and Tensor Networks for Computing Free Energy</a></div></td>
+<td>Hanyan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2504.12037">2504.12037</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05989.html">Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem</a></div></td>
+<td>Aitor Morais et al.</td>
+<td><a href="http://arxiv.org/abs/2504.05989">2504.05989</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02654.html">SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning</a></div></td>
+<td>Ivo Amador et al.</td>
+<td><a href="http://arxiv.org/abs/2504.02654">2504.02654</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02667.html">Compositionality Unlocks Deep Interpretable Models</a></div></td>
+<td>Thomas Dooms et al.</td>
+<td><a href="http://arxiv.org/abs/2504.02667">2504.02667</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10483.html">Grokking as an entanglement transition in tensor network machine learning</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
+<td>Domenico Pomarico et al.</td>
+<td><a href="http://arxiv.org/abs/2503.10483">2503.10483</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13090.html">tn4ml: Tensor Network Training and Customization for Machine Learning</a></div></td>
+<td>Ema Puljak et al.</td>
+<td><a href="http://arxiv.org/abs/2502.13090">2502.13090</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05245.html">Gaussian Models to Non-Gaussian Realms of Quantum Photonic Simulators</a></div></td>
+<td>Dennis Delali Kwesi Wayo et al.</td>
+<td><a href="http://arxiv.org/abs/2502.05245">2502.05245</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12118.html">Regularized dynamical parametric approximation of stiff evolution problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Christian Lubich et al.</td>
+<td><a href="http://arxiv.org/abs/2501.12118">2501.12118</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07883.html">On Faster Marginalization with Squared Circuits via Orthonormalization</a></div></td>
+<td>Lorenzo Loconte et al.</td>
+<td><a href="http://arxiv.org/abs/2412.07883">2412.07883</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17497.html">Advantages of density in tensor network geometries for gradient based training</a></div></td>
+<td>Sergi Masot-Llima et al.</td>
+<td><a href="http://arxiv.org/abs/2412.17497">2412.17497</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.00858.html">A parallel Basis Update and Galerkin Integrator for Tree Tensor Networks</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Gianluca Ceruti et al.</td>
+<td><a href="http://arxiv.org/abs/2412.00858">2412.00858</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18921.html">Effective temperature in approximate quantum many-body states</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
+<td>Yu-Qin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2411.18921">2411.18921</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16075.html">Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
+<td>Lorenzo Borella et al.</td>
+<td><a href="http://arxiv.org/abs/2409.16075">2409.16075</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16045.html">LTNtorch: PyTorch Implementation of Logic Tensor Networks</a></div></td>
+<td>Tommaso Carraro et al.</td>
+<td><a href="http://arxiv.org/abs/2409.16045">2409.16045</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
+<td>Lorenzo Brevi et al.</td>
+<td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Siddhant Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16453.html">Phase diagram of the J1-J2 Heisenberg second-order topological quantum magnet</a></div></td>
+<td>Pascal M. Vecsei et al.</td>
+<td><a href="http://arxiv.org/abs/2408.16453">2408.16453</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01452.html">From high-dimensional committors to reactive insights</a></div></td>
+<td>Nils E. Strand et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01452">2406.01452</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05011.html">Survey on Computational Applications of Tensor Network Simulations</a></div></td>
+<td>Marcos Díez García et al.</td>
+<td><a href="http://arxiv.org/abs/2408.05011">2408.05011</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11327.html">Accurate Numerical Simulations of Open Quantum Systems Using Spectral Tensor Trains</a></div></td>
+<td>Ryan T. Grimm et al.</td>
+<td><a href="http://arxiv.org/abs/2407.11327">2407.11327</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11133.html">Discrete generative diffusion models without stochastic differential equations: a tensor network approach</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Luke Causer et al.</td>
+<td><a href="http://arxiv.org/abs/2407.11133">2407.11133</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07735.html">Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare</a></div></td>
+<td>Amandeep Singh Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07735">2405.07735</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11870.html">Sisteme Hibride de Invatare Automata si Aplicatii</a></div></td>
+<td>Eduard Hogea et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11870">2406.11870</a></td>
+</tr>
+</tbody></table>

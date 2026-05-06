@@ -1,0 +1,450 @@
+---
+layout: page
+title: "quantum-error-correction (all)"
+current_tag: quantum-error-correction
+current_window: all
+---
+
+<header class="tag-header">
+  <h1>quantum-error-correction — all</h1>
+  <span class="paper-count">72 papers</span>
+  <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <strong>all</strong></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07808.html">LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout</a></div></td>
+<td>M. A. Farooq et al.</td>
+<td><a href="http://arxiv.org/abs/2512.07808">2512.07808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22149.html">Low Latency GNN Accelerator for Quantum Error Correction</a></div></td>
+<td>Alessio Cicero et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22149">2603.22149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00038.html">Lottery BP: Unlocking Quantum Error Decoding at Scale</a></div></td>
+<td>Yanzhang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00038">2605.00038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12483.html">A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding</a></div></td>
+<td>Hoang Viet Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2601.12483">2601.12483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21287.html">StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis</a></div></td>
+<td>Andres Paz et al.</td>
+<td><a href="http://arxiv.org/abs/2604.21287">2604.21287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14781.html">ParaToric 1.0: Continuous-time quantum Monte Carlo for the toric code in a parallel field</a></div></td>
+<td>Simon M. Linsel et al.</td>
+<td><a href="http://arxiv.org/abs/2510.14781">2510.14781</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15666.html">Explainable quantum regression algorithm with encoded data structure</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>C. -C. Joseph Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15666">2604.15666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01164.html">Diversity Methods for Improving Convergence and Accuracy of Quantum Error Correction Decoders Through Hardware Emulation</a></div></td>
+<td>Francisco Garcia-Herrero et al.</td>
+<td><a href="http://arxiv.org/abs/2504.01164">2504.01164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11552.html">Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction</a></div></td>
+<td>Nico Meyer et al.</td>
+<td><a href="http://arxiv.org/abs/2506.11552">2506.11552</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08358.html">Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation</a></div></td>
+<td>Andi Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.08358">2604.08358</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05587.html">ResearchEVO: An End-to-End Framework for Automated Scientific Discovery and Documentation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Zhe Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.05587">2604.05587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11593.html">Qubit-centric Transformer for Surface Code Decoding</a></div></td>
+<td>Seong-Joon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2510.11593">2510.11593</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18847.html">El Agente Cuantico: Automating quantum simulations</a></div></td>
+<td>Ignacio Gustin et al.</td>
+<td><a href="http://arxiv.org/abs/2512.18847">2512.18847</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19253.html">Quantum feedback control with a transformer neural network architecture</a></div></td>
+<td>Pranav Vaidhyanathan et al.</td>
+<td><a href="http://arxiv.org/abs/2411.19253">2411.19253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08267.html">Enhancing Circuit Fidelity in Transmon Qubit Rings via Operation Duration Tuning under Strong Connectivity Noise</a></div></td>
+<td>Quan Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08267">2511.08267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15361.html">USDs: A universal stabilizer decoder framework using symmetry</a></div></td>
+<td>Hoshitaro Ohnishi et al.</td>
+<td><a href="http://arxiv.org/abs/2601.15361">2601.15361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21707.html">Optimizing continuous-time quantum error correction for arbitrary noise</a></div></td>
+<td>Anirudh Lanka et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21707">2506.21707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18953.html">Reinforcement Learning for Quantum Technology</a></div></td>
+<td>Marin Bukov et al.</td>
+<td><a href="http://arxiv.org/abs/2601.18953">2601.18953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09921.html">Learning to Decode in Parallel: Self-Coordinating Neural Network for Real-Time Quantum Error Correction</a></div></td>
+<td>Kai Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2601.09921">2601.09921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07223.html">Quantum Error Correction and Detection for Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Eromanga Adermann et al.</td>
+<td><a href="http://arxiv.org/abs/2601.07223">2601.07223</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08014.html">Learning Better Error Correction Codes with Hybrid Quantum-Assisted Machine Learning</a></div></td>
+<td>Yariv Yanay</td>
+<td><a href="http://arxiv.org/abs/2601.08014">2601.08014</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00242.html">Neural Minimum Weight Perfect Matching for Quantum Error Codes</a></div></td>
+<td>Yotam Peled et al.</td>
+<td><a href="http://arxiv.org/abs/2601.00242">2601.00242</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14543.html">Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography</a></div></td>
+<td>Changchun Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2512.14543">2512.14543</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11307.html">QGEC : Quantum Golay Code Error Correction</a></div></td>
+<td>Hideo Mukai et al.</td>
+<td><a href="http://arxiv.org/abs/2512.11307">2512.11307</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25982.html">Enabling Fast and Accurate Neutral Atom Readout through Image Denoising</a></div></td>
+<td>Chaithanya Naik Mude et al.</td>
+<td><a href="http://arxiv.org/abs/2510.25982">2510.25982</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22593.html">An Optimal Framework for Constructing Lie-Algebra Generator Pools: Application to Variational Quantum Eigensolvers for Chemistry</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="vqe-all.html">vqe</a></div></td>
+<td>Yaromir Viswanathan et al.</td>
+<td><a href="http://arxiv.org/abs/2511.22593">2511.22593</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11198.html">Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin</a></div></td>
+<td>Hang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2508.11198">2508.11198</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12443.html">Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance</a></div></td>
+<td>Changchun Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2511.12443">2511.12443</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12482.html">Discovering autonomous quantum error correction via deep reinforcement learning</a></div></td>
+<td>Yue Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2511.12482">2511.12482</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18954.html">Almost fault-tolerant quantum machine learning with drastic overhead reduction</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Haiyue Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2507.18954">2507.18954</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01741.html">HyperNQ: A Hypergraph Neural Network Decoder for Quantum LDPC Codes</a></div></td>
+<td>Ameya S. Bhave et al.</td>
+<td><a href="http://arxiv.org/abs/2511.01741">2511.01741</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22724.html">Scalable Neural Decoders for Practical Real-Time Quantum Error Correction</a></div></td>
+<td>Changwon Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2510.22724">2510.22724</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22227.html">Autonomous Floquet Engineering of Bosonic Codes via Reinforcement Learning</a></div></td>
+<td>Zheping Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2510.22227">2510.22227</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06257.html">Toward Uncertainty-Aware and Generalizable Neural Decoding for Quantum LDPC Codes</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Xiangjun Mi et al.</td>
+<td><a href="http://arxiv.org/abs/2510.06257">2510.06257</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22347.html">Decoding quantum low density parity check codes with diffusion</a></div></td>
+<td>Zejun Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2509.22347">2509.22347</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12832.html">The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning</a></div></td>
+<td>Atta ur Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12832">2509.12832</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16242.html">Machine Learning for Quantum Noise Reduction</a></div></td>
+<td>Karan Kendre</td>
+<td><a href="http://arxiv.org/abs/2509.16242">2509.16242</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12782.html">Designing Shadow Tomography Protocols by Natural Language Processing</a></div></td>
+<td>Yadong Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12782">2509.12782</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10164.html">A Symmetry-Integrated Approach to Surface Code Decoding</a></div></td>
+<td>Hoshitaro Ohnishi et al.</td>
+<td><a href="http://arxiv.org/abs/2509.10164">2509.10164</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08890.html">Machine learning the effects of many quantum measurements</a></div></td>
+<td>Wanda Hou et al.</td>
+<td><a href="http://arxiv.org/abs/2509.08890">2509.08890</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02683.html">Improving Hardware Requirements for Fault-Tolerant Quantum Computing by Optimizing Error Budget Distributions</a></div></td>
+<td>Tobias Forster et al.</td>
+<td><a href="http://arxiv.org/abs/2509.02683">2509.02683</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00679.html">Expedited Noise Spectroscopy of Transmon Qubits</a></div></td>
+<td>Bhavesh Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2502.00679">2502.00679</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06984.html">GAN decoder on a quantum toric code for noise-robust quantum teleportation</a></div></td>
+<td>Jiaxin Li et al.</td>
+<td><a href="http://arxiv.org/abs/2409.06984">2409.06984</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03783.html">Probing and Enhancing the Robustness of GNN-based QEC Decoders with Reinforcement Learning</a></div></td>
+<td>Ryota Ikeda</td>
+<td><a href="http://arxiv.org/abs/2508.03783">2508.03783</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03782.html">Do GNN-based QEC Decoders Require Classical Knowledge? Evaluating the Efficacy of Knowledge Distillation from MWPM</a></div></td>
+<td>Ryota Ikeda</td>
+<td><a href="http://arxiv.org/abs/2508.03782">2508.03782</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15698.html">Entanglement-enhanced randomized measurement in noisy quantum devices</a></div></td>
+<td>Gyungmin Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2504.15698">2504.15698</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14383.html">Quantum Internet in a Nutshell -- Advancing Quantum Communication with Ion Traps</a></div></td>
+<td>Janine Hilder et al.</td>
+<td><a href="http://arxiv.org/abs/2507.14383">2507.14383</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08536.html">Enhancing Decoding Performance using Efficient Error Learning</a></div></td>
+<td>Pavithran Iyer et al.</td>
+<td><a href="http://arxiv.org/abs/2507.08536">2507.08536</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07121.html">Introduction to Quantum Error Correction with Stabilizer Codes</a></div></td>
+<td>Zachary P. Bradshaw et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07121">2507.07121</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18090.html">High-Level Surface Code Decoding via Parallel FFNNs on CIM Platforms</a></div></td>
+<td>Hao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2411.18090">2411.18090</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14557.html">Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction</a></div></td>
+<td>Charlie Campbell et al.</td>
+<td><a href="http://arxiv.org/abs/2504.14557">2504.14557</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18685.html">Real-time adaptation of quantum noise channel estimates</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Lucas Daguerre et al.</td>
+<td><a href="http://arxiv.org/abs/2501.18685">2501.18685</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20661.html">Architectural mechanisms of a universal fault-tolerant quantum computer</a></div></td>
+<td>Dolev Bluvstein et al.</td>
+<td><a href="http://arxiv.org/abs/2506.20661">2506.20661</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16113.html">Fully convolutional 3D neural network decoders for surface codes with syndrome circuit noise</a></div></td>
+<td>Spiro Gicev et al.</td>
+<td><a href="http://arxiv.org/abs/2506.16113">2506.16113</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06422.html">Low bit-flip rate probabilistic error cancellation</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Mathys Rennela et al.</td>
+<td><a href="http://arxiv.org/abs/2411.06422">2411.06422</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11523.html">Improved Belief Propagation Decoding Algorithms for Surface Codes</a></div></td>
+<td>Jiahan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2407.11523">2407.11523</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08626.html">Tensor networks for quantum computing</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
+<td>Aleksandr Berezutskii et al.</td>
+<td><a href="http://arxiv.org/abs/2503.08626">2503.08626</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20842.html">Language Model for Large-Text Transmission in Noisy Quantum Communications</a></div></td>
+<td>Yuqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2504.20842">2504.20842</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19651.html">Fooling the Decoder: An Adversarial Attack on Quantum Error Correction</a></div></td>
+<td>Jerome Lenssen et al.</td>
+<td><a href="http://arxiv.org/abs/2504.19651">2504.19651</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06775.html">Variational Quantum Machine Learning with Quantum Error Detection</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Eromanga Adermann et al.</td>
+<td><a href="http://arxiv.org/abs/2504.06775">2504.06775</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21374.html">Generative Decoding for Quantum Error-correcting Codes</a></div></td>
+<td>Hanyan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2503.21374">2503.21374</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08982.html">Efficient and Scalable Architectures for Multi-Level Superconducting Qubit Readout</a></div></td>
+<td>Chaithanya Naik Mude et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08982">2405.08982</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03544.html">KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA</a></div></td>
+<td>Xiaorang Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2503.03544">2503.03544</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20269.html">On the interpretability of neural network decoders</a></div></td>
+<td>Lukas Bödeker et al.</td>
+<td><a href="http://arxiv.org/abs/2502.20269">2502.20269</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03582.html">Exact Decoding of Repetition Code under Circuit Level Noise</a></div></td>
+<td>Hanyan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2501.03582">2501.03582</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02513.html">Linear Optics to Scalable Photonic Quantum Computing</a></div></td>
+<td>Dennis Delali Kwesi Wayo et al.</td>
+<td><a href="http://arxiv.org/abs/2501.02513">2501.02513</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20380.html">Artificial Intelligence for Quantum Error Correction: A Comprehensive Review</a></div></td>
+<td>Zihao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2412.20380">2412.20380</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14647.html">AI-Enabled Rapid Assembly of Thousands of Defect-Free Neutral Atom Arrays with Constant-time-overhead</a></div></td>
+<td>Rui Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2412.14647">2412.14647</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13248.html">Topological Quantum Spin Glass Order and its realization in qLDPC codes</a></div></td>
+<td>Benedikt Placke et al.</td>
+<td><a href="http://arxiv.org/abs/2412.13248">2412.13248</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15328.html">Artificially intelligent Maxwell&#x27;s demon for optimal control of open quantum systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
+<td>Paolo Andrea Erdman et al.</td>
+<td><a href="http://arxiv.org/abs/2408.15328">2408.15328</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14272.html">Theoretical framework for quantum associative memories</a></div></td>
+<td>Adrià Labay-Mora et al.</td>
+<td><a href="http://arxiv.org/abs/2408.14272">2408.14272</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17543.html">The MQT Handbook: A Summary of Design Automation Tools and Software for Quantum Computing</a></div></td>
+<td>Robert Wille et al.</td>
+<td><a href="http://arxiv.org/abs/2405.17543">2405.17543</a></td>
+</tr>
+</tbody></table>

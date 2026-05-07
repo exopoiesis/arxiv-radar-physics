@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">704 papers</span>
+  <span class="paper-count">702 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4226,17 +4226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11546.html">Control Invariant Sets for Neural Network Dynamical Systems and Recursive Feasibility in Model Predictive Control</a></div></td>
 <td>Xiao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11546">2505.11546</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06806.html">Kernel Dynamic Mode Decomposition For Sparse Reconstruction of Closable Koopman Operators</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Nishant Panda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06806">2505.06806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06943.html">Robust Control of Uncertain Switched Affine Systems via Scenario Optimization</a></div></td>
-<td>Negar Monir et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06943">2505.06943</a></td>
 </tr>
 </tbody></table>

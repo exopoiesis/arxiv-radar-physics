@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,17 +1556,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03839.html">Reservoir Predictive Path Integral Control for Unknown Nonlinear Dynamics</a></div></td>
 <td>Daisuke Inoue et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03839">2509.03839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18647.html">STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation</a></div></td>
-<td>Kiet Bennema ten Brinke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18647">2505.18647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12161.html">Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems</a></div></td>
-<td>Tomoki Koike et al.</td>
-<td><a href="http://arxiv.org/abs/2601.12161">2601.12161</a></td>
 </tr>
 </tbody></table>

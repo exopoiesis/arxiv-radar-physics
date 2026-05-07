@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11523.html">Improved Belief Propagation Decoding Algorithms for Surface Codes</a></div></td>
 <td>Jiahan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11523">2407.11523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08626.html">Tensor networks for quantum computing</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Aleksandr Berezutskii et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08626">2503.08626</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06265.html">SMT-AD: a scalable quantum-inspired anomaly detection approach</a></div><div class="paper-tags"><a href="tensor-networks-30d.html">tensor-networks</a></div></td>
 <td>Apimuk Sornsaeng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06265">2604.06265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13256.html">Cyber-Physical Systems Security: A Comprehensive Review of Anomaly Detection Techniques</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Danial Abshari et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13256">2502.13256</a></td>
 </tr>
 </tbody></table>

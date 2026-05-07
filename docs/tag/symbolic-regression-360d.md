@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,11 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07222.html">Compression, Regularity, Randomness and Emergent Structure: Rethinking Physical Complexity in the Data-Driven Era</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Nima Dehghani</td>
 <td><a href="http://arxiv.org/abs/2505.07222">2505.07222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09851.html">SymbolFit: Automatic Parametric Modeling with Symbolic Regression</a></div></td>
-<td>Ho Fung Tsoi et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09851">2411.09851</a></td>
 </tr>
 </tbody></table>

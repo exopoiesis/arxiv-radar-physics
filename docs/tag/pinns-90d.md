@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">185 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1124,17 +1124,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.22283.html">Synergizing Kolmogorov-Arnold Networks with Dynamic Adaptive Weighting for High-Frequency and Multi-Scale PDE Solutions</a></div></td>
 <td>Guokan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2512.22283">2512.22283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05403.html">Advancing Opinion Dynamics Modeling with Neural Diffusion-Convection-Reaction Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Chenghua Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05403">2602.05403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15883.html">Distributed physics-informed neural networks via domain decomposition for fast flow reconstruction</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yixiao Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15883">2602.15883</a></td>
 </tr>
 </tbody></table>

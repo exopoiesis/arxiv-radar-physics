@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,23 +368,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06475.html">AE-ViT: Stable Long-Horizon Parametric Partial Differential Equations Modeling</a></div></td>
 <td>Iva Mikuš et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06475">2604.06475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00203.html">Estimating Parameter Fields in Multi-Physics PDEs from Scarce Measurements</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Xuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00203">2509.00203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04920.html">PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04920">2604.04920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05187.html">FNO$^{\angle θ}$: Extended Fourier neural operator for learning state and optimal control of distributed parameter systems</a></div></td>
-<td>Zhexian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05187">2604.05187</a></td>
 </tr>
 </tbody></table>

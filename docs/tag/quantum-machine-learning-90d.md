@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,17 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06847.html">Consensus Protocols for Entanglement-Aware Scheduling in Distributed Quantum Neural Networks</a></div></td>
 <td>Kuan-Cheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06847">2602.06847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05288.html">Gradient Analysis of Barren Plateau in Parameterized Quantum Circuits with multi-qubit gates</a></div></td>
-<td>Yuhan Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05288">2602.05288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05777.html">Efficient implementation of arbitrary Hermitian-preserving and trace-preserving maps</a></div></td>
-<td>Weizhou Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05777">2602.05777</a></td>
 </tr>
 </tbody></table>

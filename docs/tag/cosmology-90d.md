@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,23 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25596.html">Constraining baryonic feedback and cosmology from DES Y3 and Planck PR4 6$\times$2pt data. I. $Λ$CDM models</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Jiachuan Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25596">2510.25596</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16408.html">Stabilizing simulation-based cosmological Fisher forecasts: a case study using the Voronoi volume function</a></div></td>
-<td>Saee Dhawalikar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16408">2506.16408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05816.html">Bayesian imaging inverse problem with scattering transform</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Sébastien Pierre et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05816">2602.05816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05881.html">Predicting galaxy bias using machine learning</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Catalina Riveros-Jara et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05881">2602.05881</a></td>
 </tr>
 </tbody></table>

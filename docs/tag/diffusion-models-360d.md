@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">617 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,11 +3710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08065.html">InvDesFlow: An AI-driven materials inverse design workflow to explore possible high-temperature superconductors</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2409.08065">2409.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04134.html">M2PDE: Compositional Generative Multiphysics and Multi-component PDE Simulation</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a></div></td>
-<td>Tao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04134">2412.04134</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,35 +1190,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div></td>
 <td>Bowen Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11963.html">Noisy MRI Reconstruction via MAP Estimation with an Implicit Deep-Denoiser Prior</a></div></td>
-<td>Nikola Janjušević et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11963">2511.11963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14980.html">Softly Constrained Denoisers for Diffusion Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Victor M. Yeom-Song et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14980">2512.14980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05812.html">Principled Confidence Estimation for Deep Computed Tomography</a></div></td>
-<td>Matteo Gätzner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05812">2602.05812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06219.html">Coupled Local and Global World Models for Efficient First Order RL</a></div></td>
-<td>Joseph Amigo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06219">2602.06219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07061.html">TACIT: Transformation-Aware Capturing of Implicit Thought</a></div></td>
-<td>Daniel Nobrega</td>
-<td><a href="http://arxiv.org/abs/2602.07061">2602.07061</a></td>
 </tr>
 </tbody></table>

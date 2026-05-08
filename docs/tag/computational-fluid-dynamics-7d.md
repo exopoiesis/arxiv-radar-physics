@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Paul Garnier et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00462.html">Adaptation of AI-accelerated CFD Simulations to the IPU platform</a></div></td>
 <td>P. Rosciszewski et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00462">2605.00462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27431.html">A Study on the Performance of Distributed Training of Data-driven CFD Simulations</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Sergio Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27431">2604.27431</a></td>
 </tr>
 </tbody></table>

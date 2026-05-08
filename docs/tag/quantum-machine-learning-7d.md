@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00747.html">Quantum Interval Bound Propagation for Certified Training of Quantum Neural Networks</a></div></td>
 <td>Emma Andrews et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00747">2605.00747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28176.html">Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders</a></div></td>
-<td>Emma Andrews et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28176">2604.28176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00099.html">Provable and scalable quantum Gaussian processes for quantum learning</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
-<td>Jonas Jäger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00099">2605.00099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00107.html">Efficient Mutation Testing of Quantum Machine Learning Models</a></div></td>
-<td>Emma Andrews et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00107">2605.00107</a></td>
 </tr>
 </tbody></table>

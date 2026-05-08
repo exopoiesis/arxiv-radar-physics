@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
+<td>Javad Komijani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
+<td>Weiqing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
 <td>Jian Xu et al.</td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03802.html">Towards accurate extreme event likelihoods from diffusion model climate emulators</a></div></td>
 <td>Peter Manshausen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03802">2605.03802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04291.html">Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion</a></div></td>
+<td>Tarun Kathuria et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04291">2605.04291</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -1172,23 +1190,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07548.html">Capturing the Topological Phase Transition and Thermodynamics of the 2D XY Model via Manifold-Aware Score-Based Generative Modeling</a></div></td>
 <td>Pratyush Jha</td>
 <td><a href="http://arxiv.org/abs/2602.07548">2602.07548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01989.html">VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a></div></td>
-<td>Tao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01989">2502.01989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06452.html">Exploring Specular Reflection Inconsistency for Generalizable Face Forgery Detection</a></div></td>
-<td>Hongyan Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06452">2602.06452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div></td>
-<td>Bowen Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
 </tr>
 </tbody></table>

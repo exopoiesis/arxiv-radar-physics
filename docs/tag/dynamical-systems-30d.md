@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Jan-Hendrik Ewering et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
@@ -452,59 +458,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07069.html">Controller Design for Structured State-space Models via Contraction Theory</a></div></td>
 <td>Muhammad Zakwan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07069">2604.07069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13469.html">Interpreting Temporal Graph Neural Networks with Koopman Theory</a></div></td>
-<td>Michele Guerra et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13469">2410.13469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13301.html">mNARX+: A surrogate model for complex dynamical systems using manifold-NARX and automatic feature selection</a></div></td>
-<td>S. Schär et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13301">2507.13301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18377.html">Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Markus Gross et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18377">2602.18377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02601.html">WGFINNs: Weak formulation-based GENERIC formalism informed neural networks</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Jun Sur Richard Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02601">2604.02601</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05374.html">LMI-Net: Linear Matrix Inequality--Constrained Neural Networks via Differentiable Projection Layers</a></div></td>
-<td>Sunbochen Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05374">2604.05374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05700.html">Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Li Kunpeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05700">2604.05700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05904.html">Transfer Learning for Neural Parameter Estimation applied to Building RC Models</a></div></td>
-<td>Fabian Raisch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05904">2604.05904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06081.html">A machine learning framework for uncovering stochastic nonlinear dynamics from noisy data</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Matteo Bosso et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06081">2604.06081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06318.html">Introducing sapphire: Towards Hybrid Physics-Informed, Data-Driven Modeling of Galaxy Formation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
-<td>Viraj Pandya et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06318">2604.06318</a></td>
 </tr>
 </tbody></table>

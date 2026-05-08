@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00313.html">Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships</a></div></td>
 <td>Guillaume Lambard</td>
 <td><a href="http://arxiv.org/abs/2605.00313">2605.00313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27636.html">Generative structure search for efficient and diverse discovery of molecular and crystal structures</a></div></td>
-<td>Yifang Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27636">2604.27636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27810.html">Hyper-Dimensional Fingerprints as Molecular Representations</a></div></td>
-<td>Jonas Teufel et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27810">2604.27810</a></td>
 </tr>
 </tbody></table>

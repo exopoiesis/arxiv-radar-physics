@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">826 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,11 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08491.html">Numerical Solution of Mixed-Dimensional PDEs Using a Neural Preconditioner</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Nunzio Dimola et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08491">2505.08491</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07526.html">Saturation theorems for neural network operators by solving elliptic and hyperbolic PDEs with analytical and semi-analytical inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Danilo Costarelli</td>
-<td><a href="http://arxiv.org/abs/2505.07526">2505.07526</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,36 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05921.html">Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery</a></div></td>
+<td>Alex Bäuerle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05921">2605.05921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05985.html">BioResearcher: Scenario-Guided Multi-Agent for Translational Medicine</a></div></td>
+<td>Remigiusz Kinas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05985">2605.05985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04375.html">Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery</a></div></td>
+<td>Zhenning Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04375">2605.04375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04922.html">Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation</a></div></td>
+<td>Jiangwen Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04922">2605.04922</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03101.html">Programmatic Context Augmentation for LLM-based Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Hao Liu et al.</td>
@@ -308,35 +338,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04957.html">FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04957">2604.04957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05930.html">Can We Predict Before Executing Machine Learning Agents?</a></div></td>
-<td>Jingsheng Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.05930">2601.05930</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00185.html">QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00185">2602.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05716.html">Can Large Language Models Reinvent Foundational Algorithms?</a></div></td>
-<td>Jian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05716">2604.05716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06279.html">Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations</a></div></td>
-<td>Ruichen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06279">2604.06279</a></td>
 </tr>
 </tbody></table>

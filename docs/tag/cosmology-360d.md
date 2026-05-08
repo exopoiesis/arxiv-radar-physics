@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,17 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10636.html">Searching optimal scales for reconstructing cosmological initial conditions using convolutional neural networks</a></div></td>
 <td>Koichiro Nakashima et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10636">2505.10636</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10279.html">Constraints on primordial non-Gaussianity from the cross-correlation of DESI Luminous Red Galaxies and $Planck$ CMB lensing</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>J. R. Bermejo-Climent et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10279">2412.10279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01129.html">Reheating ACTs on Starobinsky and Higgs inflation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>D. S. Zharov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01129">2505.01129</a></td>
 </tr>
 </tbody></table>

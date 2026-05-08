@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10158.html">NMRTrans: Structure Elucidation from Experimental NMR Spectra via Set Transformers</a></div></td>
 <td>Liujia Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10158">2602.10158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06550.html">Dynamics-Aligned Shared Hypernetworks for Zero-Shot Actuator Inversion</a></div></td>
-<td>Jan Benad et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06550">2602.06550</a></td>
 </tr>
 </tbody></table>

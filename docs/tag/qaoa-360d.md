@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qaoa — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <a href="qaoa-90d.html">90d</a> <strong>360d</strong> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01335.html">Neural-network-assisted Monte Carlo sampling trained by Quantum Approximate Optimization Algorithm</a></div></td>
 <td>Yuichiro Nakano et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01335">2506.01335</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07163.html">Exact Spin Elimination in Ising Hamiltonians and Energy-Based Machine Learning</a></div></td>
-<td>Natalia G. Berloff</td>
-<td><a href="http://arxiv.org/abs/2505.07163">2505.07163</a></td>
 </tr>
 </tbody></table>

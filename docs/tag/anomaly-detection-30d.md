@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Chia-Hsiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04405.html">Detecting Deepfakes via Hamiltonian Dynamics</a></div></td>
+<td>Harry Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04405">2605.04405</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div></td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06849.html">Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI</a></div></td>
 <td>Fangmao Ju et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06849">2604.06849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06265.html">SMT-AD: a scalable quantum-inspired anomaly detection approach</a></div><div class="paper-tags"><a href="tensor-networks-30d.html">tensor-networks</a></div></td>
-<td>Apimuk Sornsaeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06265">2604.06265</a></td>
 </tr>
 </tbody></table>

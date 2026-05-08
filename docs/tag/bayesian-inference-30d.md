@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06630.html">Quantifying Trade-Offs Between Stability and Goal-Obfuscation</a></div></td>
+<td>Yixuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06630">2605.06630</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03362.html">Predicting and controlling nonlinear neuro-mechanical locomotion dynamics</a></div></td>
 <td>Alexander E. Cohen et al.</td>
@@ -290,11 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04957.html">FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04957">2604.04957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14429.html">Compositional amortized inference for large-scale hierarchical Bayesian models</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Jonas Arruda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14429">2505.14429</a></td>
 </tr>
 </tbody></table>

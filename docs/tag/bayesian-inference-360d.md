@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06630.html">Quantifying Trade-Offs Between Stability and Goal-Obfuscation</a></div></td>
+<td>Yixuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06630">2605.06630</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03362.html">Predicting and controlling nonlinear neuro-mechanical locomotion dynamics</a></div></td>
 <td>Alexander E. Cohen et al.</td>
@@ -2594,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23238.html">Full-waveform earthquake source inversion using simulation-based inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>A. A. Saoulis et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23238">2410.23238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01129.html">Reheating ACTs on Starobinsky and Higgs inflation</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>D. S. Zharov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01129">2505.01129</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,23 +362,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06866.html">A hardware efficient quantum residual neural network without post-selection</a></div></td>
 <td>Amena Khatun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06866">2604.06866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18377.html">Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Markus Gross et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18377">2602.18377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05637.html">Quantum Learning of Classical Correlations with continuous-domain Pauli Correlation Encoding</a></div></td>
-<td>Vicente P. Soloviev et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05637">2604.05637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06523.html">Soft-Quantum Algorithms</a></div></td>
-<td>Basil Kyriacou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06523">2604.06523</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>anomaly-detection — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
+<td>Chia-Hsiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04405.html">Detecting Deepfakes via Hamiltonian Dynamics</a></div></td>
+<td>Harry Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04405">2605.04405</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div></td>
@@ -38,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00322.html">Federated Weather Modeling on Sensor Data</a></div></td>
 <td>Shengchao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00322">2605.00322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27803.html">Hybrid Anomaly Detection for Bullion Coin Authentication Leveraging Acoustic Signature Analysis</a></div></td>
-<td>Krzysztof Siwek et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27803">2604.27803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00162.html">EMBER: Machine-Learning Detection of Modulated Ion Acoustic Waves and Associated Core-Electron Heating in the Solar Wind with Parker Solar Probe</a></div></td>
-<td>Argyro Sasli et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00162">2605.00162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00929.html">PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
-<td>Raviteja Bommireddy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00929">2605.00929</a></td>
 </tr>
 </tbody></table>

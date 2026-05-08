@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
+<td>Anh Vu Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05590">2605.05590</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Chia-Hsiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04565.html">Delay-Aware Large-Small Model Collaboration over LEO Satellite Networks</a></div></td>
+<td>Mingyu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04565">2605.04565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04206.html">Climate-based Pre-screening of Self-sustaining Regreening Opportunities in Drylands: A Case Study for Saudi Arabia</a></div></td>
+<td>Katja Froehlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04206">2605.04206</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23566.html">Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
@@ -38,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02283.html">Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM</a></div></td>
 <td>Hyobin Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02283">2605.02283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
+<td>Ryan Faulkenberry et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-02</td>
@@ -356,29 +386,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06844.html">CloudMamba: An Uncertainty-Guided Dual-Scale Mamba Network for Cloud Detection in Remote Sensing Imagery</a></div></td>
 <td>Jiajun Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06844">2604.06844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07905.html">SatFusion: A Unified Framework for Enhancing Remote Sensing Images via Multi-Frame and Multi-Source Images Fusion</a></div></td>
-<td>Yufei Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07905">2510.07905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22581.html">Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model</a></div></td>
-<td>Naeem Paeedeh et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22581">2601.22581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05629.html">A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting</a></div></td>
-<td>Yongchuan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05629">2604.05629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05689.html">CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration</a></div></td>
-<td>Xuecong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05689">2604.05689</a></td>
 </tr>
 </tbody></table>

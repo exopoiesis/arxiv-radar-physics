@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06237.html">Bayesian Fractional Polynomials for Optimal Dosage Estimation with Fish Nutrition Applications</a></div></td>
+<td>Aliaksandr Hubin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06237">2605.06237</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Jan-Hendrik Ewering et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06255.html">Synthetic Well Log Generation with Preserved Multivariate Correlations and Vertical Facies Stacking Patterns</a></div></td>
+<td>Josue Fonseca et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06255">2605.06255</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06484.html">Estimate Level Adjustment For Inference With Proxies Under Random Distribution Shifts</a></div></td>
+<td>Steven Wilkins-Reeves et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06484">2605.06484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04997.html">DualTCN: A Physics-Constrained Temporal Convolutional Network for 2 Time-Domain Marine CSEM Inversion</a></div></td>
+<td>Khaled Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04997">2605.04997</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03548.html">PerFlow: Physics-Embedded Rectified Flow for Efficient Reconstruction and Uncertainty Quantification of Spatiotemporal Dynamics</a></div></td>
@@ -962,11 +992,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07856.html">Inhomogeneous Priors for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Babak Maboudi Afkham et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07856">2602.07856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02777.html">DUST: A Framework for Data-Driven Density Steering</a></div></td>
-<td>Joshua Pilipovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02777">2408.02777</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21214.html">The Physics Behind ML-based Quark-Gluon Taggers</a></div></td>
 <td>Sophia Vent et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21214">2507.21214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05822.html">Model-independent constraints on generalized FLRW consistency relations with bootstrap-based symbolic regression</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>S. M. Koksbang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05822">2604.05822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06081.html">A machine learning framework for uncovering stochastic nonlinear dynamics from noisy data</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Matteo Bosso et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06081">2604.06081</a></td>
 </tr>
 </tbody></table>

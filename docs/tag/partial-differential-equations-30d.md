@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,17 +356,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08453.html">Hard-constrained Physics-informed Neural Networks for Interface Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Seung Whan Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08453">2604.08453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02617.html">Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Pucheng Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02617">2509.02617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06475.html">AE-ViT: Stable Long-Horizon Parametric Partial Differential Equations Modeling</a></div></td>
-<td>Iva Mikuš et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06475">2604.06475</a></td>
 </tr>
 </tbody></table>

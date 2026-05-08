@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06022.html">Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Tatsuhiro Misumi</td>
+<td><a href="http://arxiv.org/abs/2605.06022">2605.06022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="inverse-problems-7d.html">inverse-problems</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
@@ -80,23 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00385.html">PILIR: Physics-Informed Local Implicit Representation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Jianfeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00385">2605.00385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27298.html">DeepPropNet: an operator learning-based predictor for thermal plasma properties</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Zuo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27298">2604.27298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27610.html">A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management</a></div></td>
-<td>Bahadur Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27610">2604.27610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28180.html">An adaptive wavelet-based PINN for problems with localized high-magnitude source</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Himanshu Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28180">2604.28180</a></td>
 </tr>
 </tbody></table>

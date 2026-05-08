@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
+<td>Javad Komijani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
+<td>Weiqing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a> · <a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03802.html">Towards accurate extreme event likelihoods from diffusion model climate emulators</a></div></td>
 <td>Peter Manshausen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03802">2605.03802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04291.html">Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion</a></div></td>
+<td>Tarun Kathuria et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04291">2605.04291</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -392,29 +410,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17844.html">Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation</a></div></td>
 <td>Shihan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17844">2511.17844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14429.html">Compositional amortized inference for large-scale hierarchical Bayesian models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Jonas Arruda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14429">2505.14429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05700.html">Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Li Kunpeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05700">2604.05700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05727.html">Single-Stage Signal Attenuation Diffusion Model for Low-Light Image Enhancement and Denoising</a></div></td>
-<td>Ying Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05727">2604.05727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05961.html">HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation</a></div></td>
-<td>Tao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05961">2604.05961</a></td>
 </tr>
 </tbody></table>

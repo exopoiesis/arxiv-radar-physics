@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06630.html">Quantifying Trade-Offs Between Stability and Goal-Obfuscation</a></div></td>
+<td>Yixuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06630">2605.06630</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03362.html">Predicting and controlling nonlinear neuro-mechanical locomotion dynamics</a></div></td>
 <td>Alexander E. Cohen et al.</td>
@@ -806,11 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18415.html">Consistency of Variational Inference for Nonlinear Inverse Problems of Partial Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Shaokang Zu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18415">2409.18415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06615.html">Studies on the spin and magnetic inclination evolution of magnetars Swift J1834.9-0846 under wind braking</a></div></td>
-<td>Biaopeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06615">2602.06615</a></td>
 </tr>
 </tbody></table>

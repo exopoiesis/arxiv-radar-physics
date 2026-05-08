@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -110,23 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-30d.html">quantum-many-body-systems</a> · <a href="tensor-networks-30d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Cesar A. Amaral et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16000.html">Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tanxin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16000">2602.16000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05652.html">Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Prashant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05652">2604.05652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16449.html">Gaussian Field Representations for Turbulent Flow: Compression, Scale Separation, and Physical Fidelity</a></div></td>
-<td>Dhanush Vittal Shenoy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16449">2604.16449</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06022.html">Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Tatsuhiro Misumi</td>
+<td><a href="http://arxiv.org/abs/2605.06022">2605.06022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
@@ -1154,23 +1160,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07479.html">ODELoRA: Training Low-Rank Adaptation by Solving Ordinary Differential Equations</a></div></td>
 <td>Yihang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07479">2602.07479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12384.html">Scalable Back-Propagation-Free Training of Optical Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Yequan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12384">2502.12384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08381.html">Physics-informed extreme learning machine for Terzaghi consolidation problems and interpretation of coefficient of consolidation based on CPTu data</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>He Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08381">2506.08381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06884.html">A Cycle-Consistent Graph Surrogate for Full-Cycle Left Ventricular Myocardial Biomechanics</a></div></td>
-<td>Siyu Mu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06884">2602.06884</a></td>
 </tr>
 </tbody></table>

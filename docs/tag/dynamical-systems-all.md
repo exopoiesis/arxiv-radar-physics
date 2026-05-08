@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1034 papers</span>
+  <span class="paper-count">1038 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1912,6 +1912,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2601.08065">2601.08065</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10454.html">Dynamical systems approach to Cold and Warm Inflation within slow-roll and beyond</a></div></td>
+<td>Sandip Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2504.10454">2504.10454</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11338.html">Next-Generation Reservoir Computing for Dynamical Inference</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Rok Cestnik et al.</td>
@@ -2816,6 +2822,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04649.html">End-to-End Learning Framework for Solving Non-Markovian Optimal Control</a></div></td>
 <td>Xiaole Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.04649">2502.04649</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15166.html">Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>Masih Haseli et al.</td>
+<td><a href="http://arxiv.org/abs/2510.15166">2510.15166</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-15</td>
@@ -5777,6 +5789,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16190.html">Estimating Dynamic Flow Features in Groups of Tracked Objects</a></div></td>
+<td>Tanner D. Harms et al.</td>
+<td><a href="http://arxiv.org/abs/2408.16190">2408.16190</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16261.html">Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models</a></div></td>
 <td>Sekitoshi Kanai et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16261">2408.16261</a></td>
@@ -6218,5 +6236,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01247.html">Lying Graph Convolution: Learning to Lie for Node Classification Tasks</a></div></td>
 <td>Daniele Castellana</td>
 <td><a href="http://arxiv.org/abs/2405.01247">2405.01247</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.18484.html">A non-intrusive machine learning framework for debiasing long-time coarse resolution climate simulations and quantifying rare events statistics</a></div></td>
+<td>Benedikt Barthel Sorensen et al.</td>
+<td><a href="http://arxiv.org/abs/2402.18484">2402.18484</a></td>
 </tr>
 </tbody></table>

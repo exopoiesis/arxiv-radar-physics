@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17839.html">Interpreting Cosmological Information from Neural Networks in the Hydrodynamic Universe</a></div></td>
 <td>Arnab Lahiry et al.</td>
 <td><a href="http://arxiv.org/abs/2504.17839">2504.17839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05816.html">Bayesian imaging inverse problem with scattering transform</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Sébastien Pierre et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05816">2602.05816</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1246 papers</span>
+  <span class="paper-count">1255 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3251,6 +3251,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00324.html">Extending the trapping theorem to provide local stability guarantees for quadratically nonlinear models</a></div></td>
+<td>Mai Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2403.00324">2403.00324</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07945.html">Quantum Random Feature Method for Solving Partial Differential Equations</a></div></td>
 <td>Junpeng Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07945">2510.07945</a></td>
@@ -6371,6 +6377,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12553.html">Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs</a></div></td>
+<td>Md Ashiqur Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2403.12553">2403.12553</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17763.html">DiffusionPDE: Generative PDE-Solving Under Partial Observation</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Jiahe Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17763">2406.17763</a></td>
@@ -6530,6 +6542,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09938.html">Robust identifiability for symbolic recovery of differential equations</a></div></td>
 <td>Hillary Hauger et al.</td>
 <td><a href="http://arxiv.org/abs/2410.09938">2410.09938</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.17232.html">Two-scale Neural Networks for Partial Differential Equations with Small Parameters</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Qiao Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2402.17232">2402.17232</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-11</td>
@@ -7463,6 +7481,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03542.html">DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Zhongkai Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2403.03542">2403.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04433.html">Learning local Dirichlet-to-Neumann maps of nonlinear elliptic PDEs with rough coefficients</a></div></td>
 <td>Miranda Boutilier et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04433">2405.04433</a></td>
@@ -7490,5 +7514,35 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00814.html">Solving Maxwell&#x27;s equations with Non-Trainable Graph Neural Network Message Passing</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
 <td>Stefanos Bakirtzis et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00814">2405.00814</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00217.html">GMC-PINNs: A new general Monte Carlo PINNs method for solving fractional partial differential equations on irregular domains</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Shupeng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00217">2405.00217</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08809.html">Leveraging viscous Hamilton-Jacobi PDEs for uncertainty quantification in scientific machine learning</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Zongren Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2404.08809">2404.08809</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.15715.html">Operator Learning: Algorithms and Analysis</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Nikola B. Kovachki et al.</td>
+<td><a href="http://arxiv.org/abs/2402.15715">2402.15715</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.00326.html">PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Sifan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2402.00326">2402.00326</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10926.html">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Tim De Ryck et al.</td>
+<td><a href="http://arxiv.org/abs/2402.10926">2402.10926</a></td>
 </tr>
 </tbody></table>

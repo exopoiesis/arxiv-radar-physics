@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,6 +164,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20830.html">Autoregressive Surrogate Modeling of the Solar Wind with Spherical Fourier Neural Operator</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Reza Mansouri et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20830">2511.20830</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18405.html">$\boldsymbol{\nabla} \boldsymbol{\cdot} \mathbf{B}$, outer boundary, and Biot-Savart in magnetosphere MHD simulations</a></div></td>
+<td>Dean Thomas et al.</td>
+<td><a href="http://arxiv.org/abs/2508.18405">2508.18405</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-17</td>

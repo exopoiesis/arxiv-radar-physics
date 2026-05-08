@@ -1756,6 +1756,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2407.02859">2407.02859</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18340.html">Controlled Generation with Equivariant Variational Flow Matching</a></div></td>
+<td>Floor Eijkelboom et al.</td>
+<td><a href="http://arxiv.org/abs/2506.18340">2506.18340</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02485.html">Data-Driven Stochastic Distribution System Hardening Based on Bayesian Online Learning</a></div></td>
 <td>Wenlong Shi et al.</td>
@@ -2594,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23238.html">Full-waveform earthquake source inversion using simulation-based inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>A. A. Saoulis et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23238">2410.23238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01129.html">Reheating ACTs on Starobinsky and Higgs inflation</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>D. S. Zharov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01129">2505.01129</a></td>
 </tr>
 </tbody></table>

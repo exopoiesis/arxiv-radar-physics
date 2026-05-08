@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00820.html">HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs</a></div></td>
 <td>Jinpai Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00820">2605.00820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00062.html">RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics</a></div></td>
-<td>Bojun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00062">2605.00062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26745.html">Robust Model-Based Iteration for Passive Gamma Emission Tomography</a></div></td>
-<td>Tommi Heikkilä et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26745">2604.26745</a></td>
 </tr>
 </tbody></table>

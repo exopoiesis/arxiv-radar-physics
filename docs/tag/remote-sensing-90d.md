@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,23 +1028,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08596.html">RFSoC-Based Integrated Navigation and Sensing Using NavIC</a></div></td>
 <td>Riya Sachdeva et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08596">2602.08596</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08232.html">Mamba-FCS: Joint Spatio- Frequency Feature Fusion, Change-Guided Attention, and SeK Loss for Enhanced Semantic Change Detection in Remote Sensing</a></div></td>
-<td>Buddhi Wijenayake et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08232">2508.08232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19447.html">A Contrastive Learning Foundation Model Based on Perfectly Aligned Sample Pairs for Remote Sensing Images</a></div></td>
-<td>Hengtong Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19447">2505.19447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05480.html">SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing</a></div></td>
-<td>Peihao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05480">2602.05480</a></td>
 </tr>
 </tbody></table>

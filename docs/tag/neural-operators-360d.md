@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">342 papers</span>
+  <span class="paper-count">340 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2054,17 +2054,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08631.html">Learning cardiac activation and repolarization times with operator learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Edoardo Centofanti et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08631">2505.08631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07353.html">Neural Operators for Adaptive Control of Traffic Flow Models</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Kaijing Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07353">2505.07353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14700.html">Stochastic Fractional Neural Operators: A Symmetrized Approach to Modeling Turbulence in Complex Fluid Dynamics</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Rômulo Damasclin Chaves dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14700">2505.14700</a></td>
 </tr>
 </tbody></table>

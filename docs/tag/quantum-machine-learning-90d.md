@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,35 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14593.html">Assessing Projected Quantum Kernels for the Classification of IoT Data</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Francesco D&#x27;Amore et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14593">2505.14593</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02934.html">Train on classical, deploy on quantum: scaling generative quantum machine learning to a thousand qubits</a></div></td>
-<td>Erik Recio-Armengol et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02934">2503.02934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06381.html">HyQuRP: Hybrid quantum-classical neural network with rotational and permutational equivariance for 3D point clouds</a></div></td>
-<td>Semin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06381">2602.06381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06847.html">Consensus Protocols for Entanglement-Aware Scheduling in Distributed Quantum Neural Networks</a></div></td>
-<td>Kuan-Cheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06847">2602.06847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05288.html">Gradient Analysis of Barren Plateau in Parameterized Quantum Circuits with multi-qubit gates</a></div></td>
-<td>Yuhan Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05288">2602.05288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05777.html">Efficient implementation of arbitrary Hermitian-preserving and trace-preserving maps</a></div></td>
-<td>Weizhou Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05777">2602.05777</a></td>
 </tr>
 </tbody></table>

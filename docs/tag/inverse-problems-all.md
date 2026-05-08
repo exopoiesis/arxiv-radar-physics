@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,6 +710,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13478.html">Solving continuum and rarefied flows using differentiable programming</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Tianbai Xiao</td>
 <td><a href="http://arxiv.org/abs/2501.13478">2501.13478</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00035.html">Wildfire Simulation with Differentiable Randers-Finsler Eikonal Solvers</a></div></td>
+<td>Barak Gahtan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.00035">2603.00035</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-06</td>
@@ -1882,6 +1888,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.13088">2508.13088</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01521.html">Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Bingliang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2407.01521">2407.01521</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00007.html">DiffTopo: Solver in the Loop for Inverse Topography via Condition Diffusion Generation</a></div></td>
 <td>Aoming Liang et al.</td>
@@ -2584,6 +2596,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.01831">2504.01831</a></td>
 </tr>
 <tr class="paper">
+<td>2025-04-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03463.html">Diffusion State-Guided Projected Gradient for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Rayhan Zirvi et al.</td>
+<td><a href="http://arxiv.org/abs/2410.03463">2410.03463</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21166.html">Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Uvini Balasuriya Mudiyanselage et al.</td>
@@ -3118,6 +3136,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.19895">2409.19895</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16152.html">Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Giannis Daras et al.</td>
+<td><a href="http://arxiv.org/abs/2410.16152">2410.16152</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16415.html">On conditional diffusion models for PDE simulations</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="diffusion-models-all.html">diffusion-models</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Aliaksandra Shysheya et al.</td>
@@ -3500,5 +3524,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04151.html">Gas Source Localization Using physics Guided Neural Networks</a></div></td>
 <td>Victor Scott Prieto Ruiz et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04151">2405.04151</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.00326.html">PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Sifan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2402.00326">2402.00326</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10926.html">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Tim De Ryck et al.</td>
+<td><a href="http://arxiv.org/abs/2402.10926">2402.10926</a></td>
 </tr>
 </tbody></table>

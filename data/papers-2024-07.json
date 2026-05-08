@@ -1,4 +1,77 @@
 {
+ "2401.04301": {
+  "abstract": "Transformer-based models have recently become wildly successful across a diverse set of domains. At the same time, recent work has shown empirically and theoretically that Transformers are inherently limited. Specifically, they argue that as model depth increases, Transformers oversmooth, i.e., inputs become more and more similar. A natural question is: How can Transformers achieve these successes given this shortcoming? In this work we test these observations empirically and theoretically and uncover a number of surprising findings. We find that there are cases where feature similarity increases but, contrary to prior results, this is not inevitable, even for existing pre-trained models. Theoretically, we show that smoothing behavior depends on the eigenspectrum of the value and projection weights. We verify this empirically and observe that the sign of layer normalization weights can influence this effect. Our analysis reveals a simple way to parameterize the weights of the Transformer update equations to influence smoothing behavior. We hope that our findings give ML researchers and practitioners additional insight into how to develop future Transformer-based models.",
+  "authors": [
+   "Gbètondji J-S Dovonon",
+   "Michael M. Bronstein",
+   "Matt J. Kusner"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Gbètondji J-S Dovonon",
+  "pdf_url": "http://arxiv.org/pdf/2401.04301",
+  "primary_category": "cs.LG",
+  "published": "2024-01-09",
+  "tags": [],
+  "title": "Setting the Record Straight on Transformer Oversmoothing",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-07-27"
+ },
+ "2402.04858": {
+  "abstract": "Large language models are increasingly solving tasks that are commonly believed to require human-level reasoning ability. However, these models still perform very poorly on benchmarks of general intelligence such as the Abstraction and Reasoning Corpus (ARC). In this paper, we approach ARC as a programming-by-examples problem, and introduce a novel and scalable method for language model self-improvement called Code Iteration (CodeIt). Our method iterates between 1) program sampling and hindsight relabeling, and 2) learning from prioritized experience replay. By relabeling the goal of an episode (i.e., the target program output given input) to the realized output produced by the sampled program, our method effectively deals with the extreme sparsity of rewards in program synthesis. Applying CodeIt to the ARC dataset, we demonstrate that prioritized hindsight replay, along with pre-training and data-augmentation, leads to successful inter-task generalization. CodeIt is the first neuro-symbolic approach that scales to the full ARC evaluation dataset. Our method solves 15% of ARC evaluation tasks, achieving state-of-the-art performance and outperforming existing neural and symbolic baselines. Our code is available at https://github.com/Qualcomm-AI-research/codeit .",
+  "authors": [
+   "Natasha Butt",
+   "Blazej Manczak",
+   "Auke Wiggers",
+   "Corrado Rainone",
+   "David W. Zhang",
+   "Michaël Defferrard",
+   "Taco Cohen"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "ICML'24 camera-ready version",
+  "first_author": "Natasha Butt",
+  "pdf_url": "http://arxiv.org/pdf/2402.04858",
+  "primary_category": "cs.AI",
+  "published": "2024-02-07",
+  "tags": [],
+  "title": "CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay",
+  "topics": [
+   "via:author-whitelist:equivariant neural networks"
+  ],
+  "updated": "2024-07-01"
+ },
+ "2404.17245": {
+  "abstract": "Artificial neural networks often suffer from catastrophic forgetting, where learning new concepts leads to a complete loss of previously acquired knowledge. We observe that this issue is particularly magnified in vision transformers (ViTs), where post-pre-training and fine-tuning on new tasks can significantly degrade the model's original general abilities. For instance, a DINO ViT-Base/16 pre-trained on ImageNet-1k loses over 70% accuracy on ImageNet-1k after just 10 iterations of fine-tuning on CIFAR-100. Overcoming this stability-plasticity dilemma is crucial for enabling ViTs to continuously learn and adapt to new domains while preserving their initial knowledge. In this work, we study two new parameter-efficient fine-tuning strategies: (1)~Block Expansion, and (2) Low-rank adaptation (LoRA). Our experiments reveal that using either Block Expansion or LoRA on self-supervised pre-trained ViTs surpass fully fine-tuned ViTs in new domains while offering significantly greater parameter efficiency. Notably, we find that Block Expansion experiences only a minimal performance drop in the pre-training domain, thereby effectively mitigating catastrophic forgetting in pre-trained ViTs.",
+  "authors": [
+   "Reza Akbarian Bafghi",
+   "Nidhin Harilal",
+   "Claire Monteleoni",
+   "Maziar Raissi"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted at eLVM Workshop, CVPR, 2024",
+  "first_author": "Reza Akbarian Bafghi",
+  "pdf_url": "http://arxiv.org/pdf/2404.17245",
+  "primary_category": "cs.CV",
+  "published": "2024-04-26",
+  "tags": [],
+  "title": "Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting",
+  "topics": [
+   "via:author-whitelist:PINNs co-author"
+  ],
+  "updated": "2024-07-05"
+ },
  "2405.04447": {
   "abstract": "Understanding galaxy properties may be the key to unlocking some of the most intriguing mysteries of modern cosmology. Recent work relied on machine learning to extract cosmological constraints on $Ω_\\mathrm{m}$ using only one galaxy. But if this is true, how should we select the galaxy to use for cosmology inference? In this paper, we consider selecting a galaxy that lies in cosmic voids, the underdense regions of the cosmic web, and compare the constraints obtained with the ones obtained when randomly selecting a galaxy in the whole sample. We use the IllustrisTNG galaxy catalog from the CAMELS project and the VIDE void finder to identify galaxies inside voids. We show that void galaxies provide stronger constraints on $Ω_\\mathrm{m}$ compared to randomly selected galaxies. This result suggests that the distinctive characteristics of void galaxies may provide a cleaner and more effective environment for extracting cosmological information.",
   "authors": [
@@ -1665,6 +1738,31 @@
   ],
   "updated": "2024-07-02"
  },
+ "2407.02311": {
+  "abstract": "Hypersonic boundary layer transition using high-order methods for direct numerical simulations (DNS) is largely unexplored, although a few references exist in the literature. Experimental data in the hypersonic regime are scarce, while almost all existing hypersonic codes have low-order accuracy, which could lead to erroneous results in long-time integration and at high Reynolds numbers. Here, we focus on the transition from laminar to turbulent flow, where the Nusselt number may be five times or higher than the Nusselt number in the turbulent regime. The hypersonic flow regime must be modeled accurately using realistic chemistry to predict heat flux on the surface correctly. In this study, we simulate hypersonic boundary layer transition on a flat plate to compute the thermal and shear stresses on the wall. The domain is initialized with a laminar Blasius solution of compressible boundary layer equations. The transition to turbulence is induced using suction and blowing from a thin strip on the wall. Sponge regions are defined at the inflow and outflow boundaries to eliminate the solution contamination due to the reflections of the boundary conditions. In the spanwise direction, periodic boundary conditions are imposed. The numerical method applied here is a sixth-order compact finite difference in the interior of the domain coupled with a fourth-order Runge-Kutta time-stepping scheme for a structured Cartesian grid using staggered variables. The base finite difference code can perform simulations of non-equilibrium hypersonic flows. The numerical scheme is stabilized using the approximate deconvolution model (ADM) and artificial diffusion coefficients. We investigated the effect of non-equilibrium chemistry on the non-linear instability growth with hypersonic boundary layers. We also quantify thermal loads during the boundary layer laminar to turbulent transition for Mach number 10.",
+  "authors": [
+   "Ahmad Peyvan",
+   "Luis Bravo",
+   "Anindya Ghoshal",
+   "Olaf Marxen",
+   "George Karniadakis"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Ahmad Peyvan",
+  "pdf_url": "http://arxiv.org/pdf/2407.02311",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-07-02",
+  "tags": [],
+  "title": "Hypersonic Boundary Layer Transition and Heat Loading",
+  "topics": [
+   "via:author-whitelist:PINNs, DeepONet"
+  ],
+  "updated": "2024-07-02"
+ },
  "2407.02414": {
   "abstract": "Interatomic potentials are essential to go beyond ab initio size limitations, but simulation results depend sensitively on potential parameters. Forward propagation of parameter variation is key for uncertainty quantification, whilst backpropagation has found application for emerging inverse problems such as fine-tuning or targeted design. Here, the implicit derivative of functions defined as a fixed point is used to Taylor expand the energy and structure of atomic minima in potential parameters, evaluating terms via automatic differentiation, dense linear algebra or a novel sparse operator approach. The latter allows efficient forward and backpropagation through relaxed structures of arbitrarily large systems. The implicit expansion accurately predicts lattice distortion and defect formation energies and volumes with classical and machine-learning potentials, enabling high-dimensional uncertainty propagation without prohibitive overhead. We then show how the implicit derivative can be used to solve challenging inverse problems, minimizing an implicit loss to fine-tune potentials and stabilize solute-induced structural rearrangements at dislocations in tungsten.",
   "authors": [
@@ -3090,7 +3188,8 @@
   ],
   "title": "Limits and Powers of Koopman Learning",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:Koopman operator theory"
   ],
   "updated": "2024-07-08"
  },
@@ -3862,7 +3961,8 @@
   "topics": [
    "Dynamical Systems & PDE Learning",
    "Generative Models & Discovery",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2024-07-10"
  },
@@ -4683,6 +4783,31 @@
   ],
   "updated": "2024-07-14"
  },
+ "2407.10076": {
+  "abstract": "The layered triangular lattice owing to $1:2$ order of $B$ and $B'$ sites in the triple perovskite $A_3 B B'_2$O$_9$ family provides an enticing domain for exploring the complex phenomena of quantum spin liquids (QSLs). We report a comprehensive investigation of the ground state properties of Sr$_3$CuTa$_2$O$_9$ that belongs to the above family, by employing magnetization, specific heat, and muon spin relaxation ($μ$SR) experiments down to the lowest temperature of 0.1~K. Analysis of the magnetic susceptibility indicates that the spin-lattice is a nearly isotropic $S = 1/2$ triangular lattice. We illustrate the observation of a gapless QSL, in which conventional spin ordering or freezing effects are absent, even at temperatures more than two orders of magnitude smaller than the exchange energy ($J_{\\rm CW}/k_{\\rm B} \\simeq -5.04$~K). Magnetic specific heat in zero-field follows a power law, $C_{\\rm m} \\sim T^η$, below 1.2~K with $η\\approx 2/3$, which is consistent with a theoretical proposal of the presence of spinon Fermi surface. Below 1.2~K, the $μ$SR relaxation rate shows no temperature dependence, suggesting persistent spin dynamics as expected for a QSL state. Delving deeper, we also analyze longitudinal field $μ$SR spectra revealing strong dynamical correlations in the spin-disordered ground state. All of these highlight the characteristics of spin entanglement in the QSL state.",
+  "authors": [
+   "K. Bhattacharya",
+   "S. Mohanty",
+   "A. D. Hillier",
+   "M. T. F. Telling",
+   "R. Nath",
+   "M. Majumder"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "7 pages, 4 figures. Accepted for publication at Physical Review B (Letter)",
+  "first_author": "K. Bhattacharya",
+  "pdf_url": "http://arxiv.org/pdf/2407.10076",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-07-14",
+  "tags": [],
+  "title": "Evidence of quantum spin liquid state in a Cu$^{2+}$-based $S = 1/2$ triangular lattice antiferromagnet",
+  "topics": [
+   "via:author-whitelist:neural operators, multi-scale"
+  ],
+  "updated": "2024-07-14"
+ },
  "2407.10088": {
   "abstract": "We apply two data assimilation (DA) methods, a smoother and a filter, and a model-free machine learning (ML) shallow network to forecast two weakly turbulent systems. We analyse the effect of the spatial sparsity of observations on accuracy of the predictions obtained from these data-driven methods. Based on the results, we divide the spatial sparsity levels in three zones. First is the good-predictions zone in which both DA and ML methods work. We find that in the good-predictions zone the observations remain dense enough to accurately capture the fractal manifold of the system's dynamics, which is measured using the correlation dimension. The accuracy of the DA methods in this zone remains almost as good as for full-resolution observations. Second is the reasonable-predictions zone in which the DA methods still work but at reduced prediction accuracy. Third is the bad-predictions zone in which even the DA methods fail. We find that the sparsity level up to which the DA methods work is almost the same up to which chaos synchronisation of these systems can be achieved. The main implications of these results are that they (i) firmly establish the spatial resolution up to which the data-driven methods can be utilised, (ii) provide measures to determine if adding more sensors will improve the predictions, and (iii) quantify the advantage (in terms of the required measurement resolution) of using the governing equations within data-driven methods. We also discuss the applicability of these results to fully developed turbulence.",
   "authors": [
@@ -4704,6 +4829,27 @@
   "title": "Predictability of weakly turbulent systems from spatially sparse observations using data assimilation and machine learning",
   "topics": [
    "Climate, Weather & Geophysics"
+  ],
+  "updated": "2024-07-14"
+ },
+ "2407.10338": {
+  "abstract": "The reconstruction and estimation of spatio-temporal patterns poses significant challenges when sensor measurements are limited. The use of mobile sensors adds additional complexity due to the change in sensor locations over time. In such cases, historical measurement and sensor information are useful for better performance, including models such as Kalman filters, recurrent neural networks (RNNs) or transformer models. However, many of these approaches often fail to efficiently handle long sequences of data in such scenarios and are sensitive to noise. In this paper, we consider a model-free approach using the {\\em structured state space sequence} (S4D) model as a deep learning layer in traditional sequence models to learn a better representation of historical sensor data. Specifically, it is integrated with a shallow decoder network for reconstruction of the high-dimensional state space. We also introduce a novel initialization of the S4D model using a Butterworth filter design to reduce noise in the inputs. Consequently, we construct a robust S4D (rS4D) model by appending the filtering S4D layer before the original S4D structure. This robust variant enhances the capability to accurately reconstruct spatio-temporal patterns with noisy mobile sensor measurements in long sequence. Numerical experiments demonstrate that our model achieves better performance compared with previous approaches. Our results underscore the efficacy of leveraging state space models within the context of spatio-temporal data reconstruction and estimation using limited mobile sensor resources, particularly in terms of long-sequence dependency and robustness to noise.",
+  "authors": [
+   "Jiazhong Mei",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "math.DS"
+  ],
+  "comment": "18 pages, 11 figures",
+  "first_author": "Jiazhong Mei",
+  "pdf_url": "http://arxiv.org/pdf/2407.10338",
+  "primary_category": "math.DS",
+  "published": "2024-07-14",
+  "tags": [],
+  "title": "Long Sequence Decoder Network for Mobile Sensing",
+  "topics": [
+   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2024-07-14"
  },
@@ -4793,6 +4939,29 @@
   "topics": [
    "Fluid Dynamics & Plasma Physics",
    "Generative Models & Discovery"
+  ],
+  "updated": "2024-07-15"
+ },
+ "2407.10761": {
+  "abstract": "Compared to physics-based computational manufacturing, data-driven models such as machine learning (ML) are alternative approaches to achieve smart manufacturing. However, the data-driven ML's \"black box\" nature has presented a challenge to interpreting its outcomes. On the other hand, governing physical laws are not effectively utilized to develop data-efficient ML algorithms. To leverage the advantages of ML and physical laws of advanced manufacturing, this paper focuses on the development of a physics-informed machine learning (PIML) model by integrating neural networks and physical laws to improve model accuracy, transparency, and generalization with case studies in laser metal deposition (LMD).",
+  "authors": [
+   "Rahul Sharma",
+   "Maziar Raissi",
+   "Y. B. Guo"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": "6 pages, 7 figures, 18th CIRP Conference on Intelligent Computation in Manufacturing Engineering",
+  "first_author": "Rahul Sharma",
+  "pdf_url": "http://arxiv.org/pdf/2407.10761",
+  "primary_category": "cs.LG",
+  "published": "2024-07-15",
+  "tags": [],
+  "title": "Physics-Informed Machine Learning for Smart Additive Manufacturing",
+  "topics": [
+   "via:author-whitelist:PINNs co-author"
   ],
   "updated": "2024-07-15"
  },
@@ -5317,6 +5486,31 @@
   "title": "Discrete-Time Quantum Walks: A Quantum Advantage for Graph Representation",
   "topics": [
    "Quantum Physics & Information"
+  ],
+  "updated": "2024-07-16"
+ },
+ "2407.11641": {
+  "abstract": "The ongoing research scenario for automatic speech recognition (ASR) envisions a clear division between end-to-end approaches and classic modular systems. Even though a high-level comparison between the two approaches in terms of their requirements and (dis)advantages is commonly addressed, a closer comparison under similar conditions is not readily available in the literature. In this work, we present a comparison focused on the label topology and training criterion. We compare two discriminative alignment models with hidden Markov model (HMM) and connectionist temporal classification topology, and two first-order label context ASR models utilizing factored HMM and strictly monotonic recurrent neural network transducer, respectively. We use different measurements for the evaluation of the alignment quality, and compare word error rate and real time factor of our best systems. Experiments are conducted on the LibriSpeech 960h and Switchboard 300h tasks.",
+  "authors": [
+   "Tina Raissi",
+   "Christoph Lüscher",
+   "Simon Berger",
+   "Ralf Schlüter",
+   "Hermann Ney"
+  ],
+  "categories": [
+   "cs.SD",
+   "eess.AS"
+  ],
+  "comment": "Accepted for presentation at Interspeech 2024",
+  "first_author": "Tina Raissi",
+  "pdf_url": "http://arxiv.org/pdf/2407.11641",
+  "primary_category": "cs.SD",
+  "published": "2024-07-16",
+  "tags": [],
+  "title": "Investigating the Effect of Label Topology and Training Criterion on ASR Performance and Alignment Quality",
+  "topics": [
+   "via:author-whitelist:PINNs co-author"
   ],
   "updated": "2024-07-16"
  },
@@ -7088,7 +7282,8 @@
   "tags": [],
   "title": "Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold Networks",
   "topics": [
-   "Climate, Weather & Geophysics"
+   "Climate, Weather & Geophysics",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-07-23"
  },

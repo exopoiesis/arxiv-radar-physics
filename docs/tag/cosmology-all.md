@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmology — all</h1>
-  <span class="paper-count">286 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -34,6 +34,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.20429">2511.20429</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02723.html">Euclid preparation. CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02723">2605.02723</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21432.html">Cosmological analysis of the DESI DR1 Lyman alpha 1D power spectrum</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
 <td>J. Chaves-Montero et al.</td>
@@ -44,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22372.html">Testing $Λ$CDM with ANN-Reconstructed Expansion History from Cosmic Chronometers</a></div></td>
 <td>Yuki Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22372">2604.22372</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26684.html">Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26684">2604.26684</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -101,9 +113,21 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13332.html">Redundancy of the cosmological evolution equations and its relationship with the initial conditions</a></div></td>
+<td>Kaushik Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2404.13332">2404.13332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Ziyong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09118.html">Euclid preparation. LXXXIX. Accurate and precise data-driven angular power spectrum covariances</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2506.09118">2506.09118</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>
@@ -167,6 +191,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04688.html">Euclid preparation. The impact of redshift interlopers on the two-point correlation function analysis</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2505.04688">2505.04688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26533.html">Extracting Cosmological Information from Lightcone Data: A Comparison of CNNs and Summary-Statistic-Based Approaches</a></div></td>
 <td>Min Zhiwei et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26533">2603.26533</a></td>
@@ -176,6 +206,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22135.html">The SPHEREx Ices Investigation: An Overview</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Gary J. Melnick et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22135">2603.22135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22475.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 2. Code implementation</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22475">2603.22475</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-20</td>
@@ -242,6 +278,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10424.html">CSST-PSFNet: A Point Spread Function Reconstruction Model for the CSST Based on Deep Learning</a></div></td>
 <td>Peipei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10424">2603.10424</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10735.html">Euclid: The linear-construction covariance and cosmology</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
+<td>V. Lindholm et al.</td>
+<td><a href="http://arxiv.org/abs/2603.10735">2603.10735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15308.html">Euclid Quick Data Release (Q1) -- Characteristics and limitations of the spectroscopic measurements</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15308">2503.15308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-10</td>
@@ -320,6 +368,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07177.html">Ten-dimensional neural network emulator for the nonlinear matter power spectrum</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
 <td>Yanhui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07177">2507.07177</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08974.html">Cyclic universe from uniform rate inflation on the brane with a timelike extra dimension</a></div></td>
+<td>Rikpratik Sengupta et al.</td>
+<td><a href="http://arxiv.org/abs/2602.08974">2602.08974</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-08</td>
@@ -701,6 +755,18 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09118.html">Cosmology Likelihood for Observables in \Euclid (CLOE). 1. Theoretical recipe</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09118">2510.09118</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09141.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 4: Validation and Performance</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09141">2510.09141</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09147.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 5. Extensions beyond the standard modelling of theoretical probes and systematic effects</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
 <td>Euclid Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09147">2510.09147</a></td>
@@ -794,6 +860,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08378.html">Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08378">2506.08378</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-18</td>
@@ -1016,6 +1088,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00866.html">Template-Fitting Meets Deep Learning: Redshift Estimation Using Physics-Guided Neural Networks</a></div></td>
 <td>Jonas Chris Ferrao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00866">2507.00866</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15326.html">Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine C: Finding lenses with machine learning</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15326">2503.15326</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-26</td>
@@ -1292,6 +1370,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01524.html">Straightening the Ruler: Field-Level Inference of the BAO Scale with LEFTfield</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Ivana Babić et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01524">2407.01524</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15335.html">Euclid: Quick Data Release (Q1) -- A census of dwarf galaxies across a range of distances and environments</a></div></td>
+<td>F. R. Marleau et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15335">2503.15335</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-17</td>
@@ -1730,5 +1814,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Jonah C. Rose et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10606.html">Cosmic Inflation: Background dynamics, Quantum fluctuations and Reheating</a></div></td>
+<td>Swagat S. Mishra</td>
+<td><a href="http://arxiv.org/abs/2403.10606">2403.10606</a></td>
 </tr>
 </tbody></table>

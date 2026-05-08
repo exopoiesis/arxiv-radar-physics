@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1048,6 +1048,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2506.11526">2506.11526</a></td>
 </tr>
 <tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14977.html">MacroGuide: Topological Guidance for Macrocycle Generation</a></div></td>
+<td>Alicja Maksymiuk et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14977">2602.14977</a></td>
+</tr>
+<tr class="paper">
 <td>2026-02-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13616.html">DiffusionRollout: Uncertainty-Aware Rollout Planning in Long-Horizon PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Seungwoo Yoo et al.</td>
@@ -1172,53 +1178,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07548.html">Capturing the Topological Phase Transition and Thermodynamics of the 2D XY Model via Manifold-Aware Score-Based Generative Modeling</a></div></td>
 <td>Pratyush Jha</td>
 <td><a href="http://arxiv.org/abs/2602.07548">2602.07548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01989.html">VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a></div></td>
-<td>Tao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01989">2502.01989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06452.html">Exploring Specular Reflection Inconsistency for Generalizable Face Forgery Detection</a></div></td>
-<td>Hongyan Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06452">2602.06452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div></td>
-<td>Bowen Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11963.html">Noisy MRI Reconstruction via MAP Estimation with an Implicit Deep-Denoiser Prior</a></div></td>
-<td>Nikola Janjušević et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11963">2511.11963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14980.html">Softly Constrained Denoisers for Diffusion Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Victor M. Yeom-Song et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14980">2512.14980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05812.html">Principled Confidence Estimation for Deep Computed Tomography</a></div></td>
-<td>Matteo Gätzner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05812">2602.05812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06219.html">Coupled Local and Global World Models for Efficient First Order RL</a></div></td>
-<td>Joseph Amigo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06219">2602.06219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07061.html">TACIT: Transformation-Aware Capturing of Implicit Thought</a></div></td>
-<td>Daniel Nobrega</td>
-<td><a href="http://arxiv.org/abs/2602.07061">2602.07061</a></td>
 </tr>
 </tbody></table>

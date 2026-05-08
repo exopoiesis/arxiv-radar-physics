@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1990,6 +1990,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.10920">2406.10920</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16845.html">Neural Operators with Localized Integral and Differential Kernels</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Miguel Liu-Schiaffini et al.</td>
+<td><a href="http://arxiv.org/abs/2402.16845">2402.16845</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02173.html">Learning the Hodgkin-Huxley Model with Operator Learning Techniques</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
 <td>Edoardo Centofanti et al.</td>
@@ -2000,6 +2006,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02298.html">Solving Partial Differential Equations in Different Domains by Operator Learning method Based on Boundary Integral Equations</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Bin Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02298">2406.02298</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.11037.html">Equivariant Graph Neural Operator for Modeling 3D Dynamics</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Minkai Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2401.11037">2401.11037</a></td>
 </tr>
 <tr class="paper">
 <td>2024-06-02</td>
@@ -2042,5 +2054,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01975.html">Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field data from a reduced parametric space</a></div></td>
 <td>Rasoul Najafi Koopas et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01975">2405.01975</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03099.html">Composite Bayesian Optimization In Function Spaces Using NEON -- Neural Epistemic Operator Networks</a></div></td>
+<td>Leonardo Ferreira Guilhoto et al.</td>
+<td><a href="http://arxiv.org/abs/2404.03099">2404.03099</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.15715.html">Operator Learning: Algorithms and Analysis</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Nikola B. Kovachki et al.</td>
+<td><a href="http://arxiv.org/abs/2402.15715">2402.15715</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.01960.html">Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Ziqi Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2402.01960">2402.01960</a></td>
 </tr>
 </tbody></table>

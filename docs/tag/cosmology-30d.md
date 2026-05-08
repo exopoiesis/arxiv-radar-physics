@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2511.20429">2511.20429</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02723.html">Euclid preparation. CosmoPostProcess: A simulation calibrated framework for weak lensing selection bias in richness-selected galaxy clusters</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02723">2605.02723</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21432.html">Cosmological analysis of the DESI DR1 Lyman alpha 1D power spectrum</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
 <td>J. Chaves-Montero et al.</td>
@@ -44,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22372.html">Testing $Λ$CDM with ANN-Reconstructed Expansion History from Cosmic Chronometers</a></div></td>
 <td>Yuki Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22372">2604.22372</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26684.html">Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26684">2604.26684</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -101,9 +113,21 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13332.html">Redundancy of the cosmological evolution equations and its relationship with the initial conditions</a></div></td>
+<td>Kaushik Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2404.13332">2404.13332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
 <td>Ziyong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09118.html">Euclid preparation. LXXXIX. Accurate and precise data-driven angular power spectrum covariances</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2506.09118">2506.09118</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>
@@ -122,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20903.html">Improved photometric redshift estimations through self-organising map-based data augmentation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
 <td>Yun-Hao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20903">2508.20903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06318.html">Introducing sapphire: Towards Hybrid Physics-Informed, Data-Driven Modeling of Galaxy Formation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
-<td>Viraj Pandya et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06318">2604.06318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18698.html">Spectral Imaging with QUBIC: building frequency maps from Time-Ordered-Data using Bolometric Interferometry</a></div></td>
-<td>M. Regnier et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18698">2409.18698</a></td>
 </tr>
 </tbody></table>

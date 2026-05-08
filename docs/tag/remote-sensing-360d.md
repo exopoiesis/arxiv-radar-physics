@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">586 papers</span>
+  <span class="paper-count">584 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3518,17 +3518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12883.html">Early Detection of Forest Calamities in Homogeneous Stands -- Deep Learning Applied to Bark-Beetle Outbreaks</a></div></td>
 <td>Maximilian Kirsch et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12883">2503.12883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00020.html">A novel fusion of Sentinel-1 and Sentinel-2 with climate data for crop phenology estimation using Machine Learning</a></div></td>
-<td>Shahab Aldin Shojaeezadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00020">2409.00020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03844.html">From Spaceborne to Airborne: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation</a></div></td>
-<td>Solene Debuysere et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03844">2505.03844</a></td>
 </tr>
 </tbody></table>

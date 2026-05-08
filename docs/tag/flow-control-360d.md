@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flow-control — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <a href="flow-control-90d.html">90d</a> <strong>360d</strong> <a href="flow-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,6 +140,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12000.html">Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime</a></div></td>
 <td>Thorben Markmann et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12000">2504.12000</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09110.html">SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning</a></div></td>
+<td>Nicholas Zolman et al.</td>
+<td><a href="http://arxiv.org/abs/2403.09110">2403.09110</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-15</td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,29 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00385.html">PILIR: Physics-Informed Local Implicit Representation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Jianfeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00385">2605.00385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27431.html">A Study on the Performance of Distributed Training of Data-driven CFD Simulations</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
-<td>Sergio Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27431">2604.27431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23192.html">PGOT: A Physics-Geometry Operator Transformer for Complex PDEs</a></div></td>
-<td>Zhuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23192">2512.23192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26621.html">Large-eddy simulation nets (LESnets) based on physics-informed neural operator for wall-bounded turbulence</a></div><div class="paper-tags"><a href="les-7d.html">les</a></div></td>
-<td>Sunan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26621">2604.26621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26999.html">Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Beomchul Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26999">2604.26999</a></td>
 </tr>
 </tbody></table>

@@ -1,4 +1,148 @@
 {
+ "2402.11764": {
+  "abstract": "Large Language models (LLMs), while powerful, exhibit harmful social biases. Debiasing is often challenging due to computational costs, data constraints, and potential degradation of multi-task language capabilities. This work introduces a novel approach utilizing ChatGPT to generate synthetic training data, aiming to enhance the debiasing of LLMs. We propose two strategies: Targeted Prompting, which provides effective debiasing for known biases but necessitates prior specification of bias in question; and General Prompting, which, while slightly less effective, offers debiasing across various categories. We leverage resource-efficient LLM debiasing using adapter tuning and compare the effectiveness of our synthetic data to existing debiasing datasets. Our results reveal that: (1) ChatGPT can efficiently produce high-quality training data for debiasing other LLMs; (2) data produced via our approach surpasses existing datasets in debiasing performance while also preserving internal knowledge of a pre-trained LLM; and (3) synthetic data exhibits generalizability across categories, effectively mitigating various biases, including intersectional ones. These findings underscore the potential of synthetic data in advancing the fairness of LLMs with minimal retraining cost.",
+  "authors": [
+   "Pengrui Han",
+   "Rafal Kocielnik",
+   "Adhithya Saravanan",
+   "Roy Jiang",
+   "Or Sharir",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.CY"
+  ],
+  "comment": "To Appear in the Proceedings of the 1st Conference on Language Modeling (COLM) 2024",
+  "first_author": "Pengrui Han",
+  "pdf_url": "http://arxiv.org/pdf/2402.11764",
+  "primary_category": "cs.CL",
+  "published": "2024-02-19",
+  "tags": [],
+  "title": "ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing of LLMs",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2402.17984": {
+  "abstract": "In a multifidelity setting, data are available under the same conditions from two (or more) sources, e.g. computer codes, one being lower-fidelity but computationally cheaper, and the other higher-fidelity and more expensive. This work studies for which low-fidelity outputs, one should obtain high-fidelity outputs, if the goal is to estimate the probability density function of the latter, especially when it comes to the distribution tails and extremes. It is suggested to approach this problem from the perspective of the importance sampling of low-fidelity outputs according to some proposal distribution, combined with special considerations for the distribution tails based on extreme value theory. The notion of an optimal proposal distribution is introduced and investigated, in both theory and simulations. The approach is motivated and illustrated with an application to estimate the probability density function of record extremes of ship motions, obtained through two computer codes of different fidelities.",
+  "authors": [
+   "Minji Kim",
+   "Kevin O'Connor",
+   "Vladas Pipiras",
+   "Themistoklis Sapsis"
+  ],
+  "categories": [
+   "stat.ME"
+  ],
+  "comment": "33 pages, 11 figures, 2 tables",
+  "first_author": "Minji Kim",
+  "pdf_url": "http://arxiv.org/pdf/2402.17984",
+  "primary_category": "stat.ME",
+  "published": "2024-02-28",
+  "tags": [],
+  "title": "Sampling low-fidelity outputs for estimation of high-fidelity density and its tails",
+  "topics": [
+   "via:author-whitelist:extreme events, dynamical systems"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2404.14995": {
+  "abstract": "The Radio Neutrino Observatory - Greenland (RNO-G) seeks discovery of ultra-high energy neutrinos from the cosmos through their interactions in ice. The science program extends beyond particle astrophysics to include radioglaciology and, as we show herein, solar observations, as well. Currently seven of 35 planned radio-receiver stations (24 antennas/station) are operational. These stations are sensitive to impulsive radio signals with frequencies between 80 and 700 MHz and feature a neutrino trigger threshold for recording data close to the thermal floor. RNO-G can also trigger on elevated signals from the Sun, resulting in nanosecond resolution time-domain flare data; such temporal resolution is significantly shorter than from most dedicated solar observatories. In addition to possible RNO-G solar flare polarization measurements, the Sun also represents an extremely useful above-surface calibration source.   Using RNO-G data recorded during the summers of 2022 and 2023, we find signal excesses during solar flares reported by the solar-observing Callisto network and also in coincidence with $\\sim$2/3 of the brightest excesses recorded by the SWAVES satellite. These observed flares are characterized by significant time-domain impulsivity. Using the known position of the Sun, the flare sample is used to calibrate the RNO-G absolute pointing on the radio signal arrival direction to sub-degree resolution. We thus establish the Sun as a regularly observed astronomical calibration source to provide the accurate absolute pointing required for neutrino astronomy.",
+  "authors": [
+   "S. Agarwal",
+   "J. A. Aguilar",
+   "S. Ali",
+   "P. Allison",
+   "M. Betts",
+   "D. Besson",
+   "A. Bishop",
+   "O. Botner",
+   "S. Bouma",
+   "S. Buitink",
+   "M. Cataldo",
+   "B. A. Clark",
+   "A. Coleman",
+   "K. Couberly",
+   "S. de Kockere",
+   "K. D. de Vries",
+   "C. Deaconu",
+   "M. A. DuVernois",
+   "C. Glaser",
+   "T. Glüsenkamp",
+   "A. Hallgren",
+   "S. Hallmann",
+   "J. C. Hanson",
+   "B. Hendricks",
+   "J. Henrichs",
+   "N. Heyer",
+   "C. Hornhuber",
+   "K. Hughes",
+   "T. Karg",
+   "A. Karle",
+   "J. L. Kelley",
+   "M. Korntheuer",
+   "M. Kowalski",
+   "I. Kravchenko",
+   "R. Krebs",
+   "R. Lahmann",
+   "U. Latif",
+   "P. Laub",
+   "C. -H. Liu",
+   "M. J. Marsee",
+   "Z. S. Meyers",
+   "M. Mikhailova",
+   "C. Monstein",
+   "K. Mulrey",
+   "M. Muzio",
+   "A. Nelles",
+   "A. Novikov",
+   "A. Nozdrina",
+   "E. Oberla",
+   "B. Oeyen",
+   "N. Punsuebsay",
+   "L. Pyras",
+   "M. Ravn",
+   "D. Ryckbosch",
+   "F. Schlüter",
+   "O. Scholten",
+   "D. Seckel",
+   "M. F. H. Seikh",
+   "J. Stoffels",
+   "K. Terveer",
+   "S. Toscano",
+   "D. Tosi",
+   "D. J. Van Den Broeck",
+   "N. van Eijndhoven",
+   "A. G. Vieregg",
+   "A. Vijai",
+   "C. Welling",
+   "D. R. Williams",
+   "P. Windischhofer",
+   "S. Wissel",
+   "R. Young",
+   "A. Zink"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.HE"
+  ],
+  "comment": null,
+  "first_author": "S. Agarwal",
+  "pdf_url": "http://arxiv.org/pdf/2404.14995",
+  "primary_category": "astro-ph.SR",
+  "published": "2024-04-23",
+  "tags": [
+   "astrophysics"
+  ],
+  "title": "Solar flare observations with the Radio Neutrino Observatory Greenland (RNO-G)",
+  "topics": [
+   "via:author-whitelist:equivariant ML, generative models"
+  ],
+  "updated": "2024-09-26"
+ },
  "2405.00873": {
   "abstract": "Superconducting quantum processors are a compelling platform for analog quantum simulation due to the precision control, fast operation, and site-resolved readout inherent to the hardware. Arrays of coupled superconducting qubits natively emulate the dynamics of interacting particles according to the Bose-Hubbard model. However, many interesting condensed-matter phenomena emerge only in the presence of electromagnetic fields. Here, we emulate the dynamics of charged particles in an electromagnetic field using a superconducting quantum simulator. We realize a broadly adjustable synthetic magnetic vector potential by applying continuous modulation tones to all qubits. We verify that the synthetic vector potential obeys requisite properties of electromagnetism: a spatially-varying vector potential breaks time-reversal symmetry and generates a gauge-invariant synthetic magnetic field, and a temporally-varying vector potential produces a synthetic electric field. We demonstrate that the Hall effect--the transverse deflection of a charged particle propagating in an electromagnetic field--exists in the presence of the synthetic electromagnetic field.",
   "authors": [
@@ -336,6 +480,32 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2024-09-11"
+ },
+ "2405.15059": {
+  "abstract": "Discrepancy is a well-known measure for the irregularity of the distribution of a point set. Point sets with small discrepancy are called low-discrepancy and are known to efficiently fill the space in a uniform manner. Low-discrepancy points play a central role in many problems in science and engineering, including numerical integration, computer vision, machine perception, computer graphics, machine learning, and simulation. In this work, we present the first machine learning approach to generate a new class of low-discrepancy point sets named Message-Passing Monte Carlo (MPMC) points. Motivated by the geometric nature of generating low-discrepancy point sets, we leverage tools from Geometric Deep Learning and base our model on Graph Neural Networks. We further provide an extension of our framework to higher dimensions, which flexibly allows the generation of custom-made points that emphasize the uniformity in specific dimensions that are primarily important for the particular problem at hand. Finally, we demonstrate that our proposed model achieves state-of-the-art performance superior to previous methods by a significant margin. In fact, MPMC points are empirically shown to be either optimal or near-optimal with respect to the discrepancy for low dimension and small number of points, i.e., for which the optimal discrepancy can be determined. Code for generating MPMC points can be found at https://github.com/tk-rusch/MPMC.",
+  "authors": [
+   "T. Konstantin Rusch",
+   "Nathan Kirk",
+   "Michael M. Bronstein",
+   "Christiane Lemieux",
+   "Daniela Rus"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA",
+   "stat.ML"
+  ],
+  "comment": "Published in Proceedings of the National Academy of Sciences (PNAS): https://www.pnas.org/doi/10.1073/pnas.2409913121",
+  "first_author": "T. Konstantin Rusch",
+  "pdf_url": "http://arxiv.org/pdf/2405.15059",
+  "primary_category": "cs.LG",
+  "published": "2024-05-23",
+  "tags": [],
+  "title": "Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-09-26"
  },
  "2405.15290": {
   "abstract": "Scientific text is a promising source of data in materials science, with ongoing research into utilising textual data for materials discovery. In this study, we developed and tested a novel approach to extract material-property relationships from scientific publications using the Question Answering (QA) method. QA performance was evaluated for information extraction of perovskite bandgaps based on a human query. We observed considerable variation in results with five different large language models fine-tuned for the QA task. Best extraction accuracy was achieved with the QA MatBERT and F1-scores improved on the current state-of-the-art. This work demonstrates the QA workflow and paves the way towards further applications. The simplicity, versatility and accuracy of the QA approach all point to its considerable potential for text-driven discoveries in materials research.",
@@ -2016,6 +2186,30 @@
   ],
   "updated": "2024-09-03"
  },
+ "2408.14133": {
+  "abstract": "The production cross sections of $h_c$ and $h_b$, the ${}^1P_1$ quarkonia can be predicted in Non-Relativistic Quantum Chromodynamics (NRQCD) using heavy quark symmetry. Our study includes predictions for both the integrated cross-section and the transverse momentum ($p_T$) distribution of $h_c$ ($h_b$) production at the Large Hadron Collider (LHC), using the decay process $h_c (h_b) \\rightarrow η_c (η_b) + γ$, $η_c (η_b) \\rightarrow p \\overline{p}$. We demonstrate substaintial discrepancies in integrated cross-section and the $p_T$ distribution of ${}^1P_1$ quarkonia production at the LHC using Colour-Singlet Model (CSM), NRQCD and modified NRQCD. Measuring these resonances at the LHC could discriminate between these models, thereby offering further insights into the dynamics of quarkonium production. In addition, we compare the recent LHCb data for the integrated cross-section of $h_c$ production at $\\sqrt{s}$ = 13 TeV in the kinematic range 5.0 $<$ $p_T$ $<$ 20.0 GeV and 2.0 $<$ $y$ $<$ 4.0 with the theoretical predictions using NRQCD and modified NRQCD. Modified NRQCD gives an agreement with the recent LHCb experimental data.",
+  "authors": [
+   "Sudhansu S. Biswal",
+   "Sushree S. Mishra",
+   "Monalisa Mohanty",
+   "K. Sridhar"
+  ],
+  "categories": [
+   "hep-ph",
+   "hep-ex"
+  ],
+  "comment": "11 Pages, 4 figures, 1 Table",
+  "first_author": "Sudhansu S. Biswal",
+  "pdf_url": "http://arxiv.org/pdf/2408.14133",
+  "primary_category": "hep-ph",
+  "published": "2024-08-26",
+  "tags": [],
+  "title": "Predictions for $h_c$ and $h_b$ production at the LHC",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2024-09-21"
+ },
  "2409.00127": {
   "abstract": "Accurate modeling and prediction of complex physical systems often rely on data assimilation techniques to correct errors inherent in model simulations. Traditional methods like the Ensemble Kalman Filter (EnKF) and its variants as well as the recently developed Ensemble Score Filters (EnSF) face significant challenges when dealing with high-dimensional and nonlinear Bayesian filtering problems with sparse observations, which are ubiquitous in real-world applications. In this paper, we propose a novel data assimilation method, Latent-EnSF, which leverages EnSF with efficient and consistent latent representations of the full states and sparse observations to address the joint challenges of high dimensionlity in states and high sparsity in observations for nonlinear Bayesian filtering. We introduce a coupled Variational Autoencoder (VAE) with two encoders to encode the full states and sparse observations in a consistent way guaranteed by a latent distribution matching and regularization as well as a consistent state reconstruction. With comparison to several methods, we demonstrate the higher accuracy, faster convergence, and higher efficiency of Latent-EnSF for two challenging applications with complex models in shallow water wave propagation and medium-range weather forecasting, for highly sparse observations in both space and time.",
   "authors": [
@@ -2237,7 +2431,8 @@
   "title": "Two-stage initial-value iterative physics-informed neural networks for simulating solitary waves of nonlinear wave equations",
   "topics": [
    "Quantum Physics & Information",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-09-02"
  },
@@ -3626,7 +3821,8 @@
   "tags": [],
   "title": "A deep learning approach to wall-shear stress quantification: From numerical training to zero-shot experimental application",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:SINDy, data-driven dynamics"
   ],
   "updated": "2024-09-05"
  },
@@ -3924,6 +4120,28 @@
   "title": "Towards Hybrid Embedded Feature Selection and Classification Approach with Slim-TSF",
   "topics": [
    "Astrophysics & Cosmology"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04619": {
+  "abstract": "This paper considers an information theoretic model of secure integrated sensing and communication, represented as a wiretap channel with action dependent states. This model allows securing part of a transmitted message against a sensed target that eavesdrops the communication, while enabling transmitter actions to change the channel statistics. An exact secrecy-distortion region is given for a physically-degraded channel. A finite-length achievability region is established for the model using an output statistics of random binning method, giving an achievable bound for low-latency applications.",
+  "authors": [
+   "Truman Welling",
+   "Onur Günlü",
+   "Aylin Yener"
+  ],
+  "categories": [
+   "cs.IT"
+  ],
+  "comment": "5 pages, 1 figure",
+  "first_author": "Truman Welling",
+  "pdf_url": "http://arxiv.org/pdf/2409.04619",
+  "primary_category": "cs.IT",
+  "published": "2024-09-06",
+  "tags": [],
+  "title": "Low-latency Secure Integrated Sensing and Communication with Transmitter Actions",
+  "topics": [
+   "via:author-whitelist:equivariant ML, generative models"
   ],
   "updated": "2024-09-06"
  },
@@ -6705,6 +6923,33 @@
   ],
   "updated": "2024-09-15"
  },
+ "2409.10012": {
+  "abstract": "The observation of large intrinsic anomalous Hall conductivity (AHC) in the non-collinear antiferromagnetic (AFM) phase of the Weyl semimetal Mn$_3$Sn generates enormous interest in uncovering the entanglement between the real space magnetic ordering and the momentum space band structure. Previous studies show that changes in the magnetic structure induced by the application of hydrostatic and chemical pressure can significantly affect the AHC of Mn$_{3+x}$Sn$_{1-x}$ system. Here, we employ the muon spin relaxation/rotation ($μ^+$SR) technique to systematically investigate the evolution of different magnetic states in the Mn$_{3+x}$Sn$_{1-x}$ as a function of hydrostatic and chemical pressure. We find two muon sites experimentally, which is also supported by our \\textit{ab initio} calculations. Our $μ^+$SR experiments affirm that the $x = 0.05$ compound exhibits a commensurate magnetic state throughout the magnetically ordered phase below the Neel temperature $T_N \\approx 420$~K in ambient pressure. In contrast, we observe an incommensurate magnetic state below $T_{IC} \\sim 175$~K when a hydrostatic pressure of 1.5~GPa is applied. A similar transition from the commensurate to incommensurate state is also found with chemical pressure for $x = 0.04$ and $x = 0.03$, using $μ^+$SR and elastic neutron scattering experiments. Using band structure calculations, we have shown the emergence of Fermi nesting in Mn$_3$Sn and the subsequent development of incommensurate magnetic ordering under hydrostatic/chemical pressure.",
+  "authors": [
+   "K. Bhattacharya",
+   "A. K. Bharatwaj",
+   "C. Singh",
+   "R. Gupta",
+   "R. Khasanov",
+   "S. Kanungo",
+   "A. K. Nayak",
+   "M. Majumder"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "13 pages, 8 figures. Accepted at Physical Review B (2024)",
+  "first_author": "K. Bhattacharya",
+  "pdf_url": "http://arxiv.org/pdf/2409.10012",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-09-16",
+  "tags": [],
+  "title": "Hydrostatic and chemical pressure driven crossover from commensurate to the incommensurate state of the Weyl semimetal Mn$_{3+x}$Sn$_{1-x}$",
+  "topics": [
+   "via:author-whitelist:neural operators, multi-scale"
+  ],
+  "updated": "2024-09-16"
+ },
  "2409.10026": {
   "abstract": "This work is concerned with developing a data-driven approach for learning control barrier certificates (CBCs) and associated safety controllers for discrete-time nonlinear polynomial systems with unknown mathematical models, guaranteeing system safety over an infinite time horizon. The proposed approach leverages measured data acquired through an input-output observation, referred to as a single trajectory, collected over a specified time horizon. By fulfilling a certain rank condition, which ensures the unknown system is persistently excited by the collected data, we design a CBC and its corresponding safety controller directly from the finite-length observed data, without explicitly identifying the unknown dynamical system. This is achieved through proposing a data-based sum-of-squares optimization (SOS) program to systematically design CBCs and their safety controllers. We validate our data-driven approach over two physical case studies including a jet engine and a Lorenz system, demonstrating the efficacy of our proposed method.",
   "authors": [
@@ -6990,7 +7235,8 @@
   "tags": [],
   "title": "Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design",
   "topics": [
-   "Generative Models & Discovery"
+   "Generative Models & Discovery",
+   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2024-09-30"
  },
@@ -8039,6 +8285,31 @@
   ],
   "updated": "2024-09-19"
  },
+ "2409.12550": {
+  "abstract": "Reliable, real-time state estimation in nuclear reactors is of critical importance for monitoring, control and safety. It further empowers the development of digital twins that are sufficiently accurate for real-world deployment. As nuclear engineering systems are typically characterised by extreme environments, their in-core sensing is a challenging task, even more so in Generation-IV reactor concepts, which feature molten salt or liquid metals as thermal carriers. The emergence of data-driven methods allows for new techniques for accurate and robust estimation of the full state space vector characterising the reactor (mainly composed by neutron fluxes and the thermal-hydraulics fields). These techniques can combine different sources of information, including computational proxy models and local noisy measurements on the system, in order to robustly estimate the state. This work leverages the Shallow Recurrent Decoder (SHRED) architecture to estimate the entire state vector of a reactor from three, out-of-core time-series neutron flux measurements alone. Specifically, the Molten Salt Fast Reactor, in the EVOL geometry (Evaluation and Viability of Liquid Fuel Fast Reactor System project), is demonstrated as a test case, with neutron flux measurements alone allowing for reconstruction of the 20 coupled field variables of the dynamics. This approach can further quantify the uncertainty associated with the state estimation due to its considerably low training cost on compressed data. The accurate reconstruction of every characteristic field in real-time makes this approach suitable for monitoring and control purposes in the framework of a reactor digital twin.",
+  "authors": [
+   "Stefano Riva",
+   "Carolina Introini",
+   "Antonio Cammi",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "math.NA",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Stefano Riva",
+  "pdf_url": "http://arxiv.org/pdf/2409.12550",
+  "primary_category": "physics.ins-det",
+  "published": "2024-09-19",
+  "tags": [],
+  "title": "Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors",
+  "topics": [
+   "via:author-whitelist:data-driven dynamical systems"
+  ],
+  "updated": "2024-09-19"
+ },
  "2409.12582": {
   "abstract": "High-performance programmable silicon photonic circuits are considered to be a critical part of next generation architectures for optical processing, photonic quantum circuits and neural networks. Low-loss optical phase change materials (PCMs) offer a promising route towards non-volatile free-form control of light. Here, we exploit direct-write digital patterning of waveguides using layers of the PCM Sb$_2$Se$_3$ with a thickness of up to 100 nm, demonstrating the ability to strongly increase the effect per pixel compared to previous implementations where much thinner PCM layers were used. We exploit the excellent refractive index matching between Sb$_2$Se$_3$ and silicon to achieve a low-loss hybrid platform for programmable photonics. A five-fold reduction in modulation length of a Mach-Zehnder interferometer is achieved compared to previous work using thin-film Sb$_2$Se$_3$ devices, decreased to 5 $μ$m in this work. Application of the thicker PCM layers in direct-write digital programming of a multimode interferometer (MMI) shows a three-fold reduction of the number of programmed pixels to below 10 pixels per device. The demonstrated scaling of performance with PCM layer thickness is important for establishing the optimum working range for hybrid silicon-PCM devices and holds promise for achieving ultracompact programmable photonic circuits.",
   "authors": [
@@ -8288,7 +8559,8 @@
   ],
   "title": "CMINNs: Compartment Model Informed Neural Networks -- Unlocking Drug Dynamics",
   "topics": [
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-09-19"
  },
@@ -8825,6 +9097,34 @@
   "title": "A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer",
   "topics": [
    "Climate, Weather & Geophysics"
+  ],
+  "updated": "2024-09-21"
+ },
+ "2409.14206": {
+  "abstract": "This paper describes the capabilities and potential of the intelligent personal assistant (IPA) CORE (Checklist Organizer for Research and Exploration), designed to support astronauts during procedures onboard the International Space Station (ISS), the Lunar Gateway station, and beyond. We reflect on the importance of a reliable and flexible assistant capable of offline operation and highlight the usefulness of audiovisual interaction using augmented reality elements to intuitively display checklist information. We argue that current approaches to the design of IPAs in space operations fall short of meeting these criteria. Therefore, we propose CORE as an assistant that combines Knowledge Graphs (KGs), Retrieval-Augmented Generation (RAG) for a Generative Pre-Trained Transformer (GPT), and Augmented Reality (AR) elements to ensure an intuitive understanding of procedure steps, reliability, offline availability, and flexibility in terms of response style and procedure updates.",
+  "authors": [
+   "Oliver Bensch",
+   "Leonie Bensch",
+   "Tommy Nilsson",
+   "Florian Saling",
+   "Bernd Bewer",
+   "Sophie Jentzsch",
+   "Tobias Hecking",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.HC"
+  ],
+  "comment": "Accepted for the ESA SPAICE Conference 2024: AI in and for Space",
+  "first_author": "Oliver Bensch",
+  "pdf_url": "http://arxiv.org/pdf/2409.14206",
+  "primary_category": "cs.AI",
+  "published": "2024-09-21",
+  "tags": [],
+  "title": "AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues",
+  "topics": [
+   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2024-09-21"
  },
@@ -9780,6 +10080,60 @@
    "Generative Models & Discovery"
   ],
   "updated": "2024-09-10"
+ },
+ "2409.17228": {
+  "abstract": "We introduce Disk2Planet, a machine learning-based tool to infer key parameters in disk-planet systems from observed protoplanetary disk structures. Disk2Planet takes as input the disk structures in the form of two-dimensional density and velocity maps, and outputs disk and planet properties, that is, the Shakura--Sunyaev viscosity, the disk aspect ratio, the planet--star mass ratio, and the planet's radius and azimuth. We integrate the Covariance Matrix Adaptation Evolution Strategy (CMA--ES), an evolutionary algorithm tailored for complex optimization problems, and the Protoplanetary Disk Operator Network (PPDONet), a neural network designed to predict solutions of disk--planet interactions. Our tool is fully automated and can retrieve parameters in one system in three minutes on an Nvidia A100 graphics processing unit. We empirically demonstrate that our tool achieves percent-level or higher accuracy, and is able to handle missing data and unknown levels of noise.",
+  "authors": [
+   "Shunyuan Mao",
+   "Ruobing Dong",
+   "Kwang Moo Yi",
+   "Lu Lu",
+   "Sifan Wang",
+   "Paris Perdikaris"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "Accepted to ApJ",
+  "first_author": "Shunyuan Mao",
+  "pdf_url": "http://arxiv.org/pdf/2409.17228",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-09-25",
+  "tags": [],
+  "title": "Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk-Planet Systems",
+  "topics": [
+   "via:author-whitelist:PINNs, Bayesian SciML"
+  ],
+  "updated": "2024-09-25"
+ },
+ "2409.17340": {
+  "abstract": "Loss of hand function due to conditions like stroke or multiple sclerosis significantly impacts daily activities. Robotic rehabilitation provides tools to restore hand function, while novel methods based on surface electromyography (sEMG) enable the adaptation of the device's force output according to the user's condition, thereby improving rehabilitation outcomes. This study aims to achieve accurate force estimations during medium wrap grasps using a single sEMG sensor pair, thereby addressing the challenge of escalating sensor requirements for precise predictions. We conducted sEMG measurements on 13 subjects at two forearm positions, validating results with a hand dynamometer. We established flexible signal-processing steps, yielding high peak cross-correlations between the processed sEMG signal (representing meaningful muscle activity) and grip force. Influential parameters were subsequently identified through sensitivity analysis. Leveraging a novel data-driven Koopman operator theory-based approach and problem-specific data lifting techniques, we devised a methodology for the estimation and short-term prediction of grip force from processed sEMG signals. A weighted mean absolute percentage error (wMAPE) of approx. 5.5% was achieved for the estimated grip force, whereas predictions with a 0.5-second prediction horizon resulted in a wMAPE of approx. 17.9%. The methodology proved robust regarding precise electrode positioning, as the effect of sensing position on error metrics was non-significant. The algorithm executes exceptionally fast, processing, estimating, and predicting a 0.5-second sEMG signal batch in just approx. 30 ms, facilitating real-time implementation.",
+  "authors": [
+   "Tomislav Bazina",
+   "Ervin Kamenar",
+   "Maria Fonoberova",
+   "Igor Mezić"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "math.DS"
+  ],
+  "comment": "11 pages, 8 figures, journal",
+  "first_author": "Tomislav Bazina",
+  "pdf_url": "http://arxiv.org/pdf/2409.17340",
+  "primary_category": "cs.RO",
+  "published": "2024-09-25",
+  "tags": [
+   "koopman-operator"
+  ],
+  "title": "Koopman-driven grip force prediction through EMG sensing",
+  "topics": [
+   "via:author-whitelist:Koopman operator theory"
+  ],
+  "updated": "2024-09-25"
  },
  "2409.17354": {
   "abstract": "Knowledge of ocean circulation is important for understanding and predicting weather and climate, and managing the blue economy. This circulation can be estimated through Sea Surface Height (SSH) observations, but requires decomposing the SSH into contributions from balanced and unbalanced motions (BMs and UBMs). This decomposition is particularly pertinent for the novel SWOT satellite, which measures SSH at an unprecedented spatial resolution. Specifically, the requirement, and the goal of this work, is to decompose instantaneous SSH into BMs and UBMs. While a few studies using deep learning (DL) approaches have shown promise in framing this decomposition as an image-to-image translation task, these models struggle to work well across a wide range of spatial scales and require extensive training data, which is scarce in this domain. These challenges are not unique to our task, and pervade many problems requiring multi-scale fidelity. We show that these challenges can be addressed by using zero-phase component analysis (ZCA) whitening and data augmentation; making this a viable option for SSH decomposition across scales.",
@@ -11442,6 +11796,32 @@
    "Climate, Weather & Geophysics"
   ],
   "updated": "2024-09-18"
+ },
+ "2410.05281": {
+  "abstract": "Heterogeneous materials, crucial in various engineering applications, exhibit complex multiscale behavior, which challenges the effectiveness of traditional computational methods. In this work, we introduce the Micromechanics Transformer ({\\em Micrometer}), an artificial intelligence (AI) framework for predicting the mechanical response of heterogeneous materials, bridging the gap between advanced data-driven methods and complex solid mechanics problems. Trained on a large-scale high-resolution dataset of 2D fiber-reinforced composites, Micrometer can achieve state-of-the-art performance in predicting microscale strain fields across a wide range of microstructures, material properties under any loading conditions and We demonstrate the accuracy and computational efficiency of Micrometer through applications in computational homogenization and multiscale modeling, where Micrometer achieves 1\\% error in predicting macroscale stress fields while reducing computational time by up to two orders of magnitude compared to conventional numerical solvers. We further showcase the adaptability of the proposed model through transfer learning experiments on new materials with limited data, highlighting its potential to tackle diverse scenarios in mechanical analysis of solid materials. Our work represents a significant step towards AI-driven innovation in computational solid mechanics, addressing the limitations of traditional numerical methods and paving the way for more efficient simulations of heterogeneous materials across various industrial applications.",
+  "authors": [
+   "Sifan Wang",
+   "Tong-Rui Liu",
+   "Shyam Sankaran",
+   "Paris Perdikaris"
+  ],
+  "categories": [
+   "cs.CE",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 12 figures, 9 tables",
+  "first_author": "Sifan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2410.05281",
+  "primary_category": "cs.CE",
+  "published": "2024-09-23",
+  "tags": [],
+  "title": "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials",
+  "topics": [
+   "via:author-whitelist:PINNs, Bayesian SciML"
+  ],
+  "updated": "2024-09-23"
  },
  "2410.08218": {
   "abstract": "Estimating the location and intensity of tropical cyclones holds crucial significance for predicting catastrophic weather events. In this study, we approach this task as a detection and regression challenge, specifically over the North Indian Ocean (NIO) region where best tracks location and wind speed information serve as the labels. The current process for cyclone detection and intensity estimation involves physics-based simulation studies which are time-consuming, only using image features will automate the process for significantly faster and more accurate predictions. While conventional methods typically necessitate substantial prior knowledge for training, we are exploring alternative approaches to enhance efficiency. This research aims to focus specifically on cyclone detection, intensity estimation and related aspects using only image input and data-driven approaches and will lead to faster inference time and automate the process as opposed to current NWP models being utilized at SAC. In context to algorithm development, a novel two stage detection and intensity estimation module is proposed. In the first level detection we try to localize the cyclone over an entire image as captured by INSAT3D over the NIO (North Indian Ocean). For the intensity estimation task, we propose a CNN-LSTM network, which works on the cyclone centered images, utilizing a ResNet-18 backbone, by which we are able to capture both temporal and spatial characteristics.",

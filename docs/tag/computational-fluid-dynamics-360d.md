@@ -670,6 +670,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2511.00122">2511.00122</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26645.html">Curly Flow Matching for Learning Non-gradient Field Dynamics</a></div></td>
+<td>Katarina Petrović et al.</td>
+<td><a href="http://arxiv.org/abs/2510.26645">2510.26645</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25683.html">Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Alessandro Lucchetti et al.</td>
@@ -1064,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09063.html">Single-shot prediction of parametric partial differential equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Khalid Rafiq et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09063">2505.09063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06849.html">Predictive Digital Twins for Thermal Management Using Machine Learning and Reduced-Order Models</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Tamilselvan Subramani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06849">2505.06849</a></td>
 </tr>
 </tbody></table>

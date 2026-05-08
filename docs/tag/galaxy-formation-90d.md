@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>galaxy-formation — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <strong>90d</strong> <a href="galaxy-formation-360d.html">360d</a> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10244.html">The S-PLUS Fornax Project (S+FP): An extragalactic catalog covering $\sim$ 5 virial radii around NGC 1399 with galaxy properties</a></div></td>
 <td>R. F. Haack et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10244">2602.10244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05881.html">Predicting galaxy bias using machine learning</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Catalina Riveros-Jara et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05881">2602.05881</a></td>
 </tr>
 </tbody></table>

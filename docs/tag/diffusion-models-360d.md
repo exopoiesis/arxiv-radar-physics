@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">617 papers</span>
+  <span class="paper-count">621 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,6 +1046,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11526.html">Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis</a></div></td>
 <td>Yuan Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11526">2506.11526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14977.html">MacroGuide: Topological Guidance for Macrocycle Generation</a></div></td>
+<td>Alicja Maksymiuk et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14977">2602.14977</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-14</td>
@@ -2482,6 +2488,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2510.01749">2510.01749</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03335.html">Matching the Optimal Denoiser in Point Cloud Diffusion with (Improved) Rotational Alignment</a></div></td>
+<td>Ameya Daigavane et al.</td>
+<td><a href="http://arxiv.org/abs/2510.03335">2510.03335</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10431.html">Diffusion Model-based Parameter Estimation in Dynamic Power Systems</a></div></td>
 <td>Feiqin Zhu et al.</td>
@@ -2915,6 +2927,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01521.html">Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Bingliang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2407.01521">2407.01521</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02834.html">Learning from B Cell Evolution: Adaptive Multi-Expert Diffusion for Antibody Design via Online Optimization</a></div></td>
 <td>Hanqi Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02834">2508.02834</a></td>
@@ -3221,6 +3239,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18731.html">Thermalizer: Stable autoregressive neural emulation of spatiotemporal chaos</a></div></td>
+<td>Chris Pedersen et al.</td>
+<td><a href="http://arxiv.org/abs/2503.18731">2503.18731</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05060.html">A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Berkay Gunes et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05060">2507.05060</a></td>
@@ -3278,6 +3302,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02144.html">Establishing baselines for generative discovery of inorganic crystals</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Nathan J. Szymanski et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02144">2501.02144</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13094.html">Robust Representation Consistency Model via Contrastive Denoising</a></div></td>
+<td>Jiachen Lei et al.</td>
+<td><a href="http://arxiv.org/abs/2501.13094">2501.13094</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-30</td>
@@ -3710,11 +3740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08065.html">InvDesFlow: An AI-driven materials inverse design workflow to explore possible high-temperature superconductors</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2409.08065">2409.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04134.html">M2PDE: Compositional Generative Multiphysics and Multi-component PDE Simulation</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a></div></td>
-<td>Tao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04134">2412.04134</a></td>
 </tr>
 </tbody></table>

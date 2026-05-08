@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,6 +200,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19078.html">Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning</a></div></td>
 <td>Sangwoo Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19078">2603.19078</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11534.html">Krause Synchronization Transformers</a></div></td>
+<td>Jingkun Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2602.11534">2602.11534</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-18</td>
@@ -926,6 +932,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11350.html">Deep Random Features for Scalable Interpolation of Spatiotemporal Data</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>
 <td>Weibin Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11350">2412.11350</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20313.html">Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation</a></div></td>
+<td>Guillaume Huguet et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20313">2405.20313</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-26</td>

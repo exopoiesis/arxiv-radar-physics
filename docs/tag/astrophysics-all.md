@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -689,6 +689,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15326.html">Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine C: Finding lenses with machine learning</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15326">2503.15326</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22519.html">Exploring the parameter space of hierarchical triple black hole systems</a></div></td>
 <td>M. Attia et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22519">2506.22519</a></td>
@@ -1090,6 +1096,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.00271">2410.00271</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14995.html">Solar flare observations with the Radio Neutrino Observatory Greenland (RNO-G)</a></div></td>
+<td>S. Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2404.14995">2404.14995</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12141.html">Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling</a></div></td>
 <td>W. S. Porter et al.</td>
@@ -1136,6 +1148,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16829.html">Maven: A Multimodal Foundation Model for Supernova Science</a></div></td>
 <td>Gemma Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16829">2408.16829</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12725.html">DUNE Phase II: Scientific Opportunities, Detector Concepts, Technological Solutions</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-all.html">physics-beyond-the-standard-model</a></div></td>
+<td>DUNE Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2408.12725">2408.12725</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-07</td>

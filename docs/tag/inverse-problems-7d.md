@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01463.html">A Neural Latent Dynamics Approach for Solving Inverse Problems in Cardiac Electrophysiology</a></div></td>
 <td>Edoardo Centofanti et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01463">2605.01463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03478.html">PhotIQA: A photoacoustic image data set with image quality ratings</a></div></td>
-<td>Anna Breger et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03478">2507.03478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20549.html">Sample-efficient evidence estimation of score based priors for model selection</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20549">2602.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28154.html">Mapping data sensitivities in global QCD analysis with linear response and influence functions</a></div></td>
-<td>Richard Whitehill</td>
-<td><a href="http://arxiv.org/abs/2604.28154">2604.28154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26937.html">Designing Solutions to Geophysical Inverse Problems by Changing Variables</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>Xuebin Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26937">2604.26937</a></td>
 </tr>
 </tbody></table>

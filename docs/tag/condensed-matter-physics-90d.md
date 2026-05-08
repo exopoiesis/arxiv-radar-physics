@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <strong>90d</strong> <a href="condensed-matter-physics-360d.html">360d</a> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13826.html">Neural-network quantum states for the nuclear many-body problem</a></div></td>
 <td>Alessandro Lovato et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13826">2602.13826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05313.html">Beyond overcomplication: a linear model suffices to decode hidden structure-property relationships in glasses</a></div></td>
-<td>Chenyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05313">2602.05313</a></td>
 </tr>
 </tbody></table>

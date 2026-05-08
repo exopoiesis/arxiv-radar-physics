@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2734,6 +2734,18 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.02351">2405.02351</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16845.html">Neural Operators with Localized Integral and Differential Kernels</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Miguel Liu-Schiaffini et al.</td>
+<td><a href="http://arxiv.org/abs/2402.16845">2402.16845</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.11037.html">Equivariant Graph Neural Operator for Modeling 3D Dynamics</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Minkai Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2401.11037">2401.11037</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02597.html">CoNO: Complex Neural Operator for Continous Dynamical Physical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Karn Tiwari et al.</td>
@@ -2771,6 +2783,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03542.html">DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Zhongkai Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2403.03542">2403.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04003.html">High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators</a></div></td>
 <td>Joseph Farmer et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04003">2405.04003</a></td>
@@ -2780,5 +2798,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01355.html">Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>S. J. P. Pamela et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01355">2405.01355</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.08886.html">RiemannONets: Interpretable Neural Operators for Riemann Problems</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
+<td>Ahmad Peyvan et al.</td>
+<td><a href="http://arxiv.org/abs/2401.08886">2401.08886</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.15715.html">Operator Learning: Algorithms and Analysis</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Nikola B. Kovachki et al.</td>
+<td><a href="http://arxiv.org/abs/2402.15715">2402.15715</a></td>
 </tr>
 </tbody></table>

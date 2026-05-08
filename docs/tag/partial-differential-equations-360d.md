@@ -3251,6 +3251,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00324.html">Extending the trapping theorem to provide local stability guarantees for quadratically nonlinear models</a></div></td>
+<td>Mai Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2403.00324">2403.00324</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07945.html">Quantum Random Feature Method for Solving Partial Differential Equations</a></div></td>
 <td>Junpeng Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07945">2510.07945</a></td>
@@ -4964,11 +4970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08491.html">Numerical Solution of Mixed-Dimensional PDEs Using a Neural Preconditioner</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Nunzio Dimola et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08491">2505.08491</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07526.html">Saturation theorems for neural network operators by solving elliptic and hyperbolic PDEs with analytical and semi-analytical inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Danilo Costarelli</td>
-<td><a href="http://arxiv.org/abs/2505.07526">2505.07526</a></td>
 </tr>
 </tbody></table>

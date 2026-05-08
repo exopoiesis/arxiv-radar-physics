@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">323 papers</span>
+  <span class="paper-count">338 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -148,6 +148,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2604.02300">2604.02300</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21304.html">Euclid Quick Data Release (Q1). The first Euclid view of Planck galaxy protocluster candidates at cosmic noon</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.21304">2503.21304</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04435.html">The AGORA High-resolution Galaxy Simulations Comparison Project. X: Formation and Evolution of Galaxies at the High-redshift Frontier</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Hyeonyong Kim et al.</td>
@@ -224,6 +230,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01622.html">Analytical Emulator for the Baryon Density Distribution inside the Fuzzy Dark Matter Soliton from Machine Learning</a></div></td>
 <td>Ke Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01622">2512.01622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10735.html">Euclid: The linear-construction covariance and cosmology</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
+<td>V. Lindholm et al.</td>
+<td><a href="http://arxiv.org/abs/2603.10735">2603.10735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-10</td>
@@ -388,6 +400,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.15329">2503.15329</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08266.html">Euclid preparation: LXXXVII. Non-Gaussianity of 2-point statistics likelihood: Precise analysis of the matter power spectrum distribution</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08266">2511.08266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05326.html">Running the small-correlated-against-large estimator at scale: Applications of small-scale CMB lensing estimators on realistic simulations</a></div></td>
 <td>Victor C. Chan et al.</td>
@@ -464,6 +482,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00091.html">Deep learning optimal molecular scintillators for dark matter direct detection</a></div></td>
 <td>Cameron Cook et al.</td>
 <td><a href="http://arxiv.org/abs/2501.00091">2501.00091</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12863.html">Cosmological effect of coherent oscillation of ultralight scalar fields in a multicomponent universe</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2506.12863">2506.12863</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-16</td>
@@ -626,6 +650,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11795.html">Non-Parametric Reconstruction of the Hubble Parameter from the Fourth Gravitational Wave Transient Catalog and DESI Baryonic Acoustic Oscillations</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="ligo-all.html">ligo</a></div></td>
 <td>Grégoire Pierra et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11795">2511.11795</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10754.html">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector</a></div></td>
+<td>S. Abubakar et al.</td>
+<td><a href="http://arxiv.org/abs/2507.10754">2507.10754</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-12</td>
@@ -884,6 +914,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21215.html">Transfer learning for multifidelity simulation-based inference in cosmology</a></div></td>
 <td>Alex A. Saoulis et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21215">2505.21215</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12116.html">Euclid preparation. Simulating thousands of Euclid spectroscopic skies</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2507.12116">2507.12116</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-26</td>
@@ -1289,6 +1325,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07629.html">Gravitational collapse of Matter in the presence of Scalar field Dark energy</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2506.07629">2506.07629</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08086.html">Large, fast and accurate HI intensity maps with latent overlap diffusion</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
 <td>Satvik Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08086">2506.08086</a></td>
@@ -1408,6 +1450,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2501.12734">2501.12734</a></td>
 </tr>
 <tr class="paper">
+<td>2025-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17867.html">Euclid preparation: TBD. Cosmic Dawn Survey: evolution of the galaxy stellar mass function across 0.2&lt;z&lt;6.5 measured over 10 square degrees</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2504.17867">2504.17867</a></td>
+</tr>
+<tr class="paper">
 <td>2025-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18471.html">Symbolic Regression for Beyond the Standard Model Physics</a></div><div class="paper-tags"><a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
 <td>Shehu AbdusSalam et al.</td>
@@ -1450,6 +1498,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.07187">2504.07187</a></td>
 </tr>
 <tr class="paper">
+<td>2025-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20736.html">Non-minimal coupling of scalar fields in the dark sector and generalization of the top-hat collapse</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2410.20736">2410.20736</a></td>
+</tr>
+<tr class="paper">
 <td>2025-04-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03303.html">Gaia GraL: Gaia gravitational lens systems IX. Using XGBoost to explore the Gaia Focused Product Release GravLens catalogue</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
 <td>Quentin Petit et al.</td>
@@ -1460,6 +1514,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03519.html">The Three Hundred Project: A fast semi-analytic model emulator of hydrodynamical galaxy cluster simulations</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Jonathan S. Gómez et al.</td>
 <td><a href="http://arxiv.org/abs/2504.03519">2504.03519</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23291.html">The DUNE Science Program</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
+<td>DUNE Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.23291">2503.23291</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-28</td>
@@ -1486,10 +1546,28 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.20732">2503.20732</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17455.html">Euclid preparation LXX. Forecasting detection limits for intracluster light in the Euclid Wide Survey</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.17455">2503.17455</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15307.html">Euclid Quick Data Release (Q1): From spectrograms to spectra: the SIR spectroscopic Processing Function</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15307">2503.15307</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15327.html">Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine D -- Double-source-plane lens candidates</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
 <td>Euclid Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2503.15327">2503.15327</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15330.html">Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15330">2503.15330</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-18</td>
@@ -1604,6 +1682,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06876.html">Convolutional Neural Network-Based Neutron and Gamma Discrimination in EJ-276 for Low-Energy Detection</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Fengzhao Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.06876">2405.06876</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01110.html">End equilibrium state of a spherical gravitational collapse in the presence of matter and scalar field</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Debanjan Debnath et al.</td>
+<td><a href="http://arxiv.org/abs/2409.01110">2409.01110</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-05</td>
@@ -1952,5 +2036,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Jonah C. Rose et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.11957.html">Gravitational collapse of matter in the presence of non-minimally coupled Quintessence and Phantom-like scalar fields</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2401.11957">2401.11957</a></td>
 </tr>
 </tbody></table>

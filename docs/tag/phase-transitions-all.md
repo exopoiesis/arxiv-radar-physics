@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1252,6 +1252,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.06334">2502.06334</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.01723.html">Statistical Mechanics of Dynamical System Identification</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="equation-discovery-all.html">equation-discovery</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Andrei A. Klishin et al.</td>
+<td><a href="http://arxiv.org/abs/2403.01723">2403.01723</a></td>
+</tr>
+<tr class="paper">
 <td>2025-02-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02206.html">Dynamic Mean-Field Theory for Continuous Random Networks</a></div></td>
 <td>W. A. Zúñiga-Galindo</td>
@@ -1451,6 +1457,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.04194.html">On interpretation of fluctuations of conserved charges at high T</a></div></td>
+<td>T. D. Cohen et al.</td>
+<td><a href="http://arxiv.org/abs/2401.04194">2401.04194</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01949.html">Efficient coding with chaotic neural networks: A journey from neuroscience to physics and back</a></div></td>
 <td>Jonathan Kadmon</td>
 <td><a href="http://arxiv.org/abs/2408.01949">2408.01949</a></td>
@@ -1508,5 +1520,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17088.html">Phase Transitions in the Output Distribution of Large Language Models</a></div></td>
 <td>Julian Arnold et al.</td>
 <td><a href="http://arxiv.org/abs/2405.17088">2405.17088</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18494.html">Learning in PINNs: Phase transition, total diffusion, and generalization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Sokratis J. Anagnostopoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2403.18494">2403.18494</a></td>
 </tr>
 </tbody></table>

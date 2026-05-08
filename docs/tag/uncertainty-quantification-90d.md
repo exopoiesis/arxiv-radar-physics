@@ -586,6 +586,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2412.05663">2412.05663</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01478.html">Purrception: Variational Flow Matching for Vector-Quantized Image Generation</a></div></td>
+<td>Răzvan-Andrei Matişan et al.</td>
+<td><a href="http://arxiv.org/abs/2510.01478">2510.01478</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12870.html">Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Matteo Giacomini et al.</td>
@@ -962,11 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07856.html">Inhomogeneous Priors for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Babak Maboudi Afkham et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07856">2602.07856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02777.html">DUST: A Framework for Data-Driven Density Steering</a></div></td>
-<td>Joshua Pilipovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02777">2408.02777</a></td>
 </tr>
 </tbody></table>

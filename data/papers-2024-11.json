@@ -1,4 +1,379 @@
 {
+ "2401.15122": {
+  "abstract": "In drug discovery, molecular dynamics (MD) simulation for protein-ligand binding provides a powerful tool for predicting binding affinities, estimating transport properties, and exploring pocket sites. There has been a long history of improving the efficiency of MD simulations through better numerical methods and, more recently, by utilizing machine learning (ML) methods. Yet, challenges remain, such as accurate modeling of extended-timescale simulations. To address this issue, we propose NeuralMD, the first ML surrogate that can facilitate numerical MD and provide accurate simulations in protein-ligand binding dynamics. We propose a principled approach that incorporates a novel physics-informed multi-grained group symmetric framework. Specifically, we propose (1) the BindingNet model that satisfies group symmetry using vector frames and captures the multi-level protein-ligand interactions, and (2) an augmented neural differential equation solver that learns the trajectory under Newtonian mechanics. For the experiment, we design ten single-trajectory and three multi-trajectory binding simulation tasks. We demonstrate the efficiency and effectiveness of NeuralMD, achieving over 1K$\\times$ speedup compared to standard numerical MD simulations. NeuralMD also outperforms all other ML approaches, achieving up to 15$\\times$ reduction in reconstruction error and 70% increase in validity. Additionally, we qualitatively illustrate that the oscillations in the predicted trajectories align more closely with ground-truth dynamics than those of other machine-learning methods. We believe NeuralMD paves the foundation for a new research paradigm in simulating protein-ligand dynamics.",
+  "authors": [
+   "Shengchao Liu",
+   "Weitao Du",
+   "Hannan Xu",
+   "Yanjing Li",
+   "Zhuoxinran Li",
+   "Vignesh Bhethanabotla",
+   "Divin Yan",
+   "Christian Borgs",
+   "Anima Anandkumar",
+   "Hongyu Guo",
+   "Jennifer Chayes"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.BM",
+   "q-bio.QM",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Shengchao Liu",
+  "pdf_url": "http://arxiv.org/pdf/2401.15122",
+  "primary_category": "cs.LG",
+  "published": "2024-01-26",
+  "tags": [],
+  "title": "A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-11-26"
+ },
+ "2402.02681": {
+  "abstract": "Equivariant neural networks (ENNs) have been shown to be extremely effective in applications involving underlying symmetries. By construction ENNs cannot produce lower symmetry outputs given a higher symmetry input. However, symmetry breaking occurs in many physical systems and we may obtain a less symmetric stable state from an initial highly symmetric one. Hence, it is imperative that we understand how to systematically break symmetry in ENNs. In this work, we propose a novel symmetry breaking framework that is fully equivariant and is the first which fully addresses spontaneous symmetry breaking. We emphasize that our approach is general and applicable to equivariance under any group. To achieve this, we introduce the idea of symmetry breaking sets (SBS). Rather than redesign existing networks, we design sets of symmetry breaking objects which we feed into our network based on the symmetry of our inputs and outputs. We show there is a natural way to define equivariance on these sets, which gives an additional constraint. Minimizing the size of these sets equates to data efficiency. We prove that minimizing these sets translates to a well studied group theory problem, and tabulate solutions to this problem for the point groups. Finally, we provide some examples of symmetry breaking to demonstrate how our approach works in practice. The code for these examples is available at \\url{https://github.com/atomicarchitects/equivariant-SBS}.",
+  "authors": [
+   "YuQing Xie",
+   "Tess Smidt"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "50 pages, 19 figures Published in Transactions on Machine Learning Research, October 2024",
+  "first_author": "YuQing Xie",
+  "pdf_url": "http://arxiv.org/pdf/2402.02681",
+  "primary_category": "cs.LG",
+  "published": "2024-02-05",
+  "tags": [
+   "equivariant-neural-networks"
+  ],
+  "title": "Equivariant Symmetry Breaking Sets",
+  "topics": [
+   "via:author-whitelist:e3nn, equivariant tensor networks"
+  ],
+  "updated": "2024-11-14"
+ },
+ "2403.07266": {
+  "abstract": "This Letter reports a search for charge-parity ($CP$) symmetry violating nonstandard interactions (NSI) of neutrinos with matter using the NOvA Experiment, and examines their effects on the determination of the standard oscillation parameters. Data from $ν_μ(\\barν_μ)\\rightarrowν_μ(\\barν_μ)$ and $ν_μ(\\barν_μ)\\rightarrowν_{e}(\\barν_{e})$ oscillation channels are used to measure the effect of the NSI parameters $\\varepsilon_{eμ}$ and $\\varepsilon_{eτ}$. With 90% CL the magnitudes of the NSI couplings are constrained to be $|\\varepsilon_{eμ}| \\, \\lesssim 0.3$ and $|\\varepsilon_{eτ}| \\, \\lesssim 0.4$. A degeneracy at $|\\varepsilon_{eτ}| \\, \\approx 1.8$ is reported, and we observe that the presence of NSI limits sensitivity to the standard $CP$ phase $δ_{\\tiny\\text{CP}}$.",
+  "authors": [
+   "NOvA Collaboration",
+   "M. A. Acero",
+   "B. Acharya",
+   "P. Adamson",
+   "L. Aliaga",
+   "N. Anfimov",
+   "A. Antoshkin",
+   "E. Arrieta-Diaz",
+   "L. Asquith",
+   "A. Aurisano",
+   "A. Back",
+   "N. Balashov",
+   "P. Baldi",
+   "B. A. Bambah",
+   "A. Bat",
+   "K. Bays",
+   "R. Bernstein",
+   "T. J. C. Bezerra",
+   "V. Bhatnagar",
+   "D. Bhattarai",
+   "B. Bhuyan",
+   "J. Bian",
+   "A. C. Booth",
+   "R. Bowles",
+   "B. Brahma",
+   "C. Bromberg",
+   "N. Buchanan",
+   "A. Butkevich",
+   "S. Calvez",
+   "T. J. Carroll",
+   "E. Catano-Mur",
+   "J. P. Cesar",
+   "A. Chatla",
+   "S. Chaudhary",
+   "R. Chirco",
+   "B. C. Choudhary",
+   "A. Christensen",
+   "M. F. Cicala",
+   "T. E. Coan",
+   "A. Cooleybeck",
+   "C. Cortes-Parra",
+   "D. Coveyou",
+   "L. Cremonesi",
+   "G. S. Davies",
+   "P. F. Derwent",
+   "Z. Djurcic",
+   "M. Dolce",
+   "D. Doyle",
+   "D. Dueñas Tonguino",
+   "E. C. Dukes",
+   "A. Dye",
+   "R. Ehrlich",
+   "E. Ewart",
+   "P. Filip",
+   "J. Franc",
+   "M. J. Frank",
+   "H. R. Gallagher",
+   "F. Gao",
+   "A. Giri",
+   "R. A. Gomes",
+   "M. C. Goodman",
+   "M. Groh",
+   "R. Group",
+   "A. Habig",
+   "F. Hakl",
+   "J. Hartnell",
+   "R. Hatcher",
+   "M. He",
+   "K. Heller",
+   "V Hewes",
+   "A. Himmel",
+   "Y. Ivaneev",
+   "A. Ivanova",
+   "B. Jargowsky",
+   "J. Jarosz",
+   "C. Johnson",
+   "M. Judah",
+   "I. Kakorin",
+   "D. M. Kaplan",
+   "A. Kalitkina",
+   "J. Kleykamp",
+   "O. Klimov",
+   "L. W. Koerner",
+   "L. Kolupaeva",
+   "R. Kralik",
+   "A. Kumar",
+   "C. D. Kuruppu",
+   "V. Kus",
+   "T. Lackey",
+   "K. Lang",
+   "J. Lesmeister",
+   "A. Lister",
+   "J. Liu",
+   "J. A. Lock",
+   "M. Lokajicek",
+   "M. MacMahon",
+   "S. Magill",
+   "W. A. Mann",
+   "M. T. Manoharan",
+   "M. Manrique Plata",
+   "M. L. Marshak",
+   "M. Martinez-Casales",
+   "V. Matveev",
+   "B. Mehta",
+   "M. D. Messier",
+   "H. Meyer",
+   "T. Miao",
+   "V. Mikola",
+   "W. H. Miller",
+   "S. Mishra",
+   "S. R. Mishra",
+   "A. Mislivec",
+   "R. Mohanta",
+   "A. Moren",
+   "A. Morozova",
+   "W. Mu",
+   "L. Mualem",
+   "M. Muether",
+   "K. Mulder",
+   "D. Myers",
+   "D. Naples",
+   "A. Nath",
+   "S. Nelleri",
+   "J. K. Nelson",
+   "R. Nichol",
+   "E. Niner",
+   "A. Norman",
+   "A. Norrick",
+   "T. Nosek",
+   "H. Oh",
+   "A. Olshevskiy",
+   "T. Olson",
+   "M. Ozkaynak",
+   "A. Pal",
+   "J. Paley",
+   "L. Panda",
+   "R. B. Patterson",
+   "G. Pawloski",
+   "O. Petrova",
+   "R. Petti",
+   "L. R. Prais",
+   "A. Rafique",
+   "V. Raj",
+   "M. Rajaoalisoa",
+   "B. Ramson",
+   "M. Ravelhofer",
+   "B. Rebel",
+   "P. Roy",
+   "O. Samoylov",
+   "M. C. Sanchez",
+   "S. Sánchez Falero",
+   "P. Shanahan",
+   "P. Sharma",
+   "A. Shmakov",
+   "A. Sheshukov",
+   "S. Shukla",
+   "D. K. Singha",
+   "W. Shorrock",
+   "I. Singh",
+   "P. Singh",
+   "V. Singh",
+   "E. Smith",
+   "J. Smolik",
+   "P. Snopok",
+   "N. Solomey",
+   "A. Sousa",
+   "K. Soustruznik",
+   "M. Strait",
+   "L. Suter",
+   "A. Sutton",
+   "K. Sutton",
+   "S. Swain",
+   "C. Sweeney",
+   "A. Sztuc",
+   "B. Tapia Oregui",
+   "P. Tas",
+   "T. Thakore",
+   "J. Thomas",
+   "E. Tiras",
+   "Y. Torun",
+   "J. Tripathi",
+   "J. Trokan-Tenorio",
+   "J. Urheim",
+   "P. Vahle",
+   "Z. Vallari",
+   "J. Vasel",
+   "J. D. Villamil",
+   "K. J. Vockerodt",
+   "T. Vrba",
+   "M. Wallbank",
+   "M. Wetstein",
+   "D. Whittington",
+   "D. A. Wickremasinghe",
+   "T. Wieber",
+   "J. Wolcott",
+   "M. Wrobel",
+   "S. Wu",
+   "W. Wu",
+   "Y. Xiao",
+   "B. Yaeggy",
+   "A. Yahaya",
+   "A. Yankelevich",
+   "K. Yonehara",
+   "Y. Yu",
+   "S. Zadorozhnyy",
+   "J. Zalesak",
+   "R. Zwaska"
+  ],
+  "categories": [
+   "hep-ex",
+   "hep-ph"
+  ],
+  "comment": null,
+  "first_author": "NOvA Collaboration",
+  "pdf_url": "http://arxiv.org/pdf/2403.07266",
+  "primary_category": "hep-ex",
+  "published": "2024-03-12",
+  "tags": [],
+  "title": "Search for $CP$-Violating Neutrino Nonstandard Interactions with the NOvA Experiment",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2024-11-27"
+ },
+ "2403.12553": {
+  "abstract": "Existing neural operator architectures face challenges when solving multiphysics problems with coupled partial differential equations (PDEs) due to complex geometries, interactions between physical variables, and the limited amounts of high-resolution training data. To address these issues, we propose Codomain Attention Neural Operator (CoDA-NO), which tokenizes functions along the codomain or channel space, enabling self-supervised learning or pretraining of multiple PDE systems. Specifically, we extend positional encoding, self-attention, and normalization layers to function spaces. CoDA-NO can learn representations of different PDE systems with a single model. We evaluate CoDA-NO's potential as a backbone for learning multiphysics PDEs over multiple systems by considering few-shot learning settings. On complex downstream tasks with limited data, such as fluid flow simulations, fluid-structure interactions, and Rayleigh-Bénard convection, we found CoDA-NO to outperform existing methods by over 36%.",
+  "authors": [
+   "Md Ashiqur Rahman",
+   "Robert Joseph George",
+   "Mogab Elleithy",
+   "Daniel Leibovici",
+   "Zongyi Li",
+   "Boris Bonev",
+   "Colin White",
+   "Julius Berner",
+   "Raymond A. Yeh",
+   "Jean Kossaifi",
+   "Kamyar Azizzadenesheli",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Md Ashiqur Rahman",
+  "pdf_url": "http://arxiv.org/pdf/2403.12553",
+  "primary_category": "cs.LG",
+  "published": "2024-03-19",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-11-01"
+ },
+ "2404.14790": {
+  "abstract": "We present a high-resolution single crystal x-ray diffraction study of kagome-superconductor \\cvs, exploring its response to variations in pressure and temperature. We discover that at low temperatures, the structural modulations of the electronic superlattice, commonly associated with charge-density-wave order, undergo a transformation around $p \\sim$ 0.7 GPa from the familiar $2\\times2$ pattern to a long-range-ordered modulation at wavevector $q=(0, 3/8, 1/2)$. Our observations align with inferred changes in the CDW pattern from prior transport and nuclear-magnetic-resonance studies, providing new insights into these transitions. Interestingly, the pressure-induced variations in the electronic superlattice correlate with two peaks in the superconducting transition temperature as pressure changes, hinting that fluctuations within the electronic superlattice could be key to stabilizing superconductivity. However, our findings contrast with the minimal pressure dependency anticipated by ab initio calculations of the electronic structure. They also challenge prevailing scenarios based on a Peierls-like nesting mechanism involving van Hove singularities.",
+  "authors": [
+   "F. Stier",
+   "A. -A. Haghighirad",
+   "G. Garbarino",
+   "S. Mishra",
+   "N. Stilkerich",
+   "D. Chen",
+   "C. Shekhar",
+   "T. Lacmann",
+   "C. Felser",
+   "T. Ritschel",
+   "J. Geck",
+   "M. Le Tacon"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.str-el"
+  ],
+  "comment": "Revised version, to appear in PRL",
+  "first_author": "F. Stier",
+  "pdf_url": "http://arxiv.org/pdf/2404.14790",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2024-04-23",
+  "tags": [
+   "electronic-structure"
+  ],
+  "title": "Pressure-dependent Electronic Superlattice in the Kagome-Superconductor CsV$_3$Sb$_5$",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2024-11-07"
+ },
+ "2404.15036": {
+  "abstract": "Soft material research has seen significant growth in recent years, with emerging applications in robotics, electronics, and healthcare diagnostics where understanding material mechanical response is crucial for precision design. Traditional methods for measuring nonlinear mechanical properties of soft materials require specially sized samples that are extracted from their natural environment to be mounted on the testing instrument. This has been shown to compromise data accuracy and precision in various soft and biological materials. To overcome this, the Volume Controlled Cavity Expansion (VCCE) method was developed. This technique tests soft materials by controlling the formation rate of a liquid cavity inside the materials at the tip of an injection needle, and simultaneously measuring the resisting pressure which describes the material response. Despite VCCE's early successes, expansion of its application beyond academia has been hindered by cost, size, and expertise. In response to this, the first portable, bench-top instrument utilizing VCCE is presented here. This device, built with affordable, readily available components and open-source software, streamlines VCCE experimentation without sacrificing performance or precision. It is especially suitable for space-limited settings and designed for use by non-experts, promoting widespread adoption. The instrument's efficacy was demonstrated through testing Polydimethylsiloxane (PDMS) samples of varying stiffness. This study not only validates instrument performance, but also sets the stage for further advancements and broader applications in soft material testing. All data, along with acquisition, control, and post-processing scripts, are made available on GitHub.",
+  "authors": [
+   "B. M. Unikewicz",
+   "A. M. Pincot",
+   "T. Cohen"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "B. M. Unikewicz",
+  "pdf_url": "http://arxiv.org/pdf/2404.15036",
+  "primary_category": "physics.ins-det",
+  "published": "2024-04-23",
+  "tags": [],
+  "title": "An Accessible Instrument for Measuring Soft Material Mechanical Properties",
+  "topics": [
+   "via:author-whitelist:equivariant neural networks"
+  ],
+  "updated": "2024-11-06"
+ },
  "2405.01125": {
   "abstract": "This paper is devoted to the estimation of the Lipschitz constant of general neural network architectures using semidefinite programming. For this purpose, we interpret neural networks as time-varying dynamical systems, where the $k$-th layer corresponds to the dynamics at time $k$. A key novelty with respect to prior work is that we use this interpretation to exploit the series interconnection structure of feedforward neural networks with a dynamic programming recursion. Nonlinearities, such as activation functions and nonlinear pooling layers, are handled with integral quadratic constraints. If the neural network contains signal processing layers (convolutional or state space model layers), we realize them as 1-D/2-D/N-D systems and exploit this structure as well. We distinguish ourselves from related work on Lipschitz constant estimation by more extensive structure exploitation (scalability) and a generalization to a large class of common neural network architectures. To show the versatility and computational advantages of our method, we apply it to different neural network architectures trained on MNIST and CIFAR-10.",
   "authors": [
@@ -328,7 +703,9 @@
   ],
   "title": "A Foundation Model for the Earth System",
   "topics": [
-   "Climate, Weather & Geophysics"
+   "Climate, Weather & Geophysics",
+   "via:author-whitelist:PINNs, Bayesian SciML",
+   "via:author-whitelist:equivariant ML, generative models"
   ],
   "updated": "2024-11-21"
  },
@@ -464,9 +841,38 @@
   "title": "FUSE: Fast Unified Simulation and Estimation for PDEs",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:neural operators, PDE learning"
   ],
   "updated": "2024-11-05"
+ },
+ "2405.14780": {
+  "abstract": "Matching objectives underpin the success of modern generative models and rely on constructing conditional paths that transform a source distribution into a target distribution. Despite being a fundamental building block, conditional paths have been designed principally under the assumption of Euclidean geometry, resulting in straight interpolations. However, this can be particularly restrictive for tasks such as trajectory inference, where straight paths might lie outside the data manifold, thus failing to capture the underlying dynamics giving rise to the observed marginals. In this paper, we propose Metric Flow Matching (MFM), a novel simulation-free framework for conditional flow matching where interpolants are approximate geodesics learned by minimizing the kinetic energy of a data-induced Riemannian metric. This way, the generative model matches vector fields on the data manifold, which corresponds to lower uncertainty and more meaningful interpolations. We prescribe general metrics to instantiate MFM, independent of the task, and test it on a suite of challenging problems including LiDAR navigation, unpaired image translation, and modeling cellular dynamics. We observe that MFM outperforms the Euclidean baselines, particularly achieving SOTA on single-cell trajectory prediction.",
+  "authors": [
+   "Kacper Kapuśniak",
+   "Peter Potaptchik",
+   "Teodora Reu",
+   "Leo Zhang",
+   "Alexander Tong",
+   "Michael Bronstein",
+   "Avishek Joey Bose",
+   "Francesco Di Giovanni"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Kacper Kapuśniak",
+  "pdf_url": "http://arxiv.org/pdf/2405.14780",
+  "primary_category": "cs.LG",
+  "published": "2024-05-23",
+  "tags": [],
+  "title": "Metric Flow Matching for Smooth Interpolations on the Data Manifold",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-11-04"
  },
  "2405.15847": {
   "abstract": "Determining the form of the Higgs potential is one of the most exciting challenges of modern particle physics. Higgs pair production directly probes the Higgs self-coupling and should be observed in the near future at the High-Luminosity LHC. We explore how to improve the sensitivity to physics beyond the Standard Model through per-event kinematics for di-Higgs events. In particular, we employ machine learning through simulation-based inference to estimate per-event likelihood ratios and gauge potential sensitivity gains from including this kinematic information. In terms of the Standard Model Effective Field Theory, we find that adding a limited number of observables can help to remove degeneracies in Wilson coefficient likelihoods and significantly improve the experimental sensitivity.",
@@ -650,7 +1056,8 @@
   "tags": [],
   "title": "Poseidon: Efficient Foundation Models for PDEs",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:neural operators, PDE learning"
   ],
   "updated": "2024-11-05"
  },
@@ -731,6 +1138,33 @@
    "Dynamical Systems & PDE Learning"
   ],
   "updated": "2024-11-09"
+ },
+ "2406.02234": {
+  "abstract": "Bounding and predicting the generalization gap of overparameterized neural networks remains a central open problem in theoretical machine learning. There is a recent and growing body of literature that proposes the framework of fractals to model optimization trajectories of neural networks, motivating generalization bounds and measures based on the fractal dimension of the trajectory. Notably, the persistent homology dimension has been proposed to correlate with the generalization gap. This paper performs an empirical evaluation of these persistent homology-based generalization measures, with an in-depth statistical analysis. Our study reveals confounding effects in the observed correlation between generalization and topological measures due to the variation of hyperparameters. We also observe that fractal dimension fails to predict generalization of models trained from poor initializations. We lastly reveal the intriguing manifestation of model-wise double descent in these topological generalization measures. Our work forms a basis for a deeper investigation of the causal relationships between fractal geometry, topological data analysis, and neural network optimization.",
+  "authors": [
+   "Charlie B. Tan",
+   "Inés García-Redondo",
+   "Qiquan Wang",
+   "Michael M. Bronstein",
+   "Anthea Monod"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "math.DS",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Charlie B. Tan",
+  "pdf_url": "http://arxiv.org/pdf/2406.02234",
+  "primary_category": "cs.LG",
+  "published": "2024-06-04",
+  "tags": [],
+  "title": "On the Limitations of Fractal Dimension as a Measure of Generalization",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-11-01"
  },
  "2406.02352": {
   "abstract": "We consider the problem of optimizing initial conditions and termination time in dynamical systems governed by unknown ordinary differential equations (ODEs), where evaluating different initial conditions is costly and the state's value can not be measured in real-time but only with a delay while the measuring device processes the sample. To identify the optimal conditions in limited trials, we introduce a few-shot Bayesian Optimization (BO) framework based on the system's prior information. At the core of our approach is the System-Aware Neural ODE Processes (SANODEP), an extension of Neural ODE Processes (NODEP) designed to meta-learn ODE systems from multiple trajectories using a novel context embedding block. We further develop a two-stage BO framework to effectively incorporate search space constraints, enabling efficient optimization of both initial conditions and observation timings. We conduct extensive experiments showcasing SANODEP's potential for few-shot BO within dynamical systems. We also explore SANODEP's adaptability to varying levels of prior information, highlighting the trade-off between prior flexibility and model fitting accuracy.",
@@ -1703,6 +2137,30 @@
   ],
   "updated": "2024-11-19"
  },
+ "2407.15892": {
+  "abstract": "We introduce Mini-Sequence Transformer (MsT), a simple and effective methodology for highly efficient and accurate LLM training with extremely long sequences. MsT partitions input sequences and iteratively processes mini-sequences to reduce intermediate memory usage. Integrated with activation recomputation, it enables significant memory savings in both forward and backward passes. In experiments with the Llama3-8B model, with MsT, we measure no degradation in throughput or convergence even with 12x longer sequences than standard implementations. MsT is fully general, implementation-agnostic, and requires minimal code changes to integrate with existing LLM training frameworks. Integrated with the huggingface library, MsT successfully extends the maximum context length of Qwen, Mistral, and Gemma-2 by 12-24x.",
+  "authors": [
+   "Cheng Luo",
+   "Jiawei Zhao",
+   "Zhuoming Chen",
+   "Beidi Chen",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Cheng Luo",
+  "pdf_url": "http://arxiv.org/pdf/2407.15892",
+  "primary_category": "cs.LG",
+  "published": "2024-07-22",
+  "tags": [],
+  "title": "Mini-Sequence Transformer: Optimizing Intermediate Memory for Long Sequences Training",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-11-09"
+ },
  "2407.16414": {
   "abstract": "We present an enhanced method for the application of Gaussian Mixture Modelling (GMM) to the coherent WaveBurst (cWB) algorithm in the search for short-duration gravitational wave (GW) transients. The supervised Machine Learning method of GMM allows for the multi-dimensional distributions of noise and signal to be modelled over a set of representative attributes, which aids in the classification of GW signals against noise transients (glitches) in the data. We demonstrate that updating the approach to model construction eliminates bias previously seen in the GMM analysis, increasing the robustness and sensitivity of the analysis over a wider range of burst source populations. The enhanced methodology is applied to the generic burst all-sky short search in the LIGO-Virgo full third observing run (O3), marking the first application of GMM to the 3 detector Livingston-Hanford-Virgo network. For both 2- and 3- detector networks, we observe comparable sensitivities to an array of generic signal morphologies, with significant sensitivity improvements to waveforms in the low Quality factor parameter space at false alarm rates of 1 per 100 years. This proves that GMM can effectively mitigate blip glitches, which are one of the most problematic sources of noise for un-modelled GW searches. The cWB-GMM search recovers similar numbers of compact binary coalescence (CBC) events as other cWB post-production methods, and concludes on no new gravitational wave detection after known CBC events are removed.",
   "authors": [
@@ -1913,7 +2371,8 @@
   "title": "A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data",
   "topics": [
    "Climate, Weather & Geophysics",
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:extreme events, dynamical systems"
   ],
   "updated": "2024-11-22"
  },
@@ -2984,6 +3443,237 @@
   ],
   "updated": "2024-11-26"
  },
+ "2410.10222": {
+  "abstract": "The NOvA collaboration reports cross-section measurements for $ν_μ$ charged-current interactions with low hadronic energy (maximum kinetic energy of 250 MeV for protons and 175 MeV for pions) in the NOvA Near Detector. The results are presented as a double-differential cross section as a function of the direct observables of the final-state muon kinematics. Results are also presented as a single-differential cross section as a function of the derived square of the four-momentum transfer, $Q^{2}$, and as a function of the derived neutrino energy. The data correspond to an accumulated 8.09$\\times10^{20}$ protons-on-target (POT) in the neutrino mode of the NuMI beam, with a narrow band of neutrino energies peaked at 1.8 GeV. The analysis provides a sample of neutrino-nucleus interactions with an enhanced fraction of quasi-elastic and two-particle-two-hole (2p2h) interactions. This enhancement allows quantitative comparisons with various nuclear models. We find strong disagreement between data and theory-based models in various regions of the muon kinematic phase space, especially in the forward muon direction.",
+  "authors": [
+   "M. A. Acero",
+   "B. Acharya",
+   "P. Adamson",
+   "L. Aliaga",
+   "N. Anfimov",
+   "A. Antoshkin",
+   "E. Arrieta-Diaz",
+   "L. Asquith",
+   "A. Aurisano",
+   "A. Back",
+   "N. Balashov",
+   "P. Baldi",
+   "B. A. Bambah",
+   "E. Bannister",
+   "A. Barros",
+   "S. Bashar",
+   "A. Bat",
+   "K. Bays",
+   "R. Bernstein",
+   "T. J. C. Bezerra",
+   "V. Bhatnagar",
+   "D. Bhattarai",
+   "B. Bhuyan",
+   "J. Bian",
+   "A. C. Booth",
+   "R. Bowles",
+   "B. Brahma",
+   "C. Bromberg",
+   "N. Buchanan",
+   "A. Butkevich",
+   "S. Calvez",
+   "T. J. Carroll",
+   "E. Catano-Mur",
+   "J. P. Cesar",
+   "A. Chatla",
+   "R. Chirco",
+   "B. C. Choudhary",
+   "A. Christensen",
+   "M. F. Cicala",
+   "T. E. Coan",
+   "A. Cooleybeck",
+   "C. Cortes-Parra",
+   "D. Coveyou",
+   "L. Cremonesi",
+   "G. S. Davies",
+   "P. F. Derwent",
+   "P. Ding",
+   "Z. Djurcic",
+   "K. Dobbs",
+   "M. Dolce",
+   "D. Doyle",
+   "D. Dueñas Tonguino",
+   "E. C. Dukes",
+   "A. Dye",
+   "R. Ehrlich",
+   "E. Ewart",
+   "P. Filip",
+   "M. J. Frank",
+   "H. R. Gallagher",
+   "F. Gao",
+   "A. Giri",
+   "R. A. Gomes",
+   "M. C. Goodman",
+   "M. Groh",
+   "R. Group",
+   "A. Habig",
+   "F. Hakl",
+   "J. Hartnell",
+   "R. Hatcher",
+   "M. He",
+   "K. Heller",
+   "V Hewes",
+   "A. Himmel",
+   "T. Horoho",
+   "Y. Ivaneev",
+   "A. Ivanova",
+   "B. Jargowsky",
+   "J. Jarosz",
+   "C. Johnson",
+   "M. Judah",
+   "I. Kakorin",
+   "D. M. Kaplan",
+   "A. Kalitkina",
+   "B. Kirezli-Ozdemir",
+   "J. Kleykamp",
+   "O. Klimov",
+   "L. W. Koerner",
+   "L. Kolupaeva",
+   "R. Kralik",
+   "A. Kumar",
+   "V. Kus",
+   "T. Lackey",
+   "K. Lang",
+   "J. Lesmeister",
+   "A. Lister",
+   "J. Liu",
+   "J. A. Lock",
+   "M. Lokajicek",
+   "M. MacMahon",
+   "S. Magill",
+   "W. A. Mann",
+   "M. T. Manoharan",
+   "M. Manrique Plata",
+   "M. L. Marshak",
+   "M. Martinez-Casales",
+   "V. Matveev",
+   "B. Mehta",
+   "M. D. Messier",
+   "H. Meyer",
+   "T. Miao",
+   "W. H. Miller",
+   "S. Mishra",
+   "S. R. Mishra",
+   "A. Mislivec",
+   "R. Mohanta",
+   "A. Moren",
+   "A. Morozova",
+   "W. Mu",
+   "L. Mualem",
+   "M. Muether",
+   "K. Mulder",
+   "D. Myers",
+   "D. Naples",
+   "A. Nath",
+   "S. Nelleri",
+   "J. K. Nelson",
+   "R. Nichol",
+   "E. Niner",
+   "A. Norman",
+   "A. Norrick",
+   "T. Nosek",
+   "H. Oh",
+   "A. Olshevskiy",
+   "T. Olson",
+   "M. Ozkaynak",
+   "A. Pal",
+   "J. Paley",
+   "L. Panda",
+   "R. B. Patterson",
+   "G. Pawloski",
+   "R. Petti",
+   "J. C. C. Porter",
+   "L. R. Prais",
+   "M. Rabelhofer",
+   "A. Rafique",
+   "V. Raj",
+   "M. Rajaoalisoa",
+   "B. Ramson",
+   "B. Rebel",
+   "P. Roy",
+   "O. Samoylov",
+   "M. C. Sanchez",
+   "S. Sanchez Falero",
+   "P. Shanahan",
+   "P. Sharma",
+   "A. Sheshukov",
+   "Shivam",
+   "A. Shmakov",
+   "W. Shorrock",
+   "S. Shukla",
+   "D. K. Singha",
+   "I. Singh",
+   "P. Singh",
+   "V. Singh",
+   "E. Smith",
+   "J. Smolik",
+   "P. Snopok",
+   "N. Solomey",
+   "A. Sousa",
+   "K. Soustruznik",
+   "M. Strait",
+   "L. Suter",
+   "A. Sutton",
+   "K. Sutton",
+   "S. Swain",
+   "C. Sweeney",
+   "A. Sztuc",
+   "N. Talukdar",
+   "B. Tapia Oregui",
+   "P. Tas",
+   "T. Thakore",
+   "J. Thomas",
+   "E. Tiras",
+   "M. Titus",
+   "Y. Torun",
+   "D. Tran",
+   "J. Trokan-Tenorio",
+   "J. Urheim",
+   "P. Vahle",
+   "Z. Vallari",
+   "J. D. Villamil",
+   "K. J. Vockerodt",
+   "M. Wallbank",
+   "C. Weber",
+   "M. Wetstein",
+   "D. Whittington",
+   "D. A. Wickremasinghe",
+   "T. Wieber",
+   "J. Wolcott",
+   "M. Wrobel",
+   "S. Wu",
+   "W. Wu",
+   "W. Wu",
+   "Y. Xiao",
+   "B. Yaeggy",
+   "A. Yahaya",
+   "A. Yankelevich",
+   "K. Yonehara",
+   "Y. Yu",
+   "S. Zadorozhnyy",
+   "J. Zalesak",
+   "R. Zwaska"
+  ],
+  "categories": [
+   "hep-ex"
+  ],
+  "comment": "20 pages, 12 figures. The second version includes an additional citation and adds four previously missing authors",
+  "first_author": "M. A. Acero",
+  "pdf_url": "http://arxiv.org/pdf/2410.10222",
+  "primary_category": "hep-ex",
+  "published": "2024-10-14",
+  "tags": [],
+  "title": "Measurement of the double-differential cross section of muon-neutrino charged-current interactions with low hadronic energy in the NOvA Near Detector",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2024-11-12"
+ },
  "2410.10885": {
   "abstract": "Two-dimensional (2D) materials are poised to revolutionize current solid-state technology with their extraordinary properties. Yet, the primary challenge remains their scalable production. While there have been significant advancements, much of the scientific progress has depended on the exfoliation of materials, a method that poses severe challenges for large-scale applications. With the advent of artificial intelligence (AI) in materials science, innovative synthesis methodologies are now on the horizon. This study explores the forefront of autonomous materials synthesis using an artificial neural network (ANN) trained by evolutionary methods, focusing on the efficient production of graphene. Our approach demonstrates that a neural network can iteratively and autonomously learn a time-dependent protocol for the efficient growth of graphene, without requiring pretraining on what constitutes an effective recipe. Evaluation criteria are based on the proximity of the Raman signature to that of monolayer graphene: higher scores are granted to outcomes whose spectrum more closely resembles that of an ideal continuous monolayer structure. This feedback mechanism allows for iterative refinement of the ANN's time-dependent synthesis protocols, progressively improving sample quality. Through the advancement and application of AI methodologies, this work makes a substantial contribution to the field of materials engineering, fostering a new era of innovation and efficiency in the synthesis process.",
   "authors": [
@@ -3765,6 +4455,37 @@
   ],
   "updated": "2024-11-01"
  },
+ "2411.01057": {
+  "abstract": "Online competitive action games have flourished as a space for entertainment and social connections, yet they face challenges from a small percentage of players engaging in disruptive behaviors. This study delves into the under-explored realm of understanding the effects of moderation on player behavior within online gaming on an example of a popular title - Call of Duty(R): Modern Warfare(R)II. We employ a quasi-experimental design and causal inference techniques to examine the impact of moderation in a real-world industry-scale moderation system. We further delve into novel aspects around the impact of delayed moderation, as well as the severity of applied punishment. We examine these effects on a set of four disruptive behaviors including cheating, offensive user name, chat, and voice. Our findings uncover the dual impact moderation has on reducing disruptive behavior and discouraging disruptive players from participating. We further uncover differences in the effectiveness of quick and delayed moderation and the varying severity of punishment. Our examination of real-world gaming interactions sets a precedent in understanding the effectiveness of moderation and its impact on player behavior. Our insights offer actionable suggestions for the most promising avenues for improving real-world moderation practices, as well as the heterogeneous impact moderation has on indifferent players.",
+  "authors": [
+   "Zhuofang Li",
+   "Rafal Kocielnik",
+   "Mitchell Linegar",
+   "Deshawn Sambrano",
+   "Fereshteh Soltani",
+   "Min Kim",
+   "Nabiha Naqvie",
+   "Grant Cahill",
+   "Animashree Anandkumar",
+   "R. Michael Alvarez"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.HC",
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Zhuofang Li",
+  "pdf_url": "http://arxiv.org/pdf/2411.01057",
+  "primary_category": "cs.CY",
+  "published": "2024-11-01",
+  "tags": [],
+  "title": "Online Moderation in Competitive Action Games: How Intervention Affects Player Behaviors",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-11-01"
+ },
  "2411.01060": {
   "abstract": "The $n=1$ photon ring is an important probe of black hole (BH) properties and will be resolved by the Black Hole Explorer (BHEX) for the first time. However, extraction of black hole parameters from observations of the $n=1$ subring is not trivial. Developing this capability can be achieved by building a sample of $n=1$ subring simulations, as well as by performing feature extraction on this high-volume sample to track changes in the geometry, which presents significant computational challenges. Here, we present a framework for the study of $n=1$ photon ring behavior and BH property measurement from BHEX images. We use KerrBAM to generate a grid of $\\gtrsim10^6$ images of $n=1$ photon rings spanning the entire space of Kerr BH spins and inclinations. Intensity profiles are extracted from images using a novel feature extraction method developed specifically for BHEX. This novel method is highly optimized and outperforms existing EHT methods by a factor of ${\\sim}3000$. Additionally, we propose a novel, minimal set of geometric measurables for characterizing the behavior of the $n=1$ subring geometry. We apply these measurables to our simulation grid and test spin recovery on simulated images using: (i) gradient boosting, a machine learning algorithm; and (ii) an extension of Deep Horizon, a deep learning framework. We find $\\gtrsim90$\\% correct recovery of BH properties using the machine/deep learning approaches, and characterize the space of resolution-dependent geometric degeneracies. Finally, we test both approaches on GRMHD simulations of black hole accretion flows, and report accurate recovery of spin at the expected inclination of M87*.",
   "authors": [
@@ -3788,6 +4509,29 @@
    "Astrophysics & Cosmology"
   ],
   "updated": "2024-11-01"
+ },
+ "2411.01138": {
+  "abstract": "This study addresses the boundary artifacts in machine-learned (ML) parameterizations for ocean subgrid mesoscale momentum forcing, as identified in the online ML implementation from a previous study (Zhang et al., 2023). We focus on the boundary condition (BC) treatment within the existing convolutional neural network (CNN) models and aim to mitigate the \"out-of-sample\" errors observed near complex coastal regions without developing new, complex network architectures. Our approach leverages two established strategies for placing BCs in CNN models, namely zero and replicate padding. Offline evaluations revealed that these padding strategies significantly reduce root mean squared error (RMSE) in coastal regions by limiting the dependence on random initialization of weights and restricting the range of out-of-sample predictions. Further online evaluations suggest that replicate padding consistently reduces boundary artifacts across various retrained CNN models. In contrast, zero padding sometimes intensifies artifacts in certain retrained models despite both strategies performing similarly in offline evaluations. This study underscores the need for BC treatments in CNN models trained on open water data when predicting near-coastal subgrid forces in ML parameterizations. The application of replicate padding, in particular, offers a robust strategy to minimize the propagation of extreme values that can contaminate computational models or cause simulations to fail. Our findings provide insights for enhancing the accuracy and stability of ML parameterizations in the online implementation of ocean circulation models with coastlines.",
+  "authors": [
+   "Cheng Zhang",
+   "Pavel Perezhogin",
+   "Alistair Adcroft",
+   "Laure Zanna"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Cheng Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2411.01138",
+  "primary_category": "physics.geo-ph",
+  "published": "2024-11-02",
+  "tags": [],
+  "title": "Addressing out-of-sample issues in multi-layer convolutional neural-network parameterization of mesoscale eddies applied near coastlines",
+  "topics": [
+   "via:author-whitelist:ML for climate, dynamical systems"
+  ],
+  "updated": "2024-11-02"
  },
  "2411.01197": {
   "abstract": "Machine-learning interatomic potential models based on graph neural network architectures have the potential to make atomistic materials modeling widely accessible due to their computational efficiency, scalability, and broad applicability. The training datasets for many such models are derived from density-functional theory calculations, typically using a semilocal exchange-correlation functional. As a result, long-range interactions such as London dispersion are often missing in these models. We investigate whether this missing component can be addressed by combining a graph deep learning potential with semiempirical dispersion models. We assess this combination by deriving the equations of state for layered pnictogen chalcohalides BiTeBr and BiTeI and performing crystal structure optimizations for a broader set of V-VI-VII compounds with various stoichiometries, many of which possess van der Waals gaps. We characterize the optimized crystal structures by calculating their X-ray diffraction patterns and radial distribution function histograms, which are also used to compute Earth mover's distances to quantify the dissimilarity between the optimized and corresponding experimental structures. We find that dispersion-corrected graph deep learning potentials generally (though not universally) provide a more realistic description of these compounds due to the inclusion of van der Waals attractions. In particular, their use results in systematic improvements in predicting not only the van der Waals gap but also the layer thickness in layered V-VI-VII compounds. Our results demonstrate that the combined potentials studied here, derived from a straightforward approach that neither requires fine-tuning the training nor refitting the potential parameters, can significantly improve the description of layered polar crystals.",
@@ -5033,6 +5777,28 @@
   ],
   "updated": "2024-11-05"
  },
+ "2411.03596": {
+  "abstract": "Despite the successful application of Temporal Graph Networks (TGNs) for tasks such as dynamic node classification and link prediction, they still perform poorly on the task of dynamic node affinity prediction -- where the goal is to predict 'how much' two nodes will interact in the future. In fact, simple heuristic approaches such as persistent forecasts and moving averages over ground-truth labels significantly and consistently outperform TGNs. Building on this observation, we find that computing heuristics over messages is an equally competitive approach, outperforming TGN and all current temporal graph (TG) models on dynamic node affinity prediction. In this paper, we prove that no formulation of TGN can represent persistent forecasting or moving averages over messages, and propose to enhance the expressivity of TGNs by adding source-target identification to each interaction event message. We show that this modification is required to represent persistent forecasting, moving averages, and the broader class of autoregressive models over messages. Our proposed method, TGNv2, significantly outperforms TGN and all current TG models on all Temporal Graph Benchmark (TGB) dynamic node affinity prediction datasets.",
+  "authors": [
+   "Benedict Aaron Tjandra",
+   "Federico Barbero",
+   "Michael Bronstein"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted to NeurIPS Symmetry and Geometry in Neural Representations Workshop 2024 (Oral)",
+  "first_author": "Benedict Aaron Tjandra",
+  "pdf_url": "http://arxiv.org/pdf/2411.03596",
+  "primary_category": "cs.LG",
+  "published": "2024-11-06",
+  "tags": [],
+  "title": "Enhancing the Expressivity of Temporal Graph Networks through Source-Target Identification",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-11-28"
+ },
  "2411.03598": {
   "abstract": "High-speed flight vehicles, which travel much faster than the speed of sound, are crucial for national defense and space exploration. However, accurately predicting their behavior under numerous, varied flight conditions is a challenge and often prohibitively expensive. The proposed approach involves creating smarter, more efficient machine learning models (also known as surrogate models or meta models) that can fuse data generated from a variety of fidelity levels -- to include engineering methods, simulation, wind tunnel, and flight test data -- to make more accurate predictions. These models are able to move the bulk of the computation from high performance computing (HPC) to single user machines (laptop, desktop, etc.). The project builds upon previous work but introduces code improvements and an informed perspective on the direction of the field. The new surrogate modeling framework is now modular and, by design, broadly applicable to many modeling problems. The new framework also has a more robust automatic hyperparameter tuning capability and abstracts away most of the pre- and post-processing tasks. The Gaussian process regression and deep neural network-based models included in the presented framework were able to model two datasets with high accuracy (R^2>0.99). The primary conclusion is that the framework is effective and has been delivered to the Air Force for integration into real-world projects. For future work, significant and immediate investment in continued research is crucial. The author recommends further testing and refining modeling methods that explicitly incorporate physical laws and are robust enough to handle simulation and test data from varying resolutions and sources, including coarse meshes, fine meshes, unstructured meshes, and limited experimental test points.",
   "authors": [
@@ -5767,6 +6533,30 @@
   ],
   "updated": "2024-11-07"
  },
+ "2411.04948": {
+  "abstract": "In the late 1950's, Eshelby's linear solutions for the deformation field inside an ellipsoidal inclusion and, subsequently, the infinite matrix in which it is embedded were published. The solutions' ability to capture the behavior of an orthotropically symmetric shaped inclusion made it invaluable in efforts to understand the behavior of defects within, and the micromechanics of, metals and other stiff materials throughout the rest of the 20th century. Over half a century later, we wish to understand the analogous effects of microstructure on the behavior of soft materials; both organic and synthetic; but in order to do so, we must venture beyond the linear limit, far into the nonlinear regime. However, no solutions to these analogous problems currently exist for non-spherical inclusions. In this work, we present an accurate semi-inverse solution for the elastic field in an isotropically growing spheroidal inclusion embedded in an infinite matrix, both made of the same incompressible neo-Hookean material. We also investigate the behavior of such an inclusion as it grows infinitely large, demonstrating the existence of a non-spherical asymptotic shape and an associated asymptotic pressure. We call this the isomorphic limit, and the associated pressure the isomorphic pressure.",
+  "authors": [
+   "J. E. Bonavia",
+   "S. Chockalingam",
+   "T. Cohen"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "math-ph",
+   "math.DG"
+  ],
+  "comment": null,
+  "first_author": "J. E. Bonavia",
+  "pdf_url": "http://arxiv.org/pdf/2411.04948",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-11-07",
+  "tags": [],
+  "title": "On the Nonlinear Eshelby Inclusion Problem and its Isomorphic Growth Limit",
+  "topics": [
+   "via:author-whitelist:equivariant neural networks"
+  ],
+  "updated": "2024-11-07"
+ },
  "2411.04968": {
   "abstract": "The ongoing discrepancy in the Hubble constant ($H_0$) estimates obtained through local distance ladder methods and early universe observations poses a significant challenge to the $Λ$CDM model, suggesting potential new physics. Type II supernovae (SNe II) offer a promising technique for determining $H_0$ in the local universe independently of the traditional distance ladder approach, opening up a complimentary path for testing this discrepancy. We aim to provide the first $H_0$ estimate using the tailored expanding photosphere method (EPM) applied to SNe II, made possible by recent advancements in spectral modelling that enhance its precision and efficiency. Our tailored EPM measurement utilizes a spectral emulator to interpolate between radiative transfer models calculated with TARDIS, allowing us to fit supernova spectra efficiently and derive self-consistent values for luminosity-related parameters. We apply the method on public data for ten SNe II at redshifts between 0.01 and 0.04. Our analysis demonstrates that the tailored EPM allows for $H_0$ measurements with precision comparable to the most competitive established techniques, even when applied to literature data not designed for cosmological applications. We find an independent $H_0$ value of $74.9\\pm1.9$ (stat) km/s/Mpc, which is consistent with most current local measurements. Considering dominant sources of systematic effects, we conclude that our systematic uncertainty is comparable to or less than the current statistical uncertainty. This proof-of-principle study highlights the potential of the tailored EPM as a robust and precise tool for investigating the Hubble tension independently of the local distance ladder. Observations of SNe II tailored to $H_0$ estimation can make this an even more powerful tool by improving the precision and by allowing us to better understand and control systematic uncertainties.",
   "authors": [
@@ -6481,6 +7271,29 @@
   ],
   "updated": "2024-11-09"
  },
+ "2411.06289": {
+  "abstract": "We investigate the systematic design of compliant morphing structures composed of materials reacting to an external stimulus. We add a perimeter penalty term to ensure existence of solutions. We propose a phase-field approximation of this sharp interface problem, prove its convergence as the regularization length approaches 0 and present an efficient numerical implementation. We illustrate the strengths of our approach through a series of numerical examples.",
+  "authors": [
+   "Jamal Shabani",
+   "Kaushik Bhattacharya",
+   "Blaise Bourdin"
+  ],
+  "categories": [
+   "math.NA",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Jamal Shabani",
+  "pdf_url": "http://arxiv.org/pdf/2411.06289",
+  "primary_category": "math.NA",
+  "published": "2024-11-09",
+  "tags": [],
+  "title": "Systematic design of compliant morphing structures: a phase-field approach",
+  "topics": [
+   "via:author-whitelist:neural operators, multi-scale"
+  ],
+  "updated": "2024-11-09"
+ },
  "2411.06290": {
   "abstract": "We propose a partial differential-integral equation (PDE) framework for deep neural networks (DNNs) and their associated learning problem by taking the continuum limits of both network width and depth. The proposed model captures the complex interactions among hidden nodes, overcoming limitations of traditional discrete and ordinary differential equation (ODE)-based models. We explore the well-posedness of the forward propagation problem, analyze the existence and properties of minimizers for the learning task, and provide a detailed examination of necessary and sufficient conditions for the existence of critical points.   Controllability and optimality conditions for the learning task with its associated PDE forward problem are established using variational calculus, the Pontryagin Maximum Principle, and the Hamilton-Jacobi-Bellman equation, framing the deep learning process as a PDE-constrained optimization problem. In this context, we prove the existence of viscosity solutions for the latter and we establish optimal feedback controls based on the value functional. This approach facilitates the development of new network architectures and numerical methods that improve upon traditional layer-by-layer gradient descent techniques by introducing forward-backward PDE discretization.   The paper provides a mathematical foundation for connecting neural networks, PDE theory, variational analysis, and optimal control, partly building on and extending the results of \\cite{liu2020selection}, where the main focus was the analysis of the forward evolution. By integrating these fields, we offer a robust framework that enhances deep learning models' stability, efficiency, and interpretability.",
   "authors": [
@@ -6695,7 +7508,8 @@
   "tags": [],
   "title": "An Analysis of Deep Learning Parameterizations for Ocean Subgrid Eddy Forcing",
   "topics": [
-   "Climate, Weather & Geophysics"
+   "Climate, Weather & Geophysics",
+   "via:author-whitelist:ML for climate, dynamical systems"
   ],
   "updated": "2024-11-10"
  },
@@ -7055,7 +7869,8 @@
   "title": "Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-11-11"
  },
@@ -7716,7 +8531,9 @@
   ],
   "title": "Data-Driven Discovery of a New Ginzburg-Landau Reduced-Order Model for Vortex Shedding",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:SINDy, data-driven dynamics",
+   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2024-11-13"
  },
@@ -8127,6 +8944,31 @@
   ],
   "updated": "2024-11-13"
  },
+ "2411.08995": {
+  "abstract": "Computer vision tasks require processing large amounts of data to perform image classification, segmentation, and feature extraction. Optical preprocessors can potentially reduce the number of floating point operations required by computer vision tasks, enabling low-power and low-latency operation. However, existing optical preprocessors are mostly learned and hence strongly depend on the training data, and thus lack universal applicability. In this paper, we present a metaoptic imager, which implements the Radon transform obviating the need for training the optics. High quality image reconstruction with a large compression ratio of 0.6% is presented through the use of the Simultaneous Algebraic Reconstruction Technique. Image classification with 90% accuracy is presented on an experimentally measured Radon dataset through neural network trained on digitally transformed images.",
+  "authors": [
+   "Maksym Zhelyeznuyakov",
+   "Johannes E. Fröch",
+   "Shane Colburn",
+   "Steven L. Brunton",
+   "Arka Majumdar"
+  ],
+  "categories": [
+   "cs.CV",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Maksym Zhelyeznuyakov",
+  "pdf_url": "http://arxiv.org/pdf/2411.08995",
+  "primary_category": "cs.CV",
+  "published": "2024-11-13",
+  "tags": [],
+  "title": "Computed tomography using meta-optics",
+  "topics": [
+   "via:author-whitelist:SINDy, data-driven dynamics"
+  ],
+  "updated": "2024-11-13"
+ },
  "2411.09004": {
   "abstract": "This article provides an expository account of training dynamics in the Deep Linear Network (DLN) from the perspective of the geometric theory of dynamical systems. Rigorous results by several authors are unified into a thermodynamic framework for deep learning.   The analysis begins with a characterization of the invariant manifolds and Riemannian geometry in the DLN. This is followed by exact formulas for a Boltzmann entropy, as well as stochastic gradient descent of free energy using a Riemannian Langevin Equation. Several links between the DLN and other areas of mathematics are discussed, along with some open questions.",
   "authors": [
@@ -8175,7 +9017,8 @@
   ],
   "title": "Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance",
   "topics": [
-   "Quantum Physics & Information"
+   "Quantum Physics & Information",
+   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2024-11-13"
  },
@@ -9151,6 +9994,35 @@
   ],
   "updated": "2024-11-16"
  },
+ "2411.10919": {
+  "abstract": "During surgical training, real-time feedback from trainers to trainees is important for preventing errors and enhancing long-term skill acquisition. Accurately predicting the effectiveness of this feedback, specifically whether it leads to a change in trainee behavior, is crucial for developing methods for improving surgical training and education. However, relying on human annotations to assess feedback effectiveness is laborious and prone to biases, underscoring the need for an automated, scalable, and objective method. Creating such an automated system poses challenges, as it requires an understanding of both the verbal feedback delivered by the trainer and the visual context of the real-time surgical scene. To address this, we propose a method that integrates information from transcribed verbal feedback and corresponding surgical video to predict feedback effectiveness. Our findings show that both transcribed feedback and surgical video are individually predictive of trainee behavior changes, and their combination achieves an AUROC of 0.70+/-0.02, improving prediction accuracy by up to 6.6%. Additionally, we introduce self-supervised fine-tuning as a strategy for enhancing surgical video representation learning, which is scalable and further enhances prediction performance. Our results demonstrate the potential of multi-modal learning to advance the automated assessment of surgical feedback.",
+  "authors": [
+   "Arushi Gupta",
+   "Rafal Kocielnik",
+   "Jiayun Wang",
+   "Firdavs Nasriddinov",
+   "Cherine Yang",
+   "Elyssa Wong",
+   "Anima Anandkumar",
+   "Andrew Hung"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "Accepted as a spotlight proceedings paper at Machine Learning for Health 2024",
+  "first_author": "Arushi Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2411.10919",
+  "primary_category": "cs.LG",
+  "published": "2024-11-17",
+  "tags": [],
+  "title": "Multi-Modal Self-Supervised Learning for Surgical Feedback Effectiveness Assessment",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-11-17"
+ },
  "2411.10973": {
   "abstract": "The machine learning potential (MLP) based molecular dynamics (MD) method was applied for constructing the pressure-temperature phase diagram in the barium titanate (BaTiO3) crystals. The nuclear quantum effects (NQEs) on the phase transitions were quantitatively evaluated from the difference in the phase transition pressures between the NQEs-incorporated and classical simulations. In this study, the quantum thermal bath (QTB) method was used for incorporating the NQEs. The constructed phase diagrams verified that the NQEs lower the phase transition temperatures and pressures. The NQEs are more significant at lower temperatures but cannot be ignored even at room temperature. The phase diagram in the QTB-based MLPMD is in good agreement with those of the previous studies based on dielectric measurements and path-integral based simulations. In addition, this study clarified that the large cell size (a 16x16x16 or larger cell) and friction coefficient (>= 15 THz) are required for accurately reproducing the phase transitions during the QTB-MD simulations.",
   "authors": [
@@ -9959,6 +10831,30 @@
   "title": "Attentive Contextual Attention for Cloud Removal",
   "topics": [
    "Climate, Weather & Geophysics"
+  ],
+  "updated": "2024-11-20"
+ },
+ "2411.13103": {
+  "abstract": "This work explores the intersection of time-delay embeddings, periodic orbit theory, and symbolic dynamics. Time-delay embeddings have been effectively applied to chaotic time series data, offering a principled method to reconstruct relevant information of the full attractor from partial time series observations. In this study, we investigate the structure of the unstable periodic orbits of an attractor using time-delay embeddings. First, we embed time-series data from a periodic orbit into a higher-dimensional space through the construction of a Hankel matrix, formed by arranging time-shifted copies of the data. We then examine the influence of the width and height of the Hankel matrix on the geometry of unstable periodic orbits in the delay-embedded space. The right singular vectors of the Hankel matrix provide a basis for embedding the periodic orbits. We observe that increasing the length of the delay (e.g., the height of the Hankel matrix) leads to a clear separation of the periodic orbits into distinct clusters within the embedded space. Our analysis characterizes these separated clusters and provides a mathematical framework to determine the relative position of individual unstable periodic orbits in the embedded space. Additionally, we present a modified formula to derive the symbolic representation of distinct periodic orbits for a specified sequence length, extending the Polyá-Redfield enumeration theorem.",
+  "authors": [
+   "Prerna Patil",
+   "Eurika Kaiser",
+   "J Nathan Kutz",
+   "Steven Brunton"
+  ],
+  "categories": [
+   "nlin.CD"
+  ],
+  "comment": null,
+  "first_author": "Prerna Patil",
+  "pdf_url": "http://arxiv.org/pdf/2411.13103",
+  "primary_category": "nlin.CD",
+  "published": "2024-11-20",
+  "tags": [],
+  "title": "Separation of periodic orbits in the delay embedded space of chaotic attractors",
+  "topics": [
+   "via:author-whitelist:SINDy, data-driven dynamics",
+   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2024-11-20"
  },
@@ -13342,7 +14238,8 @@
   ],
   "title": "OpenQDC: Open Quantum Data Commons",
   "topics": [
-   "Materials Science & Condensed Matter"
+   "Materials Science & Condensed Matter",
+   "via:author-whitelist:geometric deep learning"
   ],
   "updated": "2024-11-29"
  },
@@ -13451,7 +14348,8 @@
   "title": "Automatic discovery of optimal meta-solvers via multi-objective optimization",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-11-25"
  },

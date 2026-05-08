@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">208 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,5 +1250,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13234.html">Deep operator learning-based surrogate models for aerothermodynamic analysis of AEDC hypersonic waverider</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Khemraj Shukla et al.</td>
 <td><a href="http://arxiv.org/abs/2405.13234">2405.13234</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.08886.html">RiemannONets: Interpretable Neural Operators for Riemann Problems</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Ahmad Peyvan et al.</td>
+<td><a href="http://arxiv.org/abs/2401.08886">2401.08886</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.02016.html">DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations</a></div></td>
+<td>Alena Kopaničáková et al.</td>
+<td><a href="http://arxiv.org/abs/2401.02016">2401.02016</a></td>
 </tr>
 </tbody></table>

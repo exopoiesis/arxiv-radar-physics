@@ -82,6 +82,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2604.12800">2604.12800</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
+<td>M. Mezcua et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08671.html">Analog regular black holes and black hole mimickers for surface-gravity waves in fluids</a></div></td>
 <td>Valentin Pomakov et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10191.html">Machine Learning Methods for Stellar Collisions. I. Predicting Outcomes of SPH Simulations</a></div></td>
 <td>Elena González Prieto et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10191">2602.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16281.html">A first GLIMPSE into star clusters populations across cosmic time</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Adélaïde Claeyssens et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16281">2601.16281</a></td>
 </tr>
 </tbody></table>

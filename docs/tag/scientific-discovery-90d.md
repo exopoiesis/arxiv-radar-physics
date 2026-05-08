@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">181 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1100,29 +1100,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07983.html">Accelerating Social Science Research via Agentic Hypothesization and Experimentation</a></div></td>
 <td>Jishu Sen Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07983">2602.07983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06448.html">Principle-Evolvable Scientific Discovery via Uncertainty Minimization</a></div></td>
-<td>Yingming Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06448">2602.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06923.html">From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers</a></div></td>
-<td>Ziming Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06923">2602.06923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03295.html">Language Model Goal Selection Differs from Humans&#x27; in an Open-Ended Task</a></div></td>
-<td>Gaia Molinaro et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03295">2603.03295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05665.html">Graph-based Agent Memory: Taxonomy, Techniques, and Applications</a></div></td>
-<td>Chang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05665">2602.05665</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>black-holes — all</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12800.html">Spectroscopy of analogue black holes using simulation-based inference</a></div></td>
 <td>Leonardo Solidoro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12800">2604.12800</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
+<td>M. Mezcua et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-09</td>
@@ -626,6 +632,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22543.html">StAGE: Stellar Archaeology-driven Galaxy Evolution</a></div></td>
 <td>Michele Bosi et al.</td>
 <td><a href="http://arxiv.org/abs/2503.22543">2503.22543</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15319.html">Euclid Quick Data Release (Q1) First study of red quasars selection</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15319">2503.15319</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-07</td>

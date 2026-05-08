@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -148,6 +148,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2604.02300">2604.02300</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21304.html">Euclid Quick Data Release (Q1). The first Euclid view of Planck galaxy protocluster candidates at cosmic noon</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.21304">2503.21304</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04435.html">The AGORA High-resolution Galaxy Simulations Comparison Project. X: Formation and Evolution of Galaxies at the High-redshift Frontier</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Hyeonyong Kim et al.</td>
@@ -224,6 +230,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01622.html">Analytical Emulator for the Baryon Density Distribution inside the Fuzzy Dark Matter Soliton from Machine Learning</a></div></td>
 <td>Ke Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01622">2512.01622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10735.html">Euclid: The linear-construction covariance and cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>V. Lindholm et al.</td>
+<td><a href="http://arxiv.org/abs/2603.10735">2603.10735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-10</td>
@@ -388,6 +400,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2503.15329">2503.15329</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08266.html">Euclid preparation: LXXXVII. Non-Gaussianity of 2-point statistics likelihood: Precise analysis of the matter power spectrum distribution</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08266">2511.08266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05326.html">Running the small-correlated-against-large estimator at scale: Applications of small-scale CMB lensing estimators on realistic simulations</a></div></td>
 <td>Victor C. Chan et al.</td>
@@ -464,6 +482,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00091.html">Deep learning optimal molecular scintillators for dark matter direct detection</a></div></td>
 <td>Cameron Cook et al.</td>
 <td><a href="http://arxiv.org/abs/2501.00091">2501.00091</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12863.html">Cosmological effect of coherent oscillation of ultralight scalar fields in a multicomponent universe</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2506.12863">2506.12863</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-16</td>
@@ -626,6 +650,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11795.html">Non-Parametric Reconstruction of the Hubble Parameter from the Fourth Gravitational Wave Transient Catalog and DESI Baryonic Acoustic Oscillations</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Grégoire Pierra et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11795">2511.11795</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10754.html">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector</a></div></td>
+<td>S. Abubakar et al.</td>
+<td><a href="http://arxiv.org/abs/2507.10754">2507.10754</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-12</td>
@@ -884,6 +914,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21215.html">Transfer learning for multifidelity simulation-based inference in cosmology</a></div></td>
 <td>Alex A. Saoulis et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21215">2505.21215</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12116.html">Euclid preparation. Simulating thousands of Euclid spectroscopic skies</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2507.12116">2507.12116</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-26</td>
@@ -1286,6 +1322,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04100.html">Deep Neural Networks Hunting Ultra-Light Dark Matter</a></div></td>
 <td>Pavel Kůs et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04100">2506.04100</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07629.html">Gravitational collapse of Matter in the presence of Scalar field Dark energy</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Priyanka Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2506.07629">2506.07629</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-09</td>

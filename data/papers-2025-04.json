@@ -79,7 +79,8 @@
   "tags": [],
   "title": "Decoding complexity: how machine learning is redefining scientific discovery",
   "topics": [
-   "Generative Models & Discovery"
+   "Generative Models & Discovery",
+   "via:author-whitelist:SINDy, data-driven dynamics"
   ],
   "updated": "2025-04-25"
  },
@@ -186,6 +187,29 @@
    "Dynamical Systems & PDE Learning"
   ],
   "updated": "2025-04-01"
+ },
+ "2405.13526": {
+  "abstract": "While message passing neural networks (MPNNs) have convincing success in a range of applications, they exhibit limitations such as the oversquashing problem and their inability to capture long-range interactions. Augmenting MPNNs with a virtual node (VN) removes the locality constraint of the layer aggregation and has been found to improve performance on a range of benchmarks. We provide a comprehensive theoretical analysis of the role of VNs and benefits thereof, through the lenses of oversquashing and sensitivity analysis. First, we characterize, precisely, how the improvement afforded by VNs on the mixing abilities of the network and hence in mitigating oversquashing, depends on the underlying topology. We then highlight that, unlike Graph-Transformers (GTs), classical instantiations of the VN are often constrained to assign uniform importance to different nodes. Consequently, we propose a variant of VN with the same computational complexity, which can have different sensitivity to nodes based on the graph structure. We show that this is an extremely effective and computationally efficient baseline for graph-level tasks.",
+  "authors": [
+   "Joshua Southern",
+   "Francesco Di Giovanni",
+   "Michael Bronstein",
+   "Johannes F. Lutzeyer"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Joshua Southern",
+  "pdf_url": "http://arxiv.org/pdf/2405.13526",
+  "primary_category": "cs.LG",
+  "published": "2024-05-22",
+  "tags": [],
+  "title": "Understanding Virtual Nodes: Oversquashing and Node Heterogeneity",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2025-04-07"
  },
  "2405.13964": {
   "abstract": "Offline model-based optimization (MBO) aims to maximize a black-box objective function using only an offline dataset of designs and scores. These tasks span various domains, such as robotics, material design, and protein and molecular engineering. A common approach involves training a surrogate model using existing designs and their corresponding scores, and then generating new designs through gradient-based updates with respect to the surrogate model. This method suffers from the out-of-distribution issue, where the surrogate model may erroneously predict high scores for unseen designs. To address this challenge, we introduce a novel method, Design Editing for Offline Model-based Optimization (DEMO), which leverages a diffusion prior to calibrate overly optimized designs. DEMO first generates pseudo design candidates by performing gradient ascent with respect to a surrogate model. While these pseudo design candidates contain information beyond the offline dataset, they might be invalid or have erroneously high predicted scores. Therefore, to address this challenge while utilizing the information provided by pseudo design candidates, we propose an editing process to refine these pseudo design candidates. We introduce noise to the pseudo design candidates and subsequently denoise them with a diffusion prior trained on the offline dataset, ensuring they align with the distribution of valid designs. Empirical evaluations on seven offline MBO tasks show that, with properly tuned hyperparameters, DEMOs score is competitive with the best previously reported scores in the literature.",
@@ -313,7 +337,8 @@
   "title": "Bundle Neural Networks for message diffusion on graphs",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:geometric deep learning"
   ],
   "updated": "2025-04-14"
  },
@@ -396,6 +421,32 @@
    "Particle & High Energy Physics"
   ],
   "updated": "2025-04-22"
+ },
+ "2405.20445": {
+  "abstract": "One fundamental challenge in graph machine learning is generalizing to new graphs. Many existing methods following the inductive setup can generalize to test graphs with new structures, but assuming the feature and label spaces remain the same as the training ones. This paper introduces a fully-inductive setup, where models should perform inference on arbitrary test graphs with new structures, feature and label spaces. We propose GraphAny as the first attempt at this challenging setup. GraphAny models inference on a new graph as an analytical solution to a LinearGNN, which can be naturally applied to graphs with any feature and label spaces. To further build a stronger model with learning capacity, we fuse multiple LinearGNN predictions with learned inductive attention scores. Specifically, the attention module is carefully parameterized as a function of the entropy-normalized distance features between pairs of LinearGNN predictions to ensure generalization to new graphs. Empirically, GraphAny trained on a single Wisconsin dataset with only 120 labeled nodes can generalize to 30 new graphs with an average accuracy of 67.26%, surpassing not only all inductive baselines, but also strong transductive methods trained separately on each of the 30 test graphs.",
+  "authors": [
+   "Jianan Zhao",
+   "Zhaocheng Zhu",
+   "Mikhail Galkin",
+   "Hesham Mostafa",
+   "Michael Bronstein",
+   "Jian Tang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.SI"
+  ],
+  "comment": "ICLR2025",
+  "first_author": "Jianan Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2405.20445",
+  "primary_category": "cs.LG",
+  "published": "2024-05-30",
+  "tags": [],
+  "title": "Fully-inductive Node Classification on Arbitrary Graphs",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2025-04-08"
  },
  "2406.04239": {
   "abstract": "The interaction of a protein with its environment can be understood and controlled via its 3D structure. Experimental methods for protein structure determination, such as X-ray crystallography or cryogenic electron microscopy, shed light on biological processes but introduce challenging inverse problems. Learning-based approaches have emerged as accurate and efficient methods to solve these inverse problems for 3D structure determination, but are specialized for a predefined type of measurement. Here, we introduce a versatile framework to turn biophysical measurements, such as cryo-EM density maps, into 3D atomic models. Our method combines a physics-based forward model of the measurement process with a pretrained generative model providing a task-agnostic, data-driven prior. Our method outperforms posterior sampling baselines on linear and non-linear inverse problems. In particular, it is the first diffusion-based method for refining atomic models from cryo-EM maps and building atomic models from sparse distance matrices.",
@@ -2185,6 +2236,33 @@
   ],
   "updated": "2025-04-06"
  },
+ "2410.03463": {
+  "abstract": "Recent advancements in diffusion models have been effective in learning data priors for solving inverse problems. They leverage diffusion sampling steps for inducing a data prior while using a measurement guidance gradient at each step to impose data consistency. For general inverse problems, approximations are needed when an unconditionally trained diffusion model is used since the measurement likelihood is intractable, leading to inaccurate posterior sampling. In other words, due to their approximations, these methods fail to preserve the generation process on the data manifold defined by the diffusion prior, leading to artifacts in applications such as image restoration. To enhance the performance and robustness of diffusion models in solving inverse problems, we propose Diffusion State-Guided Projected Gradient (DiffStateGrad), which projects the measurement gradient onto a subspace that is a low-rank approximation of an intermediate state of the diffusion process. DiffStateGrad, as a module, can be added to a wide range of diffusion-based inverse solvers to improve the preservation of the diffusion process on the prior manifold and filter out artifact-inducing components. We highlight that DiffStateGrad improves the robustness of diffusion models in terms of the choice of measurement guidance step size and noise while improving the worst-case performance. Finally, we demonstrate that DiffStateGrad improves upon the state-of-the-art on linear and nonlinear image restoration inverse problems. Our code is available at https://github.com/Anima-Lab/DiffStateGrad.",
+  "authors": [
+   "Rayhan Zirvi",
+   "Bahareh Tolooshams",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "Published as a conference paper at ICLR 2025. RZ and BT have equal contributions",
+  "first_author": "Rayhan Zirvi",
+  "pdf_url": "http://arxiv.org/pdf/2410.03463",
+  "primary_category": "cs.LG",
+  "published": "2024-10-04",
+  "tags": [
+   "diffusion-models",
+   "inverse-problems"
+  ],
+  "title": "Diffusion State-Guided Projected Gradient for Inverse Problems",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2025-04-01"
+ },
  "2410.03802": {
   "abstract": "The complexity of the cardiovascular system needs to be accurately reproduced in order to promptly acknowledge health conditions; to this aim, advanced multifidelity and multiphysics numerical models are crucial. On one side, Full Order Models (FOMs) deliver accurate hemodynamic assessments, but their high computational demands hinder their real-time clinical application. In contrast, Reduced Order Models (ROMs) provide more efficient yet accurate solutions, essential for personalized healthcare and timely clinical decision-making. In this work, we explore the application of computational fluid dynamics (CFD) in cardiovascular medicine by integrating FOMs with ROMs for predicting the risk of aortic aneurysm growth and rupture. Wall Shear Stress (WSS) and the Oscillatory Shear Index (OSI), sampled at different growth stages of the thoracic aortic aneurysm, are predicted by means of Graph Neural Networks (GNNs). GNNs exploit the natural graph structure of the mesh obtained by the Finite Volume (FV) discretization, taking into account the spatial local information, regardless of the dimension of the input graph. Our experimental validation framework yields promising results, confirming our method as a valid alternative that overcomes the curse of dimensionality.",
   "authors": [
@@ -2293,6 +2371,32 @@
   ],
   "updated": "2025-04-12"
  },
+ "2410.05452": {
+  "abstract": "Musculoskeletal injuries during military training significantly impact readiness, making prevention through activity monitoring crucial. While Human Activity Recognition (HAR) using wearable devices offers promising solutions, it faces challenges in processing continuous data streams and recognizing diverse activities without predefined sessions. This paper introduces an end-to-end framework for preprocessing, analyzing, and recognizing activities from wearable data in military training contexts. Using data from 135 soldiers wearing \\textit{Garmin--55} smartwatches over six months with over 15 million minutes. We develop a hierarchical deep learning approach that achieves 93.8% accuracy in temporal splits and 83.8% in cross-user evaluation. Our framework addresses missing data through physiologically-informed methods, reducing unknown sleep states from 40.38% to 3.66%. We demonstrate that while longer time windows (45-60 minutes) improve basic state classification, they present trade-offs in detecting fine-grained activities. Additionally, we introduce an intuitive visualization system that enables real-time comparison of individual performance against group metrics across multiple physiological indicators. This approach to activity recognition and performance monitoring provides military trainers with actionable insights for optimizing training programs and preventing injuries.",
+  "authors": [
+   "Barak Gahtan",
+   "Shany Funk",
+   "Einat Kodesh",
+   "Itay Ketko",
+   "Tsvi Kuflik",
+   "Alex M. Bronstein"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Barak Gahtan",
+  "pdf_url": "http://arxiv.org/pdf/2410.05452",
+  "primary_category": "cs.LG",
+  "published": "2024-10-07",
+  "tags": [],
+  "title": "WearableMil: An End-to-End Framework for Military Activity Recognition and Performance Monitoring",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2025-04-28"
+ },
  "2410.05454": {
   "abstract": "Learning shared structure across environments facilitates rapid learning and adaptive behavior in neural systems. This has been widely demonstrated and applied in machine learning to train models that are capable of generalizing to novel settings. However, there has been limited work exploiting the shared structure in neural activity during similar tasks for learning latent dynamics from neural recordings. Existing approaches are designed to infer dynamics from a single dataset and cannot be readily adapted to account for statistical heterogeneities across recordings. In this work, we hypothesize that similar tasks admit a corresponding family of related solutions and propose a novel approach for meta-learning this solution space from task-related neural activity of trained animals. Specifically, we capture the variabilities across recordings on a low-dimensional manifold which concisely parametrizes this family of dynamics, thereby facilitating rapid learning of latent dynamics given new recordings. We demonstrate the efficacy of our approach on few-shot reconstruction and forecasting of synthetic dynamical systems, and neural recordings from the motor cortex during different arm reaching tasks.",
   "authors": [
@@ -2375,6 +2479,56 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2025-04-01"
+ },
+ "2410.06140": {
+  "abstract": "QUIC, a new and increasingly used transport protocol, enhances TCP by offering improved security, performance, and stream multiplexing. These features, however, also impose challenges for network middle-boxes that need to monitor and analyze web traffic. This paper proposes a novel method to estimate the number of HTTP/3 responses in a given QUIC connection by an observer. This estimation reveals server behavior, client-server interactions, and data transmission efficiency, which is crucial for various applications such as designing a load balancing solution and detecting HTTP/3 flood attacks. The proposed scheme transforms QUIC connection traces into image sequences and uses machine learning (ML) models, guided by a tailored loss function, to predict response counts. Evaluations on more than seven million images-derived from 100,000 traces collected across 44,000 websites over four months-achieve up to 97% accuracy in both known and unknown server settings and 92% accuracy on previously unseen complete QUIC traces.",
+  "authors": [
+   "Barak Gahtan",
+   "Robert J. Shahla",
+   "Reuven Cohen",
+   "Alex M. Bronstein"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CV",
+   "cs.NI"
+  ],
+  "comment": null,
+  "first_author": "Barak Gahtan",
+  "pdf_url": "http://arxiv.org/pdf/2410.06140",
+  "primary_category": "cs.LG",
+  "published": "2024-10-08",
+  "tags": [],
+  "title": "Estimating the Number of HTTP/3 Responses in QUIC Using Deep Learning",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2025-04-28"
+ },
+ "2410.08105": {
+  "abstract": "Prompting techniques such as chain-of-thought have established themselves as a popular vehicle for improving the outputs of large language models (LLMs). For code generation, however, their exact mechanics and efficacy are under-explored. We thus investigate the effects of a wide range of prompting strategies with a focus on automatic re-prompting over multiple turns and computational requirements. After systematically decomposing reasoning, instruction, and execution feedback prompts, we conduct an extensive grid search on the competitive programming benchmarks CodeContests and TACO for multiple LLM families and sizes (Llama 3.0 and 3.1, 8B, 70B, 405B, and GPT-4o). Our study reveals strategies that consistently improve performance across all models with small and large sampling budgets. We then show how finetuning with such an optimal configuration allows models to internalize the induced reasoning process and obtain improvements in performance and scalability for multi-turn code generation.",
+  "authors": [
+   "Kunhao Zheng",
+   "Juliette Decugis",
+   "Jonas Gehring",
+   "Taco Cohen",
+   "Benjamin Negrevergne",
+   "Gabriel Synnaeve"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "Published as a conference paper at ICLR 2025",
+  "first_author": "Kunhao Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2410.08105",
+  "primary_category": "cs.CL",
+  "published": "2024-10-10",
+  "tags": [],
+  "title": "What Makes Large Language Models Reason in (Multi-Turn) Code Generation?",
+  "topics": [
+   "via:author-whitelist:equivariant neural networks"
+  ],
+  "updated": "2025-04-07"
  },
  "2410.10603": {
   "abstract": "We employ a novel framework for accelerated cosmological inference, based on neural emulators and gradient-based sampling methods, to forecast constraints on dark energy models from Stage IV cosmic shear surveys. We focus on dark scattering (DS), an interacting dark energy model with pure momentum exchange in the dark sector, and train COSMOPOWER emulators to accurately and efficiently model the DS non-linear matter power spectrum produced by the halo model reaction framework, including the effects of baryon feedback and massive neutrinos. We embed the emulators within a fully-differentiable pipeline for gradient-based cosmological inference for which the batch likelihood call is up to $O(10^5)$ times faster than with traditional approaches, producing parameter constraints from simulated Stage IV cosmic shear data running on a single graphics processing unit (GPU). We also perform model comparison on the output chains from the inference process, employing the learnt harmonic mean estimator implemented in the software HARMONIC. We investigate degeneracies between dark energy and systematics parameters and assess the impact of scale cuts on the final constraints. Assuming a DS model for the mock data vector, we find that a Stage IV survey cosmic shear analysis can constrain the DS amplitude parameter $A_{\\mathrm{ds}}$ with an uncertainty roughly an order of magnitude smaller than current constraints from Stage III surveys, even after marginalising over baryonic feedback, intrinsic alignments and redshift distribution uncertainties. These results show great promise for constraining DS with Stage IV data; furthermore, our methodology can be straightforwardly extended to a wide range of dark energy and modified gravity models.",
@@ -2686,7 +2840,8 @@
   ],
   "title": "A Unified Model for Compressed Sensing MRI Across Undersampling Patterns",
   "topics": [
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2025-04-04"
  },
@@ -2838,6 +2993,31 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2025-04-01"
+ },
+ "2410.20736": {
+  "abstract": "In this article, we propose a new way to handle interactions between two scalar fields in the cosmological backdrop where one scalar field oscillates rapidly in the cosmological time scale while the other does not show any periodic behavior in the same time scale. We have interpreted the rapidly oscillating scalar field as the dark matter candidate while the other scalar field is supposed to be the canonical quintessence field or the non-canonical phantom field. A model of a generalized top-hat-like collapse is developed where the dark sector is composed of the aforementioned scalar fields. We show how the non-minimal coupling in the dark sector affects the gravitational collapse of a slightly overdense spherical patch of the universe. The results show that one can have both unclustered and clustered dark energy in such collapses, the result depends upon the magnitude of the non-minimal coupling strength.",
+  "authors": [
+   "Priyanka Saha",
+   "Dipanjan Dey",
+   "Kaushik Bhattacharya"
+  ],
+  "categories": [
+   "gr-qc"
+  ],
+  "comment": "17 pages, 7 figures",
+  "first_author": "Priyanka Saha",
+  "pdf_url": "http://arxiv.org/pdf/2410.20736",
+  "primary_category": "gr-qc",
+  "published": "2024-10-28",
+  "tags": [
+   "dark-energy",
+   "dark-matter"
+  ],
+  "title": "Non-minimal coupling of scalar fields in the dark sector and generalization of the top-hat collapse",
+  "topics": [
+   "via:author-whitelist:neural operators, multi-scale"
+  ],
+  "updated": "2025-04-08"
  },
  "2410.21974": {
   "abstract": "Blazars are the most common sources of $γ$-ray photons in the extragalactic sky. Their $γ$-ray light curves are characterized by bright flaring episodes, similarly to what is observed at longer wavelengths. These gamma-ray bursts from blazars (GRBBLs) have been extensively studied individually, but never in terms of a population. The goal of this work is to provide a global characterization of GRBBLs, to investigate the parameter space of the population, and ultimately to classify GRBBLs. Their global properties could give insights into the physical mechanisms responsible for the $γ$-ray radiation and into the origin of the observed variability. I analyzed a sample of publicly available Fermi-LAT light curves, utilizing only blazars with certain redshift measurements. The redshift-corrected light curves were then automatically scanned to identify GRBBLs. A simple flare profile, with an exponential rise and decay, was then fit to all events. The fit parameters, together with the information on spectral variability during the events, and the global properties from the LAT catalog, were then used as inputs for unsupervised machine learning classification. The analysis shows that the GRBBL population is remarkably homogeneous. The classifier splits the population into achromatic (the large majority) and chromatic (the outliers) GRBBLs, but the transition between the two classes is smooth, with significant overlap. When the information on the spectral variability is removed, there is evidence for a classification into two classes, mainly driven by the peak luminosities. As a by-product of this study, I identify a correlation between the timescales of the GRBBLs and their peak luminosity.",
@@ -4289,7 +4469,8 @@
   ],
   "title": "Predicting Crack Nucleation and Propagation in Brittle Materials Using Deep Operator Networks with Diverse Trunk Architectures",
   "topics": [
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2025-04-14"
  },
@@ -4751,7 +4932,8 @@
   "tags": [],
   "title": "Sparse identification of nonlinear dynamics and Koopman operators with Shallow Recurrent Decoder Networks",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2025-04-01"
  },
@@ -5899,6 +6081,31 @@
   ],
   "updated": "2025-04-27"
  },
+ "2503.13959": {
+  "abstract": "Two-photon Raman excitation between the ground hyperfine states $|5 \\ ^2S_{1/2}, F = 2\\rangle$ and $|5 \\ ^2S_{1/2}, F = 1\\rangle$ of $^{87}$Rb atom has been experimentally studied. The Rabi coupling strengths of various transition involved have been calculated in presence of a weak magnetic field. A density matrix formalism has been developed to understand the experimentally observed damping of Rabi oscillations of population in a hyperfine state of $^{87}$Rb atom during interaction with the Raman laser beams. The observed damping of Rabi oscillations has been attributed to the dephasing during the light atom interaction.",
+  "authors": [
+   "Vijay Kumar",
+   "S. P. Ram",
+   "S. Singh",
+   "Kavish Bhardwaj",
+   "V. B. Tiwari",
+   "S. R. Mishra"
+  ],
+  "categories": [
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "Vijay Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2503.13959",
+  "primary_category": "physics.atom-ph",
+  "published": "2025-03-18",
+  "tags": [],
+  "title": "On damping of Rabi oscillations in two-photon Raman excitation in cold $^{87}$Rb atoms",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2025-04-21"
+ },
  "2503.17140": {
   "abstract": "Neural quantum states (NQS) have emerged as a powerful tool for approximating quantum wavefunctions using deep learning. While these models achieve remarkable accuracy, understanding how they encode physical information remains an open challenge. In this work, we introduce adiabatic fine-tuning, a scheme that trains NQS across a phase diagram, leading to strongly correlated weight representations across different models. This correlation in weight space enables the detection of phase transitions in quantum systems by analyzing the trained network weights alone. We validate our approach on the transverse field Ising model and the J1-J2 Heisenberg model, demonstrating that phase transitions manifest as distinct structures in weight space. Our results establish a connection between physical phase transitions and the geometry of neural network parameters, opening new directions for the interpretability of machine learning models in physics.",
   "authors": [
@@ -6627,7 +6834,8 @@
   "tags": [],
   "title": "Constitutive relations from images",
   "topics": [
-   "Generative Models & Discovery"
+   "Generative Models & Discovery",
+   "via:author-whitelist:neural operators, multi-scale"
   ],
   "updated": "2025-04-01"
  },
@@ -6841,6 +7049,33 @@
   "title": "A widely applicable Galaxy Group finder Using Machine Learning",
   "topics": [
    "Astrophysics & Cosmology"
+  ],
+  "updated": "2025-04-01"
+ },
+ "2504.01156": {
+  "abstract": "Soft pneumatic actuators (SPA) made from elastomeric materials can provide large strain and large force. The behavior of locally strain-restricted hyperelastic materials under inflation has been investigated thoroughly for shape reconfiguration, but requires further investigation for trajectories involving external force. In this work we model force-pressure-height relationships for a concentrically strain-limited class of soft pneumatic actuators and demonstrate the use of this model to design SPA response for object lifting. We predict relationships under different loadings by solving energy minimization equations and verify this theory by using an automated test rig to collect rich data for n=22 Ecoflex 00-30 membranes. We collect this data using an active learning pipeline to efficiently model the design space. We show that this learned material model outperforms the theory-based model and naive curve-fitting approaches. We use our model to optimize membrane design for different lift tasks and compare this performance to other designs. These contributions represent a step towards understanding the natural response for this class of actuator and embodying intelligent lifts in a single-pressure input actuator system.",
+  "authors": [
+   "Gregory M. Campbell",
+   "Gentian Muhaxheri",
+   "Leonardo Ferreira Guilhoto",
+   "Christian D. Santangelo",
+   "Paris Perdikaris",
+   "James Pikul",
+   "Mark Yim"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.LG"
+  ],
+  "comment": "This work has been submitted to the IEEE for possible publication. Submitted to R-AL Special Issue: Interdisciplinarity and Widening Horizons in Soft Robotics (2025). Accompanying video: https://www.youtube.com/watch?v=iAsE9GTH2xc . Accompanying codebase: https://github.com/gmcampbell/SPA_Design",
+  "first_author": "Gregory M. Campbell",
+  "pdf_url": "http://arxiv.org/pdf/2504.01156",
+  "primary_category": "cs.RO",
+  "published": "2025-04-01",
+  "tags": [],
+  "title": "Active Learning Design: Modeling Force Output for Axisymmetric Soft Pneumatic Actuators",
+  "topics": [
+   "via:author-whitelist:PINNs, Bayesian SciML"
   ],
   "updated": "2025-04-01"
  },
@@ -9176,7 +9411,8 @@
   "tags": [],
   "title": "CAMulator: Fast Emulation of the Community Atmosphere Model",
   "topics": [
-   "Climate, Weather & Geophysics"
+   "Climate, Weather & Geophysics",
+   "via:author-whitelist:ML for climate, dynamical systems"
   ],
   "updated": "2025-04-08"
  },
@@ -9342,6 +9578,29 @@
   "title": "A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer",
   "topics": [
    "Materials Science & Condensed Matter"
+  ],
+  "updated": "2025-04-08"
+ },
+ "2504.06366": {
+  "abstract": "We investigate the temporal evolution of ocean heat uptake efficiency (OHUE) using observations and large ensemble model simulations. OHUE, defined as the ratio of the rate in ocean heat uptake to changes in global mean surface temperature anomalies, has exhibited significant variability over recent decades. We found a relatively low OHUE in the late 1980s, a peak around 2000, and a subsequent decline. A key finding is the significant influence of natural external forcing, mainly volcanic eruptions, which causes an abrupt decline in OHUE followed by a gradual recovery. The 1991 Mount Pinatubo eruption, a major volcanic event of the 20th century, had a lasting impact on OHUE. This study emphasizes the contribution of mid-latitudes to global OHUE changes. Our findings underscore the importance of considering natural external forcing in understanding climate dynamics and suggest conducting idealized experiments to quantify the potential effects of future volcanic eruptions on OHUE.",
+  "authors": [
+   "Jia-Rui Shi",
+   "Laure Zanna",
+   "Alistair Adcroft"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Jia-Rui Shi",
+  "pdf_url": "http://arxiv.org/pdf/2504.06366",
+  "primary_category": "physics.ao-ph",
+  "published": "2025-04-08",
+  "tags": [],
+  "title": "The Impact of Natural External Forcing on Ocean Heat Uptake Efficiency Since the 1980s",
+  "topics": [
+   "via:author-whitelist:ML for climate, dynamical systems"
   ],
   "updated": "2025-04-08"
  },
@@ -10779,7 +11038,8 @@
   ],
   "title": "ELPINN: Eulerian Lagrangian Physics-Informed Neural Network",
   "topics": [
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs co-author"
   ],
   "updated": "2025-04-12"
  },
@@ -13022,6 +13282,31 @@
   ],
   "updated": "2025-04-16"
  },
+ "2504.12526": {
+  "abstract": "Long-context language models exhibit impressive performance but remain challenging to deploy due to high GPU memory demands during inference. We propose Memory-efficient Offloaded Mini-sequence Inference (MOM), a method that partitions critical layers into smaller \"mini-sequences\" and integrates seamlessly with KV cache offloading. Experiments on various Llama, Qwen, and Mistral models demonstrate that MOM reduces peak memory usage by over 50\\% on average. On Meta-Llama-3.2-8B, MOM extends the maximum context length from 155k to 455k tokens on a single A100 80GB GPU, while keeping outputs identical and not compromising accuracy. MOM also maintains highly competitive throughput due to minimal computational overhead and efficient last-layer processing. Compared to traditional chunked prefill methods, MOM achieves a 35\\% greater context length extension. More importantly, our method drastically reduces prefill memory consumption, eliminating it as the longstanding dominant memory bottleneck during inference. This breakthrough fundamentally changes research priorities, redirecting future efforts from prefill-stage optimizations to improving decode-stage residual KV cache efficiency.",
+  "authors": [
+   "Junyang Zhang",
+   "Tianyi Zhu",
+   "Cheng Luo",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "Submitted to COLM",
+  "first_author": "Junyang Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2504.12526",
+  "primary_category": "cs.LG",
+  "published": "2025-04-16",
+  "tags": [],
+  "title": "MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2025-04-16"
+ },
  "2504.12532": {
   "abstract": "How diffusion models generalize beyond their training set is not known, and is somewhat mysterious given two facts: the optimum of the denoising score matching (DSM) objective usually used to train diffusion models is the score function of the training distribution; and the networks usually used to learn the score function are expressive enough to learn this score to high accuracy. We claim that a certain feature of the DSM objective -- the fact that its target is not the training distribution's score, but a noisy quantity only equal to it in expectation -- strongly impacts whether and to what extent diffusion models generalize. In this paper, we develop a mathematical theory that partly explains this 'generalization through variance' phenomenon. Our theoretical analysis exploits a physics-inspired path integral approach to compute the distributions typically learned by a few paradigmatic under- and overparameterized diffusion models. We find that the distributions diffusion models effectively learn to sample from resemble their training distributions, but with 'gaps' filled in, and that this inductive bias is due to the covariance structure of the noisy target used during training. We also characterize how this inductive bias interacts with feature-related inductive biases.",
   "authors": [
@@ -13467,7 +13752,8 @@
   "title": "Equilibrium Conserving Neural Operators for Super-Resolution Learning",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2025-04-18"
  },
@@ -14775,7 +15061,8 @@
   "topics": [
    "Climate, Weather & Geophysics",
    "Dynamical Systems & PDE Learning",
-   "Fluid Dynamics & Plasma Physics"
+   "Fluid Dynamics & Plasma Physics",
+   "via:author-whitelist:ML for climate, dynamical systems"
   ],
   "updated": "2025-04-21"
  },
@@ -15069,7 +15356,8 @@
   "title": "High-performance training and inference for deep equivariant interatomic potentials",
   "topics": [
    "Materials Science & Condensed Matter",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:e3nn, equivariant tensor networks"
   ],
   "updated": "2025-04-22"
  },
@@ -15926,6 +16214,335 @@
   "title": "Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing",
   "topics": [
    "Climate, Weather & Geophysics"
+  ],
+  "updated": "2025-04-24"
+ },
+ "2504.17867": {
+  "abstract": "The Cosmic Dawn Survey Pre-launch (PL) catalogues cover an effective 10.13 deg$^{2}$ area with uniform deep Spitzer/IRAC data ($m\\sim25$ mag, 5$σ$), the largest area covered to these depths in the infrared. These data are used to gain new insight into the growth of stellar mass across cosmic history by characterising the evolution of the galaxy stellar mass function (GSMF) through $0.2 < z \\leq 6.5$. The total volume (0.62 Gpc$^{3}$) represents a tenfold increase compared to previous works that have explored $z > 3$ and significantly reduces cosmic variance, yielding strong constraints on the abundance of massive galaxies. Results are generally consistent with the literature but now provide firm estimates of number density where only upper limits were previously available. Contrasting the GSMF with the dark matter halo mass function suggests that massive galaxies ($M \\gtrsim10^{11}$ M$_{\\odot}$) at $z > 3.5$ required integrated star-formation efficiencies of $M/(M_{\\rm h}f_{\\rm b}) \\gtrsim$ 0.25--0.5, in excess of the commonly-held view of ``universal peak efficiency\" from studies on the stellar-to-halo mass relation (SHMR). Such increased efficiencies imply an evolving peak in the SHMR at $z > 3.5$ which can be maintained if feedback mechanisms from active galactic nuclei and stellar processes are ineffective at early times. In addition, a significant fraction of the most massive quiescent galaxies are observed to be in place already by $z\\sim 2.5$--3. The apparent lack in change of their number density by $z\\sim 0.2$ is consistent with relatively little mass growth from mergers. Utilising the unique volume, evidence for an environmental dependence of the galaxy stellar mass function is found all the way through $z\\sim 3.5$ for the first time, though a more careful characterisation of the density field is ultimately required for confirmation.",
+  "authors": [
+   "Euclid Collaboration",
+   "L. Zalesky",
+   "J. R. Weaver",
+   "C. J. R. McPartland",
+   "G. Murphree",
+   "I. Valdes",
+   "C. K. Jespersen",
+   "S. Taamoli",
+   "N. Chartab",
+   "N. Allen",
+   "S. W. J. Barrow",
+   "D. B. Sanders",
+   "S. Toft",
+   "B. Mobasher",
+   "I. Szapudi",
+   "B. Altieri",
+   "A. Amara",
+   "S. Andreon",
+   "N. Auricchio",
+   "C. Baccigalupi",
+   "M. Baldi",
+   "S. Bardelli",
+   "P. Battaglia",
+   "A. Biviano",
+   "D. Bonino",
+   "E. Branchini",
+   "M. Brescia",
+   "J. Brinchmann",
+   "A. Caillat",
+   "S. Camera",
+   "G. Cañas-Herrera",
+   "V. Capobianco",
+   "C. Carbone",
+   "J. Carretero",
+   "S. Casas",
+   "F. J. Castander",
+   "M. Castellano",
+   "G. Castignani",
+   "S. Cavuoti",
+   "K. C. Chambers",
+   "A. Cimatti",
+   "C. Colodro-Conde",
+   "G. Congedo",
+   "C. J. Conselice",
+   "L. Conversi",
+   "Y. Copin",
+   "F. Courbin",
+   "H. M. Courtois",
+   "A. Da Silva",
+   "H. Degaudenzi",
+   "G. De Lucia",
+   "A. M. Di Giorgio",
+   "H. Dole",
+   "F. Dubath",
+   "C. A. J. Duncan",
+   "X. Dupac",
+   "S. Dusini",
+   "A. Ealet",
+   "S. Escoffier",
+   "M. Farina",
+   "R. Farinelli",
+   "S. Farrens",
+   "F. Faustini",
+   "S. Ferriol",
+   "F. Finelli",
+   "P. Fosalba",
+   "S. Fotopoulou",
+   "M. Frailis",
+   "E. Franceschi",
+   "M. Fumana",
+   "K. George",
+   "B. Gillis",
+   "C. Giocoli",
+   "J. Gracia-Carpio",
+   "A. Grazian",
+   "F. Grupp",
+   "S. Gwyn",
+   "S. V. H. Haugan",
+   "W. Holmes",
+   "I. Hook",
+   "F. Hormuth",
+   "A. Hornstrup",
+   "K. Jahnke",
+   "M. Jhabvala",
+   "B. Joachimi",
+   "E. Keihänen",
+   "S. Kermiche",
+   "A. Kiessling",
+   "B. Kubik",
+   "K. Kuijken",
+   "M. Kümmel",
+   "M. Kunz",
+   "H. Kurki-Suonio",
+   "A. M. C. Le Brun",
+   "D. Le Mignant",
+   "S. Ligori",
+   "P. B. Lilje",
+   "V. Lindholm",
+   "I. Lloro",
+   "G. Mainetti",
+   "D. Maino",
+   "E. Maiorano",
+   "O. Mansutti",
+   "O. Marggraf",
+   "K. Markovic",
+   "M. Martinelli",
+   "N. Martinet",
+   "F. Marulli",
+   "R. Massey",
+   "S. Maurogordato",
+   "H. J. McCracken",
+   "E. Medinaceli",
+   "S. Mei",
+   "Y. Mellier",
+   "M. Meneghetti",
+   "E. Merlin",
+   "G. Meylan",
+   "A. Mora",
+   "M. Moresco",
+   "L. Moscardini",
+   "R. Nakajima",
+   "C. Neissner",
+   "S. -M. Niemi",
+   "J. W. Nightingale",
+   "C. Padilla",
+   "S. Paltani",
+   "F. Pasian",
+   "K. Pedersen",
+   "V. Pettorino",
+   "G. Polenta",
+   "M. Poncet",
+   "L. A. Popa",
+   "L. Pozzetti",
+   "F. Raison",
+   "R. Rebolo",
+   "A. Renzi",
+   "J. Rhodes",
+   "G. Riccio",
+   "E. Romelli",
+   "M. Roncarelli",
+   "R. Saglia",
+   "Z. Sakr",
+   "D. Sapone",
+   "B. Sartoris",
+   "J. A. Schewtschenko",
+   "M. Schirmer",
+   "P. Schneider",
+   "T. Schrabback",
+   "A. Secroun",
+   "E. Sefusatti",
+   "G. Seidel",
+   "S. Serrano",
+   "P. Simon",
+   "C. Sirignano",
+   "G. Sirri",
+   "L. Stanco",
+   "J. -L. Starck",
+   "J. Steinwagner",
+   "P. Tallada-Crespí",
+   "D. Tavagnacco",
+   "A. N. Taylor",
+   "H. I. Teplitz",
+   "I. Tereno",
+   "R. Toledo-Moreo",
+   "F. Torradeflot",
+   "A. Tsyganov",
+   "I. Tutusaus",
+   "L. Valenziano",
+   "J. Valiviita",
+   "T. Vassallo",
+   "G. Verdoes Kleijn",
+   "A. Veropalumbo",
+   "Y. Wang",
+   "J. Weller",
+   "A. Zacchei",
+   "G. Zamorani",
+   "E. Zucca",
+   "M. Bolzonella",
+   "E. Bozzo",
+   "C. Burigana",
+   "M. Calabrese",
+   "D. Di Ferdinando",
+   "J. A. Escartin Vigo",
+   "L. Gabarra",
+   "S. Matthew",
+   "N. Mauri",
+   "A. Pezzotta",
+   "M. Pöntinen",
+   "C. Porciani",
+   "V. Scottez",
+   "M. Tenti",
+   "M. Viel",
+   "M. Wiesmann",
+   "Y. Akrami",
+   "V. Allevato",
+   "I. T. Andika",
+   "S. Anselmi",
+   "M. Archidiacono",
+   "F. Atrio-Barandela",
+   "M. Ballardini",
+   "D. Bertacca",
+   "M. Bethermin",
+   "A. Blanchard",
+   "L. Blot",
+   "S. Borgani",
+   "M. L. Brown",
+   "S. Bruton",
+   "R. Cabanac",
+   "A. Calabro",
+   "B. Camacho Quevedo",
+   "A. Cappi",
+   "F. Caro",
+   "C. S. Carvalho",
+   "T. Castro",
+   "R. Chary",
+   "F. Cogato",
+   "T. Contini",
+   "A. R. Cooray",
+   "O. Cucciati",
+   "S. Davini",
+   "F. De Paolis",
+   "G. Desprez",
+   "A. Díaz-Sánchez",
+   "S. Di Domizio",
+   "J. M. Diego",
+   "A. G. Ferrari",
+   "A. Finoguenov",
+   "K. Ganga",
+   "J. García-Bellido",
+   "T. Gasparetto",
+   "E. Gaztanaga",
+   "F. Giacomini",
+   "F. Gianotti",
+   "G. Gozaliasl",
+   "A. Gregorio",
+   "M. Guidi",
+   "C. M. Gutierrez",
+   "A. Hall",
+   "W. G. Hartley",
+   "S. Hemmati",
+   "H. Hildebrandt",
+   "J. Hjorth",
+   "M. Huertas-Company",
+   "O. Ilbert",
+   "J. J. E. Kajava",
+   "Y. Kang",
+   "V. Kansal",
+   "D. Karagiannis",
+   "C. C. Kirkpatrick",
+   "S. Kruk",
+   "M. Lattanzi",
+   "J. Le Graet",
+   "L. Legrand",
+   "M. Lembo",
+   "G. Leroy",
+   "J. Lesgourgues",
+   "T. I. Liaudat",
+   "A. Loureiro",
+   "J. Macias-Perez",
+   "G. Maggio",
+   "M. Magliocchetti",
+   "C. Mancini",
+   "F. Mannucci",
+   "R. Maoli",
+   "J. Martín-Fleitas",
+   "C. J. A. P. Martins",
+   "L. Maurin",
+   "R. B. Metcalf",
+   "M. Miluzio",
+   "P. Monaco",
+   "C. Moretti",
+   "G. Morgante",
+   "C. Murray",
+   "K. Naidoo",
+   "P. Natoli",
+   "A. Navarro-Alsina",
+   "S. Nesseris",
+   "K. Paterson",
+   "L. Patrizii",
+   "A. Pisani",
+   "D. Potter",
+   "I. Risso",
+   "P. -F. Rocci",
+   "M. Sahlén",
+   "E. Sarpa",
+   "J. Schaye",
+   "A. Schneider",
+   "M. Schultheis",
+   "D. Sciotti",
+   "E. Sellentin",
+   "M. Sereno",
+   "F. Shankar",
+   "L. C. Smith",
+   "S. A. Stanford",
+   "K. Tanidis",
+   "C. Tao",
+   "G. Testera",
+   "R. Teyssier",
+   "S. Tosi",
+   "A. Troja",
+   "M. Tucci",
+   "C. Valieri",
+   "A. Venhola",
+   "D. Vergani",
+   "G. Verza",
+   "P. Vielzeuf",
+   "N. A. Walton"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.CO"
+  ],
+  "comment": "- Submitted to A&A - Catalogues available here: https://dawn.calet.org/pl/",
+  "first_author": "Euclid Collaboration",
+  "pdf_url": "http://arxiv.org/pdf/2504.17867",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-04-24",
+  "tags": [
+   "dark-matter"
+  ],
+  "title": "Euclid preparation: TBD. Cosmic Dawn Survey: evolution of the galaxy stellar mass function across 0.2<z<6.5 measured over 10 square degrees",
+  "topics": [
+   "via:author-whitelist:graph networks for physics simulation"
   ],
   "updated": "2025-04-24"
  },
@@ -17933,6 +18550,31 @@
   "topics": [
    "Generative Models & Discovery",
    "Materials Science & Condensed Matter"
+  ],
+  "updated": "2025-04-30"
+ },
+ "2505.00101": {
+  "abstract": "Understanding physiological responses during running is critical for performance optimization, tailored training prescriptions, and athlete health management. We introduce a comprehensive framework -- what we believe to be the first capable of predicting instantaneous oxygen consumption (VO$_{2}$) trajectories exclusively from consumer-grade wearable data. Our approach employs two complementary physiological models: (1) accurate modeling of heart rate (HR) dynamics via a physiologically constrained ordinary differential equation (ODE) and neural Kalman filter, trained on over 3 million HR observations, achieving 1-second interval predictions with mean absolute errors as low as 2.81\\,bpm (correlation 0.87); and (2) leveraging the principles of precise HR modeling, a novel VO$_{2}$ prediction architecture requiring only the initial second of VO$_{2}$ data for calibration, enabling robust, sequence-to-sequence metabolic demand estimation. Despite relying solely on smartwatch and chest-strap data, our method achieves mean absolute percentage errors of approximately 13\\%, effectively capturing rapid physiological transitions and steady-state conditions across diverse running intensities. Our synchronized dataset, complemented by blood lactate measurements, further lays the foundation for future noninvasive metabolic zone identification. By embedding physiological constraints within modern machine learning, this framework democratizes advanced metabolic monitoring, bridging laboratory-grade accuracy and everyday accessibility, thus empowering both elite athletes and recreational fitness enthusiasts.",
+  "authors": [
+   "Barak Gahtan",
+   "Sanketh Vedula",
+   "Gil Samuelly Leichtag",
+   "Einat Kodesh",
+   "Alex M. Bronstein"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Barak Gahtan",
+  "pdf_url": "http://arxiv.org/pdf/2505.00101",
+  "primary_category": "cs.LG",
+  "published": "2025-04-30",
+  "tags": [],
+  "title": "From Lab to Wrist: Bridging Metabolic Monitoring and Consumer Wearables for Heart Rate and Oxygen Consumption Modeling",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
   ],
   "updated": "2025-04-30"
  },

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>data-assimilation — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,29 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00950.html">Equation-Free Digital Twins for Nonlinear Structural Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
 <td>Mohammad Mahdi Abaei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00950">2605.00950</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27680.html">To stall-cell or not to stall-cell: Variational data assimilation of 3D mean flow past a stalled airfoil</a></div><div class="paper-tags"><a href="rans-7d.html">rans</a></div></td>
-<td>Uttam Cadambi Padmanaban et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27680">2604.27680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27944.html">Calibrating Attribution Proxies for Reward Allocation in Participatory Weather Sensing</a></div></td>
-<td>Mark C. Ballandies et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27944">2604.27944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17625.html">Comparing Data Assimilation and Likelihood-Based Inference on Latent State Estimation in Agent-Based Models</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Blas Kolic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17625">2509.17625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06752.html">Latent Autoencoder Ensemble Kalman Filter for Nonlinear Data assimilation</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
-<td>Xin T. Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06752">2603.06752</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,41 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00788.html">Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
 <td>Adam Arthur et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00788">2605.00788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20549.html">Sample-efficient evidence estimation of score based priors for model selection</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20549">2602.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27443.html">ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Gabe Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27443">2604.27443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
-<td>Ali Shibli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28169.html">PhyCo: Learning Controllable Physical Priors for Generative Motion</a></div></td>
-<td>Sriram Narayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28169">2604.28169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23726.html">q3-MuPa: Quick, Quiet, Quantitative Multi-Parametric MRI using Physics-Informed Diffusion Models</a></div></td>
-<td>Shishuai Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23726">2512.23726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26503.html">Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</a></div></td>
-<td>Haosen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26503">2604.26503</a></td>
 </tr>
 </tbody></table>

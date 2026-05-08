@@ -1,4 +1,148 @@
 {
+ "2401.11037": {
+  "abstract": "Modeling the complex three-dimensional (3D) dynamics of relational systems is an important problem in the natural sciences, with applications ranging from molecular simulations to particle mechanics. Machine learning methods have achieved good success by learning graph neural networks to model spatial interactions. However, these approaches do not faithfully capture temporal correlations since they only model next-step predictions. In this work, we propose Equivariant Graph Neural Operator (EGNO), a novel and principled method that directly models dynamics as trajectories instead of just next-step prediction. Different from existing methods, EGNO explicitly learns the temporal evolution of 3D dynamics where we formulate the dynamics as a function over time and learn neural operators to approximate it. To capture the temporal correlations while keeping the intrinsic SE(3)-equivariance, we develop equivariant temporal convolutions parameterized in the Fourier space and build EGNO by stacking the Fourier layers over equivariant networks. EGNO is the first operator learning framework that is capable of modeling solution dynamics functions over time while retaining 3D equivariance. Comprehensive experiments in multiple domains, including particle simulations, human motion capture, and molecular dynamics, demonstrate the significantly superior performance of EGNO against existing methods, thanks to the equivariant temporal modeling. Our code is available at https://github.com/MinkaiXu/egno.",
+  "authors": [
+   "Minkai Xu",
+   "Jiaqi Han",
+   "Aaron Lou",
+   "Jean Kossaifi",
+   "Arvind Ramanathan",
+   "Kamyar Azizzadenesheli",
+   "Jure Leskovec",
+   "Stefano Ermon",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA",
+   "q-bio.QM"
+  ],
+  "comment": "Proceedings of the 41 st International Conference on Machine Learning, Vienna, Austria. PMLR 235, 2024. Copyright 2024 by the author(s)",
+  "first_author": "Minkai Xu",
+  "pdf_url": "http://arxiv.org/pdf/2401.11037",
+  "primary_category": "cs.LG",
+  "published": "2024-01-19",
+  "tags": [
+   "neural-operators",
+   "operator-learning"
+  ],
+  "title": "Equivariant Graph Neural Operator for Modeling 3D Dynamics",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-06-02"
+ },
+ "2402.02287": {
+  "abstract": "Machine learning on graphs, especially using graph neural networks (GNNs), has seen a surge in interest due to the wide availability of graph data across a broad spectrum of disciplines, from life to social and engineering sciences. Despite their practical success, our theoretical understanding of the properties of GNNs remains highly incomplete. Recent theoretical advancements primarily focus on elucidating the coarse-grained expressive power of GNNs, predominantly employing combinatorial techniques. However, these studies do not perfectly align with practice, particularly in understanding the generalization behavior of GNNs when trained with stochastic first-order optimization techniques. In this position paper, we argue that the graph machine learning community needs to shift its attention to developing a balanced theory of graph machine learning, focusing on a more thorough understanding of the interplay of expressive power, generalization, and optimization.",
+  "authors": [
+   "Christopher Morris",
+   "Fabrizio Frasca",
+   "Nadav Dym",
+   "Haggai Maron",
+   "İsmail İlkan Ceylan",
+   "Ron Levie",
+   "Derek Lim",
+   "Michael Bronstein",
+   "Martin Grohe",
+   "Stefanie Jegelka"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.DM",
+   "cs.NE",
+   "stat.ML"
+  ],
+  "comment": "ICML 2024",
+  "first_author": "Christopher Morris",
+  "pdf_url": "http://arxiv.org/pdf/2402.02287",
+  "primary_category": "cs.LG",
+  "published": "2024-02-03",
+  "tags": [],
+  "title": "Future Directions in the Theory of Graph Machine Learning",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-06-14"
+ },
+ "2402.08595": {
+  "abstract": "A large body of work has investigated the properties of graph neural networks and identified several limitations, particularly pertaining to their expressive power. Their inability to count certain patterns (e.g., cycles) in a graph lies at the heart of such limitations, since many functions to be learned rely on the ability of counting such patterns. Two prominent paradigms aim to address this limitation by enriching the graph features with subgraph or homomorphism pattern counts. In this work, we show that both of these approaches are sub-optimal in a certain sense and argue for a more fine-grained approach, which incorporates the homomorphism counts of all structures in the ``basis'' of the target pattern. This yields strictly more expressive architectures without incurring any additional overhead in terms of computational complexity compared to existing approaches. We prove a series of theoretical results on node-level and graph-level motif parameters and empirically validate them on standard benchmark datasets.",
+  "authors": [
+   "Emily Jin",
+   "Michael Bronstein",
+   "İsmail İlkan Ceylan",
+   "Matthias Lanzinger"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Proceedings of the Forty-First International Conference on Machine Learning (ICML 2024). Code available at: https://github.com/ejin700/hombasis-gnn",
+  "first_author": "Emily Jin",
+  "pdf_url": "http://arxiv.org/pdf/2402.08595",
+  "primary_category": "cs.LG",
+  "published": "2024-02-13",
+  "tags": [],
+  "title": "Homomorphism Counts for Graph Neural Networks: All About That Basis",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-06-10"
+ },
+ "2402.16845": {
+  "abstract": "Neural operators learn mappings between function spaces, which is practical for learning solution operators of PDEs and other scientific modeling applications. Among them, the Fourier neural operator (FNO) is a popular architecture that performs global convolutions in the Fourier space. However, such global operations are often prone to over-smoothing and may fail to capture local details. In contrast, convolutional neural networks (CNN) can capture local features but are limited to training and inference at a single resolution. In this work, we present a principled approach to operator learning that can capture local features under two frameworks by learning differential operators and integral operators with locally supported kernels. Specifically, inspired by stencil methods, we prove that we obtain differential operators under an appropriate scaling of the kernel values of CNNs. To obtain local integral operators, we utilize suitable basis representations for the kernels based on discrete-continuous convolutions. Both these approaches preserve the properties of operator learning and, hence, the ability to predict at any resolution. Adding our layers to FNOs significantly improves their performance, reducing the relative L2-error by 34-72% in our experiments, which include a turbulent 2D Navier-Stokes and the spherical shallow water equations.",
+  "authors": [
+   "Miguel Liu-Schiaffini",
+   "Julius Berner",
+   "Boris Bonev",
+   "Thorsten Kurth",
+   "Kamyar Azizzadenesheli",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "math.NA"
+  ],
+  "comment": "Accepted at 2024 International Conference on Machine Learning",
+  "first_author": "Miguel Liu-Schiaffini",
+  "pdf_url": "http://arxiv.org/pdf/2402.16845",
+  "primary_category": "cs.LG",
+  "published": "2024-02-26",
+  "tags": [
+   "neural-operators",
+   "operator-learning"
+  ],
+  "title": "Neural Operators with Localized Integral and Differential Kernels",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-06-08"
+ },
+ "2403.03507": {
+  "abstract": "Training Large Language Models (LLMs) presents significant memory challenges, predominantly due to the growing size of weights and optimizer states. Common memory-reduction approaches, such as low-rank adaptation (LoRA), add a trainable low-rank matrix to the frozen pre-trained weight in each layer, reducing trainable parameters and optimizer states. However, such approaches typically underperform training with full-rank weights in both pre-training and fine-tuning stages since they limit the parameter search to a low-rank subspace and alter the training dynamics, and further, may require full-rank warm start. In this work, we propose Gradient Low-Rank Projection (GaLore), a training strategy that allows full-parameter learning but is more memory-efficient than common low-rank adaptation methods such as LoRA. Our approach reduces memory usage by up to 65.5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures with C4 dataset with up to 19.7B tokens, and on fine-tuning RoBERTa on GLUE tasks. Our 8-bit GaLore further reduces optimizer memory by up to 82.5% and total training memory by 63.3%, compared to a BF16 baseline. Notably, we demonstrate, for the first time, the feasibility of pre-training a 7B model on consumer GPUs with 24GB memory (e.g., NVIDIA RTX 4090) without model parallel, checkpointing, or offloading strategies.",
+  "authors": [
+   "Jiawei Zhao",
+   "Zhenyu Zhang",
+   "Beidi Chen",
+   "Zhangyang Wang",
+   "Anima Anandkumar",
+   "Yuandong Tian"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "ICML 2024 (Oral)",
+  "first_author": "Jiawei Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2403.03507",
+  "primary_category": "cs.LG",
+  "published": "2024-03-06",
+  "tags": [],
+  "title": "GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-06-02"
+ },
  "2405.00539": {
   "abstract": "Global information about dynamical systems can be extracted by analysing associated infinite-dimensional transfer operators, such as Perron-Frobenius and Koopman operators as well as their infinitesimal generators. In practice, these operators typically need to be approximated from data. Popular approximation methods are extended dynamic mode decomposition (EDMD) and generator extended mode decomposition (gEDMD). We propose a unified framework that leverages Monte Carlo sampling to approximate the operator of interest on a finite-dimensional space spanned by a set of basis functions. Our framework contains EDMD and gEDMD as special cases, but can also be used to approximate more general operators. Our key contributions are proofs of the convergence of the approximating operator and its spectrum under non-restrictive conditions. Moreover, we derive explicit convergence rates and account for the presence of noise in the observations. Whilst all these results are broadly applicable, they also refine previous analyses of EDMD and gEDMD. We verify the analytical results with the aid of several numerical experiments.",
   "authors": [
@@ -1629,7 +1773,8 @@
   "title": "A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks",
   "topics": [
    "Generative Models & Discovery",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-06-05"
  },
@@ -2041,7 +2186,8 @@
   "title": "Solving Poisson Equations using Neural Walk-on-Spheres",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2024-06-05"
  },
@@ -2621,7 +2767,8 @@
   ],
   "title": "Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:extreme events, dynamical systems"
   ],
   "updated": "2024-06-10"
  },
@@ -5803,7 +5950,8 @@
   ],
   "title": "Active search for Bifurcations",
   "topics": [
-   "Dynamical Systems & PDE Learning"
+   "Dynamical Systems & PDE Learning",
+   "via:author-whitelist:extreme events, dynamical systems"
   ],
   "updated": "2024-06-17"
  },
@@ -5861,7 +6009,8 @@
   "title": "Score-fPINN: Fractional Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck-Levy Equations",
   "topics": [
    "Dynamical Systems & PDE Learning",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-06-17"
  },
@@ -5893,7 +6042,8 @@
   "topics": [
    "Dynamical Systems & PDE Learning",
    "Generative Models & Discovery",
-   "Scientific Machine Learning & PINNs"
+   "Scientific Machine Learning & PINNs",
+   "via:author-whitelist:PINNs, DeepONet"
   ],
   "updated": "2024-06-17"
  },

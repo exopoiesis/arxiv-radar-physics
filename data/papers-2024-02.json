@@ -1,0 +1,351 @@
+{
+ "2402.00326": {
+  "abstract": "While physics-informed neural networks (PINNs) have become a popular deep learning framework for tackling forward and inverse problems governed by partial differential equations (PDEs), their performance is known to degrade when larger and deeper neural network architectures are employed. Our study identifies that the root of this counter-intuitive behavior lies in the use of multi-layer perceptron (MLP) architectures with non-suitable initialization schemes, which result in poor trainablity for the network derivatives, and ultimately lead to an unstable minimization of the PDE residual loss. To address this, we introduce Physics-informed Residual Adaptive Networks (PirateNets), a novel architecture that is designed to facilitate stable and efficient training of deep PINN models. PirateNets leverage a novel adaptive residual connection, which allows the networks to be initialized as shallow networks that progressively deepen during training. We also show that the proposed initialization scheme allows us to encode appropriate inductive biases corresponding to a given PDE system into the network architecture. We provide comprehensive empirical evidence showing that PirateNets are easier to optimize and can gain accuracy from considerably increased depth, ultimately achieving state-of-the-art results across various benchmarks. All code and data accompanying this manuscript will be made publicly available at \\url{https://github.com/PredictiveIntelligenceLab/jaxpi}.",
+  "authors": [
+   "Sifan Wang",
+   "Bowen Li",
+   "Yuhan Chen",
+   "Paris Perdikaris"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": "30Pages, 15 Figures, 8 Tables",
+  "first_author": "Sifan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2402.00326",
+  "primary_category": "cs.LG",
+  "published": "2024-02-01",
+  "tags": [
+   "inverse-problems",
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks",
+  "topics": [
+   "via:author-whitelist:PINNs, Bayesian SciML"
+  ],
+  "updated": "2024-02-11"
+ },
+ "2402.01960": {
+  "abstract": "Operator learning has been increasingly adopted in scientific and engineering applications, many of which require calibrated uncertainty quantification. Since the output of operator learning is a continuous function, quantifying uncertainty simultaneously at all points in the domain is challenging. Current methods consider calibration at a single point or over one scalar function or make strong assumptions such as Gaussianity. We propose a risk-controlling quantile neural operator, a distribution-free, finite-sample functional calibration conformal prediction method. We provide a theoretical calibration guarantee on the coverage rate, defined as the expected percentage of points on the function domain whose true value lies within the predicted uncertainty ball. Empirical results on a 2D Darcy flow and a 3D car surface pressure prediction task validate our theoretical results, demonstrating calibrated coverage and efficient uncertainty bands outperforming baseline methods. In particular, on the 3D problem, our method is the only one that meets the target calibration percentage (percentage of test samples for which the uncertainty estimates are calibrated) of 98%.",
+  "authors": [
+   "Ziqi Ma",
+   "Kamyar Azizzadenesheli",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "14 pages, 7 figures",
+  "first_author": "Ziqi Ma",
+  "pdf_url": "http://arxiv.org/pdf/2402.01960",
+  "primary_category": "cs.LG",
+  "published": "2024-02-02",
+  "tags": [
+   "operator-learning",
+   "uncertainty-quantification"
+  ],
+  "title": "Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-02-06"
+ },
+ "2402.04316": {
+  "abstract": "We introduce a new class of hilltop and plateau potentials which can successfully unify inflation and dark energy resulting in Quintessential Inflation (QI). Interestingly these new potentials are related through an inverse transformation. Namely, if $V(φ) = V_0 \\, v(φ)$ is a plateau potential then the inverse potential $V(φ) = V_0 \\, \\left[v(φ)\\right]^{-1}$ describes hilltop QI. A simple example is provided by the KKLT-inspired potential $v(φ) = \\left\\lbrack \\frac{M^{2n} + φ^{2n}}{N^{2n} + φ^{2n}}\\right\\rbrack \\,$. When $M/N \\ll 1$ this potential describes plateau QI, while its inverse, $\\left[v(φ)\\right]^{-1}$ describes hilltop QI. Other simple models of QI arise for the class of potentials $V(φ) \\sim \\exp\\left\\lbrack\\mp f(φ)\\right\\rbrack$, where the $-$ ($+$) sign is associated with a plateau (hilltop). A key feature of this new class of QI models is the near absence of small parameters which are usually associated with the presence of dark energy. A forecast for the gravitational wave background generated in these models is provided.",
+  "authors": [
+   "Swagat S. Mishra",
+   "Varun Sahni"
+  ],
+  "categories": [
+   "astro-ph.CO",
+   "gr-qc",
+   "hep-ph",
+   "hep-th"
+  ],
+  "comment": "43 pages, 14 figures",
+  "first_author": "Swagat S. Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2402.04316",
+  "primary_category": "astro-ph.CO",
+  "published": "2024-02-06",
+  "tags": [
+   "dark-energy"
+  ],
+  "title": "New models of Quintessential Inflation featuring plateau and hilltop potentials",
+  "topics": [
+   "via:author-whitelist:neural operators, PDE learning"
+  ],
+  "updated": "2024-02-06"
+ },
+ "2402.05627": {
+  "abstract": "In human cognition, the binding problem describes the open question of how the brain flexibly integrates diverse information into cohesive object representations. Analogously, in machine learning, there is a pursuit for models capable of strong generalization and reasoning by learning object-centric representations in an unsupervised manner. Drawing from neuroscientific theories, Rotating Features learn such representations by introducing vector-valued features that encapsulate object characteristics in their magnitudes and object affiliation in their orientations. The \"$χ$-binding\" mechanism, embedded in every layer of the architecture, has been shown to be crucial, but remains poorly understood. In this paper, we propose an alternative \"cosine binding\" mechanism, which explicitly computes the alignment between features and adjusts weights accordingly, and we show that it achieves equivalent performance. This allows us to draw direct connections to self-attention and biological neural processes, and to shed light on the fundamental dynamics for object-centric representations to emerge in Rotating Features.",
+  "authors": [
+   "Sindy Löwe",
+   "Francesco Locatello",
+   "Max Welling"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV",
+   "q-bio.NC"
+  ],
+  "comment": null,
+  "first_author": "Sindy Löwe",
+  "pdf_url": "http://arxiv.org/pdf/2402.05627",
+  "primary_category": "cs.LG",
+  "published": "2024-02-08",
+  "tags": [],
+  "title": "Binding Dynamics in Rotating Features",
+  "topics": [
+   "via:author-whitelist:equivariant ML, generative models"
+  ],
+  "updated": "2024-02-08"
+ },
+ "2402.07463": {
+  "abstract": "The dynamic mode decomposition (DMD) is a simple and powerful data-driven modeling technique that is capable of revealing coherent spatiotemporal patterns from data. The method's linear algebra-based formulation additionally allows for a variety of optimizations and extensions that make the algorithm practical and viable for real-world data analysis. As a result, DMD has grown to become a leading method for dynamical system analysis across multiple scientific disciplines. PyDMD is a Python package that implements DMD and several of its major variants. In this work, we expand the PyDMD package to include a number of cutting-edge DMD methods and tools specifically designed to handle dynamics that are noisy, multiscale, parameterized, prohibitively high-dimensional, or even strongly nonlinear. We provide a complete overview of the features available in PyDMD as of version 1.0, along with a brief overview of the theory behind the DMD algorithm, information for developers, tips regarding practical DMD usage, and introductory coding examples. All code is available at https://github.com/PyDMD/PyDMD .",
+  "authors": [
+   "Sara M. Ichinaga",
+   "Francesco Andreuzzi",
+   "Nicola Demo",
+   "Marco Tezzele",
+   "Karl Lapo",
+   "Gianluigi Rozza",
+   "Steven L. Brunton",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "stat.CO",
+   "eess.SY",
+   "math.DS",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Sara M. Ichinaga",
+  "pdf_url": "http://arxiv.org/pdf/2402.07463",
+  "primary_category": "stat.CO",
+  "published": "2024-02-12",
+  "tags": [],
+  "title": "PyDMD: A Python package for robust dynamic mode decomposition",
+  "topics": [
+   "via:author-whitelist:SINDy, data-driven dynamics",
+   "via:author-whitelist:data-driven dynamical systems"
+  ],
+  "updated": "2024-02-12"
+ },
+ "2402.07465": {
+  "abstract": "The Fokker-Planck (FP) equation is a foundational PDE in stochastic processes. However, curse of dimensionality (CoD) poses challenge when dealing with high-dimensional FP PDEs. Although Monte Carlo and vanilla Physics-Informed Neural Networks (PINNs) have shown the potential to tackle CoD, both methods exhibit numerical errors in high dimensions when dealing with the probability density function (PDF) associated with Brownian motion. The point-wise PDF values tend to decrease exponentially as dimension increases, surpassing the precision of numerical simulations and resulting in substantial errors. Moreover, due to its massive sampling, Monte Carlo fails to offer fast sampling. Modeling the logarithm likelihood (LL) via vanilla PINNs transforms the FP equation into a difficult HJB equation, whose error grows rapidly with dimension. To this end, we propose a novel approach utilizing a score-based solver to fit the score function in SDEs. The score function, defined as the gradient of the LL, plays a fundamental role in inferring LL and PDF and enables fast SDE sampling. Three fitting methods, Score Matching (SM), Sliced SM (SSM), and Score-PINN, are introduced. The proposed score-based SDE solver operates in two stages: first, employing SM, SSM, or Score-PINN to acquire the score; and second, solving the LL via an ODE using the obtained score. Comparative evaluations across these methods showcase varying trade-offs. The proposed method is evaluated across diverse SDEs, including anisotropic OU processes, geometric Brownian, and Brownian with varying eigenspace. We also test various distributions, including Gaussian, Log-normal, Laplace, and Cauchy. The numerical results demonstrate the score-based SDE solver's stability, speed, and performance across different settings, solidifying its potential as a solution to CoD for high-dimensional FP equations.",
+  "authors": [
+   "Zheyuan Hu",
+   "Zhongqiang Zhang",
+   "George Em Karniadakis",
+   "Kenji Kawaguchi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "math.DS",
+   "math.NA",
+   "stat.ML"
+  ],
+  "comment": "22 pages",
+  "first_author": "Zheyuan Hu",
+  "pdf_url": "http://arxiv.org/pdf/2402.07465",
+  "primary_category": "cs.LG",
+  "published": "2024-02-12",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck Equations",
+  "topics": [
+   "via:author-whitelist:PINNs, DeepONet"
+  ],
+  "updated": "2024-02-12"
+ },
+ "2402.08480": {
+  "abstract": "This study addresses the limitations of the traditional analysis of message-passing, central to graph learning, by defining {\\em \\textbf{generalized propagation}} with directed and weighted graphs. The significance manifest in two ways. \\textbf{Firstly}, we propose {\\em Generalized Propagation Neural Networks} (\\textbf{GPNNs}), a framework that unifies most propagation-based graph neural networks. By generating directed-weighted propagation graphs with adjacency function and connectivity function, GPNNs offer enhanced insights into attention mechanisms across various graph models. We delve into the trade-offs within the design space with empirical experiments and emphasize the crucial role of the adjacency function for model expressivity via theoretical analysis. \\textbf{Secondly}, we propose the {\\em Continuous Unified Ricci Curvature} (\\textbf{CURC}), an extension of celebrated {\\em Ollivier-Ricci Curvature} for directed and weighted graphs. Theoretically, we demonstrate that CURC possesses continuity, scale invariance, and a lower bound connection with the Dirichlet isoperimetric constant validating bottleneck analysis for GPNNs. We include a preliminary exploration of learned propagation patterns in datasets, a first in the field. We observe an intriguing ``{\\em \\textbf{decurve flow}}'' - a curvature reduction during training for models with learnable propagation, revealing the evolution of propagation over time and a deeper connection to over-smoothing and bottleneck trade-off.",
+  "authors": [
+   "Chen Lin",
+   "Liheng Ma",
+   "Yiyang Chen",
+   "Wanli Ouyang",
+   "Michael M. Bronstein",
+   "Philip H. S. Torr"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.DG"
+  ],
+  "comment": "15 pages, 4 figures",
+  "first_author": "Chen Lin",
+  "pdf_url": "http://arxiv.org/pdf/2402.08480",
+  "primary_category": "cs.LG",
+  "published": "2024-02-13",
+  "tags": [],
+  "title": "Revealing Decurve Flows for Generalized Graph Propagation",
+  "topics": [
+   "via:author-whitelist:geometric deep learning"
+  ],
+  "updated": "2024-02-13"
+ },
+ "2402.09234": {
+  "abstract": "Crash simulations play an essential role in improving vehicle safety, design optimization, and injury risk estimation. Unfortunately, numerical solutions of such problems using state-of-the-art high-fidelity models require significant computational effort. Conventional data-driven surrogate modeling approaches create low-dimensional embeddings for evolving the dynamics in order to circumvent this computational effort. Most approaches directly operate on high-resolution data obtained from numerical discretization, which is both costly and complicated for mapping the flow of information over large spatial distances. Furthermore, working with a fixed resolution prevents the adaptation of surrogate models to environments with variable computing capacities, different visualization resolutions, and different accuracy requirements. We thus propose a multi-hierarchical framework for structurally creating a series of surrogate models for a kart frame, which is a good proxy for industrial-relevant crash simulations, at different levels of resolution. For multiscale phenomena, macroscale features are captured on a coarse surrogate, whereas microscale effects are resolved by finer ones. The learned behavior of the individual surrogates is passed from coarse to finer levels through transfer learning. In detail, we perform a mesh simplification on the kart model to obtain multi-resolution representations of it. We then train a graph-convolutional neural network-based surrogate that learns parameter-dependent low-dimensional latent dynamics on the coarsest representation. Subsequently, another, similarly structured surrogate is trained on the residual of the first surrogate using a finer resolution. This step can be repeated multiple times. By doing so, we construct multiple surrogates for the same system with varying hardware requirements and increasing accuracy.",
+  "authors": [
+   "Jonas Kneifl",
+   "Jörg Fehr",
+   "Steven L. Brunton",
+   "J. Nathan Kutz"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Jonas Kneifl",
+  "pdf_url": "http://arxiv.org/pdf/2402.09234",
+  "primary_category": "cs.LG",
+  "published": "2024-02-14",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "Multi-Hierarchical Surrogate Learning for Structural Dynamical Crash Simulations Using Graph Convolutional Neural Networks",
+  "topics": [
+   "via:author-whitelist:SINDy, data-driven dynamics",
+   "via:author-whitelist:data-driven dynamical systems"
+  ],
+  "updated": "2024-02-15"
+ },
+ "2402.12674": {
+  "abstract": "Neural network based models have emerged as a powerful tool in multiscale modeling of materials. One promising approach is to use a neural network based model, trained using data generated from repeated solution of an expensive small scale model, as a surrogate for the small scale model in application scale simulations. Such approaches have been shown to have the potential accuracy of concurrent multiscale methods like FE2, but at the cost comparable to empirical methods like classical constitutive models or parameter passing. A key question is to understand how much and what kind of data is necessary to obtain an accurate surrogate. This paper examines this question for history dependent elastic-plastic behavior of an architected metamaterial modeled as a truss. We introduce an iterative approach where we use the rich arbitrary class of trajectories to train an initial model, but then iteratively update the class of trajectories with those that arise in large scale simulation and use transfer learning to update the model. We show that such an approach converges to a highly accurate surrogate, and one that is transferable.",
+  "authors": [
+   "Yupeng Zhang",
+   "Kaushik Bhattacharya"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Yupeng Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2402.12674",
+  "primary_category": "physics.app-ph",
+  "published": "2024-02-20",
+  "tags": [],
+  "title": "Iterated learning and multiscale modeling of history-dependent architectured metamaterials",
+  "topics": [
+   "via:author-whitelist:neural operators, multi-scale"
+  ],
+  "updated": "2024-02-20"
+ },
+ "2402.14167": {
+  "abstract": "Sampling from diffusion probabilistic models (DPMs) is often expensive for high-quality image generation and typically requires many steps with a large model. In this paper, we introduce sampling Trajectory Stitching T-Stitch, a simple yet efficient technique to improve the sampling efficiency with little or no generation degradation. Instead of solely using a large DPM for the entire sampling trajectory, T-Stitch first leverages a smaller DPM in the initial steps as a cheap drop-in replacement of the larger DPM and switches to the larger DPM at a later stage. Our key insight is that different diffusion models learn similar encodings under the same training data distribution and smaller models are capable of generating good global structures in the early steps. Extensive experiments demonstrate that T-Stitch is training-free, generally applicable for different architectures, and complements most existing fast sampling techniques with flexible speed and quality trade-offs. On DiT-XL, for example, 40% of the early timesteps can be safely replaced with a 10x faster DiT-S without performance drop on class-conditional ImageNet generation. We further show that our method can also be used as a drop-in technique to not only accelerate the popular pretrained stable diffusion (SD) models but also improve the prompt alignment of stylized SD models from the public model zoo. Code is released at https://github.com/NVlabs/T-Stitch",
+  "authors": [
+   "Zizheng Pan",
+   "Bohan Zhuang",
+   "De-An Huang",
+   "Weili Nie",
+   "Zhiding Yu",
+   "Chaowei Xiao",
+   "Jianfei Cai",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zizheng Pan",
+  "pdf_url": "http://arxiv.org/pdf/2402.14167",
+  "primary_category": "cs.CV",
+  "published": "2024-02-21",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching",
+  "topics": [
+   "via:author-whitelist:Fourier neural operators"
+  ],
+  "updated": "2024-02-21"
+ },
+ "2402.15715": {
+  "abstract": "Operator learning refers to the application of ideas from machine learning to approximate (typically nonlinear) operators mapping between Banach spaces of functions. Such operators often arise from physical models expressed in terms of partial differential equations (PDEs). In this context, such approximate operators hold great potential as efficient surrogate models to complement traditional numerical methods in many-query tasks. Being data-driven, they also enable model discovery when a mathematical description in terms of a PDE is not available. This review focuses primarily on neural operators, built on the success of deep neural networks in the approximation of functions defined on finite dimensional Euclidean spaces. Empirically, neural operators have shown success in a variety of applications, but our theoretical understanding remains incomplete. This review article summarizes recent progress and the current state of our theoretical understanding of neural operators, focusing on an approximation theoretic point of view.",
+  "authors": [
+   "Nikola B. Kovachki",
+   "Samuel Lanthaler",
+   "Andrew M. Stuart"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Nikola B. Kovachki",
+  "pdf_url": "http://arxiv.org/pdf/2402.15715",
+  "primary_category": "cs.LG",
+  "published": "2024-02-24",
+  "tags": [
+   "neural-operators",
+   "operator-learning",
+   "partial-differential-equations"
+  ],
+  "title": "Operator Learning: Algorithms and Analysis",
+  "topics": [
+   "via:author-whitelist:neural operators"
+  ],
+  "updated": "2024-02-24"
+ },
+ "2402.17115": {
+  "abstract": "3D modeling holds significant importance in the realms of AR/VR and gaming, allowing for both artistic creativity and practical applications. However, the process is often time-consuming and demands a high level of skill. In this paper, we present a novel approach to create volumetric representations of 3D characters from consistent turnaround concept art, which serves as the standard input in the 3D modeling industry. While Neural Radiance Field (NeRF) has been a game-changer in image-based 3D reconstruction, to the best of our knowledge, there is no known research that optimizes the pipeline for concept art. To harness the potential of concept art, with its defined body poses and specific view angles, we propose encoding it as priors for our model. We train the network to make use of these priors for various 3D points through a learnable view-direction-attended multi-head self-attention layer. Additionally, we demonstrate that a combination of ray sampling and surface sampling enhances the inference capabilities of our network. Our model is able to generate high-quality 360-degree views of characters. Subsequently, we provide a simple guideline to better leverage our model to extract the 3D mesh. It is important to note that our model's inferencing capabilities are influenced by the training data's characteristics, primarily focusing on characters with a single head, two arms, and two legs. Nevertheless, our methodology remains versatile and adaptable to concept art from diverse subject matters, without imposing any specific assumptions on the data.",
+  "authors": [
+   "Eddy Chu",
+   "Yiyang Chen",
+   "Chedy Raissi",
+   "Anand Bhojan"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.GR"
+  ],
+  "comment": null,
+  "first_author": "Eddy Chu",
+  "pdf_url": "http://arxiv.org/pdf/2402.17115",
+  "primary_category": "cs.CV",
+  "published": "2024-02-27",
+  "tags": [],
+  "title": "CharNeRF: 3D Character Generation from Concept Art",
+  "topics": [
+   "via:author-whitelist:PINNs co-author"
+  ],
+  "updated": "2024-02-27"
+ },
+ "2402.18484": {
+  "abstract": "Due to the rapidly changing climate, the frequency and severity of extreme weather is expected to increase over the coming decades. As fully-resolved climate simulations remain computationally intractable, policy makers must rely on coarse-models to quantify risk for extremes. However, coarse models suffer from inherent bias due to the ignored \"sub-grid\" scales. We propose a framework to non-intrusively debias coarse-resolution climate predictions using neural-network (NN) correction operators. Previous efforts have attempted to train such operators using loss functions that match statistics. However, this approach falls short with events that have longer return period than that of the training data, since the reference statistics have not converged. Here, the scope is to formulate a learning method that allows for correction of dynamics and quantification of extreme events with longer return period than the training data. The key obstacle is the chaotic nature of the underlying dynamics. To overcome this challenge, we introduce a dynamical systems approach where the correction operator is trained using reference data and a coarse model simulation nudged towards that reference. The method is demonstrated on debiasing an under-resolved quasi-geostrophic model and the Energy Exascale Earth System Model (E3SM). For the former, our method enables the quantification of events that have return period two orders longer than the training data. For the latter, when trained on 8 years of ERA5 data, our approach is able to correct the coarse E3SM output to closely reflect the 36-year ERA5 statistics for all prognostic variables and significantly reduce their spatial biases.",
+  "authors": [
+   "Benedikt Barthel Sorensen",
+   "Alexis Charalampopoulos",
+   "Shixuan Zhang",
+   "Bryce Harrop",
+   "Ruby Leung",
+   "Themistoklis Sapsis"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Benedikt Barthel Sorensen",
+  "pdf_url": "http://arxiv.org/pdf/2402.18484",
+  "primary_category": "physics.ao-ph",
+  "published": "2024-02-28",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "A non-intrusive machine learning framework for debiasing long-time coarse resolution climate simulations and quantifying rare events statistics",
+  "topics": [
+   "via:author-whitelist:extreme events, dynamical systems"
+  ],
+  "updated": "2024-02-28"
+ }
+}

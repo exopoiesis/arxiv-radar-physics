@@ -82,6 +82,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2604.12414">2604.12414</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
+<td>M. Mezcua et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06454.html">Testing the Distance Duality Relation with Cosmological Observations at high Redshift using Artificial Neural Network</a></div></td>
 <td>Yukang Xie et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14888.html">Modeling nonlinear scales for dynamical dark energy cosmologies with COLA</a></div></td>
 <td>João Rebouças et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14888">2510.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05822.html">Model-independent constraints on generalized FLRW consistency relations with bootstrap-based symbolic regression</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>S. M. Koksbang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05822">2604.05822</a></td>
 </tr>
 </tbody></table>

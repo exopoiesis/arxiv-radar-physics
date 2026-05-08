@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>koopman-operator — all</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01835.html">Learning Koopman operators for coupled systems via information on governing equations of subsystems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Tatsuya Naoi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01835">2605.01835</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02290.html">Koopman-Assisted Reinforcement Learning</a></div></td>
+<td>Preston Rozwood et al.</td>
+<td><a href="http://arxiv.org/abs/2403.02290">2403.02290</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
@@ -71,6 +77,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05771.html">On Koopman Resolvents and Frequency Response of Nonlinear Systems</a></div></td>
+<td>Yoshihiko Susuki et al.</td>
+<td><a href="http://arxiv.org/abs/2603.05771">2603.05771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05633.html">Optimality Robustness in Koopman-Based Control</a></div></td>
 <td>Yicheng Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05633">2604.05633</a></td>
@@ -110,6 +122,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04132.html">Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking</a></div></td>
 <td>Dhruv S. Kushwaha et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04132">2602.04132</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15091.html">Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds</a></div></td>
+<td>Gustav Conradie et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15091">2603.15091</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>
@@ -232,6 +250,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2507.07222">2507.07222</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15945.html">Analytic Extended Dynamic Mode Decomposition</a></div></td>
+<td>Alexandre Mauroy et al.</td>
+<td><a href="http://arxiv.org/abs/2405.15945">2405.15945</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08122.html">Generalization Analysis and Method for Domain Generalization for a Family of Recurrent Neural Networks</a></div></td>
 <td>Atefeh Termehchi et al.</td>
@@ -350,6 +374,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03734.html">On excitation of control-affine systems and its use for data-driven Koopman approximants</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Philipp Schmitz et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03734">2511.03734</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15166.html">Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Masih Haseli et al.</td>
+<td><a href="http://arxiv.org/abs/2510.15166">2510.15166</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-13</td>
@@ -716,6 +746,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19518.html">KODA: A Data-Driven Recursive Model for Time Series Forecasting and Data Assimilation using Koopman Operators</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Ashutosh Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2409.19518">2409.19518</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17340.html">Koopman-driven grip force prediction through EMG sensing</a></div></td>
+<td>Tomislav Bazina et al.</td>
+<td><a href="http://arxiv.org/abs/2409.17340">2409.17340</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-19</td>

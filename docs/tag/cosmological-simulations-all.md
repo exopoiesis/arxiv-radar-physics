@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmological-simulations — all</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <a href="cosmological-simulations-90d.html">90d</a> <a href="cosmological-simulations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17981.html">Efficiently emulating distribution functions in gigaparsec volumes for varying cosmological parameters</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
 <td>Christopher C. Lovell et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17981">2604.17981</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14802.html">Euclid. Populating a dark universe with galaxies using SciPIC</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14802">2604.14802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
@@ -44,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11382.html">Islands in Simulated Cosmos: Probing the Hubble Flow around Groups and Clusters</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
 <td>David Benisty et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11382">2510.11382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13148.html">Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2603.13148">2603.13148</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-20</td>
@@ -104,6 +116,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17568.html">Cosmology with One Galaxy: Auto-Encoding the Galaxy Properties Manifold</a></div></td>
 <td>Amanda Lue et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17568">2502.17568</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15317.html">Euclid Quick Data Release (Q1). First Euclid statistical study of galaxy mergers and their connection to active galactic nuclei</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15317">2503.15317</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-23</td>
@@ -188,6 +206,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14426.html">Predicting Halo Formation Time Using Machine Learning</a></div></td>
 <td>Atulit Srivastava et al.</td>
 <td><a href="http://arxiv.org/abs/2504.14426">2504.14426</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15311.html">Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z&lt;1$</a></div></td>
+<td>Euclid Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15311">2503.15311</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-18</td>

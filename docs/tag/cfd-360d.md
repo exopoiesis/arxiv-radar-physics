@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05586.html">AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Francisco Giral et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05586">2605.05586</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Paul Garnier et al.</td>
@@ -1148,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14704.html">Towards scalable surrogate models based on Neural Fields for large scale aerodynamic simulations</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Giovanni Catalani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14704">2505.14704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06849.html">Predictive Digital Twins for Thermal Management Using Machine Learning and Reduced-Order Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Tamilselvan Subramani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06849">2505.06849</a></td>
 </tr>
 </tbody></table>

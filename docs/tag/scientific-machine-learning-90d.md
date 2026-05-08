@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,17 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01829.html">RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data</a></div></td>
 <td>Peiyan Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.01829">2601.01829</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21022.html">A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms</a></div></td>
-<td>Gil Goldshlager et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21022">2508.21022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05849.html">Visualizing the loss landscapes of physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Conor Rowan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05849">2602.05849</a></td>
 </tr>
 </tbody></table>

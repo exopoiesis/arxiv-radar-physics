@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>equivariant-neural-networks — all</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="equivariant-neural-networks-7d.html">7d</a> <a href="equivariant-neural-networks-30d.html">30d</a> <a href="equivariant-neural-networks-90d.html">90d</a> <a href="equivariant-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09769.html">Structure tensor Reynolds-averaged Navier-Stokes turbulence models with equivariant neural networks</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
 <td>Aaron Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09769">2511.09769</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21466.html">Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics</a></div></td>
+<td>YuQing Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2602.21466">2602.21466</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
@@ -82,6 +88,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.18398">2511.18398</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02269.html">A Tale of Two Symmetries: Exploring the Loss Landscape of Equivariant Models</a></div></td>
+<td>YuQing Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2506.02269">2506.02269</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20280.html">Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Jonas Spinner et al.</td>
@@ -110,6 +122,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16521.html">Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Zhijian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16521">2508.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13523.html">The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Equivariant Tensor Products</a></div></td>
+<td>YuQing Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2506.13523">2506.13523</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-22</td>
@@ -158,6 +176,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14680.html">Self-Supervised Learning for Ordered Three-Dimensional Structures</a></div></td>
 <td>Matthew Spellings et al.</td>
 <td><a href="http://arxiv.org/abs/2411.14680">2411.14680</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.02681.html">Equivariant Symmetry Breaking Sets</a></div></td>
+<td>YuQing Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2402.02681">2402.02681</a></td>
 </tr>
 <tr class="paper">
 <td>2024-06-12</td>

@@ -280,6 +280,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2502.19611">2502.19611</a></td>
 </tr>
 <tr class="paper">
+<td>2025-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17551.html">H3PC: Hypersonic, High-Order, High-Performance Code with Adaptive Mesh Refinement and Real Chemistry</a></div></td>
+<td>Ahmad Peyvan et al.</td>
+<td><a href="http://arxiv.org/abs/2511.17551">2511.17551</a></td>
+</tr>
+<tr class="paper">
 <td>2025-11-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05428.html">Interscale energy transfer in turbulent channels</a></div></td>
 <td>Joy Chen et al.</td>
@@ -554,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09009.html">A physics-informed transformer neural operator for learning generalized solutions of initial boundary value problems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Sumanth Kumar Boya et al.</td>
 <td><a href="http://arxiv.org/abs/2412.09009">2412.09009</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14700.html">Stochastic Fractional Neural Operators: A Symmetrized Approach to Modeling Turbulence in Complex Fluid Dynamics</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Rômulo Damasclin Chaves dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14700">2505.14700</a></td>
 </tr>
 </tbody></table>

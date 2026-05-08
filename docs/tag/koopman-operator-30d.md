@@ -23,6 +23,12 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02290.html">Koopman-Assisted Reinforcement Learning</a></div></td>
+<td>Preston Rozwood et al.</td>
+<td><a href="http://arxiv.org/abs/2403.02290">2403.02290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00950.html">Equation-Free Digital Twins for Nonlinear Structural Dynamics</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
 <td>Mohammad Mahdi Abaei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00950">2605.00950</a></td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28965.html">Koopman Operator Framework for Modeling and Control of Off-Road Vehicle on Deformable Terrain</a></div></td>
 <td>Kartik Loya et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28965">2603.28965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05633.html">Optimality Robustness in Koopman-Based Control</a></div></td>
-<td>Yicheng Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05633">2604.05633</a></td>
 </tr>
 </tbody></table>

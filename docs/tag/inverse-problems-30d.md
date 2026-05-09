@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,23 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07671.html">On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Jonah Botvinick-Greenhouse et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07671">2604.07671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14135.html">Conditional flow matching for physics-constrained inverse problems with finite training data</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14135">2603.14135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06534.html">FOSSA: First-Order Optimality-Based Sensor Selection for PINN Inverse Problems, with Application to Electrocardiographic Imaging</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Jianxin Xie</td>
-<td><a href="http://arxiv.org/abs/2604.06534">2604.06534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07129.html">A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Elsa Cardoso-Bihlo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07129">2604.07129</a></td>
 </tr>
 </tbody></table>

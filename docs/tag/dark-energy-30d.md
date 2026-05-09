@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-energy — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <strong>30d</strong> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -82,12 +82,6 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2604.12414">2604.12414</a></td>
 </tr>
 <tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
-<td>M. Mezcua et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
-</tr>
-<tr class="paper">
 <td>2026-04-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06454.html">Testing the Distance Duality Relation with Cosmological Observations at high Redshift using Artificial Neural Network</a></div></td>
 <td>Yukang Xie et al.</td>
@@ -98,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03182.html">DeepDISC-Euclid: Source Classification and Photometric Redshifts in Euclid Deep Field North With a Pixel-Level Deep Learning Approach</a></div></td>
 <td>Yuanzhe Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03182">2604.03182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14888.html">Modeling nonlinear scales for dynamical dark energy cosmologies with COLA</a></div></td>
-<td>João Rebouças et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14888">2510.14888</a></td>
 </tr>
 </tbody></table>

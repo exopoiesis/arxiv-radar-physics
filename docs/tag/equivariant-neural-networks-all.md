@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>equivariant-neural-networks — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="equivariant-neural-networks-7d.html">7d</a> <a href="equivariant-neural-networks-30d.html">30d</a> <a href="equivariant-neural-networks-90d.html">90d</a> <a href="equivariant-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,12 +32,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09769.html">Structure tensor Reynolds-averaged Navier-Stokes turbulence models with equivariant neural networks</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
 <td>Aaron Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09769">2511.09769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21466.html">Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics</a></div></td>
-<td>YuQing Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21466">2602.21466</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
@@ -86,12 +80,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18398.html">Predicting the Thermal Behavior of Semiconductor Defects with Equivariant Neural Networks</a></div></td>
 <td>Xiangzhou Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18398">2511.18398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02269.html">A Tale of Two Symmetries: Exploring the Loss Landscape of Equivariant Models</a></div></td>
-<td>YuQing Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02269">2506.02269</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-24</td>

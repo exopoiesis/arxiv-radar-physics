@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2918,11 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10762.html">Deep Symbolic Optimization: Reinforcement Learning for Symbolic Mathematics</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
 <td>Conor F. Hayes et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10762">2505.10762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15823.html">InductionBench: LLMs Fail in the Simplest Complexity Class</a></div></td>
-<td>Wenyue Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15823">2502.15823</a></td>
 </tr>
 </tbody></table>

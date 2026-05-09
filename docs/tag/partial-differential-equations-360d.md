@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">826 papers</span>
+  <span class="paper-count">822 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4946,29 +4946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09063.html">Single-shot prediction of parametric partial differential equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Khalid Rafiq et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09063">2505.09063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10368.html">Deep-MacroFin: Informed Equilibrium Neural Network for Continuous Time Economic Models</a></div></td>
-<td>Yuntao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10368">2408.10368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10888.html">Tensor parametric Hamiltonian operator inference</a></div></td>
-<td>Arjun Vijaywargiya et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10888">2502.10888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08487.html">An adaptive sampling algorithm for data-generation to build a data-manifold for physical problem surrogate modeling</a></div></td>
-<td>Chetra Mang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08487">2505.08487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08491.html">Numerical Solution of Mixed-Dimensional PDEs Using a Neural Preconditioner</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Nunzio Dimola et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08491">2505.08491</a></td>
 </tr>
 </tbody></table>

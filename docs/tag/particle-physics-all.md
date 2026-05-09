@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -724,30 +724,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.00592">2504.00592</a></td>
 </tr>
 <tr class="paper">
-<td>2025-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23743.html">DUNE Software and Computing Research and Development</a></div></td>
-<td>DUNE Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23743">2503.23743</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23744.html">European Contributions to Fermilab Accelerator Upgrades and Facilities for the DUNE Experiment</a></div></td>
-<td>DUNE Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23744">2503.23744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23291.html">The DUNE Science Program</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>DUNE Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23291">2503.23291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23293.html">The DUNE Phase II Detectors</a></div></td>
-<td>DUNE Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23293">2503.23293</a></td>
-</tr>
-<tr class="paper">
 <td>2025-03-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20753.html">Stabilizing Neural Likelihood Ratio Estimation</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
 <td>Fernando Torales Acosta et al.</td>
@@ -1034,12 +1010,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16046.html">Scaling Up Diffusion and Flow-based XGBoost Models</a></div></td>
 <td>Jesse C. Cresswell et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16046">2408.16046</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12725.html">DUNE Phase II: Scientific Opportunities, Detector Concepts, Technological Solutions</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="physics-beyond-the-standard-model-all.html">physics-beyond-the-standard-model</a></div></td>
-<td>DUNE Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12725">2408.12725</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-21</td>

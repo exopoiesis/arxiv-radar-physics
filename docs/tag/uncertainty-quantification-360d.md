@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">522 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,12 +584,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05663.html">A bi-fidelity method for the uncertain Vlasov-Poisson system near quasineutrality in an asymptotic-preserving particle-in-cell framework</a></div></td>
 <td>Guangwei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05663">2412.05663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01478.html">Purrception: Variational Flow Matching for Vector-Quantized Image Generation</a></div></td>
-<td>Răzvan-Andrei Matişan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01478">2510.01478</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>
@@ -2249,12 +2243,6 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08017.html">PySensors 2.0: A Python Package for Sparse Sensor Placement</a></div></td>
-<td>Niharika Karnik et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08017">2509.08017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11966.html">Deep operator network for surrogate modeling of poroelasticity with random permeability fields</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Sangjoon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11966">2509.11966</a></td>
@@ -3137,12 +3125,6 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13821.html">Artificial Kuramoto Oscillatory Neurons</a></div></td>
-<td>Takeru Miyato et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13821">2410.13821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02205.html">From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Peiyan Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02205">2502.02205</a></td>
@@ -3164,11 +3146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23238.html">Full-waveform earthquake source inversion using simulation-based inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>A. A. Saoulis et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23238">2410.23238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08709.html">Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Ibrahim Elsharkawy et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08709">2505.08709</a></td>
 </tr>
 </tbody></table>

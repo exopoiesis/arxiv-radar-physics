@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>operator-learning — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02356.html">ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamic</a></div></td>
 <td>Xianli Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02356">2605.02356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-7d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Purav Matlia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
 </tr>
 </tbody></table>

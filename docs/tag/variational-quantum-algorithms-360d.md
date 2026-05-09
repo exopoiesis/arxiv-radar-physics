@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <strong>360d</strong> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04146.html">Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver</a></div><div class="paper-tags"><a href="vqe-360d.html">vqe</a></div></td>
 <td>Simone Cantori et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04146">2506.04146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08759.html">Regularizing quantum loss landscapes by noise injection</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Daniil S. Bagaev et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08759">2505.08759</a></td>
 </tr>
 </tbody></table>

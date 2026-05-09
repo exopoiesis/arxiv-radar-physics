@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>galaxy-formation — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <a href="galaxy-formation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -154,12 +154,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.14667">2511.14667</a></td>
 </tr>
 <tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11943.html">Euclid Quick Data Release (Q1): Identification of massive galaxy candidates at the end of the Epoch of Reionisation</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11943">2511.11943</a></td>
-</tr>
-<tr class="paper">
 <td>2025-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13960.html">Learning the Universe: Cosmological and Astrophysical Parameter Inference with Galaxy Luminosity Functions and Colours</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
 <td>Christopher C. Lovell et al.</td>
@@ -278,12 +272,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10682.html">The Manticore Project I: a digital twin of our cosmic neighbourhood from Bayesian field-level analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Stuart McAlpine et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10682">2505.10682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15314.html">Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15314">2503.15314</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-07</td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gravitational-waves — all</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <a href="gravitational-waves-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,12 +50,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14270.html">Fast neural network surrogate for multimodal effective-one-body gravitational waveforms from generically precessing compact binaries</a></div></td>
 <td>Christopher Whittall et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14270">2604.14270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>M. Mezcua et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -250,12 +244,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.09107">2511.09107</a></td>
 </tr>
 <tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25672.html">Morphology of Inflationary Gravitational Wave Spectra imprinted by a Sequence of Post-Inflationary Epochs $via$ ${\rm GWInSpect}$</a></div></td>
-<td>Swagat S. Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25672">2510.25672</a></td>
-</tr>
-<tr class="paper">
 <td>2025-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14997.html">A Neural Network Approach to Preferred Event Selection for Low-Latency Gravitational-Wave Alerts</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
 <td>Pratyusava Baral et al.</td>
@@ -296,12 +284,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11663.html">Gravitational-wave signatures of mirror (a)symmetry in binary black hole mergers: measurability and correlation to gravitational-wave recoil</a></div></td>
 <td>Samson H. W. Leong et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11663">2501.11663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07956.html">Inflationary Gravitational Waves as a probe of the unknown post-inflationary primordial Universe</a></div></td>
-<td>Athul K. Soman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07956">2407.07956</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-20</td>

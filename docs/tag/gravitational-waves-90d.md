@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gravitational-waves — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <strong>90d</strong> <a href="gravitational-waves-360d.html">360d</a> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,12 +50,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14270.html">Fast neural network surrogate for multimodal effective-one-body gravitational waveforms from generically precessing compact binaries</a></div></td>
 <td>Christopher Whittall et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14270">2604.14270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>M. Mezcua et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16590.html">Global Attention with Linear Complexity for Exascale Generative Data Assimilation in Earth System Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Xiao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16590">2604.16590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07559.html">Dual-Loop Control in DCVerse: Advancing Reliable Deployment of AI in Data Centers via Digital Twins</a></div></td>
-<td>Qingang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07559">2604.07559</a></td>
 </tr>
 </tbody></table>

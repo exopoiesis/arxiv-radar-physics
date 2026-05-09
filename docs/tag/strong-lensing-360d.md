@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>strong-lensing — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="strong-lensing-7d.html">7d</a> <a href="strong-lensing-30d.html">30d</a> <a href="strong-lensing-90d.html">90d</a> <strong>360d</strong> <a href="strong-lensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,18 +134,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01302.html">GPU-Accelerated Gravitational Lensing &amp; Dynamical (GLaD) Modeling for Cosmology and Galaxies</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Han Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.01302">2504.01302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08545.html">Euclid: Early Release Observations. A combined strong and weak lensing solution for Abell 2390 beyond its virial radius</a></div></td>
-<td>J. M. Diego et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08545">2507.08545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07629.html">Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390</a></div></td>
-<td>T. Schrabback et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07629">2507.07629</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-23</td>

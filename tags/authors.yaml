@@ -8,62 +8,56 @@
 # operator learning, dynamical systems, equivariant ML for physics.
 
 authors:
-
-  # --- PINNs / neural operators / scientific ML ---
-
-  - name_match: ["Karniadakis", "George Karniadakis", "George Em Karniadakis"]
-    note: "PINNs, DeepONet"
-
-  - name_match: ["Brunton", "Steven Brunton", "Steve Brunton"]
-    note: "SINDy, data-driven dynamics"
-
-  - name_match: ["Kutz, J", "J. Nathan Kutz"]
-    note: "data-driven dynamical systems"
-
-  - name_match: ["Mishra, S", "Siddhartha Mishra"]
-    note: "neural operators, PDE learning"
-
-  - name_match: ["Anandkumar", "Anima Anandkumar"]
-    note: "Fourier neural operators"
-
-  - name_match: ["Kovachki", "Nikola Kovachki"]
-    note: "neural operators"
-
-  - name_match: ["Bhattacharya, K", "Kaushik Bhattacharya"]
-    note: "neural operators, multi-scale"
-
-  - name_match: ["Battaglia, P", "Peter Battaglia"]
-    note: "graph networks for physics simulation"
-
-  # --- Equivariant ML / inductive bias ---
-
-  - name_match: ["Cohen, T", "Taco Cohen"]
-    note: "equivariant neural networks"
-
-  - name_match: ["Welling", "Max Welling"]
-    note: "equivariant ML, generative models"
-
-  - name_match: ["Smidt, T", "Tess Smidt"]
-    note: "e3nn, equivariant tensor networks"
-
-  - name_match: ["Bronstein, M", "Michael Bronstein"]
-    note: "geometric deep learning"
-
-  # --- Dynamical systems / chaos / Koopman ---
-
-  - name_match: ["Mezić", "Mezic", "Igor Mezić"]
-    note: "Koopman operator theory"
-
-  - name_match: ["Sapsis", "Themistoklis Sapsis"]
-    note: "extreme events, dynamical systems"
-
-  # --- Physics-informed / Hamiltonian ML ---
-
-  - name_match: ["Zanna, L", "Laure Zanna"]
-    note: "ML for climate, dynamical systems"
-
-  - name_match: ["Raissi", "Maziar Raissi"]
-    note: "PINNs co-author"
-
-  - name_match: ["Perdikaris", "Paris Perdikaris"]
-    note: "PINNs, Bayesian SciML"
+- name_match:
+  - George Karniadakis
+  - George Em Karniadakis
+  note: PINNs, DeepONet
+- name_match:
+  - Steven Brunton
+  - Steve Brunton
+  note: SINDy, data-driven dynamics
+- name_match:
+  - J. Nathan Kutz
+  note: data-driven dynamical systems
+- name_match:
+  - Siddhartha Mishra
+  note: neural operators, PDE learning
+- name_match:
+  - Anima Anandkumar
+  note: Fourier neural operators
+- name_match:
+  - Nikola Kovachki
+  note: neural operators
+- name_match:
+  - Kaushik Bhattacharya
+  note: neural operators, multi-scale
+- name_match:
+  - Peter Battaglia
+  note: graph networks for physics simulation
+- name_match:
+  - Taco Cohen
+  note: equivariant neural networks
+- name_match:
+  - Max Welling
+  note: equivariant ML, generative models
+- name_match:
+  - Tess Smidt
+  note: e3nn, equivariant tensor networks
+- name_match:
+  - Michael Bronstein
+  note: geometric deep learning
+- name_match:
+  - Igor Mezić
+  note: Koopman operator theory
+- name_match:
+  - Themistoklis Sapsis
+  note: extreme events, dynamical systems
+- name_match:
+  - Laure Zanna
+  note: ML for climate, dynamical systems
+- name_match:
+  - Maziar Raissi
+  note: PINNs co-author
+- name_match:
+  - Paris Perdikaris
+  note: PINNs, Bayesian SciML

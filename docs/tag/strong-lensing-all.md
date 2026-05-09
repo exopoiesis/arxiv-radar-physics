@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>strong-lensing — all</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="strong-lensing-7d.html">7d</a> <a href="strong-lensing-30d.html">30d</a> <a href="strong-lensing-90d.html">90d</a> <a href="strong-lensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -136,18 +136,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.01302">2504.01302</a></td>
 </tr>
 <tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08545.html">Euclid: Early Release Observations. A combined strong and weak lensing solution for Abell 2390 beyond its virial radius</a></div></td>
-<td>J. M. Diego et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08545">2507.08545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07629.html">Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390</a></div></td>
-<td>T. Schrabback et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07629">2507.07629</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02186.html">Residual test to search for microlensing signatures in strongly lensed gravitational wave signals</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
 <td>Eungwang Seo et al.</td>
@@ -176,12 +164,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15325.html">Euclid Quick Data Release (Q1) The Strong Lensing Discovery Engine B -- Early strong lens candidates from visual inspection of high velocity dispersion galaxies</a></div></td>
 <td>Euclid Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2503.15325">2503.15325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15330.html">Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15330">2503.15330</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-14</td>

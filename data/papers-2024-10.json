@@ -527,32 +527,6 @@
   ],
   "updated": "2024-10-23"
  },
- "2405.14664": {
-  "abstract": "Generative modeling over discrete data has recently seen numerous success stories, with applications spanning language modeling, biological sequence design, and graph-structured molecular data. The predominant generative modeling paradigm for discrete data is still autoregressive, with more recent alternatives based on diffusion or flow-matching falling short of their impressive performance in continuous data settings, such as image or video generation. In this work, we introduce Fisher-Flow, a novel flow-matching model for discrete data. Fisher-Flow takes a manifestly geometric perspective by considering categorical distributions over discrete data as points residing on a statistical manifold equipped with its natural Riemannian metric: the $\\textit{Fisher-Rao metric}$. As a result, we demonstrate discrete data itself can be continuously reparameterised to points on the positive orthant of the $d$-hypersphere $\\mathbb{S}^d_+$, which allows us to define flows that map any source distribution to target in a principled manner by transporting mass along (closed-form) geodesics of $\\mathbb{S}^d_+$. Furthermore, the learned flows in Fisher-Flow can be further bootstrapped by leveraging Riemannian optimal transport leading to improved training dynamics. We prove that the gradient flow induced by Fisher-Flow is optimal in reducing the forward KL divergence. We evaluate Fisher-Flow on an array of synthetic and diverse real-world benchmarks, including designing DNA Promoter, and DNA Enhancer sequences. Empirically, we find that Fisher-Flow improves over prior diffusion and flow-matching models on these benchmarks.",
-  "authors": [
-   "Oscar Davis",
-   "Samuel Kessler",
-   "Mircea Petrache",
-   "İsmail İlkan Ceylan",
-   "Michael Bronstein",
-   "Avishek Joey Bose"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": "NeurIPS 2024",
-  "first_author": "Oscar Davis",
-  "pdf_url": "http://arxiv.org/pdf/2405.14664",
-  "primary_category": "cs.LG",
-  "published": "2024-05-23",
-  "tags": [],
-  "title": "Fisher Flow Matching for Generative Modeling over Discrete Data",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
-  ],
-  "updated": "2024-10-30"
- },
  "2405.14806": {
   "abstract": "Extracting scientific understanding from particle-physics experiments requires solving diverse learning problems with high precision and good data efficiency. We propose the Lorentz Geometric Algebra Transformer (L-GATr), a new multi-purpose architecture for high-energy physics. L-GATr represents high-energy data in a geometric algebra over four-dimensional space-time and is equivariant under Lorentz transformations, the symmetry group of relativistic kinematics. At the same time, the architecture is a Transformer, which makes it versatile and scalable to large systems. L-GATr is first demonstrated on regression and classification tasks from particle physics. We then construct the first Lorentz-equivariant generative model: a continuous normalizing flow based on an L-GATr network, trained with Riemannian flow matching. Across our experiments, L-GATr is on par with or outperforms strong domain-specific baselines.",
   "authors": [
@@ -4738,32 +4712,6 @@
   ],
   "updated": "2024-10-04"
  },
- "2410.03464": {
-  "abstract": "A central challenge in sequence modeling is efficiently handling tasks with extended contexts. While recent state-space models (SSMs) have made significant progress in this area, they often lack input-dependent filtering or require substantial increases in model complexity to handle input variability. We address this gap by introducing S7, a simplified yet powerful SSM that can handle input dependence while incorporating stable reparameterization and specific design choices to dynamically adjust state transitions based on input content, maintaining efficiency and performance. We prove that this reparameterization ensures stability in long-sequence modeling by keeping state transitions well-behaved over time. Additionally, it controls the gradient norm, enabling efficient training and preventing issues like exploding or vanishing gradients. S7 significantly outperforms baselines across various sequence modeling tasks, including neuromorphic event-based datasets, Long Range Arena benchmarks, and various physical and biological time series. Overall, S7 offers a more straightforward approach to sequence modeling without relying on complex, domain-specific inductive biases, achieving significant improvements across key benchmarks.",
-  "authors": [
-   "Taylan Soydan",
-   "Nikola Zubić",
-   "Nico Messikommer",
-   "Siddhartha Mishra",
-   "Davide Scaramuzza"
-  ],
-  "categories": [
-   "cs.LG",
-   "eess.SP",
-   "math.DS"
-  ],
-  "comment": "23 pages, 3 figures, 11 tables. Equal contribution by Taylan Soydan and Nikola Zubić",
-  "first_author": "Taylan Soydan",
-  "pdf_url": "http://arxiv.org/pdf/2410.03464",
-  "primary_category": "cs.LG",
-  "published": "2024-10-04",
-  "tags": [],
-  "title": "S7: Selective and Simplified State Space Layers for Sequence Modeling",
-  "topics": [
-   "via:author-whitelist:neural operators, PDE learning"
-  ],
-  "updated": "2024-10-04"
- },
  "2410.03484": {
   "abstract": "Inspired by the recent success of machine-learned interatomic potentials for crystal structure prediction of the inorganic crystals, we present a methodology that exploits Moment Tensor Potentials and active learning (based on maxvol algorithm) to accelerate structure prediction of molecular crystals. Benzene and glycine are used as test systems. Interestingly, among obtained low energy structures of benzene we have found a peculiar polymeric benzene structure.",
   "authors": [
@@ -7044,40 +6992,6 @@
   "title": "Noether's razor: Learning Conserved Quantities",
   "topics": [
    "Dynamical Systems & PDE Learning"
-  ],
-  "updated": "2024-10-10"
- },
- "2410.08134": {
-  "abstract": "Generative modeling of discrete data underlies important applications spanning text-based agents like ChatGPT to the design of the very building blocks of life in protein sequences. However, application domains need to exert control over the generated data by steering the generative process - typically via RLHF - to satisfy a specified property, reward, or affinity metric. In this paper, we study the problem of steering Masked Diffusion Models (MDMs), a recent class of discrete diffusion models that offer a compelling alternative to traditional autoregressive models. We introduce Discrete Denoising Posterior Prediction (DDPP), a novel framework that casts the task of steering pre-trained MDMs as a problem of probabilistic inference by learning to sample from a target Bayesian posterior. Our DDPP framework leads to a family of three novel objectives that are all simulation-free, and thus scalable while applying to general non-differentiable reward functions. Empirically, we instantiate DDPP by steering MDMs to perform class-conditional pixel-level image modeling, RLHF-based alignment of MDMs using text-based rewards, and finetuning protein language models to generate more diverse secondary structures and shorter proteins. We substantiate our designs via wet-lab validation, where we observe transient expression of reward-optimized protein sequences.",
-  "authors": [
-   "Jarrid Rector-Brooks",
-   "Mohsin Hasan",
-   "Zhangzhi Peng",
-   "Zachary Quinn",
-   "Chenghao Liu",
-   "Sarthak Mittal",
-   "Nouha Dziri",
-   "Michael Bronstein",
-   "Yoshua Bengio",
-   "Pranam Chatterjee",
-   "Alexander Tong",
-   "Avishek Joey Bose"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Jarrid Rector-Brooks",
-  "pdf_url": "http://arxiv.org/pdf/2410.08134",
-  "primary_category": "cs.LG",
-  "published": "2024-10-10",
-  "tags": [
-   "diffusion-models"
-  ],
-  "title": "Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
   ],
   "updated": "2024-10-10"
  },
@@ -11142,37 +11056,6 @@
   ],
   "updated": "2024-10-21"
  },
- "2410.16152": {
-  "abstract": "Using image models naively for solving inverse video problems often suffers from flickering, texture-sticking, and temporal inconsistency in generated videos. To tackle these problems, in this paper, we view frames as continuous functions in the 2D space, and videos as a sequence of continuous warping transformations between different frames. This perspective allows us to train function space diffusion models only on images and utilize them to solve temporally correlated inverse problems. The function space diffusion models need to be equivariant with respect to the underlying spatial transformations. To ensure temporal consistency, we introduce a simple post-hoc test-time guidance towards (self)-equivariant solutions. Our method allows us to deploy state-of-the-art latent diffusion models such as Stable Diffusion XL to solve video inverse problems. We demonstrate the effectiveness of our method for video inpainting and $8\\times$ video super-resolution, outperforming existing techniques based on noise transformations. We provide generated video results: https://giannisdaras.github.io/warped_diffusion.github.io/.",
-  "authors": [
-   "Giannis Daras",
-   "Weili Nie",
-   "Karsten Kreis",
-   "Alex Dimakis",
-   "Morteza Mardani",
-   "Nikola Borislavov Kovachki",
-   "Arash Vahdat"
-  ],
-  "categories": [
-   "cs.CV",
-   "cs.AI",
-   "cs.LG"
-  ],
-  "comment": "Accepted in NeurIPS 2024",
-  "first_author": "Giannis Daras",
-  "pdf_url": "http://arxiv.org/pdf/2410.16152",
-  "primary_category": "cs.CV",
-  "published": "2024-10-21",
-  "tags": [
-   "diffusion-models",
-   "inverse-problems"
-  ],
-  "title": "Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models",
-  "topics": [
-   "via:author-whitelist:neural operators"
-  ],
-  "updated": "2024-10-22"
- },
  "2410.16173": {
   "abstract": "At the forefront of control techniques is Model Predictive Control (MPC). While MPCs are effective, their requisite to recompute an optimal control given a new state leads to sparse response to the system and may make their implementation infeasible in small systems with low computational resources. To address these limitations in stability control, this research presents a small deterministic Physics-Informed MPC Surrogate model (PI-MPCS). PI-MPCS was developed to approximate the control by an MPC while encouraging stability and robustness through the integration of the system dynamics and the formation of a Lyapunov stability profile. Empirical results are presented on the task of 2D quadcopter landing. They demonstrate a rapid and precise MPC approximation on a non-linear system along with an estimated two times speed up on the computational requirements when compared against an MPC. PI-MPCS, in addition, displays a level of stable control for in- and out-of-distribution states as encouraged by the discrete dynamics residual and Lyapunov stability loss functions. PI-MPCS is meant to serve as a surrogate to MPC on situations in which the computational resources are limited.",
   "authors": [
@@ -11275,34 +11158,6 @@
   "title": "Domain-Adaptive Neural Posterior Estimation for Strong Gravitational Lens Analysis",
   "topics": [
    "Astrophysics & Cosmology"
-  ],
-  "updated": "2024-10-21"
- },
- "2410.16397": {
-  "abstract": "As humanity prepares for new missions to the Moon and Mars, astronauts will need to operate with greater autonomy, given the communication delays that make real-time support from Earth difficult. For instance, messages between Mars and Earth can take up to 24 minutes, making quick responses impossible. This limitation poses a challenge for astronauts who must rely on in-situ tools to access the large volume of data from spacecraft sensors, rovers, and satellites, data that is often fragmented and difficult to use. To bridge this gap, systems like the Mars Exploration Telemetry-Driven Information System (METIS) are being developed. METIS is an AI assistant designed to handle routine tasks, monitor spacecraft systems, and detect anomalies, all while reducing the reliance on mission control. Current Generative Pretrained Transformer (GPT) Models, while powerful, struggle in safety-critical environments. They can generate plausible but incorrect responses, a phenomenon known as \"hallucination,\" which could endanger astronauts. To overcome these limitations, this paper proposes enhancing systems like METIS by integrating GPTs, Retrieval-Augmented Generation (RAG), Knowledge Graphs (KGs), and Augmented Reality (AR). The idea is to allow astronauts to interact with their data more intuitively, using natural language queries and visualizing real-time information through AR. KGs will be used to easily access live telemetry and multimodal data, ensuring that astronauts have the right information at the right time. By combining AI, KGs, and AR, this new system will empower astronauts to work more autonomously, safely, and efficiently during future space missions.",
-  "authors": [
-   "Oliver Bensch",
-   "Leonie Bensch",
-   "Tommy Nilsson",
-   "Florian Saling",
-   "Wafa M. Sadri",
-   "Carsten Hartmann",
-   "Tobias Hecking",
-   "J. Nathan Kutz"
-  ],
-  "categories": [
-   "cs.AI",
-   "cs.ET"
-  ],
-  "comment": "75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024",
-  "first_author": "Oliver Bensch",
-  "pdf_url": "http://arxiv.org/pdf/2410.16397",
-  "primary_category": "cs.AI",
-  "published": "2024-10-21",
-  "tags": [],
-  "title": "Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight",
-  "topics": [
-   "via:author-whitelist:data-driven dynamical systems"
   ],
   "updated": "2024-10-21"
  },
@@ -12726,27 +12581,6 @@
   ],
   "updated": "2024-10-25"
  },
- "2410.19645": {
-  "abstract": "Photomechanically active materials undergo reversible deformation on illumination, making them ideal for remote, tether-free actuation. Much of the work on these materials has focused on one-dimensional structures, such as strips. In this paper, we explore photomechanically active two-dimensional structures such as sheets and shells. When illuminated, such structures undergo spontaneous bending due to the limited penetration of light. However, the geometry of the shell constrains possible deformation modes: changes in Gauss curvature lead to in-plane stretching, against which shells are very stiff. Therefore, there is a complex coupling between the photomechanical actuation and the mechanical behavior of a shell. We develop and implement a novel approach to study photomechananically active shells. This method is a discrete shell model which captures the interplay between actuation, stretching, bending, and geometric changes. Through a series of examples, we explore these complex interactions, demonstrating how one can design shells that deform to follow the source of illumination.",
-  "authors": [
-   "Sathvik Sanagala",
-   "Kaushik Bhattacharya"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Sathvik Sanagala",
-  "pdf_url": "http://arxiv.org/pdf/2410.19645",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2024-10-25",
-  "tags": [],
-  "title": "Artificial sunflower: Light-induced deformation of photoactive shells",
-  "topics": [
-   "via:author-whitelist:neural operators, multi-scale"
-  ],
-  "updated": "2024-10-25"
- },
  "2410.19728": {
   "abstract": "We introduce \\texttt{cymyc}, a high-performance Python library for numerical investigation of the geometry of a large class of string compactification manifolds and their associated moduli spaces. We develop a well-defined geometric ansatz to numerically model tensor fields of arbitrary degree on a large class of Calabi-Yau manifolds. \\texttt{cymyc} includes a machine learning component which incorporates this ansatz to model tensor fields of interest on these spaces by finding an approximate solution to the system of partial differential equations they should satisfy.",
   "authors": [
@@ -12831,32 +12665,6 @@
    "Generative Models & Discovery"
   ],
   "updated": "2024-10-14"
- },
- "2410.19791": {
-  "abstract": "Remote control of robotic systems, also known as teleoperation, is crucial for the development of autonomous vehicle (AV) technology. It allows a remote operator to view live video from AVs and, in some cases, to make real-time decisions. The effectiveness of video-based teleoperation systems is heavily influenced by the quality of the cellular network and, in particular, its packet loss rate and latency. To optimize these parameters, an AV can be connected to multiple cellular networks and determine in real time over which cellular network each video packet will be transmitted. We present an algorithm, called Active Network Selector (ANS), which uses a time series machine learning approach for solving this problem. We compare ANS to a baseline non-learning algorithm, which is used today in commercial systems, and show that ANS performs much better, with respect to both packet loss and packet latency.",
-  "authors": [
-   "Barak Gahtan",
-   "Reuven Cohen",
-   "Alex M. Bronstein",
-   "Eli Shapira"
-  ],
-  "categories": [
-   "eess.SP",
-   "cs.CV",
-   "cs.LG",
-   "cs.NI"
-  ],
-  "comment": "IEEE Network of Future 2024",
-  "first_author": "Barak Gahtan",
-  "pdf_url": "http://arxiv.org/pdf/2410.19791",
-  "primary_category": "eess.SP",
-  "published": "2024-10-15",
-  "tags": [],
-  "title": "Data-Driven Cellular Network Selector for Vehicle Teleoperations",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
-  ],
-  "updated": "2024-10-15"
  },
  "2410.19799": {
   "abstract": "The RESISTO project, a pioneer innovation initiative in Europe, endeavors to enhance the resilience of electrical networks against extreme weather events and associated risks. Emphasizing intelligence and flexibility within distribution networks, RESISTO aims to address climatic and physical incidents comprehensively, fostering resilience across planning, response, recovery, and adaptation phases. Leveraging advanced technologies including AI, IoT sensors, and aerial robots, RESISTO integrates prediction, detection, and mitigation strategies to optimize network operation. This article summarizes the main technical aspects of the proposed solutions to meet the aforementioned objectives, including the development of a climate risk detection platform, an IoT-based monitoring and anomaly detection network, and a fleet of intelligent aerial robots. Each contributing to the project's overarching objectives of enhancing network resilience and operational efficiency.",
@@ -14383,32 +14191,6 @@
    "Astrophysics & Cosmology",
    "Climate, Weather & Geophysics",
    "Fluid Dynamics & Plasma Physics"
-  ],
-  "updated": "2024-10-30"
- },
- "2410.23272": {
-  "abstract": "Probabilistic prediction of sequences from images and other high-dimensional data is a key challenge, particularly in risk-sensitive applications. In these settings, it is often desirable to quantify the uncertainty associated with the prediction (instead of just determining the most likely sequence, as in language modeling). In this paper, we propose a Monte Carlo framework to estimate probabilities and confidence intervals associated with the distribution of a discrete sequence. Our framework uses a Monte Carlo simulator, implemented as an autoregressively trained neural network, to sample sequences conditioned on an image input. We then use these samples to estimate the probabilities and confidence intervals. Experiments on synthetic and real data show that the framework produces accurate discriminative predictions, but can suffer from miscalibration. In order to address this shortcoming, we propose a time-dependent regularization method, which is shown to produce calibrated predictions.",
-  "authors": [
-   "Qidong Yang",
-   "Weicheng Zhu",
-   "Joseph Keslin",
-   "Laure Zanna",
-   "Tim G. J. Rudner",
-   "Carlos Fernandez-Granda"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Qidong Yang",
-  "pdf_url": "http://arxiv.org/pdf/2410.23272",
-  "primary_category": "cs.LG",
-  "published": "2024-10-30",
-  "tags": [],
-  "title": "A Monte Carlo Framework for Calibrated Uncertainty Estimation in Sequence Prediction",
-  "topics": [
-   "via:author-whitelist:ML for climate, dynamical systems"
   ],
   "updated": "2024-10-30"
  },

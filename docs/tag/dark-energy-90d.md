@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,12 +80,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12414.html">Enhancing Lyα Emitter Identification in HETDEX with a Convolutional Neural Network</a></div></td>
 <td>Shiro Mukae et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12414">2604.12414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13170.html">Euclid: Quick Data Release (Q1) -- Dual AGN in low-mass galaxies</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>M. Mezcua et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13170">2604.13170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-13</td>
@@ -166,12 +160,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.11165">2603.11165</a></td>
 </tr>
 <tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13148.html">Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13148">2603.13148</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17376.html">Identifying Anomalous DESI Galaxy Spectra with a Variational Autoencoder</a></div></td>
 <td>C. Nicolaou et al.</td>
@@ -182,12 +170,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03422.html">Simulation-Based Inference for Probabilistic Galaxy Detection and Deblending</a></div></td>
 <td>Ismael Mendoza et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03422">2601.03422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15308.html">Euclid Quick Data Release (Q1) -- Characteristics and limitations of the spectroscopic measurements</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15308">2503.15308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-05</td>
@@ -242,12 +224,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07177.html">Ten-dimensional neural network emulator for the nonlinear matter power spectrum</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Yanhui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07177">2507.07177</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23219.html">Witten-O&#x27;Raifeartaigh potential revisited in the context of Warm Inflation</a></div></td>
-<td>Suratna Das et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23219">2511.23219</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-08</td>

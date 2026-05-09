@@ -941,36 +941,6 @@
   ],
   "updated": "2025-01-17"
  },
- "2406.13301": {
-  "abstract": "Sequential decision-making can be formulated as a text-conditioned video generation problem, where a video planner, guided by a text-defined goal, generates future frames visualizing planned actions, from which control actions are subsequently derived. In this work, we introduce Active Region Video Diffusion for Universal Policies (ARDuP), a novel framework for video-based policy learning that emphasizes the generation of active regions, i.e. potential interaction areas, enhancing the conditional policy's focus on interactive areas critical for task execution. This innovative framework integrates active region conditioning with latent diffusion models for video planning and employs latent representations for direct action decoding during inverse dynamic modeling. By utilizing motion cues in videos for automatic active region discovery, our method eliminates the need for manual annotations of active regions. We validate ARDuP's efficacy via extensive experiments on simulator CLIPort and the real-world dataset BridgeData v2, achieving notable improvements in success rates and generating convincingly realistic video plans.",
-  "authors": [
-   "Shuaiyi Huang",
-   "Mara Levy",
-   "Zhenyu Jiang",
-   "Anima Anandkumar",
-   "Yuke Zhu",
-   "Linxi Fan",
-   "De-An Huang",
-   "Abhinav Shrivastava"
-  ],
-  "categories": [
-   "cs.CV",
-   "cs.RO"
-  ],
-  "comment": "Accepted by IROS 2024 (Oral)",
-  "first_author": "Shuaiyi Huang",
-  "pdf_url": "http://arxiv.org/pdf/2406.13301",
-  "primary_category": "cs.CV",
-  "published": "2024-06-19",
-  "tags": [
-   "diffusion-models"
-  ],
-  "title": "ARDuP: Active Region Video Diffusion for Universal Policies",
-  "topics": [
-   "via:author-whitelist:Fourier neural operators"
-  ],
-  "updated": "2025-01-30"
- },
  "2406.14080": {
   "abstract": "Hyperspectral remote sensing (HIS) enables the detailed capture of spectral information from the Earth's surface, facilitating precise classification and identification of surface crops due to its superior spectral diagnostic capabilities. However, current convolutional neural networks (CNNs) focus on local features in hyperspectral data, leading to suboptimal performance when classifying intricate crop types and addressing imbalanced sample distributions. In contrast, the Transformer framework excels at extracting global features from hyperspectral imagery. To leverage the strengths of both approaches, this research introduces the Convolutional Meet Transformer Network (CMTNet). This innovative model includes a spectral-spatial feature extraction module for shallow feature capture, a dual-branch structure combining CNN and Transformer branches for local and global feature extraction, and a multi-output constraint module that enhances classification accuracy through multi-output loss calculations and cross constraints across local, international, and joint features. Extensive experiments conducted on three datasets (WHU-Hi-LongKou, WHU-Hi-HanChuan, and WHU-Hi-HongHu) demonstrate that CTDBNet significantly outperforms other state-of-the-art networks in classification performance, validating its effectiveness in hyperspectral crop classification.",
   "authors": [
@@ -1033,33 +1003,6 @@
    "Climate, Weather & Geophysics"
   ],
   "updated": "2025-01-19"
- },
- "2406.15669": {
-  "abstract": "Enzymes are important proteins that catalyze chemical reactions. In recent years, machine learning methods have emerged to predict enzyme function from sequence; however, there are no standardized benchmarks to evaluate these methods. We introduce CARE, a benchmark and dataset suite for the Classification And Retrieval of Enzymes (CARE). CARE centers on two tasks: (1) classification of a protein sequence by its enzyme commission (EC) number and (2) retrieval of an EC number given a chemical reaction. For each task, we design train-test splits to evaluate different kinds of out-of-distribution generalization that are relevant to real use cases. For the classification task, we provide baselines for state-of-the-art methods. Because the retrieval task has not been previously formalized, we propose a method called Contrastive Reaction-EnzymE Pretraining (CREEP) as one of the first baselines for this task and compare it to the recent method, CLIPZyme. CARE is available at https://github.com/jsunn-y/CARE/.",
-  "authors": [
-   "Jason Yang",
-   "Ariane Mora",
-   "Shengchao Liu",
-   "Bruce J. Wittmann",
-   "Anima Anandkumar",
-   "Frances H. Arnold",
-   "Yisong Yue"
-  ],
-  "categories": [
-   "q-bio.BM",
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Jason Yang",
-  "pdf_url": "http://arxiv.org/pdf/2406.15669",
-  "primary_category": "q-bio.BM",
-  "published": "2024-06-21",
-  "tags": [],
-  "title": "CARE: a Benchmark Suite for the Classification and Retrieval of Enzymes",
-  "topics": [
-   "via:author-whitelist:Fourier neural operators"
-  ],
-  "updated": "2025-01-06"
  },
  "2406.19998": {
   "abstract": "Curl lensing, also known as lensing field-rotation or shear B-modes, is a distinct post-Born observable caused by two lensing deflections at different redshifts (lens-lens coupling). For the Cosmic Microwave Background (CMB), the field-rotation is approximately four orders of magnitude smaller than the CMB lensing convergence. Direct detection is therefore challenging for near-future CMB experiments such as the Simons Observatory (SO) or CMB `Stage-4' (CMB-S4). Instead, the curl can be probed in cross-correlation between a direct reconstruction and a template formed using pairs of large-scale structure (LSS) tracers to emulate the lens-lens coupling. In this paper, we derive a new estimator for the optimal curl template specifically adapted for curved-sky applications, and test it against non-Gaussian complications using N-body cosmology simulations. We find non-foreground biases to the curl cross-spectrum are purely Gaussian at the sensitivity of SO. However, higher-order curl contractions induce non-Gaussian bias at the order of $1σ$ for CMB-S4 using quadratic estimators (QE). Maximum a-Posteriori (MAP) lensing estimators significantly reduce biases for both SO and CMB-S4, in agreement with our analytic predictions. We also show that extragalactic foregrounds in the CMB can bias curl measurements at order of the signal, and evaluate a variety of mitigation strategies to control these biases for SO-like experiments. Near-future observations will be able to measure post-Born lensing curl B-modes.",
@@ -2769,33 +2712,6 @@
    "Generative Models & Discovery"
   ],
   "updated": "2025-01-21"
- },
- "2410.06188": {
-  "abstract": "The emerging field of DNA storage employs strands of DNA bases (A/T/C/G) as a storage medium for digital information to enable massive density and durability. The DNA storage pipeline includes: (1) encoding the raw data into sequences of DNA bases; (2) synthesizing the sequences as DNA \\textit{strands} that are stored over time as an unordered set; (3) sequencing the DNA strands to generate DNA \\textit{reads}; and (4) deducing the original data. The DNA synthesis and sequencing stages each generate several independent error-prone duplicates of each strand which are then utilized in the final stage to reconstruct the best estimate for the original strand. Specifically, the reads are first \\textit{clustered} into groups likely originating from the same strand (based on their similarity to each other), and then each group approximates the strand that led to the reads of that group. This work improves the DNA clustering stage by embedding it as part of the DNA sequencing. Traditional DNA storage solutions begin after the DNA sequencing process generates discrete DNA reads (A/T/C/G), yet we identify that there is untapped potential in using the raw signals generated by the Nanopore DNA sequencing machine before they are discretized into bases, a process known as \\textit{basecalling}, which is done using a deep neural network. We propose a deep neural network that clusters these signals directly, demonstrating superior accuracy, and reduced computation times compared to current approaches that cluster after basecalling.",
-  "authors": [
-   "Hadas Abraham",
-   "Barak Gahtan",
-   "Adir Kobovich",
-   "Orian Leitersdorf",
-   "Alex M. Bronstein",
-   "Eitan Yaakobi"
-  ],
-  "categories": [
-   "q-bio.GN",
-   "cs.CE",
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Hadas Abraham",
-  "pdf_url": "http://arxiv.org/pdf/2410.06188",
-  "primary_category": "q-bio.GN",
-  "published": "2024-10-08",
-  "tags": [],
-  "title": "Beyond the Alphabet: Deep Signal Embedding for Enhanced DNA Clustering",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
-  ],
-  "updated": "2025-01-27"
  },
  "2410.07349": {
   "abstract": "Simulations of the dark matter distribution throughout the Universe are essential in order to analyse data from cosmological surveys. $N$-body simulations are computationally expensive, and many cheaper alternatives (such as lognormal random fields) fail to reproduce accurate statistics of the smaller, non-linear scales. In this work, we present \\textsc{Psi-GAN} (\\textbf{P}ower-\\textbf{s}pectrum-\\textbf{i}nformed \\textbf{G}enerative \\textbf{A}dversarial \\textbf{N}etwork), a machine learning model which takes a two-dimensional lognormal dark matter density field and transforms it into a more realistic field. We construct \\textsc{Psi-GAN} so that it is continuously conditional, and can therefore generate realistic realisations of the dark matter density field across a range of cosmologies and redshifts in $z \\in [0, 3]$. We train \\textsc{Psi-GAN} as a generative adversarial network on $2\\,000$ simulation boxes from the Quijote simulation suite. We use a novel critic architecture that utilises the power spectrum as the basis for discrimination between real and generated samples. \\textsc{Psi-GAN} shows agreement with $N$-body simulations over a range of redshifts and cosmologies, consistently outperforming the lognormal approximation on all tests of non-linear structure, such as being able to reproduce both the power spectrum up to wavenumbers of $1~h~\\mathrm{Mpc}^{-1}$, and the bispectra of target $N$-body simulations to within ${\\sim}5$ per cent. Our improved ability to model non-linear structure should allow more robust constraints on cosmological parameters when used in techniques such as simulation-based inference.",
@@ -6096,31 +6012,6 @@
   ],
   "updated": "2025-01-07"
  },
- "2501.04105": {
-  "abstract": "We introduce DeepVIVONet, a new framework for optimal dynamic reconstruction and forecasting of the vortex-induced vibrations (VIV) of a marine riser, using field data. We demonstrate the effectiveness of DeepVIVONet in accurately reconstructing the motion of an off--shore marine riser by using sparse spatio-temporal measurements. We also show the generalization of our model in extrapolating to other flow conditions via transfer learning, underscoring its potential to streamline operational efficiency and enhance predictive accuracy. The trained DeepVIVONet serves as a fast and accurate surrogate model for the marine riser, which we use in an outer--loop optimization algorithm to obtain the optimal locations for placing the sensors. Furthermore, we employ an existing sensor placement method based on proper orthogonal decomposition (POD) to compare with our data-driven approach. We find that that while POD offers a good approach for initial sensor placement, DeepVIVONet's adaptive capabilities yield more precise and cost-effective configurations.",
-  "authors": [
-   "Ruyin Wan",
-   "Ehsan Kharazmi",
-   "Michael S Triantafyllou",
-   "George Em Karniadakis"
-  ],
-  "categories": [
-   "cs.LG",
-   "math.OC",
-   "physics.flu-dyn"
-  ],
-  "comment": null,
-  "first_author": "Ruyin Wan",
-  "pdf_url": "http://arxiv.org/pdf/2501.04105",
-  "primary_category": "cs.LG",
-  "published": "2025-01-07",
-  "tags": [],
-  "title": "DeepVIVONet: Using deep neural operators to optimize sensor locations with application to vortex-induced vibrations",
-  "topics": [
-   "via:author-whitelist:PINNs, DeepONet"
-  ],
-  "updated": "2025-01-07"
- },
  "2501.04111": {
   "abstract": "This study presents, for the first time, a conceptual and formal model of postsingular science (PSS), which analyses and interprets changes in scientific knowledge driven by accelerating technological progress, singularity, and the integration of artificial intelligence (AI) into scientific processes. The PSS model is based on the interplay of six key components: cumulative knowledge, intelligence, technological synergy, quantum information, social dynamics, and environmental sustainability. The interaction of these variables is described through a system of nonlinear differential equations, reflecting the complex feedback loops and synergetic effects characteristic of the postsingular world. A differentiation table contrasting postsingular and classical science is also presented, highlighting the most fundamental differences between contemporary classical science and future postsingular science. The model emphasizes the synergy between humans and artificial intelligence, the role of quantum technologies in accelerating scientific discovery, and the impact of social and ecological factors that either constrain or stimulate scientific progress. It is anticipated that new forms of scientific information dissemination will replace traditional academic publications and that scientific processing will reach an entirely new level of development following the singularity-driven acceleration of technological progress and the integration of AI into R&D. This will herald an era of nonstop, ultrarapid science operating 24/7. The synergy of humans and artificial intelligence will create a scientific union on the basis of fundamentally new principles and methods. This research provides an initial theoretical foundation for further interdisciplinary studies aimed at developing sustainable strategies and effectively managing scientific progress in the postsingular era.",
   "authors": [
@@ -6318,29 +6209,6 @@
    "Climate, Weather & Geophysics"
   ],
   "updated": "2025-01-08"
- },
- "2501.04521": {
-  "abstract": "Current time-synchronous sequence-to-sequence automatic speech recognition (ASR) models are trained by using sequence level cross-entropy that sums over all alignments. Due to the discriminative formulation, incorporating the right label context into the training criterion's gradient causes normalization problems and is not mathematically well-defined. The classic hybrid neural network hidden Markov model (NN-HMM) with its inherent generative formulation enables conditioning on the right label context. However, due to the HMM state-tying the identity of the right label context is never modeled explicitly. In this work, we propose a factored loss with auxiliary left and right label contexts that sums over all alignments. We show that the inclusion of the right label context is particularly beneficial when training data resources are limited. Moreover, we also show that it is possible to build a factored hybrid HMM system by relying exclusively on the full-sum criterion. Experiments were conducted on Switchboard 300h and LibriSpeech 960h.",
-  "authors": [
-   "Tina Raissi",
-   "Ralf Schlüter",
-   "Hermann Ney"
-  ],
-  "categories": [
-   "cs.SD",
-   "eess.AS"
-  ],
-  "comment": "Accepted for presentation at ICASSP 2025",
-  "first_author": "Tina Raissi",
-  "pdf_url": "http://arxiv.org/pdf/2501.04521",
-  "primary_category": "cs.SD",
-  "published": "2025-01-08",
-  "tags": [],
-  "title": "Right Label Context in End-to-End Training of Time-Synchronous ASR Models",
-  "topics": [
-   "via:author-whitelist:PINNs co-author"
-  ],
-  "updated": "2025-01-09"
  },
  "2501.04625": {
   "abstract": "We investigate the influence of disruptive collisions on chondrule rim growth, emphasizing the role of kinetic energy in determining the outcomes of these interactions. We establish a threshold of approximately 10 cm/s for the \"hit-and-stick\" collision regime, beyond which significant changes occur in the structure of rimmed chondrules. Our findings highlight that at low collision energies (KE $< 10^{-12}$ J), minimal structural alteration takes place, while higher energies (KE up to $10^{-10}$ J) lead to compaction of the rim, reducing both its thickness and porosity. Collisions with energies exceeding $10^{-8}$ J result in the complete disruption of the rim, with particles being expelled from it. These results are correlated with the turbulence levels within the disk, as kinetic energy scales with the relative velocities of colliding particles. Leveraging machine learning models trained on our collision data, we predict changes in rim characteristics and employ these predictions in a Monte Carlo simulation to explore rim growth dynamics. Our simulations reveal that rim development is sustained in low-turbulence environments ($α\\leq 10^{-5}$), while intermediate turbulence levels ($α$ = $10^{-3}$ to $10^{-4}$) lead to erosion, preventing further rim accumulation in high-turbulence contexts.",
@@ -11092,29 +10960,6 @@
   ],
   "updated": "2025-01-23"
  },
- "2501.13882": {
-  "abstract": "The role of grain size in determining fracture toughness in metals is incompletely understood with apparently contradictory experimental observations. We study this grain-size dependence computationally by building a model that combines the phase-field formulation of fracture mechanics with dislocation density-based crystal plasticity. We apply the model to cleavage fracture of body-centered cubic materials in plane strain conditions, and find non-monotonic grain-size dependence of plastic-brittle transgranular fracture. We find two mechanisms at play. The first is the nucleation of failure due to cross-slip in critically located grains within transgranular band of localized deformation, and this follows the classical Hall-Petch law that predicts a higher failure stress for smaller grains. The second is the resistance to the propagation of a mode I crack, where grain boundaries can potentially pin a crack, and this follows an inverse Hall-Petch law with higher toughness for larger grains. The result of the competition between the two mechanisms gives rise to non-monotonic behavior and reconciles the apparently contradictory experimental observations.",
-  "authors": [
-   "Jean-Michel Scherer",
-   "Mythreyi Ramesh",
-   "Blaise Bourdin",
-   "Kaushik Bhattacharya"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Jean-Michel Scherer",
-  "pdf_url": "http://arxiv.org/pdf/2501.13882",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2025-01-23",
-  "tags": [],
-  "title": "Grain-size dependence of plastic-brittle transgranular fracture",
-  "topics": [
-   "via:author-whitelist:neural operators, multi-scale"
-  ],
-  "updated": "2025-01-23"
- },
  "2501.13920": {
   "abstract": "With the rapid development of diffusion models, text-to-image(T2I) models have made significant progress, showcasing impressive abilities in prompt following and image generation. Recently launched models such as FLUX.1 and Ideogram2.0, along with others like Dall-E3 and Stable Diffusion 3, have demonstrated exceptional performance across various complex tasks, raising questions about whether T2I models are moving towards general-purpose applicability. Beyond traditional image generation, these models exhibit capabilities across a range of fields, including controllable generation, image editing, video, audio, 3D, and motion generation, as well as computer vision tasks like semantic segmentation and depth estimation. However, current evaluation frameworks are insufficient to comprehensively assess these models' performance across expanding domains. To thoroughly evaluate these models, we developed the IMAGINE-E and tested six prominent models: FLUX.1, Ideogram2.0, Midjourney, Dall-E3, Stable Diffusion 3, and Jimeng. Our evaluation is divided into five key domains: structured output generation, realism, and physical consistency, specific domain generation, challenging scenario generation, and multi-style creation tasks. This comprehensive assessment highlights each model's strengths and limitations, particularly the outstanding performance of FLUX.1 and Ideogram2.0 in structured and specific domain tasks, underscoring the expanding applications and potential of T2I models as foundational AI tools. This study provides valuable insights into the current state and future trajectory of T2I models as they evolve towards general-purpose usability. Evaluation scripts will be released at https://github.com/jylei16/Imagine-e.",
   "authors": [
@@ -11301,29 +11146,6 @@
    "Generative Models & Discovery"
   ],
   "updated": "2025-01-23"
- },
- "2501.14160": {
-  "abstract": "Biological flyers and swimmers navigate in unsteady wake flows using limited sensory abilities and actuation energies. Understanding how vortical structures can be leveraged for energy-efficient navigation in unsteady flows is beneficial in developing autonomous navigation for small-scale aerial and marine vehicles. Such vehicles are typically operated with constrained onboard actuation and sensing capabilities, making energy-efficient trajectory planning critically important. This study finds that trajectory planners can leverage three-dimensionality appearing in a complex unsteady wake for efficient navigation using limited flowfield information. This is revealed with comprehensive investigations by finite-horizon model-predictive control for trajectory planning of a swimmer behind a cylinder wake at Re=300. The navigation performance of three-dimensional (3D) cases is compared to scenarios in a two-dimensional (2D) wake. The underactuated swimmer is able to reach the target by leveraging the background flow when the prediction horizon exceeds one-tenth of the wake-shedding period, demonstrating that navigation is feasible with limited information about the flowfield. Further, we identify that the swimmer can leverage the secondary transverse vortical structures to reach the target faster than is achievable navigating in a 2D wake.",
-  "authors": [
-   "Vedasri Godavarthi",
-   "Kartik Krishna",
-   "Steven L. Brunton",
-   "Kunihiko Taira"
-  ],
-  "categories": [
-   "physics.flu-dyn"
-  ],
-  "comment": "7 pages, 4 figures",
-  "first_author": "Vedasri Godavarthi",
-  "pdf_url": "http://arxiv.org/pdf/2501.14160",
-  "primary_category": "physics.flu-dyn",
-  "published": "2025-01-24",
-  "tags": [],
-  "title": "Leveraging three-dimensionality for navigation in bluff-body wakes",
-  "topics": [
-   "via:author-whitelist:SINDy, data-driven dynamics"
-  ],
-  "updated": "2025-01-24"
  },
  "2501.14287": {
   "abstract": "Multi-spectral imaging, which simultaneously captures the spatial and spectral information of a scene, is widely used across diverse fields, including remote sensing, biomedical imaging, and agricultural monitoring. Here, we introduce a snapshot multi-spectral imaging approach employing a standard monochrome image sensor with no additional spectral filters or customized components. Our system leverages the inherent chromatic aberration of wavelength-dependent defocusing as a natural source of physical encoding of multi-spectral information; this encoded image information is rapidly decoded via a deep learning-based multi-spectral Fourier Imager Network (mFIN). We experimentally tested our method with six illumination bands and demonstrated an overall accuracy of 92.98% for predicting the illumination channels at the input and achieved a robust multi-spectral image reconstruction on various test objects. This deep learning-powered framework achieves high-quality multi-spectral image reconstruction using snapshot image acquisition with a monochrome image sensor and could be useful for applications in biomedicine, industrial quality control, and agriculture, among others.",
@@ -11962,30 +11784,6 @@
   ],
   "updated": "2025-01-26"
  },
- "2501.15377": {
-  "abstract": "Adapting deep learning models to new domains often requires computationally intensive retraining and risks catastrophic forgetting. While fine-tuning enables domain-specific adaptation, it can reduce robustness to distribution shifts, impacting out-of-distribution (OOD) performance. Pre-trained zero-shot models like CLIP offer strong generalization but may suffer degraded robustness after fine-tuning. Building on Task Adaptive Parameter Sharing (TAPS), we propose a simple yet effective extension as a parameter-efficient fine-tuning (PEFT) method, using an indicator function to selectively activate Low-Rank Adaptation (LoRA) blocks. Our approach minimizes knowledge loss, retains its generalization strengths under domain shifts, and significantly reduces computational costs compared to traditional fine-tuning. We demonstrate that effective fine-tuning can be achieved with as few as 5\\% of active blocks, substantially improving efficiency. Evaluations on pre-trained models such as CLIP and DINO-ViT demonstrate our method's broad applicability and effectiveness in maintaining performance and knowledge retention.",
-  "authors": [
-   "Reza Akbarian Bafghi",
-   "Carden Bagwell",
-   "Avinash Ravichandran",
-   "Ashish Shrivastava",
-   "Maziar Raissi"
-  ],
-  "categories": [
-   "cs.CV"
-  ],
-  "comment": null,
-  "first_author": "Reza Akbarian Bafghi",
-  "pdf_url": "http://arxiv.org/pdf/2501.15377",
-  "primary_category": "cs.CV",
-  "published": "2025-01-26",
-  "tags": [],
-  "title": "Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation",
-  "topics": [
-   "via:author-whitelist:PINNs co-author"
-  ],
-  "updated": "2025-01-26"
- },
  "2501.15389": {
   "abstract": "Remote sensing image segmentation is pivotal for earth observation, underpinning applications such as environmental monitoring and urban planning. Due to the limited annotation data available in remote sensing images, numerous studies have focused on data augmentation as a means to alleviate overfitting in deep learning networks. However, some existing data augmentation strategies rely on simple transformations that may not sufficiently enhance data diversity or model generalization capabilities. This paper proposes a novel augmentation strategy, Clustered-Patch-Mixed Mosaic (CP2M), designed to address these limitations. CP2M integrates a Mosaic augmentation phase with a clustered patch mix phase. The former stage constructs a new sample from four random samples, while the latter phase uses the connected component labeling algorithm to ensure the augmented data maintains spatial coherence and avoids introducing irrelevant semantics when pasting random patches. Our experiments on the ISPRS Potsdam dataset demonstrate that CP2M substantially mitigates overfitting, setting new benchmarks for segmentation accuracy and model robustness in remote sensing tasks.",
   "authors": [
@@ -12507,31 +12305,6 @@
   "title": "UDiTQC: U-Net-Style Diffusion Transformer for Quantum Circuit Synthesis",
   "topics": [
    "Generative Models & Discovery"
-  ],
-  "updated": "2025-01-24"
- },
- "2501.16381": {
-  "abstract": "Hydrodynamic pattern formation phenomena in printing and coating processes are still not fully understood. However, fundamental understanding is essential to achieve high-quality printed products and to tune printed patterns according to the needs of a specific application like printed electronics, graphical printing, or biomedical printing. The aim of the paper is to develop an automated pattern classification algorithm based on methods from supervised machine learning and reduced-order modeling. We use the HYPA-p dataset, a large image dataset of gravure-printed images, which shows various types of hydrodynamic pattern formation phenomena. It enables the correlation of printing process parameters and resulting printed patterns for the first time. 26880 images of the HYPA-p dataset have been labeled by a human observer as dot patterns, mixed patterns, or finger patterns; 864000 images (97%) are unlabeled. A singular value decomposition (SVD) is used to find the modes of the labeled images and to reduce the dimensionality of the full dataset by truncation and projection. Selected machine learning classification techniques are trained on the reduced-order data. We investigate the effect of several factors, including classifier choice, whether or not fast Fourier transform (FFT) is used to preprocess the labeled images, data balancing, and data normalization. The best performing model is a k-nearest neighbor (kNN) classifier trained on unbalanced, FFT-transformed data with a test error of 3%, which outperforms a human observer by 7%. Data balancing slightly increases the test error of the kNN-model to 5%, but also increases the recall of the mixed class from 90% to 94%. Finally, we demonstrate how the trained models can be used to predict the pattern class of unlabeled images and how the predictions can be correlated to the printing process parameters, in the form of regime maps.",
-  "authors": [
-   "Pauline Rothmann-Brumm",
-   "Steven L. Brunton",
-   "Isabel Scherl"
-  ],
-  "categories": [
-   "cs.LG",
-   "physics.flu-dyn"
-  ],
-  "comment": null,
-  "first_author": "Pauline Rothmann-Brumm",
-  "pdf_url": "http://arxiv.org/pdf/2501.16381",
-  "primary_category": "cs.LG",
-  "published": "2025-01-24",
-  "tags": [
-   "reduced-order-modeling"
-  ],
-  "title": "Reduced-order modeling and classification of hydrodynamic pattern formation in gravure printing",
-  "topics": [
-   "via:author-whitelist:SINDy, data-driven dynamics"
   ],
   "updated": "2025-01-24"
  },

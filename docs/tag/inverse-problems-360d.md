@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">410 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,12 +710,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13478.html">Solving continuum and rarefied flows using differentiable programming</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Tianbai Xiao</td>
 <td><a href="http://arxiv.org/abs/2501.13478">2501.13478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00035.html">Wildfire Simulation with Differentiable Randers-Finsler Eikonal Solvers</a></div></td>
-<td>Barak Gahtan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00035">2603.00035</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-06</td>
@@ -1888,12 +1882,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2508.13088">2508.13088</a></td>
 </tr>
 <tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01521.html">Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Bingliang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01521">2407.01521</a></td>
-</tr>
-<tr class="paper">
 <td>2025-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00007.html">DiffTopo: Solver in the Loop for Inverse Topography via Condition Diffusion Generation</a></div></td>
 <td>Aoming Liang et al.</td>
@@ -2468,11 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11682.html">Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Ananyae Kumar Bhartari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11682">2505.11682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14479.html">La Méthode du Gradient Proximé</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Patrick L. Combettes</td>
-<td><a href="http://arxiv.org/abs/2503.14479">2503.14479</a></td>
 </tr>
 </tbody></table>

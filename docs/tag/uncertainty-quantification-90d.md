@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,12 +584,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05663.html">A bi-fidelity method for the uncertain Vlasov-Poisson system near quasineutrality in an asymptotic-preserving particle-in-cell framework</a></div></td>
 <td>Guangwei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05663">2412.05663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01478.html">Purrception: Variational Flow Matching for Vector-Quantized Image Generation</a></div></td>
-<td>Răzvan-Andrei Matişan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01478">2510.01478</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>

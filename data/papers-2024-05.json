@@ -1347,31 +1347,6 @@
   ],
   "updated": "2024-05-06"
  },
- "2405.03865": {
-  "abstract": "Robotic affordances, providing information about what actions can be taken in a given situation, can aid robotic manipulation. However, learning about affordances requires expensive large annotated datasets of interactions or demonstrations. In this work, we argue that well-directed interactions with the environment can mitigate this problem and propose an information-based measure to augment the agent's objective and accelerate the affordance discovery process. We provide a theoretical justification of our approach and we empirically validate the approach both in simulation and real-world tasks. Our method, which we dub IDA, enables the efficient discovery of visual affordances for several action primitives, such as grasping, stacking objects, or opening drawers, strongly improving data efficiency in simulation, and it allows us to learn grasping affordances in a small number of interactions, on a real-world setup with a UFACTORY XArm 6 robot arm.",
-  "authors": [
-   "Pietro Mazzaglia",
-   "Taco Cohen",
-   "Daniel Dijkman"
-  ],
-  "categories": [
-   "cs.RO",
-   "cs.AI",
-   "cs.CV",
-   "cs.LG"
-  ],
-  "comment": "arXiv admin note: substantial text overlap with arXiv:2308.14915",
-  "first_author": "Pietro Mazzaglia",
-  "pdf_url": "http://arxiv.org/pdf/2405.03865",
-  "primary_category": "cs.RO",
-  "published": "2024-05-06",
-  "tags": [],
-  "title": "Information-driven Affordance Discovery for Efficient Robotic Manipulation",
-  "topics": [
-   "via:author-whitelist:equivariant neural networks"
-  ],
-  "updated": "2024-05-06"
- },
  "2405.03891": {
   "abstract": "Adversarial machine learning, focused on studying various attacks and defenses on machine learning (ML) models, is rapidly gaining importance as ML is increasingly being adopted for optimizing wireless systems such as Open Radio Access Networks (O-RAN). A comprehensive modeling of the security threats and the demonstration of adversarial attacks and defenses on practical AI based O-RAN systems is still in its nascent stages. We begin by conducting threat modeling to pinpoint attack surfaces in O-RAN using an ML-based Connection management application (xApp) as an example. The xApp uses a Graph Neural Network trained using Deep Reinforcement Learning and achieves on average 54% improvement in the coverage rate measured as the 5th percentile user data rates. We then formulate and demonstrate evasion attacks that degrade the coverage rates by as much as 50% through injecting bounded noise at different threat surfaces including the open wireless medium itself. Crucially, we also compare and contrast the effectiveness of such attacks on the ML-based xApp and a non-ML based heuristic. We finally develop and demonstrate robust training-based defenses against the challenging physical/jamming-based attacks and show a 15% improvement in the coverage rates when compared to employing no defense over a range of noise budgets",
   "authors": [
@@ -1491,35 +1466,6 @@
   "title": "Gas Source Localization Using physics Guided Neural Networks",
   "topics": [
    "Generative Models & Discovery"
-  ],
-  "updated": "2024-05-07"
- },
- "2405.04223": {
-  "abstract": "We present measurements on Earth's gravitational acceleration (g) using an in-house developed cold atom gravimeter (CAG) in an atomic fountain geometry. In the setup, the laser cooled $^{87}Rb$ atoms are launched vertically up in the fountain geometry and Doppler sensitive two-photon Raman pulse atom interferometry is applied to detect the gravitational acceleration experienced by the atoms. Using our gravimeter setup, we have measured the local value of 'g' in our laboratory with sensitivity of 621 $μ$Gal for integration time of 1350 s.",
-  "authors": [
-   "Kavish Bhardwaj",
-   "S. Singh",
-   "S. P. Ram",
-   "B. Jain",
-   "Vijay Kumar",
-   "Ayukt Pathak",
-   "Shradha Tiwari",
-   "V. B. Tiwari",
-   "S. R. Mishra"
-  ],
-  "categories": [
-   "physics.atom-ph",
-   "quant-ph"
-  ],
-  "comment": "12 pages, 8 figures",
-  "first_author": "Kavish Bhardwaj",
-  "pdf_url": "http://arxiv.org/pdf/2405.04223",
-  "primary_category": "physics.atom-ph",
-  "published": "2024-05-07",
-  "tags": [],
-  "title": "Measurement of gravitational acceleration in a single laser operated atomic fountain",
-  "topics": [
-   "via:author-whitelist:neural operators, PDE learning"
   ],
   "updated": "2024-05-07"
  },
@@ -4941,27 +4887,6 @@
   ],
   "updated": "2024-05-17"
  },
- "2405.11116": {
-  "abstract": "Liquid crystal elastomers are cross-linked elastomer networks with liquid crystal mesogens incorporated into the main or side chain. Polydomain liquid crystalline (nematic) elastomers exhibit unusual mechanical properties like soft elasticity, where the material deforms at nearly constant stress, due to the reorientation of mesogens. In this paper, we use numerical simulation to study the implication of the remarkable elastic softness on a classical problem of adhesion. This study reveals that the soft elasticity of nematic elastomers dramatically affects the interfacial stress distribution at the interface of a nematic elastomer cylinder adhered to a rigid substrate. The stress near the edge of the nematic cylinder under tensile load deviates from the singular behavior predicted for linear elastic materials, and the maximum normal stress reduces dramatically. Moreover, the location of maximum interfacial stress shifts from the edge to the center of the nematic cylinder when the applied tensile force goes beyond a critical value. We discuss the implications for adhesion. The results are consistent with the available experimental data.",
-  "authors": [
-   "Ameneh Maghsoodi",
-   "Kaushik Bhattacharya"
-  ],
-  "categories": [
-   "cond-mat.soft"
-  ],
-  "comment": null,
-  "first_author": "Ameneh Maghsoodi",
-  "pdf_url": "http://arxiv.org/pdf/2405.11116",
-  "primary_category": "cond-mat.soft",
-  "published": "2024-05-17",
-  "tags": [],
-  "title": "Adhesion of a nematic elastomer cylinder",
-  "topics": [
-   "via:author-whitelist:neural operators, multi-scale"
-  ],
-  "updated": "2024-05-17"
- },
  "2405.11194": {
   "abstract": "Quantum Machine Learning (QML) is an accelerating field of study that leverages the principles of quantum computing to enhance and innovate within machine learning methodologies. However, Noisy Intermediate-Scale Quantum (NISQ) computers suffer from noise that corrupts the quantum states of the qubits and affects the training and inferencing accuracy. Furthermore, quantum computers have long access queues. A single execution with a pre-defined number of shots can take hours just to reach the top of the wait queue, which is especially disadvantageous to Quantum Machine Learning (QML) algorithms that are iterative in nature. Many vendors provide access to a suite of quantum hardware with varied qubit technologies, number of qubits, coupling architectures, and noise characteristics. However, present QML algorithms do not use them for the training procedure and often rely on local noiseless/noisy simulators due to cost and training timing overhead on real hardware. Additionally, inferencing is generally performed on reduced datasets with fewer datapoints. Taking these constraints into account, we perform a study to maximize the inferencing performance of QML workloads based on the choice of hardware selection. Specifically, we perform a detailed analysis of quantum classifiers (both training and inference through the lens of hardware queue wait times) on Iris and reduced Digits datasets under noise and varied conditions such as different hardware and coupling maps. We show that using multiple readily available hardware for training rather than relying on a single hardware, especially if it has a long queue depth of pending jobs, can lead to a performance impact of only 3-4% while providing up to 45X reduction in training wait time.",
   "authors": [
@@ -5582,28 +5507,6 @@
   "title": "Multiscale lubrication simulation based on fourier feature networks with trainable frequency",
   "topics": [
    "Scientific Machine Learning & PINNs"
-  ],
-  "updated": "2024-05-21"
- },
- "2405.12803": {
-  "abstract": "The Log-Periodic Power Law Singularity (LPPLS) model offers a general framework for capturing dynamics and predicting transition points in diverse natural and social systems. In this work, we present two calibration techniques for the LPPLS model using deep learning. First, we introduce the Mono-LPPLS-NN (M-LNN) model; for any given empirical time series, a unique M-LNN model is trained and shown to outperform state-of-the-art techniques in estimating the nonlinear parameters $(t_c, m, ω)$ of the LPPLS model as evidenced by the comprehensive distribution of parameter errors. Second, we extend the M-LNN model to a more general model architecture, the Poly-LPPLS-NN (P-LNN), which is able to quickly estimate the nonlinear parameters of the LPPLS model for any given time-series of a fixed length, including previously unseen time-series during training. The Poly class of models train on many synthetic LPPLS time-series augmented with various noise structures in a supervised manner. Given enough training examples, the P-LNN models also outperform state-of-the-art techniques for estimating the parameters of the LPPLS model as evidenced by the comprehensive distribution of parameter errors. Additionally, this class of models is shown to substantially reduce the time to obtain parameter estimates. Finally, we present applications to the diagnostic and prediction of two financial bubble peaks (followed by their crash) and of a famous rockslide. These contributions provide a bridge between deep learning and the study of the prediction of transition times in complex time series.",
-  "authors": [
-   "Joshua Nielsen",
-   "Didier Sornette",
-   "Maziar Raissi"
-  ],
-  "categories": [
-   "cs.CE"
-  ],
-  "comment": "10 pages, 6 figures",
-  "first_author": "Joshua Nielsen",
-  "pdf_url": "http://arxiv.org/pdf/2405.12803",
-  "primary_category": "cs.CE",
-  "published": "2024-05-21",
-  "tags": [],
-  "title": "Deep LPPLS: Forecasting of temporal critical points in natural, engineering and financial systems",
-  "topics": [
-   "via:author-whitelist:PINNs co-author"
   ],
   "updated": "2024-05-21"
  },
@@ -8095,34 +7998,6 @@
   ],
   "updated": "2024-05-27"
  },
- "2405.17216": {
-  "abstract": "Autoformalization involves automatically translating informal math into formal theorems and proofs that are machine-verifiable. Euclidean geometry provides an interesting and controllable domain for studying autoformalization. In this paper, we introduce a neuro-symbolic framework for autoformalizing Euclidean geometry, which combines domain knowledge, SMT solvers, and large language models (LLMs). One challenge in Euclidean geometry is that informal proofs rely on diagrams, leaving gaps in texts that are hard to formalize. To address this issue, we use theorem provers to fill in such diagrammatic information automatically, so that the LLM only needs to autoformalize the explicit textual steps, making it easier for the model. We also provide automatic semantic evaluation for autoformalized theorem statements. We construct LeanEuclid, an autoformalization benchmark consisting of problems from Euclid's Elements and the UniGeo dataset formalized in the Lean proof assistant. Experiments with GPT-4 and GPT-4V show the capability and limitations of state-of-the-art LLMs on autoformalizing geometry problems. The data and code are available at https://github.com/loganrjmurphy/LeanEuclid.",
-  "authors": [
-   "Logan Murphy",
-   "Kaiyu Yang",
-   "Jialiang Sun",
-   "Zhaoyu Li",
-   "Anima Anandkumar",
-   "Xujie Si"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI",
-   "cs.LO",
-   "stat.ML"
-  ],
-  "comment": "Accepted to ICML 2024. The first two authors contributed equally",
-  "first_author": "Logan Murphy",
-  "pdf_url": "http://arxiv.org/pdf/2405.17216",
-  "primary_category": "cs.LG",
-  "published": "2024-05-27",
-  "tags": [],
-  "title": "Autoformalizing Euclidean Geometry",
-  "topics": [
-   "via:author-whitelist:Fourier neural operators"
-  ],
-  "updated": "2024-05-27"
- },
  "2405.17262": {
   "abstract": "Remote sensing data provide a low-cost solution for large-scale monitoring of air pollution via the retrieval of aerosol optical depth (AOD), but is often limited by cloud contamination. Existing methods for AOD reconstruction rely on temporal information. However, for remote sensing data at high spatial resolution, multi-temporal observations are often unavailable. In this letter, we take advantage of deep representation learning from convolutional neural networks and propose Deep Feature Gaussian Processes (DFGP) for single-scene AOD reconstruction. By using deep learning, we transform the variables to a feature space with better explainable power. By using Gaussian processes, we explicitly consider the correlation between observed AOD and missing AOD in spatial and feature domains. Experiments on two AOD datasets with real-world cloud patterns showed that the proposed method outperformed deep CNN and random forest, achieving R$^2$ of 0.7431 on MODIS AOD and R$^2$ of 0.9211 on EMIT AOD, compared to deep CNN's R$^2$ of 0.6507 and R$^2$ of 0.8619. The proposed methods increased R$^2$ by over 0.35 compared to the popular random forest in AOD reconstruction. The data and code used in this study are available at \\url{https://skrisliu.com/dfgp}.",
   "authors": [
@@ -9029,34 +8904,6 @@
   ],
   "updated": "2024-05-29"
  },
- "2405.19276": {
-  "abstract": "In density functional theory, charge density is the core attribute of atomic systems from which all chemical properties can be derived. Machine learning methods are promising in significantly accelerating charge density prediction, yet existing approaches either lack accuracy or scalability. We propose a recipe that can achieve both. In particular, we identify three key ingredients: (1) representing the charge density with atomic and virtual orbitals (spherical fields centered at atom/virtual coordinates); (2) using expressive and learnable orbital basis sets (basis function for the spherical fields); and (3) using high-capacity equivariant neural network architecture. Our method achieves state-of-the-art accuracy while being more than an order of magnitude faster than existing methods. Furthermore, our method enables flexible efficiency-accuracy trade-offs by adjusting the model/basis sizes.",
-  "authors": [
-   "Xiang Fu",
-   "Andrew Rosen",
-   "Kyle Bystrom",
-   "Rui Wang",
-   "Albert Musaelian",
-   "Boris Kozinsky",
-   "Tess Smidt",
-   "Tommi Jaakkola"
-  ],
-  "categories": [
-   "physics.comp-ph",
-   "cs.LG"
-  ],
-  "comment": "15 pages",
-  "first_author": "Xiang Fu",
-  "pdf_url": "http://arxiv.org/pdf/2405.19276",
-  "primary_category": "physics.comp-ph",
-  "published": "2024-05-29",
-  "tags": [],
-  "title": "A Recipe for Charge Density Prediction",
-  "topics": [
-   "via:author-whitelist:e3nn, equivariant tensor networks"
-  ],
-  "updated": "2024-05-29"
- },
  "2405.19398": {
   "abstract": "Many machine learning models based on neural networks exhibit scaling laws: their performance scales as power laws with respect to the sizes of the model and training data set. We use large-N field theory methods to solve a model recently proposed by Maloney, Roberts and Sully which provides a simplified setting to study neural scaling laws. Our solution extends the result in this latter paper to general nonzero values of the ridge parameter, which are essential to regularize the behavior of the model. In addition to obtaining new and more precise scaling laws, we also uncover a duality transformation at the diagrams level which explains the symmetry between model and training data set sizes. The same duality underlies recent efforts to design neural networks to simulate quantum field theories.",
   "authors": [
@@ -9736,33 +9583,6 @@
   "title": "From Structured to Unstructured:A Comparative Analysis of Computer Vision and Graph Models in solving Mesh-based PDEs",
   "topics": [
    "Dynamical Systems & PDE Learning"
-  ],
-  "updated": "2024-05-31"
- },
- "2406.00108": {
-  "abstract": "We investigate the formation and decay of oscillons during the post-inflationary reheating epoch from inflaton oscillations around asymptotically flat potentials $V(\\varphi)$ in the presence of an external coupling of the form $\\frac{1}{2}\\, g^2 \\, \\varphi^2 \\, χ^2$. It is well-known that in the absence of such an external coupling, the attractive self-interaction term in the potential leads to the formation of copious amounts of long-lived oscillons both for symmetric and asymmetric plateau potentials. We perform a detailed numerical analysis to study the formation of oscillons in the $α$-attractor E- and T-model potentials using the publicly available lattice simulation code ${\\cal C}$osmo${\\cal L}$attice. We observe the formation of nonlinear oscillon-like structures with the average equation of state $\\langle w_\\varphi\\rangle \\simeq 0$ for a range of values of the inflaton self-coupling $λ$ and the external coupling $g^2$. Our results demonstrate that oscillons form even in the presence of an external coupling and we determine the upper bound on $g^2$ which facilitates oscillon formation. We also find that eventually, these oscillons decay into the scalar inflaton radiation as well as into the quanta of the offspring field $χ$. Thus, we establish the possibility that reheating could have proceeded through the channel of oscillon decay, along with the usual decay of the oscillating inflaton condensate into $χ$ particles. For a given value of the self-coupling $λ$, we notice that the lifetime of a population of oscillons decreases with an increase in the strength of the external coupling, following an (approximately) inverse power-law dependence on $g^2$.",
-  "authors": [
-   "Mohammed Shafi",
-   "Edmund J. Copeland",
-   "Rafid Mahbub",
-   "Swagat S. Mishra",
-   "Soumen Basak"
-  ],
-  "categories": [
-   "hep-ph",
-   "astro-ph.CO",
-   "gr-qc",
-   "hep-th"
-  ],
-  "comment": "44 pages, 21 figures, Github link provided in the paper",
-  "first_author": "Mohammed Shafi",
-  "pdf_url": "http://arxiv.org/pdf/2406.00108",
-  "primary_category": "hep-ph",
-  "published": "2024-05-31",
-  "tags": [],
-  "title": "Formation and decay of oscillons after inflation in the presence of an external coupling, Part-I: Lattice simulations",
-  "topics": [
-   "via:author-whitelist:neural operators, PDE learning"
   ],
   "updated": "2024-05-31"
  },

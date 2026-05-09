@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1454,12 +1454,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03323.html">ClassiFIM: An Unsupervised Method To Detect Phase Transitions</a></div></td>
 <td>Victor Kasatkin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03323">2408.03323</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.04194.html">On interpretation of fluctuations of conserved charges at high T</a></div></td>
-<td>T. D. Cohen et al.</td>
-<td><a href="http://arxiv.org/abs/2401.04194">2401.04194</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-04</td>

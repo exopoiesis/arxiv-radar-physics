@@ -30,31 +30,6 @@
   ],
   "updated": "2025-02-04"
  },
- "2403.15007": {
-  "abstract": "The intrinsic Helmholtz free-energy functional, the centerpiece of classical density functional theory, is at best only known approximately for 3D systems. Here we introduce a method for learning a neuralnetwork approximation of this functional by exclusively training on a dataset of radial distribution functions, circumventing the need to sample costly heterogeneous density profiles in a wide variety of external potentials. For a supercritical Lennard-Jones system with planar symmetry, we demonstrate that the learned neural free-energy functional accurately predicts inhomogeneous density profiles under various complex external potentials obtained from simulations.",
-  "authors": [
-   "Jacobus Dijkman",
-   "Marjolein Dijkstra",
-   "René van Roij",
-   "Max Welling",
-   "Jan-Willem van de Meent",
-   "Bernd Ensing"
-  ],
-  "categories": [
-   "cond-mat.soft"
-  ],
-  "comment": "Published in Physical Review Letters",
-  "first_author": "Jacobus Dijkman",
-  "pdf_url": "http://arxiv.org/pdf/2403.15007",
-  "primary_category": "cond-mat.soft",
-  "published": "2024-03-22",
-  "tags": [],
-  "title": "Learning Neural Free-Energy Functionals with Pair-Correlation Matching",
-  "topics": [
-   "via:author-whitelist:equivariant ML, generative models"
-  ],
-  "updated": "2025-02-19"
- },
  "2405.01009": {
   "abstract": "A common problem in Message-Passing Neural Networks is oversquashing -- the limited ability to facilitate effective information flow between distant nodes. Oversquashing is attributed to the exponential decay in information transmission as node distances increase. This paper introduces a novel perspective to address oversquashing, leveraging dynamical systems properties of global and local non-dissipativity, that enable the maintenance of a constant information flow rate. We present SWAN, a uniquely parameterized GNN model with antisymmetry both in space and weight domains, as a means to obtain non-dissipativity. Our theoretical analysis asserts that by implementing these properties, SWAN offers an enhanced ability to transmit information over extended distances. Empirical evaluations on synthetic and real-world benchmarks that emphasize long-range interactions validate the theoretical understanding of SWAN, and its ability to mitigate oversquashing.",
   "authors": [
@@ -1731,30 +1706,6 @@
   ],
   "updated": "2025-02-19"
  },
- "2408.02740": {
-  "abstract": "Non-symmetric GHZ states ($n$-GHZ$_α$), defined by unequal superpositions of $|00...0>$ and $|11...1>$, naturally emerge in experiments due to decoherence, control errors, and state preparation imperfections. Despite their relevance in quantum communication, relativistic quantum information, and quantum teleportation, these states lack a stabilizer formalism and a graph representation, hindering their theoretical and experimental analysis. We establish a graph-theoretic framework for non-symmetric GHZ states, proving their local unitary (LU) equivalence to two structures: fully connected weighted hypergraphs with controlled-phase interactions and star-shaped controlled-unitary (CU) graphs. While weighted hypergraphs generally lack stabilizer descriptions, we demonstrate that non-symmetric GHZ states can be efficiently stabilized using local operations and a single ancilla, independent of system size. We extend this framework to qudit systems, constructing LU-equivalent weighted qudit hypergraphs and showing that general non-symmetric qudit GHZ states can be described as star-shaped CU graphs. Our results provide a systematic approach to characterizing and stabilizing non-symmetric multipartite entanglement in both qubit and qudit systems, with implications for quantum error correction and networked quantum protocols.",
-  "authors": [
-   "Hrachya Zakaryan",
-   "Konstantinos-Rafail Revis",
-   "Zahra Raissi"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "15 pages(Main Text + Supplementary Material), 4 figures. Comments and suggestions are very welcome!",
-  "first_author": "Hrachya Zakaryan",
-  "pdf_url": "http://arxiv.org/pdf/2408.02740",
-  "primary_category": "quant-ph",
-  "published": "2024-08-05",
-  "tags": [
-   "quantum-error-correction"
-  ],
-  "title": "Non-symmetric GHZ states: weighted hypergraph and controlled-unitary graph representations",
-  "topics": [
-   "via:author-whitelist:PINNs co-author"
-  ],
-  "updated": "2025-02-27"
- },
  "2408.03124": {
   "abstract": "The control problems of complex physical systems have broad applications in science and engineering. Previous studies have shown that generative control methods based on diffusion models offer significant advantages for solving these problems. However, existing generative control approaches face challenges in both performance and efficiency when extended to the closed-loop setting, which is essential for effective control. In this paper, we propose an efficient Closed-Loop Diffusion method for Physical systems Control (CL-DiffPhyCon). By employing an asynchronous denoising framework for different physical time steps, CL-DiffPhyCon generates control signals conditioned on real-time feedback from the system with significantly reduced computational cost during sampling. Additionally, the control process could be further accelerated by incorporating fast sampling techniques, such as DDIM. We evaluate CL-DiffPhyCon on two tasks: 1D Burgers' equation control and 2D incompressible fluid control. The results demonstrate that CL-DiffPhyCon achieves superior control performance with significant improvements in sampling efficiency. The code can be found at https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon.",
   "authors": [
@@ -1842,33 +1793,6 @@
    "Materials Science & Condensed Matter"
   ],
   "updated": "2025-02-04"
- },
- "2408.05486": {
-  "abstract": "Topological deep learning (TDL) is a rapidly growing field that seeks to leverage topological structure in data and facilitate learning from data supported on topological objects, ranging from molecules to 3D shapes. Most TDL architectures can be unified under the framework of higher-order message-passing (HOMP), which generalizes graph message-passing to higher-order domains. In the first part of the paper, we explore HOMP's expressive power from a topological perspective, demonstrating the framework's inability to capture fundamental topological and metric invariants such as diameter, orientability, planarity, and homology. In addition, we demonstrate HOMP's limitations in fully leveraging lifting and pooling methods on graphs. To the best of our knowledge, this is the first work to study the expressivity of TDL from a \\emph{topological} perspective. In the second part of the paper, we develop two new classes of architectures -- multi-cellular networks (MCN) and scalable MCN (SMCN) -- which draw inspiration from expressive GNNs. MCN can reach full expressivity, but scaling it to large data objects can be computationally expansive. Designed as a more scalable alternative, SMCN still mitigates many of HOMP's expressivity limitations. Finally, we create new benchmarks for evaluating models based on their ability to learn topological properties of complexes. We then evaluate SMCN on these benchmarks and on real-world graph datasets, demonstrating improvements over both HOMP baselines and expressive graph methods, highlighting the value of expressively leveraging topological information. Code and data are available at https://github.com/yoavgelberg/SMCN.",
-  "authors": [
-   "Yam Eitan",
-   "Yoav Gelberg",
-   "Guy Bar-Shalom",
-   "Fabrizio Frasca",
-   "Michael Bronstein",
-   "Haggai Maron"
-  ],
-  "categories": [
-   "cs.LG",
-   "math.AT",
-   "stat.ML"
-  ],
-  "comment": null,
-  "first_author": "Yam Eitan",
-  "pdf_url": "http://arxiv.org/pdf/2408.05486",
-  "primary_category": "cs.LG",
-  "published": "2024-08-10",
-  "tags": [],
-  "title": "Topological Blindspots: Understanding and Extending Topological Deep Learning Through the Lens of Expressivity",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
-  ],
-  "updated": "2025-02-12"
  },
  "2408.09004": {
   "abstract": "We study learning-theoretic foundations of operator learning, using the linear layer of the Fourier Neural Operator architecture as a model problem. First, we identify three main errors that occur during the learning process: statistical error due to finite sample size, truncation error from finite rank approximation of the operator, and discretization error from handling functional data on a finite grid of domain points. Finally, we analyze a Discrete Fourier Transform (DFT) based least squares estimator, establishing both upper and lower bounds on the aforementioned errors.",
@@ -2111,31 +2035,6 @@
    "Generative Models & Discovery"
   ],
   "updated": "2025-02-13"
- },
- "2409.01110": {
-  "abstract": "We explore the possibilities of modeling a spherically symmetric static spacetime that can emerge as the end state of gravitational collapse, by considering it to be seeded by a composite fluid made of matter and a scalar field. In this scenario, the matter represents dark matter, while the scalar field represents dark energy. On certain scales, dark energy is believed to significantly influence the structure formation of dark matter. Various models describe the possible impacts of dark energy on structure formation under different scenarios. By investigating an inhomogeneous scalar field representing dark energy, coupled with dark matter, we demonstrate that this two-component fluid can seed spacetimes forming the final equilibrium state. We derive solutions for the scalar field and potential for Joshi-Malafarina-Narayan (JMN) spacetimes.",
-  "authors": [
-   "Debanjan Debnath",
-   "Dipanjan Dey",
-   "Kaushik Bhattacharya"
-  ],
-  "categories": [
-   "gr-qc"
-  ],
-  "comment": "17 pages, 3 figures",
-  "first_author": "Debanjan Debnath",
-  "pdf_url": "http://arxiv.org/pdf/2409.01110",
-  "primary_category": "gr-qc",
-  "published": "2024-09-02",
-  "tags": [
-   "dark-energy",
-   "dark-matter"
-  ],
-  "title": "End equilibrium state of a spherical gravitational collapse in the presence of matter and scalar field",
-  "topics": [
-   "via:author-whitelist:neural operators, multi-scale"
-  ],
-  "updated": "2025-02-06"
  },
  "2409.01215": {
   "abstract": "Assessing the safety and environmental impacts of subsurface resource exploitation and management is critical and requires robust geomechanical modeling. However, uncertainties stemming from model assumptions, intrinsic variability of governing parameters, and data errors challenge the reliability of predictions. In the absence of direct measurements, inverse modeling and stochastic data assimilation methods can offer reliable solutions, but in complex and large-scale settings, the computational expense can become prohibitive.   To address these challenges, this paper presents a deep learning-based surrogate model (SurMoDeL) designed for seismic data assimilation in fault activation modeling. The surrogate model leverages neural networks to provide simplified yet accurate representations of complex geophysical systems, enabling faster simulations and analyses essential for uncertainty quantification. The work proposes two different methods to integrate an understanding of fault behavior into the model, thereby enhancing the accuracy of its predictions. The application of the proxy model to integrate seismic data through effective data assimilation techniques efficiently constrains the uncertain parameters, thus bridging the gap between theoretical models and real-world observations.",
@@ -2585,41 +2484,6 @@
   ],
   "updated": "2025-02-26"
  },
- "2409.18359": {
-  "abstract": "We present a generative AI algorithm for addressing the pressing task of fast, accurate, and robust statistical computation of three-dimensional turbulent fluid flows. Our algorithm, termed as GenCFD, is based on an end-to-end conditional score-based diffusion model. Through extensive numerical experimentation with a set of challenging fluid flows, we demonstrate that GenCFD provides an accurate approximation of relevant statistical quantities of interest while also efficiently generating high-quality realistic samples of turbulent fluid flows and ensuring excellent spectral resolution. In contrast, ensembles of deterministic ML algorithms, trained to minimize mean square errors, regress to the mean flow. We present rigorous theoretical results uncovering the surprising mechanisms through which diffusion models accurately generate fluid flows. These mechanisms are illustrated with solvable toy models that exhibit the mathematically relevant features of turbulent fluid flows while being amenable to explicit analytical formulae. Our codes are publicly available at https://github.com/camlab-ethz/GenCFD.",
-  "authors": [
-   "Roberto Molinaro",
-   "Samuel Lanthaler",
-   "Bogdan Raonić",
-   "Tobias Rohner",
-   "Victor Armegioiu",
-   "Stephan Simonis",
-   "Dana Grund",
-   "Yannick Ramic",
-   "Zhong Yi Wan",
-   "Fei Sha",
-   "Siddhartha Mishra",
-   "Leonardo Zepeda-Núñez"
-  ],
-  "categories": [
-   "cs.LG",
-   "math.NA",
-   "physics.flu-dyn"
-  ],
-  "comment": "120 pages, 33 figures",
-  "first_author": "Roberto Molinaro",
-  "pdf_url": "http://arxiv.org/pdf/2409.18359",
-  "primary_category": "cs.LG",
-  "published": "2024-09-27",
-  "tags": [
-   "diffusion-models"
-  ],
-  "title": "Generative AI for fast and accurate statistical computation of fluids",
-  "topics": [
-   "via:author-whitelist:neural operators, PDE learning"
-  ],
-  "updated": "2025-02-03"
- },
  "2409.18768": {
   "abstract": "Learning from Demonstration (LfD) is a useful paradigm for training policies that solve tasks involving complex motions, such as those encountered in robotic manipulation. In practice, the successful application of LfD requires overcoming error accumulation during policy execution, i.e. the problem of drift due to errors compounding over time and the consequent out-of-distribution behaviours. Existing works seek to address this problem through scaling data collection, correcting policy errors with a human-in-the-loop, temporally ensembling policy predictions or through learning a dynamical system model with convergence guarantees. In this work, we propose and validate an alternative approach to overcoming this issue. Inspired by reservoir computing, we develop a recurrent neural network layer that includes a fixed nonlinear dynamical system with tunable dynamical properties for modelling temporal dynamics. We validate the efficacy of our neural network layer on the task of reproducing human handwriting motions using the LASA Human Handwriting Dataset. Through empirical experiments we demonstrate that incorporating our layer into existing neural network architectures addresses the issue of compounding errors in LfD. Furthermore, we perform a comparative evaluation against existing approaches including a temporal ensemble of policy predictions and an Echo State Network (ESN) implementation. We find that our approach yields greater policy precision and robustness on the handwriting task while also generalising to multiple dynamics regimes and maintaining competitive latency scores.",
   "authors": [
@@ -2948,33 +2812,6 @@
    "Quantum Physics & Information"
   ],
   "updated": "2025-02-27"
- },
- "2410.02089": {
-  "abstract": "Large language models (LLMs) deployed as agents solve user-specified tasks over multiple steps while keeping the required manual engagement to a minimum. Crucially, such LLMs need to ground their generations in any feedback obtained to reliably achieve the desired outcomes. We propose an end-to-end reinforcement learning method for teaching models to leverage execution feedback in the realm of code synthesis, where state-of-the-art LLMs struggle to improve code iteratively compared to independent sampling. We benchmark on competitive programming tasks, where we achieve new state-of-the art results with both small (8B parameters) and large (70B) models while reducing the amount of samples required by an order of magnitude. Our analysis of inference-time behavior demonstrates that our method produces LLMs that effectively leverage automatic feedback over multiple steps.",
-  "authors": [
-   "Jonas Gehring",
-   "Kunhao Zheng",
-   "Jade Copet",
-   "Vegard Mella",
-   "Quentin Carbonneaux",
-   "Taco Cohen",
-   "Gabriel Synnaeve"
-  ],
-  "categories": [
-   "cs.CL",
-   "cs.AI"
-  ],
-  "comment": "Add repair model ablation, update related work",
-  "first_author": "Jonas Gehring",
-  "pdf_url": "http://arxiv.org/pdf/2410.02089",
-  "primary_category": "cs.CL",
-  "published": "2024-10-02",
-  "tags": [],
-  "title": "RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning",
-  "topics": [
-   "via:author-whitelist:equivariant neural networks"
-  ],
-  "updated": "2025-02-18"
  },
  "2410.02206": {
   "abstract": "This article studies the dynamics of the mean-field approximation of continuous random networks. These networks are stochastic integrodifferential equations driven by Gaussian noise. The kernels in the integral operators are realizations of generalized Gaussian random variables. The equation controls the time evolution of a macroscopic state interpreted as neural activity, which depends on position and time. The position is an element of a measurable space. Such a network corresponds to a statistical field theory (STF) given by a momenta-generating functional. Discrete versions of the mentioned networks appeared in spin glasses and as models of artificial neural networks (NNs). Each of these discrete networks corresponds to a lattice SFT, where the action contains a finite number of neurons and two scalar fields for each neuron. In this article, we develop mathematically rigorous, continuous versions of the mean-field theory approximation and the double-copy system that allow us to derive a condition for the criticality of continuous stochastic networks via the largest Lyapunov exponent. We use two basic architectures; in the first one, the space of neurons is the real line, and then the neurons are organized in one layer; in the second one, the space of neurons is the p-adic line, and then the neurons are organized in an infinite, fractal, tree-like structure. We also studied a toy model of a continuous Gaussian network with a continuous phase transition. This behavior matches the critical brain hypothesis, which states that certain biological neuronal networks work near phase transitions.",
@@ -3579,30 +3416,6 @@
   ],
   "updated": "2025-02-17"
  },
- "2410.18676": {
-  "abstract": "Graph Transformers are popular neural networks that extend the well-known Transformer architecture to the graph domain. These architectures operate by applying self-attention on graph nodes and incorporating graph structure through the use of positional encodings (e.g., Laplacian positional encoding) or structural encodings (e.g., random-walk structural encoding). The quality of such encodings is critical, since they provide the necessary $\\textit{graph inductive biases}$ to condition the model on graph structure. In this work, we propose $\\textit{motif structural encoding}$ (MoSE) as a flexible and powerful structural encoding framework based on counting graph homomorphisms. Theoretically, we compare the expressive power of MoSE to random-walk structural encoding and relate both encodings to the expressive power of standard message passing neural networks. Empirically, we observe that MoSE outperforms other well-known positional and structural encodings across a range of architectures, and it achieves state-of-the-art performance on a widely studied molecular property prediction dataset.",
-  "authors": [
-   "Linus Bao",
-   "Emily Jin",
-   "Michael Bronstein",
-   "İsmail İlkan Ceylan",
-   "Matthias Lanzinger"
-  ],
-  "categories": [
-   "cs.LG"
-  ],
-  "comment": "Proceedings of the Thirteenth International Conference on Learning Representations (ICLR 202R). Code available at: https://github.com/linusbao/MoSE",
-  "first_author": "Linus Bao",
-  "pdf_url": "http://arxiv.org/pdf/2410.18676",
-  "primary_category": "cs.LG",
-  "published": "2024-10-24",
-  "tags": [],
-  "title": "Homomorphism Counts as Structural Encodings for Graph Learning",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
-  ],
-  "updated": "2025-02-02"
- },
  "2410.18868": {
   "abstract": "By incorporating physical consistency as inductive bias, deep neural networks display increased generalization capabilities and data efficiency in learning nonlinear dynamic models. However, the complexity of these models generally increases with the system dimensionality, requiring larger datasets, more complex deep networks, and significant computational effort. We propose a novel geometric network architecture to learn physically-consistent reduced-order dynamic parameters that accurately describe the original high-dimensional system behavior. This is achieved by building on recent advances in model-order reduction and by adopting a Riemannian perspective to jointly learn a non-linear structure-preserving latent space and the associated low-dimensional dynamics. Our approach enables accurate long-term predictions of the high-dimensional dynamics of rigid and deformable systems with increased data efficiency by inferring interpretable and physically-plausible reduced Lagrangian models.",
   "authors": [
@@ -4013,106 +3826,6 @@
    "Fluid Dynamics & Plasma Physics"
   ],
   "updated": "2025-02-05"
- },
- "2411.12922": {
-  "abstract": "The Radio Neutrino Observatory in Greenland (RNO-G) is the first in-ice radio array in the northern hemisphere for the detection of ultra-high energy neutrinos via the coherent radio emission from neutrino-induced particle cascades within the ice. The array is currently in phased construction near Summit Station on the Greenland ice sheet, with 7~stations deployed during the first two boreal summer field seasons of 2021 and 2022. In this paper, we describe the installation and system design of these initial RNO-G stations, and discuss the performance of the array as of summer 2024.",
-  "authors": [
-   "S. Agarwal",
-   "J. A. Aguilar",
-   "N. Alden",
-   "S. Ali",
-   "P. Allison",
-   "M. Betts",
-   "D. Besson",
-   "A. Bishop",
-   "O. Botner",
-   "S. Bouma",
-   "S. Buitink",
-   "R. Camphyn",
-   "M. Cataldo",
-   "S. Chiche",
-   "B. A. Clark",
-   "A. Coleman",
-   "K. Couberly",
-   "S. de Kockere",
-   "K. D. de Vries",
-   "C. Deaconu",
-   "C. Glaser",
-   "T. Glüsenkamp",
-   "A. Hallgren",
-   "S. Hallmann",
-   "J. C. Hanson",
-   "B. Hendricks",
-   "J. Henrichs",
-   "N. Heyer",
-   "C. Hornhuber",
-   "K. Hughes",
-   "T. Karg",
-   "A. Karle",
-   "J. L. Kelley",
-   "C. Kerr",
-   "C. Klein",
-   "M. Korntheuer",
-   "M. Kowalski",
-   "I. Kravchenko",
-   "R. Krebs",
-   "R. Lahmann",
-   "U. Latif",
-   "P. Laub",
-   "C. -H. Liu",
-   "M. J. Marsee",
-   "Z. S. Meyers",
-   "M. Mikhailova",
-   "K. Mulrey",
-   "M. Muzio",
-   "A. Nelles",
-   "A. Novikov",
-   "A. Nozdrina",
-   "E. Oberla",
-   "B. Oeyen",
-   "S. Polfrey",
-   "N. Punsuebsay",
-   "L. Pyras",
-   "M. Ravn",
-   "M. Reichert",
-   "J. Rix",
-   "D. Ryckbosch",
-   "F. Schlüter",
-   "O. Scholten",
-   "D. Seckel",
-   "M. F. H. Seikh",
-   "D. Smith",
-   "J. Stoffels",
-   "K. Terveer",
-   "S. Toscano",
-   "D. Tosi",
-   "J. Tutt",
-   "D. J. Van Den Broeck",
-   "N. van Eijndhoven",
-   "A. G. Vieregg",
-   "A. Vijai",
-   "C. Welling",
-   "D. R. Williams",
-   "P. Windischhofer",
-   "J. Veale",
-   "S. Wissel",
-   "R. Young",
-   "A. Zink"
-  ],
-  "categories": [
-   "astro-ph.IM"
-  ],
-  "comment": null,
-  "first_author": "S. Agarwal",
-  "pdf_url": "http://arxiv.org/pdf/2411.12922",
-  "primary_category": "astro-ph.IM",
-  "published": "2024-11-19",
-  "tags": [],
-  "title": "Instrument design and performance of the first seven stations of RNO-G",
-  "topics": [
-   "via:author-whitelist:equivariant ML, generative models"
-  ],
-  "updated": "2025-02-11"
  },
  "2411.15178": {
   "abstract": "Partial Differential Equations (PDEs) underpin many scientific phenomena, yet traditional computational approaches often struggle with complex, nonlinear systems and irregular geometries. This paper introduces the AMG method, a Multi-Graph neural operator approach designed for efficiently solving PDEs on Arbitrary geometries. AMG leverages advanced graph-based techniques and dynamic attention mechanisms within a novel GraphFormer architecture, enabling precise management of diverse spatial domains and complex data interdependencies. By constructing multi-scale graphs to handle variable feature frequencies and a physics graph to encapsulate inherent physical properties, AMG significantly outperforms previous methods, which are typically limited to uniform grids. We present a comprehensive evaluation of AMG across six benchmarks, demonstrating its consistent superiority over existing state-of-the-art models. Our findings highlight the transformative potential of tailored graph neural operators in surmounting the challenges faced by conventional PDE solvers. Our code and datasets are available on https://github.com/lizhihao2022/AMG.",
@@ -9013,35 +8726,6 @@
   ],
   "updated": "2025-02-12"
  },
- "2502.08517": {
-  "abstract": "We assess the local symmetry and crystal environment of trivalent terbium ions embedded in an indium tin oxide (ITO) matrix with bixbyite structure. The \\mbox{Tb$^{3+}$} ions tend to substitute \\mbox{In$^{3+}$} ions in two different cationic sites ($b$ and $d$). Density Functional Theory (DFT) calculations suggest that the \\mbox{Tb$^{3+}$} ions are mainly located at $C_2$ symmetry sites relaxing selection rules and enabling electric dipole transitions, with the $^5\\text{D}_4\\rightarrow\\leftindex^7{\\text{F}}_2$ transition being the most intense, providing a red color to the light emission. Photoluminescence emission spectra under UV excitation at \\qty{83}{\\kelvin} revealed 30 intra-4$f$ transitions, which were assigned to the $\\leftindex^7{\\text{F}}_J$ ground multiplet of the \\mbox{Tb$^{3+}$} ion. Crystal-field analysis shows a strong alignment between calculated and observed energy levels, yielding a standard deviation of $σ=\\qty{15.1}{\\centi\\per\\metre}$. We believe these results can help to understand the activation mechanisms of \\mbox{Tb$^{3+}$} luminescent centers in transparent conductive oxides, as well as the potential to modulate \\mbox{Tb$^{3+}$} emission color through its crystalline environment.",
-  "authors": [
-   "E. Serquen",
-   "K. Lizárraga",
-   "L. A. Enrique",
-   "F. Bravo",
-   "S. Mishra",
-   "P. LLontop",
-   "P. Venezuela",
-   "L. R. Tessler",
-   "J. A. Guerra"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "physics.app-ph"
-  ],
-  "comment": "8 pages, 4figures",
-  "first_author": "E. Serquen",
-  "pdf_url": "http://arxiv.org/pdf/2502.08517",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2025-02-12",
-  "tags": [],
-  "title": "On the crystalline environment of luminescent Tb$^{3+}$ ions embedded in indium tin oxide thin films: a DFT and Crystal field analysis assessment",
-  "topics": [
-   "via:author-whitelist:neural operators, PDE learning"
-  ],
-  "updated": "2025-02-12"
- },
  "2502.08555": {
   "abstract": "Space weather forecasting is critical for mitigating radiation risks in space exploration and protecting Earth-based technologies from geomagnetic disturbances. This paper presents the development of a Machine Learning (ML)- ready data processing tool for Near Real-Time (NRT) space weather forecasting. By merging data from diverse NRT sources such as solar imagery, magnetic field measurements, and energetic particle fluxes, the tool addresses key gaps in current space weather prediction capabilities. The tool processes and structures the data for machine learning models, focusing on time-series forecasting and event detection for extreme solar events. It provides users with a framework to download, process, and label data for ML applications, streamlining the workflow for improved NRT space weather forecasting and scientific research.",
   "authors": [
@@ -10853,30 +10537,6 @@
   ],
   "updated": "2025-02-14"
  },
- "2502.12185": {
-  "abstract": "Conventional predictive modeling of parametric relationships in manufacturing processes is limited by the subjectivity of human expertise and intuition on the one hand and by the cost and time of experimental data generation on the other hand. This work addresses this issue by establishing a new Large Language Model (LLM) framework. The novelty lies in combining automatic extraction of process-relevant knowledge embedded in the literature with iterative model refinement based on a small amount of experimental data. This approach is evaluated on three distinct manufacturing processes that are based on machining, deformation, and additive principles. The results show that for the same small experimental data budget the models derived by our framework have unexpectedly high extrapolative performance, often surpassing the capabilities of conventional Machine Learning. Further, our approach eliminates manual generation of initial models or expertise-dependent interpretation of the literature. The results also reveal the importance of the nature of the knowledge extracted from the literature and the significance of both the knowledge extraction and model refinement components.",
-  "authors": [
-   "Kiarash Naghavi Khanghah",
-   "Anandkumar Patel",
-   "Rajiv Malhotra",
-   "Hongyi Xu"
-  ],
-  "categories": [
-   "cs.CL",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Kiarash Naghavi Khanghah",
-  "pdf_url": "http://arxiv.org/pdf/2502.12185",
-  "primary_category": "cs.CL",
-  "published": "2025-02-15",
-  "tags": [],
-  "title": "Large Language Models for Extrapolative Modeling of Manufacturing Processes",
-  "topics": [
-   "via:author-whitelist:Fourier neural operators"
-  ],
-  "updated": "2025-02-15"
- },
  "2502.12302": {
   "abstract": "Modern machine learning approaches often prioritize performance at the cost of increased complexity, computational demands, and reduced interpretability. This paper introduces a novel framework that challenges this trend by reinterpreting learning from an information-theoretic perspective, viewing it as a search for encoding schemes that capture intrinsic data structures through compact representations. Rather than following the conventional approach of fitting data to complex models, we propose a fundamentally different method that maps data to intervals of initial conditions in a dynamical system. Our GLS (Generalized Lüroth Series) coding compression classifier employs skew tent maps - a class of chaotic maps - both for encoding data into initial conditions and for subsequent recovery. The effectiveness of this simple framework is noteworthy, with performance closely approaching that of well-established machine learning methods. On the breast cancer dataset, our approach achieves 92.98\\% accuracy, comparable to Naive Bayes at 94.74\\%. While these results do not exceed state-of-the-art performance, the significance of our contribution lies not in outperforming existing methods but in demonstrating that a fundamentally simpler, more interpretable approach can achieve competitive results.",
   "authors": [
@@ -11006,36 +10666,6 @@
   "title": "Improving the Stability of GNN Force Field Models by Reducing Feature Correlation",
   "topics": [
    "Materials Science & Condensed Matter"
-  ],
-  "updated": "2025-02-18"
- },
- "2502.12574": {
-  "abstract": "Transformer-based large language models (LLMs) demonstrate impressive performance in long context generation. Extending the context length has disproportionately shifted the memory footprint of LLMs during inference to the key-value cache (KV cache). In this paper, we propose HEADINFER, which offloads the KV cache to CPU RAM while avoiding the need to fully store the KV cache for any transformer layer on the GPU. HEADINFER employs a fine-grained, head-wise offloading strategy, maintaining only selective attention heads KV cache on the GPU while computing attention output dynamically. Through roofline analysis, we demonstrate that HEADINFER maintains computational efficiency while significantly reducing memory footprint. We evaluate HEADINFER on the Llama-3-8B model with a 1-million-token sequence, reducing the GPU memory footprint of the KV cache from 128 GB to 1 GB and the total GPU memory usage from 207 GB to 17 GB, achieving a 92% reduction compared to BF16 baseline inference. Notably, HEADINFER enables 4-million-token inference with an 8B model on a single consumer GPU with 24GB memory (e.g., NVIDIA RTX 4090) without approximation methods.",
-  "authors": [
-   "Cheng Luo",
-   "Zefan Cai",
-   "Hanshi Sun",
-   "Jinqi Xiao",
-   "Bo Yuan",
-   "Wen Xiao",
-   "Junjie Hu",
-   "Jiawei Zhao",
-   "Beidi Chen",
-   "Anima Anandkumar"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Cheng Luo",
-  "pdf_url": "http://arxiv.org/pdf/2502.12574",
-  "primary_category": "cs.LG",
-  "published": "2025-02-18",
-  "tags": [],
-  "title": "HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading",
-  "topics": [
-   "via:author-whitelist:Fourier neural operators"
   ],
   "updated": "2025-02-18"
  },
@@ -11928,39 +11558,6 @@
   "title": "madupite: A High-Performance Distributed Solver for Large-Scale Markov Decision Processes",
   "topics": [
    "Dynamical Systems & PDE Learning"
-  ],
-  "updated": "2025-02-20"
- },
- "2502.14546": {
-  "abstract": "While machine learning on graphs has demonstrated promise in drug design and molecular property prediction, significant benchmarking challenges hinder its further progress and relevance. Current benchmarking practices often lack focus on transformative, real-world applications, favoring narrow domains like two-dimensional molecular graphs over broader, impactful areas such as combinatorial optimization, relational databases, or chip design. Additionally, many benchmark datasets poorly represent the underlying data, leading to inadequate abstractions and misaligned use cases. Fragmented evaluations and an excessive focus on accuracy further exacerbate these issues, incentivizing overfitting rather than fostering generalizable insights. These limitations have prevented the development of truly useful graph foundation models. This position paper calls for a paradigm shift toward more meaningful benchmarks, rigorous evaluation protocols, and stronger collaboration with domain experts to drive impactful and reliable advances in graph learning research, unlocking the potential of graph learning.",
-  "authors": [
-   "Maya Bechler-Speicher",
-   "Ben Finkelshtein",
-   "Fabrizio Frasca",
-   "Luis Müller",
-   "Jan Tönshoff",
-   "Antoine Siraudin",
-   "Viktor Zaverkin",
-   "Michael M. Bronstein",
-   "Mathias Niepert",
-   "Bryan Perozzi",
-   "Mikhail Galkin",
-   "Christopher Morris"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI",
-   "cs.NE"
-  ],
-  "comment": null,
-  "first_author": "Maya Bechler-Speicher",
-  "pdf_url": "http://arxiv.org/pdf/2502.14546",
-  "primary_category": "cs.LG",
-  "published": "2025-02-20",
-  "tags": [],
-  "title": "Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks",
-  "topics": [
-   "via:author-whitelist:geometric deep learning"
   ],
   "updated": "2025-02-20"
  },

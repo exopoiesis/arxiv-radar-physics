@@ -5,9 +5,9 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-05-08._
+_Updated 2026-05-09._
 
-**18151** physics-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**17743** physics-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,12 +19,6 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05586.html">AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Francisco Giral et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05586">2605.05586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05971.html">Training Transformers for KV Cache Compressibility</a></div></td>
-<td>Yoav Gelberg et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05971">2605.05971</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -193,5 +187,11 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2601.10791.html">OmniMol: Transferring Particle Physics Knowledge to Molecular Dynamics with Point-Edge Transformers</a></div><div class="paper-tags"><a href="tag/hep-30d.html">hep</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
 <td>Ibrahim Elsharkawy et al.</td>
 <td><a href="http://arxiv.org/abs/2601.10791">2601.10791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2601.23286.html">VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Hongyang Du et al.</td>
+<td><a href="http://arxiv.org/abs/2601.23286">2601.23286</a></td>
 </tr>
 </tbody></table>

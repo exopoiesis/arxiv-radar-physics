@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-error-correction — all</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -352,12 +352,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.11523">2407.11523</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05478.html">Orbit classification and analysis of qutrit graph states under local complementation and local scaling</a></div></td>
-<td>Konstantinos-Rafail Revis et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05478">2506.05478</a></td>
-</tr>
-<tr class="paper">
 <td>2025-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08626.html">Tensor networks for quantum computing</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
 <td>Aleksandr Berezutskii et al.</td>
@@ -395,21 +389,9 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09515.html">$χ$-Colorable Graph States: Closed-Form Expressions and Quantum Orthogonal Arrays</a></div></td>
-<td>Konstantinos-Rafail Revis et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09515">2408.09515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03544.html">KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA</a></div></td>
 <td>Xiaorang Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03544">2503.03544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02740.html">Non-symmetric GHZ states: weighted hypergraph and controlled-unitary graph representations</a></div></td>
-<td>Hrachya Zakaryan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02740">2408.02740</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-27</td>

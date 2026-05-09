@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,17 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Elham Kiyani et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13478.html">Solving continuum and rarefied flows using differentiable programming</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Tianbai Xiao</td>
-<td><a href="http://arxiv.org/abs/2501.13478">2501.13478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01829.html">RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data</a></div></td>
-<td>Peiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01829">2601.01829</a></td>
 </tr>
 </tbody></table>

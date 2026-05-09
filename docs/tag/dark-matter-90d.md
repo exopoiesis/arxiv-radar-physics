@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -148,12 +148,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2604.02300">2604.02300</a></td>
 </tr>
 <tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21304.html">Euclid Quick Data Release (Q1). The first Euclid view of Planck galaxy protocluster candidates at cosmic noon</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21304">2503.21304</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04435.html">The AGORA High-resolution Galaxy Simulations Comparison Project. X: Formation and Evolution of Galaxies at the High-redshift Frontier</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
 <td>Hyeonyong Kim et al.</td>
@@ -230,12 +224,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01622.html">Analytical Emulator for the Baryon Density Distribution inside the Fuzzy Dark Matter Soliton from Machine Learning</a></div></td>
 <td>Ke Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01622">2512.01622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10735.html">Euclid: The linear-construction covariance and cosmology</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>V. Lindholm et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10735">2603.10735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-10</td>

@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
+<td>Anh Vu Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05590">2605.05590</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Chia-Hsiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04565.html">Delay-Aware Large-Small Model Collaboration over LEO Satellite Networks</a></div></td>
+<td>Mingyu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04565">2605.04565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04206.html">Climate-based Pre-screening of Self-sustaining Regreening Opportunities in Drylands: A Case Study for Saudi Arabia</a></div></td>
+<td>Katja Froehlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04206">2605.04206</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23566.html">Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Luigi Sigillo et al.</td>
@@ -38,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02283.html">Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM</a></div></td>
 <td>Hyobin Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02283">2605.02283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
+<td>Ryan Faulkenberry et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-02</td>

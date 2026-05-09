@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06591.html">BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation</a></div></td>
+<td>Richard Hildebrandt et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06591">2605.06591</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02491.html">From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
 <td>Altan Cakir et al.</td>

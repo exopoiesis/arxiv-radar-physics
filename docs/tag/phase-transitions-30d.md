@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
+<td>Olaf Hohm</td>
+<td><a href="http://arxiv.org/abs/2605.06394">2605.06394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29184.html">Cell-induced densification and tether formation in fibrous extracellular matrices with biomimetic physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Anci Lin et al.</td>

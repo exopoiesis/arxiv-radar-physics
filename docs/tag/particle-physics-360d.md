@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10697.html">Detector Designs for Frontier Measurements in Neutrino and Collider Physics in the 21st Century</a></div></td>
 <td>Wonyong Chung</td>
 <td><a href="http://arxiv.org/abs/2505.10697">2505.10697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13596.html">End-to-End Multi-Track Reconstruction using Graph Neural Networks at Belle II</a></div><div class="paper-tags"><a href="detector-simulation-360d.html">detector-simulation</a></div></td>
-<td>Lea Reuter et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13596">2411.13596</a></td>
 </tr>
 </tbody></table>

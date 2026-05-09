@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,17 +446,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07685.html">Tensor-based computation of the Koopman generator via operator logarithm</a></div></td>
 <td>Tatsuya Kishimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07685">2604.07685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06881.html">MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06881">2604.06881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07069.html">Controller Design for Structured State-space Models via Contraction Theory</a></div></td>
-<td>Muhammad Zakwan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07069">2604.07069</a></td>
 </tr>
 </tbody></table>

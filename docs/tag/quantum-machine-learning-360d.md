@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,23 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09395.html">Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a> · <a href="qml-360d.html">qml</a></div></td>
 <td>Chen-Yu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09395">2505.09395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08474.html">Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing</a></div></td>
-<td>Kuan-Cheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08474">2505.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08759.html">Regularizing quantum loss landscapes by noise injection</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Daniil S. Bagaev et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08759">2505.08759</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09653.html">Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
-<td>Samuel Yen-Chi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09653">2505.09653</a></td>
 </tr>
 </tbody></table>

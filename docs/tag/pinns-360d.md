@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">614 papers</span>
+  <span class="paper-count">613 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3692,11 +3692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10925.html">Enforced Interface Constraints for Domain Decomposition Method of Discrete Physics-Informed Neural Networks</a></div></td>
 <td>Jichao Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10925">2505.10925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02177.html">Physics-informed neural networks viewpoint for solving the Dyson-Schwinger equations of quantum electrodynamics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Rodrigo Carmo Terin</td>
-<td><a href="http://arxiv.org/abs/2411.02177">2411.02177</a></td>
 </tr>
 </tbody></table>

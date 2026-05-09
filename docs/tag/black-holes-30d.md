@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>black-holes — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <strong>30d</strong> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08671.html">Analog regular black holes and black hole mimickers for surface-gravity waves in fluids</a></div></td>
 <td>Valentin Pomakov et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08671">2604.08671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07388.html">GW190711_030756 and GW200114_020818: astrophysical interpretation of two asymmetric binary black hole mergers in the IAS catalog</a></div></td>
-<td>Tousif Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07388">2604.07388</a></td>
 </tr>
 </tbody></table>

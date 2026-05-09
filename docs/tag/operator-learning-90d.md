@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,17 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Elham Kiyani et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15106.html">Solving Optimal Execution Problems via In-Context Operator Networks</a></div></td>
-<td>Tingwei Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15106">2501.15106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07687.html">Low-Rank Koopman Deformables with Log-Linear Time Integration</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Yue Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07687">2602.07687</a></td>
 </tr>
 </tbody></table>

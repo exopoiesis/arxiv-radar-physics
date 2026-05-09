@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,11 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11682.html">Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Ananyae Kumar Bhartari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11682">2505.11682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14479.html">La Méthode du Gradient Proximé</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Patrick L. Combettes</td>
-<td><a href="http://arxiv.org/abs/2503.14479">2503.14479</a></td>
 </tr>
 </tbody></table>

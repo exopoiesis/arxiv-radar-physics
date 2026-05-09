@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17704.html">Ferrofluid bend channel flows for multi-parameter tunable heat transfer enhancement Part 2 Deep Learning and Neural Network Modeling</a></div></td>
 <td>Nadish Anand et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17704">2602.17704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02019.html">ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Structured Knowledge and Reasoning</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
-<td>E Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02019">2506.02019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17657.html">PDE-Free Mass-Constrained Learning of Complex Systems with Hidden States</a></div></td>
-<td>Gianmaria Viola et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17657">2510.17657</a></td>
 </tr>
 </tbody></table>

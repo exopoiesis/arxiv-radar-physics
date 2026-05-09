@@ -1,4 +1,4 @@
-## Updated on 2026.05.08
+## Updated on 2026.05.09
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
@@ -74,7 +74,7 @@
 |**2026-04-28**|**C-PINN: A neural network framework based on the Cordès condition for solving linear and fully nonlinear equations in non-divergence form and its applications**|Bingcheng Hu et al.|[2604.25606](http://arxiv.org/abs/2604.25606)|[md](abstracts/2604.25606.md)|
 |**2026-04-28**|**Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching**|Yuhe Bai et al.|[2604.25655](http://arxiv.org/abs/2604.25655)|[md](abstracts/2604.25655.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Dynamical Systems & PDE Learning
 
@@ -131,7 +131,7 @@
 |**2026-04-30**|**Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications**|Ricardo Luna Gutierrez et al.|[2605.00068](http://arxiv.org/abs/2605.00068)|[md](abstracts/2605.00068.md)|
 |**2026-04-29**|**L2RU: a Structured State Space Model with prescribed L2-bound**|Leonardo Massai et al.|[2503.23818](http://arxiv.org/abs/2503.23818)|[md](abstracts/2503.23818.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Quantum Physics & Information
 
@@ -188,7 +188,7 @@
 |**2026-04-24**|**On the Complementarity of Quantum and Classical Features: Adaptive Hybrid Quantum-Classical Feature Fusion for Breast Cancer Classification**|Yasmin Rodrigues Sobrinho et al.|[2604.22903](http://arxiv.org/abs/2604.22903)|[md](abstracts/2604.22903.md)|
 |**2026-04-24**|**Realizing multi-orbital Emery models with ultracold atoms**|Conall McCabe et al.|[2604.22955](http://arxiv.org/abs/2604.22955)|[md](abstracts/2604.22955.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Materials Science & Condensed Matter
 
@@ -245,7 +245,7 @@
 |**2026-04-24**|**Large language model-enabled automated data extraction for concrete materials informatics**|Zhanzhao Li et al.|[2604.22938](http://arxiv.org/abs/2604.22938)|[md](abstracts/2604.22938.md)|
 |**2026-04-23**|**Accurate predictive model of band gap with selected important features based on explainable machine learning**|Joohwi Lee et al.|[2503.04492](http://arxiv.org/abs/2503.04492)|[md](abstracts/2503.04492.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Fluid Dynamics & Plasma Physics
 
@@ -302,7 +302,7 @@
 |**2026-04-15**|**Programmable and GPU-Accelerated Edge Inference for Real-Time ISAC on NVIDIA Aerial Testbed**|Davide Villa et al.|[2512.06493](http://arxiv.org/abs/2512.06493)|[md](abstracts/2512.06493.md)|
 |**2026-04-15**|**Mitigating Barren Plateaus in Quantum Denoising Diffusion Probabilistic Model**|Haipeng Cao et al.|[2512.06695](http://arxiv.org/abs/2512.06695)|[md](abstracts/2512.06695.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Particle & High Energy Physics
 
@@ -359,7 +359,7 @@
 |**2026-04-24**|**Four-dimensional QCD equation of state from a quasi-parton model with physics-informed neural networks**|Fu-Peng Li et al.|[2604.22352](http://arxiv.org/abs/2604.22352)|[md](abstracts/2604.22352.md)|
 |**2026-04-24**|**Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective**|Andrea Addazi et al.|[2604.22462](http://arxiv.org/abs/2604.22462)|[md](abstracts/2604.22462.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Astrophysics & Cosmology
 
@@ -416,7 +416,7 @@
 |**2026-04-27**|**Machine learning technique for morphological classification of galaxies from SDSS. IV. Visual inspection vs CNN for merging, irregular, edge-on, barred, ringed, and with dust lanes galaxies at 0.02<z<0.1**|Dobrycheva D. V. et al.|[2604.24471](http://arxiv.org/abs/2604.24471)|[md](abstracts/2604.24471.md)|
 |**2026-04-27**|**Tests of scalar polarizations with multi-messenger events**|Sk Md Adil Imam et al.|[2604.24526](http://arxiv.org/abs/2604.24526)|[md](abstracts/2604.24526.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Climate, Weather & Geophysics
 
@@ -473,7 +473,7 @@
 |**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et al.|[2604.27889](http://arxiv.org/abs/2604.27889)|[md](abstracts/2604.27889.md)|
 |**2026-04-30**|**Calibrating Attribution Proxies for Reward Allocation in Participatory Weather Sensing**|Mark C. Ballandies et al.|[2604.27944](http://arxiv.org/abs/2604.27944)|[md](abstracts/2604.27944.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Generative Models & Discovery
 
@@ -530,4 +530,4 @@
 |**2026-05-02**|**Alikhanov-XfPINNs: Adaptive Physics-Informed Learning for Nonlinear Fractional PDEs on Nonuniform Meshes**|Himanshu Kumar Dwivedi et al.|[2605.01305](http://arxiv.org/abs/2605.01305)|[md](abstracts/2605.01305.md)|
 |**2026-05-02**|**From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data**|King Yiu Yu et al.|[2605.01367](http://arxiv.org/abs/2605.01367)|[md](abstracts/2605.01367.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09718.html">SAQNN: Spectral Adaptive Quantum Neural Network as a Universal Approximator</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Jialiang Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09718">2602.09718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14593.html">Assessing Projected Quantum Kernels for the Classification of IoT Data</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Francesco D&#x27;Amore et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14593">2505.14593</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,17 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19156.html">Comment on &quot;An implementation of neural simulation-based inference for parameter estimation in ATLAS&#x27;&#x27;</a></div></td>
 <td>Prasanth Shyamsundar</td>
 <td><a href="http://arxiv.org/abs/2505.19156">2505.19156</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08562.html">Pinpoint resource allocation for GPU batch applications</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
-<td>Tim Voigtländer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08562">2505.08562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08709.html">Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ibrahim Elsharkawy et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08709">2505.08709</a></td>
 </tr>
 </tbody></table>

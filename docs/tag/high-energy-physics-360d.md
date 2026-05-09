@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>high-energy-physics — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <strong>360d</strong> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19165.html">Reconstructing hadronically decaying tau leptons with a jet foundation model</a></div></td>
 <td>Laurits Tani et al.</td>
 <td><a href="http://arxiv.org/abs/2503.19165">2503.19165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08562.html">Pinpoint resource allocation for GPU batch applications</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
-<td>Tim Voigtländer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08562">2505.08562</a></td>
 </tr>
 </tbody></table>

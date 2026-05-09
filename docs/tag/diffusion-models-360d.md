@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">618 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
+<td>Javad Komijani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
+<td>Weiqing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03802.html">Towards accurate extreme event likelihoods from diffusion model climate emulators</a></div></td>
 <td>Peter Manshausen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03802">2605.03802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04291.html">Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion</a></div></td>
+<td>Tarun Kathuria et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04291">2605.04291</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>

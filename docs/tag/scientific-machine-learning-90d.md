@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05975.html">Physical Fidelity Reconstruction via Improved Consistency-Distilled Flow Matching for Dynamical Systems</a></div></td>
+<td>Sicheng Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05975">2605.05975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Zhao Wei et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18472.html">Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Shunqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18472">2602.18472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Elham Kiyani et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
 </tr>
 </tbody></table>

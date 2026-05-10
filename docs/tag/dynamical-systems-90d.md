@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,15 +17,57 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05838.html">MDN: Parallelizing Stepwise Momentum for Delta Linear Attention</a></div></td>
+<td>Yulong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05838">2605.05838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06000.html">Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Kevin Slote et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06000">2605.06000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Jan-Hendrik Ewering et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06315.html">End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems</a></div></td>
+<td>Carles Balsells-Rodas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06315">2605.06315</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04502.html">Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Isabela M. Yepes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04502">2605.04502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04550.html">Neural-Guided Domain Restriction to Accelerate Pseudospectra Computation for Structured Non-normal Banded Matrices</a></div></td>
+<td>Amit Punia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04550">2605.04550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04917.html">Koopman Identification of Nonlinear Systems via Reservoir Liftings</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Weibin Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04917">2605.04917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Zhao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04337.html">Symbolic Regression via Neural Networks</a></div></td>
+<td>Nibodh Boddupalli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04337">2605.04337</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -80,6 +122,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Purav Matlia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02936.html">A Universal Space of Brain Dynamics for Unveiling Cognitive Transitions and Individual Differences</a></div></td>
+<td>Ronghua Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02936">2605.02936</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>
@@ -1532,23 +1580,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08810.html">$\texttt{lrnnx}$: A library for Linear RNNs</a></div></td>
 <td>Karan Bania et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08810">2602.08810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10375.html">Probabilistic Forecasting via Autoregressive Flow Matching</a></div></td>
-<td>Ahmed ElGazzar et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10375">2503.10375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04310.html">RNNs perform task computations by dynamically warping neural representations</a></div></td>
-<td>Arthur Pellegrino et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04310">2512.04310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07800.html">Approximating Matrix Functions with Deep Neural Networks and Transformers</a></div></td>
-<td>Rahul Padmanabhan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07800">2602.07800</a></td>
 </tr>
 </tbody></table>

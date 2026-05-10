@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Yifan F. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Jian Xu et al.</td>
@@ -3716,11 +3722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10566.html">3D-Fixup: Advancing Photo Editing with 3D Priors</a></div></td>
 <td>Yen-Chi Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10566">2505.10566</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08526.html">Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution</a></div></td>
-<td>Wuzhe Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08526">2505.08526</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rom — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <strong>90d</strong> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22188.html">Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Nathalie C. Pinheiro et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22188">2602.22188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07745.html">StabOp: A Data-Driven Stabilization Operator for Reduced Order Modeling</a></div></td>
-<td>Ping-Hsuan Tsai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07745">2602.07745</a></td>
 </tr>
 </tbody></table>

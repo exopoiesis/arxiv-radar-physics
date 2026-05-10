@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06035.html">Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features</a></div></td>
+<td>Lisan Al Amin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06035">2605.06035</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06629.html">Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows</a></div></td>
+<td>Prateek Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06629">2605.06629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04737.html">Harnessing a 256-qubit Neutral Atom Simulator for Graph Classification</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Edoardo Giusto et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04737">2605.04737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04945.html">Beyond Gates: Pulse Level Quantum Fourier Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
+<td>Melvin Strobl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04945">2605.04945</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05268.html">Quantum Proper Scoring Rules: Minimax Estimation and Resource-Theoretic Advantages</a></div></td>
+<td>M. W. AlMasri</td>
+<td><a href="http://arxiv.org/abs/2605.05268">2605.05268</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03503.html">Harnessing DEN models for quantum computing tasks on neutral atom QPUs</a></div></td>
+<td>Chiara Vercellino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03503">2605.03503</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="qml-360d.html">qml</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03573">2605.03573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03864.html">The power of entanglement in distributed quantum machine learning</a></div></td>
+<td>Yerim Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03864">2605.03864</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -3278,17 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21686.html">Molecular Quantum Transformer</a></div></td>
 <td>Yuichi Kamata et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21686">2503.21686</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21062.html">Hybrid Heuristic Algorithms for Adiabatic Quantum Machine Learning Models</a></div></td>
-<td>Bahram Alidaee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21062">2407.21062</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09395.html">Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a> · <a href="qml-360d.html">qml</a></div></td>
-<td>Chen-Yu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09395">2505.09395</a></td>
 </tr>
 </tbody></table>

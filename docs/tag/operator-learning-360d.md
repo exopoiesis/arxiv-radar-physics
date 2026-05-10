@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02356.html">ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamic</a></div></td>
 <td>Xianli Zhu et al.</td>
@@ -1460,11 +1466,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12556.html">Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Taniya Kapoor et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12556">2505.12556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09009.html">A physics-informed transformer neural operator for learning generalized solutions of initial boundary value problems</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sumanth Kumar Boya et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09009">2412.09009</a></td>
 </tr>
 </tbody></table>

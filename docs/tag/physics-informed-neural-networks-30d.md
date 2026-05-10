@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,40 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.06022">2605.06022</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06281.html">INEUS: Iterative Neural Solver for High-Dimensional PIDEs</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Jean-Loup Dupret et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06281">2605.06281</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04502.html">Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Isabela M. Yepes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04502">2605.04502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04708.html">Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems</a></div></td>
+<td>Miloš Babić et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04708">2605.04708</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Zhao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04307.html">A physics-informed neural network approach to solve the spatially inhomogeneous electron Boltzmann equation</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Ihda Chaerony Siffa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04307">2605.04307</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -320,29 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09957.html">Mitigating Barren Plateaus in Variational Quantum Circuits through PDE-Constrained Loss Functions</a></div></td>
 <td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09957">2604.09957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="quantum-many-body-systems-30d.html">quantum-many-body-systems</a> · <a href="tensor-networks-30d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07755.html">Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brenda Anague et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07755">2512.07755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08002.html">A Helicity-Conservative Domain-Decomposed Physics-Informed Neural Network for Incompressible Non-Newtonian Flow</a></div></td>
-<td>Zheng Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08002">2604.08002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08453.html">Hard-constrained Physics-informed Neural Networks for Interface Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Seung Whan Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08453">2604.08453</a></td>
 </tr>
 </tbody></table>

@@ -22,9 +22,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Paul Garnier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01542">2605.01542</a></td>
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="reduced-order-modeling-7d.html">reduced-order-modeling</a></div></td>
+<td>Melika Baghi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04130">2605.04130</a></td>
 </tr>
 </tbody></table>

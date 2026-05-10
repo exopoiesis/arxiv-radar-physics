@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">527 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3170,11 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10682.html">The Manticore Project I: a digital twin of our cosmic neighbourhood from Bayesian field-level analysis</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Stuart McAlpine et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10682">2505.10682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23238.html">Full-waveform earthquake source inversion using simulation-based inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>A. A. Saoulis et al.</td>
-<td><a href="http://arxiv.org/abs/2410.23238">2410.23238</a></td>
 </tr>
 </tbody></table>

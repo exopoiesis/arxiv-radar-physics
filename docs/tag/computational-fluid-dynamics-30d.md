@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Melika Baghi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04130">2605.04130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Paul Garnier et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09505.html">Enhancing the accuracy of under-resolved numerical simulations of atmospheric flows with super resolution</a></div></td>
 <td>Armin Sheidani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09505">2604.09505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-30d.html">quantum-many-body-systems</a> · <a href="tensor-networks-30d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
 </tr>
 </tbody></table>

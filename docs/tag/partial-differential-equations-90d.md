@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">253 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20086.html">Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
@@ -1520,29 +1532,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08269.html">Quantization-aware Photonic Homodyne computing for Accelerated Artificial Intelligence and Scientific Simulation</a></div></td>
 <td>Lian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08269">2602.08269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Elham Kiyani et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05445.html">Learning Geometric-Aware Quadrature Rules for Functional Minimization</a></div></td>
-<td>Costas Smaragdakis</td>
-<td><a href="http://arxiv.org/abs/2508.05445">2508.05445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18837.html">Generative Modeling through Koopman Spectral Analysis: An Operator-Theoretic Perspective</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Yuanchao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18837">2512.18837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07838.html">Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Yizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07838">2602.07838</a></td>
 </tr>
 </tbody></table>

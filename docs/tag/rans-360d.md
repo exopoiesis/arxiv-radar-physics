@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17279.html">Bayesian and non-Bayesian multi-fidelity surrogate models for multi-objective aerodynamic optimization under extreme cost imbalance</a></div></td>
 <td>Marc Schouler et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17279">2505.17279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03880.html">Neural network-augmented eddy viscosity closures for turbulent premixed jet flames</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Priyesh Kakka et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03880">2503.03880</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">179 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
 <td>Olaf Hohm</td>
 <td><a href="http://arxiv.org/abs/2605.06394">2605.06394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Yifan F. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -1076,17 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10393.html">Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training</a></div></td>
 <td>Agustin Medina et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10393">2505.10393</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09718.html">Neural models for prediction of spatially patterned phase transitions: methods and challenges</a></div></td>
-<td>Daniel Dylewsky et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09718">2505.09718</a></td>
 </tr>
 </tbody></table>

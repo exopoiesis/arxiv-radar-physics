@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06035.html">Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features</a></div></td>
+<td>Lisan Al Amin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06035">2605.06035</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06629.html">Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows</a></div></td>
+<td>Prateek Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06629">2605.06629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04737.html">Harnessing a 256-qubit Neutral Atom Simulator for Graph Classification</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
+<td>Edoardo Giusto et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04737">2605.04737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04945.html">Beyond Gates: Pulse Level Quantum Fourier Models</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
+<td>Melvin Strobl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04945">2605.04945</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05268.html">Quantum Proper Scoring Rules: Minimax Estimation and Resource-Theoretic Advantages</a></div></td>
+<td>M. W. AlMasri</td>
+<td><a href="http://arxiv.org/abs/2605.05268">2605.05268</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03503.html">Harnessing DEN models for quantum computing tasks on neutral atom QPUs</a></div></td>
+<td>Chiara Vercellino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03503">2605.03503</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="qml-30d.html">qml</a> · <a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03573">2605.03573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03864.html">The power of entanglement in distributed quantum machine learning</a></div></td>
+<td>Yerim Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03864">2605.03864</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -320,41 +362,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09869.html">Q-PIPE A Practical Quantum Phase Encoding Method</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Brian García Sarmina et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09869">2604.09869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19253.html">Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study</a></div></td>
-<td>Carla Crivoi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19253">2512.19253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02203.html">QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling</a></div></td>
-<td>Selim Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02203">2604.02203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07856.html">Hardware-Aware Quantum Support Vector Machines</a></div></td>
-<td>Adil Mubashir Chaudhry et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07856">2604.07856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07896.html">Non-variational supervised quantum kernel methods: a review</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>John Tanner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07896">2604.07896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08180.html">Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security</a></div></td>
-<td>Hui Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08180">2604.08180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08827.html">Quantum Patches: Enhancing Robustness of Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08827">2604.08827</a></td>
 </tr>
 </tbody></table>

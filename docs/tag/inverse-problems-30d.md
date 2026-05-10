@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,17 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11467.html">On $L^\infty$ stability for wave propagation and for linear inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Rima Alaifari et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11467">2410.11467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07755.html">Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brenda Anague et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07755">2512.07755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07671.html">On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Jonah Botvinick-Greenhouse et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07671">2604.07671</a></td>
 </tr>
 </tbody></table>

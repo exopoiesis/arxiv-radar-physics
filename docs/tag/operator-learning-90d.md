@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02356.html">ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamic</a></div></td>
 <td>Xianli Zhu et al.</td>
@@ -452,11 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09487.html">Adaptive recurrent flow map operator learning for reaction diffusion dynamics</a></div></td>
 <td>Huseyin Tunc</td>
 <td><a href="http://arxiv.org/abs/2602.09487">2602.09487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16371.html">Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Elham Kiyani et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16371">2501.16371</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">821 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20086.html">Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
@@ -4928,23 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17046.html">Fast and Flexible Quantum-Inspired Differential Equation Solvers with Data Integration</a></div></td>
 <td>Lucas Arenstein et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17046">2505.17046</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09009.html">A physics-informed transformer neural operator for learning generalized solutions of initial boundary value problems</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Sumanth Kumar Boya et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09009">2412.09009</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03880.html">Neural network-augmented eddy viscosity closures for turbulent premixed jet flames</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Priyesh Kakka et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03880">2503.03880</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09063.html">Single-shot prediction of parametric partial differential equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Khalid Rafiq et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09063">2505.09063</a></td>
 </tr>
 </tbody></table>

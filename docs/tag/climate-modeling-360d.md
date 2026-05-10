@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12032.html">Embedding Trust at Scale: Physics-Aware Neural Watermarking for Secure and Verifiable Data Pipelines</a></div></td>
 <td>Krti Tallam</td>
 <td><a href="http://arxiv.org/abs/2506.12032">2506.12032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09395.html">Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Chen-Yu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09395">2505.09395</a></td>
 </tr>
 </tbody></table>

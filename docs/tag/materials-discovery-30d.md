@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.02267">2605.02267</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03081.html">Building a physics-aware AI ecosystem for solid-state hydrogen storage materials</a></div></td>
+<td>Seong-Hoon Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03081">2605.03081</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div></td>
 <td>Alexius Wadell et al.</td>
@@ -194,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17972.html">PyAPX: Python toolkit for atomic configuration pattern exploration</a></div><div class="paper-tags"><a href="crystal-structure-prediction-30d.html">crystal-structure-prediction</a></div></td>
 <td>Akira Kusaba et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17972">2511.17972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07681.html">Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System</a></div></td>
-<td>Thang Duc Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07681">2604.07681</a></td>
 </tr>
 </tbody></table>

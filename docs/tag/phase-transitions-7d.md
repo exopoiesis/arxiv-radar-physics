@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-transitions — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
 <td>Olaf Hohm</td>
 <td><a href="http://arxiv.org/abs/2605.06394">2605.06394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Yifan F. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>

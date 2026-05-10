@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.02267">2605.02267</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03081.html">Building a physics-aware AI ecosystem for solid-state hydrogen storage materials</a></div></td>
+<td>Seong-Hoon Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03081">2605.03081</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div></td>
 <td>Alexius Wadell et al.</td>
@@ -464,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11702.html">A Hardware-Native Realisation of Semi-Empirical Electronic Structure Theory on Field-Programmable Gate Arrays</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Xincheng Miao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11702">2602.11702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07753.html">Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints</a></div></td>
-<td>Boris Slautin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07753">2602.07753</a></td>
 </tr>
 </tbody></table>

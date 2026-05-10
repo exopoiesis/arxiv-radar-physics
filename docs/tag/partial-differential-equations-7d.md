@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20086.html">Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
 <td>Tiangang Cui et al.</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02597.html">Isotropic Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Michael F. Staddon</td>
 <td><a href="http://arxiv.org/abs/2605.02597">2605.02597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01305.html">Alikhanov-XfPINNs: Adaptive Physics-Informed Learning for Nonlinear Fractional PDEs on Nonuniform Meshes</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Himanshu Kumar Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01305">2605.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
-<td>Paul Garnier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01542">2605.01542</a></td>
 </tr>
 </tbody></table>

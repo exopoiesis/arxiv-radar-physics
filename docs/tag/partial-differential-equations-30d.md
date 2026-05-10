@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Chaoyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20086.html">Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
@@ -338,23 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Vikas Dwivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07755.html">Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brenda Anague et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07755">2512.07755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10723.html">Generalized Spherical Neural Operators: Green&#x27;s Function Formulation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Hao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.10723">2512.10723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08453.html">Hard-constrained Physics-informed Neural Networks for Interface Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Seung Whan Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08453">2604.08453</a></td>
 </tr>
 </tbody></table>

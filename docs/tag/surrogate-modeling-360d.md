@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05540.html">Towards Scalable One-Step Generative Modeling for Autoregressive Dynamical System Forecasting</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Tianyue Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05540">2605.05540</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05586.html">AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
@@ -890,23 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05867.html">Modeling Nonlinear Oscillator Networks Using Physics-Informed Hybrid Reservoir Computing</a></div></td>
 <td>Andrew Shannon et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05867">2411.05867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02974.html">Surrogate modeling of gravitational waves microlensed by spherically symmetric potentials</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Uddeepta Deka et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02974">2501.02974</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09063.html">Single-shot prediction of parametric partial differential equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Khalid Rafiq et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09063">2505.09063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14704.html">Towards scalable surrogate models based on Neural Fields for large scale aerodynamic simulations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Giovanni Catalani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14704">2505.14704</a></td>
 </tr>
 </tbody></table>

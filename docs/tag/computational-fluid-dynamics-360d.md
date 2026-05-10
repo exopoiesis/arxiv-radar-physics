@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Melika Baghi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04130">2605.04130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Paul Garnier et al.</td>
@@ -1064,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09089.html">Generating time-consistent dynamics with discriminator-guided image diffusion models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Philipp Hess et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09089">2505.09089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09063.html">Single-shot prediction of parametric partial differential equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Khalid Rafiq et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09063">2505.09063</a></td>
 </tr>
 </tbody></table>

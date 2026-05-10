@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,34 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.06022">2605.06022</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06281.html">INEUS: Iterative Neural Solver for High-Dimensional PIDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Jean-Loup Dupret et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06281">2605.06281</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04502.html">Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Isabela M. Yepes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04502">2605.04502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Zhao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Diego Marcondes</td>
+<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04307.html">A physics-informed neural network approach to solve the spatially inhomogeneous electron Boltzmann equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Ihda Chaerony Siffa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04307">2605.04307</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -56,23 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01851.html">Beyond Data-Physics Consistency: A Cross-Correlated Physics-Informed Neural Network for Robust Inverse Scattering</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Shilong Sun</td>
 <td><a href="http://arxiv.org/abs/2605.01851">2605.01851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01172.html">A Theory of Generalization in Deep Learning</a></div></td>
-<td>Elon Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01172">2605.01172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01305.html">Alikhanov-XfPINNs: Adaptive Physics-Informed Learning for Nonlinear Fractional PDEs on Nonuniform Meshes</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Himanshu Kumar Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01305">2605.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01634.html">Chebyshev-Augmented One-Shot Transfer Learning for PINNs on Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Yiqi Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01634">2605.01634</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Ryoichiro Agata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06538.html">Diffusion-Based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability</a></div></td>
 <td>Matias G. Delgadino et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10860.html">Stochastic Modified Equations for Stochastic Gradient Descent in Infinite-Dimensional Hilbert Spaces</a></div></td>
 <td>Sandra Cerrai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10860">2604.10860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11467.html">On $L^\infty$ stability for wave propagation and for linear inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Rima Alaifari et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11467">2410.11467</a></td>
 </tr>
 </tbody></table>

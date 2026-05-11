@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07442.html">GameGen-Verifier: Parallel Keypoint-Based Verification for LLM-Generated Games via Runtime State Injection</a></div></td>
+<td>Chaobo Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07442">2605.07442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
 <td>Olaf Hohm</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10747.html">Assumption-lean weak limits and tests for two-stage adaptive experiments</a></div></td>
 <td>Ziang Niu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10747">2505.10747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09084.html">Force Field-Agnostic Phase Classification of Zeolitic Imidazolate Framework Polymorphs</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a></div></td>
-<td>Emilio Méndez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09084">2604.09084</a></td>
 </tr>
 </tbody></table>

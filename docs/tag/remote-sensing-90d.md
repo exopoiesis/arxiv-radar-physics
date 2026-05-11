@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
+<td>Kai Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07178">2605.07178</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
@@ -1040,23 +1046,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09529.html">SCA-Net: Spatial-Contextual Aggregation Network for Enhanced Small Building and Road Change Detection</a></div></td>
 <td>Emad Gholibeigi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09529">2602.09529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08168.html">DAS-SK: An Adaptive Model Integrating Dual Atrous Separable and Selective Kernel CNN for Agriculture Semantic Segmentation</a></div></td>
-<td>Mei Ling Chee et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08168">2602.08168</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08282.html">Tighnari v2: Mitigating Label Noise and Distribution Shift in Multimodal Plant Distribution Prediction via Mixture of Experts and Weakly Supervised Learning</a></div></td>
-<td>Haixu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08282">2602.08282</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08596.html">RFSoC-Based Integrated Navigation and Sensing Using NavIC</a></div></td>
-<td>Riya Sachdeva et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08596">2602.08596</a></td>
 </tr>
 </tbody></table>

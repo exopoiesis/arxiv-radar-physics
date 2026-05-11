@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>lattice-qcd — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <strong>30d</strong> <a href="lattice-qcd-90d.html">90d</a> <a href="lattice-qcd-360d.html">360d</a> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06994.html">Neural Network Representation of Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Jitao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06994">2605.06994</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10213.html">Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>particle-physics — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <strong>90d</strong> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10628.html">dN/dx Reconstruction with Deep Learning for High-Granularity TPCs</a></div></td>
 <td>Guang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10628">2510.10628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00996.html">Measuring Gravitational Wave Spectrum from Electroweak Phase Transition and Higgs Self-Couplings</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Shuo Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00996">2511.00996</a></td>
 </tr>
 </tbody></table>

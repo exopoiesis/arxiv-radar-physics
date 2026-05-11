@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10064.html">PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials</a></div></td>
 <td>Harrison A. Walker et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10064">2602.10064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08849.html">Cutting Through the Noise: On-the-fly Outlier Detection for Robust Training of Machine Learning Interatomic Potentials</a></div></td>
-<td>Terry C. W. Lam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08849">2602.08849</a></td>
 </tr>
 </tbody></table>

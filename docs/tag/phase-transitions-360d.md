@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07442.html">GameGen-Verifier: Parallel Keypoint-Based Verification for LLM-Generated Games via Runtime State Injection</a></div></td>
+<td>Chaobo Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07442">2605.07442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
 <td>Olaf Hohm</td>
@@ -1076,11 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09628.html">Characterizing nonlinear dynamics by contrastive cartography</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Nicolas Romeo et al.</td>
 <td><a href="http://arxiv.org/abs/2502.09628">2502.09628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10393.html">Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training</a></div></td>
-<td>Agustin Medina et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10393">2505.10393</a></td>
 </tr>
 </tbody></table>

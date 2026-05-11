@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ryoichiro Agata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07393.html">Offline Policy Optimization with Posterior Sampling</a></div></td>
+<td>Hongqiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07393">2605.07393</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06630.html">Quantifying Trade-Offs Between Stability and Goal-Obfuscation</a></div></td>
 <td>Yixuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06630">2605.06630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06873.html">One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Panos Tsimpos et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06873">2605.06873</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -788,23 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05526.html">Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</a></div></td>
 <td>Anish Dhir et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05526">2507.05526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16133.html">Observation of Criticality-Enhanced Quantum Sensing in Nonunitary Quantum Walks</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Lei Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16133">2506.16133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00996.html">Measuring Gravitational Wave Spectrum from Electroweak Phase Transition and Higgs Self-Couplings</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Shuo Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00996">2511.00996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08424.html">Kosmulator: A Python framework for cosmological inference with MCMC</a></div></td>
-<td>Renier T. Hough et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08424">2602.08424</a></td>
 </tr>
 </tbody></table>

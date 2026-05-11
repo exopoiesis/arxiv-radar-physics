@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07279.html">Physics-informed operator learning for transferable energy-dissipative microstructure dynamics</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Jie Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07279">2605.07279</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05838.html">MDN: Parallelizing Stepwise Momentum for Delta Linear Attention</a></div></td>
 <td>Yulong Huang et al.</td>
@@ -4280,11 +4286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11219.html">Formal Uncertainty Propagation for Stochastic Dynamical Systems with Additive Noise</a></div></td>
 <td>Steven Adams et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11219">2505.11219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11546.html">Control Invariant Sets for Neural Network Dynamical Systems and Recursive Feasibility in Model Predictive Control</a></div></td>
-<td>Xiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11546">2505.11546</a></td>
 </tr>
 </tbody></table>

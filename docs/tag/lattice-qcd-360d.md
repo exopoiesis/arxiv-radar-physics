@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06994.html">Neural Network Representation of Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Jitao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06994">2605.06994</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10213.html">Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model</a></div></td>
 <td>Wen-Chao Dai et al.</td>
@@ -194,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16689.html">Ill-Posedness in Limited Discrete Fourier Inversion and Regularization for Quasi Distributions in LaMET</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ao-Sheng Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16689">2506.16689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10295.html">Probing how bright the quark-gluon plasma glows in lattice QCD</a></div></td>
-<td>Ardit Krasniqi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10295">2505.10295</a></td>
 </tr>
 </tbody></table>

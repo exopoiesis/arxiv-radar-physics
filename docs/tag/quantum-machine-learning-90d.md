@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Tiffany Duneau et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07611">2605.07611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06035.html">Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features</a></div></td>
@@ -962,17 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09909.html">Tucker iterative quantum state preparation</a></div></td>
 <td>Carsten Blank et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09909">2602.09909</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04413.html">Distribution-Guided and Constrained Quantum Machine Unlearning</a></div></td>
-<td>Nausherwan Malik et al.</td>
-<td><a href="http://arxiv.org/abs/2601.04413">2601.04413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08485.html">Empirical Study of Observable Sets in Multiclass Quantum Classification</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Paul San Sebastian et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08485">2602.08485</a></td>
 </tr>
 </tbody></table>

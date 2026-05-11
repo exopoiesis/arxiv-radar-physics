@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Francesc Levrero-Florencio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13746.html">Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network</a></div></td>
 <td>Elham Kiyani et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11972.html">Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Wave Dynamics</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Zhiwei Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11972">2604.11972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Vikas Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
 </tr>
 </tbody></table>

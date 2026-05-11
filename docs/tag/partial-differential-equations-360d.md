@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">821 papers</span>
+  <span class="paper-count">820 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07157.html">Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization</a></div></td>
+<td>Lyra Zhornyak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07157">2605.07157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
+<td>Mahdi Naderibeni et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07444">2605.07444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Francesc Levrero-Florencio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
@@ -4916,29 +4934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11682.html">Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Ananyae Kumar Bhartari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11682">2505.11682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09840.html">Machine Learning with Physics Knowledge for Prediction: A Survey</a></div></td>
-<td>Joe Watson et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09840">2408.09840</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05521.html">Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Peiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05521">2505.05521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09911.html">Discontinuous hybrid neural networks for the one-dimensional partial differential equations</a></div></td>
-<td>Xiaoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09911">2505.09911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17046.html">Fast and Flexible Quantum-Inspired Differential Equation Solvers with Data Integration</a></div></td>
-<td>Lucas Arenstein et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17046">2505.17046</a></td>
 </tr>
 </tbody></table>

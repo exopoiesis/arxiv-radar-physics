@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ryoichiro Agata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06538.html">Diffusion-Based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability</a></div></td>
 <td>Matias G. Delgadino et al.</td>
@@ -692,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09285.html">Submodularity of the expected information gain in infinite-dimensional linear inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Alen Alexanderian et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09285">2602.09285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04162.html">Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Chenhe Du et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04162">2602.04162</a></td>
 </tr>
 </tbody></table>

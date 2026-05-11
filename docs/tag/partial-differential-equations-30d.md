@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07157.html">Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization</a></div></td>
+<td>Lyra Zhornyak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07157">2605.07157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
+<td>Mahdi Naderibeni et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07444">2605.07444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Francesc Levrero-Florencio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
@@ -326,29 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12982.html">RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Pablo Herrera et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12982">2603.12982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11467.html">On $L^\infty$ stability for wave propagation and for linear inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Rima Alaifari et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11467">2410.11467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00491.html">Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Shuwei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00491">2601.00491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08869.html">Adaptive Randomized Neural Networks with Locally Activation Function: Theory and Algorithm for Solving PDEs</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08869">2604.08869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Vikas Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
 </tr>
 </tbody></table>

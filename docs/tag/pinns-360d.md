@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">617 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Ryoichiro Agata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07131.html">A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Yuan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07131">2605.07131</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08028.html">Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Eunhan Ka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08028">2605.08028</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06022.html">Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -26,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06281.html">INEUS: Iterative Neural Solver for High-Dimensional PIDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jean-Loup Dupret et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06281">2605.06281</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04427.html">Structure-Preserving and Pressure-Robust PINNs for Incompressible Oseen Problems</a></div></td>
+<td>Shiv Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04427">2605.04427</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -44,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Diego Marcondes</td>
 <td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04126.html">Simultaneous CNN Approximation on Manifolds with Applications to Boundary Value Problems</a></div></td>
+<td>Hanfei Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04126">2605.04126</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -104,6 +134,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00385.html">PILIR: Physics-Informed Local Implicit Representation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jianfeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00385">2605.00385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06688.html">American Options Pricing under Heston Model via Curriculum Learning in Coupled PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Rohan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06688">2605.06688</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>

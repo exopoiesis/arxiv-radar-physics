@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Mahdi Naderibeni et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07444">2605.07444</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00593.html">Inductive Latent Context Persistence: Closing the Post-Handover Cold Start in 6G Radio Access Networks</a></div></td>
 <td>Anubhab Banerjee et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12400.html">Agentic AI for 6G: A New Paradigm for Autonomous RAN Security Compliance</a></div></td>
 <td>Sotiris Chatzimiltis et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12400">2512.12400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29659.html">Self-scaling tensor basis neural network for Reynolds stress modeling of wall-bounded turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
-<td>Zelong Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29659">2603.29659</a></td>
 </tr>
 </tbody></table>

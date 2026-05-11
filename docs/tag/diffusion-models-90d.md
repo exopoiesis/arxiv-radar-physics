@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
+<td>Hao Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07456">2605.07456</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03497.html">GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>James Rowbottom et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03497">2605.03497</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -1154,29 +1166,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10172.html">Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Md. Khairul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10172">2602.10172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05377.html">China Regional 3km Downscaling Based on Residual Corrective Diffusion Model</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Honglu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05377">2512.05377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04162.html">Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Chenhe Du et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04162">2602.04162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06849.html">Improved Sampling Schedules for Discrete Diffusion Models</a></div></td>
-<td>Alberto Foresti et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06849">2602.06849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18472.html">Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Shunqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18472">2602.18472</a></td>
 </tr>
 </tbody></table>

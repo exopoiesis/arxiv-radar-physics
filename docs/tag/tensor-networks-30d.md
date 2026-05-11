@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>tensor-networks — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <strong>30d</strong> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14287.html">Quantum-inspired tensor networks in machine learning models</a></div></td>
 <td>Guillermo Valverde et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14287">2604.14287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06119.html">Tensor-Parallel Emulation of Quantum Circuits with Block-Cyclic Distributed Matrix Product States</a></div></td>
-<td>Jakub Adamski et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06119">2505.06119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09263.html">Natural Riemannian gradient for learning functional tensor networks</a></div></td>
-<td>Nikolas Klug et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09263">2604.09263</a></td>
 </tr>
 </tbody></table>

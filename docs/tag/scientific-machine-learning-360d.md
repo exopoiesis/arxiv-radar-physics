@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Sum Kyun Song et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07323">2605.07323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05975.html">Physical Fidelity Reconstruction via Improved Consistency-Distilled Flow Matching for Dynamical Systems</a></div></td>
 <td>Sicheng Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05975">2605.05975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Abhijit Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06740">2605.06740</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -38,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02352.html">Geometric Quantum Physics Informed Neural Network</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Wai-Hong Tam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02352">2605.02352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02962.html">ISAAC: Auditing Causal Reasoning in Deep Models for Drug-Target Interaction</a></div></td>
+<td>Barbara Tarantino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02962">2605.02962</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>

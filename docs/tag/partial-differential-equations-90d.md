@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07157.html">Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization</a></div></td>
+<td>Lyra Zhornyak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07157">2605.07157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
+<td>Mahdi Naderibeni et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07444">2605.07444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Francesc Levrero-Florencio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Chaoyu Liu et al.</td>
@@ -1514,23 +1532,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09708.html">Physics-informed diffusion models in spectral space</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Davide Gallon et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09708">2602.09708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10919.html">A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems</a></div></td>
-<td>Luca Menicali et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10919">2505.10919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13490.html">DyMixOp: A Neural Operator Designed from a Complex Dynamics Perspective with Local-Global Mixing for Solving PDEs</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Pengyu Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13490">2508.13490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08269.html">Quantization-aware Photonic Homodyne computing for Accelerated Artificial Intelligence and Scientific Simulation</a></div></td>
-<td>Lian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08269">2602.08269</a></td>
 </tr>
 </tbody></table>

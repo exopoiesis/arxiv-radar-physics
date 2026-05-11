@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <strong>30d</strong> <a href="variational-quantum-algorithms-90d.html">90d</a> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15666.html">Explainable quantum regression algorithm with encoded data structure</a></div><div class="paper-tags"><a href="quantum-error-correction-30d.html">quantum-error-correction</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>C. -C. Joseph Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15666">2604.15666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Joona Pankkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
 </tr>
 </tbody></table>

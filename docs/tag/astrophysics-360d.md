@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06790.html">Machine Learning Techniques for Astrophysics and Cosmology: Photometric Redshifts</a></div></td>
+<td>Luca Tortorelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06790">2605.06790</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Julia Dima et al.</td>
@@ -758,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15600.html">Qiskit Variational Quantum Classifier on the Pulsar Classification Problem</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Anna B. M. Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15600">2505.15600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10750.html">Probing the refined performance of the Categorical-Boosting algorithm to the Hartree-Fock-Bogoliubov mass model with different Skyrme forces</a></div></td>
-<td>Jin-Liang Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10750">2505.10750</a></td>
 </tr>
 </tbody></table>

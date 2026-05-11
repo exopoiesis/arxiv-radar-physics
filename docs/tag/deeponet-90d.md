@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Francesc Levrero-Florencio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13746.html">Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network</a></div></td>

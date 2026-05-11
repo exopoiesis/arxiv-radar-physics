@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
+<td>Kai Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07178">2605.07178</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
@@ -338,29 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11709.html">A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment</a></div></td>
 <td>Wanli Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11709">2604.11709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17038.html">Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Brandon Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17038">2512.17038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11310.html">Context-Aware Semantic Segmentation via Stage-Wise Attention</a></div></td>
-<td>Antoine Carreaud et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11310">2601.11310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08884.html">HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing</a></div></td>
-<td>Xinyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08884">2604.08884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08896.html">GeoMMBench and GeoMMAgent: Toward Expert-Level Multimodal Intelligence in Geoscience and Remote Sensing</a></div></td>
-<td>Aoran Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08896">2604.08896</a></td>
 </tr>
 </tbody></table>

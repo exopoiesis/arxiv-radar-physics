@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06790.html">Machine Learning Techniques for Astrophysics and Cosmology: Photometric Redshifts</a></div></td>
+<td>Luca Tortorelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06790">2605.06790</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Julia Dima et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10172.html">Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Md. Khairul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10172">2602.10172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17839.html">Interpreting Cosmological Information from Neural Networks in the Hydrodynamic Universe</a></div></td>
-<td>Arnab Lahiry et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17839">2504.17839</a></td>
 </tr>
 </tbody></table>

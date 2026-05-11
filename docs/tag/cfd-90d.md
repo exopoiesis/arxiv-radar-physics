@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07131.html">A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yuan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07131">2605.07131</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05586.html">AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Francisco Giral et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10363.html">Transonic Buffet Modeling via Invariant Manifolds</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Tea Vojković et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10363">2602.10363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17704.html">Ferrofluid bend channel flows for multi-parameter tunable heat transfer enhancement Part 2 Deep Learning and Neural Network Modeling</a></div></td>
-<td>Nadish Anand et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17704">2602.17704</a></td>
 </tr>
 </tbody></table>

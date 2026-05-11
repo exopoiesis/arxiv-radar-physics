@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">430 papers</span>
+  <span class="paper-count">433 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Ryoichiro Agata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07393.html">Offline Policy Optimization with Posterior Sampling</a></div></td>
+<td>Hongqiang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07393">2605.07393</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06630.html">Quantifying Trade-Offs Between Stability and Goal-Obfuscation</a></div></td>
 <td>Yixuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06630">2605.06630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06873.html">One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Panos Tsimpos et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06873">2605.06873</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>

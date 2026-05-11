@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07723.html">LLM hallucinations in the wild: Large-scale evidence from non-existent citations</a></div></td>
+<td>Zhenyue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07723">2605.07723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Nicolas Menet et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07863.html">ADKO: Agentic Decentralized Knowledge Optimization</a></div></td>
+<td>Lucas Nerone Rillo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07863">2605.07863</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05921.html">Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery</a></div></td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Nithin Somasekharan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06772.html">When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning</a></div></td>
+<td>Vasilis Niarchos et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06772">2605.06772</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -1082,47 +1106,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09801.html">Tiny Moves: Game-based Hypothesis Refinement</a></div></td>
 <td>Agnieszka Dobrowolska et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09801">2602.09801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15047.html">PiFlow: Principle-Aware Scientific Discovery with Multi-Agent Collaboration</a></div></td>
-<td>Yingming Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15047">2505.15047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.22399.html">Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth</a></div></td>
-<td>Ziyang Wang</td>
-<td><a href="http://arxiv.org/abs/2512.22399">2512.22399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02139.html">EvoMU: Evolutionary Machine Unlearning</a></div></td>
-<td>Pawel Batorski et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02139">2602.02139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08213.html">DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning</a></div></td>
-<td>Haoran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08213">2602.08213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08990.html">InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery</a></div></td>
-<td>Shiyang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08990">2602.08990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09132.html">SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery</a></div></td>
-<td>Jiyong Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09132">2602.09132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13291.html">Agent Mars: Multi-Agent Simulation for Multi-Planetary Life Exploration and Settlement</a></div></td>
-<td>Ziyang Wang</td>
-<td><a href="http://arxiv.org/abs/2602.13291">2602.13291</a></td>
 </tr>
 </tbody></table>

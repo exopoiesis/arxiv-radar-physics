@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
+<td>Hao Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07456">2605.07456</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
 <td>Javad Komijani et al.</td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03497.html">GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>James Rowbottom et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03497">2605.03497</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -3710,17 +3722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13501.html">SPIEDiff: robust learning of long-time macroscopic dynamics from short-time particle simulations with quantified epistemic uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Zequn He et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13501">2505.13501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09089.html">Generating time-consistent dynamics with discriminator-guided image diffusion models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Philipp Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09089">2505.09089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10566.html">3D-Fixup: Advancing Photo Editing with 3D Priors</a></div></td>
-<td>Yen-Chi Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10566">2505.10566</a></td>
 </tr>
 </tbody></table>

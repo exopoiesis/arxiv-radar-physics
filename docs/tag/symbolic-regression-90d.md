@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Sum Kyun Song et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07323">2605.07323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06839.html">LLM-Guided Open Hypothesis Learning from Autonomous Scanning Probe Microscopy Experiments</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Boris Slautin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06839">2605.06839</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02267.html">Composition-Weighted Symbolic Regression for General-Purpose Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Yang Huang et al.</td>
@@ -386,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10576.html">LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Boxiao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10576">2602.10576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08270.html">A few-shot and physically restorable symbolic regression turbulence model based on normalized general effective-viscosity hypothesis</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08270">2602.08270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08733.html">Foundation Inference Models for Ordinary Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Maximilian Mauel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08733">2602.08733</a></td>
 </tr>
 </tbody></table>

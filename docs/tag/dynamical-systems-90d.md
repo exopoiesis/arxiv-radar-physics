@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07279.html">Physics-informed operator learning for transferable energy-dissipative microstructure dynamics</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Jie Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07279">2605.07279</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05838.html">MDN: Parallelizing Stepwise Momentum for Delta Linear Attention</a></div></td>
@@ -1568,17 +1574,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11206.html">UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra</a></div></td>
 <td>Jose Marie Antonio Miñoza</td>
 <td><a href="http://arxiv.org/abs/2602.11206">2602.11206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13490.html">DyMixOp: A Neural Operator Designed from a Complex Dynamics Perspective with Local-Global Mixing for Solving PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Pengyu Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13490">2508.13490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08810.html">$\texttt{lrnnx}$: A library for Linear RNNs</a></div></td>
-<td>Karan Bania et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08810">2602.08810</a></td>
 </tr>
 </tbody></table>

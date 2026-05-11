@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,17 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11157.html">Attention on the Sphere</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Boris Bonev et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11157">2505.11157</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03221.html">Modelling the BOSS void-galaxy cross-correlation function using a neural-network emulator</a></div></td>
-<td>Tristan S. Fraser et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03221">2407.03221</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10636.html">Searching optimal scales for reconstructing cosmological initial conditions using convolutional neural networks</a></div></td>
-<td>Koichiro Nakashima et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10636">2505.10636</a></td>
 </tr>
 </tbody></table>

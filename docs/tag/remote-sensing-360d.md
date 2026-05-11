@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
+<td>Kai Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07178">2605.07178</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
 <td>Anh Vu Nguyen et al.</td>
@@ -3536,11 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11121.html">Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing</a></div></td>
 <td>Mathis Jürgen Adler et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11121">2505.11121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10751.html">Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis</a></div></td>
-<td>Francisco Raverta Capua et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10751">2505.10751</a></td>
 </tr>
 </tbody></table>

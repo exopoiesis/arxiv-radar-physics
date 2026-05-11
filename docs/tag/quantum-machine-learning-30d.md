@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Tiffany Duneau et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07611">2605.07611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06035.html">Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features</a></div></td>
@@ -344,23 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11541.html">A Systematic Study of Noise Effects in Hybrid Quantum-Classical Machine Learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Bhavna Bose et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11541">2604.11541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Joona Pankkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09538.html">Explicit Block Encoding of Difference-of-Gaussian Operators on a Periodic Grid</a></div></td>
-<td>Jishnu Mahmud et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09538">2604.09538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09869.html">Q-PIPE A Practical Quantum Phase Encoding Method</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Brian García Sarmina et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09869">2604.09869</a></td>
 </tr>
 </tbody></table>

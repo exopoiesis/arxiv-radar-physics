@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
+<td>Hao Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07456">2605.07456</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div></td>
@@ -32,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03497.html">GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>James Rowbottom et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03497">2605.03497</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -386,23 +398,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10004.html">Universality and ambiguity in extremes of anomalous diffusion</a></div></td>
 <td>Sean D Lawley</td>
 <td><a href="http://arxiv.org/abs/2604.10004">2604.10004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08357.html">Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training</a></div></td>
-<td>Constantin Le Cleï et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08357">2604.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08945.html">TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches</a></div></td>
-<td>Langzhe Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08945">2604.08945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09058.html">PDE-regularized Dynamics-informed Diffusion with Uncertainty-aware Filtering for Long-Horizon Dynamics</a></div></td>
-<td>Min Young Baeg et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09058">2604.09058</a></td>
 </tr>
 </tbody></table>

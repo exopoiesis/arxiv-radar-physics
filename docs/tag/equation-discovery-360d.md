@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10762.html">Deep Symbolic Optimization: Reinforcement Learning for Symbolic Mathematics</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Conor F. Hayes et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10762">2505.10762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01047.html">Transforming physics-informed machine learning to convex optimization</a></div></td>
-<td>Letian Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01047">2505.01047</a></td>
 </tr>
 </tbody></table>

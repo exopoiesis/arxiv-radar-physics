@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">529 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07752.html">Robust and Reliable AI for Predictive Quality in Semiconductor Materials Manufacturing with MLOps and Uncertainty Quantification</a></div></td>
+<td>Min Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07752">2605.07752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Nicolas Menet et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06237.html">Bayesian Fractional Polynomials for Optimal Dosage Estimation with Fish Nutrition Applications</a></div></td>
@@ -38,6 +50,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06484.html">Estimate Level Adjustment For Inference With Proxies Under Random Distribution Shifts</a></div></td>
 <td>Steven Wilkins-Reeves et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06484">2605.06484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06756.html">Physics-based Digital Twins for Integrated Thermal Energy Systems Using Active Learning</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Umme Mahbuba Nabila et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06756">2605.06756</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06916.html">Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Fan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06916">2605.06916</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -3164,11 +3188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13501.html">SPIEDiff: robust learning of long-time macroscopic dynamics from short-time particle simulations with quantified epistemic uncertainty</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Zequn He et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13501">2505.13501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10682.html">The Manticore Project I: a digital twin of our cosmic neighbourhood from Bayesian field-level analysis</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Stuart McAlpine et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10682">2505.10682</a></td>
 </tr>
 </tbody></table>

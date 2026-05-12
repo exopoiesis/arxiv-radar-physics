@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">589 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10184.html">Developing a foundation model for high-resolution remote sensing data of the Netherlands</a></div></td>
+<td>Paul Vermeeren et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10184">2605.10184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09455.html">Adaptive 3D Convolution for Remote Sensing Image Fusion</a></div></td>
+<td>Siran Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09455">2605.09455</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09642.html">From Expansion to Consolidation: Socio-Spatial Contagion Dynamics in Off-Grid PV Adoption</a></div></td>
+<td>Roni Blushtein-Livnon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09642">2605.09642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09687.html">Spatial-Frequency Gated Swin Transformer for Remote Sensing Single-Image Super-Resolution</a></div></td>
+<td>Md Aminur Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09687">2605.09687</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
@@ -44,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04206.html">Climate-based Pre-screening of Self-sustaining Regreening Opportunities in Drylands: A Case Study for Saudi Arabia</a></div></td>
 <td>Katja Froehlich et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04206">2605.04206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08196.html">Survey on Disaster Management Datasets for Remote Sensing Based Emergency Applications</a></div></td>
+<td>Alain P. Ndigande et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08196">2605.08196</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -3518,29 +3548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12069.html">MT-CYP-Net: Multi-Task Network for Pixel-Level Crop Yield Prediction Under Very Few Samples</a></div></td>
 <td>Shenzhou Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12069">2505.12069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03653.html">reBEN: Refined BigEarthNet Dataset for Remote Sensing Image Analysis</a></div></td>
-<td>Kai Norman Clasen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03653">2407.03653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11493.html">Communication-Efficient Federated Learning Based on Explanation-Guided Pruning for Remote Sensing Image Classification</a></div></td>
-<td>Jonas Klotz et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11493">2501.11493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10803.html">Developing and Integrating Trust Modeling into Multi-Objective Reinforcement Learning for Intelligent Agricultural Management</a></div></td>
-<td>Zhaoan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10803">2505.10803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11121.html">Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing</a></div></td>
-<td>Mathis Jürgen Adler et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11121">2505.11121</a></td>
 </tr>
 </tbody></table>

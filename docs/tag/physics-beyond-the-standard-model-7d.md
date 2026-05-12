@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02491.html">From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model</a></div><div class="paper-tags"><a href="hep-7d.html">hep</a> · <a href="particle-physics-7d.html">particle-physics</a></div></td>
-<td>Altan Cakir et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02491">2605.02491</a></td>
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09000.html">Optimizing Yukawa couplings to suppress Dimension-five Proton Decay in $SU(5)$ GUT</a></div></td>
+<td>Naoyuki Haba et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09000">2605.09000</a></td>
 </tr>
 </tbody></table>

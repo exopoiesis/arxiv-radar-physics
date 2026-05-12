@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04337.html">Symbolic Regression via Neural Networks</a></div></td>
 <td>Nibodh Boddupalli et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04337">2605.04337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10266.html">Dynamic mode decomposition for detecting oscillatory transient activity via sparsity and smoothness regularization</a></div></td>
-<td>Yutaro Tanaka et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10266">2508.10266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02526.html">Set-Based Training of Neural Barrier Certificates for Safety Verification of Dynamical Systems</a></div></td>
-<td>Miriam Kranzlmüller et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02526">2605.02526</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24175.html">Photometric redshift estimation for emission line galaxies of DESI Legacy Imaging Surveys by CNN-MLP</a></div></td>
 <td>Shirui Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24175">2505.24175</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10976.html">Automated quasar continuum estimation using neural networks: a comparative study of deep-learning architectures</a></div></td>
-<td>Francesco Pistis et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10976">2505.10976</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09718.html">Learning stochastic multiscale models through normalizing flows</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Anan Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09718">2605.09718</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26581.html">Normalizing flows for density estimation in multi-detector gravitational-wave searches</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Sam Insley et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14298.html">Deep learning-driven likelihood-free parameter inference for 21-cm forest observations</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Tian-Yang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2407.14298">2407.14298</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14452.html">Efficient Monte Carlo Event Generation for Neutrino-Nucleus Exclusive Cross Sections</a></div></td>
-<td>Mathias El Baz et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14452">2502.14452</a></td>
 </tr>
 </tbody></table>

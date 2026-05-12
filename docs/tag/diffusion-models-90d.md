@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09275.html">DiffATS: Diffusion in Aligned Tensor Space</a></div></td>
+<td>Jinhua Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09275">2605.09275</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09771.html">Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning</a></div></td>
+<td>Ziquan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09771">2605.09771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08804.html">Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion</a></div></td>
+<td>Jianhui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08804">2605.08804</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
@@ -1136,35 +1154,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10574.html">Cosmic-ray electron propagation in NGC 3044 from radio continuum observations</a></div></td>
 <td>Shengtao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10574">2602.10574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13981.html">Decomposed Direct Preference Optimization for Structure-Based Drug Design</a></div></td>
-<td>Xiwei Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13981">2407.13981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09424.html">Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design</a></div></td>
-<td>Prin Phunyaphibarn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09424">2602.09424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09651.html">The Entropic Signature of Class Speciation in Diffusion Models</a></div></td>
-<td>Florian Handke et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09651">2602.09651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09708.html">Physics-informed diffusion models in spectral space</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Davide Gallon et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09708">2602.09708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10172.html">Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Md. Khairul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10172">2602.10172</a></td>
 </tr>
 </tbody></table>

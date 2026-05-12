@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22231.html">FM-RME: Foundation Model Empowered Radio Map Estimation</a></div></td>
 <td>Dong Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22231">2602.22231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11668.html">Neural Gaussian Radio Fields for Channel Estimation</a></div></td>
-<td>Muhammad Umer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11668">2508.11668</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10158.html">NMRTrans: Structure Elucidation from Experimental NMR Spectra via Set Transformers</a></div></td>
-<td>Liujia Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10158">2602.10158</a></td>
 </tr>
 </tbody></table>

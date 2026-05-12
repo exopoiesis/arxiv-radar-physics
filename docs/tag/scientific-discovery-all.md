@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">629 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
+<td>Michael Chin</td>
+<td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
+<td>Vinay Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08941">2605.08941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
+<td>Harshit Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07723.html">LLM hallucinations in the wild: Large-scale evidence from non-existent citations</a></div></td>

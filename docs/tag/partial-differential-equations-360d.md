@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">820 papers</span>
+  <span class="paper-count">821 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09718.html">Learning stochastic multiscale models through normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Anan Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09718">2605.09718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08672.html">Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Yuxuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08672">2605.08672</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07157.html">Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Francesc Levrero-Florencio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08408.html">AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08408">2605.08408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -4922,17 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12020.html">GeoMaNO: Geometric Mamba Neural Operator for Partial Differential Equations</a></div></td>
 <td>Xi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12020">2505.12020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11308.html">Reinforcement Learning Closures for Underresolved Partial Differential Equations using Synthetic Data</a></div></td>
-<td>Lothar Heimbach et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11308">2505.11308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11682.html">Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Ananyae Kumar Bhartari et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11682">2505.11682</a></td>
 </tr>
 </tbody></table>

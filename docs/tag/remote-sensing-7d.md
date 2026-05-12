@@ -16,6 +16,30 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10184.html">Developing a foundation model for high-resolution remote sensing data of the Netherlands</a></div></td>
+<td>Paul Vermeeren et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10184">2605.10184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09455.html">Adaptive 3D Convolution for Remote Sensing Image Fusion</a></div></td>
+<td>Siran Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09455">2605.09455</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09642.html">From Expansion to Consolidation: Socio-Spatial Contagion Dynamics in Off-Grid PV Adoption</a></div></td>
+<td>Roni Blushtein-Livnon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09642">2605.09642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09687.html">Spatial-Frequency Gated Swin Transformer for Remote Sensing Single-Image Super-Resolution</a></div></td>
+<td>Md Aminur Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09687">2605.09687</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
 <td>Kai Zheng et al.</td>
@@ -46,33 +70,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.04206">2605.04206</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23566.html">Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Luigi Sigillo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23566">2506.23566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02184.html">RAFNet: Region-Aware Fusion Network for Pansharpening</a></div></td>
-<td>Jianing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02184">2605.02184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02198.html">SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Ce Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02198">2605.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02283.html">Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM</a></div></td>
-<td>Hyobin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02283">2605.02283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
-<td>Ryan Faulkenberry et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08196.html">Survey on Disaster Management Datasets for Remote Sensing Based Emergency Applications</a></div></td>
+<td>Alain P. Ndigande et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08196">2605.08196</a></td>
 </tr>
 </tbody></table>

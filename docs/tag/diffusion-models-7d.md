@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09275.html">DiffATS: Diffusion in Aligned Tensor Space</a></div></td>
+<td>Jinhua Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09275">2605.09275</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09771.html">Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning</a></div></td>
+<td>Ziquan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09771">2605.09771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08804.html">Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion</a></div></td>
+<td>Jianhui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08804">2605.08804</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
@@ -62,29 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04291.html">Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion</a></div></td>
 <td>Tarun Kathuria et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04291">2605.04291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23566.html">Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
-<td>Luigi Sigillo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23566">2506.23566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.23286.html">VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation</a></div></td>
-<td>Hongyang Du et al.</td>
-<td><a href="http://arxiv.org/abs/2601.23286">2601.23286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02198.html">SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
-<td>Ce Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02198">2605.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02989.html">Information Theory and Statistical Learning</a></div></td>
-<td>Abbas El Gamal</td>
-<td><a href="http://arxiv.org/abs/2605.02989">2605.02989</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08645.html">Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device</a></div><div class="paper-tags"><a href="plasma-physics-7d.html">plasma-physics</a></div></td>
+<td>Phil Travis et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08645">2605.08645</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
 <td>Chia-Hsiang Lin et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div></td>
 <td>Ahmadreza Eslaminia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03328">2605.03328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15030.html">Anomaly Detection from a Tensor Train Perspective</a></div><div class="paper-tags"><a href="tensor-networks-7d.html">tensor-networks</a></div></td>
-<td>Alejandro Mata Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15030">2409.15030</a></td>
 </tr>
 </tbody></table>

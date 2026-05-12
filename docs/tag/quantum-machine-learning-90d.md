@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09226.html">Quantum Injection Pathways for Implicit Graph Neural Networks</a></div></td>
+<td>Pengyuan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09226">2605.09226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
@@ -956,17 +962,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12465.html">Probabilistic Design of Parametrized Quantum Circuits through Local Gate Modifications</a></div></td>
 <td>Grier M. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12465">2602.12465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09718.html">SAQNN: Spectral Adaptive Quantum Neural Network as a Universal Approximator</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Jialiang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09718">2602.09718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09909.html">Tucker iterative quantum state preparation</a></div></td>
-<td>Carsten Blank et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09909">2602.09909</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">434 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Paul Lartaud et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10249">2605.10249</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09037.html">Plato&#x27;s view on supermassive black hole binaries: Exploring the faint limit of ESA&#x27;s Plato space mission</a></div></td>
+<td>Nicholas Jannsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09037">2605.09037</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
@@ -2606,11 +2618,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17346.html">Use of Bayesian Inference to Diagnose Issues in Experimental Measurements of Mechanical Disk Resonators</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Simon C. Tait et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17346">2505.17346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10181.html">Bayesian analysis of a (3+1)D hybrid approach with initial conditions from hadronic transport</a></div></td>
-<td>Niklas Götz et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10181">2503.10181</a></td>
 </tr>
 </tbody></table>

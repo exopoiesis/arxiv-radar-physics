@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Paul Lartaud et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10249">2605.10249</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Dongming Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09718.html">Learning stochastic multiscale models through normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Anan Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09718">2605.09718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08672.html">Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yuxuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08672">2605.08672</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07752.html">Robust and Reliable AI for Predictive Quality in Semiconductor Materials Manufacturing with MLOps and Uncertainty Quantification</a></div></td>
@@ -986,23 +1010,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08215.html">Distribution-Free Robust Predict-Then-Optimize in Function Spaces</a></div></td>
 <td>Yash Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08215">2602.08215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12777.html">Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis</a></div></td>
-<td>James Rudd-Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12777">2504.12777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07681.html">Mapping Drivers of Greenness: Spatial Variable Selection for MODIS Vegetation Indices</a></div></td>
-<td>Qishi Zhan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07681">2602.07681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09963.html">Drug Release Modeling using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Daanish Aleem Qureshi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09963">2602.09963</a></td>
 </tr>
 </tbody></table>

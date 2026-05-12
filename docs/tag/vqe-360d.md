@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vqe — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <strong>360d</strong> <a href="vqe-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04146.html">Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
 <td>Simone Cantori et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04146">2506.04146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10842.html">Accelerating Parameter Initialization in Quantum Chemical Simulations via LSTM-FC-VQE</a></div></td>
-<td>Ran-Yu Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10842">2505.10842</a></td>
 </tr>
 </tbody></table>

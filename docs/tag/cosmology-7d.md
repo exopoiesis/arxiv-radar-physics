@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10105.html">Application of Machine Learning to 21 cm Cosmology</a></div></td>
+<td>Hayato Shimabukuro</td>
+<td><a href="http://arxiv.org/abs/2605.10105">2605.10105</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
 <td>Julia Dima et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03446.html">\textit{Euclid} preparation. Baryon acoustic oscillations extraction techniques: comparison and optimisation</a></div></td>
 <td>Euclid Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03446">2605.03446</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20429.html">Estimating the triaxiality of massive clusters from 2D observables in MillenniumTNG with machine learning</a></div></td>
-<td>Ana Maria Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20429">2511.20429</a></td>
 </tr>
 </tbody></table>

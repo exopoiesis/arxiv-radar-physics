@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,29 +1550,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11350.html">Structured Hybrid Mechanistic Models for Robust Estimation of Time-Dependent Intervention Outcomes</a></div></td>
 <td>Tomer Meir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11350">2602.11350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04538.html">HypeRL: Hypernetwork-Based Reinforcement Learning for Control of Parametrized Dynamical Systems</a></div></td>
-<td>Nicolò Botteghi et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04538">2501.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08185.html">Improving Long-Range Interactions in Graph Neural Simulators via Hamiltonian Dynamics</a></div></td>
-<td>Tai Hoang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08185">2511.08185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09791.html">Toeplitz Based Spectral Methods for Data-driven Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Vladimir R. Kostic et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09791">2602.09791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11206.html">UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra</a></div></td>
-<td>Jose Marie Antonio Miñoza</td>
-<td><a href="http://arxiv.org/abs/2602.11206">2602.11206</a></td>
 </tr>
 </tbody></table>

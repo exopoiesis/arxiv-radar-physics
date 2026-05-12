@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qaoa — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <strong>90d</strong> <a href="qaoa-360d.html">360d</a> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16018.html">Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era</a></div></td>
 <td>Armin Ahmadkhaniha et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16018">2602.16018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09374.html">Surrogate-Guided Quantum Discovery in Black-Box Landscapes with Latent-Quadratic Interaction Embedding Transformers</a></div></td>
-<td>Saisubramaniam Gopalakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09374">2602.09374</a></td>
 </tr>
 </tbody></table>

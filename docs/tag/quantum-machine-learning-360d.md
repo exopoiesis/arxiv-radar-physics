@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09226.html">Quantum Injection Pathways for Implicit Graph Neural Networks</a></div></td>
+<td>Pengyuan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09226">2605.09226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Tiffany Duneau et al.</td>
@@ -3320,11 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13695.html">Large-scale quantum reservoir computing using a Gaussian Boson Sampler</a></div></td>
 <td>Valeria Cimini et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13695">2505.13695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21686.html">Molecular Quantum Transformer</a></div></td>
-<td>Yuichi Kamata et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21686">2503.21686</a></td>
 </tr>
 </tbody></table>

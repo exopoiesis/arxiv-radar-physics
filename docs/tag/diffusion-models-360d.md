@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">618 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09275.html">DiffATS: Diffusion in Aligned Tensor Space</a></div></td>
+<td>Jinhua Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09275">2605.09275</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09771.html">Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning</a></div></td>
+<td>Ziquan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09771">2605.09771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08804.html">Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion</a></div></td>
+<td>Jianhui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08804">2605.08804</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
@@ -3686,41 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02866.html">Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models</a></div></td>
 <td>Borong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02866">2408.02866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02205.html">From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Peiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02205">2502.02205</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01917.html">Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling</a></div></td>
-<td>Javier E. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01917">2505.01917</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10784.html">SynRailObs: A Synthetic Dataset for Obstacle Detection in Railway Scenarios</a></div></td>
-<td>Qiushi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10784">2505.10784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11278.html">A Fourier Space Perspective on Diffusion Models</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Fabian Falck et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11278">2505.11278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11720.html">UGoDIT: Unsupervised Group Deep Image Prior Via Transferable Weights</a></div></td>
-<td>Shijun Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11720">2505.11720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13501.html">SPIEDiff: robust learning of long-time macroscopic dynamics from short-time particle simulations with quantified epistemic uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Zequn He et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13501">2505.13501</a></td>
 </tr>
 </tbody></table>

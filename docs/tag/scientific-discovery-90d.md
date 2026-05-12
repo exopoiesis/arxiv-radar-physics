@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">180 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
+<td>Michael Chin</td>
+<td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
+<td>Vinay Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08941">2605.08941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
+<td>Harshit Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07723.html">LLM hallucinations in the wild: Large-scale evidence from non-existent citations</a></div></td>
@@ -1076,35 +1094,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29592.html">Bioinspired123D: Generative 3D Modeling System for Bioinspired Structures</a></div></td>
 <td>Rachel K. Luu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29592">2603.29592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11524.html">HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation</a></div></td>
-<td>Haokun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11524">2504.11524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02380.html">The Refutability Gap: Challenges in Validating Reasoning by Large Language Models</a></div></td>
-<td>Elchanan Mossel</td>
-<td><a href="http://arxiv.org/abs/2601.02380">2601.02380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09430.html">Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments</a></div></td>
-<td>Yiwen Pang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09430">2602.09430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09443.html">P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads</a></div></td>
-<td>Yun Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09443">2602.09443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09801.html">Tiny Moves: Game-based Hypothesis Refinement</a></div></td>
-<td>Agnieszka Dobrowolska et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09801">2602.09801</a></td>
 </tr>
 </tbody></table>

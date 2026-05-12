@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,11 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05052.html">Learning, Solving and Optimizing PDEs with TensorGalerkin: an efficient high-performance Galerkin assembly algorithm</a></div></td>
 <td>Shizheng Wen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05052">2602.05052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09487.html">Adaptive recurrent flow map operator learning for reaction diffusion dynamics</a></div></td>
-<td>Huseyin Tunc</td>
-<td><a href="http://arxiv.org/abs/2602.09487">2602.09487</a></td>
 </tr>
 </tbody></table>

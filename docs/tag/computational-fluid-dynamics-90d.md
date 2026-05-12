@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09629.html">Image-Based Whole-Heart Cardiac Flow Simulations in Health and Congenital Heart Disease</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Fanwei Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09629">2605.09629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08832.html">Inpainting physics: self-supervised learning for context-driven fluid simulation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Jonas Weidner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08832">2605.08832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08872.html">Data-driven Symbolic Closure for Turbulence Modeling in the Lattice Boltzmann Framework</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
+<td>Yujie Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08872">2605.08872</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>

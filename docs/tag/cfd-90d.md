@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09629.html">Image-Based Whole-Heart Cardiac Flow Simulations in Health and Congenital Heart Disease</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Fanwei Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09629">2605.09629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08832.html">Inpainting physics: self-supervised learning for context-driven fluid simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Jonas Weidner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08832">2605.08832</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07131.html">A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -368,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11666.html">PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>E Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11666">2602.11666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10363.html">Transonic Buffet Modeling via Invariant Manifolds</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Tea Vojković et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10363">2602.10363</a></td>
 </tr>
 </tbody></table>

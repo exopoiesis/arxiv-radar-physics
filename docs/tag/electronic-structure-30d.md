@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08523.html">Machine-learned, finite temperature Fermi-operator expansions suitable for GPUs and AI-hardware</a></div></td>
+<td>Stanislaw Kowalski et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08523">2605.08523</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09001.html">Surprisingly High Redundancy in Electronic Structure Data Across Materials Explained by Low Intrinsic Dimensionality</a></div></td>
 <td>Sazzad Hossain et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16205.html">ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis</a></div></td>
 <td>Vitor F. Grizzi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16205">2604.16205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11827.html">Inverse Design of Inorganic Compounds with Generative AI</a></div></td>
-<td>Hannes Kneiding et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11827">2604.11827</a></td>
 </tr>
 </tbody></table>

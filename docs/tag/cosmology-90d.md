@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10105.html">Application of Machine Learning to 21 cm Cosmology</a></div></td>
+<td>Hayato Shimabukuro</td>
+<td><a href="http://arxiv.org/abs/2605.10105">2605.10105</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Julia Dima et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12870.html">GAME: Genetic Algorithms with Marginalised Ensembles for model-independent reconstruction of cosmological quantities</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Matteo Peronaci et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12870">2602.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07177.html">Ten-dimensional neural network emulator for the nonlinear matter power spectrum</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Yanhui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07177">2507.07177</a></td>
 </tr>
 </tbody></table>

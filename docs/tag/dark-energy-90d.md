@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12870.html">GAME: Genetic Algorithms with Marginalised Ensembles for model-independent reconstruction of cosmological quantities</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Matteo Peronaci et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12870">2602.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07177.html">Ten-dimensional neural network emulator for the nonlinear matter power spectrum</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Yanhui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07177">2507.07177</a></td>
 </tr>
 </tbody></table>

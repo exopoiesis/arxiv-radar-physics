@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <strong>90d</strong> <a href="reduced-order-modeling-360d.html">360d</a> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03925.html">Learning Lagrangian Interaction Dynamics with Sampling-Based Model Order Reduction</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="rom-90d.html">rom</a></div></td>
 <td>Hrishikesh Viswanath et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03925">2407.03925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10363.html">Transonic Buffet Modeling via Invariant Manifolds</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Tea Vojković et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10363">2602.10363</a></td>
 </tr>
 </tbody></table>

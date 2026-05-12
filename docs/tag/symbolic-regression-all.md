@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09696.html">Discovery of Nonlinear Dynamics with Automated Basis Function Generation</a></div></td>
+<td>Mohammad Amin Basiri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09696">2605.09696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08872.html">Data-driven Symbolic Closure for Turbulence Modeling in the Lattice Boltzmann Framework</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="turbulence-modeling-all.html">turbulence-modeling</a></div></td>
+<td>Yujie Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08872">2605.08872</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>

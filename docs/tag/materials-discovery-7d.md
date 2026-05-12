@@ -16,27 +16,27 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div></td>
+<td>S. A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09495">2605.09495</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Dongming Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Amir Masoud Nourollah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06839.html">LLM-Guided Open Hypothesis Learning from Autonomous Scanning Probe Microscopy Experiments</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
 <td>Boris Slautin et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06839">2605.06839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Superconductor Discovery</a></div></td>
-<td>Mingze Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02267.html">Composition-Weighted Symbolic Regression for General-Purpose Property Prediction</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Yang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02267">2605.02267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03081.html">Building a physics-aware AI ecosystem for solid-state hydrogen storage materials</a></div></td>
-<td>Seong-Hoon Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03081">2605.03081</a></td>
 </tr>
 </tbody></table>

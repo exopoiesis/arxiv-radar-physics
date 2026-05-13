@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3536,17 +3536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06697.html">Mamba-MOC: A Multicategory Remote Object Counting via State Space Model</a></div></td>
 <td>Peng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.06697">2501.06697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12066.html">Beluga Whale Detection from Satellite Imagery with Point Labels</a></div></td>
-<td>Yijie Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12066">2505.12066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12069.html">MT-CYP-Net: Multi-Task Network for Pixel-Level Crop Yield Prediction Under Very Few Samples</a></div></td>
-<td>Shenzhou Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12069">2505.12069</a></td>
 </tr>
 </tbody></table>

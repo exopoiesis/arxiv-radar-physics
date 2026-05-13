@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">530 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Mehmet Ali Ferah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
@@ -3188,17 +3194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14935.html">PCA-DDReach: Efficient Statistical Reachability Analysis of Stochastic Dynamical Systems via Principal Component Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Navid Hashemi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14935">2505.14935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11804.html">Are vision language models robust to uncertain inputs?</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Xi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11804">2505.11804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11957.html">Uncertainty and Error Quantification for Data-Driven Reynolds-Averaged Turbulence Modelling with Mean-Variance Estimation Networks</a></div></td>
-<td>Anthony Man et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11957">2505.11957</a></td>
 </tr>
 </tbody></table>

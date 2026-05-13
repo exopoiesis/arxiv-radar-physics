@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Mehmet Ali Ferah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
@@ -308,23 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11237.html">A Physics-Aware Variational Graph Autoencoder for Joint Modal Identification with Uncertainty Quantification</a></div></td>
 <td>Bhargav Nath et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11237">2604.11237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02983.html">BLADE: Bayesian Langevin Active Discovery with Replica Exchange for Identification of Complex Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Cindy Xiangrui Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02983">2503.02983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06788.html">From Perception to Autonomous Computational Modeling: A Multi-Agent Approach</a></div></td>
-<td>Daniel N. Wilke</td>
-<td><a href="http://arxiv.org/abs/2604.06788">2604.06788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10854.html">Uncertainty-Aware Sparse Identification of Dynamical Systems via Bayesian Model Averaging</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Shuhei Kashiwamura et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10854">2604.10854</a></td>
 </tr>
 </tbody></table>

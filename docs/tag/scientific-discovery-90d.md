@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-90d.html">fusion-energy</a></div></td>
+<td>Gary Staebler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
 <td>Michael Chin</td>
 <td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Juan Diego Toscano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -1058,41 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11760.html">Aggregate Models, Not Explanations: Improving Feature Importance Estimation</a></div></td>
 <td>Joseph Paillard et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11760">2602.11760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11462.html">Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model</a></div></td>
-<td>Yisen Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11462">2510.11462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16376.html">Polymer-Agent: Large Language Model Agent for Polymer Design</a></div></td>
-<td>Vani Nigam et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16376">2601.16376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09116.html">Importance inversion transfer identifies shared principles for cross-domain learning</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Daniele Caligiore</td>
-<td><a href="http://arxiv.org/abs/2602.09116">2602.09116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10576.html">LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Boxiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10576">2602.10576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11118.html">A Doubly Robust Machine Learning Approach for Disentangling Treatment Effect Heterogeneity with Functional Outcomes</a></div></td>
-<td>Filippo Salmaso et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11118">2602.11118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29592.html">Bioinspired123D: Generative 3D Modeling System for Bioinspired Structures</a></div></td>
-<td>Rachel K. Luu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29592">2603.29592</a></td>
 </tr>
 </tbody></table>

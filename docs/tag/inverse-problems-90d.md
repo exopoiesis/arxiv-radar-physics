@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10136.html">Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Bum Jun Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Juan Diego Toscano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>
@@ -680,23 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Wenqian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12149.html">Multigrid Monte Carlo Revisited: Theory and Bayesian Inference</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Yoshihito Kazashi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12149">2407.12149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06184.html">A Policy Iteration Method for Inverse Mean Field Games</a></div></td>
-<td>Kui Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06184">2409.06184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08515.html">Do physics-informed neural networks (PINNs) need to be deep? Shallow PINNs using the Levenberg-Marquardt algorithm</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Muhammad Luthfi Shahab et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08515">2602.08515</a></td>
 </tr>
 </tbody></table>

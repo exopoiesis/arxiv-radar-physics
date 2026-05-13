@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Jevon Twitty et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11287">2605.11287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08645.html">Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device</a></div><div class="paper-tags"><a href="plasma-physics-360d.html">plasma-physics</a></div></td>
 <td>Phil Travis et al.</td>
@@ -1904,11 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12594.html">AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection</a></div></td>
 <td>Tiankai Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12594">2505.12594</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11804.html">Are vision language models robust to uncertain inputs?</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Xi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11804">2505.11804</a></td>
 </tr>
 </tbody></table>

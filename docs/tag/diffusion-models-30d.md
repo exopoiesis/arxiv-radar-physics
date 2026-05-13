@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,17 +392,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11403.html">One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions</a></div></td>
 <td>Mario Lino et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11403">2604.11403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07773.html">Symmetry-Aware Generative Modeling through Learned Canonicalization</a></div></td>
-<td>Kusha Sareen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07773">2501.07773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12156.html">SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Chen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12156">2507.12156</a></td>
 </tr>
 </tbody></table>

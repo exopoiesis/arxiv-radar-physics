@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Jevon Twitty et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11287">2605.11287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08645.html">Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device</a></div><div class="paper-tags"><a href="plasma-physics-7d.html">plasma-physics</a></div></td>
 <td>Phil Travis et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04405.html">Detecting Deepfakes via Hamiltonian Dynamics</a></div></td>
 <td>Harry Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04405">2605.04405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div></td>
-<td>Ahmadreza Eslaminia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03328">2605.03328</a></td>
 </tr>
 </tbody></table>

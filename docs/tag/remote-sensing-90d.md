@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,23 +1028,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13350.html">Detecting Brick Kiln Infrastructure at Scale: Graph, Foundation, and Remote Sensing Models for Satellite Imagery Data</a></div></td>
 <td>Usman Nazir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13350">2602.13350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15147.html">From Pixels to Images: A Structural Survey of Deep Learning Paradigms in Remote Sensing Image Semantic Segmentation</a></div></td>
-<td>Quanwei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15147">2505.15147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10491.html">Towards Remote Sensing Change Detection with Neural Memory</a></div></td>
-<td>Zhenyu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10491">2602.10491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10513.html">1%&gt;100%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization</a></div></td>
-<td>Dongshuo Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10513">2602.10513</a></td>
 </tr>
 </tbody></table>

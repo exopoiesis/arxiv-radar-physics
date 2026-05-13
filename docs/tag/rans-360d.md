@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10751.html">Matching-with-Contracts for the AI-RAN Market: AIGC-as-a-Service for Teleoperation</a></div></td>
+<td>Zijun Zhan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10751">2605.10751</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>

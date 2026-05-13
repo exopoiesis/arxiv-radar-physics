@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Jevon Twitty et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11287">2605.11287</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08645.html">Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
@@ -518,23 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00540.html">Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era</a></div></td>
 <td>Wenbing Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00540">2511.00540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09116.html">Importance inversion transfer identifies shared principles for cross-domain learning</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Daniele Caligiore</td>
-<td><a href="http://arxiv.org/abs/2602.09116">2602.09116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10432.html">A Dual-Stream Physics-Augmented Unsupervised Architecture for Runtime Embedded Vehicle Health Monitoring</a></div></td>
-<td>Enzo Nicolas Spotorno et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10432">2602.10432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10549.html">Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance</a></div></td>
-<td>Shengyang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10549">2602.10549</a></td>
 </tr>
 </tbody></table>

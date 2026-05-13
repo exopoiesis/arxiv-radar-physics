@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pde-learning — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="pde-learning-7d.html">7d</a> <a href="pde-learning-30d.html">30d</a> <a href="pde-learning-90d.html">90d</a> <a href="pde-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10451.html">Don&#x27;t Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Xuxiang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10451">2605.10451</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01493.html">OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>

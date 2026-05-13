@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">614 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3698,11 +3698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12882.html">PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Hao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12882">2505.12882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02866.html">Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models</a></div></td>
-<td>Borong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02866">2408.02866</a></td>
 </tr>
 </tbody></table>

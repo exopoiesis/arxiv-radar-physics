@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-360d.html">fusion-energy</a></div></td>
+<td>Gary Staebler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
 <td>Michael Chin</td>
 <td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Juan Diego Toscano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -2972,17 +2984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13400.html">Robin: A multi-agent system for automating scientific discovery</a></div></td>
 <td>Ali Essam Ghareeb et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13400">2505.13400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11855.html">When AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification of Scientific Research</a></div></td>
-<td>Guijin Son et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11855">2505.11855</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12039.html">AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research</a></div></td>
-<td>Renqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12039">2505.12039</a></td>
 </tr>
 </tbody></table>

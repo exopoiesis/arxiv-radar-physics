@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Andreas Langer</td>
+<td><a href="http://arxiv.org/abs/2605.08877">2605.08877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09975.html">Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Hoyeol Yoon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09975">2605.09975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10136.html">Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Bum Jun Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09707.html">Adaptive Data Harvesting for Efficient Neural Network Learning with Universal Constraints</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Siteng Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09707">2605.09707</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08672.html">Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Yuxuan Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08672">2605.08672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11001.html">Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Xiaofeng Liu</td>
+<td><a href="http://arxiv.org/abs/2605.11001">2605.11001</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>
@@ -47,9 +71,21 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08318.html">When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Brandon Yee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08408.html">AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Binghang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08408">2605.08408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08517.html">A Deep Risk Estimator for Known Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Andreas Maier et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08517">2605.08517</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -350,17 +386,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20440.html">DDC-PINNs: A Predictor-Corrector Approach Based on Neural Network-Driven Domain Decomposition and Classical ODE Solvers for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Xun Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20440">2508.20440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12982.html">RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Pablo Herrera et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12982">2603.12982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20881.html">High-Fidelity Reconstruction of Charge Boundary Layers and Sharp Interfaces in Electro-Thermal-Convective Flows via Residual-Attention PINNs</a></div></td>
-<td>Baitong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20881">2604.20881</a></td>
 </tr>
 </tbody></table>

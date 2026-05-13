@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Mehmet Ali Ferah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Paul Lartaud et al.</td>
@@ -1004,11 +1010,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Wenqian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08215.html">Distribution-Free Robust Predict-Then-Optimize in Function Spaces</a></div></td>
-<td>Yash Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08215">2602.08215</a></td>
 </tr>
 </tbody></table>

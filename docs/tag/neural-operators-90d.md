@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2605.09523">2605.09523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11691.html">Compositional Neural Operators for Multi-Dimensional Fluid Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Hamda Hmida et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11691">2605.11691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12025.html">Approximation Theory of Laplacian-Based Neural Operators for Reaction-Diffusion System</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Takashi Furuya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12025">2605.12025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10154.html">Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Xiaoxiao Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10154">2605.10154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10159.html">jNO: A JAX Library for Neural Operator and Foundation Model Training</a></div></td>
+<td>Leon Armbruster et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10159">2605.10159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10451.html">Don&#x27;t Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a></div></td>
+<td>Xuxiang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10451">2605.10451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08915.html">Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Hanru Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08915">2605.08915</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08938.html">Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators</a></div></td>
+<td>Ali Baheri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08938">2605.08938</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Chun-Wun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09096.html">Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates</a></div></td>
+<td>Enrique Hernández Noguera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09096">2605.09096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09189.html">Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World</a></div></td>
+<td>Christopher M. Bryant et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09189">2605.09189</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07365.html">Solving Convolution-type Integral Equations using Preconditioned Neural Operators</a></div></td>
@@ -38,6 +104,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Francesc Levrero-Florencio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08318.html">When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Brandon Yee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08466.html">Multiscale modeling of materials and neural operators</a></div></td>
+<td>Kaushik Bhattacharya</td>
+<td><a href="http://arxiv.org/abs/2605.08466">2605.08466</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -98,6 +176,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02597.html">Isotropic Fourier Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Michael F. Staddon</td>
 <td><a href="http://arxiv.org/abs/2605.02597">2605.02597</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08170.html">Quantitative Sobolev Approximation Bounds for Neural Operators with Empirical Validation on Burgers Equation</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Nicole Hao</td>
+<td><a href="http://arxiv.org/abs/2605.08170">2605.08170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
@@ -692,23 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12706.html">Physics-Informed Laplace Neural Operator for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Heechang Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12706">2602.12706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14656.html">A hybrid minimizing movement and neural network approach to Willmore flow</a></div></td>
-<td>Martin Rumpf et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14656">2502.14656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01702.html">A unified framework for geometry-independent operator learning in cardiac electrophysiology simulations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Bei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01702">2512.01702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11090.html">Direct Learning of Calibration-Aware Uncertainty for Neural PDE Surrogates</a></div></td>
-<td>Carlos Stein Brito</td>
-<td><a href="http://arxiv.org/abs/2602.11090">2602.11090</a></td>
 </tr>
 </tbody></table>

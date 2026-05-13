@@ -1,8 +1,8 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 17945 papers across 29 months.
+**Total corpus:** 18007 papers across 29 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -40,6 +40,38 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-12**|**Non-Uniqueness of Solutions in Neural Variational Methods**|Andreas Langer|[2605.08877](http://arxiv.org/abs/2605.08877)|[md](abstracts/2605.08877.md)|
+|**2026-05-12**|**HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations**|Lennon J. Shikhman|[2605.09523](http://arxiv.org/abs/2605.09523)|[md](abstracts/2605.09523.md)|
+|**2026-05-12**|**EqOD: Symmetry-Informed Stability Selection for PDE Identification**|Gnankan Landry Regis N'guessan et al.|[2605.11524](http://arxiv.org/abs/2605.11524)|[md](abstracts/2605.11524.md)|
+|**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et al.|[2605.11691](http://arxiv.org/abs/2605.11691)|[md](abstracts/2605.11691.md)|
+|**2026-05-12**|**NOFE -- Neural Operator Function Embedding**|Lars Uebbing et al.|[2605.11970](http://arxiv.org/abs/2605.11970)|[md](abstracts/2605.11970.md)|
+|**2026-05-12**|**Approximation Theory of Laplacian-Based Neural Operators for Reaction-Diffusion System**|Takashi Furuya et al.|[2605.12025](http://arxiv.org/abs/2605.12025)|[md](abstracts/2605.12025.md)|
+|**2026-05-12**|**Rethink the Role of Neural Decoders in Quantum Error Correction**|Ge Yan et al.|[2605.12046](http://arxiv.org/abs/2605.12046)|[md](abstracts/2605.12046.md)|
+|**2026-05-12**|**Approximation of Maximally Monotone Operators : A Graph Convergence Perspective**|Takashi Furuya et al.|[2605.12301](http://arxiv.org/abs/2605.12301)|[md](abstracts/2605.12301.md)|
+|**2026-05-12**|**Neural-Schwarz Tiling for Geometry-Universal PDE Solving at Scale**|Paolo Secchi et al.|[2605.12343](http://arxiv.org/abs/2605.12343)|[md](abstracts/2605.12343.md)|
+|**2026-05-11**|**Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs**|Hoyeol Yoon et al.|[2605.09975](http://arxiv.org/abs/2605.09975)|[md](abstracts/2605.09975.md)|
+|**2026-05-11**|**Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks**|Bum Jun Kim et al.|[2605.10136](http://arxiv.org/abs/2605.10136)|[md](abstracts/2605.10136.md)|
+|**2026-05-11**|**Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators**|Xiaoxiao Lu et al.|[2605.10154](http://arxiv.org/abs/2605.10154)|[md](abstracts/2605.10154.md)|
+|**2026-05-11**|**jNO: A JAX Library for Neural Operator and Foundation Model Training**|Leon Armbruster et al.|[2605.10159](http://arxiv.org/abs/2605.10159)|[md](abstracts/2605.10159.md)|
+|**2026-05-11**|**Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs**|Koichi Taniguchi et al.|[2605.10277](http://arxiv.org/abs/2605.10277)|[md](abstracts/2605.10277.md)|
+|**2026-05-11**|**Don't Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs**|Xuxiang Zhao et al.|[2605.10451](http://arxiv.org/abs/2605.10451)|[md](abstracts/2605.10451.md)|
+|**2026-05-11**|**PhysEDA: Physics-Aware Learning Framework for Efficient EDA With Manhattan Distance Decay**|Zetao Yang|[2605.10547](http://arxiv.org/abs/2605.10547)|[md](abstracts/2605.10547.md)|
+|**2026-05-11**|**CausalGS: Learning Physical Causality of 3D Dynamic Scenes with Gaussian Representations**|Nengbo Lu et al.|[2605.10586](http://arxiv.org/abs/2605.10586)|[md](abstracts/2605.10586.md)|
+|**2026-05-11**|**ShardTensor: Domain Parallelism for Scientific Machine Learning**|Corey Adams et al.|[2605.11111](http://arxiv.org/abs/2605.11111)|[md](abstracts/2605.11111.md)|
+|**2026-05-11**|**GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms**|Juan Diego Toscano et al.|[2605.11117](http://arxiv.org/abs/2605.11117)|[md](abstracts/2605.11117.md)|
+|**2026-05-11**|**Beyond Similarity: Temporal Operator Attention for Time Series Analysis**|Jevon Twitty et al.|[2605.11287](http://arxiv.org/abs/2605.11287)|[md](abstracts/2605.11287.md)|
+|**2026-05-10**|**MC$^2$: Monte Carlo Correction for Fast Elliptic PDE Solving**|Ethan Hsu et al.|[2605.09288](http://arxiv.org/abs/2605.09288)|[md](abstracts/2605.09288.md)|
+|**2026-05-10**|**Kernel Learning of PDE Solution Operators**|Jianyu Hu et al.|[2605.09643](http://arxiv.org/abs/2605.09643)|[md](abstracts/2605.09643.md)|
+|**2026-05-10**|**Adaptive Data Harvesting for Efficient Neural Network Learning with Universal Constraints**|Siteng Kang et al.|[2605.09707](http://arxiv.org/abs/2605.09707)|[md](abstracts/2605.09707.md)|
+|**2026-05-09**|**Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs**|Yuxuan Zhao et al.|[2605.08672](http://arxiv.org/abs/2605.08672)|[md](abstracts/2605.08672.md)|
+|**2026-05-09**|**M$^3$: Reframing Training Measures for Discretized Physical Simulations**|Yuan Mei et al.|[2605.08843](http://arxiv.org/abs/2605.08843)|[md](abstracts/2605.08843.md)|
+|**2026-05-09**|**Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow**|Hanru Bai et al.|[2605.08915](http://arxiv.org/abs/2605.08915)|[md](abstracts/2605.08915.md)|
+|**2026-05-09**|**Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators**|Ali Baheri et al.|[2605.08938](http://arxiv.org/abs/2605.08938)|[md](abstracts/2605.08938.md)|
+|**2026-05-09**|**CATO: Charted Attention for Neural PDE Operators**|Chun-Wun Cheng et al.|[2605.09016](http://arxiv.org/abs/2605.09016)|[md](abstracts/2605.09016.md)|
+|**2026-05-09**|**Inferring identified hadron production in $pp$ collisions with physics-informed machine learning at the LHC**|Rishabh Gupta et al.|[2605.09022](http://arxiv.org/abs/2605.09022)|[md](abstracts/2605.09022.md)|
+|**2026-05-09**|**Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates**|Enrique Hernández Noguera et al.|[2605.09096](http://arxiv.org/abs/2605.09096)|[md](abstracts/2605.09096.md)|
+|**2026-05-09**|**Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World**|Christopher M. Bryant et al.|[2605.09189](http://arxiv.org/abs/2605.09189)|[md](abstracts/2605.09189.md)|
+|**2026-05-09**|**Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance**|Xiaofeng Liu|[2605.11001](http://arxiv.org/abs/2605.11001)|[md](abstracts/2605.11001.md)|
 |**2026-05-08**|**Functional-prior-based Bayesian PDE-constrained inversion using PINNs**|Ryoichiro Agata et al.|[2605.07060](http://arxiv.org/abs/2605.07060)|[md](abstracts/2605.07060.md)|
 |**2026-05-08**|**Stabilized neural Hamilton--Jacobi--Bellman solvers: Error analysis and applications in model-based reinforcement learning**|Minseok Kim et al.|[2605.07116](http://arxiv.org/abs/2605.07116)|[md](abstracts/2605.07116.md)|
 |**2026-05-08**|**A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades**|Yuan Huang et al.|[2605.07131](http://arxiv.org/abs/2605.07131)|[md](abstracts/2605.07131.md)|
@@ -52,51 +84,59 @@
 |**2026-05-08**|**Neural Operators as Efficient Function Interpolators**|Vasilis Niarchos et al.|[2605.07792](http://arxiv.org/abs/2605.07792)|[md](abstracts/2605.07792.md)|
 |**2026-05-08**|**NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs**|Francesc Levrero-Florencio et al.|[2605.07828](http://arxiv.org/abs/2605.07828)|[md](abstracts/2605.07828.md)|
 |**2026-05-08**|**Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data**|Eunhan Ka et al.|[2605.08028](http://arxiv.org/abs/2605.08028)|[md](abstracts/2605.08028.md)|
+|**2026-05-08**|**When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains**|Brandon Yee et al.|[2605.08318](http://arxiv.org/abs/2605.08318)|[md](abstracts/2605.08318.md)|
+|**2026-05-08**|**AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training**|Binghang Lu et al.|[2605.08408](http://arxiv.org/abs/2605.08408)|[md](abstracts/2605.08408.md)|
+|**2026-05-08**|**Multiscale modeling of materials and neural operators**|Kaushik Bhattacharya|[2605.08466](http://arxiv.org/abs/2605.08466)|[md](abstracts/2605.08466.md)|
+|**2026-05-08**|**A Deep Risk Estimator for Known Operator Learning**|Andreas Maier et al.|[2605.08517](http://arxiv.org/abs/2605.08517)|[md](abstracts/2605.08517.md)|
 |**2026-05-07**|**Towards Scalable One-Step Generative Modeling for Autoregressive Dynamical System Forecasting**|Tianyue Yang et al.|[2605.05540](http://arxiv.org/abs/2605.05540)|[md](abstracts/2605.05540.md)|
 |**2026-05-07**|**Von Neumann Networks**|Shekhar S. Chandra|[2605.05780](http://arxiv.org/abs/2605.05780)|[md](abstracts/2605.05780.md)|
-|**2026-05-07**|**Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning**|Yanming Xia et al.|[2605.05862](http://arxiv.org/abs/2605.05862)|[md](abstracts/2605.05862.md)|
-|**2026-05-07**|**Physical Fidelity Reconstruction via Improved Consistency-Distilled Flow Matching for Dynamical Systems**|Sicheng Ma et al.|[2605.05975](http://arxiv.org/abs/2605.05975)|[md](abstracts/2605.05975.md)|
-|**2026-05-07**|**Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions**|Tatsuhiro Misumi|[2605.06022](http://arxiv.org/abs/2605.06022)|[md](abstracts/2605.06022.md)|
-|**2026-05-07**|**Adaptive Coordinate Transforms for Neural Operators**|Chaoyu Liu et al.|[2605.06203](http://arxiv.org/abs/2605.06203)|[md](abstracts/2605.06203.md)|
-|**2026-05-07**|**INEUS: Iterative Neural Solver for High-Dimensional PIDEs**|Jean-Loup Dupret et al.|[2605.06281](http://arxiv.org/abs/2605.06281)|[md](abstracts/2605.06281.md)|
-|**2026-05-07**|**Geometric Kolmogorov--Arnold Network (GeoKAN)**|Abhijit Sen et al.|[2605.06740](http://arxiv.org/abs/2605.06740)|[md](abstracts/2605.06740.md)|
-|**2026-05-07**|**One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators**|Panos Tsimpos et al.|[2605.06873](http://arxiv.org/abs/2605.06873)|[md](abstracts/2605.06873.md)|
-|**2026-05-07**|**Learned Lyapunov Shielding for Adaptive Control**|Giansalvo Cirrincione et al.|[2605.06934](http://arxiv.org/abs/2605.06934)|[md](abstracts/2605.06934.md)|
-|**2026-05-06**|**FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning**|Waleed Razzaq et al.|[2605.04421](http://arxiv.org/abs/2605.04421)|[md](abstracts/2605.04421.md)|
-|**2026-05-06**|**Structure-Preserving and Pressure-Robust PINNs for Incompressible Oseen Problems**|Shiv Mishra et al.|[2605.04427](http://arxiv.org/abs/2605.04427)|[md](abstracts/2605.04427.md)|
-|**2026-05-06**|**Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs**|Isabela M. Yepes et al.|[2605.04502](http://arxiv.org/abs/2605.04502)|[md](abstracts/2605.04502.md)|
-|**2026-05-06**|**Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems**|Miloš Babić et al.|[2605.04708](http://arxiv.org/abs/2605.04708)|[md](abstracts/2605.04708.md)|
-|**2026-05-06**|**Replay-Based Continual Learning for Physics-Informed Neural Operators**|Yizheng Wang et al.|[2605.04832](http://arxiv.org/abs/2605.04832)|[md](abstracts/2605.04832.md)|
-|**2026-05-06**|**Hybrid Iterative Neural Low-Regularity Integrator for Nonlinear Dispersive Equations**|Zhangyong Liang|[2605.04853](http://arxiv.org/abs/2605.04853)|[md](abstracts/2605.04853.md)|
-|**2026-05-06**|**A Robust Foundation Model for Conservation Laws: Injecting Context into Flux Neural Operators via Recurrent Vision Transformers**|Taeyoung Kim et al.|[2605.05488](http://arxiv.org/abs/2605.05488)|[md](abstracts/2605.05488.md)|
-|**2026-05-05**|**Local Truncation Error-Guided Neural ODEs for Large Scale Traffic Forecasting**|Xiao Zhang et al.|[2605.03386](http://arxiv.org/abs/2605.03386)|[md](abstracts/2605.03386.md)|
-|**2026-05-05**|**GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains**|James Rowbottom et al.|[2605.03497](http://arxiv.org/abs/2605.03497)|[md](abstracts/2605.03497.md)|
-|**2026-05-05**|**Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations**|Zhao Wei et al.|[2605.03511](http://arxiv.org/abs/2605.03511)|[md](abstracts/2605.03511.md)|
-|**2026-05-05**|**Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks**|Diego Marcondes|[2605.03542](http://arxiv.org/abs/2605.03542)|[md](abstracts/2605.03542.md)|
-|**2026-05-05**|**Simultaneous CNN Approximation on Manifolds with Applications to Boundary Value Problems**|Hanfei Zhou et al.|[2605.04126](http://arxiv.org/abs/2605.04126)|[md](abstracts/2605.04126.md)|
-|**2026-05-05**|**A physics-informed neural network approach to solve the spatially inhomogeneous electron Boltzmann equation**|Ihda Chaerony Siffa et al.|[2605.04307](http://arxiv.org/abs/2605.04307)|[md](abstracts/2605.04307.md)|
-|**2026-05-04**|**Cell-induced densification and tether formation in fibrous extracellular matrices with biomimetic physics-informed neural networks**|Anci Lin et al.|[2603.29184](http://arxiv.org/abs/2603.29184)|[md](abstracts/2603.29184.md)|
-|**2026-05-04**|**SPAMoE: Spectrum-Aware Hybrid Operator Framework for Full-Waveform Inversion**|Zhenyu Wang et al.|[2604.07421](http://arxiv.org/abs/2604.07421)|[md](abstracts/2604.07421.md)|
-|**2026-05-04**|**KANs need curvature: penalties for compositional smoothness**|James Bagrow|[2605.02190](http://arxiv.org/abs/2605.02190)|[md](abstracts/2605.02190.md)|
-|**2026-05-04**|**Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering**|Ayushi Awasthi Ishwar Kant Arushi Sharma M. R. Ganesh Kumar et al.|[2605.02264](http://arxiv.org/abs/2605.02264)|[md](abstracts/2605.02264.md)|
-|**2026-05-04**|**Variational Matrix-Learning Fourier Networks for Parametric Multiphysics Surrogates**|Xinyu Li et al.|[2605.02280](http://arxiv.org/abs/2605.02280)|[md](abstracts/2605.02280.md)|
-|**2026-05-04**|**A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture**|Shuwei Zhou et al.|[2605.02310](http://arxiv.org/abs/2605.02310)|[md](abstracts/2605.02310.md)|
-|**2026-05-04**|**Geometric Quantum Physics Informed Neural Network**|Wai-Hong Tam et al.|[2605.02352](http://arxiv.org/abs/2605.02352)|[md](abstracts/2605.02352.md)|
-|**2026-05-04**|**ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamic**|Xianli Zhu et al.|[2605.02356](http://arxiv.org/abs/2605.02356)|[md](abstracts/2605.02356.md)|
-|**2026-05-04**|**Physics-Informed Neural Learning for State Reconstruction and Parameter Identification in Coupled Greenhouse Climate Dynamics**|Sani Biswas et al.|[2605.02524](http://arxiv.org/abs/2605.02524)|[md](abstracts/2605.02524.md)|
-|**2026-05-04**|**Isotropic Fourier Neural Operators**|Michael F. Staddon|[2605.02597](http://arxiv.org/abs/2605.02597)|[md](abstracts/2605.02597.md)|
-|**2026-05-04**|**Exchange-Only Silicon Based Spin Qubits: Charge Noise, PINN Optimised Pulse Sequences,and Gate-Level Fidelity**|Rajdeep Rameshchandra Dwivedi et al.|[2605.03056](http://arxiv.org/abs/2605.03056)|[md](abstracts/2605.03056.md)|
-|**2026-05-04**|**From Information Geometry to Jet Substructure: A Triality of Cumulant Tensors, Energy Correlators, and Hypergraphs**|Aritra Bal et al.|[2605.03063](http://arxiv.org/abs/2605.03063)|[md](abstracts/2605.03063.md)|
-|**2026-05-04**|**Phy2-ExposNet: A Physics-Informed Neural Network for EMF Exposure Mapping in Complex Urban Environments**|Shuangning Li et al.|[2605.03207](http://arxiv.org/abs/2605.03207)|[md](abstracts/2605.03207.md)|
-|**2026-05-03**|**DuFal: Dual-Frequency-Aware Learning for High-Fidelity Extremely Sparse-view CBCT Reconstruction**|Cuong Tran Van et al.|[2601.15416](http://arxiv.org/abs/2601.15416)|[md](abstracts/2601.15416.md)|
-|**2026-05-03**|**Physics-Constrained Learning of Dose-Dependent Spectral Degradation in Metal--Organic Frameworks from In Situ Low-Loss EELS**|Gabriel T. dos Santos et al.|[2605.01697](http://arxiv.org/abs/2605.01697)|[md](abstracts/2605.01697.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Dynamical Systems & PDE Learning
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-12**|**HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations**|Lennon J. Shikhman|[2605.09523](http://arxiv.org/abs/2605.09523)|[md](abstracts/2605.09523.md)|
+|**2026-05-12**|**Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification**|Mehmet Ali Ferah et al.|[2605.11460](http://arxiv.org/abs/2605.11460)|[md](abstracts/2605.11460.md)|
+|**2026-05-12**|**EqOD: Symmetry-Informed Stability Selection for PDE Identification**|Gnankan Landry Regis N'guessan et al.|[2605.11524](http://arxiv.org/abs/2605.11524)|[md](abstracts/2605.11524.md)|
+|**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et al.|[2605.11610](http://arxiv.org/abs/2605.11610)|[md](abstracts/2605.11610.md)|
+|**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et al.|[2605.11691](http://arxiv.org/abs/2605.11691)|[md](abstracts/2605.11691.md)|
+|**2026-05-12**|**Approximation Theory of Laplacian-Based Neural Operators for Reaction-Diffusion System**|Takashi Furuya et al.|[2605.12025](http://arxiv.org/abs/2605.12025)|[md](abstracts/2605.12025.md)|
+|**2026-05-12**|**A deep learning approach for pricing convertible bonds with path-dependent reset and call provisions**|Qinwen Zhu et al.|[2605.12189](http://arxiv.org/abs/2605.12189)|[md](abstracts/2605.12189.md)|
+|**2026-05-12**|**Approximation of Maximally Monotone Operators : A Graph Convergence Perspective**|Takashi Furuya et al.|[2605.12301](http://arxiv.org/abs/2605.12301)|[md](abstracts/2605.12301.md)|
+|**2026-05-12**|**Neural-Schwarz Tiling for Geometry-Universal PDE Solving at Scale**|Paolo Secchi et al.|[2605.12343](http://arxiv.org/abs/2605.12343)|[md](abstracts/2605.12343.md)|
+|**2026-05-12**|**MetaColloc: Optimization-Free PDE Solving via Meta-Learned Basis Functions**|Zichuan Yang|[2605.12368](http://arxiv.org/abs/2605.12368)|[md](abstracts/2605.12368.md)|
+|**2026-05-11**|**Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs**|Hoyeol Yoon et al.|[2605.09975](http://arxiv.org/abs/2605.09975)|[md](abstracts/2605.09975.md)|
+|**2026-05-11**|**Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks**|Bum Jun Kim et al.|[2605.10136](http://arxiv.org/abs/2605.10136)|[md](abstracts/2605.10136.md)|
+|**2026-05-11**|**Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators**|Xiaoxiao Lu et al.|[2605.10154](http://arxiv.org/abs/2605.10154)|[md](abstracts/2605.10154.md)|
+|**2026-05-11**|**jNO: A JAX Library for Neural Operator and Foundation Model Training**|Leon Armbruster et al.|[2605.10159](http://arxiv.org/abs/2605.10159)|[md](abstracts/2605.10159.md)|
+|**2026-05-11**|**Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs**|Koichi Taniguchi et al.|[2605.10277](http://arxiv.org/abs/2605.10277)|[md](abstracts/2605.10277.md)|
+|**2026-05-11**|**Multifidelity Gaussian process regression for solving nonlinear partial differential equations**|Fatima-Zahrae El-Boukkouri et al.|[2605.10383](http://arxiv.org/abs/2605.10383)|[md](abstracts/2605.10383.md)|
+|**2026-05-11**|**Don't Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs**|Xuxiang Zhao et al.|[2605.10451](http://arxiv.org/abs/2605.10451)|[md](abstracts/2605.10451.md)|
+|**2026-05-11**|**VeloGauss: Learning Physically Consistent Gaussian Velocity Fields from Videos**|Nengbo Lu et al.|[2605.10567](http://arxiv.org/abs/2605.10567)|[md](abstracts/2605.10567.md)|
+|**2026-05-11**|**CausalGS: Learning Physical Causality of 3D Dynamic Scenes with Gaussian Representations**|Nengbo Lu et al.|[2605.10586](http://arxiv.org/abs/2605.10586)|[md](abstracts/2605.10586.md)|
+|**2026-05-11**|**The finite expression method for turbulent dynamics with high-order moment recovery**|Xingjian Xu et al.|[2605.10687](http://arxiv.org/abs/2605.10687)|[md](abstracts/2605.10687.md)|
+|**2026-05-11**|**Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography**|Timothy Oladunni et al.|[2605.10871](http://arxiv.org/abs/2605.10871)|[md](abstracts/2605.10871.md)|
+|**2026-05-11**|**Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves**|Tousif Islam et al.|[2605.11280](http://arxiv.org/abs/2605.11280)|[md](abstracts/2605.11280.md)|
+|**2026-05-11**|**Neural Statistical Functions**|Daniel Xu et al.|[2605.11327](http://arxiv.org/abs/2605.11327)|[md](abstracts/2605.11327.md)|
+|**2026-05-10**|**DiffATS: Diffusion in Aligned Tensor Space**|Jinhua Lyu et al.|[2605.09275](http://arxiv.org/abs/2605.09275)|[md](abstracts/2605.09275.md)|
+|**2026-05-10**|**Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations**|Jiyeon Kim et al.|[2605.09284](http://arxiv.org/abs/2605.09284)|[md](abstracts/2605.09284.md)|
+|**2026-05-10**|**MC$^2$: Monte Carlo Correction for Fast Elliptic PDE Solving**|Ethan Hsu et al.|[2605.09288](http://arxiv.org/abs/2605.09288)|[md](abstracts/2605.09288.md)|
+|**2026-05-10**|**Constitutive Priors for Inverse Design**|Jinkyo Han et al.|[2605.09307](http://arxiv.org/abs/2605.09307)|[md](abstracts/2605.09307.md)|
+|**2026-05-10**|**Your Simulation Runs but Solves the Wrong Physics: PDE-Grounded Intent Verification for LLM-Generated Multiphysics Simulation Code**|Zhenghan Song et al.|[2605.09360](http://arxiv.org/abs/2605.09360)|[md](abstracts/2605.09360.md)|
+|**2026-05-10**|**Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators**|S. A. Shteingolts et al.|[2605.09495](http://arxiv.org/abs/2605.09495)|[md](abstracts/2605.09495.md)|
+|**2026-05-10**|**Kernel Learning of PDE Solution Operators**|Jianyu Hu et al.|[2605.09643](http://arxiv.org/abs/2605.09643)|[md](abstracts/2605.09643.md)|
+|**2026-05-10**|**Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon**|Víctor Gallego|[2605.09708](http://arxiv.org/abs/2605.09708)|[md](abstracts/2605.09708.md)|
+|**2026-05-10**|**Learning stochastic multiscale models through normalizing flows**|Anan Saha et al.|[2605.09718](http://arxiv.org/abs/2605.09718)|[md](abstracts/2605.09718.md)|
+|**2026-05-09**|**Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs**|Yuxuan Zhao et al.|[2605.08672](http://arxiv.org/abs/2605.08672)|[md](abstracts/2605.08672.md)|
+|**2026-05-09**|**Inpainting physics: self-supervised learning for context-driven fluid simulation**|Jonas Weidner et al.|[2605.08832](http://arxiv.org/abs/2605.08832)|[md](abstracts/2605.08832.md)|
+|**2026-05-09**|**M$^3$: Reframing Training Measures for Discretized Physical Simulations**|Yuan Mei et al.|[2605.08843](http://arxiv.org/abs/2605.08843)|[md](abstracts/2605.08843.md)|
+|**2026-05-09**|**Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow**|Hanru Bai et al.|[2605.08915](http://arxiv.org/abs/2605.08915)|[md](abstracts/2605.08915.md)|
+|**2026-05-09**|**Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators**|Ali Baheri et al.|[2605.08938](http://arxiv.org/abs/2605.08938)|[md](abstracts/2605.08938.md)|
+|**2026-05-09**|**CATO: Charted Attention for Neural PDE Operators**|Chun-Wun Cheng et al.|[2605.09016](http://arxiv.org/abs/2605.09016)|[md](abstracts/2605.09016.md)|
+|**2026-05-09**|**Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates**|Enrique Hernández Noguera et al.|[2605.09096](http://arxiv.org/abs/2605.09096)|[md](abstracts/2605.09096.md)|
+|**2026-05-09**|**Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance**|Xiaofeng Liu|[2605.11001](http://arxiv.org/abs/2605.11001)|[md](abstracts/2605.11001.md)|
 |**2026-05-08**|**Functional-prior-based Bayesian PDE-constrained inversion using PINNs**|Ryoichiro Agata et al.|[2605.07060](http://arxiv.org/abs/2605.07060)|[md](abstracts/2605.07060.md)|
 |**2026-05-08**|**Stabilized neural Hamilton--Jacobi--Bellman solvers: Error analysis and applications in model-based reinforcement learning**|Minseok Kim et al.|[2605.07116](http://arxiv.org/abs/2605.07116)|[md](abstracts/2605.07116.md)|
 |**2026-05-08**|**Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization**|Lyra Zhornyak et al.|[2605.07157](http://arxiv.org/abs/2605.07157)|[md](abstracts/2605.07157.md)|
@@ -107,53 +147,18 @@
 |**2026-05-08**|**Inference-Time Attribute Distribution Alignment for Unconditional Diffusion**|Hao Luan et al.|[2605.07456](http://arxiv.org/abs/2605.07456)|[md](abstracts/2605.07456.md)|
 |**2026-05-08**|**Physics-Informed Reduced-Order Operator Learning for Hyperelasticity in Continuum Micromechanics**|Hamidreza Eivazi et al.|[2605.07738](http://arxiv.org/abs/2605.07738)|[md](abstracts/2605.07738.md)|
 |**2026-05-08**|**NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs**|Francesc Levrero-Florencio et al.|[2605.07828](http://arxiv.org/abs/2605.07828)|[md](abstracts/2605.07828.md)|
-|**2026-05-07**|**Towards Scalable One-Step Generative Modeling for Autoregressive Dynamical System Forecasting**|Tianyue Yang et al.|[2605.05540](http://arxiv.org/abs/2605.05540)|[md](abstracts/2605.05540.md)|
-|**2026-05-07**|**AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling**|Francisco Giral et al.|[2605.05586](http://arxiv.org/abs/2605.05586)|[md](abstracts/2605.05586.md)|
-|**2026-05-07**|**Variational Smoothing and Inference for SDEs from Sparse Data with Dynamic Neural Flows**|Yu Wang et al.|[2605.05606](http://arxiv.org/abs/2605.05606)|[md](abstracts/2605.05606.md)|
-|**2026-05-07**|**MDN: Parallelizing Stepwise Momentum for Delta Linear Attention**|Yulong Huang et al.|[2605.05838](http://arxiv.org/abs/2605.05838)|[md](abstracts/2605.05838.md)|
-|**2026-05-07**|**Physical Fidelity Reconstruction via Improved Consistency-Distilled Flow Matching for Dynamical Systems**|Sicheng Ma et al.|[2605.05975](http://arxiv.org/abs/2605.05975)|[md](abstracts/2605.05975.md)|
-|**2026-05-07**|**Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics**|Kevin Slote et al.|[2605.06000](http://arxiv.org/abs/2605.06000)|[md](abstracts/2605.06000.md)|
-|**2026-05-07**|**Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition**|Yiming Pan et al.|[2605.06199](http://arxiv.org/abs/2605.06199)|[md](abstracts/2605.06199.md)|
-|**2026-05-07**|**Adaptive Coordinate Transforms for Neural Operators**|Chaoyu Liu et al.|[2605.06203](http://arxiv.org/abs/2605.06203)|[md](abstracts/2605.06203.md)|
-|**2026-05-07**|**Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations**|Jan-Hendrik Ewering et al.|[2605.06246](http://arxiv.org/abs/2605.06246)|[md](abstracts/2605.06246.md)|
-|**2026-05-07**|**INEUS: Iterative Neural Solver for High-Dimensional PIDEs**|Jean-Loup Dupret et al.|[2605.06281](http://arxiv.org/abs/2605.06281)|[md](abstracts/2605.06281.md)|
-|**2026-05-07**|**End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems**|Carles Balsells-Rodas et al.|[2605.06315](http://arxiv.org/abs/2605.06315)|[md](abstracts/2605.06315.md)|
-|**2026-05-07**|**Diffusion-Based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability**|Matias G. Delgadino et al.|[2605.06538](http://arxiv.org/abs/2605.06538)|[md](abstracts/2605.06538.md)|
-|**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et al.|[2605.06727](http://arxiv.org/abs/2605.06727)|[md](abstracts/2605.06727.md)|
-|**2026-05-07**|**Physics-based Digital Twins for Integrated Thermal Energy Systems Using Active Learning**|Umme Mahbuba Nabila et al.|[2605.06756](http://arxiv.org/abs/2605.06756)|[md](abstracts/2605.06756.md)|
-|**2026-05-07**|**Physics inspired quantum algorithm for QCD splitting functions**|Gabriel Rouxinol et al.|[2605.06789](http://arxiv.org/abs/2605.06789)|[md](abstracts/2605.06789.md)|
-|**2026-05-07**|**Accelerating integrated modeling with surrogate-based optimization: the MAESTRO workflow**|P. Rodriguez-Fernandez et al.|[2605.07047](http://arxiv.org/abs/2605.07047)|[md](abstracts/2605.07047.md)|
-|**2026-05-06**|**FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning**|Waleed Razzaq et al.|[2605.04421](http://arxiv.org/abs/2605.04421)|[md](abstracts/2605.04421.md)|
-|**2026-05-06**|**Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs**|Isabela M. Yepes et al.|[2605.04502](http://arxiv.org/abs/2605.04502)|[md](abstracts/2605.04502.md)|
-|**2026-05-06**|**From Video-to-PDE: Data-Driven Discovery of Nonlinear Dye Plume Dynamics**|Cesar Acosta-Minoli et al.|[2605.04535](http://arxiv.org/abs/2605.04535)|[md](abstracts/2605.04535.md)|
-|**2026-05-06**|**Neural-Guided Domain Restriction to Accelerate Pseudospectra Computation for Structured Non-normal Banded Matrices**|Amit Punia et al.|[2605.04550](http://arxiv.org/abs/2605.04550)|[md](abstracts/2605.04550.md)|
-|**2026-05-06**|**Counter-Dyna: Data-Efficient RL-Based HVAC Control using Counterfactual Building Models**|Jan Marco Ruiz de Vargas et al.|[2605.04555](http://arxiv.org/abs/2605.04555)|[md](abstracts/2605.04555.md)|
-|**2026-05-06**|**Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems**|Miloš Babić et al.|[2605.04708](http://arxiv.org/abs/2605.04708)|[md](abstracts/2605.04708.md)|
-|**2026-05-06**|**Hybrid Iterative Neural Low-Regularity Integrator for Nonlinear Dispersive Equations**|Zhangyong Liang|[2605.04853](http://arxiv.org/abs/2605.04853)|[md](abstracts/2605.04853.md)|
-|**2026-05-06**|**Koopman Identification of Nonlinear Systems via Reservoir Liftings**|Weibin Gu et al.|[2605.04917](http://arxiv.org/abs/2605.04917)|[md](abstracts/2605.04917.md)|
-|**2026-05-06**|**Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction**|Dan Wilson et al.|[2605.05134](http://arxiv.org/abs/2605.05134)|[md](abstracts/2605.05134.md)|
-|**2026-05-06**|**Graph Normalization: Fast Binarizing Dynamics for Differentiable MWIS**|Laurent Guigues|[2605.05330](http://arxiv.org/abs/2605.05330)|[md](abstracts/2605.05330.md)|
-|**2026-05-06**|**A Robust Foundation Model for Conservation Laws: Injecting Context into Flux Neural Operators via Recurrent Vision Transformers**|Taeyoung Kim et al.|[2605.05488](http://arxiv.org/abs/2605.05488)|[md](abstracts/2605.05488.md)|
-|**2026-05-05**|**Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations**|Zhao Wei et al.|[2605.03511](http://arxiv.org/abs/2605.03511)|[md](abstracts/2605.03511.md)|
-|**2026-05-05**|**Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks**|Diego Marcondes|[2605.03542](http://arxiv.org/abs/2605.03542)|[md](abstracts/2605.03542.md)|
-|**2026-05-05**|**PerFlow: Physics-Embedded Rectified Flow for Efficient Reconstruction and Uncertainty Quantification of Spatiotemporal Dynamics**|Hao Zhou et al.|[2605.03548](http://arxiv.org/abs/2605.03548)|[md](abstracts/2605.03548.md)|
-|**2026-05-05**|**Aerosol memory in stratocumulus clouds leads to noise-induced patterns and non-ergodic sampling**|Benjamin Hernandez et al.|[2605.04002](http://arxiv.org/abs/2605.04002)|[md](abstracts/2605.04002.md)|
-|**2026-05-05**|**Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models**|Melika Baghi et al.|[2605.04130](http://arxiv.org/abs/2605.04130)|[md](abstracts/2605.04130.md)|
-|**2026-05-05**|**Symbolic Regression via Neural Networks**|Nibodh Boddupalli et al.|[2605.04337](http://arxiv.org/abs/2605.04337)|[md](abstracts/2605.04337.md)|
-|**2026-05-04**|**Dynamic mode decomposition for detecting oscillatory transient activity via sparsity and smoothness regularization**|Yutaro Tanaka et al.|[2508.10266](http://arxiv.org/abs/2508.10266)|[md](abstracts/2508.10266.md)|
-|**2026-05-04**|**Low-rank surrogate modeling and stochastic zero-order optimization for training of neural networks with black-box layers**|Andrei Chertkov et al.|[2509.15113](http://arxiv.org/abs/2509.15113)|[md](abstracts/2509.15113.md)|
-|**2026-05-04**|**Low-dimensional geometry learning for turbulence prediction in optimized stellarators**|Xishuo Wei et al.|[2603.17366](http://arxiv.org/abs/2603.17366)|[md](abstracts/2603.17366.md)|
-|**2026-05-04**|**Variational Matrix-Learning Fourier Networks for Parametric Multiphysics Surrogates**|Xinyu Li et al.|[2605.02280](http://arxiv.org/abs/2605.02280)|[md](abstracts/2605.02280.md)|
-|**2026-05-04**|**A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture**|Shuwei Zhou et al.|[2605.02310](http://arxiv.org/abs/2605.02310)|[md](abstracts/2605.02310.md)|
-|**2026-05-04**|**Geometric Quantum Physics Informed Neural Network**|Wai-Hong Tam et al.|[2605.02352](http://arxiv.org/abs/2605.02352)|[md](abstracts/2605.02352.md)|
-|**2026-05-04**|**Set-Based Training of Neural Barrier Certificates for Safety Verification of Dynamical Systems**|Miriam Kranzlmüller et al.|[2605.02526](http://arxiv.org/abs/2605.02526)|[md](abstracts/2605.02526.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Quantum Physics & Information
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-12**|**Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability**|Chon-Fai Kam et al.|[2605.11557](http://arxiv.org/abs/2605.11557)|[md](abstracts/2605.11557.md)|
+|**2026-05-12**|**Rethink the Role of Neural Decoders in Quantum Error Correction**|Ge Yan et al.|[2605.12046](http://arxiv.org/abs/2605.12046)|[md](abstracts/2605.12046.md)|
+|**2026-05-11**|**SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis**|Sean Feeney et al.|[2605.10327](http://arxiv.org/abs/2605.10327)|[md](abstracts/2605.10327.md)|
+|**2026-05-11**|**Quantum and classical processing with photonic quantum machine learning**|J. C. López Carreño et al.|[2605.10471](http://arxiv.org/abs/2605.10471)|[md](abstracts/2605.10471.md)|
+|**2026-05-11**|**Training continuously-coupled reconfigurable photonic chips with quantum machine learning**|Denis Stanev et al.|[2605.10577](http://arxiv.org/abs/2605.10577)|[md](abstracts/2605.10577.md)|
 |**2026-05-09**|**Quantum Injection Pathways for Implicit Graph Neural Networks**|Pengyuan Xu et al.|[2605.09226](http://arxiv.org/abs/2605.09226)|[md](abstracts/2605.09226.md)|
 |**2026-05-08**|**Compositional Quantum Heuristics for Max-Clique Detection**|Tiffany Duneau et al.|[2605.07611](http://arxiv.org/abs/2605.07611)|[md](abstracts/2605.07611.md)|
 |**2026-05-07**|**Temporal Coarse-Graining as the Origin of Macroscopic Friction in Quantum Spin Chains via Data-Driven Liouvillian Extraction**|Seiki Saito|[2605.05604](http://arxiv.org/abs/2605.05604)|[md](abstracts/2605.05604.md)|
@@ -199,18 +204,18 @@
 |**2026-04-28**|**Quantum Dynamics via Score Matching on Bohmian Trajectories**|Lei Wang|[2604.25137](http://arxiv.org/abs/2604.25137)|[md](abstracts/2604.25137.md)|
 |**2026-04-28**|**Graph-Conditioned Meta-Optimizer for QAOA Parameter Generation on Multiple Problem Classes**|Kien X. Nguyen et al.|[2604.25275](http://arxiv.org/abs/2604.25275)|[md](abstracts/2604.25275.md)|
 |**2026-04-28**|**One Coordinate at a Time: Convergence Guarantees for Rotosolve in Variational Quantum Algorithms**|Sayantan Pramanik et al.|[2604.25613](http://arxiv.org/abs/2604.25613)|[md](abstracts/2604.25613.md)|
-|**2026-04-28**|**Local tensor-train surrogates for quantum learning models**|Sreeraj Rajindran Nair et al.|[2604.25631](http://arxiv.org/abs/2604.25631)|[md](abstracts/2604.25631.md)|
-|**2026-04-28**|**Quantum-Inspired Robust and Scalable SAR Object Classification**|Maximilian Scharf et al.|[2604.25755](http://arxiv.org/abs/2604.25755)|[md](abstracts/2604.25755.md)|
-|**2026-04-28**|**QERNEL: a Scalable Large Electron Model**|Khachatur Nazaryan et al.|[2604.26018](http://arxiv.org/abs/2604.26018)|[md](abstracts/2604.26018.md)|
-|**2026-04-28**|**A Comprehensive Analysis of Accuracy and Robustness in Quantum Neural Networks**|Ban Q. Tran et al.|[2604.26110](http://arxiv.org/abs/2604.26110)|[md](abstracts/2604.26110.md)|
-|**2026-04-28**|**Lottery BP: Unlocking Quantum Error Decoding at Scale**|Yanzhang Zhu et al.|[2605.00038](http://arxiv.org/abs/2605.00038)|[md](abstracts/2605.00038.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Materials Science & Condensed Matter
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-12**|**The Geometry of Spectral Fluctuations: On Near-Optimal Conditions for Universal Gaussian CLTs, with Statistical Applications**|Yanqing Yin et al.|[2605.11372](http://arxiv.org/abs/2605.11372)|[md](abstracts/2605.11372.md)|
+|**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et al.|[2605.11610](http://arxiv.org/abs/2605.11610)|[md](abstracts/2605.11610.md)|
+|**2026-05-12**|**Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations**|Jhon Rogelnor A. Florida et al.|[2605.12067](http://arxiv.org/abs/2605.12067)|[md](abstracts/2605.12067.md)|
+|**2026-05-12**|**Tangent-Plane Evidential Uncertainty in Active Learning for Magnetic Interatomic Potentials**|Yang Cheng et al.|[2605.12353](http://arxiv.org/abs/2605.12353)|[md](abstracts/2605.12353.md)|
+|**2026-05-11**|**A Random-Matrix Criterion for Initializing Gated Recurrent Neural Networks**|Tommaso Fioratti et al.|[2605.10650](http://arxiv.org/abs/2605.10650)|[md](abstracts/2605.10650.md)|
 |**2026-05-10**|**Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis**|Nima Karimitari et al.|[2605.09394](http://arxiv.org/abs/2605.09394)|[md](abstracts/2605.09394.md)|
 |**2026-05-10**|**Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators**|S. A. Shteingolts et al.|[2605.09495](http://arxiv.org/abs/2605.09495)|[md](abstracts/2605.09495.md)|
 |**2026-05-10**|**Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment**|Dongming Mei et al.|[2605.09624](http://arxiv.org/abs/2605.09624)|[md](abstracts/2605.09624.md)|
@@ -256,20 +261,20 @@
 |**2026-05-01**|**Machine learning evaluation of structural descriptors for supercooled water**|Kohei Yoshikawa et al.|[2605.00415](http://arxiv.org/abs/2605.00415)|[md](abstracts/2605.00415.md)|
 |**2026-05-01**|**Kinetically Arrested Twin-Domain State in Formamidinium Lead Iodide**|Xia Liang et al.|[2605.00427](http://arxiv.org/abs/2605.00427)|[md](abstracts/2605.00427.md)|
 |**2026-05-01**|**Knowing when to trust machine-learned interatomic potentials**|Shams Mehdi et al.|[2605.00640](http://arxiv.org/abs/2605.00640)|[md](abstracts/2605.00640.md)|
-|**2026-05-01**|**Non-Markovian Dynamical Systems Modeling of Electroencephalogram-based Brain Activity for Anticipating the Cognitive Fatigue Level**|Zeinabsadat Saghi et al.|[2605.01043](http://arxiv.org/abs/2605.01043)|[md](abstracts/2605.01043.md)|
-|**2026-04-30**|**Learning transitions in classical Ising models and deformed toric codes**|Malte Pütz et al.|[2504.12385](http://arxiv.org/abs/2504.12385)|[md](abstracts/2504.12385.md)|
-|**2026-04-30**|**Vibrational infrared and Raman spectra of the methanol molecule with equivariant neural-network property surfaces**|Ayaki Sunaga et al.|[2602.17219](http://arxiv.org/abs/2602.17219)|[md](abstracts/2602.17219.md)|
-|**2026-04-30**|**OptiMat Alloys: a FAIR, living database of multi-principal element alloys enabled by a conversational agent**|Yang Hu et al.|[2604.21850](http://arxiv.org/abs/2604.21850)|[md](abstracts/2604.21850.md)|
-|**2026-04-30**|**Generative structure search for efficient and diverse discovery of molecular and crystal structures**|Yifang Qin et al.|[2604.27636](http://arxiv.org/abs/2604.27636)|[md](abstracts/2604.27636.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Fluid Dynamics & Plasma Physics
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et al.|[2605.11691](http://arxiv.org/abs/2605.11691)|[md](abstracts/2605.11691.md)|
+|**2026-05-12**|**High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning**|Ricard Montalà et al.|[2605.11981](http://arxiv.org/abs/2605.11981)|[md](abstracts/2605.11981.md)|
+|**2026-05-12**|**MPEX AI Digital Twins Milestone Report**|Gary Staebler et al.|[2605.12116](http://arxiv.org/abs/2605.12116)|[md](abstracts/2605.12116.md)|
+|**2026-05-12**|**Realizability-Constrained Machine Learning for Turbulence Closures in Wake Flows**|Talib Ansari et al.|[2605.12304](http://arxiv.org/abs/2605.12304)|[md](abstracts/2605.12304.md)|
 |**2026-05-11**|**Neural-ISAM: A hybrid in-situ machine learning approach for complex manifold-based combustion models in LES of turbulent flames**|S. Trevor Fush et al.|[2605.10028](http://arxiv.org/abs/2605.10028)|[md](abstracts/2605.10028.md)|
 |**2026-05-11**|**Bridging the Cognitive Gap: A Unified Memory Paradigm for 6G Agentic AI-RAN**|Xijun Wang et al.|[2605.10036](http://arxiv.org/abs/2605.10036)|[md](abstracts/2605.10036.md)|
+|**2026-05-11**|**Matching-with-Contracts for the AI-RAN Market: AIGC-as-a-Service for Teleoperation**|Zijun Zhan et al.|[2605.10751](http://arxiv.org/abs/2605.10751)|[md](abstracts/2605.10751.md)|
 |**2026-05-10**|**Image-Based Whole-Heart Cardiac Flow Simulations in Health and Congenital Heart Disease**|Fanwei Kong et al.|[2605.09629](http://arxiv.org/abs/2605.09629)|[md](abstracts/2605.09629.md)|
 |**2026-05-09**|**Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device**|Phil Travis et al.|[2605.08645](http://arxiv.org/abs/2605.08645)|[md](abstracts/2605.08645.md)|
 |**2026-05-09**|**Inpainting physics: self-supervised learning for context-driven fluid simulation**|Jonas Weidner et al.|[2605.08832](http://arxiv.org/abs/2605.08832)|[md](abstracts/2605.08832.md)|
@@ -313,13 +318,8 @@
 |**2026-04-24**|**Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling**|Matilde Fiore et al.|[2604.22882](http://arxiv.org/abs/2604.22882)|[md](abstracts/2604.22882.md)|
 |**2026-04-22**|**A Physics-Informed Neural Network for Solving the Quasi-static Magnetohydrodynamic Equations**|Jonathan S. Arnaud et al.|[2604.20085](http://arxiv.org/abs/2604.20085)|[md](abstracts/2604.20085.md)|
 |**2026-04-22**|**Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**|Aravind Venugopal et al.|[2604.20627](http://arxiv.org/abs/2604.20627)|[md](abstracts/2604.20627.md)|
-|**2026-04-22**|**Tokenised Flow Matching for Hierarchical Simulation Based Inference**|Giovanni Charles et al.|[2604.20723](http://arxiv.org/abs/2604.20723)|[md](abstracts/2604.20723.md)|
-|**2026-04-22**|**Droplet-LNO: Physics-Informed Laplace Neural Operators for Accurate Prediction of Droplet Spreading Dynamics on Complex Surfaces**|Ganesh Sahadeo Meshram et al.|[2604.20993](http://arxiv.org/abs/2604.20993)|[md](abstracts/2604.20993.md)|
-|**2026-04-21**|**Deep-Learning based surrogate models for plasma exhaust simulations -- SOLPS-NN**|Stefan Dasbach et al.|[2604.19223](http://arxiv.org/abs/2604.19223)|[md](abstracts/2604.19223.md)|
-|**2026-04-21**|**ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks**|Zeyu Fang et al.|[2604.19610](http://arxiv.org/abs/2604.19610)|[md](abstracts/2604.19610.md)|
-|**2026-04-21**|**Odour sensing in turbulent plumes with high-speed electronic nose and non-invasive ground truth**|Nik Dennler et al.|[2604.19626](http://arxiv.org/abs/2604.19626)|[md](abstracts/2604.19626.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Particle & High Energy Physics
 
@@ -376,7 +376,7 @@
 |**2026-04-28**|**Generative models on phase space**|Zachary Bogorad et al.|[2604.02415](http://arxiv.org/abs/2604.02415)|[md](abstracts/2604.02415.md)|
 |**2026-04-28**|**Big Dipper, Help Me Find A Way -- Dip-hunting at hadron colliders**|Diego A. Baron Moreno et al.|[2604.25407](http://arxiv.org/abs/2604.25407)|[md](abstracts/2604.25407.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Astrophysics & Cosmology
 
@@ -433,7 +433,7 @@
 |**2026-04-28**|**Learning Neural Operator Surrogates for the Black Hole Accretion Code**|Matthias Nägele et al.|[2604.25985](http://arxiv.org/abs/2604.25985)|[md](abstracts/2604.25985.md)|
 |**2026-04-28**|**Sensitivity of binary pulsar timing to spin-0 and spin-1 ultralight dark matter**|Federico Huxhagen et al.|[2604.26092](http://arxiv.org/abs/2604.26092)|[md](abstracts/2604.26092.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Climate, Weather & Geophysics
 
@@ -490,7 +490,7 @@
 |**2026-05-01**|**Beyond Visual Fidelity: Benchmarking Super-Resolution Models for Large-Scale Remote Sensing Imagery via Downstream Task Integration**|Zhili Li et al.|[2605.00310](http://arxiv.org/abs/2605.00310)|[md](abstracts/2605.00310.md)|
 |**2026-05-01**|**D-SHIFT: Transferring High Spatial Information from GRACE Monthly TWSA Mascon to Daily Products Using Generative Adversarial Networks**|Andreas Dombos et al.|[2605.00652](http://arxiv.org/abs/2605.00652)|[md](abstracts/2605.00652.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Generative Models & Discovery
 
@@ -547,7 +547,7 @@
 |**2026-05-07**|**Neural Network Representation of Generalized Parton Distributions (NNGPD)**|Jitao Xu et al.|[2605.06994](http://arxiv.org/abs/2605.06994)|[md](abstracts/2605.06994.md)|
 |**2026-05-07**|**Scalable Active Metamaterials for Shape-Morphing**|Jipeng Cui et al.|[2605.07030](http://arxiv.org/abs/2605.07030)|[md](abstracts/2605.07030.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs, DeepONet
 
@@ -604,7 +604,7 @@
 |**2025-01-02**|**Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach**|Qian Zhang et al.|[2501.08339](http://arxiv.org/abs/2501.08339)|[md](abstracts/2501.08339.md)|
 |**2024-12-21**|**KKANs: Kurkova-Kolmogorov-Arnold Networks and Their Learning Dynamics**|Juan Diego Toscano et al.|[2412.16738](http://arxiv.org/abs/2412.16738)|[md](abstracts/2412.16738.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators, PDE learning
 
@@ -633,7 +633,7 @@
 |**2024-05-09**|**The Language of Hyperelastic Materials**|Georgios Kissas et al.|[2402.04263](http://arxiv.org/abs/2402.04263)|[md](abstracts/2402.04263.md)|
 |**2024-01-30**|**Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning**|Tim De Ryck et al.|[2402.10926](http://arxiv.org/abs/2402.10926)|[md](abstracts/2402.10926.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs, Bayesian SciML
 
@@ -657,7 +657,7 @@
 |**2024-04-03**|**Composite Bayesian Optimization In Function Spaces Using NEON -- Neural Epistemic Operator Networks**|Leonardo Ferreira Guilhoto et al.|[2404.03099](http://arxiv.org/abs/2404.03099)|[md](abstracts/2404.03099.md)|
 |**2024-02-11**|**PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**|Sifan Wang et al.|[2402.00326](http://arxiv.org/abs/2402.00326)|[md](abstracts/2402.00326.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:Fourier neural operators
 
@@ -706,7 +706,7 @@
 |**2024-05-07**|**DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training**|Zhongkai Hao et al.|[2403.03542](http://arxiv.org/abs/2403.03542)|[md](abstracts/2403.03542.md)|
 |**2024-02-06**|**Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction**|Ziqi Ma et al.|[2402.01960](http://arxiv.org/abs/2402.01960)|[md](abstracts/2402.01960.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:SINDy, data-driven dynamics
 
@@ -737,7 +737,7 @@
 |**2024-08-28**|**Machine Learning in Viscoelastic Fluids via Energy-Based Kernel Embedding**|Samuel E. Otto et al.|[2404.14347](http://arxiv.org/abs/2404.14347)|[md](abstracts/2404.14347.md)|
 |**2024-02-12**|**PyDMD: A Python package for robust dynamic mode decomposition**|Sara M. Ichinaga et al.|[2402.07463](http://arxiv.org/abs/2402.07463)|[md](abstracts/2402.07463.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:data-driven dynamical systems
 
@@ -787,7 +787,7 @@
 |**2024-03-03**|**Data-driven local operator finding for reduced-order modelling of plasma systems: II. Application to parametric dynamics**|Farbod Faraji et al.|[2403.01532](http://arxiv.org/abs/2403.01532)|[md](abstracts/2403.01532.md)|
 |**2024-02-12**|**PyDMD: A Python package for robust dynamic mode decomposition**|Sara M. Ichinaga et al.|[2402.07463](http://arxiv.org/abs/2402.07463)|[md](abstracts/2402.07463.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators, multi-scale
 
@@ -803,7 +803,7 @@
 |**2024-12-03**|**Learning constitutive relations from experiments: 1. PDE constrained optimization**|Andrew Akerson et al.|[2412.02864](http://arxiv.org/abs/2412.02864)|[md](abstracts/2412.02864.md)|
 |**2024-02-20**|**Iterated learning and multiscale modeling of history-dependent architectured metamaterials**|Yupeng Zhang et al.|[2402.12674](http://arxiv.org/abs/2402.12674)|[md](abstracts/2402.12674.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators
 
@@ -822,7 +822,7 @@
 |**2024-10-17**|**Data Complexity Estimates for Operator Learning**|Nikola B. Kovachki et al.|[2405.15992](http://arxiv.org/abs/2405.15992)|[md](abstracts/2405.15992.md)|
 |**2024-02-24**|**Operator Learning: Algorithms and Analysis**|Nikola B. Kovachki et al.|[2402.15715](http://arxiv.org/abs/2402.15715)|[md](abstracts/2402.15715.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:ML for climate, dynamical systems
 
@@ -848,7 +848,7 @@
 |**2024-08-02**|**Transfer Learning for Emulating Ocean Climate Variability across $CO_2$ forcing**|Surya Dheeshjith et al.|[2405.18585](http://arxiv.org/abs/2405.18585)|[md](abstracts/2405.18585.md)|
 |**2024-03-06**|**Building Ocean Climate Emulators**|Adam Subel et al.|[2402.04342](http://arxiv.org/abs/2402.04342)|[md](abstracts/2402.04342.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:e3nn, equivariant tensor networks
 
@@ -868,7 +868,7 @@
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et al.|[2410.20516](http://arxiv.org/abs/2410.20516)|[md](abstracts/2410.20516.md)|
 |**2024-03-17**|**Phonon predictions with E(3)-equivariant graph neural networks**|Shiang Fang et al.|[2403.11347](http://arxiv.org/abs/2403.11347)|[md](abstracts/2403.11347.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:geometric deep learning
 
@@ -891,7 +891,7 @@
 |**2024-08-06**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et al.|[2402.08871](http://arxiv.org/abs/2402.08871)|[md](abstracts/2402.08871.md)|
 |**2024-05-02**|**Generative Active Learning for the Search of Small-molecule Protein Binders**|Maksym Korablyov et al.|[2405.01616](http://arxiv.org/abs/2405.01616)|[md](abstracts/2405.01616.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:extreme events, dynamical systems
 
@@ -905,7 +905,7 @@
 |**2024-06-17**|**Active search for Bifurcations**|Yorgos M. Psarellis et al.|[2406.11141](http://arxiv.org/abs/2406.11141)|[md](abstracts/2406.11141.md)|
 |**2024-06-10**|**Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages**|Eirini Katsidoniotaki et al.|[2406.04519](http://arxiv.org/abs/2406.04519)|[md](abstracts/2406.04519.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:Koopman operator theory
 
@@ -915,7 +915,7 @@
 |**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
 |**2024-07-08**|**Limits and Powers of Koopman Learning**|Matthew J. Colbrook et al.|[2407.06312](http://arxiv.org/abs/2407.06312)|[md](abstracts/2407.06312.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs co-author
 
@@ -930,7 +930,7 @@
 |**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
 |**2024-07-15**|**Physics-Informed Machine Learning for Smart Additive Manufacturing**|Rahul Sharma et al.|[2407.10761](http://arxiv.org/abs/2407.10761)|[md](abstracts/2407.10761.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:equivariant ML, generative models
 
@@ -949,7 +949,7 @@
 |**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et al.|[2410.02667](http://arxiv.org/abs/2410.02667)|[md](abstracts/2410.02667.md)|
 |**2024-08-06**|**Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI**|Theodore Papamarkou et al.|[2402.00809](http://arxiv.org/abs/2402.00809)|[md](abstracts/2402.00809.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:graph networks for physics simulation
 
@@ -975,7 +975,7 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine D -- Double-source-plane lens candidates**|Euclid Collaboration et al.|[2503.15327](http://arxiv.org/abs/2503.15327)|[md](abstracts/2503.15327.md)|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine E -- Ensemble classification of strong gravitational lenses: lessons for Data Release 1**|Euclid Collaboration et al.|[2503.15328](http://arxiv.org/abs/2503.15328)|[md](abstracts/2503.15328.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## via:author-whitelist:equivariant neural networks
 
@@ -984,4 +984,4 @@
 |**2026-03-04**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et al.|[2506.23971](http://arxiv.org/abs/2506.23971)|[md](abstracts/2506.23971.md)|
 |**2025-12-09**|**What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity**|Alexis Audran-Reiss et al.|[2511.15593](http://arxiv.org/abs/2511.15593)|[md](abstracts/2511.15593.md)|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>

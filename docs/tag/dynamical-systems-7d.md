@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Mehmet Ali Ferah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10687.html">The finite expression method for turbulent dynamics with high-order moment recovery</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Xingjian Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10687">2605.10687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10871.html">Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography</a></div></td>
+<td>Timothy Oladunni et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10871">2605.10871</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11327.html">Neural Statistical Functions</a></div></td>
+<td>Daniel Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11327">2605.11327</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07279.html">Physics-informed operator learning for transferable energy-dissipative microstructure dynamics</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
 <td>Jie Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07279">2605.07279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
+<td>Annie Marsden et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -62,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04917.html">Koopman Identification of Nonlinear Systems via Reservoir Liftings</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
 <td>Weibin Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04917">2605.04917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Zhao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04337.html">Symbolic Regression via Neural Networks</a></div></td>
-<td>Nibodh Boddupalli et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04337">2605.04337</a></td>
 </tr>
 </tbody></table>

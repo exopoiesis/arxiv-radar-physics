@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12025.html">Approximation Theory of Laplacian-Based Neural Operators for Reaction-Diffusion System</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Takashi Furuya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12025">2605.12025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12301.html">Approximation of Maximally Monotone Operators : A Graph Convergence Perspective</a></div></td>
+<td>Takashi Furuya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12301">2605.12301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10277.html">Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Koichi Taniguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10277">2605.10277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Jevon Twitty et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11287">2605.11287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09643.html">Kernel Learning of PDE Solution Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Jianyu Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09643">2605.09643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08843.html">M$^3$: Reframing Training Measures for Discretized Physical Simulations</a></div></td>
+<td>Yuan Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08843">2605.08843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Chun-Wun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07279.html">Physics-informed operator learning for transferable energy-dissipative microstructure dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
@@ -28,6 +70,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.07738">2605.07738</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08517.html">A Deep Risk Estimator for Known Operator Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Andreas Maier et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08517">2605.08517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Chaoyu Liu et al.</td>
@@ -38,6 +86,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02356.html">ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamic</a></div></td>
 <td>Xianli Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02356">2605.02356</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08170.html">Quantitative Sobolev Approximation Bounds for Neural Operators with Empirical Validation on Burgers Equation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Nicole Hao</td>
+<td><a href="http://arxiv.org/abs/2605.08170">2605.08170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
@@ -452,17 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Wenqian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01702.html">A unified framework for geometry-independent operator learning in cardiac electrophysiology simulations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Bei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01702">2512.01702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05052.html">Learning, Solving and Optimizing PDEs with TensorGalerkin: an efficient high-performance Galerkin assembly algorithm</a></div></td>
-<td>Shizheng Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05052">2602.05052</a></td>
 </tr>
 </tbody></table>

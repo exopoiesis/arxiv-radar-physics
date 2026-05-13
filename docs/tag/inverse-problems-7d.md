@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
+<td>Juan Diego Toscano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Ryoichiro Agata et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06538.html">Diffusion-Based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability</a></div></td>
 <td>Matias G. Delgadino et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06538">2605.06538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Zhao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
 </tr>
 </tbody></table>

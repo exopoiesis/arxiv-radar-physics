@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10751.html">Matching-with-Contracts for the AI-RAN Market: AIGC-as-a-Service for Teleoperation</a></div></td>
+<td>Zijun Zhan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10751">2605.10751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07444.html">Accelerated and data-efficient flow prediction in stirred tanks via physics-informed learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Mahdi Naderibeni et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15743.html">Physics-informed data-driven inference of an interpretable equivariant LES model of incompressible fluid turbulence</a></div><div class="paper-tags"><a href="les-90d.html">les</a></div></td>
 <td>Matteo Ugliotti et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15743">2602.15743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11076.html">Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing</a></div></td>
-<td>Kavan Fatehi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11076">2602.11076</a></td>
 </tr>
 </tbody></table>

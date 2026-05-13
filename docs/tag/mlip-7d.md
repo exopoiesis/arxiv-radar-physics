@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Zeyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11610">2605.11610</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div></td>
 <td>Nima Karimitari et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05746.html">Polarizable atomic multipoles for learning long-range electrostatics</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Dongjin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05746">2605.05746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03964.html">Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Eszter Varga-Umbrich et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03964">2605.03964</a></td>
 </tr>
 </tbody></table>

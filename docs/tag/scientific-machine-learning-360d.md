@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
+<td>Corey Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11111">2605.11111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Abhijit Sen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06740">2605.06740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08232.html">Hierarchical Multi-Fidelity Learning for Predicting Three-Dimensional Flame Wrinkling and Turbulent Burning Velocity</a></div></td>
+<td>Saghar Zolfaghari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08232">2605.08232</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
+<td>Corey Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11111">2605.11111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
@@ -32,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Abhijit Sen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06740">2605.06740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08232.html">Hierarchical Multi-Fidelity Learning for Predicting Three-Dimensional Flame Wrinkling and Turbulent Burning Velocity</a></div></td>
+<td>Saghar Zolfaghari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08232">2605.08232</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15069.html">Machine Learning of Nonlinear Waves: Data-Driven Methods for Computer-Assisted Discovery of Equations, Symmetries, Conservation Laws, and Integrability</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Jimmie Adriazola et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15069">2510.15069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18679.html">Transformers for dynamical systems learn transfer operators in-context</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Anthony Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18679">2602.18679</a></td>
 </tr>
 </tbody></table>

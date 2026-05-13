@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-30d.html">fusion-energy</a></div></td>
+<td>Gary Staebler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
 <td>Michael Chin</td>
 <td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Juan Diego Toscano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -338,17 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11661.html">Towards Autonomous Mechanistic Reasoning in Virtual Cells</a></div></td>
 <td>Yunhui Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11661">2604.11661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02983.html">BLADE: Bayesian Langevin Active Discovery with Replica Exchange for Identification of Complex Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Cindy Xiangrui Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02983">2503.02983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10718.html">SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?</a></div></td>
-<td>Udari Madhushani Sehwag et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10718">2604.10718</a></td>
 </tr>
 </tbody></table>

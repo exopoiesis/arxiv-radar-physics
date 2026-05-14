@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Runlong Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12997">2605.12997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12723.html">Shock-Centered Low-Rank Structure and Neural-Operator Representation of Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Ehsan Roohi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12723">2605.12723</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Francesc Levrero-Florencio et al.</td>
@@ -92,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17182.html">A DeepONet for inverting the Neumann-to-Dirichlet Operator in Electrical Impedance Tomography: An approximation theoretic perspective and numerical results</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Anuj Abhishek et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17182">2407.17182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11625.html">SCNO: Spiking Compositional Neural Operator -- Towards a Neuromorphic Foundation Model for Nuclear PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Samrendra Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11625">2604.11625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11972.html">Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Wave Dynamics</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Zhiwei Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11972">2604.11972</a></td>
 </tr>
 </tbody></table>

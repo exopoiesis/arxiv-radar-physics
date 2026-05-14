@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13826.html">Reducing cross-sample prediction churn in scientific machine learning</a></div></td>
+<td>Gordan Prastalo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13826">2605.13826</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
 <td>Corey Adams et al.</td>
@@ -1184,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18131.html">Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement</a></div></td>
 <td>Jonas A. Actor et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18131">2505.18131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12556.html">Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Taniya Kapoor et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12556">2505.12556</a></td>
 </tr>
 </tbody></table>

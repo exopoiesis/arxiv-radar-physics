@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Mehmet Ali Ferah et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12683.html">Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction</a></div></td>
+<td>Florian Hess et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12683">2605.12683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-30d.html">hamiltonian-neural-networks</a></div></td>
+<td>Maximino Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12785">2605.12785</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -440,41 +452,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13847.html">Physics and causally constrained discrete-time neural models of turbulent dynamical systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Fabrizio Falasca et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13847">2602.13847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11077.html">Deep deterministic policy gradient with symmetric data augmentation for lateral attitude tracking control of a fixed-wing aircraft</a></div></td>
-<td>Yifei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11077">2407.11077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09389.html">Design Principles for Sequence Models via Coefficient Dynamics</a></div></td>
-<td>Jerome Sieber et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09389">2510.09389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11545.html">Incremental Data-Driven Policy Synthesis via Game Abstractions</a></div></td>
-<td>Irmak Sağlam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11545">2511.11545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21860.html">Pathwise Learning of Stochastic Dynamical Systems with Partial Observations</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Nicole Tianjiao Yang</td>
-<td><a href="http://arxiv.org/abs/2601.21860">2601.21860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10967.html">Learning to Test: Physics-Informed Representation for Dynamical Instability Detection</a></div></td>
-<td>Minxing Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10967">2604.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11624.html">Prediction of chaotic dynamics from data: An introduction</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Luca Magri et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11624">2604.11624</a></td>
 </tr>
 </tbody></table>

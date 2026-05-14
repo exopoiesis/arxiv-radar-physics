@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,17 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12712.html">Reverse Delegated Training and Private Inference via Perfectly-Secure Quantum Homomorphic Encryption</a></div></td>
 <td>Sergio A. Ortega et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12712">2602.12712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11797.html">Learning functions of quantum states with distributed architectures</a></div></td>
-<td>Marta Gili et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11797">2602.11797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12465.html">Probabilistic Design of Parametrized Quantum Circuits through Local Gate Modifications</a></div></td>
-<td>Grier M. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12465">2602.12465</a></td>
 </tr>
 </tbody></table>

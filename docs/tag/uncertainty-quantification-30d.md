@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13088.html">Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes</a></div></td>
+<td>Julien Martinelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13088">2605.13088</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Mehmet Ali Ferah et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12007.html">A geometry-aligned multi-fidelity framework for uncertainty quantification of wildfire spread</a></div></td>
+<td>Konstantinos Vogiatzoglou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12007">2605.12007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Eduardo Ochoa Rivera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12668">2605.12668</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Paul Lartaud et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10249">2605.10249</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10378.html">Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation</a></div></td>
+<td>Manuel Haußmann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10378">2605.10378</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-10</td>
@@ -56,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Nicolas Menet et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12540.html">Stochastic Smoothed Particle Hydrodynamics for Stochastic Mechanics Problems</a></div></td>
+<td>Mridul Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12540">2605.12540</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -302,17 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10896.html">Quantum Measurement Statistics as Bayesian Uncertainty Estimators for Physics-Constrained Learning</a></div></td>
-<td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10896">2604.10896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11237.html">A Physics-Aware Variational Graph Autoencoder for Joint Modal Identification with Uncertainty Quantification</a></div></td>
-<td>Bhargav Nath et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11237">2604.11237</a></td>
 </tr>
 </tbody></table>

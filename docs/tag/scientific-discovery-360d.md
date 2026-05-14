@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">495 papers</span>
+  <span class="paper-count">500 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12485.html">Letting the neural code speak: Automated characterization of monkey visual neurons through human language</a></div></td>
+<td>Vedang Lad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12485">2605.12485</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
 <td>Michael Chin</td>
@@ -34,6 +40,24 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11128.html">Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs</a></div></td>
+<td>Amin Banayeeanzade et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11128">2605.11128</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11258.html">Unlocking LLM Creativity in Science through Analogical Reasoning</a></div></td>
+<td>Andrew Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11258">2605.11258</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
+<td>Kainat Riaz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
 <td>Vinay Kumar et al.</td>
@@ -44,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
 <td>Harshit Bisht et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
+<td>Xiangyu Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>

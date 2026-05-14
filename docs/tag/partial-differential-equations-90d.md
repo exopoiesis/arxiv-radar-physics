@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12965.html">U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Yingzhe Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12965">2605.12965</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Runlong Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12997">2605.12997</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
@@ -1532,41 +1544,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13174.html">Learning functional components of PDEs from data using neural networks</a></div></td>
 <td>Torkel E. Loman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13174">2602.13174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06820.html">Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods</a></div></td>
-<td>Lise Le Boudec et al.</td>
-<td><a href="http://arxiv.org/abs/2410.06820">2410.06820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20457.html">Learned Adaptive Mesh Generation</a></div></td>
-<td>Zhiyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20457">2505.20457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23396.html">PINNs for Electromagnetic Wave Propagation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Nilufer K. Bulut</td>
-<td><a href="http://arxiv.org/abs/2512.23396">2512.23396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11630.html">Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families</a></div></td>
-<td>Yipeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11630">2602.11630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11794.html">Latent-Variable Learning of SPDEs via Wiener Chaos</a></div></td>
-<td>Sebastian Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11794">2602.11794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12273.html">Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs</a></div></td>
-<td>Yongcun Song et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12273">2602.12273</a></td>
 </tr>
 </tbody></table>

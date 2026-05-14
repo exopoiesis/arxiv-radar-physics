@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13826.html">Reducing cross-sample prediction churn in scientific machine learning</a></div></td>
+<td>Gordan Prastalo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13826">2605.13826</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
@@ -440,17 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15068.html">A Unified Benchmark of Physics-Informed Neural Networks and Kolmogorov-Arnold Networks for Ordinary and Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Salvador K. Dzimah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15068">2602.15068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02709.html">ATLAS : Adaptive Self-Evolutionary Research Agent with Task-Distributed Multi-LLM Supporters</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
-<td>Ujin Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02709">2602.02709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11626.html">ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Wenqian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11626">2602.11626</a></td>
 </tr>
 </tbody></table>

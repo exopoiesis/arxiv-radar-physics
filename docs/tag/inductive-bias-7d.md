@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.12046">2605.12046</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12723.html">Shock-Centered Low-Rank Structure and Neural-Operator Representation of Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Ehsan Roohi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12723">2605.12723</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10154.html">Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Xiaoxiao Lu et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Abhijit Sen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06740">2605.06740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04421.html">FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning</a></div></td>
-<td>Waleed Razzaq et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04421">2605.04421</a></td>
 </tr>
 </tbody></table>

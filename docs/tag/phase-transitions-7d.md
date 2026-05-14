@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12730.html">BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics</a></div></td>
+<td>Helene Malyutina</td>
+<td><a href="http://arxiv.org/abs/2605.12730">2605.12730</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07442.html">GameGen-Verifier: Parallel Keypoint-Based Verification for LLM-Generated Games via Runtime State Injection</a></div></td>
 <td>Chaobo Jia et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06394.html">Lecture Notes on Statistical Physics and Neural Networks</a></div></td>
 <td>Olaf Hohm</td>
 <td><a href="http://arxiv.org/abs/2605.06394">2605.06394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Yifan F. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13115.html">DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense</a></div></td>
+<td>Ziyang You et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13115">2605.13115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11758.html">DiffSegLung: Diffusion Radiomic Distillation for Unsupervised Lung Pathology Segmentation</a></div></td>
+<td>Rezkellah Noureddine Khiati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11758">2605.11758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11927.html">RealDiffusion: Physics-informed Attention for Multi-character Storybook Generation</a></div></td>
+<td>Qi Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11927">2605.11927</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12597.html">The critical slowing down in diffusion models</a></div></td>
+<td>Luca Maria Del Bono et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12597">2605.12597</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10439.html">Filtering Memorization from Parameter-Space in Diffusion Models</a></div></td>
+<td>Yu Zhe et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10439">2605.10439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10642.html">Composing diffusion priors with explicit physical context via generative Gibbs sampling</a></div></td>
+<td>Weizhou Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10642">2605.10642</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09275.html">DiffATS: Diffusion in Aligned Tensor Space</a></div></td>
@@ -1130,17 +1166,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13010.html">Probabilistic Wind Power Forecasting with Tree-Based Machine Learning and Weather Ensembles</a></div></td>
 <td>Max Bruninx et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13010">2602.13010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11875.html">DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition</a></div></td>
-<td>Ji Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11875">2602.11875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11934.html">Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control</a></div></td>
-<td>Yu Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11934">2602.11934</a></td>
 </tr>
 </tbody></table>

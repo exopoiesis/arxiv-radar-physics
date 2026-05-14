@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>particle-physics — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <strong>30d</strong> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12364.html">Cross-Domain Transfer with Particle Physics Foundation Models: From Jets to Neutrino Interactions</a></div></td>
 <td>Gregor Krzmanc et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12364">2604.12364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11068.html">Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Waqas Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11068">2604.11068</a></td>
 </tr>
 </tbody></table>

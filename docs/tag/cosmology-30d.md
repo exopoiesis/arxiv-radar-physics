@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12877.html">Machine-learning applications for weak-lensing cosmology</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
+<td>Masato Shirasaki</td>
+<td><a href="http://arxiv.org/abs/2605.12877">2605.12877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13219.html">Comparative analysis of missing data imputation methods for CSST survey: Impact on photometric redshift estimation performance</a></div></td>
+<td>Ling Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13219">2605.13219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13334.html">LLM-Based Persuasion Enables Guardrail Override in Frontier LLMs</a></div></td>
+<td>Rodrigo Nogueira et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13334">2605.13334</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10105.html">Application of Machine Learning to 21 cm Cosmology</a></div></td>
 <td>Hayato Shimabukuro</td>
 <td><a href="http://arxiv.org/abs/2605.10105">2605.10105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
+<td>Leander Thiele</td>
+<td><a href="http://arxiv.org/abs/2605.10719">2605.10719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div></td>
+<td>Samit Kumar Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -110,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
 <td>Ziyong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11895.html">Cosmological gravity on all scales V: MCMC forecasts combining large scale structure and CMB lensing for binned phenomenological modified gravity</a></div></td>
-<td>Sankarshana Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11895">2603.11895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11068.html">Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Waqas Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11068">2604.11068</a></td>
 </tr>
 </tbody></table>

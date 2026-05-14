@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13560.html">Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks</a></div></td>
+<td>Lingfei Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13560">2605.13560</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Paul Lartaud et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10249">2605.10249</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10562.html">Data-driven moving-window Bayesian inference for transient CO2-temperature network models of buildings</a></div></td>
+<td>Zhijian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10562">2605.10562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10934.html">Variational Inference for Lévy Process-Driven SDEs via Neural Tilting</a></div></td>
+<td>Yaman Kindap et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10934">2605.10934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11037.html">Annotation-Free Indoor Radio Mapping via Physics-Informed Trajectory Inference</a></div></td>
+<td>Zheng Xing et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11037">2605.11037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11077.html">The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Jiamu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11077">2605.11077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11179.html">Interpretable Machine Learning for Spatial Science: A Lie-Algebraic Kernel for Rotationally Anisotropic Gaussian Processes</a></div></td>
+<td>Kane Warrior et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11179">2605.11179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -800,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13098.html">Barron-Wiener-Laguerre models</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Rahul Manavalan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13098">2602.13098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24729.html">Are NICER and GW170817 constraints suggesting a compactified scenario for Neutron stars?</a></div></td>
-<td>Asim Kumar Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2512.24729">2512.24729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11996.html">Medium effects on light clusters from heavy-ion collisions within a relativistic mean-field description</a></div></td>
-<td>Tiago Custódio et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11996">2602.11996</a></td>
 </tr>
 </tbody></table>

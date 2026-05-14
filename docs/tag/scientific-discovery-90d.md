@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12485.html">Letting the neural code speak: Automated characterization of monkey visual neurons through human language</a></div></td>
+<td>Vedang Lad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12485">2605.12485</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
 <td>Michael Chin</td>
@@ -34,6 +40,24 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11128.html">Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs</a></div></td>
+<td>Amin Banayeeanzade et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11128">2605.11128</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11258.html">Unlocking LLM Creativity in Science through Analogical Reasoning</a></div></td>
+<td>Andrew Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11258">2605.11258</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
+<td>Kainat Riaz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
 <td>Vinay Kumar et al.</td>
@@ -44,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
 <td>Harshit Bisht et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
+<td>Xiangyu Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>
@@ -1046,29 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15061.html">Safe-SDL:Establishing Safety Boundaries and Control Mechanisms for AI-Driven Self-Driving Laboratories</a></div></td>
 <td>Zihan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15061">2602.15061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00310.html">AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise</a></div></td>
-<td>Dhruv Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00310">2507.00310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00772.html">Reliable Curation of EHR Dataset via Large Language Models under Environmental Constraints</a></div></td>
-<td>Raymond M. Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00772">2511.00772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05849.html">EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Nan Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05849">2511.05849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11760.html">Aggregate Models, Not Explanations: Improving Feature Importance Estimation</a></div></td>
-<td>Joseph Paillard et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11760">2602.11760</a></td>
 </tr>
 </tbody></table>

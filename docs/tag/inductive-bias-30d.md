@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12046.html">Rethink the Role of Neural Decoders in Quantum Error Correction</a></div><div class="paper-tags"><a href="quantum-error-correction-30d.html">quantum-error-correction</a></div></td>
 <td>Ge Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12046">2605.12046</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12723.html">Shock-Centered Low-Rank Structure and Neural-Operator Representation of Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
+<td>Ehsan Roohi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12723">2605.12723</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>

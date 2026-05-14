@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">631 papers</span>
+  <span class="paper-count">627 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Yuka Hashimoto et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13260">2605.13260</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
@@ -50,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11001.html">Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Xiaofeng Liu</td>
 <td><a href="http://arxiv.org/abs/2605.11001">2605.11001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12544.html">Dual-Correction Physics-Informed Neural Networks for Hemodynamic Reconstruction from Sparse Data</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Jingtai Song et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12544">2605.12544</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-08</td>
@@ -3764,41 +3776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14144.html">RT-APNN for Solving Gray Radiative Transfer Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Xizhe Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14144">2505.14144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03080.html">A Priori Estimation of the Approximation, Optimization and Generalization Errors of Random Neural Networks for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xianliang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03080">2406.03080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00331.html">PINN-DT: Optimizing Energy Consumption in Smart Building Using Hybrid Physics-Informed Neural Networks and Digital Twin Framework with Blockchain Security</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Hajar Kazemi Naeini et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00331">2503.00331</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12360.html">LaPON: A Lagrange&#x27;s-mean-value-theorem-inspired operator network for solving PDEs and its application on NSE</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Siwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12360">2505.12360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12389.html">Engineering application of physics-informed neural networks for Saint-Venant torsion</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Su Yeong Jo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12389">2505.12389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12557.html">Acoustic Field Reconstruction in Tubes via Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xinmeng Luan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12557">2505.12557</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11395.html">Convergence of physics-informed neural networks modeling time-harmonic wave fields</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Stefan Schoder et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11395">2506.11395</a></td>
 </tr>
 </tbody></table>

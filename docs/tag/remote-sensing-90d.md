@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11541.html">GeoR-Bench: Evaluating Geoscience Visual Reasoning</a></div></td>
+<td>Yushuo Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11541">2605.11541</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12064.html">TAR: Text Semantic Assisted Cross-modal Image Registration Framework for Optical and SAR Images</a></div></td>
+<td>Zhuoyu Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12064">2605.12064</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10184.html">Developing a foundation model for high-resolution remote sensing data of the Netherlands</a></div></td>
 <td>Paul Vermeeren et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10184">2605.10184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10772.html">Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition</a></div></td>
+<td>David F. Ramirez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10772">2605.10772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10789.html">Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction</a></div></td>
+<td>Quanyun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10789">2605.10789</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-10</td>
@@ -104,6 +128,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
 <td>Ryan Faulkenberry et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10958.html">Multi-Fidelity Emulation of Atmospheric Correction Coefficients with Physics-Guided Kolmogorov-Arnold Networks</a></div></td>
+<td>Md Abdullah Al Mazid et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10958">2605.10958</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-02</td>
@@ -1022,11 +1052,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19665.html">Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy</a></div></td>
 <td>Manuel Perez-Carrasco et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19665">2509.19665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13350.html">Detecting Brick Kiln Infrastructure at Scale: Graph, Foundation, and Remote Sensing Models for Satellite Imagery Data</a></div></td>
-<td>Usman Nazir et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13350">2602.13350</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13618.html">OpenAaaS: An Open Agent-as-a-Service Framework for Distributed Materials-Informatics Research</a></div></td>
+<td>Peng Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13618">2605.13618</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div></td>
 <td>S. A. Shteingolts et al.</td>
@@ -488,11 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20164.html">Massive Discovery of Low-Dimensional Materials from Universal Computational Strategy</a></div></td>
 <td>Mohammad Bagheri et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20164">2509.20164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11702.html">A Hardware-Native Realisation of Semi-Empirical Electronic Structure Theory on Field-Programmable Gate Arrays</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Xincheng Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11702">2602.11702</a></td>
 </tr>
 </tbody></table>

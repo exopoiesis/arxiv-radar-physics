@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11541.html">GeoR-Bench: Evaluating Geoscience Visual Reasoning</a></div></td>
+<td>Yushuo Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11541">2605.11541</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12064.html">TAR: Text Semantic Assisted Cross-modal Image Registration Framework for Optical and SAR Images</a></div></td>
+<td>Zhuoyu Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12064">2605.12064</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10184.html">Developing a foundation model for high-resolution remote sensing data of the Netherlands</a></div></td>
 <td>Paul Vermeeren et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10184">2605.10184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10772.html">Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition</a></div></td>
+<td>David F. Ramirez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10772">2605.10772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10789.html">Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction</a></div></td>
+<td>Quanyun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10789">2605.10789</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-10</td>
@@ -104,6 +128,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
 <td>Ryan Faulkenberry et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10958.html">Multi-Fidelity Emulation of Atmospheric Correction Coefficients with Physics-Guided Kolmogorov-Arnold Networks</a></div></td>
+<td>Md Abdullah Al Mazid et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10958">2605.10958</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-02</td>
@@ -3530,11 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14361.html">Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives</a></div></td>
 <td>Xingxing Weng et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14361">2505.14361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06697.html">Mamba-MOC: A Multicategory Remote Object Counting via State Space Model</a></div></td>
-<td>Peng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06697">2501.06697</a></td>
 </tr>
 </tbody></table>

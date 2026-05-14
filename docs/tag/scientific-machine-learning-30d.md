@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13826.html">Reducing cross-sample prediction churn in scientific machine learning</a></div></td>
+<td>Gordan Prastalo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13826">2605.13826</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
 <td>Corey Adams et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20410.html">SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Mahmoud Elhadidy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20410">2603.20410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15069.html">Machine Learning of Nonlinear Waves: Data-Driven Methods for Computer-Assisted Discovery of Equations, Symmetries, Conservation Laws, and Integrability</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Jimmie Adriazola et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15069">2510.15069</a></td>
 </tr>
 </tbody></table>

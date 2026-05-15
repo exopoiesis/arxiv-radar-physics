@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14285.html">ForcingDAS: Unified and Robust Data Assimilation via Diffusion Forcing</a></div></td>
+<td>Yixuan Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14285">2605.14285</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06337.html">Earth-o1: A Grid-free Observation-native Atmospheric World Model</a></div></td>
 <td>Junchao Gong et al.</td>
@@ -842,11 +848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10248.html">Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins</a></div></td>
 <td>Collins O. Ogbodo et al.</td>
 <td><a href="http://arxiv.org/abs/2504.10248">2504.10248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12882.html">PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12882">2505.12882</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Alan John Varghese et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -494,23 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07262.html">AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Qile Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07262">2511.07262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12872.html">Neural Evolutionary Kernel Method: A Knowledge-Guided Framework for Solving Evolutionary PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Shuo Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12872">2602.12872</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13098.html">Barron-Wiener-Laguerre models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Rahul Manavalan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13098">2602.13098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13169.html">Operator Learning for Families of Finite-State Mean-Field Games</a></div></td>
-<td>William Hofgard et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13169">2602.13169</a></td>
 </tr>
 </tbody></table>

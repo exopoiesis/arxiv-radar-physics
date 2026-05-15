@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Simon Scheidegger</td>
+<td><a href="http://arxiv.org/abs/2605.14493">2605.14493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Jaemin Seo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12965.html">U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Yingzhe Ma et al.</td>
@@ -440,17 +452,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08992.html">Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Dibakar Roy Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08992">2511.08992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09207.html">mLaSDI: Multi-stage latent space dynamics identification</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
-<td>William Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09207">2506.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20440.html">DDC-PINNs: A Predictor-Corrector Approach Based on Neural Network-Driven Domain Decomposition and Classical ODE Solvers for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Xun Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20440">2508.20440</a></td>
 </tr>
 </tbody></table>

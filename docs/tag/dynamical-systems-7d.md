@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
+<td>Sergio Vanegas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14489">2605.14489</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
@@ -62,29 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
 <td>Annie Marsden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05838.html">MDN: Parallelizing Stepwise Momentum for Delta Linear Attention</a></div></td>
-<td>Yulong Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05838">2605.05838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06000.html">Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
-<td>Kevin Slote et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06000">2605.06000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Jan-Hendrik Ewering et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06315.html">End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems</a></div></td>
-<td>Carles Balsells-Rodas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06315">2605.06315</a></td>
 </tr>
 </tbody></table>

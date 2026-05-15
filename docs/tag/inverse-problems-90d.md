@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Yuxin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13068.html">Local Inverse Geometry Can Be Amortized</a></div></td>
@@ -32,6 +38,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13744.html">Aligning Network Equivariance with Data Symmetry: A Theoretical Framework and Adaptive Approach for Image Restoration</a></div></td>
 <td>Feiyu Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13744">2605.13744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13988.html">Neural Fields for NV-Center Inverse Sensing</a></div></td>
+<td>Zhixuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13988">2605.13988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Ayoub Belhadji et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -686,17 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15307.html">An ILUES-based adaptive Gaussian process method for multimodal Bayesian inverse problems</a></div></td>
 <td>Zhihang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15307">2409.15307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13025.html">Nonlinear Diffusion, and Geometric and Functional Inequalities on Smooth Metric Measure spaces</a></div></td>
-<td>Ali Taheri</td>
-<td><a href="http://arxiv.org/abs/2602.13025">2602.13025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13414.html">FUTON: Fourier Tensor Network for Implicit Neural Representations</a></div></td>
-<td>Pooya Ashtari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13414">2602.13414</a></td>
 </tr>
 </tbody></table>

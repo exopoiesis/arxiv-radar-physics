@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Debashree Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14447">2605.14447</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14997.html">A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</a></div></td>
+<td>Nicholas Wogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14997">2605.14997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13560.html">Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks</a></div></td>
 <td>Lingfei Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13560">2605.13560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Ayoub Belhadji et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -824,17 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25154.html">TabMGP: Martingale posterior with TabPFN</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Kenyon Ng et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25154">2510.25154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12509.html">Impact of Spin Priors on the Population Inference of Merging Binary Black Holes</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Kazuya Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12509">2602.12509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13098.html">Barron-Wiener-Laguerre models</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Rahul Manavalan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13098">2602.13098</a></td>
 </tr>
 </tbody></table>

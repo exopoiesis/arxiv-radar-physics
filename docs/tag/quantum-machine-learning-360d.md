@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14523.html">HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks</a></div></td>
+<td>Mahad Mohtashim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14523">2605.14523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Natsuto Isogai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
 <td>Chon-Fai Kam et al.</td>
@@ -3320,17 +3332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14789.html">Solving MNIST with a globally trained Mixture of Quantum Experts</a></div></td>
 <td>Paolo Alessandro Xavier Tognini et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14789">2505.14789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02241.html">Quantum Deep Sets and Sequences</a></div></td>
-<td>Vladimir Vargas-Calderón</td>
-<td><a href="http://arxiv.org/abs/2504.02241">2504.02241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13695.html">Large-scale quantum reservoir computing using a Gaussian Boson Sampler</a></div></td>
-<td>Valeria Cimini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13695">2505.13695</a></td>
 </tr>
 </tbody></table>

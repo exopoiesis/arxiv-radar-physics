@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14642.html">Distributionally Robust Model Predictive Control for Virtual Power Plants</a></div></td>
+<td>Nikolas Recke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14642">2605.14642</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13088.html">Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes</a></div></td>
@@ -86,41 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12540.html">Stochastic Smoothed Particle Hydrodynamics for Stochastic Mechanics Problems</a></div></td>
 <td>Mridul Tiwari et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12540">2605.12540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06237.html">Bayesian Fractional Polynomials for Optimal Dosage Estimation with Fish Nutrition Applications</a></div></td>
-<td>Aliaksandr Hubin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06237">2605.06237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Jan-Hendrik Ewering et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06255.html">Synthetic Well Log Generation with Preserved Multivariate Correlations and Vertical Facies Stacking Patterns</a></div></td>
-<td>Josue Fonseca et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06255">2605.06255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06484.html">Estimate Level Adjustment For Inference With Proxies Under Random Distribution Shifts</a></div></td>
-<td>Steven Wilkins-Reeves et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06484">2605.06484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06756.html">Physics-based Digital Twins for Integrated Thermal Energy Systems Using Active Learning</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Umme Mahbuba Nabila et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06756">2605.06756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06916.html">Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Fan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06916">2605.06916</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
+<td>Licong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14791">2605.14791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15011.html">The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale</a></div></td>
+<td>Peter A. Jansen</td>
+<td><a href="http://arxiv.org/abs/2605.15011">2605.15011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Yuxin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-30d.html">fusion-energy</a></div></td>
 <td>Gary Staebler et al.</td>
@@ -362,23 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13699.html">MIND: AI Co-Scientist for Material Research</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Geonhee Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13699">2604.13699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05206.html">Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Xingjun Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05206">2502.05206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08618.html">HSG-12M: A Large-Scale Benchmark of Spatial Multigraphs from the Energy Spectra of Non-Hermitian Crystals</a></div><div class="paper-tags"><a href="condensed-matter-physics-30d.html">condensed-matter-physics</a></div></td>
-<td>Xianquan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08618">2506.08618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11661.html">Towards Autonomous Mechanistic Reasoning in Virtual Cells</a></div></td>
-<td>Yunhui Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11661">2604.11661</a></td>
 </tr>
 </tbody></table>

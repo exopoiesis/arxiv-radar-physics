@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <strong>30d</strong> <a href="reduced-order-modeling-90d.html">90d</a> <a href="reduced-order-modeling-360d.html">360d</a> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10647.html">Latent Space Dynamics Identification for Interface Tracking with Application to Shock-Induced Pore Collapse</a></div></td>
 <td>Seung Whan Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10647">2507.10647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13847.html">Physics and causally constrained discrete-time neural models of turbulent dynamical systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Fabrizio Falasca et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13847">2602.13847</a></td>
 </tr>
 </tbody></table>

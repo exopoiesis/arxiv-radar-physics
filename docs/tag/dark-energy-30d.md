@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-energy — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <strong>30d</strong> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18086.html">DESI Strong Lens Foundry III: Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="strong-lensing-30d.html">strong-lensing</a></div></td>
 <td>Shrihan Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18086">2509.18086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12414.html">Enhancing Lyα Emitter Identification in HETDEX with a Convolutional Neural Network</a></div></td>
-<td>Shiro Mukae et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12414">2604.12414</a></td>
 </tr>
 </tbody></table>

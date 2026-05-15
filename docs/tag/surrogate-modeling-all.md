@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14546.html">Discovering Physical Directions in Weight Space: Composing Neural PDE Experts</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Pengkai Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14546">2605.14546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13912.html">ViT-K: A Few-Shot Learning Model for Coupled Fluid-Porous Media Flows with Interface Conditions</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>Mengjia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13912">2605.13912</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a> · <a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

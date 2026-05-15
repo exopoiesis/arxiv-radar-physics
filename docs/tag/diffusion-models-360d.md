@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">620 papers</span>
+  <span class="paper-count">622 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14326">2605.14326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14341.html">AnyBand-Diff: A Unified Remote Sensing Image Generation and Band Repair Framework with Spectral Priors</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14341">2605.14341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14531.html">Language Generation as Optimal Control: Closed-Loop Diffusion in Latent Control Space</a></div></td>
+<td>ZiYi Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14531">2605.14531</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13115.html">DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense</a></div></td>
@@ -3728,11 +3746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11393.html">Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Yuanhao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11393">2505.11393</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12882.html">PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12882">2505.12882</a></td>
 </tr>
 </tbody></table>

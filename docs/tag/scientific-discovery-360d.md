@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">500 papers</span>
+  <span class="paper-count">502 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Licong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14791">2605.14791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15011.html">The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale</a></div></td>
+<td>Peter A. Jansen</td>
+<td><a href="http://arxiv.org/abs/2605.15011">2605.15011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Yuxin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-360d.html">fusion-energy</a></div></td>
@@ -3008,11 +3026,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14148.html">MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem</a></div></td>
 <td>Fan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14148">2505.14148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13400.html">Robin: A multi-agent system for automating scientific discovery</a></div></td>
-<td>Ali Essam Ghareeb et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13400">2505.13400</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14165.html">DSTAN-Med: Dual-Channel Spatiotemporal Attention with Physiological Plausibility Filtering for False Data Injection Attack Detection in IoT-Based Medical Devices</a></div></td>
+<td>Md Mehedi Hasan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14165">2605.14165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Jevon Twitty et al.</td>
@@ -512,11 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15026.html">Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook</a></div></td>
 <td>Xin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15026">2507.15026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12592.html">Power Interpretable Causal ODE Networks: A Unified Model for Explainable Anomaly Detection and Root Cause Analysis in Power Systems</a></div></td>
-<td>Yue Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12592">2602.12592</a></td>
 </tr>
 </tbody></table>

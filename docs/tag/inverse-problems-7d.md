@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
+<td>Yuxin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13068.html">Local Inverse Geometry Can Be Amortized</a></div></td>
@@ -32,6 +38,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13744.html">Aligning Network Equivariance with Data Symmetry: A Theoretical Framework and Adaptive Approach for Image Restoration</a></div></td>
 <td>Feiyu Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13744">2605.13744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13988.html">Neural Fields for NV-Center Inverse Sensing</a></div></td>
+<td>Zhixuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13988">2605.13988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
+<td>Ayoub Belhadji et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -68,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08408.html">AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Binghang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08408">2605.08408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06538.html">Diffusion-Based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability</a></div></td>
-<td>Matias G. Delgadino et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06538">2605.06538</a></td>
 </tr>
 </tbody></table>

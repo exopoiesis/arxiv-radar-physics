@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>remote-sensing — all</h1>
-  <span class="paper-count">982 papers</span>
+  <span class="paper-count">985 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14326">2605.14326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14341.html">AnyBand-Diff: A Unified Remote Sensing Image Generation and Band Repair Framework with Spectral Priors</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14341">2605.14341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14518.html">ArcGate: Adaptive Arctangent Gated Activation</a></div></td>
+<td>Avik Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14518">2605.14518</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11541.html">GeoR-Bench: Evaluating Geoscience Visual Reasoning</a></div></td>

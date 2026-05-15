@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14546.html">Discovering Physical Directions in Weight Space: Composing Neural PDE Experts</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Pengkai Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14546">2605.14546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13912.html">ViT-K: A Few-Shot Learning Model for Coupled Fluid-Porous Media Flows with Interface Conditions</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Mengjia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13912">2605.13912</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -926,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17400.html">TripNet: Learning Large-scale High-fidelity 3D Car Aerodynamics with Triplane Networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Qian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17400">2503.17400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05867.html">Modeling Nonlinear Oscillator Networks Using Physics-Informed Hybrid Reservoir Computing</a></div></td>
-<td>Andrew Shannon et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05867">2411.05867</a></td>
 </tr>
 </tbody></table>

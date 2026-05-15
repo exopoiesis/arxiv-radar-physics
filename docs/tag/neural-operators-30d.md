@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Alan John Varghese et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14546.html">Discovering Physical Directions in Weight Space: Composing Neural PDE Experts</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Pengkai Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14546">2605.14546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="sciml-30d.html">sciml</a></div></td>
+<td>Ellwil Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15179">2605.15179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12965.html">U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Yingzhe Ma et al.</td>
@@ -326,23 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13919.html">Nested Fourier-enhanced neural operator for efficient modeling of radiation transfer in fires</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Anran Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13919">2604.13919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15472.html">Fluids You Can Trust: Property-Preserving Operator Learning for Incompressible Flows</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Ramansh Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15472">2602.15472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12794.html">Stable Fine-Time-Step Long-Horizon Turbulence Prediction with a Multi-Stepsize Mixture-of-Experts Neural Operator</a></div></td>
-<td>Guanyu Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12794">2604.12794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13316.html">Beyond Uniform Sampling: Synergistic Active Learning and Input Denoising for Robust Neural Operators</a></div></td>
-<td>Samrendra Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13316">2604.13316</a></td>
 </tr>
 </tbody></table>

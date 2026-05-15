@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14523.html">HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks</a></div></td>
+<td>Mahad Mohtashim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14523">2605.14523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Natsuto Isogai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
@@ -938,23 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01884.html">Contextual Quantum Neural Networks for Stock Price Prediction</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Sharan Mourya et al.</td>
 <td><a href="http://arxiv.org/abs/2503.01884">2503.01884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00341.html">Solving Conic Programs over Sparse Graphs using a Variational Quantum Approach: The Case of the Optimal Power Flow</a></div></td>
-<td>Thinh Viet Le et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00341">2509.00341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06630.html">Quantum Temporal Convolutional Neural Networks for Cross-Sectional Equity Return Prediction: A Comparative Benchmark Study</a></div></td>
-<td>Chi-Sheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06630">2512.06630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12712.html">Reverse Delegated Training and Private Inference via Perfectly-Secure Quantum Homomorphic Encryption</a></div></td>
-<td>Sergio A. Ortega et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12712">2602.12712</a></td>
 </tr>
 </tbody></table>

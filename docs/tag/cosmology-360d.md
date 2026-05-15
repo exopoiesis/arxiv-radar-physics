@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Licong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14791">2605.14791</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12877.html">Machine-learning applications for weak-lensing cosmology</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Masato Shirasaki</td>
@@ -1154,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21368.html">The Jiutian simulations for the CSST extra-galactic surveys</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Jiaxin Han et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21368">2503.21368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13591.html">Modeling Galaxy Surveys with Hybrid SBI</a></div></td>
-<td>Gemma Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13591">2505.13591</a></td>
 </tr>
 </tbody></table>

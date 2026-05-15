@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14317.html">Guided Diffusion Sampling for Precipitation Forecast Interventions</a></div></td>
+<td>Ayumu Ueyama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14317">2605.14317</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Eduardo Ochoa Rivera et al.</td>
@@ -1004,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13873.html">Utilizing Strategic Pre-training to Reduce Overfitting: Baguan -- A Pre-trained Weather Forecasting Model</a></div></td>
 <td>Peisong Niu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13873">2505.13873</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12732.html">Terrain-aware Deep Learning for Wind Energy Applications: From Kilometer-scale Forecasts to Fine Wind Fields</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Chensen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12732">2505.12732</a></td>
 </tr>
 </tbody></table>

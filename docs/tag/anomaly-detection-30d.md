@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14165.html">DSTAN-Med: Dual-Channel Spatiotemporal Attention with Physiological Plausibility Filtering for False Data Injection Attack Detection in IoT-Based Medical Devices</a></div></td>
+<td>Md Mehedi Hasan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14165">2605.14165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11287.html">Beyond Similarity: Temporal Operator Attention for Time Series Analysis</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Jevon Twitty et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18064.html">Understanding Human Actions through the Lens of Executable Models</a></div></td>
 <td>Rimvydas Rubavicius et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18064">2604.18064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11390.html">Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection</a></div></td>
-<td>Jijun Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11390">2604.11390</a></td>
 </tr>
 </tbody></table>

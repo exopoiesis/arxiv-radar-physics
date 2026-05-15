@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14405.html">Watch your neighbors: Training statistically accurate chaotic systems with local phase space information</a></div></td>
+<td>Joon-Hyuk Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14405">2605.14405</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27412.html">Kolmogorov-Sinai entropies identify optimal observables for prediction and dynamics reconstruction in chaotic systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Maximilian Topel</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11929.html">Fast and principled equation discovery from chaos to climate</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="equation-discovery-30d.html">equation-discovery</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Yuzheng Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11929">2604.11929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12809.html">Data-driven characterization of spatiotemporal chaos using ensemble reservoir computing</a></div></td>
-<td>Xiaoqi Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12809">2604.12809</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-differential-equations — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="neural-differential-equations-7d.html">7d</a> <a href="neural-differential-equations-30d.html">30d</a> <a href="neural-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="neural-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20515.html">Semi-Explicit Neural DAEs: Learning Long-Horizon Dynamical Systems with Algebraic Constraints</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Avik Pal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20515">2505.20515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15105.html">Control, Optimal Transport and Neural Differential Equations in Supervised Learning</a></div></td>
-<td>Minh-Nhat Phung et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15105">2503.15105</a></td>
 </tr>
 </tbody></table>

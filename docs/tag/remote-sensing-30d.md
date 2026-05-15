@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14326">2605.14326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14341.html">AnyBand-Diff: A Unified Remote Sensing Image Generation and Band Repair Framework with Spectral Priors</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14341">2605.14341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14518.html">ArcGate: Adaptive Arctangent Gated Activation</a></div></td>
+<td>Avik Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14518">2605.14518</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11541.html">GeoR-Bench: Evaluating Geoscience Visual Reasoning</a></div></td>
@@ -380,17 +398,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14762.html">OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism</a></div></td>
 <td>Jordan Shipard et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14762">2604.14762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04017.html">Habitat Classification from Ground-Level Imagery Using Deep Neural Networks</a></div></td>
-<td>Hongrui Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04017">2507.04017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14523.html">HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks</a></div></td>
+<td>Mahad Mohtashim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14523">2605.14523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
+<td>Natsuto Isogai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
 <td>Chon-Fai Kam et al.</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
 <td>Tiffany Duneau et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07611">2605.07611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06035.html">Quantum Kernels for Audio Deepfake Detection Using Spectrogram Patch Features</a></div></td>
-<td>Lisan Al Amin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06035">2605.06035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06629.html">Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows</a></div></td>
-<td>Prateek Paudel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06629">2605.06629</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">627 papers</span>
+  <span class="paper-count">628 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Jaemin Seo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Andreas Langer</td>
 <td><a href="http://arxiv.org/abs/2605.08877">2605.08877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13892.html">A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Nahid Binandeh Dehaghani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13892">2605.13892</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -3770,11 +3782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14144.html">RT-APNN for Solving Gray Radiative Transfer Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Xizhe Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14144">2505.14144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13042.html">An introduction to Neural Networks for Physicists</a></div></td>
-<td>G. Café de Miranda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13042">2505.13042</a></td>
 </tr>
 </tbody></table>

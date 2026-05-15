@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
+<td>Debashree Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14447">2605.14447</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14997.html">A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</a></div></td>
+<td>Nicholas Wogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14997">2605.14997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13560.html">Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks</a></div></td>
 <td>Lingfei Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13560">2605.13560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Ayoub Belhadji et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -302,23 +320,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14133.html">AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data</a></div></td>
 <td>Zhong-Bo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14133">2604.14133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12678.html">Bayesian-Enhanced Galerkin-Based Reduced Order Modelling for Unsteady Compressible Flows</a></div></td>
-<td>Bijie Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12678">2604.12678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13139.html">Building an Affordable Self-Driving Lab: Practical Machine Learning Experiments for Physics Education Using Internet-of-Things</a></div></td>
-<td>Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13139">2604.13139</a></td>
 </tr>
 </tbody></table>

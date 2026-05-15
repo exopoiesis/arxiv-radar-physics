@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Jaemin Seo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yuka Hashimoto et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Andreas Langer</td>
 <td><a href="http://arxiv.org/abs/2605.08877">2605.08877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13892.html">A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Nahid Binandeh Dehaghani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13892">2605.13892</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -1154,17 +1166,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15068.html">A Unified Benchmark of Physics-Informed Neural Networks and Kolmogorov-Arnold Networks for Ordinary and Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Salvador K. Dzimah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15068">2602.15068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20177.html">Enhancing Heat Sink Efficiency in MOSFETs using Physics Informed Neural Networks: A Systematic Study on Coolant Velocity Estimation</a></div></td>
-<td>Aniruddha Bora et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20177">2602.20177</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02231.html">Physics-Informed Neural Networks with Architectural Physics Embedding for Large-Scale Wave Field Reconstruction</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Huiwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02231">2603.02231</a></td>
 </tr>
 </tbody></table>

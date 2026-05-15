@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14326">2605.14326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14341.html">AnyBand-Diff: A Unified Remote Sensing Image Generation and Band Repair Framework with Spectral Priors</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Zuopeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14341">2605.14341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14518.html">ArcGate: Adaptive Arctangent Gated Activation</a></div></td>
+<td>Avik Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14518">2605.14518</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11541.html">GeoR-Bench: Evaluating Geoscience Visual Reasoning</a></div></td>
@@ -68,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
 <td>Kai Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07178">2605.07178</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
-<td>Anh Vu Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05590">2605.05590</a></td>
 </tr>
 </tbody></table>

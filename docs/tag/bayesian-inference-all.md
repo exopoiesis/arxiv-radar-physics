@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">620 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
+<td>Debashree Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14447">2605.14447</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14997.html">A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</a></div></td>
+<td>Nicholas Wogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14997">2605.14997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13560.html">Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks</a></div></td>
 <td>Lingfei Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13560">2605.13560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Ayoub Belhadji et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>

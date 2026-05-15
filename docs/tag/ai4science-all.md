@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ai4science — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <a href="ai4science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14600.html">SciPaths: Forecasting Pathways to Scientific Discovery</a></div></td>
+<td>Eric Chamoun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14600">2605.14600</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03411.html">DACP: A Scientific Data Access and Collaboration Protocol</a></div></td>

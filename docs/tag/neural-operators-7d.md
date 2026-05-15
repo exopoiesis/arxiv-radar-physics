@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Alan John Varghese et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14546.html">Discovering Physical Directions in Weight Space: Composing Neural PDE Experts</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Pengkai Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14546">2605.14546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="sciml-7d.html">sciml</a></div></td>
+<td>Ellwil Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15179">2605.15179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12965.html">U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
@@ -134,35 +152,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08466.html">Multiscale modeling of materials and neural operators</a></div></td>
 <td>Kaushik Bhattacharya</td>
 <td><a href="http://arxiv.org/abs/2605.08466">2605.08466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05540.html">Towards Scalable One-Step Generative Modeling for Autoregressive Dynamical System Forecasting</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05540">2605.05540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05780.html">Von Neumann Networks</a></div></td>
-<td>Shekhar S. Chandra</td>
-<td><a href="http://arxiv.org/abs/2605.05780">2605.05780</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05862.html">Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning</a></div></td>
-<td>Yanming Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05862">2605.05862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06203.html">Adaptive Coordinate Transforms for Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Chaoyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06203">2605.06203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06873.html">One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>Panos Tsimpos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06873">2605.06873</a></td>
 </tr>
 </tbody></table>

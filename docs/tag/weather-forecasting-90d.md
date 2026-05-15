@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14317.html">Guided Diffusion Sampling for Precipitation Forecast Interventions</a></div></td>
+<td>Ayumu Ueyama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14317">2605.14317</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Eduardo Ochoa Rivera et al.</td>
@@ -350,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11438.html">Benchmarking AI-based data assimilation to advance data-driven global weather forecasting</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Wuxin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11438">2408.11438</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11807.html">PuYun-LDM: A Latent Diffusion Model for High-Resolution Ensemble Weather Forecasts</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Lianjun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11807">2602.11807</a></td>
 </tr>
 </tbody></table>

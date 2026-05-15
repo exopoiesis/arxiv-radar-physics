@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14642.html">Distributionally Robust Model Predictive Control for Virtual Power Plants</a></div></td>
+<td>Nikolas Recke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14642">2605.14642</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13088.html">Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes</a></div></td>
 <td>Julien Martinelli et al.</td>
@@ -1028,11 +1034,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25154.html">TabMGP: Martingale posterior with TabPFN</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Kenyon Ng et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25154">2510.25154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13098.html">Barron-Wiener-Laguerre models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Rahul Manavalan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13098">2602.13098</a></td>
 </tr>
 </tbody></table>

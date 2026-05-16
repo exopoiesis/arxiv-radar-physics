@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>deeponet — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <strong>30d</strong> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19027.html">Neural Operator Representation of Granular Micromechanics-based Failure Envelope</a></div></td>
 <td>Jinkyo Han et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19027">2604.19027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08992.html">Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Dibakar Roy Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08992">2511.08992</a></td>
 </tr>
 </tbody></table>

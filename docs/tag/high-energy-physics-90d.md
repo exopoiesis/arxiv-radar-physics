@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>high-energy-physics — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <strong>90d</strong> <a href="high-energy-physics-360d.html">360d</a> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15781.html">Neural Scaling Laws for Boosted Jet Tagging</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
 <td>Matthias Vigl et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15781">2602.15781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16051.html">Graph Neural Networks for Interferometer Simulations</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Sidharth Kannan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16051">2512.16051</a></td>
 </tr>
 </tbody></table>

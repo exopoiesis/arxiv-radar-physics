@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,29 +386,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15392.html">Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Kang An et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15392">2604.15392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20836.html">Fast training of accurate physics-informed neural networks without gradient descent</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Chinmay Datar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20836">2405.20836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13723.html">Physics-Informed Neural Networks for Solving Derivative-Constrained PDEs</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Kentaro Hoshisashi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13723">2604.13723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13830.html">Randomized Neural Networks for Integro-Differential Equations with Application to Neutron Transport</a></div></td>
-<td>Haoning Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13830">2604.13830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14472.html">Auxiliary Finite-Difference Residual-Gradient Regularization for PINNs</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Stavros Kassinos</td>
-<td><a href="http://arxiv.org/abs/2604.14472">2604.14472</a></td>
 </tr>
 </tbody></table>

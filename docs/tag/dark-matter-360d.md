@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">234 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,11 +1412,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15530.html">A fast deep-learning approach to probing primordial black hole populations in gravitational wave events</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="ligo-360d.html">ligo</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Jun-Qian Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15530">2505.15530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14298.html">Deep learning-driven likelihood-free parameter inference for 21-cm forest observations</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Tian-Yang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14298">2407.14298</a></td>
 </tr>
 </tbody></table>

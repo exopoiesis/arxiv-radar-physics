@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>equation-discovery — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <strong>30d</strong> <a href="equation-discovery-90d.html">90d</a> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22486.html">The Machine Learning Approach to Moment Closure Relations for Plasma: A Review</a></div><div class="paper-tags"><a href="plasma-physics-30d.html">plasma-physics</a></div></td>
 <td>Samuel Burles et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22486">2511.22486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11929.html">Fast and principled equation discovery from chaos to climate</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Yuzheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11929">2604.11929</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">367 papers</span>
+  <span class="paper-count">366 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2210,11 +2210,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06858.html">FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Tianyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06858">2505.06858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14039.html">Learning High-dimensional Ionic Model Dynamics Using Fourier Neural Operators</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Luca Pellegrini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14039">2505.14039</a></td>
 </tr>
 </tbody></table>

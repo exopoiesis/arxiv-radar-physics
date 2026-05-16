@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">253 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,11 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11970.html">DARWIN 1.5: Large Language Models as Materials Science Adapted Learners</a></div></td>
 <td>Tong Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11970">2412.11970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17866.html">Artificial Intelligence, Scientific Discovery, and Product Innovation</a></div></td>
-<td>Aidan Toner-Rodgers</td>
-<td><a href="http://arxiv.org/abs/2412.17866">2412.17866</a></td>
 </tr>
 </tbody></table>

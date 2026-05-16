@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">501 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3020,11 +3020,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16340.html">Improving Chemical Understanding of LLMs via SMILES Parsing</a></div></td>
 <td>Yunhui Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16340">2505.16340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14148.html">MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem</a></div></td>
-<td>Fan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14148">2505.14148</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">594 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,23 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15401.html">Visual Question Answering on Multiple Remote Sensing Image Modalities</a></div></td>
 <td>Hichem Boussaid et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15401">2505.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14088.html">Generalizable Multispectral Land Cover Classification via Frequency-Aware Mixture of Low-Rank Token Experts</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14088">2505.14088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14122.html">Assessing wildfire susceptibility in Iran: Leveraging machine learning for geospatial analysis of climatic and anthropogenic factors</a></div></td>
-<td>Ehsan Masoudian et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14122">2505.14122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14361.html">Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives</a></div></td>
-<td>Xingxing Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14361">2505.14361</a></td>
 </tr>
 </tbody></table>

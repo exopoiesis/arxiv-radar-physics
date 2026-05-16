@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11280.html">Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a> · <a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
 <td>Tousif Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11280">2605.11280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07738.html">Physics-Informed Reduced-Order Operator Learning for Hyperelasticity in Continuum Micromechanics</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Hamidreza Eivazi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07738">2605.07738</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,41 +404,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22104.html">TRASE-NODEs: Trajectory Sensitivity-aware Neural Ordinary Differential Equations for Efficient Dynamic Modeling</a></div></td>
 <td>Fatima Al-Janahi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22104">2510.22104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07432.html">Nonparametric Sparse Online Learning of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Boya Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07432">2405.07432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02378.html">A ghost mechanism: An analytical model of abrupt learning in recurrent networks</a></div></td>
-<td>Fatih Dinc et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02378">2501.02378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13673.html">Behavioral Systems Theory Meets Machine Learning: Control-Aware Learning of the Intrinsic Behavior from Big Data</a></div></td>
-<td>Yitao Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13673">2604.13673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13857.html">Mamba Sequence Modeling meets Model Predictive Control</a></div></td>
-<td>Michiel Cevaal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13857">2604.13857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14240.html">Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Pramudita Satria Palar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14240">2604.14240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14424.html">Non-intrusive Learning of Physics-Informed Spatio-temporal Surrogate for Accelerating Design</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Sudeepta Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14424">2604.14424</a></td>
 </tr>
 </tbody></table>

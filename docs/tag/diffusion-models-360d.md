@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">622 papers</span>
+  <span class="paper-count">621 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3740,11 +3740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15077.html">Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Alessandro dos Santos Ferreira et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15077">2505.15077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11393.html">Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Yuanhao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11393">2505.11393</a></td>
 </tr>
 </tbody></table>

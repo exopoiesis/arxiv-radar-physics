@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15456.html">DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI</a></div></td>
 <td>Zhizheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15456">2604.15456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11828.html">The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap</a></div></td>
-<td>Mohamed Mabrok</td>
-<td><a href="http://arxiv.org/abs/2604.11828">2604.11828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13699.html">MIND: AI Co-Scientist for Material Research</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Geonhee Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13699">2604.13699</a></td>
 </tr>
 </tbody></table>

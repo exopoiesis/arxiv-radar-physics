@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">548 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3302,35 +3302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15600.html">Qiskit Variational Quantum Classifier on the Pulsar Classification Problem</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Anna B. M. Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15600">2505.15600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08782.html">Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Junghoon Justin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08782">2505.08782</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10062.html">Exponential concentration and symmetries in Quantum Reservoir Computing</a></div></td>
-<td>Antonio Sannia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10062">2505.10062</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12764.html">Solving graph problems using permutation-invariant quantum machine learning</a></div></td>
-<td>Maximilian Balthasar Mansky et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12764">2505.12764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13958.html">Demonstrating Coherent Quantum Routers for Bucket-Brigade Quantum Random Access Memory on a Superconducting Processor</a></div></td>
-<td>Sheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13958">2505.13958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14789.html">Solving MNIST with a globally trained Mixture of Quantum Experts</a></div></td>
-<td>Paolo Alessandro Xavier Tognini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14789">2505.14789</a></td>
 </tr>
 </tbody></table>

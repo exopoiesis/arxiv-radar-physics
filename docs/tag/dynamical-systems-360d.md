@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">718 papers</span>
+  <span class="paper-count">714 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4298,29 +4298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04400.html">Non-intrusive reduced-order modeling for dynamical systems with spatially localized features</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Leonidas Gkimisis et al.</td>
 <td><a href="http://arxiv.org/abs/2501.04400">2501.04400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09628.html">Characterizing nonlinear dynamics by contrastive cartography</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Nicolas Romeo et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09628">2502.09628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11527.html">CASL-HJX: A Comprehensive Guide to Solving Deterministic and Stochastic Hamilton-Jacobi Equations</a></div></td>
-<td>Faranak Rajabi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11527">2505.11527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14039.html">Learning High-dimensional Ionic Model Dynamics Using Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Luca Pellegrini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14039">2505.14039</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14935.html">PCA-DDReach: Efficient Statistical Reachability Analysis of Stochastic Dynamical Systems via Principal Component Analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Navid Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14935">2505.14935</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>time-series-prediction — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="time-series-prediction-7d.html">7d</a> <a href="time-series-prediction-30d.html">30d</a> <strong>90d</strong> <a href="time-series-prediction-360d.html">360d</a> <a href="time-series-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07572.html">TS-MLLM: A Multi-Modal Large Language Model-based Framework for Industrial Time-Series Big Data Analysis</a></div></td>
 <td>Haiteng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07572">2603.07572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16178.html">SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting</a></div></td>
-<td>Wenxuan Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16178">2501.16178</a></td>
 </tr>
 </tbody></table>

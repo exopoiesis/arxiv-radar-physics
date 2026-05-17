@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">366 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,17 +2198,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01934.html">Fusion-DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic and Supersonic Flows</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Ahmad Peyvan et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01934">2501.01934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08615.html">MgFNO: Multi-grid Architecture Fourier Neural Operator for Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zi-Hao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08615">2407.08615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06858.html">FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Tianyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06858">2505.06858</a></td>
 </tr>
 </tbody></table>

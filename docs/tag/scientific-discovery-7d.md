@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,23 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
 <td>Kainat Riaz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
-<td>Vinay Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08941">2605.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
-<td>Harshit Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
-<td>Xiangyu Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
 </tr>
 </tbody></table>

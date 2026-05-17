@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19366.html">Kolmogorov-Arnold Networks for Turbulence Anisotropy Mapping</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Nikhila Kalia et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19366">2505.19366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08615.html">MgFNO: Multi-grid Architecture Fourier Neural Operator for Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zi-Hao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08615">2407.08615</a></td>
 </tr>
 </tbody></table>

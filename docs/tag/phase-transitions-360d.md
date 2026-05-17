@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03981.html">Supervised and unsupervised learning of the many-body critical phase, phase transitions, and critical exponents in disordered quantum systems</a></div></td>
 <td>Aamna Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.03981">2501.03981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02126.html">Unsupervised detection of semantic correlations in big data</a></div></td>
-<td>Santiago Acevedo et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02126">2411.02126</a></td>
 </tr>
 </tbody></table>

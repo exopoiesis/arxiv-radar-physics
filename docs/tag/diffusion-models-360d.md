@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">621 papers</span>
+  <span class="paper-count">619 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3728,17 +3728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17503.html">Towards Understanding the Benefits of Neural Network Parameterizations in Geophysical Inversions: A Study With Neural Fields</a></div></td>
 <td>Anran Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17503">2503.17503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07578.html">Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation</a></div></td>
-<td>Tianyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07578">2503.07578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15077.html">Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Alessandro dos Santos Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15077">2505.15077</a></td>
 </tr>
 </tbody></table>

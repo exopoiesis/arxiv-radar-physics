@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15184.html">Learning Data-Efficient and Generalizable Neural Operators via Fundamental Physics Knowledge</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Siying Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15184">2602.15184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07262.html">AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Qile Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07262">2511.07262</a></td>
 </tr>
 </tbody></table>

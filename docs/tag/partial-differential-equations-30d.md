@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,59 +386,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25943.html">A Randomized PDE Energy driven Iterative Framework for Efficient and Stable PDE Solutions</a></div></td>
 <td>Yi Bing et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25943">2604.25943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06179.html">Consistency of variational inference for Besov priors in non-linear inverse problems</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Shaokang Zu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06179">2508.06179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23249.html">Deep Learning for Subspace Regression</a></div></td>
-<td>Vladimir Fanaskov et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23249">2509.23249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13199.html">An Efficient Particle-Field Algorithm with Neural Interpolation based on a Parabolic-Hyperbolic Chemotaxis System in 3D</a></div></td>
-<td>Jongwon David Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13199">2510.13199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18107.html">Active Learning with Selective Time-Step Acquisition for PDEs</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Yegon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18107">2511.18107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15046.html">Quantum-Enhanced Convergence of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="climate-modeling-30d.html">climate-modeling</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Nils Klement et al.</td>
-<td><a href="http://arxiv.org/abs/2601.15046">2601.15046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14569.html">Field Inversion Symbolic Regression with Embedded Equation Learner for Interpretable Turbulence Model Correction</a></div></td>
-<td>Li Jiazhe et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14569">2604.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15392.html">Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Kang An et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15392">2604.15392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15398.html">Python library supporting Discrete Variational Formulations and training solutions with Collocation-based Robust Variational Physics Informed Neural Networks (DVF-CRVPINN)</a></div></td>
-<td>Tomasz Służalec et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15398">2604.15398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16533.html">G-PARC: Graph-Physics Aware Recurrent Convolutional Neural Networks for Spatiotemporal Dynamics on Unstructured Meshes</a></div><div class="paper-tags"><a href="hydrology-30d.html">hydrology</a></div></td>
-<td>Jack T. Beerman et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16533">2604.16533</a></td>
 </tr>
 </tbody></table>

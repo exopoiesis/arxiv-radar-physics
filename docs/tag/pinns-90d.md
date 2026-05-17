@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14663.html">Pseudo-differential-enhanced physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Andrew Gracyk</td>
 <td><a href="http://arxiv.org/abs/2602.14663">2602.14663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07262.html">AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Qile Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07262">2511.07262</a></td>
 </tr>
 </tbody></table>

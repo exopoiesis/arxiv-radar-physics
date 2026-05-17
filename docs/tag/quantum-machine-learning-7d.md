@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
 <td>Chon-Fai Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11557">2605.11557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09226.html">Quantum Injection Pathways for Implicit Graph Neural Networks</a></div></td>
-<td>Pengyuan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09226">2605.09226</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,35 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10451.html">Don&#x27;t Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs</a></div><div class="paper-tags"><a href="pde-learning-7d.html">pde-learning</a></div></td>
 <td>Xuxiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10451">2605.10451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08915.html">Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Hanru Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08915">2605.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08938.html">Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators</a></div></td>
-<td>Ali Baheri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08938">2605.08938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09096.html">Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates</a></div></td>
-<td>Enrique Hernández Noguera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09096">2605.09096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09189.html">Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World</a></div></td>
-<td>Christopher M. Bryant et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09189">2605.09189</a></td>
 </tr>
 </tbody></table>

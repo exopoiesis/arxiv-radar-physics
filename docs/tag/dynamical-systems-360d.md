@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">714 papers</span>
+  <span class="paper-count">713 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4292,11 +4292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16786.html">FlowMixer: A Constrained Neural Architecture for Interpretable Spatiotemporal Forecasting</a></div></td>
 <td>Fares B. Mehouachi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16786">2505.16786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04400.html">Non-intrusive reduced-order modeling for dynamical systems with spatially localized features</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Leonidas Gkimisis et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04400">2501.04400</a></td>
 </tr>
 </tbody></table>

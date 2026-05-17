@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">548 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,17 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15528.html">Expressivity Limits of Quantum Reservoir Computing</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Nils-Erik Schütte et al.</td>
 <td><a href="http://arxiv.org/abs/2501.15528">2501.15528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17441.html">A Matrix Product State Model for Simultaneous Classification and Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Alex Mossi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17441">2406.17441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15600.html">Qiskit Variational Quantum Classifier on the Pulsar Classification Problem</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Anna B. M. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15600">2505.15600</a></td>
 </tr>
 </tbody></table>

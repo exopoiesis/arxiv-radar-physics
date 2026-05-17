@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">413 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2492,11 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16996.html">A Unified Framework for Simultaneous Parameter and Function Discovery in Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Shalev Manor et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16996">2505.16996</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15777.html">Projection-Based Correction for Enhancing Deep Inverse Networks</a></div></td>
-<td>Jorge Bacca</td>
-<td><a href="http://arxiv.org/abs/2505.15777">2505.15777</a></td>
 </tr>
 </tbody></table>

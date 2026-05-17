@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,11 +590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08528.html">BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation</a></div></td>
 <td>Ao liu et al.</td>
 <td><a href="http://arxiv.org/abs/2502.08528">2502.08528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15530.html">A fast deep-learning approach to probing primordial black hole populations in gravitational wave events</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="ligo-360d.html">ligo</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Jun-Qian Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15530">2505.15530</a></td>
 </tr>
 </tbody></table>

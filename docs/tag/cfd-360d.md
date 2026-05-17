@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17400.html">TripNet: Learning Large-scale High-fidelity 3D Car Aerodynamics with Triplane Networks</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Qian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17400">2503.17400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15533.html">Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Chang Liu</td>
-<td><a href="http://arxiv.org/abs/2505.15533">2505.15533</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17346.html">Use of Bayesian Inference to Diagnose Issues in Experimental Measurements of Mechanical Disk Resonators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Simon C. Tait et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17346">2505.17346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15530.html">A fast deep-learning approach to probing primordial black hole populations in gravitational wave events</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Jun-Qian Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15530">2505.15530</a></td>
 </tr>
 </tbody></table>

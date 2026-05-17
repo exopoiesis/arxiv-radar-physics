@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11179.html">Interpretable Machine Learning for Spatial Science: A Lie-Algebraic Kernel for Rotationally Anisotropic Gaussian Processes</a></div></td>
 <td>Kane Warrior et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11179">2605.11179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09037.html">Plato&#x27;s view on supermassive black hole binaries: Exploring the faint limit of ESA&#x27;s Plato space mission</a></div></td>
-<td>Nicholas Jannsen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09037">2605.09037</a></td>
 </tr>
 </tbody></table>

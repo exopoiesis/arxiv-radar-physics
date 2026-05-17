@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16539.html">A neural network approach to determining photometric metallicities of M-type dwarf stars</a></div></td>
 <td>C. Duque-Arribas et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16539">2505.16539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15600.html">Qiskit Variational Quantum Classifier on the Pulsar Classification Problem</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Anna B. M. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15600">2505.15600</a></td>
 </tr>
 </tbody></table>

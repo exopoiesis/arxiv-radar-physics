@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>operator-learning — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09643.html">Kernel Learning of PDE Solution Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Jianyu Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09643">2605.09643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08843.html">M$^3$: Reframing Training Measures for Discretized Physical Simulations</a></div></td>
-<td>Yuan Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08843">2605.08843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
 </tr>
 </tbody></table>

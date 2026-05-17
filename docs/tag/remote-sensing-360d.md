@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">591 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3542,23 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16540.html">TextureSAM: Towards a Texture Aware Foundation Model for Segmentation</a></div></td>
 <td>Inbal Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16540">2505.16540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15077.html">Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Alessandro dos Santos Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15077">2505.15077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15334.html">Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification</a></div></td>
-<td>Bernardin Ligan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15334">2505.15334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15401.html">Visual Question Answering on Multiple Remote Sensing Image Modalities</a></div></td>
-<td>Hichem Boussaid et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15401">2505.15401</a></td>
 </tr>
 </tbody></table>

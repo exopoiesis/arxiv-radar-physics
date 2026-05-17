@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">829 papers</span>
+  <span class="paper-count">826 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4970,23 +4970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15643.html">Safe PDE Boundary Control with Neural Operators</a></div></td>
 <td>Hanjiang Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2411.15643">2411.15643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08615.html">MgFNO: Multi-grid Architecture Fourier Neural Operator for Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Zi-Hao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08615">2407.08615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06858.html">FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Tianyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06858">2505.06858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15538.html">Machine learning-based parameter optimization for Müntz spectral methods</a></div></td>
-<td>Wei Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15538">2505.15538</a></td>
 </tr>
 </tbody></table>

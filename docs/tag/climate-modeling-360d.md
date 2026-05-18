@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,17 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06753.html">Influential scientists shape knowledge flows between science and IGO policy</a></div></td>
 <td>Kimitaka Asatani et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06753">2506.06753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13239.html">Transforming the Hybrid Cloud for Emerging AI Workloads</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Deming Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13239">2411.13239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12032.html">Embedding Trust at Scale: Physics-Aware Neural Watermarking for Secure and Verifiable Data Pipelines</a></div></td>
-<td>Krti Tallam</td>
-<td><a href="http://arxiv.org/abs/2506.12032">2506.12032</a></td>
 </tr>
 </tbody></table>

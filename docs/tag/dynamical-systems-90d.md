@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,29 +1514,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15704.html">Controlled oscillation modeling using port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
 <td>Maximino Linares et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15704">2602.15704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14556.html">Sparse identification of quantum Hamiltonian dynamics via quantum circuit learning</a></div><div class="paper-tags"><a href="quantum-circuit-learning-90d.html">quantum-circuit-learning</a></div></td>
-<td>Yusei Tateyama et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14556">2602.14556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14885.html">Drift-Diffusion Matching: Embedding dynamics in latent manifolds of asymmetric neural networks</a></div></td>
-<td>Ramón Nartallo-Kaluarachchi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14885">2602.14885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15128.html">PolyNODE: Variable-dimension Neural ODEs on M-polyfolds</a></div></td>
-<td>Per Åhag et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15128">2602.15128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15185.html">Finding the Edge of Chaos in a Ferromagnet: Quantifying the &quot;Complexity&quot; of 2D Ising Phase Transitions with Image Compression</a></div></td>
-<td>Cooper Jacobus</td>
-<td><a href="http://arxiv.org/abs/2602.15185">2602.15185</a></td>
 </tr>
 </tbody></table>

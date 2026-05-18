@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">586 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3530,17 +3530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18021.html">Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method</a></div></td>
 <td>Yao Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18021">2505.18021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16391.html">Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data</a></div></td>
-<td>Chia-Hsiang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16391">2505.16391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16540.html">TextureSAM: Towards a Texture Aware Foundation Model for Segmentation</a></div></td>
-<td>Inbal Cohen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16540">2505.16540</a></td>
 </tr>
 </tbody></table>

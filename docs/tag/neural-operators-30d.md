@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17040.html">When Spike Sparsity Does Not Translate to Deployed Cost: VS-WNO on Jetson Orin Nano</a></div></td>
 <td>Jason Yoo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17040">2604.17040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16721.html">Late Fusion Neural Operators for Extrapolation Across Parameter Space in Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Eva van Tegelen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16721">2604.16721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16722.html">Neuroscience Inspired Graph Operators Towards Edge-Deployable Virtual Sensing for Irregular Geometries</a></div></td>
-<td>William Howes et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16722">2604.16722</a></td>
 </tr>
 </tbody></table>

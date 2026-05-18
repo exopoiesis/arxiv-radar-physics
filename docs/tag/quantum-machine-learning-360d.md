@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,11 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20237.html">Training-efficient density quantum machine learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Brian Coyle et al.</td>
 <td><a href="http://arxiv.org/abs/2405.20237">2405.20237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15528.html">Expressivity Limits of Quantum Reservoir Computing</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Nils-Erik Schütte et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15528">2501.15528</a></td>
 </tr>
 </tbody></table>

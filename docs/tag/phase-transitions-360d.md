@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17998.html">TRACE for Tracking the Emergence of Semantic Representations in Transformers</a></div></td>
 <td>Nura Aljaafari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17998">2505.17998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03981.html">Supervised and unsupervised learning of the many-body critical phase, phase transitions, and critical exponents in disordered quantum systems</a></div></td>
-<td>Aamna Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03981">2501.03981</a></td>
 </tr>
 </tbody></table>

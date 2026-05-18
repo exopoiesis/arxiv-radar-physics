@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1490,35 +1490,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04863.html">PENCO: A Physics-Energy-Numerics-Consistent Operator for 3D Phase Field Modeling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Mostafa Bamdad et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04863">2512.04863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22009.html">On uniqueness in structured model learning</a></div></td>
-<td>Martin Holler et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22009">2410.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07919.html">Quantum algorithms for viscosity solutions to nonlinear Hamilton-Jacobi equations based on an entropy penalisation method</a></div></td>
-<td>Shi Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07919">2512.07919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14596.html">Quantum-Assisted Trainable-Embedding Physics-Informed Neural Networks for Parabolic PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14596">2602.14596</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15004.html">PDE foundation models are skillful AI weather emulators for the Martian atmosphere</a></div></td>
-<td>Johannes Schmude et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15004">2602.15004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15184.html">Learning Data-Efficient and Generalizable Neural Operators via Fundamental Physics Knowledge</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Siying Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15184">2602.15184</a></td>
 </tr>
 </tbody></table>

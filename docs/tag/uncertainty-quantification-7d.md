@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10378.html">Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation</a></div></td>
 <td>Manuel Haußmann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10378">2605.10378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
-<td>Dongming Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09718.html">Learning stochastic multiscale models through normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-7d.html">normalizing-flows</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Anan Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09718">2605.09718</a></td>
 </tr>
 </tbody></table>

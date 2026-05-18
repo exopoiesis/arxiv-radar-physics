@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,29 +1178,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16081.html">Non-local physics-informed neural networks for forward and inverse solutions of granular flows</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Saghar Zolfaghari et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16081">2602.16081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04947.html">Enriching continuous Lagrange finite element approximation spaces using neural networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Hélène Barucq et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04947">2502.04947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02779.html">Comparison of Trefftz-Based PINNs and Standard PINNs Focusing on Structure Preservation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="pinns-90d.html">pinns</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Koji Koyamada</td>
-<td><a href="http://arxiv.org/abs/2602.02779">2602.02779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14596.html">Quantum-Assisted Trainable-Embedding Physics-Informed Neural Networks for Parabolic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14596">2602.14596</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14663.html">Pseudo-differential-enhanced physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Andrew Gracyk</td>
-<td><a href="http://arxiv.org/abs/2602.14663">2602.14663</a></td>
 </tr>
 </tbody></table>

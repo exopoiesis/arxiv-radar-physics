@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">826 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,11 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17575.html">Multiphysics Bench: Benchmarking and Investigating Scientific Machine Learning for Multiphysics PDEs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Changfan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17575">2505.17575</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15643.html">Safe PDE Boundary Control with Neural Operators</a></div></td>
-<td>Hanjiang Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15643">2411.15643</a></td>
 </tr>
 </tbody></table>

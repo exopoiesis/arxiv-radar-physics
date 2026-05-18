@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>climate-modeling — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="climate-modeling-90d.html">90d</a> <a href="climate-modeling-360d.html">360d</a> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23451.html">Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence</a></div></td>
 <td>Shabnam Sodagari</td>
 <td><a href="http://arxiv.org/abs/2604.23451">2604.23451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16719.html">Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Xan Carey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16719">2604.16719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Suman Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
 </tr>
 </tbody></table>

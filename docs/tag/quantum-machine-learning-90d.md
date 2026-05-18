@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,29 +920,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16094.html">Lie-Algebraic Analysis of Generators: Approximation-Error Bounds and Barren-Plateau Heuristics</a></div></td>
 <td>Hiroshi Ohno</td>
 <td><a href="http://arxiv.org/abs/2602.16094">2602.16094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.19921.html">Method for noise-induced regularization in quantum neural networks</a></div></td>
-<td>Viacheslav Kuzmin et al.</td>
-<td><a href="http://arxiv.org/abs/2410.19921">2410.19921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04891.html">TQml Simulator: optimized simulation of quantum machine learning</a></div></td>
-<td>Viacheslav Kuzmin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04891">2506.04891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08749.html">Superposed parameterised quantum circuits</a></div></td>
-<td>Viktoria Patapovich et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08749">2506.08749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14596.html">Quantum-Assisted Trainable-Embedding Physics-Informed Neural Networks for Parabolic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14596">2602.14596</a></td>
 </tr>
 </tbody></table>

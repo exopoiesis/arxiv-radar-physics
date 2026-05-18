@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,17 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16988.html">In-Context Learning Under Regime Change</a></div></td>
 <td>Carson Dudley et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16988">2604.16988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14781.html">Bernstein-von Mises theorems for time evolution equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
-<td>Richard Nickl</td>
-<td><a href="http://arxiv.org/abs/2407.14781">2407.14781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15787.html">EVIL: Evolving Interpretable Algorithms for Zero-Shot Inference on Event Sequences and Time Series with LLMs</a></div></td>
-<td>David Berghaus</td>
-<td><a href="http://arxiv.org/abs/2604.15787">2604.15787</a></td>
 </tr>
 </tbody></table>

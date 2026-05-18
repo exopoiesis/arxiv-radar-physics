@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,23 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18840.html">Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
 <td>Ben Seiyon Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18840">2604.18840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09036.html">Probing the origin of the kilonova candidate GRB 230307A: analysis of host galaxy and offset</a></div></td>
-<td>Clecio R. Bom et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09036">2512.09036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20699.html">Comparing next-generation detector configurations for high-redshift gravitational wave sources with neural posterior estimation</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Filippo Santoliquido et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20699">2512.20699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15686.html">DAE-Aware Bayesian Inference for Joint Generator-Network Parameter Estimation</a></div></td>
-<td>Abdallah Alalem Albustami et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15686">2604.15686</a></td>
 </tr>
 </tbody></table>

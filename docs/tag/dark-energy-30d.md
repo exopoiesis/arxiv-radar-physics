@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-energy — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <strong>30d</strong> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18218.html">Photometric classification of quasars from DES and photo-$z$ estimation with Machine Learning</a></div></td>
+<td>Pablo Motta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18218">2605.18218</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Gilberto Aguilar-Pérez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13842.html">From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies</a></div><div class="paper-tags"><a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>

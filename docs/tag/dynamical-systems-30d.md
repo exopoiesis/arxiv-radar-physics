@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
+<td>Shi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
 <td>Sergio Vanegas et al.</td>
@@ -68,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
 <td>Annie Marsden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Sangyoon Bae et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -362,23 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17566.html">Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification</a></div></td>
 <td>Achraf El Messaoudi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17566">2604.17566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03923.html">On the Convergence and Size Transferability of Continuous-depth Graph Neural Networks</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-differential-equations-30d.html">neural-differential-equations</a></div></td>
-<td>Mingsong Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03923">2510.03923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24405.html">Sufficient and Necessary Conditions for Eckart-Young like Result for Tubal Tensors</a></div></td>
-<td>Uria Mor</td>
-<td><a href="http://arxiv.org/abs/2512.24405">2512.24405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16988.html">In-Context Learning Under Regime Change</a></div></td>
-<td>Carson Dudley et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16988">2604.16988</a></td>
 </tr>
 </tbody></table>

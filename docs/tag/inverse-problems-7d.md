@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18210.html">Motion-Enabled Tomography via Gaussian Mixture Models</a></div></td>
+<td>Daniel Burrows et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18210">2605.18210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16966.html">Harnessing AI for Inverse Partial Differential Equation Problems: Past, Present, and Prospects</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Zhentao Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16966">2605.16966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15602.html">Travel-time tomography from mean field game dynamics</a></div></td>
+<td>Longqiang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15602">2605.15602</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
 <td>Yuxin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15285.html">Universal Approximation of Nonlinear Operators and Their Derivatives</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Filippo de Feo</td>
+<td><a href="http://arxiv.org/abs/2605.15285">2605.15285</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15407.html">Amortized Energy-Based Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="seismic-inversion-7d.html">seismic-inversion</a></div></td>
+<td>Hojjat Kaveh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15407">2605.15407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15456.html">DIPA: Distilled Preconditioned Algorithms for Solving Imaging Inverse Problems</a></div></td>
+<td>Romario Gualdrón-Hurtado et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15456">2605.15456</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -56,23 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12085.html">A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography</a></div></td>
 <td>Tatiana A. Bubba et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12085">2605.12085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10076.html">A Stability Benchmark of Generative Regularizers for Inverse Problems</a></div></td>
-<td>Alexander Denker et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10076">2605.10076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10136.html">Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Bum Jun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
-<td>Juan Diego Toscano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 </tbody></table>

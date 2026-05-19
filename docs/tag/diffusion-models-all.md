@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">928 papers</span>
+  <span class="paper-count">931 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18101.html">SENSE: Satellite-based ENergy Synthesis for Sustainable Environment</a></div></td>
+<td>Kailai Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18101">2605.18101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
+<td>Tianyue Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Gilberto Aguilar-Pérez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>

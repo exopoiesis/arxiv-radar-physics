@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
+<td>Shi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
 <td>Sergio Vanegas et al.</td>
@@ -68,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
 <td>Annie Marsden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Sangyoon Bae et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -4268,23 +4286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18671.html">Self-Supervised Evolution Operator Learning for High-Dimensional Dynamical Systems</a></div></td>
 <td>Giacomo Turri et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18671">2505.18671</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05656.html">Flowing Through Layers: A Continuous Dynamical Systems Perspective on Transformers</a></div></td>
-<td>Jacob Fein-Ashley</td>
-<td><a href="http://arxiv.org/abs/2502.05656">2502.05656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18113.html">Beyond Discreteness: Finite-Sample Analysis of Straight-Through Estimator for Quantization</a></div></td>
-<td>Halyun Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18113">2505.18113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20327.html">Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Aurora Poggi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20327">2505.20327</a></td>
 </tr>
 </tbody></table>

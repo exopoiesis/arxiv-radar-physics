@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Sauradeep Majumdar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14527.html">Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
@@ -284,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19411.html">MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry</a></div></td>
 <td>Ilyes Batatia et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19411">2602.19411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15747.html">How to Train a Shallow Ensemble</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Moritz Schäfer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15747">2602.15747</a></td>
 </tr>
 </tbody></table>

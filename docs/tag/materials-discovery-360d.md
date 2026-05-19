@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16719.html">Universal Dynamics of Punctuated Progress</a></div></td>
+<td>Yian Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16719">2605.16719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16771.html">Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions</a></div></td>
+<td>Antik Sihi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16771">2605.16771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17147.html">Spatial statistics for screening molecular structures</a></div></td>
+<td>Pranoy Ray et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17147">2605.17147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div></td>
@@ -1508,11 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05771.html">A Materials Foundation Model via Hybrid Invariant-Equivariant Architectures</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Keqiang Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05771">2503.05771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18319.html">Seeing Beyond Words: MatVQA for Challenging Visual-Scientific Reasoning in Materials Science</a></div></td>
-<td>Sifan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18319">2505.18319</a></td>
 </tr>
 </tbody></table>

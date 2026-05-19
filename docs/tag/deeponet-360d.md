@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17477.html">Rapid Vibration Suppression and Trajectory Tracking of a Serial Manipulator with Multi-Flexible Links</a></div></td>
+<td>Chengyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17477">2605.17477</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Phuoc-Toan Huynh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Runlong Xie et al.</td>
@@ -860,23 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18923.html">Graph-Based Operator Learning from Limited Data on Irregular Domains</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yile Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18923">2505.18923</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01934.html">Fusion-DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic and Supersonic Flows</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Ahmad Peyvan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01934">2501.01934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17575.html">Multiphysics Bench: Benchmarking and Investigating Scientific Machine Learning for Multiphysics PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Changfan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17575">2505.17575</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18008.html">Deep Operator Neural Network Model Predictive Control</a></div></td>
-<td>Thomas Oliver de Jong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18008">2505.18008</a></td>
 </tr>
 </tbody></table>

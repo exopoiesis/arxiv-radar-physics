@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11280.html">Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Tousif Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11280">2605.11280</a></td>
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="black-holes-7d.html">black-holes</a></div></td>
+<td>Xin-yi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15959.html">When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Yuan-dong Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15959">2605.15959</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Jaemin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -3740,23 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03806.html">Perception-Informed Neural Networks: Beyond Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Mehran Mazandarani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03806">2505.03806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20206.html">SetPINNs: Set-based Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Mayank Nagda et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20206">2409.20206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18365.html">Brightness-Invariant Tracking Estimation in Tagged MRI</a></div></td>
-<td>Zhangxing Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18365">2505.18365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20327.html">Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Aurora Poggi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20327">2505.20327</a></td>
 </tr>
 </tbody></table>

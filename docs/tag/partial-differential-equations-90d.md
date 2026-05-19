@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">249 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Phuoc-Toan Huynh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15754.html">Spatiotemporal decoupled physics-informed Stone-Weierstrass neural operator for long-time prediction of time-dependent parametric PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Shan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15754">2605.15754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
@@ -26,6 +44,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jaemin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15284.html">Tadpole: Autoencoders as Foundation Models for 3D PDEs with Online Learning</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a></div></td>
+<td>Qiang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15284">2605.15284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -1478,17 +1508,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16530.html">FEKAN: Feature-Enriched Kolmogorov-Arnold Networks</a></div></td>
 <td>Sidharth S. Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16530">2602.16530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06778.html">Functional analysis and partial differential equations in spectral Barron spaces</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
-<td>Mourad Choulli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06778">2507.06778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04863.html">PENCO: A Physics-Energy-Numerics-Consistent Operator for 3D Phase Field Modeling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Mostafa Bamdad et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04863">2512.04863</a></td>
 </tr>
 </tbody></table>

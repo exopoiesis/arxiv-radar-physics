@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>black-holes — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <strong>30d</strong> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="ligo-30d.html">ligo</a></div></td>
+<td>Xin-yi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17547.html">Population synthesis of active galactic nuclei based on the radiation-regulated unification model</a></div></td>
+<td>D. Gerolymatou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17547">2605.17547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11269.html">gwBenchmarks: Stress-Testing LLM Agents on High-Precision Gravitational Wave Astronomy</a></div></td>

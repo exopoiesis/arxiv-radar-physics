@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
+<td>Xinzhe Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16191.html">Optimized Three-Dimensional Photovoltaic Structures with LLM guided Tree Search</a></div></td>
+<td>Michael P. Brenner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16191">2605.16191</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16616.html">MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility</a></div></td>
+<td>Sasi Kiran Gaddipati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16616">2605.16616</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Licong Xu et al.</td>
@@ -32,6 +50,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Yuxin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15308.html">SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Jiachen Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15308">2605.15308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
+<td>Naruki Yoshikawa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -1052,35 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17027.html">Transforming Behavioral Neuroscience Discovery with In-Context Learning and AI-Enhanced Tensor Methods</a></div></td>
 <td>Paimon Goulart et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17027">2602.17027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05523.html">Pretraining Language Models for Diachronic Linguistic Change Discovery</a></div></td>
-<td>Elisabeth Fittschen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05523">2504.05523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11460.html">Calibrated and uncertain? Evaluating uncertainty estimates in binary classification models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Aurora Grefsrud et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11460">2508.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15595.html">Multi-Objective Coverage via Constraint Active Search</a></div></td>
-<td>Zakaria Shams Siam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15595">2602.15595</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15712.html">Criteria-first, semantics-later: reproducible structure discovery in image-based sciences</a></div></td>
-<td>Jan Bumberger</td>
-<td><a href="http://arxiv.org/abs/2602.15712">2602.15712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15984.html">Verifier-Constrained Flow Expansion for Discovery Beyond the Data</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15984">2602.15984</a></td>
 </tr>
 </tbody></table>

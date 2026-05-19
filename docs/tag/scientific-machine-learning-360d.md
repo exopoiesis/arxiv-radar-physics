@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Qitan Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15793">2605.15793</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Ellwil Sharma et al.</td>
@@ -1190,11 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06308.html">Scientific machine learning in Hydrology: a unified perspective</a></div><div class="paper-tags"><a href="data-driven-physics-360d.html">data-driven-physics</a> · <a href="hydrology-360d.html">hydrology</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Adoubi Vincent De Paul Adombi</td>
 <td><a href="http://arxiv.org/abs/2506.06308">2506.06308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18131.html">Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement</a></div></td>
-<td>Jonas A. Actor et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18131">2505.18131</a></td>
 </tr>
 </tbody></table>

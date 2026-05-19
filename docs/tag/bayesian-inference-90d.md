@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="ligo-90d.html">ligo</a></div></td>
+<td>Xin-yi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17608.html">Bayesian-Monte Carlo Schedule Updating for Construction Digital Twins: A Probabilistic Framework for Dynamic Project Forecasting</a></div></td>
+<td>Atena Khoshkonesh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17608">2605.17608</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
@@ -26,6 +38,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14997.html">A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</a></div></td>
 <td>Nicholas Wogan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14997">2605.14997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15407.html">Amortized Energy-Based Bayesian Inference</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="seismic-inversion-90d.html">seismic-inversion</a></div></td>
+<td>Hojjat Kaveh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15407">2605.15407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15459.html">Don&#x27;t Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Albert Kjøller Jacobsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15459">2605.15459</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -818,17 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16567.html">Scattering and sputtering on the lunar surface; Insights from negative ions observed at the surface</a></div></td>
 <td>Romain Canu-Blot et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16567">2602.16567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11460.html">Calibrated and uncertain? Evaluating uncertainty estimates in binary classification models</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Aurora Grefsrud et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11460">2508.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15593.html">A unified theory of feature learning in RNNs and DNNs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Jan P. Bauer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15593">2602.15593</a></td>
 </tr>
 </tbody></table>

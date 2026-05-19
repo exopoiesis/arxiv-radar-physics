@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
+<td>Zhi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17792">2605.17792</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17980.html">Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution</a></div></td>
+<td>Bin Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17980">2605.17980</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17587.html">Large-Scale Quantum Kernels for Hyperspectral Data Classification</a></div></td>
+<td>A. Delilbasic et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17587">2605.17587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15582.html">LDGuid: A Framework for Robust Change Detection via Latent Difference Guidance</a></div></td>
+<td>Jiaxuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15582">2605.15582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16570.html">A Cubing Strategy for Identifying Stable Hyperparameter Regions for Uncertainty Quantification in Spatial Deep Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Isaac Amouzou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16570">2605.16570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
@@ -1046,23 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17799.html">Enabling Training-Free Text-Based Remote Sensing Segmentation</a></div></td>
 <td>Jose Sosa et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17799">2602.17799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19223.html">CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis</a></div></td>
-<td>Alexander Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19223">2504.19223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06256.html">FedX: Explanation-Guided Pruning for Communication-Efficient Federated Learning in Remote Sensing</a></div></td>
-<td>Barış Büyüktaş et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06256">2508.06256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15325.html">AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Zhixing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15325">2602.15325</a></td>
 </tr>
 </tbody></table>

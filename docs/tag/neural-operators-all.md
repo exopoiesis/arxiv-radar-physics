@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15754.html">Spatiotemporal decoupled physics-informed Stone-Weierstrass neural operator for long-time prediction of time-dependent parametric PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Shan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15754">2605.15754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Qitan Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15793">2605.15793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15806.html">Martingale Neural Operators: Learning Stochastic Marginals via Doob-Meyer Factorization</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Kai Hidajat</td>
+<td><a href="http://arxiv.org/abs/2605.15806">2605.15806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15881.html">Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems</a></div></td>
+<td>Yeang Makara et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15881">2605.15881</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
@@ -32,6 +56,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
 <td>Ellwil Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15179">2605.15179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15407.html">Amortized Energy-Based Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="seismic-inversion-all.html">seismic-inversion</a></div></td>
+<td>Hojjat Kaveh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15407">2605.15407</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>

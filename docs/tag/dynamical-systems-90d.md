@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
+<td>Shi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
@@ -68,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
 <td>Annie Marsden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Sangyoon Bae et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -1478,41 +1496,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16864.html">Position: Why a Dynamical Systems Perspective is Needed to Advance Time Series Modeling</a></div></td>
 <td>Daniel Durstewitz et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16864">2602.16864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12444.html">Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Alexander W. Goodall et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12444">2602.12444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13513.html">Learning Gradient Flow: Using Equation Discovery to Accelerate Engineering Optimization</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Grant Norman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13513">2602.13513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15592.html">Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15592">2602.15592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15649.html">Continuous-Time Piecewise-Linear Recurrent Neural Networks</a></div></td>
-<td>Alena Brändle et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15649">2602.15649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15676.html">Relative Geometry of Neural Forecasters: Linking Accuracy and Alignment in Learned Latent Geometry</a></div></td>
-<td>Deniz Kucukahmetler et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15676">2602.15676</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15704.html">Controlled oscillation modeling using port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
-<td>Maximino Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15704">2602.15704</a></td>
 </tr>
 </tbody></table>

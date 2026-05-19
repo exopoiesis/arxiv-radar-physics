@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Fakhrul Hasan Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Sauradeep Majumdar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14527.html">Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Wenwen Li et al.</td>
@@ -896,17 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18571.html">High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties</a></div></td>
 <td>Xiao Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18571">2505.18571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18141.html">INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
-<td>Taskin Mehereen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18141">2505.18141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18147.html">Nonadiabatic reactive scattering of hydrogen on different surface facets of copper</a></div></td>
-<td>Wojciech G. Stark et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18147">2505.18147</a></td>
 </tr>
 </tbody></table>

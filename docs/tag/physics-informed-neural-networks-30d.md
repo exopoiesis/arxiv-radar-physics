@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15959.html">When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Yuan-dong Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15959">2605.15959</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Jaemin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -350,11 +362,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="equation-discovery-30d.html">equation-discovery</a> · <a href="pinns-30d.html">pinns</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>William Lavery et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17156.html">Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a> · <a href="rans-30d.html">rans</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Khemraj Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17156">2604.17156</a></td>
 </tr>
 </tbody></table>

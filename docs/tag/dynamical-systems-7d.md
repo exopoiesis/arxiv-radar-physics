@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
+<td>Shi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
@@ -38,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-7d.html">hamiltonian-neural-networks</a></div></td>
 <td>Maximino Linares et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12785">2605.12785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10687.html">The finite expression method for turbulent dynamics with high-order moment recovery</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Xingjian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10687">2605.10687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10871.html">Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography</a></div></td>
-<td>Timothy Oladunni et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10871">2605.10871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11327.html">Neural Statistical Functions</a></div></td>
-<td>Daniel Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11327">2605.11327</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16020.html">Variational Autoregressive Networks with probability priors</a></div></td>
+<td>Piotr Białas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16020">2605.16020</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12730.html">BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics</a></div></td>
@@ -38,6 +44,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div></td>
+<td>Truong Xuan Khanh</td>
+<td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>

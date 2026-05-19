@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18101.html">SENSE: Satellite-based ENergy Synthesis for Sustainable Environment</a></div></td>
+<td>Kailai Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18101">2605.18101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
+<td>Tianyue Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
+<td>Gilberto Aguilar-Pérez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Zuopeng Zhao et al.</td>
@@ -1130,23 +1148,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17773.html">Learning Flow Distributions via Projection-Constrained Diffusion on Manifolds</a></div></td>
 <td>Noah Trupin et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17773">2602.17773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15648.html">Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design</a></div></td>
-<td>Jens U. Kreber et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15648">2602.15648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15914.html">Steering Dynamical Regimes of Diffusion Models by Breaking Detailed Balance</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Haiqi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15914">2602.15914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15984.html">Verifier-Constrained Flow Expansion for Discovery Beyond the Data</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15984">2602.15984</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>les — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <strong>90d</strong> <a href="les-360d.html">360d</a> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01998.html">Hybrid ROM-PINN Framework for Closure Modeling in Convection-Dominated Systems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="rom-90d.html">rom</a></div></td>
 <td>Ferhat Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01998">2603.01998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15743.html">Physics-informed data-driven inference of an interpretable equivariant LES model of incompressible fluid turbulence</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
-<td>Matteo Ugliotti et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15743">2602.15743</a></td>
 </tr>
 </tbody></table>

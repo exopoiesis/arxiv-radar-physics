@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18891.html">Degradation-Aware and Machine Learning-Driven Uncertainty Quantification in Crystal Plasticity Finite Element: Texture-Driven Plasticity in 316L Stainless Steel</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Dinesh Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18891">2505.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17400.html">TripNet: Learning Large-scale High-fidelity 3D Car Aerodynamics with Triplane Networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Qian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17400">2503.17400</a></td>
 </tr>
 </tbody></table>

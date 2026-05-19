@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18004.html">RL4RLA: Teaching ML to Discover Randomized Linear Algebra Algorithms Through Curriculum Design and Graph-Based Search</a></div></td>
+<td>Jinglong Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18004">2605.18004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16793.html">PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting</a></div></td>
+<td>Yangyou Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16793">2605.16793</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -58,6 +70,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Sangyoon Bae et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Abhijit Sen et al.</td>
@@ -74,6 +92,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03386.html">Local Truncation Error-Guided Neural ODEs for Large Scale Traffic Forecasting</a></div></td>
 <td>Xiao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03386">2605.03386</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16321.html">Language Game: Talking to Non-Human Systems</a></div></td>
+<td>Yanbo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16321">2605.16321</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>

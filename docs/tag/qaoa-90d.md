@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18031.html">Quantum Sidecar Architectures for Hybrid AI Training and Inference: Stateful Protected Registers, Stateless Reset-and-Reprepare Circuits and Quantum Weight-State Outlook</a></div></td>
+<td>Y. Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18031">2605.18031</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div></td>
 <td>Sean Feeney et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16001.html">Separating Ansatz Discovery from Deployment on Larger Problems: Reinforcement Learning for Modular Circuit Design</a></div></td>
 <td>Gloria Turati et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16001">2507.16001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16018.html">Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era</a></div></td>
-<td>Armin Ahmadkhaniha et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16018">2602.16018</a></td>
 </tr>
 </tbody></table>

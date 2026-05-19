@@ -16,6 +16,36 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
+<td>Zhi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17792">2605.17792</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17980.html">Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution</a></div></td>
+<td>Bin Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17980">2605.17980</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17587.html">Large-Scale Quantum Kernels for Hyperspectral Data Classification</a></div></td>
+<td>A. Delilbasic et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17587">2605.17587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15582.html">LDGuid: A Framework for Robust Change Detection via Latent Difference Guidance</a></div></td>
+<td>Jiaxuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15582">2605.15582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16570.html">A Cubing Strategy for Identifying Stable Hyperparameter Regions for Uncertainty Quantification in Spatial Deep Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Isaac Amouzou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16570">2605.16570</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14326.html">D2-CDIG: Controlled Diffusion Remote Sensing Image Generation with Dual Priors of DEM and Cloud-Fog</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Zuopeng Zhao et al.</td>
@@ -3500,35 +3530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06309.html">Leveraging Novel Ensemble Learning Techniques and Landsat Multispectral Data for Estimating Olive Yields in Tunisia</a></div></td>
 <td>Mohamed Kefi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06309">2506.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14043.html">Selective Structured State Space for Multispectral-fused Small Target Detection</a></div></td>
-<td>Qianqian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14043">2505.14043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17556.html">Wildfire spread forecasting with Deep Learning</a></div></td>
-<td>Nikolaos Anastasiou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17556">2505.17556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17665.html">EMRA-proxy: Enhancing Multi-Class Region Semantic Segmentation in Remote Sensing Images with Attention Proxy</a></div></td>
-<td>Yichun Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17665">2505.17665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17896.html">Geometric Shape Modelling and Volume Estimation of Dry Bulk Cargo Piles using a Single Image</a></div></td>
-<td>Debanshu Ratha et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17896">2505.17896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18021.html">Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method</a></div></td>
-<td>Yao Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18021">2505.18021</a></td>
 </tr>
 </tbody></table>

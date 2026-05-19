@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,17 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07110.html">Physics-informed graph neural networks for flow field estimation in carotid arteries</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Julian Suk et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07110">2408.07110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11895.html">Reduced-Order Hydrodynamic Modelling of a Sphere Near a Wall Using Sparse Regression and Neural Operators</a></div></td>
-<td>Zev Hoffman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11895">2512.11895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11440.html">GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="rans-90d.html">rans</a></div></td>
-<td>Francisco Giral et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11440">2601.11440</a></td>
 </tr>
 </tbody></table>

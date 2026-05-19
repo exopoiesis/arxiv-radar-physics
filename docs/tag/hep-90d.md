@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hep — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <strong>90d</strong> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09238.html">Optimal Transport for $e/π^0$ Particle Classification in LArTPC Neutrino Experiments</a></div><div class="paper-tags"><a href="event-classification-90d.html">event-classification</a></div></td>
 <td>David Caratelli et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09238">2506.09238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15781.html">Neural Scaling Laws for Boosted Jet Tagging</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
-<td>Matthias Vigl et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15781">2602.15781</a></td>
 </tr>
 </tbody></table>

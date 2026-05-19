@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17968.html">Function graph transformers universally approximate operators between function spaces</a></div></td>
+<td>Takashi Furuya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17968">2605.17968</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Alan John Varghese et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15285.html">Universal Approximation of Nonlinear Operators and Their Derivatives</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Filippo de Feo</td>
+<td><a href="http://arxiv.org/abs/2605.15285">2605.15285</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -1538,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18923.html">Graph-Based Operator Learning from Limited Data on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yile Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18923">2505.18923</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12293.html">In-Context Learning of Linear Systems: Generalization Theory and Applications to Operator Learning</a></div></td>
-<td>Frank Cole et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12293">2409.12293</a></td>
 </tr>
 </tbody></table>

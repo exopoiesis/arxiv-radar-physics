@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21368.html">The Jiutian simulations for the CSST extra-galactic surveys</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Jiaxin Han et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21368">2503.21368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18307.html">Galaxies OBserved as Low-luminosity Identified Nebulae (GOBLIN): a catalog of 43,000 high-probability dwarf galaxy candidates in the UNIONS survey</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Nick Heesters et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18307">2505.18307</a></td>
 </tr>
 </tbody></table>

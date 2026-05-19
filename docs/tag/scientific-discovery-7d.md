@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
+<td>Xinzhe Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16191.html">Optimized Three-Dimensional Photovoltaic Structures with LLM guided Tree Search</a></div></td>
+<td>Michael P. Brenner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16191">2605.16191</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16616.html">MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility</a></div></td>
+<td>Sasi Kiran Gaddipati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16616">2605.16616</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
 <td>Licong Xu et al.</td>
@@ -34,6 +52,18 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15308.html">SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Jiachen Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15308">2605.15308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
+<td>Naruki Yoshikawa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-7d.html">fusion-energy</a></div></td>
 <td>Gary Staebler et al.</td>
@@ -44,35 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12485.html">Letting the neural code speak: Automated characterization of monkey visual neurons through human language</a></div></td>
 <td>Vedang Lad et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12485">2605.12485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
-<td>Michael Chin</td>
-<td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Juan Diego Toscano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11128.html">Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs</a></div></td>
-<td>Amin Banayeeanzade et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11128">2605.11128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11258.html">Unlocking LLM Creativity in Science through Analogical Reasoning</a></div></td>
-<td>Andrew Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11258">2605.11258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
-<td>Kainat Riaz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
 </tr>
 </tbody></table>

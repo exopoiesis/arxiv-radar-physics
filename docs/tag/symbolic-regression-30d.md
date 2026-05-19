@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15809.html">Diversified Residual Symbolic Regression</a></div></td>
+<td>Koki Ikeda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15809">2605.15809</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15308.html">SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Jiachen Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15308">2605.15308</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10685.html">GESR: A Genetic Programming-Based Symbolic Regression Method with Gene Editing</a></div></td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="equation-discovery-30d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>William Lavery et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15250.html">In-Context Symbolic Regression for Robustness-Improved Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Francesco Sovrano et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15250">2603.15250</a></td>
 </tr>
 </tbody></table>

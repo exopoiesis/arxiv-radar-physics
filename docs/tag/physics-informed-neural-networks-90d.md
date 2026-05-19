@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15959.html">When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Yuan-dong Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15959">2605.15959</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Simon Scheidegger</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jaemin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -1166,17 +1178,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16167.html">Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Binghang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16167">2602.16167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15954.html">Hybrid Model Predictive Control with Physics-Informed Neural Network for Satellite Attitude Control</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Carlo Cena et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15954">2602.15954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16081.html">Non-local physics-informed neural networks for forward and inverse solutions of granular flows</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Saghar Zolfaghari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16081">2602.16081</a></td>
 </tr>
 </tbody></table>

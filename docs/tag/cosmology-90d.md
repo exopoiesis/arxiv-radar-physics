@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16762.html">Extracting redshifts from 2D slitless spectroscopic images using deep learning for the CSST galaxy survey</a></div></td>
+<td>Xingchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16762">2605.16762</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
@@ -332,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17592.html">AstroMLab 4: Benchmark-Topping Performance in Astronomy Q&amp;A with a 70B-Parameter Domain-Specialized Reasoning Model</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Tijmen de Haan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17592">2505.17592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07469.html">Influence of finite-temperature effects on CMB power spectrum</a></div></td>
-<td>I. Y. Park et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07469">2503.07469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12019.html">Is cosmic birefringence due to dark energy or dark matter? Simulation-based inference</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>Florie Carralot et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12019">2602.12019</a></td>
 </tr>
 </tbody></table>

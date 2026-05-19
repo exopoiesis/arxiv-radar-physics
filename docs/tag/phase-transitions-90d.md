@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16020.html">Variational Autoregressive Networks with probability priors</a></div></td>
+<td>Piotr Białas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16020">2605.16020</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12730.html">BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics</a></div></td>
@@ -38,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div></td>
+<td>Truong Xuan Khanh</td>
+<td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -326,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18533.html">Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models</a></div></td>
 <td>Andrew Fraser</td>
 <td><a href="http://arxiv.org/abs/2602.18533">2602.18533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15914.html">Steering Dynamical Regimes of Diffusion Models by Breaking Detailed Balance</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Haiqi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15914">2602.15914</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">499 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
+<td>Xinzhe Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16191.html">Optimized Three-Dimensional Photovoltaic Structures with LLM guided Tree Search</a></div></td>
+<td>Michael P. Brenner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16191">2605.16191</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16616.html">MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility</a></div></td>
+<td>Sasi Kiran Gaddipati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16616">2605.16616</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
@@ -32,6 +50,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Yuxin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15308.html">SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Jiachen Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15308">2605.15308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
+<td>Naruki Yoshikawa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -3002,11 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18705.html">AI-Researcher: Autonomous Scientific Innovation</a></div></td>
 <td>Jiabin Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18705">2505.18705</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17968.html">Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Jiayi Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17968">2505.17968</a></td>
 </tr>
 </tbody></table>

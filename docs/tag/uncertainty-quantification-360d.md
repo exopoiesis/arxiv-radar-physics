@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">534 papers</span>
+  <span class="paper-count">539 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div></td>
+<td>Chih-Yu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18033">2605.18033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16966.html">Harnessing AI for Inverse Partial Differential Equation Problems: Past, Present, and Prospects</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Zhentao Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16966">2605.16966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Phuoc-Toan Huynh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15806.html">Martingale Neural Operators: Learning Stochastic Marginals via Doob-Meyer Factorization</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Kai Hidajat</td>
+<td><a href="http://arxiv.org/abs/2605.15806">2605.15806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16570.html">A Cubing Strategy for Identifying Stable Hyperparameter Regions for Uncertainty Quantification in Spatial Deep Learning</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Isaac Amouzou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16570">2605.16570</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14642.html">Distributionally Robust Model Predictive Control for Virtual Power Plants</a></div></td>
 <td>Nikolas Recke et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14642">2605.14642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15459.html">Don&#x27;t Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Albert Kjøller Jacobsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15459">2605.15459</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -3212,11 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18891.html">Degradation-Aware and Machine Learning-Driven Uncertainty Quantification in Crystal Plasticity Finite Element: Texture-Driven Plasticity in 316L Stainless Steel</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Dinesh Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18891">2505.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20327.html">Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Aurora Poggi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20327">2505.20327</a></td>
 </tr>
 </tbody></table>

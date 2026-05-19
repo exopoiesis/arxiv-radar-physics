@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Phuoc-Toan Huynh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15754.html">Spatiotemporal decoupled physics-informed Stone-Weierstrass neural operator for long-time prediction of time-dependent parametric PDEs</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Shan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15754">2605.15754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14493.html">Deep Learning for Solving and Estimating Dynamic Models in Economics and Finance</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Simon Scheidegger</td>
@@ -26,6 +44,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14643.html">Unbiased and Second-Order-Free Training for High-Dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Jaemin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14643">2605.14643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15284.html">Tadpole: Autoencoders as Foundation Models for 3D PDEs with Online Learning</a></div><div class="paper-tags"><a href="pde-learning-7d.html">pde-learning</a></div></td>
+<td>Qiang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15284">2605.15284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -68,35 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12368.html">MetaColloc: Optimization-Free PDE Solving via Meta-Learned Basis Functions</a></div></td>
 <td>Zichuan Yang</td>
 <td><a href="http://arxiv.org/abs/2605.12368">2605.12368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09975.html">Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Hoyeol Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09975">2605.09975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10154.html">Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Xiaoxiao Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10154">2605.10154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10277.html">Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Koichi Taniguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10277">2605.10277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10383.html">Multifidelity Gaussian process regression for solving nonlinear partial differential equations</a></div></td>
-<td>Fatima-Zahrae El-Boukkouri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10383">2605.10383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10586.html">CausalGS: Learning Physical Causality of 3D Dynamic Scenes with Gaussian Representations</a></div></td>
-<td>Nengbo Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10586">2605.10586</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mhd — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <strong>90d</strong> <a href="mhd-360d.html">360d</a> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19110.html">Machine learning prediction of plasma behavior from discharge configurations on WEST</a></div></td>
 <td>Chenguang Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19110">2602.19110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15431.html">Flux pumping and bifurcated relaxations of helical core in 3D magnetohydrodynamic modelling of ASDEX Upgrade plasmas</a></div></td>
-<td>H. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15431">2602.15431</a></td>
 </tr>
 </tbody></table>

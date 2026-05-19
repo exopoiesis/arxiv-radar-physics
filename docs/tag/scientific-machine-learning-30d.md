@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Qitan Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15793">2605.15793</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="sciml-30d.html">sciml</a></div></td>
 <td>Ellwil Sharma et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12448.html">Optimized Architectures for Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>James Bagrow et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12448">2512.12448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15250.html">In-Context Symbolic Regression for Robustness-Improved Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Francesco Sovrano et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15250">2603.15250</a></td>
 </tr>
 </tbody></table>

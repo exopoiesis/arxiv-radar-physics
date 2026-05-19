@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1054 papers</span>
+  <span class="paper-count">1057 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
+<td>Shi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15549.html">CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</a></div></td>
+<td>Stefano Riva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15549">2605.15549</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
@@ -68,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08390.html">The Power of Second Order Methods for Sequence Preconditioning</a></div></td>
 <td>Annie Marsden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08390">2605.08390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Sangyoon Bae et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>

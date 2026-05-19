@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ai4science — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <strong>30d</strong> <a href="ai4science-90d.html">90d</a> <a href="ai4science-360d.html">360d</a> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26645.html">SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Dianyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26645">2604.26645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16929.html">MeasHalu: Mitigation of Scientific Measurement Hallucinations for Large Language Models with Enhanced Reasoning</a></div></td>
-<td>Ruijun Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16929">2604.16929</a></td>
 </tr>
 </tbody></table>

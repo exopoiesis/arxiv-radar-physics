@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">548 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19233.html">Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Carlos A. Durán Paredes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19233">2605.19233</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19417.html">Towards Fair Benchmarking of Quantum Transfer Learning for Visual Classification</a></div></td>
+<td>Nouhaila Innan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19417">2605.19417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18345.html">Hybrid Quantum-Classical Neural Architecture Search</a></div></td>
+<td>Alberto Marchisio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18345">2605.18345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18540.html">Discovering Data Encoding Strategies for Quantum-Classical Neural Networks Using Monte Carlo Tree Search</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Lena Tokuhiro et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18540">2605.18540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18912.html">Quantum Viterbi Algorithm</a></div></td>
+<td>Luigi Accardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18912">2605.18912</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14523.html">HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks</a></div></td>
@@ -32,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
 <td>Chon-Fai Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11557">2605.11557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18821.html">Quantum Adversarial Machine Learning: From Classical Adaptations to Quantum-Native Methods</a></div></td>
+<td>Roozbeh Razavi-Far et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18821">2605.18821</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -3266,17 +3302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15254.html">Quantum autoencoders for image classification</a></div></td>
 <td>Hinako Asaoka et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15254">2502.15254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13525.html">Learning to Program Quantum Measurements for Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Samuel Yen-Chi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13525">2505.13525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20337.html">Predictive Performance of Deep Quantum Data Re-uploading Models</a></div></td>
-<td>Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20337">2505.20337</a></td>
 </tr>
 </tbody></table>

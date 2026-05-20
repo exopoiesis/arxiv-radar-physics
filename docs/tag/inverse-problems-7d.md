@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19621.html">Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography</a></div></td>
+<td>Giovanni S. Alberti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19621">2605.19621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20004.html">A note on several inverse problems with generally random coefficients</a></div><div class="paper-tags"><a href="schr-dinger-equation-7d.html">schr-dinger-equation</a></div></td>
+<td>Cătălin I. Cârstea</td>
+<td><a href="http://arxiv.org/abs/2605.20004">2605.20004</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18210.html">Motion-Enabled Tomography via Gaussian Mixture Models</a></div></td>
 <td>Daniel Burrows et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18210">2605.18210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18655.html">Self-Supervised Conformal Prediction with Equivariant Bootstrapping for Image Uncertainty Quantification</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Henry J. Aldridge et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18655">2605.18655</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-16</td>
@@ -86,11 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
 <td>Ayoub Belhadji et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12085.html">A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography</a></div></td>
-<td>Tatiana A. Bubba et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12085">2605.12085</a></td>
 </tr>
 </tbody></table>

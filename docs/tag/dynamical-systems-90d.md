@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">249 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
+<td>Siva Athreya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
+<td>Thomas Savary et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18250.html">A Unified Framework for Structured Flow Modeling: From Continuous Fields to Data-Driven Representations</a></div></td>
+<td>Diego Casadei</td>
+<td><a href="http://arxiv.org/abs/2605.18250">2605.18250</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
+<td>Joris C. Kühl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
@@ -1484,17 +1508,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17829.html">Causality by Abstraction: Symbolic Rule Learning in Multivariate Timeseries with Large Language Models</a></div></td>
 <td>Preetom Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17829">2602.17829</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17772.html">Weighted Birkhoff Averages Accelerate Data-Driven Methods</a></div></td>
-<td>Maria Bou-Sakr-El-Tayar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17772">2511.17772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16864.html">Position: Why a Dynamical Systems Perspective is Needed to Advance Time Series Modeling</a></div></td>
-<td>Daniel Durstewitz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16864">2602.16864</a></td>
 </tr>
 </tbody></table>

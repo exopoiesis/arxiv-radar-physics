@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.18218">2605.18218</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18959.html">Hyrax: An Extensible Framework for Rapid ML Experimentation and Unsupervised Discovery in the Era of Rubin, Roman, and Euclid</a></div></td>
+<td>Aritra Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18959">2605.18959</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Gilberto Aguilar-Pérez et al.</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18554.html">Reanalyzing DESI DR1: 5. Cosmological Constraints with Simulation-Based Priors</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Anton Chudaykin et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18554">2602.18554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04681.html">Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning: Analysis design</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>A. Thomsen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04681">2511.04681</a></td>
 </tr>
 </tbody></table>

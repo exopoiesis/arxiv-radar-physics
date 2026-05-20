@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20090.html">MetaEarth-MM: Unified Multimodal Remote Sensing Image Generation with Scene-centered Joint Modeling</a></div></td>
+<td>Zhiping Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20090">2605.20090</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
 <td>Zhi Li et al.</td>
@@ -386,11 +392,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18201.html">DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Geet Sethi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18201">2604.18201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17243.html">RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation</a></div></td>
-<td>Rui Min et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17243">2604.17243</a></td>
 </tr>
 </tbody></table>

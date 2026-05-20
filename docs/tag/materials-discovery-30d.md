@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19494.html">High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage</a></div></td>
+<td>Alessio Mondello et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19494">2605.19494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19124.html">Atomistic Modeling of Chemical Disorder in Materials: Bridging Classical Methods and AI-Assisted Approaches</a></div></td>
+<td>Jiayu Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19124">2605.19124</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16719.html">Universal Dynamics of Punctuated Progress</a></div></td>
 <td>Yian Yin et al.</td>
@@ -188,17 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17994.html">SWORD: Symmetry and Wyckoff-sequence of Ordered and Disordered crystals</a></div></td>
 <td>Yuyao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17994">2604.17994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div></td>
-<td>Seunghee Han et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06082.html">Offline Materials Optimization with CliqueFlowmer</a></div></td>
-<td>Jakub Grudzien Kuba et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06082">2603.06082</a></td>
 </tr>
 </tbody></table>

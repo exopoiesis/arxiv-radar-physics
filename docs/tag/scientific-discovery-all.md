@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">644 papers</span>
+  <span class="paper-count">648 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20025.html">AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration</a></div></td>
+<td>Jiaqi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20025">2605.20025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
 <td>Xinzhe Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18407.html">Qumus: Realization of An Embodied AI Quantum Material Experimentalist</a></div></td>
+<td>Lihan Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18407">2605.18407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18747.html">Code as Agent Harness</a></div></td>
+<td>Xuying Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18747">2605.18747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -62,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
 <td>Naruki Yoshikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18854.html">Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery</a></div></td>
+<td>Renuka Chintalapati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18854">2605.18854</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>

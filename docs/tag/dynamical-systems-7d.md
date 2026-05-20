@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
+<td>Siva Athreya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
+<td>Thomas Savary et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18250.html">A Unified Framework for Structured Flow Modeling: From Continuous Fields to Data-Driven Representations</a></div></td>
+<td>Diego Casadei</td>
+<td><a href="http://arxiv.org/abs/2605.18250">2605.18250</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
+<td>Joris C. Kühl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
@@ -32,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
 <td>Sergio Vanegas et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14489">2605.14489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Mehmet Ali Ferah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12683.html">Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction</a></div></td>
-<td>Florian Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12683">2605.12683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-7d.html">hamiltonian-neural-networks</a></div></td>
-<td>Maximino Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12785">2605.12785</a></td>
 </tr>
 </tbody></table>

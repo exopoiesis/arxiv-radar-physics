@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">712 papers</span>
+  <span class="paper-count">714 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
+<td>Siva Athreya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
+<td>Thomas Savary et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18250.html">A Unified Framework for Structured Flow Modeling: From Continuous Fields to Data-Driven Representations</a></div></td>
+<td>Diego Casadei</td>
+<td><a href="http://arxiv.org/abs/2605.18250">2605.18250</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
+<td>Joris C. Kühl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
@@ -4274,17 +4298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20048.html">Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Ali Forootani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20048">2505.20048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03806.html">Perception-Informed Neural Networks: Beyond Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Mehran Mazandarani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03806">2505.03806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18671.html">Self-Supervised Evolution Operator Learning for High-Dimensional Dynamical Systems</a></div></td>
-<td>Giacomo Turri et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18671">2505.18671</a></td>
 </tr>
 </tbody></table>

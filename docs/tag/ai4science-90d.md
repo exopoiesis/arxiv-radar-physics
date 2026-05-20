@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ai4science — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <strong>90d</strong> <a href="ai4science-360d.html">360d</a> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18587.html">PACE: Geometry-Aware Bridge Transport for Single-Cell Trajectory Inference</a></div></td>
+<td>Chenglei Yu* et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18587">2605.18587</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14600.html">SciPaths: Forecasting Pathways to Scientific Discovery</a></div></td>

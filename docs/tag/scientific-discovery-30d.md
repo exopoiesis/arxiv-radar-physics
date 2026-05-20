@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20025.html">AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration</a></div></td>
+<td>Jiaqi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20025">2605.20025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
 <td>Xinzhe Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18407.html">Qumus: Realization of An Embodied AI Quantum Material Experimentalist</a></div></td>
+<td>Lihan Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18407">2605.18407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18747.html">Code as Agent Harness</a></div></td>
+<td>Xuying Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18747">2605.18747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -62,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
 <td>Naruki Yoshikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18854.html">Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery</a></div></td>
+<td>Renuka Chintalapati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18854">2605.18854</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -338,11 +362,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15253.html">Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding</a></div></td>
 <td>Sensen Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15253">2510.15253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17581.html">How Much Data is Enough? The Zeta Law of Discoverability in Biomedical Data, featuring the enigmatic Riemann zeta function</a></div></td>
-<td>Paul M. Thompson</td>
-<td><a href="http://arxiv.org/abs/2604.17581">2604.17581</a></td>
 </tr>
 </tbody></table>

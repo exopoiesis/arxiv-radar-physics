@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
+<td>Siva Athreya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
+<td>Thomas Savary et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18250.html">A Unified Framework for Structured Flow Modeling: From Continuous Fields to Data-Driven Representations</a></div></td>
+<td>Diego Casadei</td>
+<td><a href="http://arxiv.org/abs/2605.18250">2605.18250</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
+<td>Joris C. Kühl et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
 <td>Shi Chen et al.</td>
@@ -356,29 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18887.html">HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction</a></div></td>
 <td>Blake Werner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18887">2604.18887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01015.html">Upper Approximation Bounds for Neural Oscillators</a></div></td>
-<td>Zifeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01015">2512.01015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17470.html">Machine Learning Hamiltonian Dynamical Systems with Sparse and Noisy Data</a></div><div class="paper-tags"><a href="hamiltonian-learning-30d.html">hamiltonian-learning</a></div></td>
-<td>Vedanta Thapar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17470">2604.17470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17563.html">Composition and tensor train structure in polynomial optimization</a></div></td>
-<td>Llorenç Balada Gaggioli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17563">2604.17563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17566.html">Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification</a></div></td>
-<td>Achraf El Messaoudi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17566">2604.17566</a></td>
 </tr>
 </tbody></table>

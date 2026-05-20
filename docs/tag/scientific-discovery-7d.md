@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20025.html">AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration</a></div></td>
+<td>Jiaqi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20025">2605.20025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
 <td>Xinzhe Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18407.html">Qumus: Realization of An Embodied AI Quantum Material Experimentalist</a></div></td>
+<td>Lihan Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18407">2605.18407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18747.html">Code as Agent Harness</a></div></td>
+<td>Xuying Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18747">2605.18747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -64,15 +82,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12116.html">MPEX AI Digital Twins Milestone Report</a></div><div class="paper-tags"><a href="fusion-energy-7d.html">fusion-energy</a></div></td>
-<td>Gary Staebler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12116">2605.12116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12485.html">Letting the neural code speak: Automated characterization of monkey visual neurons through human language</a></div></td>
-<td>Vedang Lad et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12485">2605.12485</a></td>
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18854.html">Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery</a></div></td>
+<td>Renuka Chintalapati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18854">2605.18854</a></td>
 </tr>
 </tbody></table>

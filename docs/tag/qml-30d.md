@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18540.html">Discovering Data Encoding Strategies for Quantum-Classical Neural Networks Using Monte Carlo Tree Search</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Lena Tokuhiro et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18540">2605.18540</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Natsuto Isogai et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06086.html">From Membership-Privacy Leakage to Quantum Machine Unlearning</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Junjian Su et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06086">2509.06086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17515.html">Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Jesse Roberta Mingue Njiki et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17515">2604.17515</a></td>
 </tr>
 </tbody></table>

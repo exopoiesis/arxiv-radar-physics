@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17592.html">AstroMLab 4: Benchmark-Topping Performance in Astronomy Q&amp;A with a 70B-Parameter Domain-Specialized Reasoning Model</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Tijmen de Haan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17592">2505.17592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06200.html">StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars</a></div></td>
-<td>Weijian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06200">2510.06200</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetohydrodynamics — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="magnetohydrodynamics-7d.html">7d</a> <a href="magnetohydrodynamics-30d.html">30d</a> <a href="magnetohydrodynamics-90d.html">90d</a> <strong>360d</strong> <a href="magnetohydrodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>E. A. Huerta</td>
+<td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29079.html">Data-driven discovery of dynamo cycle equations</a></div></td>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18495.html">Bayesian characterization of porous media using three-microphone tube method in extended frequency ranges</a></div></td>
+<td>Ziqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18495">2605.18495</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17608.html">Bayesian-Monte Carlo Schedule Updating for Construction Digital Twins: A Probabilistic Framework for Dynamic Project Forecasting</a></div></td>
 <td>Atena Khoshkonesh et al.</td>
@@ -2672,11 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13255.html">Stochastic Deep Learning Surrogate Models for Uncertainty Propagation in Microstructure-Properties of Ceramic Aerogels</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Md Azharul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2501.13255">2501.13255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18888.html">Constraints on maximum neutron star mass from proto-neutron star evolution</a></div></td>
-<td>Deepak Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18888">2505.18888</a></td>
 </tr>
 </tbody></table>

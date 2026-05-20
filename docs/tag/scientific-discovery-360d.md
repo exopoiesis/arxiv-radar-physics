@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">503 papers</span>
+  <span class="paper-count">504 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20025.html">AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration</a></div></td>
+<td>Jiaqi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20025">2605.20025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17976.html">Unleashing LLMs in Bayesian Optimization: Preference-Guided Framework for Scientific Discovery</a></div></td>
 <td>Xinzhe Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17976">2605.17976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18407.html">Qumus: Realization of An Embodied AI Quantum Material Experimentalist</a></div></td>
+<td>Lihan Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18407">2605.18407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18747.html">Code as Agent Harness</a></div></td>
+<td>Xuying Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18747">2605.18747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -62,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15227.html">NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol</a></div></td>
 <td>Naruki Yoshikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15227">2605.15227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18854.html">Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery</a></div></td>
+<td>Renuka Chintalapati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18854">2605.18854</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -3014,23 +3038,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21034.html">LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms</a></div></td>
 <td>Wenhu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21034">2505.21034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14191.html">AI Idea Bench 2025: AI Research Idea Generation Benchmark</a></div></td>
-<td>Yansheng Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14191">2504.14191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16728.html">IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery</a></div></td>
-<td>Aniketh Garikaparthi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16728">2504.16728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18705.html">AI-Researcher: Autonomous Scientific Innovation</a></div></td>
-<td>Jiabin Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18705">2505.18705</a></td>
 </tr>
 </tbody></table>

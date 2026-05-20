@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-driven-physics — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="data-driven-physics-7d.html">7d</a> <a href="data-driven-physics-30d.html">30d</a> <a href="data-driven-physics-90d.html">90d</a> <strong>360d</strong> <a href="data-driven-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15141.html">Machine learning meets $\mathfrak{su}(n)$ Lie algebra: Enhancing quantum dynamics learning with exact trace conservation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Arif Ullah et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15141">2502.15141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06308.html">Scientific machine learning in Hydrology: a unified perspective</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Adoubi Vincent De Paul Adombi</td>
-<td><a href="http://arxiv.org/abs/2506.06308">2506.06308</a></td>
 </tr>
 </tbody></table>

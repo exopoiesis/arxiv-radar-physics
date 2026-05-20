@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>sciml — all</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <a href="sciml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18910.html">A Tutorial on Symbolic Structural Identifiability Analysis of ODE Models in Julia</a></div></td>
+<td>Abdallah Alsammani</td>
+<td><a href="http://arxiv.org/abs/2605.18910">2605.18910</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>

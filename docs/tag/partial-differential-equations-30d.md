@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>April Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20639">2605.20639</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
@@ -38,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Hugo Melchers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -416,11 +434,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20061.html">Predictivity and Utility of Neural Surrogates of Multiscale PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Karthik Duraisamy</td>
 <td><a href="http://arxiv.org/abs/2604.20061">2604.20061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17922.html">Optimal Linear Interpolation under Differential Information: application to the prediction of perfect flows</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Soumyodeep Mukhopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17922">2604.17922</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>weather-forecasting — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <strong>30d</strong> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23070.html">Learning the Weather-Grid Nexus via Weather-to-Voltage (W2V) Predictive Modeling</a></div></td>
 <td>Sol Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23070">2604.23070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11893.html">Universal Diffusion-Based Probabilistic Downscaling</a></div></td>
-<td>Roberto Molinaro et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11893">2602.11893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18906.html">Instability-Aware Steering of an Extreme Atmospheric River in an AI Weather Foundation Model</a></div></td>
-<td>Moyan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18906">2604.18906</a></td>
 </tr>
 </tbody></table>

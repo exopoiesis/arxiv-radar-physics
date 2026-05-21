@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-90d.html">mlip</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-90d.html">seismic-inversion</a></div></td>
+<td>Ipsita Bhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -1052,17 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06808.html">Dynamical low-rank approximation for the semiclassical Schrodinger equation with uncertainties</a></div></td>
 <td>Liu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06808">2602.06808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00663.html">Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00663">2509.00663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17211.html">MGD: Moment Guided Diffusion for Maximum Entropy Generation</a></div></td>
-<td>Etienne Lempereur et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17211">2602.17211</a></td>
 </tr>
 </tbody></table>

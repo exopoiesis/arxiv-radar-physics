@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-30d.html">mlip</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-30d.html">seismic-inversion</a></div></td>
+<td>Ipsita Bhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -320,29 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19500.html">Connecting the forward problem to the inverse problem in uncertainty quantification of Earth system models using fast emulators</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Ethan YoungIn Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19500">2604.19500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17922.html">Optimal Linear Interpolation under Differential Information: application to the prediction of perfect flows</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Soumyodeep Mukhopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17922">2604.17922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18045.html">An ensemble-based approach for multi-fidelity emulation and adaptive sampling</a></div></td>
-<td>Hossein Mohammadi</td>
-<td><a href="http://arxiv.org/abs/2604.18045">2604.18045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18776.html">Multiscale Structural Reliability Analysis in high dimensions with Tensor Trains and Physics-Augmented Neural Networks</a></div></td>
-<td>Aryan Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18776">2604.18776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21943.html">Multi-Fidelity Monte-Carlo Estimation of Satellite Drag in Very-Low-Earth Orbit</a></div></td>
-<td>Jovan Boskovic et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21943">2604.21943</a></td>
 </tr>
 </tbody></table>

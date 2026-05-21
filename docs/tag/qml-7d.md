@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21286.html">Software Between Quantum and Machine Learning -- And Down to Pulses</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Maja Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21286">2605.21286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18540.html">Discovering Data Encoding Strategies for Quantum-Classical Neural Networks Using Monte Carlo Tree Search</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
 <td>Lena Tokuhiro et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18540">2605.18540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
-<td>Natsuto Isogai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20637.html">PUBO Formulation for MST and Application to Optimum-Path Forest</a></div></td>
+<td>Guilherme E. L. Pexe et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20637">2605.20637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21286.html">Software Between Quantum and Machine Learning -- And Down to Pulses</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Maja Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21286">2605.21286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21346.html">Evidence of Quantum Machine Learning Advantage with Tens of Noisy Qubits</a></div></td>
+<td>Onur Danaci et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21346">2605.21346</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19233.html">Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
 <td>Carlos A. Durán Paredes et al.</td>
@@ -914,23 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18642.html">Auto Quantum Machine Learning for Multisource Classification</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Tomasz Rybotycki et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18642">2602.18642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19355.html">Quantum-Inspired Weight-Constrained Neural Network: Reducing Variable Numbers by 100x Compared to Standard Neural Networks</a></div></td>
-<td>Shaozhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19355">2412.19355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14282.html">Resisting Quantum Key Distribution Attacks Using Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Ali Al-kuwari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14282">2509.14282</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17563.html">Compact Representation of Particle-Collision Events for Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="collider-physics-90d.html">collider-physics</a></div></td>
-<td>Wasikul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17563">2602.17563</a></td>
 </tr>
 </tbody></table>

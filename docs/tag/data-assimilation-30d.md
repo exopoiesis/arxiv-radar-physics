@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,23 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18279.html">Data assimilation with the 2D Navier-Stokes equations: Optimal Gaussian asymptotics for the posterior measure</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Dimitri Konen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18279">2507.18279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16213.html">Graph neural network for colliding particles with an application to sea ice floe modeling</a></div></td>
-<td>Ruibiao Zhu</td>
-<td><a href="http://arxiv.org/abs/2602.16213">2602.16213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18727.html">Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss</a></div></td>
-<td>Niraj Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18727">2604.18727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18840.html">Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Ben Seiyon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18840">2604.18840</a></td>
 </tr>
 </tbody></table>

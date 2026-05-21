@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,11 +842,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00033.html">Probabilistic Spatial Interpolation of Sparse Data using Diffusion Models</a></div></td>
 <td>Valerie Tsao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00033">2506.00033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10248.html">Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins</a></div></td>
-<td>Collins O. Ogbodo et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10248">2504.10248</a></td>
 </tr>
 </tbody></table>

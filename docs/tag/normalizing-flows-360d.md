@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03138.html">StarFlow: Leveraging Normalizing Flows for Stellar Age Estimation in SDSS-V DR19</a></div></td>
 <td>Alexander Stone-Martinez et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03138">2503.03138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16234.html">Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics</a></div></td>
-<td>Annalena Kofler et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16234">2411.16234</a></td>
 </tr>
 </tbody></table>

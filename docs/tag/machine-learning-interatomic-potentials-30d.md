@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <strong>30d</strong> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Ali Ramlaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div></td>
@@ -116,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Aleksander Szewczyk et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21494">2604.21494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16418.html">Scalable Data-Driven Basis Selection for Linear Machine Learning Interatomic Potentials</a></div></td>
-<td>Tina Torabi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16418">2504.16418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16331.html">Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Peter Eastman et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16331">2601.16331</a></td>
 </tr>
 </tbody></table>

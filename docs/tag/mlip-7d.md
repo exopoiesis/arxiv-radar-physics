@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Ali Ramlaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-7d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a> · <a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div></td>
 <td>Francesca Menescardi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13788.html">Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs</a></div></td>
-<td>Eszter Varga-Umbrich et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13788">2605.13788</a></td>
 </tr>
 </tbody></table>

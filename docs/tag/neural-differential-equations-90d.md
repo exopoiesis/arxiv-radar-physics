@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20989.html">Modeling Temporal scRNA-seq Data with Latent Gaussian Process and Optimal Transport</a></div></td>
+<td>Mehmet Yigit Balik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20989">2605.20989</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03923.html">On the Convergence and Size Transferability of Continuous-depth Graph Neural Networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Mingsong Yan et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16815.html">Uncertainty Propagation Networks for Neural Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Hadi Jahanshahi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16815">2508.16815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08834.html">Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Zander W. Blasingame et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08834">2502.08834</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21483.html">Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction</a></div></td>
+<td>Tilman Tröster et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21483">2605.21483</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -158,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24210.html">Graph Neural Ordinary Differential Equations for Power System Identification</a></div></td>
 <td>Hannes M. H. Wolf et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24210">2604.24210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06987.html">OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-prediction-30d.html">crystal-structure-prediction</a></div></td>
-<td>Emily Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06987">2512.06987</a></td>
 </tr>
 </tbody></table>

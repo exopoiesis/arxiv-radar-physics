@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>April Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20639">2605.20639</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jianan Yang et al.</td>
@@ -38,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Hugo Melchers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -1502,23 +1520,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18791.html">Solving compressible Navier-Stokes equations using the feature-enhanced neural network</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jiahao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18791">2602.18791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13897.html">Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Yuqiu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13897">2412.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00663.html">Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00663">2509.00663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18515.html">Weak-Form Evolutionary Kolmogorov-Arnold Networks for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Bongseok Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18515">2602.18515</a></td>
 </tr>
 </tbody></table>

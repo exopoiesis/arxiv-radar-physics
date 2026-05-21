@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18606.html">Physics-Aligned Canonical Equivariant Fourier Neural Operator under Symmetry-Induced Shifts</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Jiaxiao Xu et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18791.html">Solving compressible Navier-Stokes equations using the feature-enhanced neural network</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jiahao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18791">2602.18791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17082.html">Order of Magnitude Analysis and Data-Based Physics-Informed Symbolic Regression for Turbulent Pipe Flow</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Yunus Emre Ünal et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17082">2602.17082</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">627 papers</span>
+  <span class="paper-count">626 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19856.html">StableGrad: Backward Scale Control without Batch Normalization</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Jose I. Mestre et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -3764,17 +3770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20361.html">Solving Euler equations with Multiple Discontinuities via Separation-Transfer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Chuanxing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20361">2505.20361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01587.html">EGPT-PINN: Entropy-enhanced Generative Pre-Trained Physics Informed Neural Networks for parameterized nonlinear conservation laws</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Yajie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01587">2501.01587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18950.html">Physics-Informed Deep Learning for Nonlinear Friction Model of Bow-string Interaction</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Xinmeng Luan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18950">2505.18950</a></td>
 </tr>
 </tbody></table>

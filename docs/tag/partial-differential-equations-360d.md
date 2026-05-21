@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">831 papers</span>
+  <span class="paper-count">832 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>April Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20639">2605.20639</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
@@ -38,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Hugo Melchers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -4988,17 +5006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19608.html">Solving Implicit Inverse Problems with Homotopy-Based Regularization Path</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Davide Parodi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19608">2505.19608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18923.html">Graph-Based Operator Learning from Limited Data on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Yile Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18923">2505.18923</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15687.html">S$^2$GPT-PINNs: Sparse and Small models for PDEs</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Yajie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15687">2506.15687</a></td>
 </tr>
 </tbody></table>

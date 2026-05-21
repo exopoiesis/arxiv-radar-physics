@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19886.html">Constraint-Aware Physics-Informed Neural Networks for SEIR Reaction-Diffusion Epidemic Models with Vital Dynamics</a></div></td>
 <td>Achraf Zinihi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19886">2605.19886</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -3752,17 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20361.html">Solving Euler equations with Multiple Discontinuities via Separation-Transfer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Chuanxing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20361">2505.20361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18950.html">Physics-Informed Deep Learning for Nonlinear Friction Model of Bow-string Interaction</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Xinmeng Luan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18950">2505.18950</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15687.html">S$^2$GPT-PINNs: Sparse and Small models for PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yajie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15687">2506.15687</a></td>
 </tr>
 </tbody></table>

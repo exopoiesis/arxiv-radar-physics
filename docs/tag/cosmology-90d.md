@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21310.html">Contrastive self-supervised convolutional autoencoder for core-collapse supernova gravitational-wave detection</a></div></td>
+<td>Tian-Yang Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21310">2605.21310</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20386.html">Music of Changing Lines: Toward a Culturally Situated Approach to the I-Ching</a></div></td>
+<td>Ling Qi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20386">2605.20386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16762.html">Extracting redshifts from 2D slitless spectroscopic images using deep learning for the CSST galaxy survey</a></div></td>
@@ -332,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22076.html">HOLISMOKES XVII: Detecting strongly lensed SNe Ia from time series of multi-band LSST-like imaging data</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Satadru Bag et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22076">2506.22076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17592.html">AstroMLab 4: Benchmark-Topping Performance in Astronomy Q&amp;A with a 70B-Parameter Domain-Specialized Reasoning Model</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Tijmen de Haan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17592">2505.17592</a></td>
 </tr>
 </tbody></table>

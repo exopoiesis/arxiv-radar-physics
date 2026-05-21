@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — all</h1>
-  <span class="paper-count">940 papers</span>
+  <span class="paper-count">941 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19856.html">StableGrad: Backward Scale Control without Batch Normalization</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
 <td>Jose I. Mestre et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>

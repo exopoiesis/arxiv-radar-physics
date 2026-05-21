@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20514.html">Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data</a></div></td>
+<td>Dan DeGenaro et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20514">2605.20514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Qitan Lv et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20061.html">Predictivity and Utility of Neural Surrogates of Multiscale PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Karthik Duraisamy</td>
 <td><a href="http://arxiv.org/abs/2604.20061">2604.20061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12448.html">Optimized Architectures for Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>James Bagrow et al.</td>
-<td><a href="http://arxiv.org/abs/2512.12448">2512.12448</a></td>
 </tr>
 </tbody></table>

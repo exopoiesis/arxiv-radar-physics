@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div></td>
+<td>D. -M. Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19494.html">High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage</a></div></td>
 <td>Alessio Mondello et al.</td>
@@ -194,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21073.html">Generative Discovery of Magnetic Insulators under Competing Physical Constraints</a></div></td>
 <td>Qiulin Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21073">2604.21073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17994.html">SWORD: Symmetry and Wyckoff-sequence of Ordered and Disordered crystals</a></div></td>
-<td>Yuyao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17994">2604.17994</a></td>
 </tr>
 </tbody></table>

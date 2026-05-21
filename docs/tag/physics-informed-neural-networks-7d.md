@@ -40,6 +40,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-7d.html">magnetohydrodynamics</a> · <a href="mhd-7d.html">mhd</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>E. A. Huerta</td>
@@ -68,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15254.html">Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Xujia Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15254">2605.15254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Yuka Hashimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13260">2605.13260</a></td>
 </tr>
 </tbody></table>

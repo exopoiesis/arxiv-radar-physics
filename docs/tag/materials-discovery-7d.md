@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div></td>
+<td>D. -M. Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19494.html">High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage</a></div></td>
 <td>Alessio Mondello et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div></td>
 <td>Nian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14769">2605.14769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13618.html">OpenAaaS: An Open Agent-as-a-Service Framework for Distributed Materials-Informatics Research</a></div></td>
-<td>Peng Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13618">2605.13618</a></td>
 </tr>
 </tbody></table>

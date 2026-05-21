@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20637.html">PUBO Formulation for MST and Application to Optimum-Path Forest</a></div></td>
+<td>Guilherme E. L. Pexe et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20637">2605.20637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21286.html">Software Between Quantum and Machine Learning -- And Down to Pulses</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
+<td>Maja Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21286">2605.21286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21346.html">Evidence of Quantum Machine Learning Advantage with Tens of Noisy Qubits</a></div></td>
+<td>Onur Danaci et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21346">2605.21346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19233.html">Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
@@ -272,17 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03023.html">Quantum Non-Linear Bandit Optimization</a></div></td>
 <td>Zakaria Shams Siam et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03023">2503.03023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18691.html">Harmoniq: Efficient Data Augmentation on a Quantum Computer Inspired by Harmonic Analysis</a></div></td>
-<td>Kristina Kirova et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18691">2604.18691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19832.html">Option Pricing on Noisy Intermediate-Scale Quantum Computers: A Quantum Neural Network Approach</a></div></td>
-<td>Sebastian Zając et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19832">2604.19832</a></td>
 </tr>
 </tbody></table>

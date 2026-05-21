@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18606.html">Physics-Aligned Canonical Equivariant Fourier Neural Operator under Symmetry-Induced Shifts</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Jiaxiao Xu et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04259.html">Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Baojun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2501.04259">2501.04259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19366.html">Kolmogorov-Arnold Networks for Turbulence Anisotropy Mapping</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Nikhila Kalia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19366">2505.19366</a></td>
 </tr>
 </tbody></table>

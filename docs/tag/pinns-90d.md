@@ -40,6 +40,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.19886">2605.19886</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15959.html">When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yuan-dong Cao et al.</td>
@@ -1112,11 +1118,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18531.html">Deep Reinforcement Learning for Optimizing Energy Consumption in Smart Grid Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Abeer Alsheikhi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18531">2602.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09135.html">Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Xuefeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09135">2509.09135</a></td>
 </tr>
 </tbody></table>

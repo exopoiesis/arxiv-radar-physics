@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-7d.html">seismic-inversion</a></div></td>
+<td>Ipsita Bhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18033.html">Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials</a></div></td>
 <td>Chih-Yu Lee et al.</td>
@@ -86,11 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15459.html">Don&#x27;t Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
 <td>Albert Kjøller Jacobsen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15459">2605.15459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13088.html">Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes</a></div></td>
-<td>Julien Martinelli et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13088">2605.13088</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19856.html">StableGrad: Backward Scale Control without Batch Normalization</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Jose I. Mestre et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>O. Kounchev et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -1166,17 +1172,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18531.html">Deep Reinforcement Learning for Optimizing Energy Consumption in Smart Grid Systems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Abeer Alsheikhi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18531">2602.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00663.html">Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00663">2509.00663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09135.html">Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xuefeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09135">2509.09135</a></td>
 </tr>
 </tbody></table>

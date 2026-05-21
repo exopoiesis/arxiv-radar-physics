@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21118.html">Image Encryption via Data-Identified Discrete Chaotic Maps</a></div></td>
+<td>Wenyuan Lia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21118">2605.21118</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Thomas Savary et al.</td>
@@ -386,11 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13312.html">Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Yiming Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2501.13312">2501.13312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20858.html">Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction</a></div></td>
-<td>Yi He et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20858">2504.20858</a></td>
 </tr>
 </tbody></table>

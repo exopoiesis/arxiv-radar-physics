@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20763.html">ShapeBench: A Scalable Benchmark and Diagnostic Suite for Standardized Evaluation in Aerodynamic Shape Optimization</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Shaghayegh Fazliani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20763">2605.20763</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19565.html">HiLiftAeroML: High-Fidelity Computational Fluid Dynamics Dataset for High-Lift Aircraft Aerodynamics</a></div><div class="paper-tags"><a href="les-30d.html">les</a> · <a href="rans-30d.html">rans</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19589.html">Physics-Informed Graph Neural Network Surrogates for Turbulent Nanoparticle Dispersion in Dental Clinical Environments</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
 <td>Takshak Shende et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19589">2605.19589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20532.html">Hybrid Edge-HPC Systems for Low-Latency Data-Driven Inference</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Liubov Kurafeeva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20532">2605.20532</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>April Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20639">2605.20639</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Melika Baghi et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01493.html">OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pde-learning-30d.html">pde-learning</a></div></td>
 <td>Zhuoyuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01493">2602.01493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10647.html">Latent Space Dynamics Identification for Interface Tracking with Application to Shock-Induced Pore Collapse</a></div></td>
-<td>Seung Whan Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10647">2507.10647</a></td>
 </tr>
 </tbody></table>

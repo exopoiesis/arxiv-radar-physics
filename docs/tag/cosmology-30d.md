@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21310.html">Contrastive self-supervised convolutional autoencoder for core-collapse supernova gravitational-wave detection</a></div></td>
+<td>Tian-Yang Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21310">2605.21310</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20386.html">Music of Changing Lines: Toward a Culturally Situated Approach to the I-Ching</a></div></td>
+<td>Ling Qi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20386">2605.20386</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16762.html">Extracting redshifts from 2D slitless spectroscopic images using deep learning for the CSST galaxy survey</a></div></td>
 <td>Xingchen Zhou et al.</td>
@@ -128,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19613.html">MG-NECOLA: A Field-Level Emulator for $f(R)$ Gravity and Massive Neutrino Cosmologies</a></div></td>
 <td>J. Bayron Orjuela-Quintana et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19613">2604.19613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18006.html">Mapping the CMB with QUBIC spectral imaging</a></div></td>
-<td>Alexandre Huchet et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18006">2604.18006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18859.html">Testing $Λ$CDM versus dynamical dark energy in one year: A DESI spectroscopic follow-up program for Rubin supernovae</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Jannik Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18859">2604.18859</a></td>
 </tr>
 </tbody></table>

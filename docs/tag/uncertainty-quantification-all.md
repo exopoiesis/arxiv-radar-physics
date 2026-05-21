@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">792 papers</span>
+  <span class="paper-count">793 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a> · <a href="mlip-all.html">mlip</a> · <a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-all.html">seismic-inversion</a></div></td>
+<td>Ipsita Bhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>

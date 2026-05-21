@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20780.html">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</a></div></td>
+<td>Haozhe Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20780">2605.20780</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21041.html">Conditioning Gaussian Processes on Almost Anything</a></div></td>
+<td>Henry Moss et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21041">2605.21041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
+<td>Shikang Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21042">2605.21042</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18101.html">SENSE: Satellite-based ENergy Synthesis for Sustainable Environment</a></div></td>
@@ -380,29 +398,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19670.html">Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming</a></div></td>
 <td>Alex Cuellar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19670">2604.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18611.html">Flow marching for a generative PDE foundation model</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Zituo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18611">2509.18611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17838.html">Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing</a></div></td>
-<td>Kijung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17838">2604.17838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18201.html">DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Geet Sethi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18201">2604.18201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="equation-discovery-30d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21160.html">Learning First Integrals via Backward-Generated Data and Guided Reinforcement Learning</a></div></td>
+<td>Jingfeng Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21160">2605.21160</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21488.html">Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning</a></div></td>
+<td>Benhao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21488">2605.21488</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
@@ -1484,29 +1496,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18060.html">Deepmechanics</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a> · <a href="lagrangian-neural-networks-90d.html">lagrangian-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Abhay Shinde et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18060">2602.18060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12819.html">Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison</a></div></td>
-<td>Jan C. Schulze et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12819">2506.12819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09135.html">Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xuefeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09135">2509.09135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17094.html">Data-driven sequential analysis of tipping in high-dimensional complex systems</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Tomomasa Hirose et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17094">2602.17094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17829.html">Causality by Abstraction: Symbolic Rule Learning in Multivariate Timeseries with Large Language Models</a></div></td>
-<td>Preetom Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17829">2602.17829</a></td>
 </tr>
 </tbody></table>

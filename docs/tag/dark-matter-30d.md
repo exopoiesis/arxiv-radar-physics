@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11209.html">Black-hole spectroscopy from a giant quantum vortex</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
 <td>Pietro Smaniotto et al.</td>
 <td><a href="http://arxiv.org/abs/2502.11209">2502.11209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17981.html">Efficiently emulating distribution functions in gigaparsec volumes for varying cosmological parameters</a></div><div class="paper-tags"><a href="cosmological-simulations-30d.html">cosmological-simulations</a></div></td>
-<td>Christopher C. Lovell et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17981">2604.17981</a></td>
 </tr>
 </tbody></table>

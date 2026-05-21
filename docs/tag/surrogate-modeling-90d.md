@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20306.html">Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation</a></div></td>
 <td>Davide Carrara et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20306">2602.20306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17783.html">Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors</a></div></td>
-<td>Xiangyu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17783">2602.17783</a></td>
 </tr>
 </tbody></table>

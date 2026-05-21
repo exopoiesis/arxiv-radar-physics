@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21286.html">Software Between Quantum and Machine Learning -- And Down to Pulses</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Maja Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21286">2605.21286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18540.html">Discovering Data Encoding Strategies for Quantum-Classical Neural Networks Using Monte Carlo Tree Search</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Lena Tokuhiro et al.</td>
@@ -272,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18642.html">Auto Quantum Machine Learning for Multisource Classification</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Tomasz Rybotycki et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18642">2602.18642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14282.html">Resisting Quantum Key Distribution Attacks Using Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ali Al-kuwari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14282">2509.14282</a></td>
 </tr>
 </tbody></table>

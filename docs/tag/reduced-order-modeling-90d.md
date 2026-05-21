@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <strong>90d</strong> <a href="reduced-order-modeling-360d.html">360d</a> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>April Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20639">2605.20639</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>

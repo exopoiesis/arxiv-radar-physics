@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Alicja Polanska et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Ha Dang et al.</td>
@@ -836,11 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18801.html">SGNO: Spectral Generator Neural Operators for Stable Long Horizon PDE Rollouts</a></div></td>
 <td>Jiayi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18801">2602.18801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00663.html">Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00663">2509.00663</a></td>
 </tr>
 </tbody></table>

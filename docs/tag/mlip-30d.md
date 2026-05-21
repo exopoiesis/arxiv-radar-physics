@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Ali Ramlaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Aleksander Szewczyk et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21494">2604.21494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16331.html">Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Peter Eastman et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16331">2601.16331</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2516,11 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19608.html">Solving Implicit Inverse Problems with Homotopy-Based Regularization Path</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Davide Parodi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19608">2505.19608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01587.html">EGPT-PINN: Entropy-enhanced Generative Pre-Trained Physics Informed Neural Networks for parameterized nonlinear conservation laws</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yajie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01587">2501.01587</a></td>
 </tr>
 </tbody></table>

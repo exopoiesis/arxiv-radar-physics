@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18912.html">Quantum Viterbi Algorithm</a></div></td>
 <td>Luigi Accardi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18912">2605.18912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14523.html">HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks</a></div></td>
-<td>Mahad Mohtashim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14523">2605.14523</a></td>
 </tr>
 </tbody></table>

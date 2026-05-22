@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07101.html">Statistical Finite Elements via Interacting Particle Langevin Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Alex Glyn-Davies et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07101">2409.07101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02150.html">On the Guidance of Flow Matching</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Ruiqi Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02150">2502.02150</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13315.html">KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Reza T. Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13315">2505.13315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19608.html">Solving Implicit Inverse Problems with Homotopy-Based Regularization Path</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Davide Parodi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19608">2505.19608</a></td>
 </tr>
 </tbody></table>

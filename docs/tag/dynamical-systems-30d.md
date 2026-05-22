@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,17 +356,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21097.html">Learning to Emulate Chaos: Adversarial Optimal Transport Regularization</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>Gabriel Melo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21097">2604.21097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12121.html">Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks</a></div></td>
-<td>Lorenzo Livi</td>
-<td><a href="http://arxiv.org/abs/2508.12121">2508.12121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19740.html">Generalization at the Edge of Stability</a></div></td>
-<td>Mario Tuci et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19740">2604.19740</a></td>
 </tr>
 </tbody></table>

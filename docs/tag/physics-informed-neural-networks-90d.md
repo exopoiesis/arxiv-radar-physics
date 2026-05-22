@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1160,17 +1160,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18791.html">Solving compressible Navier-Stokes equations using the feature-enhanced neural network</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jiahao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18791">2602.18791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18042.html">PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Karkulali Pugalenthi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18042">2602.18042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18531.html">Deep Reinforcement Learning for Optimizing Energy Consumption in Smart Grid Systems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Abeer Alsheikhi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18531">2602.18531</a></td>
 </tr>
 </tbody></table>

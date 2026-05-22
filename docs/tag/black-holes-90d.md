@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,23 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19214.html">Potential periodic signals in blazars: significance, forecasting and deep learning</a></div></td>
 <td>M. A. Hashad et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19214">2602.19214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13714.html">Gravitational-wave signatures of nonviolent nonlocality</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="ligo-90d.html">ligo</a></div></td>
-<td>Brian C. Seymour et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13714">2411.13714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13154.html">Towards an anomaly detection pipeline for gravitational waves at the Einstein Telescope</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Gianluca Inguglia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13154">2511.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18191.html">A geometric physics-informed machine learning inference for the neutron star maximum mass and the inverse problem</a></div></td>
-<td>Rounak Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18191">2602.18191</a></td>
 </tr>
 </tbody></table>

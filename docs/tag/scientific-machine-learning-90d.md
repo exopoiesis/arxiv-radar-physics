@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,23 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07135.html">Landscaper: Understanding Loss Landscapes Through Multi-Dimensional Topological Analysis</a></div></td>
 <td>Jiaqing Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07135">2602.07135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17998.html">PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting</a></div></td>
-<td>Shubham Bhardwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17998">2602.17998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18060.html">Deepmechanics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a> · <a href="lagrangian-neural-networks-90d.html">lagrangian-neural-networks</a></div></td>
-<td>Abhay Shinde et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18060">2602.18060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18146.html">Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks</a></div></td>
-<td>Lionel Salesses et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18146">2602.18146</a></td>
 </tr>
 </tbody></table>

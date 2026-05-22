@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,29 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16616.html">MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility</a></div></td>
 <td>Sasi Kiran Gaddipati et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16616">2605.16616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14791.html">Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
-<td>Licong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14791">2605.14791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15011.html">The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale</a></div></td>
-<td>Peter A. Jansen</td>
-<td><a href="http://arxiv.org/abs/2605.15011">2605.15011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15050.html">Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Yuxin Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15050">2605.15050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15308.html">SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Jiachen Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15308">2605.15308</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,17 +374,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22855.html">Evaluating Remote Sensing Image Captions Beyond Metric Biases</a></div></td>
 <td>Ziyun Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22855">2604.22855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20897.html">The data heat island effect: quantifying the impact of AI data centers in a warming world</a></div></td>
-<td>Andrea Marinoni et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20897">2603.20897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00860.html">An Adaptive Spatiotemporal Clustering Framework for 3D Ocean Subsurface Temperature Reconstruction</a></div></td>
-<td>Ming Shan Loo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00860">2605.00860</a></td>
 </tr>
 </tbody></table>

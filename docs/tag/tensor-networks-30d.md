@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>tensor-networks — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <strong>30d</strong> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19780.html">Tensor Network Estimation of Distribution Algorithms</a></div></td>
 <td>John Gardiner et al.</td>
 <td><a href="http://arxiv.org/abs/2412.19780">2412.19780</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05050.html">Hybrid between biologically and quantum-inspired many-body states</a></div></td>
-<td>Miha Srdinšek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05050">2506.05050</a></td>
 </tr>
 </tbody></table>

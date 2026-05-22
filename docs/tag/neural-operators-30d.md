@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,17 +362,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11375.html">DiLO: Decoupling Generative Priors and Neural Operators via Diffusion Latent Optimization for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Haibo Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11375">2604.11375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01420.html">Tackling multiphysics problems via finite element-guided physics-informed operator learning</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Yusuke Yamazaki et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01420">2603.01420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19296.html">Debiased neural operators for estimating functionals</a></div></td>
-<td>Konstantin Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19296">2604.19296</a></td>
 </tr>
 </tbody></table>

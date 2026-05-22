@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19984.html">Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model</a></div></td>
 <td>Federico Incardona et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19984">2602.19984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13154.html">Towards an anomaly detection pipeline for gravitational waves at the Einstein Telescope</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Gianluca Inguglia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13154">2511.13154</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,29 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22910.html">Thermodynamic Modeling of Pure Elements from 0 K with Uncertainty Quantification using PyCalphad and ESPEI</a></div></td>
 <td>Alexander Richter et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22910">2604.22910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18279.html">Data assimilation with the 2D Navier-Stokes equations: Optimal Gaussian asymptotics for the posterior measure</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Dimitri Konen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18279">2507.18279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19165.html">Analytical Extraction of Conditional Sobol&#x27; Indices via Basis Decomposition of Polynomial Chaos Expansions</a></div></td>
-<td>Shijie Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19165">2604.19165</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19175.html">Digital twin-based hybrid framework for steam generator clogging prognostics</a></div></td>
-<td>Edgar Jaber et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19175">2604.19175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19500.html">Connecting the forward problem to the inverse problem in uncertainty quantification of Earth system models using fast emulators</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Ethan YoungIn Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19500">2604.19500</a></td>
 </tr>
 </tbody></table>

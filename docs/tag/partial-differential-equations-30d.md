@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,17 +422,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21761.html">Transferable Physics-Informed Representations via Closed-Form Head Adaptation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Jian Cheng Wong et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21761">2604.21761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01420.html">Tackling multiphysics problems via finite element-guided physics-informed operator learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Yusuke Yamazaki et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01420">2603.01420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20061.html">Predictivity and Utility of Neural Surrogates of Multiscale PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Karthik Duraisamy</td>
-<td><a href="http://arxiv.org/abs/2604.20061">2604.20061</a></td>
 </tr>
 </tbody></table>

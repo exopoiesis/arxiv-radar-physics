@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">243 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1472,29 +1472,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12066.html">AI Agents as Universal Task Solvers</a></div></td>
 <td>Alessandro Achille et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12066">2510.12066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14825.html">Assimilative Causal Inference</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Marios Andreou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14825">2505.14825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18008.html">NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs</a></div></td>
-<td>Zihan Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18008">2602.18008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18014.html">Quasi-Periodic Gaussian Process Predictive Iterative Learning Control</a></div></td>
-<td>Unnati Nigam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18014">2602.18014</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18060.html">Deepmechanics</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a> · <a href="lagrangian-neural-networks-90d.html">lagrangian-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Abhay Shinde et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18060">2602.18060</a></td>
 </tr>
 </tbody></table>

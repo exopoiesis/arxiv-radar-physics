@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">622 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3746,17 +3746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20818.html">Domain Decomposition Subspace Neural Network Method for Solving Linear and Nonlinear Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhenxing Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20818">2505.20818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13315.html">KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Reza T. Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13315">2505.13315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20361.html">Solving Euler equations with Multiple Discontinuities via Separation-Transfer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Chuanxing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20361">2505.20361</a></td>
 </tr>
 </tbody></table>

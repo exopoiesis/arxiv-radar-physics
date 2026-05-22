@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">375 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2252,17 +2252,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20721.html">Recurrent Neural Operators: Stable Long-Term PDE Prediction</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zaijun Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20721">2505.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17547.html">Generalizable Motion Planning via Operator Learning</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Sharath Matada et al.</td>
-<td><a href="http://arxiv.org/abs/2410.17547">2410.17547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20454.html">BlastOFormer: Attention and Neural Operator Deep Learning Methods for Explosive Blast Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Reid Graves et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20454">2505.20454</a></td>
 </tr>
 </tbody></table>

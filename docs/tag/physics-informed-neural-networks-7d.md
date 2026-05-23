@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="pinns-7d.html">pinns</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18618.html">Stochastic Penalty-Barrier Methods for Constrained Machine Learning</a></div></td>
 <td>Adam Bosák et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-7d.html">magnetohydrodynamics</a> · <a href="mhd-7d.html">mhd</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>E. A. Huerta</td>
 <td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15959.html">When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Yuan-dong Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15959">2605.15959</a></td>
 </tr>
 </tbody></table>

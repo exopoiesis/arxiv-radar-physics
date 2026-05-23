@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22235.html">Holomorphic Neural ODEs with Kolmogorov-Arnold Networks for Interpretable Discovery of Complex Dynamics</a></div></td>
+<td>Bhaskar Ranjan Karn et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22235">2605.22235</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21160.html">Learning First Integrals via Backward-Generated Data and Guided Reinforcement Learning</a></div></td>
 <td>Jingfeng Zhong et al.</td>
@@ -350,11 +356,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21825.html">On the algebra of Koopman eigenfunctions and on some of their infinities</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>Zahra Monfared et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21825">2604.21825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21097.html">Learning to Emulate Chaos: Adversarial Optimal Transport Regularization</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Gabriel Melo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21097">2604.21097</a></td>
 </tr>
 </tbody></table>

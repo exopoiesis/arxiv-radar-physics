@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">376 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22182.html">IKNO: Infinite-order Kernel Neural Operators</a></div></td>
+<td>Pengyuan Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22182">2605.22182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22557.html">Neural Flow Operators can Approximate any Operator: Abstract Frameworks and Universal Approcimations</a></div></td>
+<td>Shuang Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22557">2605.22557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -2246,11 +2270,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19105.html">Latent Mamba Operator for Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Karn Tiwari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19105">2505.19105</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20721.html">Recurrent Neural Operators: Stable Long-Term PDE Prediction</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zaijun Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20721">2505.20721</a></td>
 </tr>
 </tbody></table>

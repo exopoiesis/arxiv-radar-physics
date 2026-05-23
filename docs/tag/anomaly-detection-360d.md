@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22527.html">Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection</a></div></td>
+<td>Giancarlo P. Gamberi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22527">2605.22527</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22749.html">Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization</a></div></td>
+<td>Adis Alihodžić et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22749">2605.22749</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19233.html">Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Carlos A. Durán Paredes et al.</td>
@@ -1898,17 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00119.html">Generator Based Inference (GBI)</a></div></td>
 <td>Chi Lung Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00119">2506.00119</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11158.html">Recent Advances in Diffusion Models for Hyperspectral Image Processing and Analysis: A Review</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Xing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11158">2505.11158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21420.html">Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning</a></div></td>
-<td>Hanzhe Liang</td>
-<td><a href="http://arxiv.org/abs/2505.21420">2505.21420</a></td>
 </tr>
 </tbody></table>

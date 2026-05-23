@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">936 papers</span>
+  <span class="paper-count">938 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22121.html">MotionDPS: Motion-Compensated 3D Brain MRI Reconstruction</a></div></td>
+<td>Antonio Ortiz-Gonzalez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22121">2605.22121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>
+<td>Jiangwei Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22147">2605.22147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20780.html">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</a></div></td>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Ha Dang et al.</td>
@@ -884,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22748.html">Nonparametric Estimation of Conditional Survival Function with Time-Varying Covariates Using DeepONet</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Bingqing Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22748">2505.22748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12380.html">Fast meta-solvers for 3D complex-shape scatterers using neural operators trained on a non-scattering problem</a></div></td>
-<td>Youngkyu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12380">2405.12380</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Jiangwei Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22147">2605.22147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20997.html">Hybrid Machine Learning Model for Forest Height Estimation from TanDEM-X and Landsat Data</a></div></td>
@@ -1064,17 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19881.html">Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations</a></div></td>
 <td>Blaž Rolih et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19881">2602.19881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18765.html">A high-resolution nationwide urban village mapping product for 342 Chinese cities based on foundation models</a></div></td>
-<td>Lubin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18765">2602.18765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18869.html">Enhancing 3D LiDAR Segmentation by Shaping Dense and Accurate 2D Semantic Predictions</a></div></td>
-<td>Xiaoyu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18869">2602.18869</a></td>
 </tr>
 </tbody></table>

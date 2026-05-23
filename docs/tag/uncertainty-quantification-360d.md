@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">543 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21863.html">OCELOT: Odometry and Contact Estimation for Legged Robots</a></div></td>
+<td>Emre Girgin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21863">2605.21863</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Gustavo Yepes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21991">2605.21991</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
@@ -3254,17 +3272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02450.html">Robust and Conjugate Spatio-Temporal Gaussian Processes</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>William Laplante et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02450">2502.02450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19809.html">Equivariant Representation Learning for Symmetry-Aware Inference with Guarantees</a></div></td>
-<td>Daniel Ordoñez-Apraez et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19809">2505.19809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20918.html">Humble AI in the real-world: the case of algorithmic hiring</a></div></td>
-<td>Rahul Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20918">2505.20918</a></td>
 </tr>
 </tbody></table>

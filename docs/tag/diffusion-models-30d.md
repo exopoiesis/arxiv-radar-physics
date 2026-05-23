@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22121.html">MotionDPS: Motion-Compensated 3D Brain MRI Reconstruction</a></div></td>
+<td>Antonio Ortiz-Gonzalez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22121">2605.22121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Jiangwei Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22147">2605.22147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20780.html">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</a></div></td>
@@ -368,29 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21210.html">The Feedback Hamiltonian is the Score Function: A Diffusion-Model Framework for Quantum Trajectory Reversal</a></div></td>
 <td>Sagar Dubey et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21210">2604.21210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06614.html">Local Diffusion Models and Phases of Data Distributions</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Fangjun Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06614">2508.06614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11375.html">DiLO: Decoupling Generative Priors and Neural Operators via Diffusion Latent Optimization for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Haibo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11375">2604.11375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20715.html">GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers</a></div></td>
-<td>Yuxuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20715">2604.20715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20761.html">Geometric Renyi Differential Privacy: Ricci Curvature Characterized by Heat Diffusion Mechanisms</a></div></td>
-<td>Xiaotian Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20761">2604.20761</a></td>
 </tr>
 </tbody></table>

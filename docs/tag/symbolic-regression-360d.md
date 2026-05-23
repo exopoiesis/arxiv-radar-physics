@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22330.html">Symbolic Classification-Enabled LHC Limits Online BSM Global Fits</a></div></td>
+<td>Shehu AbdusSalam</td>
+<td><a href="http://arxiv.org/abs/2605.22330">2605.22330</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15809.html">Diversified Residual Symbolic Regression</a></div></td>
 <td>Koki Ikeda et al.</td>
@@ -1214,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21879.html">Symbolic Foundation Regressor on Complex Networks</a></div></td>
 <td>Weiting Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21879">2505.21879</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12255.html">Enhancing generalizability of machine learning general effective-viscosity turbulence model via tensor basis normalization</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12255">2410.12255</a></td>
 </tr>
 </tbody></table>

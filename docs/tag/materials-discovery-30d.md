@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21401.html">GEWUM: General Exploration Workflow for the Utopia of Materials: A Unified Platform for Automated Structure Generation, Selection, and Validation</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Jiexi Song et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21401">2604.21401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21068.html">Expanding the extreme-k dielectric materials space through physics-validated generative reasoning</a></div></td>
-<td>Hossain Hridoy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21068">2604.21068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21073.html">Generative Discovery of Magnetic Insulators under Competing Physical Constraints</a></div></td>
-<td>Qiulin Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21073">2604.21073</a></td>
 </tr>
 </tbody></table>

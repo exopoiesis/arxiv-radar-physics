@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div></td>
+<td>Thalis H. B. da Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22167">2605.22167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20095.html">Spin polarization enhancement in a single-layer Bi(1-x)Sb(x) alloy on Ag(111) via isovalent substitution</a></div></td>
 <td>Javier D. Fuhr et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div></td>
 <td>Siu Wun Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18890.html">Prediction of the atomistic Hubbard U interaction from moiré system STM-images using image recognition</a></div></td>
-<td>Nachiket Tanksale et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18890">2602.18890</a></td>
 </tr>
 </tbody></table>

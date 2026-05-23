@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22338.html">Physics-Informed Generative Solver: Bridging Data-Driven Priors and Conservation Laws for Stable Spatiotemporal Field Reconstruction</a></div></td>
+<td>Ziyuan Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22338">2605.22338</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19621.html">Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography</a></div></td>
 <td>Giovanni S. Alberti et al.</td>
@@ -2492,11 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22481.html">Hypothesis Testing in Imaging Inverse Problems</a></div></td>
 <td>Yiming Xi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22481">2505.22481</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07101.html">Statistical Finite Elements via Interacting Particle Langevin Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Alex Glyn-Davies et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07101">2409.07101</a></td>
 </tr>
 </tbody></table>

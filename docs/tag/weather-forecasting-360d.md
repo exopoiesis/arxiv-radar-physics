@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21864.html">A Simulation Methodology Testbed for Typhoon Sensitivity Analysis: Framework Development and Perturbation-Response Experiments with the Pangu Weather Model</a></div></td>
+<td>Yuehua Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21864">2605.21864</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Jimeng Shi</td>
@@ -1016,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02450.html">Robust and Conjugate Spatio-Temporal Gaussian Processes</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>William Laplante et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02450">2502.02450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22686.html">Localized Weather Prediction Using Kolmogorov-Arnold Network-Based Models and Deep RNNs</a></div></td>
-<td>Ange-Clement Akazan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22686">2505.22686</a></td>
 </tr>
 </tbody></table>

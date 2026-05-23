@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21901.html">Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations</a></div></td>
+<td>Jonathan Reasoner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21901">2605.21901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
+<td>Lalit Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21955">2605.21955</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Simran Arora et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21594.html">Exploring the SMEFT landscape: Bayesian Model Selection for indirect discovery</a></div></td>
+<td>Luca Mantani</td>
+<td><a href="http://arxiv.org/abs/2605.21594">2605.21594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21599.html">JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S</a></div></td>
+<td>Qiao Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21599">2605.21599</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="ligo-360d.html">ligo</a></div></td>
@@ -2648,29 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.19990.html">Dimension reduction via score ratio matching</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Ricardo Baptista et al.</td>
 <td><a href="http://arxiv.org/abs/2410.19990">2410.19990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06527.html">Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Vivienne Langen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06527">2409.06527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20547.html">Annealing Flow Generative Models Towards Sampling High-Dimensional and Multi-Modal Distributions</a></div></td>
-<td>Dongze Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20547">2409.20547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21392.html">Kilonova modelling and parameter inference: Understanding uncertainties and evaluating compatibility between observations and models</a></div></td>
-<td>Thomas Hussenot-Desenonges et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21392">2505.21392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21667.html">Prospect of Constraining the EoS of Neutron Stars Using Post-Merger Signals</a></div></td>
-<td>Soham Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21667">2505.21667</a></td>
 </tr>
 </tbody></table>

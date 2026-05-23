@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21863.html">OCELOT: Odometry and Contact Estimation for Legged Robots</a></div></td>
+<td>Emre Girgin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21863">2605.21863</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
+<td>Gustavo Yepes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21991">2605.21991</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
@@ -68,17 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Phuoc-Toan Huynh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15806.html">Martingale Neural Operators: Learning Stochastic Marginals via Doob-Meyer Factorization</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Kai Hidajat</td>
-<td><a href="http://arxiv.org/abs/2605.15806">2605.15806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16570.html">A Cubing Strategy for Identifying Stable Hyperparameter Regions for Uncertainty Quantification in Spatial Deep Learning</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
-<td>Isaac Amouzou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16570">2605.16570</a></td>
 </tr>
 </tbody></table>

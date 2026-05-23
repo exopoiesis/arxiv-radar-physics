@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22489.html">Machine Learning Techniques for Astrophysics and Cosmology: Lyman-$α$ forest</a></div></td>
+<td>Jonás Chaves-Montero</td>
+<td><a href="http://arxiv.org/abs/2605.22489">2605.22489</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Debashree Sen et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12012.html">DeepMET: Improving missing transverse momentum estimation with a deep neural network</a></div></td>
 <td>CMS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2509.12012">2509.12012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14748.html">Cosmological Analysis with Calibrated Neural Quantile Estimation and Approximate Simulators</a></div></td>
-<td>He Jia</td>
-<td><a href="http://arxiv.org/abs/2411.14748">2411.14748</a></td>
 </tr>
 </tbody></table>

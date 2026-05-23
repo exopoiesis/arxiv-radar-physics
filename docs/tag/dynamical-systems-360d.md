@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22235.html">Holomorphic Neural ODEs with Kolmogorov-Arnold Networks for Interpretable Discovery of Complex Dynamics</a></div></td>
+<td>Bhaskar Ranjan Karn et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22235">2605.22235</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21160.html">Learning First Integrals via Backward-Generated Data and Guided Reinforcement Learning</a></div></td>
 <td>Jingfeng Zhong et al.</td>
@@ -4298,11 +4304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22749.html">Self-orthogonalizing attractor neural networks emerging from the free energy principle</a></div></td>
 <td>Tamas Spisak et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22749">2505.22749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00701.html">ResKoopNet: Learning Koopman Representations for Complex Dynamics with Spectral Residuals</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Yuanchao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00701">2501.00701</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22498.html">The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning</a></div></td>
+<td>Lucas Sheneman</td>
+<td><a href="http://arxiv.org/abs/2605.22498">2605.22498</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20514.html">Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data</a></div></td>
 <td>Dan DeGenaro et al.</td>
@@ -398,11 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08604.html">Physics vs Distributions: Pareto Optimal Flow Matching with Physics Constraints</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Giacomo Baldan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08604">2506.08604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07135.html">Landscaper: Understanding Loss Landscapes Through Multi-Dimensional Topological Analysis</a></div></td>
-<td>Jiaqing Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07135">2602.07135</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,30 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22182.html">IKNO: Infinite-order Kernel Neural Operators</a></div></td>
+<td>Pengyuan Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22182">2605.22182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22557.html">Neural Flow Operators can Approximate any Operator: Abstract Frameworks and Universal Approcimations</a></div></td>
+<td>Shuang Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22557">2605.22557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Alicja Polanska et al.</td>
@@ -56,29 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Abderrahim Bendahi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15754.html">Spatiotemporal decoupled physics-informed Stone-Weierstrass neural operator for long-time prediction of time-dependent parametric PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Shan Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15754">2605.15754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Qitan Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15793">2605.15793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15806.html">Martingale Neural Operators: Learning Stochastic Marginals via Doob-Meyer Factorization</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Kai Hidajat</td>
-<td><a href="http://arxiv.org/abs/2605.15806">2605.15806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15881.html">Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems</a></div></td>
-<td>Yeang Makara et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15881">2605.15881</a></td>
 </tr>
 </tbody></table>

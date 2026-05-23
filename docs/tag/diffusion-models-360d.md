@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22121.html">MotionDPS: Motion-Compensated 3D Brain MRI Reconstruction</a></div></td>
+<td>Antonio Ortiz-Gonzalez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22121">2605.22121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Jiangwei Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22147">2605.22147</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20780.html">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</a></div></td>
 <td>Haozhe Jia et al.</td>
@@ -3722,17 +3734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22407.html">Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation</a></div></td>
 <td>Jiadong Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22407">2505.22407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11158.html">Recent Advances in Diffusion Models for Hyperspectral Image Processing and Analysis: A Review</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Xing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11158">2505.11158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21437.html">CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects</a></div></td>
-<td>Huaijin Pi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21437">2505.21437</a></td>
 </tr>
 </tbody></table>

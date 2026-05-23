@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22338.html">Physics-Informed Generative Solver: Bridging Data-Driven Priors and Conservation Laws for Stable Spatiotemporal Field Reconstruction</a></div></td>
+<td>Ziyuan Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22338">2605.22338</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19621.html">Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography</a></div></td>
 <td>Giovanni S. Alberti et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16966.html">Harnessing AI for Inverse Partial Differential Equation Problems: Past, Present, and Prospects</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Zhentao Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16966">2605.16966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15602.html">Travel-time tomography from mean field game dynamics</a></div></td>
-<td>Longqiang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15602">2605.15602</a></td>
 </tr>
 </tbody></table>

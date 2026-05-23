@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22698.html">Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Christoph Brunken et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22698">2605.22698</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Ali Ramlaoui et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Fakhrul Hasan Bhuiyan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Sauradeep Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
 </tr>
 </tbody></table>

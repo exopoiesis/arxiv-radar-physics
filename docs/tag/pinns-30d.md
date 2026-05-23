@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Jianan Yang et al.</td>
@@ -344,11 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Srinivasan T. et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16487.html">Generative Prior-Guided Neural Interface Reconstruction for 3D Electrical Impedance Tomography</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Haibo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16487">2505.16487</a></td>
 </tr>
 </tbody></table>

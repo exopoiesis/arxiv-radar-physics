@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Ha Dang et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03248.html">Multimodal Neural Operators for Real-Time Biomechanical Modelling of Traumatic Brain Injury</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Anusha Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03248">2510.03248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20993.html">Droplet-LNO: Physics-Informed Laplace Neural Operators for Accurate Prediction of Droplet Spreading Dynamics on Complex Surfaces</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Ganesh Sahadeo Meshram et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20993">2604.20993</a></td>
 </tr>
 </tbody></table>

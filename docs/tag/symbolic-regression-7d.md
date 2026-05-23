@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15809.html">Diversified Residual Symbolic Regression</a></div></td>
-<td>Koki Ikeda et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15809">2605.15809</a></td>
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22330.html">Symbolic Classification-Enabled LHC Limits Online BSM Global Fits</a></div></td>
+<td>Shehu AbdusSalam</td>
+<td><a href="http://arxiv.org/abs/2605.22330">2605.22330</a></td>
 </tr>
 </tbody></table>

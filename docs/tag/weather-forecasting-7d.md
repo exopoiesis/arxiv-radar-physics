@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21864.html">A Simulation Methodology Testbed for Typhoon Sensitivity Analysis: Framework Development and Perturbation-Response Experiments with the Pangu Weather Model</a></div></td>
+<td>Yuehua Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21864">2605.21864</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Jimeng Shi</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17369.html">The Deep Learning-Based Dual-Branch Multimodal Fusion Model for Solar Flare Prediction</a></div></td>
 <td>Limin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17369">2605.17369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15752.html">Forecasting megaelectron-volt electron flux in the Earth&#x27;s outer radiation belt using supervised machine learning algorithms and a timeseries foundation model</a></div></td>
-<td>Rungployphan Kieokaew et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15752">2605.15752</a></td>
 </tr>
 </tbody></table>

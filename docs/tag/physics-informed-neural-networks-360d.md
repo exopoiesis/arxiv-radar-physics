@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Joseph Nyangon</td>
+<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18618.html">Stochastic Penalty-Barrier Methods for Constrained Machine Learning</a></div></td>
@@ -3746,23 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22495.html">Reduced order modelling of air puff test for corneal material characterisation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Osama M. Maklad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22495">2505.22495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11674.html">Godunov Loss Functions for Modelling of Hyperbolic Conservation Laws</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>R. G. Cassia et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11674">2405.11674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.21033.html">A data augmentation strategy for deep neural networks with application to epidemic modelling</a></div></td>
-<td>Muhammad Awais et al.</td>
-<td><a href="http://arxiv.org/abs/2502.21033">2502.21033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20769.html">Physics-Informed Neural Network for Cross-Domain Predictive Control of Tapered Amplifier Thermal Stabilization</a></div></td>
-<td>Yanpei Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20769">2505.20769</a></td>
 </tr>
 </tbody></table>

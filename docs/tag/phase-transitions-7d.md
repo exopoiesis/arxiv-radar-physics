@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21722.html">MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics</a></div></td>
+<td>Xiaochen Du et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21722">2605.21722</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div></td>
 <td>Meiyan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16020.html">Variational Autoregressive Networks with probability priors</a></div></td>
-<td>Piotr Białas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16020">2605.16020</a></td>
 </tr>
 </tbody></table>

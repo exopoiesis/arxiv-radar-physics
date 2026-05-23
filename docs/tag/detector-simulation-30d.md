@@ -16,9 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20518.html">Using Graph Neural Networks for hadronic clustering and to reduce beam background in the Belle~II electromagnetic calorimeter</a></div></td>
-<td>Jonas Eppelt et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20518">2604.20518</a></td>
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21870.html">Deep Neural Networks for Heavy Lepton-Flavor-Violating Higgs Searches at the LHC</a></div></td>
+<td>Akmal Ferdiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21870">2605.21870</a></td>
 </tr>
 </tbody></table>

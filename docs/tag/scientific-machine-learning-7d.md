@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22498.html">The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning</a></div></td>
+<td>Lucas Sheneman</td>
+<td><a href="http://arxiv.org/abs/2605.22498">2605.22498</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20514.html">Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data</a></div></td>
 <td>Dan DeGenaro et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20514">2605.20514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15793.html">AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Qitan Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15793">2605.15793</a></td>
 </tr>
 </tbody></table>

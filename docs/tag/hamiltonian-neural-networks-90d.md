@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hamiltonian-neural-networks — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="hamiltonian-neural-networks-7d.html">7d</a> <a href="hamiltonian-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="hamiltonian-neural-networks-360d.html">360d</a> <a href="hamiltonian-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21568.html">Equilibrium Propagation and Hamiltonian Inference in the Diffusive Fitzhugh-Nagumo Model</a></div></td>
+<td>Jack Kendall</td>
+<td><a href="http://arxiv.org/abs/2605.21568">2605.21568</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>

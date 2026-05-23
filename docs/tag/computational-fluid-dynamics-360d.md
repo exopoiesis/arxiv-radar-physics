@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">179 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22009.html">SDFStent: Real-time interactive virtual stenting via SDF deformation fields</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Bohan J. Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22009">2605.22009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20763.html">ShapeBench: A Scalable Benchmark and Diagnostic Suite for Standardized Evaluation in Aerodynamic Shape Optimization</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
@@ -74,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04130.html">Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Melika Baghi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04130">2605.04130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21499.html">Conditional Neural Field based Reduced Order Model for Dynamic Ditching Load Prediction</a></div></td>
+<td>Henning Schwarz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21499">2605.21499</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-02</td>

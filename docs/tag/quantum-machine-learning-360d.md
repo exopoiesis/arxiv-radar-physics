@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22097.html">Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices</a></div></td>
+<td>Farah Elnakhal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22097">2605.22097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22275.html">Adaptive Measurement Allocation for Learning Kernelized SVMs Under Noisy Observations</a></div></td>
+<td>Artur Miroszewski</td>
+<td><a href="http://arxiv.org/abs/2605.22275">2605.22275</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20637.html">PUBO Formulation for MST and Application to Optimum-Path Forest</a></div></td>
@@ -3302,23 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22837.html">Quantum Reservoir Computing for Corrosion Prediction in Aerospace: A Hybrid Approach for Enhanced Material Degradation Forecasting</a></div><div class="paper-tags"><a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
 <td>Akshat Tandon et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22837">2505.22837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17716.html">QuForge: A Library for Qudits Simulation</a></div></td>
-<td>Tiago de Souza Farias et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17716">2409.17716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02059.html">Lean classical-quantum hybrid neural network model for image classification</a></div></td>
-<td>Ao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02059">2412.02059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15254.html">Quantum autoencoders for image classification</a></div></td>
-<td>Hinako Asaoka et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15254">2502.15254</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>astrophysics — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <strong>30d</strong> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23236.html">The functional form of galaxy and halo luminosity and mass functions</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Amelia Ford et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23236">2604.23236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15560.html">ExoNet: Calibrated Multimodal Deep Learning for TESS Exoplanet Candidate Vetting using Phase-Folded Light Curves, Stellar Parameters, and Multi-Head Attention</a></div></td>
-<td>Md. Rashadul Islam</td>
-<td><a href="http://arxiv.org/abs/2604.15560">2604.15560</a></td>
 </tr>
 </tbody></table>

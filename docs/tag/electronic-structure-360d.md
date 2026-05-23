@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div></td>
+<td>Thalis H. B. da Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22167">2605.22167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20095.html">Spin polarization enhancement in a single-layer Bi(1-x)Sb(x) alloy on Ag(111) via isovalent substitution</a></div></td>
 <td>Javier D. Fuhr et al.</td>
@@ -680,11 +686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23344.html">A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors</a></div></td>
 <td>Jakub Martinka et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23344">2505.23344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12451.html">Neural Canonical Transformations for Quantum Anharmonic Solids of Lithium</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.12451">2412.12451</a></td>
 </tr>
 </tbody></table>

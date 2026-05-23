@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="inductive-bias-7d.html">inductive-bias</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Ha Dang et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19104.html">Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Branden Frieden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19104">2605.19104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
 </tr>
 </tbody></table>

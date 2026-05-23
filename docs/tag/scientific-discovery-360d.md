@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">504 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22054.html">LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Zhuo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22054">2605.22054</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div></td>
+<td>Yuxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22681.html">Forecasting Scientific Progress with Artificial Intelligence</a></div></td>
+<td>Sean Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22681">2605.22681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div></td>
+<td>Kevin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21740">2605.21740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21820.html">Beyond Scalar Objectives: Expert-Feedback-Driven Autonomous Experimentation for Scientific Discovery at the Nanoscale</a></div></td>
+<td>Ralph Bulanadi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21820">2605.21820</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20025.html">AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration</a></div></td>
@@ -3002,41 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13344.html">K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction</a></div></td>
 <td>Tassallah Abdullahi et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13344">2502.13344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05673.html">Flow of Reasoning: Training LLMs for Divergent Reasoning with Minimal Examples</a></div></td>
-<td>Fangxu Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05673">2406.05673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09403.html">Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System</a></div></td>
-<td>Haoyang Su et al.</td>
-<td><a href="http://arxiv.org/abs/2410.09403">2410.09403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15626.html">Aligning Generalisation Between Humans and Machines</a></div></td>
-<td>Filip Ilievski et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15626">2411.15626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09571.html">DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra</a></div></td>
-<td>Montgomery Bohde et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09571">2502.09571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20972.html">Deep k-grouping: An Unsupervised Learning Framework for Combinatorial Optimization on Graphs and Hypergraphs</a></div></td>
-<td>Sen Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20972">2505.20972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21034.html">LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms</a></div></td>
-<td>Wenhu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21034">2505.21034</a></td>
 </tr>
 </tbody></table>

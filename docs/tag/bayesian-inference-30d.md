@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21901.html">Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations</a></div></td>
+<td>Jonathan Reasoner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21901">2605.21901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a> · <a href="ligo-30d.html">ligo</a></div></td>
+<td>Lalit Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21955">2605.21955</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>Simran Arora et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21594.html">Exploring the SMEFT landscape: Bayesian Model Selection for indirect discovery</a></div></td>
+<td>Luca Mantani</td>
+<td><a href="http://arxiv.org/abs/2605.21594">2605.21594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21599.html">JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S</a></div></td>
+<td>Qiao Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21599">2605.21599</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="ligo-30d.html">ligo</a></div></td>
@@ -254,11 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21170.html">Joint Estimation of Properties of the Lunar Subsurface and Galactic Foregrounds with LuSEE-Night</a></div></td>
 <td>Fatima Yousuf et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21170">2604.21170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21039.html">Conformal prediction for uncertainties in the neutron star equation of state</a></div></td>
-<td>Habib Yousefi Dezdarani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21039">2604.21039</a></td>
 </tr>
 </tbody></table>

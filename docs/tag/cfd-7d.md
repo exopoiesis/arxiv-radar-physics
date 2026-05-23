@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cfd — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22009.html">SDFStent: Real-time interactive virtual stenting via SDF deformation fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Bohan J. Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22009">2605.22009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20763.html">ShapeBench: A Scalable Benchmark and Diagnostic Suite for Standardized Evaluation in Aerodynamic Shape Optimization</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>

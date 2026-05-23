@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22009.html">SDFStent: Real-time interactive virtual stenting via SDF deformation fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Bohan J. Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22009">2605.22009</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20763.html">ShapeBench: A Scalable Benchmark and Diagnostic Suite for Standardized Evaluation in Aerodynamic Shape Optimization</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Shaghayegh Fazliani et al.</td>
@@ -134,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22882.html">Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling</a></div></td>
 <td>Matilde Fiore et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22882">2604.22882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20993.html">Droplet-LNO: Physics-Informed Laplace Neural Operators for Accurate Prediction of Droplet Spreading Dynamics on Complex Surfaces</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
-<td>Ganesh Sahadeo Meshram et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20993">2604.20993</a></td>
 </tr>
 </tbody></table>

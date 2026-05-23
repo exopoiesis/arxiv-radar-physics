@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
+<td>Lalit Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21955">2605.21955</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21640.html">Gravitational Wave Hyperbolic Catalog: Reanalyzing High-Mass Gravitational Wave Signals Using Hyperbolic Waveforms</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
+<td>Jacob Lange et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21640">2605.21640</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="black-holes-30d.html">black-holes</a></div></td>
 <td>Xin-yi Lin et al.</td>
@@ -50,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21859.html">Mitigating Systematic Errors in Parameter Estimation of Binary Black Hole Mergers in O1-O3 LIGO-Virgo Data</a></div></td>
 <td>Sumit Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21859">2604.21859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13923.html">Hunting for new glitches in LIGO data using community science</a></div></td>
-<td>E Mackenzie et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13923">2508.13923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20941.html">Interpretable Analytic Formulae for GWTC-4 Binary Black Hole Population Properties via Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Chayan Chatterjee</td>
-<td><a href="http://arxiv.org/abs/2604.20941">2604.20941</a></td>
 </tr>
 </tbody></table>

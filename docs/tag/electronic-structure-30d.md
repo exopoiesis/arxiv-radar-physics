@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div></td>
+<td>Thalis H. B. da Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22167">2605.22167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20095.html">Spin polarization enhancement in a single-layer Bi(1-x)Sb(x) alloy on Ag(111) via isovalent substitution</a></div></td>
 <td>Javier D. Fuhr et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Matthias Kellner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21005.html">Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments</a></div></td>
-<td>Saptarshi G. Dastider et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21005">2604.21005</a></td>
 </tr>
 </tbody></table>

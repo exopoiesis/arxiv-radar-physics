@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22097.html">Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices</a></div></td>
+<td>Farah Elnakhal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22097">2605.22097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22275.html">Adaptive Measurement Allocation for Learning Kernelized SVMs Under Noisy Observations</a></div></td>
+<td>Artur Miroszewski</td>
+<td><a href="http://arxiv.org/abs/2605.22275">2605.22275</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20637.html">PUBO Formulation for MST and Application to Optimum-Path Forest</a></div></td>
 <td>Guilherme E. L. Pexe et al.</td>
@@ -272,17 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06086.html">From Membership-Privacy Leakage to Quantum Machine Unlearning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Junjian Su et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06086">2509.06086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19239.html">The effect of the number of parameters and the number of local feature patches on loss landscapes in distributed quantum neural networks</a></div></td>
-<td>Yoshiaki Kawase</td>
-<td><a href="http://arxiv.org/abs/2504.19239">2504.19239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20601.html">Noise-Resilient Quantum Reinforcement Learning</a></div></td>
-<td>Jing-Ci Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20601">2508.20601</a></td>
 </tr>
 </tbody></table>

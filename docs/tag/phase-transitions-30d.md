@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21722.html">MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics</a></div></td>
+<td>Xiaochen Du et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21722">2605.21722</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div></td>
 <td>Meiyan Wang et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21468.html">Unsupervised Discovery of Intermediate Phase Order in the Frustrated $J_1$-$J_2$ Heisenberg Model via Prometheus Framework</a></div></td>
 <td>Brandon Yee et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21468">2602.21468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06614.html">Local Diffusion Models and Phases of Data Distributions</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Fangjun Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06614">2508.06614</a></td>
 </tr>
 </tbody></table>

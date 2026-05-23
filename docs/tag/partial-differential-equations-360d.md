@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">831 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,41 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22391.html">Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Yi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22391">2505.22391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11674.html">Godunov Loss Functions for Modelling of Hyperbolic Conservation Laws</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>R. G. Cassia et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11674">2405.11674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07101.html">Statistical Finite Elements via Interacting Particle Langevin Dynamics</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Alex Glyn-Davies et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07101">2409.07101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20666.html">Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers</a></div></td>
-<td>Yukun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20666">2505.20666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20721.html">Recurrent Neural Operators: Stable Long-Term PDE Prediction</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Zaijun Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20721">2505.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20818.html">Domain Decomposition Subspace Neural Network Method for Solving Linear and Nonlinear Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Zhenxing Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20818">2505.20818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21663.html">Support identification for parameter variations in a PDE system via regularized methods</a></div></td>
-<td>Houcine Meftahi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21663">2505.21663</a></td>
 </tr>
 </tbody></table>

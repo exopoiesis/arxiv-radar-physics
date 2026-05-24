@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">543 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3266,11 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24463.html">Assessing Future Wind Energy Potential under Climate Change: The Critical Role of Multi-Model Ensembles in Robustness Assessment</a></div></td>
 <td>Andrea Lira-Loarca et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24463">2505.24463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02450.html">Robust and Conjugate Spatio-Temporal Gaussian Processes</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>William Laplante et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02450">2502.02450</a></td>
 </tr>
 </tbody></table>

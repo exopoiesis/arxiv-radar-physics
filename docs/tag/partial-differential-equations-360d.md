@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">822 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4946,23 +4946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23702.html">(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs</a></div></td>
 <td>Nathan Lichtlé et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23702">2505.23702</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19105.html">Latent Mamba Operator for Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Karn Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19105">2505.19105</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21842.html">A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Filippos Fotiadis et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21842">2505.21842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22391.html">Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Yi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22391">2505.22391</a></td>
 </tr>
 </tbody></table>

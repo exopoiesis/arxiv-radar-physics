@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,23 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22566.html">A Deep Learning Approach to Describing the Plasma Sheath</a></div></td>
 <td>Ethan Webb et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22566">2604.22566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21411.html">A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Mohammad Mahdi Abedi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21411">2604.21411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21761.html">Transferable Physics-Informed Representations via Closed-Form Head Adaptation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Jian Cheng Wong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21761">2604.21761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Srinivasan T. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
 </tr>
 </tbody></table>

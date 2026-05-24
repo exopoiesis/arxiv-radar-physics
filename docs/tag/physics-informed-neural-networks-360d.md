@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">623 papers</span>
+  <span class="paper-count">619 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3728,29 +3728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24194.html">Energy-Embedded Neural Solvers for One-Dimensional Quantum Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Yi-Qiang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24194">2505.24194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21842.html">A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Filippos Fotiadis et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21842">2505.21842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22377.html">Multiprecision computing for multistage fractional physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Na Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22377">2505.22377</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22469.html">CPINN-ABPI: Physics-Informed Neural Networks for Accurate Power Estimation in MPSoCs</a></div></td>
-<td>Mohamed R. Elshamy et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22469">2505.22469</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22495.html">Reduced order modelling of air puff test for corneal material characterisation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Osama M. Maklad et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22495">2505.22495</a></td>
 </tr>
 </tbody></table>

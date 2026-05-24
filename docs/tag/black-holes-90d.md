@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21607.html">Direction-of-arrival estimation of a gravitational wave by correlations between quadrupole moments of pulsar timings</a></div></td>
 <td>Taichi Ueyama et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21607">2602.21607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19214.html">Potential periodic signals in blazars: significance, forecasting and deep learning</a></div></td>
-<td>M. A. Hashad et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19214">2602.19214</a></td>
 </tr>
 </tbody></table>

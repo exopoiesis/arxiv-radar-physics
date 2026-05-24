@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <strong>30d</strong> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26143.html">Mixture of Experts Framework in Machine Learning Interatomic Potentials for Atomistic Simulations</a></div></td>
 <td>Gabriel de Miranda Nascimento et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26143">2604.26143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21401.html">GEWUM: General Exploration Workflow for the Utopia of Materials: A Unified Platform for Automated Structure Generation, Selection, and Validation</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Jiexi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21401">2604.21401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Aleksander Szewczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21494">2604.21494</a></td>
 </tr>
 </tbody></table>

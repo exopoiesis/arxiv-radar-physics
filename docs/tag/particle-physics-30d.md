@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>particle-physics — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <strong>30d</strong> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a> · <a href="physics-beyond-the-standard-model-30d.html">physics-beyond-the-standard-model</a></div></td>
 <td>Andrea Addazi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Srinivasan T. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
 </tr>
 </tbody></table>

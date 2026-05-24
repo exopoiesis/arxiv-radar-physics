@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">620 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3704,35 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23656.html">VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models</a></div></td>
 <td>Xiangdong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23656">2505.23656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22008.html">Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Jing-An Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22008">2505.22008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22126.html">SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model</a></div></td>
-<td>Yifan Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22126">2505.22126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22193.html">Physics-inspired Generative AI models via real hardware-based noisy quantum diffusion</a></div></td>
-<td>Marco Parigi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22193">2505.22193</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22391.html">Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22391">2505.22391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22407.html">Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation</a></div></td>
-<td>Jiadong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22407">2505.22407</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,17 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01891.html">Multi-stream physics hybrid networks for solving Navier-Stokes equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Aleksandr Sedykh et al.</td>
 <td><a href="http://arxiv.org/abs/2504.01891">2504.01891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22839.html">Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Sagnik Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22839">2510.22839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01379.html">WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Zachary Cooper-Baldock et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01379">2602.01379</a></td>
 </tr>
 </tbody></table>

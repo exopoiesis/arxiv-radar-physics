@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23265.html">A Filtered MgNet Solver For Radiative Transfer Equations</a></div></td>
 <td>Qinchen Song et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23265">2604.23265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03248.html">Multimodal Neural Operators for Real-Time Biomechanical Modelling of Traumatic Brain Injury</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Anusha Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03248">2510.03248</a></td>
 </tr>
 </tbody></table>

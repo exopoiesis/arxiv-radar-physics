@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">184 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,11 +1112,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16947.html">Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning</a></div></td>
 <td>Chuqin Geng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16947">2602.16947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00403.html">SelfAI: A self-directed framework for long-horizon scientific discovery</a></div></td>
-<td>Xiao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00403">2512.00403</a></td>
 </tr>
 </tbody></table>

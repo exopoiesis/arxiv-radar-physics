@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">550 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,29 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12007.html">Supervised binary classification of small-scale digit images and weighted graphs with a trapped-ion quantum processor</a></div></td>
 <td>Ilia V. Zalivako et al.</td>
 <td><a href="http://arxiv.org/abs/2406.12007">2406.12007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10803.html">Quantum Kernel Learning for Small Dataset Modeling in Semiconductor Fabrication: Application to Ohmic Contact</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Zeheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10803">2409.10803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18519.html">Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management</a></div></td>
-<td>Pradeep Mantha et al.</td>
-<td><a href="http://arxiv.org/abs/2412.18519">2412.18519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22575.html">Minimal Quantum Reservoirs with Hamiltonian Encoding</a></div></td>
-<td>Gerard McCaul et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22575">2505.22575</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22837.html">Quantum Reservoir Computing for Corrosion Prediction in Aerospace: A Hybrid Approach for Enhanced Material Degradation Forecasting</a></div><div class="paper-tags"><a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
-<td>Akshat Tandon et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22837">2505.22837</a></td>
 </tr>
 </tbody></table>

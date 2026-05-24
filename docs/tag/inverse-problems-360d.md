@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,17 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14792.html">Fast automated adjoints for spectral PDE solvers</a></div></td>
 <td>Calum S. Skene et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14792">2506.14792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22391.html">Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22391">2505.22391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22481.html">Hypothesis Testing in Imaging Inverse Problems</a></div></td>
-<td>Yiming Xi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22481">2505.22481</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04282.html">DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
 <td>Runxiang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04282">2506.04282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21879.html">Symbolic Foundation Regressor on Complex Networks</a></div></td>
-<td>Weiting Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21879">2505.21879</a></td>
 </tr>
 </tbody></table>

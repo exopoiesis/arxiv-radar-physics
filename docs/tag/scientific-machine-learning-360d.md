@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00488.html">Learn Singularly Perturbed Solutions via Homotopy Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Chuqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2502.00488">2502.00488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22085.html">PADAM: Parallel averaged Adam reduces the error for stochastic optimization in scientific machine learning</a></div></td>
-<td>Arnulf Jentzen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22085">2505.22085</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">621 papers</span>
+  <span class="paper-count">617 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3716,29 +3716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05030.html">Unified theoretical guarantees for stability, consistency, and convergence in neural PDE solvers from non-IID data to physics-informed networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Ronald Katende</td>
 <td><a href="http://arxiv.org/abs/2409.05030">2409.05030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21842.html">A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Filippos Fotiadis et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21842">2505.21842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22377.html">Multiprecision computing for multistage fractional physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Na Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22377">2505.22377</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22495.html">Reduced order modelling of air puff test for corneal material characterisation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Osama M. Maklad et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22495">2505.22495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22761.html">A comprehensive analysis of PINNs: Variants, Applications, and Challenges</a></div></td>
-<td>Afila Ajithkumar Sophiya et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22761">2505.22761</a></td>
 </tr>
 </tbody></table>

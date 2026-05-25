@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="force-fields-7d.html">force-fields</a></div></td>
 <td>Stefaan Simon Pierre Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
 </tr>
 </tbody></table>

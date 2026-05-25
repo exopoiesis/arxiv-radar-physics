@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">613 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3692,17 +3692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24203.html">Aligning Protein Conformation Ensemble Generation with Physical Feedback</a></div></td>
 <td>Jiarui Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24203">2505.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23283.html">RSFAKE-1M: A Large-Scale Dataset for Detecting Diffusion-Generated Remote Sensing Forgeries</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Zhihong Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23283">2505.23283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23656.html">VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models</a></div></td>
-<td>Xiangdong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23656">2505.23656</a></td>
 </tr>
 </tbody></table>

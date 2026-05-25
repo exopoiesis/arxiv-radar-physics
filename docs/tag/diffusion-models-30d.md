@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,29 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17477.html">Variational Grey-Box Dynamics Matching</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Gurjeet Sangra Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17477">2602.17477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
-<td>Li Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15753">2507.15753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21066.html">Optimizing Diffusion Priors in Image Reconstruction from a Single Observation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21066">2604.21066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22224.html">AI-Driven Performance-to-Design Generation and Optimization of Marine Propellers</a></div></td>
-<td>Leah Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22224">2604.22224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22917.html">Diffusion-based Galaxy Simulations for the Roman High Latitude Survey</a></div></td>
-<td>Diana Scognamiglio et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22917">2604.22917</a></td>
 </tr>
 </tbody></table>

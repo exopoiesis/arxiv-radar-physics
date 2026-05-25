@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">499 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3008,23 +3008,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00249.html">MIR: Methodology Inspiration Retrieval for Scientific Research Problems</a></div></td>
 <td>Aniketh Garikaparthi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00249">2506.00249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18411.html">Gravity-Bench-v1: A Benchmark on Gravitational Physics Discovery for Agents</a></div></td>
-<td>Nolan Koblischke et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18411">2501.18411</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13503.html">SciHorizon: Benchmarking AI-for-Science Readiness from Scientific Data to Large Language Models</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a></div></td>
-<td>Chuan Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13503">2503.13503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23559.html">SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents</a></div></td>
-<td>Kunlun Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23559">2505.23559</a></td>
 </tr>
 </tbody></table>

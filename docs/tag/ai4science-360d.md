@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ai4science — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <strong>360d</strong> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00862.html">FourierFlow: Frequency-aware Flow Matching for Generative Turbulence Modeling</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Haixin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00862">2506.00862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13503.html">SciHorizon: Benchmarking AI-for-Science Readiness from Scientific Data to Large Language Models</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Chuan Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13503">2503.13503</a></td>
 </tr>
 </tbody></table>

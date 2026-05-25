@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,11 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01868.html">NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials</a></div></td>
 <td>Chengbing Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01868">2506.01868</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05771.html">A Materials Foundation Model via Hybrid Invariant-Equivariant Architectures</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Keqiang Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05771">2503.05771</a></td>
 </tr>
 </tbody></table>

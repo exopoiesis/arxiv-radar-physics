@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19104.html">Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Branden Frieden et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19104">2605.19104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Abderrahim Bendahi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
 </tr>
 </tbody></table>

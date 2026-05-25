@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,23 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08740.html">Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Abdolmehdi Behroozi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08740">2505.08740</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.19990.html">Dimension reduction via score ratio matching</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Ricardo Baptista et al.</td>
-<td><a href="http://arxiv.org/abs/2410.19990">2410.19990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23940.html">Diff-FlowFSI: A GPU-Optimized Differentiable CFD Platform for High-Fidelity Turbulence and FSI Simulations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Xiantao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23940">2505.23940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14792.html">Fast automated adjoints for spectral PDE solvers</a></div></td>
-<td>Calum S. Skene et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14792">2506.14792</a></td>
 </tr>
 </tbody></table>

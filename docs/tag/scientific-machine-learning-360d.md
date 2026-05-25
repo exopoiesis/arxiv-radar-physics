@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,11 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24145.html">Autoregressive regularized score-based diffusion models for multi-scenarios fluid flow prediction</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Wilfried Genuist et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24145">2505.24145</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00488.html">Learn Singularly Perturbed Solutions via Homotopy Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Chuqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00488">2502.00488</a></td>
 </tr>
 </tbody></table>

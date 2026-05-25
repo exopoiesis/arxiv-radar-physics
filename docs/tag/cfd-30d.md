@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20374.html">CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Nithin Somasekharan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20374">2509.20374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18953.html">FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction</a></div></td>
-<td>Xiaowen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18953">2604.18953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22882.html">Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling</a></div></td>
-<td>Matilde Fiore et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22882">2604.22882</a></td>
 </tr>
 </tbody></table>

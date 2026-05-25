@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">818 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4922,29 +4922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24194.html">Energy-Embedded Neural Solvers for One-Dimensional Quantum Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Yi-Qiang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24194">2505.24194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00488.html">Learn Singularly Perturbed Solutions via Homotopy Dynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Chuqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00488">2502.00488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02041.html">Interpolating Neural Network-Tensor Decomposition (INN-TD): a scalable and interpretable approach for large-scale physics-based problems</a></div></td>
-<td>Jiachen Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02041">2503.02041</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23014.html">Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations</a></div></td>
-<td>Juwei Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23014">2505.23014</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23702.html">(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs</a></div></td>
-<td>Nathan Lichtlé et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23702">2505.23702</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,11 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08524.html">Deep inference of simulated strong lenses in ground-based surveys</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Jason Poh et al.</td>
 <td><a href="http://arxiv.org/abs/2501.08524">2501.08524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23904.html">Cosmology with Topological Deep Learning</a></div></td>
-<td>Jun-Young Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23904">2505.23904</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,23 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23528.html">When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Sifan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23528">2604.23528</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07765.html">Solving Nonlinear PDEs with Sparse Radial Basis Function Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Zihan Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07765">2505.07765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22414.html">Computational Control of Nonlinear Partial Differential Equations Using Machine Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Maximilian Kurbanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22414">2604.22414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22566.html">A Deep Learning Approach to Describing the Plasma Sheath</a></div></td>
-<td>Ethan Webb et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22566">2604.22566</a></td>
 </tr>
 </tbody></table>

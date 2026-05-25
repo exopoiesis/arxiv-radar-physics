@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">254 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1538,11 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00198.html">MOFGPT: Generative Design of Metal-Organic Frameworks using Language Models</a></div></td>
 <td>Srivathsan Badrinarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00198">2506.00198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05771.html">A Materials Foundation Model via Hybrid Invariant-Equivariant Architectures</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Keqiang Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05771">2503.05771</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21438.html">Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing</a></div></td>
 <td>Rajiv Kailasanathan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21438">2508.21438</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19984.html">Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model</a></div></td>
-<td>Federico Incardona et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19984">2602.19984</a></td>
 </tr>
 </tbody></table>

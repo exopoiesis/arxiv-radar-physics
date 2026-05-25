@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21307.html">SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Elizabeth S. Z. Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21307">2602.21307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05684.html">Distilling human mobility models with symbolic regression</a></div></td>
-<td>Hao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05684">2501.05684</a></td>
 </tr>
 </tbody></table>

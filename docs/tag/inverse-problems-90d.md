@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21357.html">Conditional neural control variates for variance reduction in Bayesian inverse problems</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Ali Siahkoohi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21357">2602.21357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09647.html">Field-material coupled neural network: A novel prior-free and data-free inverse problem solver for extracting complex dielectric constant in terahertz band</a></div></td>
-<td>Pengfei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09647">2602.09647</a></td>
 </tr>
 </tbody></table>

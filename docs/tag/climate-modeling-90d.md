@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>climate-modeling — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="climate-modeling-360d.html">360d</a> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07940.html">AI Agents, Language, Deep Learning and the Next Revolution in Science</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Ke Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07940">2603.07940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20352.html">Quantum Machine Learning for Complex Systems</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Vinit Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20352">2602.20352</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,17 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11052.html">Structure-Aware Epistemic Uncertainty Quantification for Neural Operator PDE Surrogates</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Haoze Song et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11052">2603.11052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24506.html">Enhancing the Accuracy of Spatio-Temporal Models for Wind Speed Prediction by Incorporating Bias-Corrected Crowdsourced Data</a></div></td>
-<td>Eamonn Organ et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24506">2505.24506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23804.html">Stochastic Galerkin Method and Hierarchical Preconditioning for PDE-constrained Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Zhendong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23804">2512.23804</a></td>
 </tr>
 </tbody></table>

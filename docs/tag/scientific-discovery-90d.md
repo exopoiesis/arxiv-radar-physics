@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,35 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13769.html">OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery</a></div></td>
 <td>Qi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13769">2602.13769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07172.html">NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents</a></div></td>
-<td>Tianshi Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07172">2510.07172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09768.html">CLiMB: A Domain-Informed Novelty Detection Clustering Framework for Galactic Archaeology and Scientific Discovery</a></div></td>
-<td>Lorenzo Monti et al.</td>
-<td><a href="http://arxiv.org/abs/2601.09768">2601.09768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20475.html">PhyGHT: Physics-Guided HyperGraph Transformer for Signal Purification at the HL-LHC</a></div></td>
-<td>Mohammed Rakib et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20475">2602.20475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20639.html">Grounding LLMs in Scientific Discovery via Embodied Actions</a></div></td>
-<td>Bo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20639">2602.20639</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21317.html">Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling</a></div></td>
-<td>Guancheng Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21317">2602.21317</a></td>
 </tr>
 </tbody></table>

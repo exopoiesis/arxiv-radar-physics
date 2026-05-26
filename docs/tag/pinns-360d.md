@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">617 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,11 +3710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00471.html">DiffPINN: Generative diffusion-initialized physics-informed neural networks for accelerating seismic wavefield representation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Shijun Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00471">2506.00471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05030.html">Unified theoretical guarantees for stability, consistency, and convergence in neural PDE solvers from non-IID data to physics-informed networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ronald Katende</td>
-<td><a href="http://arxiv.org/abs/2409.05030">2409.05030</a></td>
 </tr>
 </tbody></table>

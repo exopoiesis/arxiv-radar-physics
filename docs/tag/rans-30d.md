@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rans — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <strong>30d</strong> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18491.html">Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Nicholas Thumiger et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18491">2604.18491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23300.html">Bayesian neural network correction of RANS turbulence models with uncertainty quantification in separated flows</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tyler Buchanan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23300">2604.23300</a></td>
 </tr>
 </tbody></table>

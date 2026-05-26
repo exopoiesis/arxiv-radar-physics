@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,11 +1466,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22188.html">Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Nathalie C. Pinheiro et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22188">2602.22188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21393.html">An information-based model selection criterion for data-driven model discovery</a></div></td>
-<td>Michael C Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21393">2602.21393</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05293.html">Reduction of Outflow Boundary Influence on Aerodynamic Performance using Neural Networks</a></div></td>
 <td>Mario Christopher Bedrunka et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05293">2506.05293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24145.html">Autoregressive regularized score-based diffusion models for multi-scenarios fluid flow prediction</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Wilfried Genuist et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24145">2505.24145</a></td>
 </tr>
 </tbody></table>

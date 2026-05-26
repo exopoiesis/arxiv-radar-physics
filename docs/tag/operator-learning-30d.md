@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23625.html">Physics informed operator learning of parameter dependent spectra</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
 <td>Haohao Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23625">2604.23625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24143.html">Linear-Nonlinear Fusion Neural Operator for Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Heng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24143">2603.24143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23265.html">A Filtered MgNet Solver For Radiative Transfer Equations</a></div></td>
-<td>Qinchen Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23265">2604.23265</a></td>
 </tr>
 </tbody></table>

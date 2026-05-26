@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,17 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21988.html">Solving stiff dark matter equations via Jacobian Normalization with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>M. P. Bento et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21988">2602.21988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20719.html">The Adaptive Solution of High-Frequency Helmholtz Equations via Multi-Grade Deep Learning</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Peiyao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20719">2602.20719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21307.html">SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Elizabeth S. Z. Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21307">2602.21307</a></td>
 </tr>
 </tbody></table>

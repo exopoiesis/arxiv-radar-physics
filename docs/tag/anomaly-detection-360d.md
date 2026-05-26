@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,17 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00420.html">A New Spatiotemporal Correlation Anomaly Detection Method that Integrates Contrastive Learning and Few-Shot Learning in Wireless Sensor Networks</a></div></td>
 <td>Miao Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00420">2506.00420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00102.html">Tensor Network for Anomaly Detection in the Latent Space of Proton Collision Events at the LHC</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Ema Puljak et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00102">2506.00102</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00119.html">Generator Based Inference (GBI)</a></div></td>
-<td>Chi Lung Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00119">2506.00119</a></td>
 </tr>
 </tbody></table>

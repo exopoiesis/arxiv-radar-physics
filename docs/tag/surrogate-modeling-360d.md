@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08516.html">NeurIPS 2024 ML4CFD Competition: Results and Retrospective Analysis</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Mouadh Yagoubi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08516">2506.08516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24717.html">PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations</a></div></td>
-<td>Benjamin Holzschuh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24717">2505.24717</a></td>
 </tr>
 </tbody></table>

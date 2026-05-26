@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">545 papers</span>
+  <span class="paper-count">543 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3272,17 +3272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14795.html">Comparative Analysis of QNN Architectures for Wind Power Prediction: Feature Maps and Ansatz Configurations</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Batuhan Hangun et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14795">2506.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24780.html">QGAN-based data augmentation for hybrid quantum-classical neural networks</a></div></td>
-<td>Run-Ze He et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24780">2505.24780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00102.html">Tensor Network for Anomaly Detection in the Latent Space of Proton Collision Events at the LHC</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Ema Puljak et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00102">2506.00102</a></td>
 </tr>
 </tbody></table>

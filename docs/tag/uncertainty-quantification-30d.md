@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23716.html">Information-Theoretic Measures in AI: A Practical Decision Guide</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Nikolaos Al. Papadopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23716">2604.23716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23300.html">Bayesian neural network correction of RANS turbulence models with uncertainty quantification in separated flows</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
-<td>Tyler Buchanan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23300">2604.23300</a></td>
 </tr>
 </tbody></table>

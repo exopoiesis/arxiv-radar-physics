@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3254,17 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03037.html">On the Need to Align Intent and Implementation in Uncertainty Quantification for Machine Learning</a></div></td>
 <td>Shubhendu Trivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03037">2506.03037</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15683.html">Quantum DeepONet: Neural operators accelerated by quantum computing</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Pengpeng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15683">2409.15683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24463.html">Assessing Future Wind Energy Potential under Climate Change: The Critical Role of Multi-Model Ensembles in Robustness Assessment</a></div></td>
-<td>Andrea Lira-Loarca et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24463">2505.24463</a></td>
 </tr>
 </tbody></table>

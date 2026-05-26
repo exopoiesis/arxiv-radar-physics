@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">818 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4904,23 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00862.html">FourierFlow: Frequency-aware Flow Matching for Generative Turbulence Modeling</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Haixin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00862">2506.00862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15683.html">Quantum DeepONet: Neural operators accelerated by quantum computing</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pengpeng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15683">2409.15683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02379.html">TensorGRaD: Tensor Gradient Robust Decomposition for Memory-Efficient Neural Operator Training</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Sebastian Loeschcke et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02379">2501.02379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24194.html">Energy-Embedded Neural Solvers for One-Dimensional Quantum Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Yi-Qiang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24194">2505.24194</a></td>
 </tr>
 </tbody></table>

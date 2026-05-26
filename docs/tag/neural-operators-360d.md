@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">375 papers</span>
+  <span class="paper-count">372 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2246,23 +2246,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08740.html">Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Abdolmehdi Behroozi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08740">2505.08740</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15683.html">Quantum DeepONet: Neural operators accelerated by quantum computing</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pengpeng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15683">2409.15683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02379.html">TensorGRaD: Tensor Gradient Robust Decomposition for Memory-Efficient Neural Operator Training</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sebastian Loeschcke et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02379">2501.02379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24578.html">Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems</a></div></td>
-<td>Abhishek Chandra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24578">2505.24578</a></td>
 </tr>
 </tbody></table>

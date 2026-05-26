@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">619 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,23 +3710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00471.html">DiffPINN: Generative diffusion-initialized physics-informed neural networks for accelerating seismic wavefield representation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Shijun Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00471">2506.00471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05030.html">Unified theoretical guarantees for stability, consistency, and convergence in neural PDE solvers from non-IID data to physics-informed networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Ronald Katende</td>
-<td><a href="http://arxiv.org/abs/2409.05030">2409.05030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15141.html">Machine learning meets $\mathfrak{su}(n)$ Lie algebra: Enhancing quantum dynamics learning with exact trace conservation</a></div><div class="paper-tags"><a href="data-driven-physics-360d.html">data-driven-physics</a></div></td>
-<td>Arif Ullah et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15141">2502.15141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24194.html">Energy-Embedded Neural Solvers for One-Dimensional Quantum Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Yi-Qiang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24194">2505.24194</a></td>
 </tr>
 </tbody></table>

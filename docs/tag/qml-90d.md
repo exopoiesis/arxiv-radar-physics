@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,23 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01927.html">QCS-ADME: Quantum Circuit Search for Drug Property Prediction with Imbalanced Data and Regression Adaptation</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Kangyu Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2503.01927">2503.01927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18637.html">Universality of Many-body Projected Ensemble for Learning Quantum Data Distribution</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Quoc Hoan Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18637">2601.18637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20499.html">Fundamentals of Quantum Machine Learning and Robustness</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Lirandë Pira et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20499">2602.20499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21350.html">The Inverse Born Rule Fallacy: On the Informational Limits of Phase-Locked Amplitude Encoding</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Sebastian Zając et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21350">2602.21350</a></td>
 </tr>
 </tbody></table>

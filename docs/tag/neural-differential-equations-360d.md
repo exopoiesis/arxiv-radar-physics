@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-differential-equations — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="neural-differential-equations-7d.html">7d</a> <a href="neural-differential-equations-30d.html">30d</a> <a href="neural-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="neural-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08146.html">Fully data-driven inverse hyperelasticity with hyper-network neural ODE fields</a></div></td>
 <td>Vahidullah Taç et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08146">2506.08146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00088.html">HD-NDEs: Neural Differential Equations for Hallucination Detection in LLMs</a></div></td>
-<td>Qing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00088">2506.00088</a></td>
 </tr>
 </tbody></table>

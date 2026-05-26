@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">184 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1118,23 +1118,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00149.html">Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction</a></div></td>
 <td>Zhihao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00149">2603.00149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09126.html">DreamBarbie: Text to Barbie-Style 3D Avatars</a></div></td>
-<td>Xiaokun Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09126">2408.09126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20725.html">Bridging Physically Based Rendering and Diffusion Models with Stochastic Differential Equation</a></div></td>
-<td>Junwei Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20725">2602.20725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00140.html">Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion</a></div></td>
-<td>Sathwik Karnik et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00140">2603.00140</a></td>
 </tr>
 </tbody></table>

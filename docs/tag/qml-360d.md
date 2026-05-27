@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25572.html">PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation</a></div></td>
+<td>Minghao Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25572">2605.25572</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25066.html">QML-PipeGuard: Drift-Aware Behavioral Fingerprinting for Quantum Machine Learning Pipeline Integrity</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Esra Yeniaras</td>
+<td><a href="http://arxiv.org/abs/2605.25066">2605.25066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24187.html">Digital twins for compact hybrid quantum classical learning in FMCW radar detection</a></div></td>
+<td>Sebastian Ratto Valderrama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24187">2605.24187</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21286.html">Software Between Quantum and Machine Learning -- And Down to Pulses</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
@@ -1178,11 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09069.html">Devanagari Digit Recognition using Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Sahaj Raj Malla</td>
 <td><a href="http://arxiv.org/abs/2506.09069">2506.09069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14795.html">Comparative Analysis of QNN Architectures for Wind Power Prediction: Feature Maps and Ansatz Configurations</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Batuhan Hangun et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14795">2506.14795</a></td>
 </tr>
 </tbody></table>

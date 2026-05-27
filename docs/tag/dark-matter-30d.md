@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>Gourab Nandi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22489.html">Machine Learning Techniques for Astrophysics and Cosmology: Lyman-$α$ forest</a></div></td>

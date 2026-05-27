@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27300.html">Deterministic Mapping of Topological Phases via Autoregressive Exogenous Neural Networks</a></div></td>
+<td>Graciana Puentes</td>
+<td><a href="http://arxiv.org/abs/2605.27300">2605.27300</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div></td>
 <td>Souvik Chakraborty et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01503.html">Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs</a></div></td>
 <td>Lorenzo Colantonio et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01503">2408.01503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07524.html">Stagewise Reinforcement Learning and the Geometry of the Regret Landscape</a></div></td>
-<td>Chris Elliott et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07524">2601.07524</a></td>
 </tr>
 </tbody></table>

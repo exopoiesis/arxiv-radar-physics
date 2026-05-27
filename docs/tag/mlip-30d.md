@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div></td>
+<td>Arseniy Burov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26897">2605.26897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25032.html">Target-Distribution-Guided Cross-Functional Fine-Tuning of Machine-Learning Interatomic Potentials</a></div></td>
+<td>Yuki Nagai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25032">2605.25032</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div></td>
@@ -38,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Bowen Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-17</td>

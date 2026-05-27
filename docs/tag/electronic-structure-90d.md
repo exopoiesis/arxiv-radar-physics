@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div></td>
+<td>Abdul Samad Khan</td>
+<td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24617.html">Transformer refined quantum sampling for strongly correlated electronic structure</a></div></td>
+<td>Xiongzhi Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24617">2605.24617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24073.html">Multitask learning with semiempirical orbital charges enables sample-efficient MLIPs</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Ihor Neporozhnii et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24073">2605.24073</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div></td>
@@ -224,17 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23515.html">Performance of universal machine learning potentials in global optimization</a></div></td>
 <td>Edan T. Marcial et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23515">2602.23515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22086.html">MBD-ML: Many-body dispersion from machine learning for molecules and materials</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
-<td>Evgeny Moerman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22086">2602.22086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div></td>
-<td>Siu Wun Cheung et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
 </tr>
 </tbody></table>

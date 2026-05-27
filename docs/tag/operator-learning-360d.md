@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25633.html">Exponential mixing properties of nonlinear functional autoregressive models</a></div></td>
+<td>Shuntarou Suzuki et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25633">2605.25633</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25867.html">CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Pietro Zanotta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25867">2605.25867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24658.html">WLNO: Wavelet-Laplace Neural Operator for Solving Partial Differential Equations</a></div></td>
+<td>Muhammad Abid et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24658">2605.24658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23712.html">Operator Learning for Reconstructing Flow Fields from Sparse Measurements: a Language Model Approach</a></div></td>
+<td>Qian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23712">2605.23712</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25115.html">Courant: a State-Adaptive Perceiver-Based Neural Surrogate with Local Support and Interpretable Field Decomposition</a></div></td>
+<td>Anuj Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25115">2605.25115</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22498.html">The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning</a></div></td>
 <td>Lucas Sheneman</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23946.html">Learning subgrid interfacial area in two-phase flows with regime-dependent inductive biases</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Anirban Bhattacharjee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23946">2604.23946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23811.html">Attention Is Not All You Need for Diffraction</a></div></td>
-<td>Elizabeth J. Baggett et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23811">2604.23811</a></td>
 </tr>
 </tbody></table>

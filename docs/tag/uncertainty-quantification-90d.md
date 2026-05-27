@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26806.html">Supervised machine learning of compressible flow past a rotating cylinder</a></div></td>
+<td>Sanjeev Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26806">2605.26806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Shan Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21863.html">OCELOT: Odometry and Contact Estimation for Legged Robots</a></div></td>
@@ -1010,29 +1022,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23188.html">Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Ismaël Zighed et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23188">2602.23188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03178.html">Active operator learning with predictive uncertainty quantification for partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Nick Winovich et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03178">2503.03178</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21701.html">Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Michele Cazzola et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21701">2602.21701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21910.html">The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Alexander Heinlein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21910">2602.21910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22188.html">Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="rom-90d.html">rom</a></div></td>
-<td>Nathalie C. Pinheiro et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22188">2602.22188</a></td>
 </tr>
 </tbody></table>

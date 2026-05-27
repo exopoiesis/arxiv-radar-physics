@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26806.html">Supervised machine learning of compressible flow past a rotating cylinder</a></div></td>
+<td>Sanjeev Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26806">2605.26806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Shan Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21863.html">OCELOT: Odometry and Contact Estimation for Legged Robots</a></div></td>
@@ -302,11 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Matthias Kellner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23716.html">Information-Theoretic Measures in AI: A Practical Decision Guide</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Nikolaos Al. Papadopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23716">2604.23716</a></td>
 </tr>
 </tbody></table>

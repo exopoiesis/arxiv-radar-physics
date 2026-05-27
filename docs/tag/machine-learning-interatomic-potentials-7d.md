@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24073.html">Multitask learning with semiempirical orbital charges enables sample-efficient MLIPs</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Ihor Neporozhnii et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24073">2605.24073</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22698.html">Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
@@ -26,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Ali Ramlaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a> · <a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
 </tr>
 </tbody></table>

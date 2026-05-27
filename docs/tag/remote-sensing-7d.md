@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24106.html">Overcoming &quot;Physics Shock&quot; in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24106">2605.24106</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
 <td>Jiangwei Mo et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21268.html">Vision Transformers and Convolutional Neural Networks for Land Use Scene Classification</a></div></td>
 <td>Arun D. Kulkarni</td>
 <td><a href="http://arxiv.org/abs/2605.21268">2605.21268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20090.html">MetaEarth-MM: Unified Multimodal Remote Sensing Image Generation with Scene-centered Joint Modeling</a></div></td>
-<td>Zhiping Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20090">2605.20090</a></td>
 </tr>
 </tbody></table>

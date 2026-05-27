@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.21640">2605.21640</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22862.html">Constraining Black Hole Parameters in Non-Commutative Geometry using Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>Maryem Jemri</td>
+<td><a href="http://arxiv.org/abs/2605.22862">2605.22862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="ligo-30d.html">ligo</a></div></td>
 <td>Xin-yi Lin et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24330.html">Pre-localization of Massive Black Hole Binaries in the Millihertz Band</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Xue-Ting Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24330">2604.24330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23625.html">Physics informed operator learning of parameter dependent spectra</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Haohao Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23625">2604.23625</a></td>
 </tr>
 </tbody></table>

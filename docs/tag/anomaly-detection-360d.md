@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25135.html">ASTRO: Adaptive Spatio-Temporal Reinforcement Optimization for GNN Powered Anomly Detection in Cyber Physical Systems</a></div></td>
+<td>Rai Ali Yar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25135">2605.25135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23850.html">Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
+<td>Ali Zahir et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23850">2605.23850</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22527.html">Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection</a></div></td>
@@ -98,6 +110,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15030.html">Anomaly Detection from a Tensor Train Perspective</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Alejandro Mata Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15030">2409.15030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23946.html">AI-Driven Controlled Environment Agriculture as Resilient Infrastructure for U.S. Fresh-Produce Supply Chains</a></div></td>
+<td>Andrii Vakhnovskyi</td>
+<td><a href="http://arxiv.org/abs/2605.23946">2605.23946</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-03</td>
@@ -1886,17 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10918.html">INVARLLM: LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection</a></div></td>
 <td>Danial Abshari et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10918">2411.10918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04495.html">AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection</a></div></td>
-<td>Peng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04495">2504.04495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00420.html">A New Spatiotemporal Correlation Anomaly Detection Method that Integrates Contrastive Learning and Few-Shot Learning in Wireless Sensor Networks</a></div></td>
-<td>Miao Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00420">2506.00420</a></td>
 </tr>
 </tbody></table>

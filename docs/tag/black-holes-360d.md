@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21640.html">Gravitational Wave Hyperbolic Catalog: Reanalyzing High-Mass Gravitational Wave Signals Using Hyperbolic Waveforms</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Jacob Lange et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21640">2605.21640</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22862.html">Constraining Black Hole Parameters in Non-Commutative Geometry using Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Maryem Jemri</td>
+<td><a href="http://arxiv.org/abs/2605.22862">2605.22862</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>

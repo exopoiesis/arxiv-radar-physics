@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Logan A. Burnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24763">2605.24763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Adrien Weihs et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24228.html">BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Maksym Veremchuk et al.</td>
 <td><a href="http://arxiv.org/abs/2602.24228">2602.24228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21910.html">The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Alexander Heinlein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21910">2602.21910</a></td>
 </tr>
 </tbody></table>

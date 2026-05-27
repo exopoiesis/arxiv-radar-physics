@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25353.html">PDEInvBench: A Comprehensive Dataset and Design Space Exploration of Neural Networks for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Divyam Goel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25353">2605.25353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27191.html">Statistical and Algorithmic Foundations of Probing Quantum Systems with Compressive Measurements: A Review</a></div></td>
+<td>Zhen Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27191">2605.27191</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26042.html">Alt-CC-PINN: An Alternating Optimization Framework with Implicit Neural Representation for Microwave Inverse Scattering Imaging</a></div></td>
+<td>Shilong Sun</td>
+<td><a href="http://arxiv.org/abs/2605.26042">2605.26042</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Shan Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25177.html">Sampling Distributions as Regularization in Learned Inverse Problems</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Sandra R. Babyale et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25177">2605.25177</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24274.html">A lift for input-convex neural network training</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
+<td>Ali Siahkoohi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24274">2605.24274</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22338.html">Physics-Informed Generative Solver: Bridging Data-Driven Priors and Conservation Laws for Stable Spatiotemporal Field Reconstruction</a></div></td>
 <td>Ziyuan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22338">2605.22338</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22891.html">Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a></div></td>
+<td>Mads H. Baattrup et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22891">2605.22891</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -230,11 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25655.html">Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Yuhe Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25655">2604.25655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18184.html">Learning Operators by Regularized Stochastic Gradient Descent with Operator-valued Kernels</a></div></td>
-<td>Jia-Qi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18184">2504.18184</a></td>
 </tr>
 </tbody></table>

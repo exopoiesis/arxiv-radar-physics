@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25717.html">FLOATBench: A Dataset and Benchmark for Floating Offshore Wind Turbine Tower Fatigue</a></div></td>
+<td>João Alves Ribeiro et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25717">2605.25717</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22054.html">LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Zhuo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22054">2605.22054</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23037.html">Open Multimodal Datasets and Open-Source Software for Data-Driven Modeling of Multiphase Transport and Thermal Systems</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Christy Dunlap et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23037">2605.23037</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -356,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00290.html">Scalable Gaussian process modeling of parametrized spatio-temporal fields</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Srinath Dama et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00290">2603.00290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20714.html">WeirNet: A Large-Scale 3D CFD Benchmark for Geometric Surrogate Modeling of Piano Key Weirs</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Lisa Lüddecke et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20714">2602.20714</a></td>
 </tr>
 </tbody></table>

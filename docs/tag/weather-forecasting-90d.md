@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22962.html">Scaling Laws of Global Weather Models</a></div></td>
 <td>Yuejiang Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22962">2602.22962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22298.html">AviaSafe: A Physics-Informed Data-Driven Model for Aviation Safety-Critical Cloud Forecasts</a></div></td>
-<td>Zijian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22298">2602.22298</a></td>
 </tr>
 </tbody></table>

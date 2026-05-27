@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Gourab Nandi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Leander Thiele</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04789.html">Bayesian Learning of (n,p) Reaction Cross Sections with Quantified Uncertainties</a></div></td>
 <td>Arunabha Saha et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04789">2603.04789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21686.html">Multimodal Datasets with Controllable Mutual Information</a></div></td>
-<td>Raheem Karim Hashmani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21686">2510.21686</a></td>
 </tr>
 </tbody></table>

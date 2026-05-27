@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Gourab Nandi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Simran Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22862.html">Constraining Black Hole Parameters in Non-Commutative Geometry using Machine Learning</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Maryem Jemri</td>
+<td><a href="http://arxiv.org/abs/2605.22862">2605.22862</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -224,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01529.html">CosmicWeb-21cm array: A New Radio Observation Array Design for 21cm Cosmology</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Jiancheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01529">2603.01529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12784.html">A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Yufeng Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12784">2507.12784</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25768.html">Rethinking Expressibility-Trainability Trade-off in Hybrid Quantum Neural Networks</a></div></td>
+<td>Muhammad Kashif et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25768">2605.25768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25066.html">QML-PipeGuard: Drift-Aware Behavioral Fingerprinting for Quantum Machine Learning Pipeline Integrity</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
+<td>Esra Yeniaras</td>
+<td><a href="http://arxiv.org/abs/2605.25066">2605.25066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24324.html">A Matched Spectral Benchmark of Quantum Inspired Feature Maps</a></div></td>
+<td>Toheeb Ogunade et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24324">2605.24324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24252.html">Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale</a></div></td>
+<td>Mackenson Polché et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24252">2605.24252</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22097.html">Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices</a></div></td>
@@ -254,17 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23931.html">Do Quantum Transformers Help? A Systematic VQC Architecture Comparison on Tabular Benchmarks</a></div></td>
 <td>Chi-Sheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23931">2604.23931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11367.html">Maritime object classification with SAR imagery using quantum kernel methods</a></div></td>
-<td>John Tanner et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11367">2512.11367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23743.html">Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System</a></div><div class="paper-tags"><a href="time-series-prediction-30d.html">time-series-prediction</a></div></td>
-<td>Tushar Pandey</td>
-<td><a href="http://arxiv.org/abs/2604.23743">2604.23743</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">372 papers</span>
+  <span class="paper-count">377 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24041.html">Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation</a></div></td>
+<td>Xiaotian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24041">2605.24041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26732.html">APEX: Amplitude Anchors and Phase Priors for Target-Scarce Higher-Frequency Wave Prediction</a></div></td>
+<td>Yifan Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26732">2605.26732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25413.html">Autoregression-Free Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Jiaquan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25413">2605.25413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25786.html">NPSolver: Neural Poisson Solver with Iterative Physics Supervision</a></div></td>
+<td>Bocheng Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25786">2605.25786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24651.html">WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains</a></div></td>
+<td>Bokai Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24651">2605.24651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23282.html">Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring</a></div></td>
+<td>Shaoqing Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23282">2605.23282</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -2240,11 +2276,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13280.html">Efficient Training of Deep Neural Operator Networks via Randomized Sampling</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Sharmila Karumuri et al.</td>
 <td><a href="http://arxiv.org/abs/2409.13280">2409.13280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08740.html">Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Abdolmehdi Behroozi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08740">2505.08740</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26059.html">Accelerating Bayesian inverse design in computational fluid dynamics using neural operators</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Bipin Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26059">2605.26059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24860.html">DBPnet: Damper Characteristics-Based Bayesian Physics-Informed Neural Network for Wheel Load Estimation</a></div></td>
+<td>Tianyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24860">2605.24860</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21901.html">Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations</a></div></td>
 <td>Jonathan Reasoner et al.</td>
@@ -260,17 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24526.html">Tests of scalar polarizations with multi-messenger events</a></div></td>
 <td>Sk Md Adil Imam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24526">2604.24526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23527.html">Using Statistical Mechanics to Improve Real-World Bayesian Inference: A New Method Combining Tempered Posteriors and Wang-Landau Sampling</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Alfred C. K. Farris</td>
-<td><a href="http://arxiv.org/abs/2604.23527">2604.23527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23821.html">Accelerating Quantum Materials Characterization: Hybrid Active Learning for Autonomous Spin Wave Spectroscopy</a></div></td>
-<td>William Ratcliff</td>
-<td><a href="http://arxiv.org/abs/2604.23821">2604.23821</a></td>
 </tr>
 </tbody></table>

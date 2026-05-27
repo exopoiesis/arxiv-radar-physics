@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,11 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09584.html">Agentic Exploration of PDE Spaces using Latent Foundation Models for Parameterized Simulations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Abhijeet Vishwasrao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09584">2604.09584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13769.html">OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery</a></div></td>
-<td>Qi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13769">2602.13769</a></td>
 </tr>
 </tbody></table>

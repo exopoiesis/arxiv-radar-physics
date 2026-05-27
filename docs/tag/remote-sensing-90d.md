@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24106.html">Overcoming &quot;Physics Shock&quot; in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24106">2605.24106</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Jiangwei Mo et al.</td>
@@ -1052,11 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23141.html">No Labels, No Look-Ahead: Unsupervised Online Video Stabilization with Classical Priors</a></div></td>
 <td>Tao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23141">2602.23141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21513.html">Deep Unfolding Real-Time Super-Resolution Using Subpixel-Shift Twin Image and Convex Self-Similarity Prior</a></div></td>
-<td>Chia-Hsiang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21513">2602.21513</a></td>
 </tr>
 </tbody></table>

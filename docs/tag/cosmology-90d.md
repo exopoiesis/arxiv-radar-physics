@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Gourab Nandi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Gustavo Yepes et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22537.html">LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Shouwei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22537">2602.22537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20483.html">Cosmology with galaxy clusters using machine learning. Application to eROSITA Data</a></div></td>
-<td>Fucheng Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20483">2602.20483</a></td>
 </tr>
 </tbody></table>

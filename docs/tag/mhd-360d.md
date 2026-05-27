@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23121.html">NIMROD-to-IMAS workflow for extended-magnetohydrodynamic data with reusable datasets and implications for IMAS schema development</a></div></td>
+<td>Alexei Y. Pankin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23121">2605.23121</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>

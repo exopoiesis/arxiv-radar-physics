@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26059.html">Accelerating Bayesian inverse design in computational fluid dynamics using neural operators</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Bipin Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26059">2605.26059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24860.html">DBPnet: Damper Characteristics-Based Bayesian Physics-Informed Neural Network for Wheel Load Estimation</a></div></td>
+<td>Tianyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24860">2605.24860</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21901.html">Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations</a></div></td>
@@ -812,29 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23039.html">Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues</a></div></td>
 <td>Jakob Kramp et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23039">2602.23039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22358.html">Multiproposal Elliptical Slice Sampling</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Guillermina Senn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22358">2602.22358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22383.html">Impact of Geometric Inflation on Nucleon Size Sensitivity in Relativistic Heavy-Ion Collisions</a></div></td>
-<td>Jian-fei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22383">2602.22383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22384.html">3D-Herschel: Constraining Dust Emission with Panchromatic Modeling of 3D-HST Galaxies</a></div></td>
-<td>Seamus McNulty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22384">2602.22384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22428.html">Calibrated Test-Time Guidance for Bayesian Inference</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Daniel Geyfman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22428">2602.22428</a></td>
 </tr>
 </tbody></table>

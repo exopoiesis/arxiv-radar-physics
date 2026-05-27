@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="dark-energy-7d.html">dark-energy</a> · <a href="dark-matter-7d.html">dark-matter</a></div></td>
+<td>Gourab Nandi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Gustavo Yepes et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21310.html">Contrastive self-supervised convolutional autoencoder for core-collapse supernova gravitational-wave detection</a></div></td>
 <td>Tian-Yang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21310">2605.21310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20386.html">Music of Changing Lines: Toward a Culturally Situated Approach to the I-Ching</a></div></td>
-<td>Ling Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20386">2605.20386</a></td>
 </tr>
 </tbody></table>

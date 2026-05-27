@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">543 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25768.html">Rethinking Expressibility-Trainability Trade-off in Hybrid Quantum Neural Networks</a></div></td>
+<td>Muhammad Kashif et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25768">2605.25768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25066.html">QML-PipeGuard: Drift-Aware Behavioral Fingerprinting for Quantum Machine Learning Pipeline Integrity</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Esra Yeniaras</td>
+<td><a href="http://arxiv.org/abs/2605.25066">2605.25066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24324.html">A Matched Spectral Benchmark of Quantum Inspired Feature Maps</a></div></td>
+<td>Toheeb Ogunade et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24324">2605.24324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24252.html">Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale</a></div></td>
+<td>Mackenson Polché et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24252">2605.24252</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22097.html">Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices</a></div></td>
@@ -3266,11 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02105.html">Learning Circuits with Infinite Tensor Networks</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Joe Gibbs et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02105">2506.02105</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14795.html">Comparative Analysis of QNN Architectures for Wind Power Prediction: Feature Maps and Ansatz Configurations</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Batuhan Hangun et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14795">2506.14795</a></td>
 </tr>
 </tbody></table>

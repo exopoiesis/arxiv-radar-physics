@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25135.html">ASTRO: Adaptive Spatio-Temporal Reinforcement Optimization for GNN Powered Anomly Detection in Cyber Physical Systems</a></div></td>
+<td>Rai Ali Yar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25135">2605.25135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23850.html">Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Ali Zahir et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23850">2605.23850</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22527.html">Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection</a></div></td>
@@ -98,6 +110,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15030.html">Anomaly Detection from a Tensor Train Perspective</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>Alejandro Mata Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15030">2409.15030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23946.html">AI-Driven Controlled Environment Agriculture as Resilient Infrastructure for U.S. Fresh-Produce Supply Chains</a></div></td>
+<td>Andrii Vakhnovskyi</td>
+<td><a href="http://arxiv.org/abs/2605.23946">2605.23946</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-03</td>
@@ -506,17 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02686.html">ClimaOoD: Improving Anomaly Segmentation via Physically Realistic Synthetic Data</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Yuxing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02686">2512.02686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12784.html">A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Yufeng Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12784">2507.12784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21438.html">Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing</a></div></td>
-<td>Rajiv Kailasanathan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21438">2508.21438</a></td>
 </tr>
 </tbody></table>

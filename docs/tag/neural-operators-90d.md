@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24041.html">Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation</a></div></td>
+<td>Xiaotian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24041">2605.24041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26732.html">APEX: Amplitude Anchors and Phase Priors for Target-Scarce Higher-Frequency Wave Prediction</a></div></td>
+<td>Yifan Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26732">2605.26732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25413.html">Autoregression-Free Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Jiaquan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25413">2605.25413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25786.html">NPSolver: Neural Poisson Solver with Iterative Physics Supervision</a></div></td>
+<td>Bocheng Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25786">2605.25786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24651.html">WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains</a></div></td>
+<td>Bokai Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24651">2605.24651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23282.html">Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring</a></div></td>
+<td>Shaoqing Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23282">2605.23282</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -800,29 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23528.html">Neural Operators Can Discover Functional Clusters</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Yicen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23528">2602.23528</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03178.html">Active operator learning with predictive uncertainty quantification for partial differential equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Nick Winovich et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03178">2503.03178</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16071.html">MNO: Multiscale Neural Operator for 3D Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Qinxuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16071">2510.16071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21551.html">From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators</a></div></td>
-<td>Zhihao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21551">2602.21551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22059.html">NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training</a></div></td>
-<td>Dengdi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22059">2602.22059</a></td>
 </tr>
 </tbody></table>

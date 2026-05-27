@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25115.html">Courant: a State-Adaptive Perceiver-Based Neural Surrogate with Local Support and Interpretable Field Decomposition</a></div></td>
+<td>Anuj Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25115">2605.25115</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22498.html">The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning</a></div></td>
 <td>Lucas Sheneman</td>
@@ -392,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22537.html">LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Shouwei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22537">2602.22537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21701.html">Learning Complex Physical Regimes via Coverage-oriented Uncertainty Quantification: An application to the Critical Heat Flux</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Michele Cazzola et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21701">2602.21701</a></td>
 </tr>
 </tbody></table>

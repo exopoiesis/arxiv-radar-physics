@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">242 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25353.html">PDEInvBench: A Comprehensive Dataset and Design Space Exploration of Neural Networks for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Divyam Goel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25353">2605.25353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26631.html">Data-driven sparse identification of governing PDEs via knockoff filters and multi-criteria trade-offs</a></div></td>
+<td>Pongpisit Thanasutives et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26631">2605.26631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26745.html">Predictive Moving Sample Method for Physics-Informed Neural Solvers of Time-Dependent PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Beining Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26745">2605.26745</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27133.html">Deep-layer limit and stability analysis of the basic forward-backward-splitting induced network (II): learning problems</a></div></td>
+<td>Xuan Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27133">2605.27133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27308.html">PINNsur: Physics-Informed Neural Networks for PDEs on Curved Surfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Pranav Jain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27308">2605.27308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25413.html">Autoregression-Free Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Jiaquan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25413">2605.25413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25562.html">Consistent CutPINNs for Elliptic PDEs on Curved Level-Set Domains</a></div></td>
+<td>Maneesh Kumar Singh</td>
+<td><a href="http://arxiv.org/abs/2605.25562">2605.25562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25867.html">CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Pietro Zanotta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25867">2605.25867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26341.html">A PAC-Bayesian View of Generalisation for Physics-Informed Machine Learning</a></div></td>
+<td>Thien V. Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26341">2605.26341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Shan Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25001.html">Mitigating Gradient Pathology in PINNs through Aligned Constraint</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yichen Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25001">2605.25001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25057.html">Random Neural Network Expressivity for Non-Linear Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>Muhammed Ali Mehmood et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25057">2605.25057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24278.html">Fourier Feature Pyramids for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Brandon Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24278">2605.24278</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
@@ -1436,35 +1514,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09584.html">Agentic Exploration of PDE Spaces using Latent Foundation Models for Parameterized Simulations</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Abhijeet Vishwasrao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09584">2604.09584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03178.html">Active operator learning with predictive uncertainty quantification for partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Nick Winovich et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03178">2503.03178</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16071.html">MNO: Multiscale Neural Operator for 3D Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Qinxuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16071">2510.16071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.25017.html">Convergence of the generalization error for deep gradient flow methods for PDEs</a></div></td>
-<td>Chenguang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.25017">2512.25017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21590.html">Physics Informed Neural Network using Finite Difference Method</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Kart Leong Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21590">2602.21590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22188.html">Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Nathalie C. Pinheiro et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22188">2602.22188</a></td>
 </tr>
 </tbody></table>

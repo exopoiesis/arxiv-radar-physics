@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04457.html">Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography</a></div></td>
 <td>Xinmin Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04457">2603.04457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01503.html">Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs</a></div></td>
-<td>Lorenzo Colantonio et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01503">2408.01503</a></td>
 </tr>
 </tbody></table>

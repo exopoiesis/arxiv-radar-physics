@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,17 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00239.html">Variance of gravitational-wave populations</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
 <td>Alessia Corelli et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00239">2603.00239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22588.html">Modeling Covariate Feedback, Reversal, and Latent Traits in Longitudinal Data: A Joint Hierarchical Framework</a></div></td>
-<td>Niloofar Ramezani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22588">2602.22588</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23039.html">Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues</a></div></td>
-<td>Jakob Kramp et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23039">2602.23039</a></td>
 </tr>
 </tbody></table>

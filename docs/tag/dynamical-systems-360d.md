@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">720 papers</span>
+  <span class="paper-count">719 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4328,11 +4328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02241.html">Second-order AAA algorithms for structured data-driven modeling</a></div></td>
 <td>Michael S. Ackermann et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02241">2506.02241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22223.html">Bayesian Learning in Structural Dynamics: A Comprehensive Review and Emerging Trends</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Wang-Ji Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22223">2505.22223</a></td>
 </tr>
 </tbody></table>

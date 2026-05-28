@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,35 +1484,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11012.html">On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Utku Erdogan et al.</td>
 <td><a href="http://arxiv.org/abs/2512.11012">2512.11012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05993.html">SODAs: Sparse Optimization for the Discovery of Differential and Algebraic Equations</a></div></td>
-<td>Manu Jayadharan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05993">2503.05993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01101.html">Fast and Flexible Probabilistic Forecasting of Dynamical Systems using Flow Matching and Physical Perturbation</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Siddharth Rout et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01101">2508.01101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10195.html">Versor: A Geometric Sequence Architecture</a></div></td>
-<td>Truong Minh Huy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10195">2602.10195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23050.html">Latent Matters: Learning Deep State-Space Models</a></div></td>
-<td>Alexej Klushyn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23050">2602.23050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23181.html">From synthetic turbulence to true solutions: A deep diffusion model for discovering periodic orbits in the Navier-Stokes equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
-<td>Jeremy P Parker et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23181">2602.23181</a></td>
 </tr>
 </tbody></table>

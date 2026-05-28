@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,17 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24216.html">Mechanism-Resolved PFM of Ferroionic and Ferroelectric Responses in Thickness-Gradient Hf0.5Zr0.5O2 Libraries</a></div></td>
 <td>Yu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.24216">2602.24216</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05339.html">Machine Learning Interatomic Potentials Enable Molecular Dynamics Simulations of Doped MoS2</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abrar Faiyad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05339">2510.05339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22036.html">Discovering new photovoltaics using optimal transport theory</a></div></td>
-<td>Matthew A. H. Walker et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22036">2602.22036</a></td>
 </tr>
 </tbody></table>

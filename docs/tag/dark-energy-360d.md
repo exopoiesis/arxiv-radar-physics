@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,11 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02235.html">A Bayesian PINN Framework for Barrow-Tsallis Holographic Dark Energy with Neutrinos: Toward a Resolution of the Hubble Tension</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Muhammad Yarahmadi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02235">2506.02235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08524.html">Deep inference of simulated strong lenses in ground-based surveys</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Jason Poh et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08524">2501.08524</a></td>
 </tr>
 </tbody></table>

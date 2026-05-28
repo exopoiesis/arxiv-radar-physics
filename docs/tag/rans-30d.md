@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rans — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <strong>30d</strong> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27680.html">To stall-cell or not to stall-cell: Variational data assimilation of 3D mean flow past a stalled airfoil</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
 <td>Uttam Cadambi Padmanaban et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27680">2604.27680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18491.html">Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Nicholas Thumiger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18491">2604.18491</a></td>
 </tr>
 </tbody></table>

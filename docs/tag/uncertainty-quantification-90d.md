@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00290.html">Scalable Gaussian process modeling of parametrized spatio-temporal fields</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Srinath Dama et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00290">2603.00290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23188.html">Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>Ismaël Zighed et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23188">2602.23188</a></td>
 </tr>
 </tbody></table>

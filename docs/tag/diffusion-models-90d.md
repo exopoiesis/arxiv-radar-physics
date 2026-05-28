@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,23 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13284.html">Do Diffusion Models Dream of Electric Planes? Discrete and Continuous Simulation-Based Inference for Aircraft Design</a></div></td>
 <td>Aurelien Ghiglino et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13284">2603.13284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09293.html">StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning</a></div></td>
-<td>Giuseppe Vecchio</td>
-<td><a href="http://arxiv.org/abs/2406.09293">2406.09293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01101.html">Fast and Flexible Probabilistic Forecasting of Dynamical Systems using Flow Matching and Physical Perturbation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Siddharth Rout et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01101">2508.01101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02686.html">ClimaOoD: Improving Anomaly Segmentation via Physically Realistic Synthetic Data</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Yuxing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02686">2512.02686</a></td>
 </tr>
 </tbody></table>

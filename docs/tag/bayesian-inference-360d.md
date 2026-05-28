@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,11 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02235.html">A Bayesian PINN Framework for Barrow-Tsallis Holographic Dark Energy with Neutrinos: Toward a Resolution of the Hubble Tension</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Muhammad Yarahmadi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02235">2506.02235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22223.html">Bayesian Learning in Structural Dynamics: A Comprehensive Review and Emerging Trends</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Wang-Ji Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22223">2505.22223</a></td>
 </tr>
 </tbody></table>

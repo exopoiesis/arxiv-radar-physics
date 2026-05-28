@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">613 papers</span>
+  <span class="paper-count">612 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3686,11 +3686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07437.html">Unifying and extending Diffusion Models through PDEs for solving Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Agnimitra Dasgupta et al.</td>
 <td><a href="http://arxiv.org/abs/2504.07437">2504.07437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01121.html">Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation</a></div></td>
-<td>Jacob K. Christopher et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01121">2506.01121</a></td>
 </tr>
 </tbody></table>

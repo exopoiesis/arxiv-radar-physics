@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,11 +608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12130.html">Biases in stellar masses of JWST high-z quasar host galaxies caused by quasar subtraction</a></div></td>
 <td>Sabrina Berger et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12130">2506.12130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00757.html">RESOLVE: Rare Event Surrogate Likelihood for Gravitational Wave Paleontology Parameter Estimation</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Ann-Kathrin Schuetz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00757">2506.00757</a></td>
 </tr>
 </tbody></table>

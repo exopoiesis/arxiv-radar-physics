@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27431.html">A Study on the Performance of Distributed Training of Data-driven CFD Simulations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Sergio Iserte et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27431">2604.27431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18491.html">Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="rans-30d.html">rans</a></div></td>
-<td>Nicholas Thumiger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18491">2604.18491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24225.html">Multilevel radial basis function surrogates for noise-robust DSMC-CFD coupling</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Arshad Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24225">2604.24225</a></td>
 </tr>
 </tbody></table>

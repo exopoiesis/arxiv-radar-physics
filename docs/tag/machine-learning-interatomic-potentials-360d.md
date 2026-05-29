@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,17 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div></td>
 <td>Thang D. Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01860.html">Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Bowen Han et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01860">2506.01860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01868.html">NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials</a></div></td>
-<td>Chengbing Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01868">2506.01868</a></td>
 </tr>
 </tbody></table>

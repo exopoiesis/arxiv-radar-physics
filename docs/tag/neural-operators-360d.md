@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">376 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,11 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16642.html">FlowDAS: A Stochastic Interpolant-based Framework for Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="diffusion-models-360d.html">diffusion-models</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Siyi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16642">2501.16642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01598.html">PMNO: A novel physics guided multi-step neural operator predictor for partial differential equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Jin Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01598">2506.01598</a></td>
 </tr>
 </tbody></table>

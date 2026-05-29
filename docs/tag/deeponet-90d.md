@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,23 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02261.html">Quantum AS-DeepOnet: Quantum Attentive Stacked DeepONet for Solving 2D Evolution Equations</a></div></td>
 <td>Hongquan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02261">2603.02261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05190.html">Physics-Informed Time-Integrated DeepONet: Temporal Tangent Space Operator Learning for High-Accuracy Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Luis Mandl et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05190">2508.05190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24147.html">A neural operator framework for solving inverse scattering problems</a></div></td>
-<td>Victor Chenu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24147">2602.24147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24228.html">BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Maksym Veremchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24228">2602.24228</a></td>
 </tr>
 </tbody></table>

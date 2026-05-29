@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,29 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27052.html">Man, Machine, and Mathematics</a></div></td>
 <td>Akshunna S. Dogra</td>
 <td><a href="http://arxiv.org/abs/2604.27052">2604.27052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21101.html">A Hybridizable Neural Time Integrator for Stable Autoregressive Forecasting</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Brooks Kinch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21101">2604.21101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25572.html">Dictionary learning for Kernel EDMD</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Erik Lien Bolager et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25572">2604.25572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25655.html">Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Yuhe Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25655">2604.25655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25904.html">Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics</a></div></td>
-<td>Andre Herz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25904">2604.25904</a></td>
 </tr>
 </tbody></table>

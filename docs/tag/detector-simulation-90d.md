@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>detector-simulation — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <strong>90d</strong> <a href="detector-simulation-360d.html">360d</a> <a href="detector-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21454.html">Testing a 95 GeV Scalar at the CEPC with Machine Learning</a></div></td>
 <td>Yabo Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21454">2506.21454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18172.html">MEDIC: a network for monitoring data quality in collider experiments</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Juvenal Bassa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18172">2511.18172</a></td>
 </tr>
 </tbody></table>

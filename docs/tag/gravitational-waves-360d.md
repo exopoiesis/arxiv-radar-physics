@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03454.html">Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Qian Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03454">2412.03454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02087.html">Optimizing NN reduction in an atom interferometer network for GW detection</a></div></td>
-<td>Q. Cojean Palassoé et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02087">2506.02087</a></td>
 </tr>
 </tbody></table>

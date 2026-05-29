@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,23 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19305.html">LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Pengpeng Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2411.19305">2411.19305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15093.html">Forecasting Local Ionospheric Parameters Using Transformers</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Daniel J. Alford-Lago et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15093">2502.15093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11012.html">On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Utku Erdogan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11012">2512.11012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24228.html">BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
-<td>Maksym Veremchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24228">2602.24228</a></td>
 </tr>
 </tbody></table>

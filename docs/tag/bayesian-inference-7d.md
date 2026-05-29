@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,23 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24860.html">DBPnet: Damper Characteristics-Based Bayesian Physics-Informed Neural Network for Wheel Load Estimation</a></div></td>
 <td>Tianyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24860">2605.24860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21901.html">Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations</a></div></td>
-<td>Jonathan Reasoner et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21901">2605.21901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a> · <a href="ligo-7d.html">ligo</a></div></td>
-<td>Lalit Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21955">2605.21955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a></div></td>
-<td>Simran Arora et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
 </tr>
 </tbody></table>

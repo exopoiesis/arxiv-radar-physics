@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1568,17 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08226.html">Mondrian: Transformer Operators via Domain Decomposition</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Arthur Feeney et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08226">2506.08226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18964.html">Neural Operators for Predictor Feedback Control of Nonlinear Delay Systems</a></div></td>
-<td>Luke Bhan et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18964">2411.18964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01598.html">PMNO: A novel physics guided multi-step neural operator predictor for partial differential equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Jin Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01598">2506.01598</a></td>
 </tr>
 </tbody></table>

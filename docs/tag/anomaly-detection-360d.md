@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,11 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03747.html">Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
 <td>CMS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2412.03747">2412.03747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10918.html">INVARLLM: LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection</a></div></td>
-<td>Danial Abshari et al.</td>
-<td><a href="http://arxiv.org/abs/2411.10918">2411.10918</a></td>
 </tr>
 </tbody></table>

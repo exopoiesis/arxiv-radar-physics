@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,23 +860,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02799.html">Understanding the Resource Cost of Fully Homomorphic Encryption in Quantum Federated Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Lukas Böhm et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02799">2603.02799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23578.html">Hybrid Quantum Temporal Convolutional Networks</a></div></td>
-<td>Junghoon Justin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23578">2602.23578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24220.html">Comparing Classical and Quantum Variational Classifiers on the XOR Problem</a></div></td>
-<td>Miras Seilkhan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24220">2602.24220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00233.html">Scaling Quantum Machine Learning without Tricks: High-Resolution and Diverse Image Generation</a></div></td>
-<td>Jonas Jäger et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00233">2603.00233</a></td>
 </tr>
 </tbody></table>

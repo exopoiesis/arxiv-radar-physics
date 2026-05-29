@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1364,17 +1364,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03390.html">The Roman View of Strong Gravitational Lenses</a></div><div class="paper-tags"><a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Bryce Wedig et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03390">2506.03390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21368.html">The Jiutian simulations for the CSST extra-galactic surveys</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Jiaxin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21368">2503.21368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00763.html">JFlow: Model-Independent Spherical Jeans Analysis using Equivariant Continuous Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Sung Hak Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00763">2505.00763</a></td>
 </tr>
 </tbody></table>

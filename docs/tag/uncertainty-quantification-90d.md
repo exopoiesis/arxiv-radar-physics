@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,41 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04766.html">DAWN-FM: Data-Aware and Noise-Informed Flow Matching for Solving Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Shadab Ahamed et al.</td>
 <td><a href="http://arxiv.org/abs/2412.04766">2412.04766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15093.html">Forecasting Local Ionospheric Parameters Using Transformers</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Daniel J. Alford-Lago et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15093">2502.15093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19929.html">Geometric Autoencoder Priors for Bayesian Inversion: Learn First Observe Later</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
-<td>Arnaud Vadeboncoeur et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19929">2509.19929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16179.html">A general spectral solver for the axisymmetric Jeans equations: fast dynamical modelling of galaxies with arbitrary anisotropy</a></div></td>
-<td>Michele Cappellari</td>
-<td><a href="http://arxiv.org/abs/2601.16179">2601.16179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23561.html">VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Somjit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23561">2602.23561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23602.html">Moment Matters: Mean and Variance Causal Graph Discovery from Heteroscedastic Observational Data</a></div></td>
-<td>Yoichi Chikahara</td>
-<td><a href="http://arxiv.org/abs/2602.23602">2602.23602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00290.html">Scalable Gaussian process modeling of parametrized spatio-temporal fields</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Srinath Dama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00290">2603.00290</a></td>
 </tr>
 </tbody></table>

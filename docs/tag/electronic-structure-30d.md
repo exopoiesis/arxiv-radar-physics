@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17219.html">Vibrational infrared and Raman spectra of the methanol molecule with equivariant neural-network property surfaces</a></div><div class="paper-tags"><a href="equivariant-neural-networks-30d.html">equivariant-neural-networks</a></div></td>
 <td>Ayaki Sunaga et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17219">2602.17219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10992.html">A Tutorial Review of Bayesian Optimization with Gaussian Processes to Accelerate Stationary Point Searches</a></div></td>
-<td>Rohit Goswami</td>
-<td><a href="http://arxiv.org/abs/2603.10992">2603.10992</a></td>
 </tr>
 </tbody></table>

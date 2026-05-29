@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01370.html">Everything Every Band All at Once II: The Relationship Between Optical Size and Stellar Mass Over Eight Billion Years of Cosmic History</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Tim B. Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01370">2603.01370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11984.html">Data-driven core collapse supernova multilateration with first neutrino events</a></div></td>
-<td>Farrukh Azfar et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11984">2410.11984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00254.html">Machine Learning insights on the Z3 3HDM with Dark Matter</a></div></td>
-<td>Fernando Abreu de Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00254">2603.00254</a></td>
 </tr>
 </tbody></table>

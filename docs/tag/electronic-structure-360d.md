@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,17 +686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17015.html">Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Dominic Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17015">2506.17015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01470.html">Persistence of charge ordering instability to Coulomb engineering in the excitonic insulator candidate TiSe$_2$</a></div></td>
-<td>Sebastian Buchberger et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01470">2506.01470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01860.html">Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Bowen Han et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01860">2506.01860</a></td>
 </tr>
 </tbody></table>

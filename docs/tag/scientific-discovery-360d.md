@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">497 papers</span>
+  <span class="paper-count">495 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2984,17 +2984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04553.html">Unsupervised Machine Learning for Scientific Discovery: Workflow and Best Practices</a></div></td>
 <td>Andersen Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04553">2506.04553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01442.html">Agentic Episodic Control</a></div></td>
-<td>Xidong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01442">2506.01442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02160.html">A Dynamic Framework for Semantic Grouping of Common Data Elements (CDE) Using Embeddings and Clustering</a></div></td>
-<td>Madan Krishnamurthy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02160">2506.02160</a></td>
 </tr>
 </tbody></table>

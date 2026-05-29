@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">248 papers</span>
+  <span class="paper-count">244 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1478,29 +1478,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00397.html">TENG-BC: Unified Time-Evolving Natural Gradient for Neural PDE Solvers with General Boundary Conditions</a></div></td>
 <td>Hongjie Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00397">2603.00397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00510.html">Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Jianing Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00510">2504.00510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16030.html">Locally Subspace-Informed Neural Operators for Efficient Multiscale PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Alexander Rudikov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16030">2505.16030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05190.html">Physics-Informed Time-Integrated DeepONet: Temporal Tangent Space Operator Learning for High-Accuracy Inference</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Luis Mandl et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05190">2508.05190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00360.html">KROM: Kernelized Reduced Order Modeling</a></div></td>
-<td>Aras Bacho et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00360">2603.00360</a></td>
 </tr>
 </tbody></table>

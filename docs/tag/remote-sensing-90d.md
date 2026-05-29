@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,35 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01174.html">VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification</a></div></td>
 <td>Abdellah Zakaria Sellam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01174">2603.01174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01941.html">Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Andrea Dosi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01941">2508.01941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23678.html">Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand</a></div></td>
-<td>Dingqi Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23678">2602.23678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23689.html">Decoupling Spatio-Temporal Dynamics: Microvibration Imaging Using Coherent Detection Ghost Imaging Lidar</a></div></td>
-<td>Shuang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23689">2602.23689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23772.html">Tilewise Domain-Separated Selective Encryption for Remote Sensing Imagery under Chosen-Plaintext Attacks</a></div></td>
-<td>Jilei Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23772">2602.23772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13273.html">Spatially Aware Deep Learning for Microclimate Prediction from High-Resolution Geospatial Imagery</a></div></td>
-<td>Idan Sulami et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13273">2603.13273</a></td>
 </tr>
 </tbody></table>

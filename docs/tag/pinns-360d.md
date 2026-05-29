@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3752,11 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02957.html">SPINN: Advancing Cosmological Simulations of Fuzzy Dark Matter with Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Ashutosh Kumar Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02957">2506.02957</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18311.html">Deterministic and statistical calibration of constitutive models from full-field data with parametric physics-informed neural networks</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>David Anton et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18311">2405.18311</a></td>
 </tr>
 </tbody></table>

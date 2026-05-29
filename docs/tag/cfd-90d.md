@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,11 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06227.html">Automated Data Enrichment using Confidence-Aware Fine-Grained Debate among Open-Source LLMs for Mental Health and Online Safety</a></div></td>
 <td>Junyu Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06227">2512.06227</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04452.html">A unified foundational framework for knowledge injection and evaluation of Large Language Models in Combustion Science</a></div></td>
-<td>Zonglin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04452">2603.04452</a></td>
 </tr>
 </tbody></table>

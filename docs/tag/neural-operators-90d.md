@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,29 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01064.html">A level-wise training scheme for learning neural multigrid smoothers with application to integral equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Lingfeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01064">2603.01064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00510.html">Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Jianing Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00510">2504.00510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16030.html">Locally Subspace-Informed Neural Operators for Efficient Multiscale PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Alexander Rudikov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16030">2505.16030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01941.html">Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Andrea Dosi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01941">2508.01941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00290.html">Scalable Gaussian process modeling of parametrized spatio-temporal fields</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Srinath Dama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00290">2603.00290</a></td>
 </tr>
 </tbody></table>

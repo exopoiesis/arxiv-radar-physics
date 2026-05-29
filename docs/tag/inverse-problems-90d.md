@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,11 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00393.html">Dual-space posterior sampling for Bayesian inference in constrained inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Ali Siahkoohi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00393">2603.00393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08742.html">Robust Parameter and State Estimation in Multiscale Neuronal Systems Using Physics-Informed Neural Networks</a></div></td>
-<td>Changliang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08742">2603.08742</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,35 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Md Aminur Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13780.html">Foundation Model-Driven Semantic Change Detection in Remote Sensing Imagery</a></div></td>
-<td>Hengtong Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13780">2602.13780</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25319.html">Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Yun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25319">2604.25319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25432.html">SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks</a></div></td>
-<td>Zi-Yang Bo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25432">2604.25432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26051.html">Evaluating the Alignment Between GeoAI Explanations and Domain Knowledge in Satellite-Based Flood Mapping</a></div></td>
-<td>Hyunho Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26051">2604.26051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26133.html">Spatially-constrained clustering of geospatial features for heat vulnerability assessment of favelas in Rio de Janeiro</a></div></td>
-<td>Baptiste Clemence et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26133">2604.26133</a></td>
 </tr>
 </tbody></table>

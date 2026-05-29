@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24278.html">Fourier Feature Pyramids for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Brandon Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24278">2605.24278</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Joseph Nyangon</td>
-<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,29 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26503.html">Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</a></div></td>
 <td>Haosen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26503">2604.26503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12549.html">The Serial Scaling Hypothesis</a></div></td>
-<td>Yuxi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12549">2507.12549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20092.html">How Out-of-Equilibrium Phase Transitions can Seed Pattern Formation in Trained Diffusion Models</a></div></td>
-<td>Luca Ambrogioni</td>
-<td><a href="http://arxiv.org/abs/2603.20092">2603.20092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02415.html">Generative models on phase space</a></div></td>
-<td>Zachary Bogorad et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02415">2604.02415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25319.html">Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Yun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25319">2604.25319</a></td>
 </tr>
 </tbody></table>

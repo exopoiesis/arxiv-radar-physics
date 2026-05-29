@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,29 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Md Aminur Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19461.html">Iterative Quantum Feature Maps</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Nasa Matsumoto et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19461">2506.19461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25613.html">One Coordinate at a Time: Convergence Guarantees for Rotosolve in Variational Quantum Algorithms</a></div></td>
-<td>Sayantan Pramanik et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25613">2604.25613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25631.html">Local tensor-train surrogates for quantum learning models</a></div></td>
-<td>Sreeraj Rajindran Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25631">2604.25631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26110.html">A Comprehensive Analysis of Accuracy and Robustness in Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26110">2604.26110</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,17 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00819.html">A short tour of operator learning theory: Convergence rates, statistical limits, and open questions</a></div></td>
 <td>Simone Brugiapaglia et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00819">2603.00819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00510.html">Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Jianing Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00510">2504.00510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00290.html">Scalable Gaussian process modeling of parametrized spatio-temporal fields</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Srinath Dama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00290">2603.00290</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">719 papers</span>
+  <span class="paper-count">718 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4322,11 +4322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23655.html">Keyed Chaotic Dynamics for Privacy-Preserving Neural Inference</a></div></td>
 <td>Peter David Fagan</td>
 <td><a href="http://arxiv.org/abs/2505.23655">2505.23655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02241.html">Second-order AAA algorithms for structured data-driven modeling</a></div></td>
-<td>Michael S. Ackermann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02241">2506.02241</a></td>
 </tr>
 </tbody></table>

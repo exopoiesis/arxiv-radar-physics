@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">245 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,23 +1466,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00304.html">Barriers for Learning in an Evolving World: Mathematical Understanding of Loss of Plasticity</a></div></td>
 <td>Amir Joudaki et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00304">2510.00304</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15910.html">The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective</a></div></td>
-<td>Michael Muehlebach et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15910">2501.15910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09679.html">High-dimensional dynamical systems: co-existence of attractors, phase transitions, maximal Lyapunov exponent and response to periodic drive</a></div></td>
-<td>Samantha J. Fournier et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09679">2511.09679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11012.html">On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Utku Erdogan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11012">2512.11012</a></td>
 </tr>
 </tbody></table>

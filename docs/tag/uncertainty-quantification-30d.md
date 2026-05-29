@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,23 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26673.html">Laplace Approximation for Bayesian Tensor Network Kernel Machines</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Albert Saiapin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26673">2604.26673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25172.html">Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska</a></div></td>
-<td>Douglas Brinkerhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25172">2604.25172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25416.html">Biased Dreams: Limitations to Epistemic Uncertainty Quantification in Latent Space Models</a></div></td>
-<td>Julia Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25416">2604.25416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25489.html">Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information</a></div></td>
-<td>Ritz Ann Aguilar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25489">2604.25489</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cfd — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24150.html">Divergence-aware adaptive prediction framework for accelerating CFD simulations of unsteady flows</a></div></td>
 <td>Xiangrui Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24150">2605.24150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22009.html">SDFStent: Real-time interactive virtual stenting via SDF deformation fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Bohan J. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22009">2605.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23037.html">Open Multimodal Datasets and Open-Source Software for Data-Driven Modeling of Multiphase Transport and Thermal Systems</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Christy Dunlap et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23037">2605.23037</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27500.html">Constraining Gravitational Wave Memory with Hierarchical Inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Keefe Mitman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27500">2605.27500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25980.html">Reversible-jump MCMC reveals binary black hole subpopulations with distinct redshift evolution</a></div></td>
+<td>April Qiu Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25980">2605.25980</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
 <td>Lalit Pathak et al.</td>
@@ -44,17 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00391.html">Training a neural network to rapidly identify candidate gravitational-wave events in the lower mass gap</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
 <td>Nayyer Raza et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00391">2605.00391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11842.html">Template-free search for gravitational wave events using coincident anomaly detection</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Daniel Ratner</td>
-<td><a href="http://arxiv.org/abs/2601.11842">2601.11842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26581.html">Normalizing flows for density estimation in multi-detector gravitational-wave searches</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Sam Insley et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26581">2604.26581</a></td>
 </tr>
 </tbody></table>

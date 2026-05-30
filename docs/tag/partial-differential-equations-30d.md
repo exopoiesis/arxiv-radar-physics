@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Maciej Paszyński et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25353.html">PDEInvBench: A Comprehensive Dataset and Design Space Exploration of Neural Networks for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Divyam Goel et al.</td>
@@ -136,6 +142,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="les-30d.html">les</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
+<td>Luca Saverio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18566.html">HJ-Gauss: A Monte-Carlo HJ Reachability Scheme</a></div></td>
 <td>Lekan Molu et al.</td>
@@ -152,6 +164,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Abderrahim Bendahi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28856.html">Inverse scattering for the linear system associated with the coupled Gerdjikov--Ivanov equations</a></div></td>
+<td>Ramazan Ercan</td>
+<td><a href="http://arxiv.org/abs/2605.28856">2605.28856</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-16</td>
@@ -398,23 +416,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27431.html">A Study on the Performance of Distributed Training of Data-driven CFD Simulations</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Sergio Iserte et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27431">2604.27431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23192.html">PGOT: A Physics-Geometry Operator Transformer for Complex PDEs</a></div></td>
-<td>Zhuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23192">2512.23192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26621.html">Large-eddy simulation nets (LESnets) based on physics-informed neural operator for wall-bounded turbulence</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
-<td>Sunan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26621">2604.26621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26999.html">Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Beomchul Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26999">2604.26999</a></td>
 </tr>
 </tbody></table>

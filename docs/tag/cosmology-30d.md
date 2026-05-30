@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30353.html">Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software</a></div></td>
+<td>Nhat-Minh Nguyen</td>
+<td><a href="http://arxiv.org/abs/2605.30353">2605.30353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27087.html">Cosmological Constraints from Bias-Robust Wavelet Scattering Statistics for Stage-IV Galaxy Surveys</a></div></td>
+<td>Zhujun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27087">2605.27087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="dark-energy-30d.html">dark-energy</a> · <a href="dark-matter-30d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23839.html">cloelib: A Flexible Python Library for Computing Cosmological Observables in the Euclid Era</a></div></td>
+<td>Marco Bonici et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23839">2605.23839</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Gustavo Yepes et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21991">2605.21991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23007.html">MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models</a></div></td>
+<td>Yurii Kvasiuk et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23007">2605.23007</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -110,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21432.html">Cosmological analysis of the DESI DR1 Lyman alpha 1D power spectrum</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
 <td>J. Chaves-Montero et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21432">2601.21432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22372.html">Testing $Λ$CDM with ANN-Reconstructed Expansion History from Cosmic Chronometers</a></div></td>
-<td>Yuki Hashimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22372">2604.22372</a></td>
 </tr>
 </tbody></table>

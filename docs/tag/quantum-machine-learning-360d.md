@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">545 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3278,11 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05608.html">Near-term Application Engineering Challenges in Emerging Superconducting Qudit Processors</a></div></td>
 <td>Davide Venturelli et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05608">2506.05608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03272.html">Investigating Quantum Feature Maps in Quantum Support Vector Machines for Lung Cancer Classification</a></div></td>
-<td>My Youssef El Hafidi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03272">2506.03272</a></td>
 </tr>
 </tbody></table>

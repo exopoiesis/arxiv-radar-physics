@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24460.html">Coarse-to-Fine Domain Incremental Learning with Attentive Distillation for Mining Footprint Segmentation in Multispectral Imagery</a></div></td>
+<td>Alif Tri Handoyo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24460">2605.24460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29330.html">EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation</a></div></td>
+<td>Kelsey Doerksen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29330">2605.29330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29856.html">Building and Road Recognition in Dense Urban Informal Settlements: A Dataset and Benchmark</a></div></td>
+<td>Hongyu Long et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29856">2605.29856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28174.html">FLORO: A Multimodal Geospatial Foundation Model for Ecological Remote Sensing Across Sensors and Scales</a></div></td>
+<td>Jorge L. Rodriguez et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28174">2605.28174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28992.html">FRAPPE: Full Input, Residual Output Autoencoding with Projection Pursuit Encoder</a></div></td>
+<td>Dan Jacobellis et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28992">2605.28992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24844.html">Geo-Expert: Towards Expert-Level Geological Reasoning via Parameter-Efficient Fine-Tuning</a></div></td>
+<td>Chenyou Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24844">2605.24844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24639.html">DisDop: Distillation with Domain Priors for Open-Vocabulary Aerial Object Detection</a></div></td>
+<td>Ruihao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24639">2605.24639</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24106.html">Overcoming &quot;Physics Shock&quot; in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
@@ -46,6 +88,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.20090">2605.20090</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24003.html">Remote sensing data imputation using deep learning for multispectral imagery</a></div></td>
+<td>Shuang Liua et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24003">2605.24003</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
 <td>Zhi Li et al.</td>
@@ -62,6 +110,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17587.html">Large-Scale Quantum Kernels for Hyperspectral Data Classification</a></div></td>
 <td>A. Delilbasic et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17587">2605.17587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28851.html">Towards a Foundation Model for the Martian Atmosphere</a></div><div class="paper-tags"><a href="atmospheric-physics-30d.html">atmospheric-physics</a> · <a href="data-assimilation-30d.html">data-assimilation</a></div></td>
+<td>Sujit Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28851">2605.28851</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -260,29 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Ali Shibli et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11817.html">QMC-Net: Data-Aware Quantum Representations for Remote Sensing Image Classification</a></div></td>
-<td>Md Aminur Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11817">2604.11817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26478.html">Cross-Domain Transfer of Hyperspectral Foundation Models</a></div></td>
-<td>Nick Theisen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26478">2604.26478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26774.html">MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification</a></div></td>
-<td>Zuzheng Kuang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26774">2604.26774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Md Aminur Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
 </tr>
 </tbody></table>

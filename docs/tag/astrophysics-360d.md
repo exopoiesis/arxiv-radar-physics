@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29876.html">Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Colton R. Feathers et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29876">2605.29876</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
@@ -746,11 +752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Kiyam Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02957.html">SPINN: Advancing Cosmological Simulations of Fuzzy Dark Matter with Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ashutosh Kumar Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02957">2506.02957</a></td>
 </tr>
 </tbody></table>

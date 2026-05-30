@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
+<td>Corentin Guigot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27006.html">Sampling Data with Chains of Forward-Backward Diffusion Steps</a></div></td>
 <td>Hyunmo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27006">2605.27006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25531.html">From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks</a></div></td>
+<td>Nguyen Cong Luong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25531">2605.25531</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24924.html">Dynamic Neural Koopman Distillation for Real-Time Robot Control Using Diffusion Models</a></div></td>
+<td>Lei Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24924">2605.24924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24959.html">Three-Step Conditional Diffusion 3D Reconstruction for Light-Field Microscopy</a></div></td>
+<td>Qihong Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24959">2605.24959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24630.html">DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion</a></div></td>
+<td>Adam Lee</td>
+<td><a href="http://arxiv.org/abs/2605.24630">2605.24630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23878.html">LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</a></div></td>
+<td>Bo Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23878">2605.23878</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -3662,29 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01144.html">FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation</a></div></td>
 <td>Ariel Shaulov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01144">2506.01144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20175.html">Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Hongkai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20175">2409.20175</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03498.html">Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control</a></div></td>
-<td>Xianghui Ze et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03498">2502.03498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17770.html">Probabilistic Net Load Forecasting for High-Penetration RES Grids Utilizing Enhanced Conditional Diffusion Model</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yixiang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17770">2503.17770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07437.html">Unifying and extending Diffusion Models through PDEs for solving Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07437">2504.07437</a></td>
 </tr>
 </tbody></table>

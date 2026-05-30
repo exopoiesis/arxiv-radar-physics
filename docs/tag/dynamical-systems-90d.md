@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
+<td>Luca Sosta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28452">2605.28452</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26619.html">PIDM-DP: Physics-Informed Diffusion with Dormand-Prince Integration for Chaotic System Identification and State Reconstruction across Multiple Dynamical Regimes</a></div></td>
 <td>Shailendra Dabral</td>
 <td><a href="http://arxiv.org/abs/2605.26619">2605.26619</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Hans Reimann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -1454,17 +1466,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01279.html">Energy analysis of 2D electro-thermo-hydrodynamic turbulent convection</a></div></td>
 <td>Owen Hutchinson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01279">2603.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24332.html">Towards Generalizable PDE Dynamics Forecasting via Physics-Guided Invariant Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Siyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24332">2509.24332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00304.html">Barriers for Learning in an Evolving World: Mathematical Understanding of Loss of Plasticity</a></div></td>
-<td>Amir Joudaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00304">2510.00304</a></td>
 </tr>
 </tbody></table>

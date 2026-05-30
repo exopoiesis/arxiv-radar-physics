@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24558.html">Position: AI for Science Should Treat Measurement-to-Dataset Pipelines as Inference Components</a></div></td>
+<td>Ling Zhan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24558">2605.24558</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18587.html">PACE: Geometry-Aware Bridge Transport for Single-Cell Trajectory Inference</a></div></td>
 <td>Chenglei Yu* et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03411.html">DACP: A Scientific Data Access and Collaboration Protocol</a></div></td>
 <td>Zhihong Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03411">2605.03411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26645.html">SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Dianyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26645">2604.26645</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24274.html">A lift for input-convex neural network training</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Ali Siahkoohi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24274">2605.24274</a></td>
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="inverse-problems-7d.html">inverse-problems</a></div></td>
+<td>Yueyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29373">2605.29373</a></td>
 </tr>
 </tbody></table>

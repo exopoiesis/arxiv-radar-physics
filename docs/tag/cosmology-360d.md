@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30353.html">Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software</a></div></td>
+<td>Nhat-Minh Nguyen</td>
+<td><a href="http://arxiv.org/abs/2605.30353">2605.30353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27087.html">Cosmological Constraints from Bias-Robust Wavelet Scattering Statistics for Stage-IV Galaxy Surveys</a></div></td>
+<td>Zhujun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27087">2605.27087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23839.html">cloelib: A Flexible Python Library for Computing Cosmological Observables in the Euclid Era</a></div></td>
+<td>Marco Bonici et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23839">2605.23839</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21991.html">Machine Learning applications to Galaxy Clusters</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Gustavo Yepes et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21991">2605.21991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23007.html">MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models</a></div></td>
+<td>Yurii Kvasiuk et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23007">2605.23007</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -1166,17 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Kiyam Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02638.html">An Alcock-Paczynski Test on Reionization Bubbles for Cosmology</a></div></td>
-<td>Emilie Thélie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02638">2502.02638</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02957.html">SPINN: Advancing Cosmological Simulations of Fuzzy Dark Matter with Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ashutosh Kumar Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02957">2506.02957</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">179 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
+<td>Corentin Guigot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27006.html">Sampling Data with Chains of Forward-Backward Diffusion Steps</a></div></td>
 <td>Hyunmo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27006">2605.27006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25531.html">From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks</a></div></td>
+<td>Nguyen Cong Luong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25531">2605.25531</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24924.html">Dynamic Neural Koopman Distillation for Real-Time Robot Control Using Diffusion Models</a></div></td>
+<td>Lei Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24924">2605.24924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24959.html">Three-Step Conditional Diffusion 3D Reconstruction for Light-Field Microscopy</a></div></td>
+<td>Qihong Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24959">2605.24959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24630.html">DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion</a></div></td>
+<td>Adam Lee</td>
+<td><a href="http://arxiv.org/abs/2605.24630">2605.24630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23878.html">LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</a></div></td>
+<td>Bo Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23878">2605.23878</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -1046,29 +1088,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21659.html">RED-DiffEq: Regularization by denoising diffusion models for solving inverse PDE problems with application to full waveform inversion</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Siming Shan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21659">2509.21659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04766.html">DAWN-FM: Data-Aware and Noise-Informed Flow Matching for Solving Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Shadab Ahamed et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04766">2412.04766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18950.html">Target-Aware Video Diffusion Models</a></div></td>
-<td>Taeksoo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18950">2503.18950</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00445.html">Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design</a></div></td>
-<td>Xingyu Su et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00445">2507.00445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21278.html">Does FLUX Already Know How to Perform Physically Plausible Image Composition?</a></div></td>
-<td>Shilin Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21278">2509.21278</a></td>
 </tr>
 </tbody></table>

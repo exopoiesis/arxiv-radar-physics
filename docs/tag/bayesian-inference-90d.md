@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29193.html">Bayesian reversal of the liquid level trajectory in a draining tank for pollution forensics</a></div></td>
+<td>Kyla D. Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29193">2605.29193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Yueyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29373">2605.29373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29383.html">Bayesian constraints on the transport coefficients $η/s$ and $ζ/s$ from spin polarization in relativisitic heavy-ion collisions</a></div></td>
+<td>Sushant K. Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29383">2605.29383</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Hans Reimann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27500.html">Constraining Gravitational Wave Memory with Hierarchical Inference</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
+<td>Keefe Mitman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27500">2605.27500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27562.html">A Semi-Supervised Variational Autoencoder for Generating Neutron Star Equations of State</a></div></td>
+<td>Tianqi Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27562">2605.27562</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26059.html">Accelerating Bayesian inverse design in computational fluid dynamics using neural operators</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
@@ -26,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24860.html">DBPnet: Damper Characteristics-Based Bayesian Physics-Informed Neural Network for Wheel Load Estimation</a></div></td>
 <td>Tianyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24860">2605.24860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24088.html">Discovery and Analysis of a Type II Supernova Candidate at z = 3.19 from JWST&#x27;s COSMOS-Web Survey</a></div></td>
+<td>Valeria Aparicio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24088">2605.24088</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -74,6 +116,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17608.html">Bayesian-Monte Carlo Schedule Updating for Construction Digital Twins: A Probabilistic Framework for Dynamic Project Forecasting</a></div></td>
 <td>Atena Khoshkonesh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17608">2605.17608</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22848.html">From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems</a></div></td>
+<td>Mojdeh Saadati et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22848">2605.22848</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-14</td>

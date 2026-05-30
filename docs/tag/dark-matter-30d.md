@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29876.html">Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
+<td>Colton R. Feathers et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29876">2605.29876</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26209.html">How galaxies acquire their stellar mass at high redshift: High star formation efficiencies and the relative roles of dust and initial mass function</a></div></td>
+<td>Hao Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26209">2605.26209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26210.html">Field-level multi-tracers simulation-based inference of cosmological parameters from 3D maps</a></div></td>
+<td>Giulio Scelfo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26210">2605.26210</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -98,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10451.html">Low-Energy Nuclear Recoil Calibration of XENONnT with a $^{88}$YBe Photoneutron Source</a></div></td>
 <td>XENON Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2412.10451">2412.10451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15453.html">CosmoGen: A genetic algorithm framework for the exploration of dark energy dynamics</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>D. Castelão et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15453">2509.15453</a></td>
 </tr>
 </tbody></table>

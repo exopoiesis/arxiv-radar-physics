@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,52 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29976.html">Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Renu Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29976">2605.29976</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30042.html">Learning to Choose: An Empowerment-Guided Multi-Agent System with semantic communication for Adaptive Method Selection</a></div></td>
+<td>Geremy Loachamín-Suntaxi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30042">2605.30042</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26806.html">Supervised machine learning of compressible flow past a rotating cylinder</a></div></td>
 <td>Sanjeev Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26806">2605.26806</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="data-assimilation-30d.html">data-assimilation</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Hans Reimann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25873.html">Bayesian perspectives on exponential random graph models</a></div></td>
+<td>Alberto Caimo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25873">2605.25873</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Shan Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25042.html">Unbiased Diffusion Variational Inversion via Principled Posterior Matching</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Weimin Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25042">2605.25042</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25141.html">LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support</a></div></td>
+<td>Pavan Manjunath et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25141">2605.25141</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -46,6 +82,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.21991">2605.21991</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23101.html">Mode-Shape Expansion Using Physics-Constrained Gaussian Process Regression</a></div></td>
+<td>Farid Ghahari</td>
+<td><a href="http://arxiv.org/abs/2605.23101">2605.23101</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Jimeng Shi</td>
@@ -62,6 +104,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-30d.html">seismic-inversion</a></div></td>
 <td>Ipsita Bhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24009.html">Improving Ensemble CAPE Forecasts with a Diffusion Model Incorporating Aerosol Information</a></div></td>
+<td>Zachary James et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24009">2605.24009</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -284,11 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28107.html">Neural Aided Kalman Filtering for UAV State Estimation in Degraded Sensing Environments</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Akhil Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2604.28107">2604.28107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26673.html">Laplace Approximation for Bayesian Tensor Network Kernel Machines</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Albert Saiapin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26673">2604.26673</a></td>
 </tr>
 </tbody></table>

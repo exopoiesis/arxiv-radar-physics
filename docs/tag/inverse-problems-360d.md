@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">415 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Yueyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29373">2605.29373</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25353.html">PDEInvBench: A Comprehensive Dataset and Design Space Exploration of Neural Networks for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -28,6 +34,18 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.27191">2605.27191</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27544.html">Subsystem Structure as an Inferential Resource for Coupled Engineered Systems</a></div></td>
+<td>Esmaeil Ghorbani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27544">2605.27544</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27756.html">Sparse POD Mode Selection and Manifold Dimensionality Reduction with Neural Networks</a></div></td>
+<td>Tomoki Koike et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27756">2605.27756</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26042.html">Alt-CC-PINN: An Alternating Optimization Framework with Implicit Neural Representation for Microwave Inverse Scattering Imaging</a></div></td>
 <td>Shilong Sun</td>
@@ -38,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Shan Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25042.html">Unbiased Diffusion Variational Inversion via Principled Posterior Matching</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Weimin Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25042">2605.25042</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-24</td>
@@ -74,6 +98,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20004.html">A note on several inverse problems with generally random coefficients</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Cătălin I. Cârstea</td>
 <td><a href="http://arxiv.org/abs/2605.20004">2605.20004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="les-360d.html">les</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
+<td>Luca Saverio et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -2486,23 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04375.html">Solving engineering eigenvalue problems with neural networks using the Rayleigh quotient</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Conor Rowan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04375">2506.04375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20175.html">Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Hongkai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20175">2409.20175</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07437.html">Unifying and extending Diffusion Models through PDEs for solving Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07437">2504.07437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02986.html">Implicit Regularization of the Deep Inverse Prior Trained with Inertia</a></div></td>
-<td>Nathan Buskulic et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02986">2506.02986</a></td>
 </tr>
 </tbody></table>

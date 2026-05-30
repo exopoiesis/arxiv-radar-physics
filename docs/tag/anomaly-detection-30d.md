@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27942.html">Quantum principal component analysis without eigenvector recovery</a></div></td>
+<td>Yewei Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27942">2605.27942</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27992.html">Patched-DeltaNet: Token-Level Event-Driven Memory for Linear-Time Anomaly Detection</a></div></td>
+<td>Tae-Gyun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27992">2605.27992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27497.html">From Provable to Practical: A Problem-Driven Survey of Classical and Machine-Learning Defenses for DV/CV Quantum Key Distribution</a></div></td>
+<td>Hasan Abbas Al-Mohammed et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27497">2605.27497</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25135.html">ASTRO: Adaptive Spatio-Temporal Reinforcement Optimization for GNN Powered Anomly Detection in Cyber Physical Systems</a></div></td>
@@ -146,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00929.html">PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Raviteja Bommireddy et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00929">2605.00929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11842.html">Template-free search for gravitational wave events using coincident anomaly detection</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a></div></td>
-<td>Daniel Ratner</td>
-<td><a href="http://arxiv.org/abs/2601.11842">2601.11842</a></td>
 </tr>
 </tbody></table>

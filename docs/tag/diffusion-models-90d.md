@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">179 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28900.html">Spectral Guidance for Flexible and Efficient Control of Diffusion Models</a></div></td>
+<td>Gabriel Moreira et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28900">2605.28900</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -1076,17 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01837.html">Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Hongkun Dou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01837">2603.01837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22973.html">EquiReg: Equivariance Regularized Diffusion for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Bahareh Tolooshams et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22973">2505.22973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21659.html">RED-DiffEq: Regularization by denoising diffusion models for solving inverse PDE problems with application to full waveform inversion</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Siming Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21659">2509.21659</a></td>
 </tr>
 </tbody></table>

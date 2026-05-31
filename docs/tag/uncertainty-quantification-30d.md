@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,23 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00640.html">Knowing when to trust machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Shams Mehdi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00640">2605.00640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14698.html">General Uncertainty Estimation with Delta Variances</a></div></td>
-<td>Simon Schmitt et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14698">2502.14698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21850.html">OptiMat Alloys: a FAIR, living database of multi-principal element alloys enabled by a conversational agent</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Yang Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21850">2604.21850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28107.html">Neural Aided Kalman Filtering for UAV State Estimation in Degraded Sensing Environments</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Akhil Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28107">2604.28107</a></td>
 </tr>
 </tbody></table>

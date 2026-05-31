@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qaoa — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <strong>90d</strong> <a href="qaoa-360d.html">360d</a> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02990.html">QAOA-Predictor: Forecasting Success Probabilities and Minimal Depths for Efficient Fixed-Parameter Optimization</a></div></td>
 <td>Rodrigo Coelho et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02990">2603.02990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16001.html">Separating Ansatz Discovery from Deployment on Larger Problems: Reinforcement Learning for Modular Circuit Design</a></div></td>
-<td>Gloria Turati et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16001">2507.16001</a></td>
 </tr>
 </tbody></table>

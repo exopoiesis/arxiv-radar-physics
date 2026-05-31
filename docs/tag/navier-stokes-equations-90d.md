@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28245.html">Data-efficient semi-supervised learning for flow estimation using unlabelled probe data</a></div></td>
+<td>Junwei Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28245">2605.28245</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25057.html">Random Neural Network Expressivity for Non-Linear Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Muhammed Ali Mehmood et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24850.html">PHASE-Net: Physics-Grounded Harmonic Attention System for Efficient Remote Photoplethysmography Measurement</a></div></td>
 <td>Bo Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24850">2509.24850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15632.html">Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a> · <a href="deeponet-90d.html">deeponet</a></div></td>
-<td>Changhong Mou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15632">2602.15632</a></td>
 </tr>
 </tbody></table>

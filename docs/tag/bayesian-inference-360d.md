@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">448 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2696,11 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04946.html">Information-Optimal Sensing and Control in High-Intensity Laser Experiments</a></div></td>
 <td>A. Döpp et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04946">2506.04946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03865.html">Reconstructing North Korea&#x27;s Plutonium Production History with Bayesian Inference-Based Reprocessing Waste Analysis</a></div></td>
-<td>Benjamin Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03865">2506.03865</a></td>
 </tr>
 </tbody></table>

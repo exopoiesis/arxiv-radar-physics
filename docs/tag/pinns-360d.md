@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">623 papers</span>
+  <span class="paper-count">622 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Qihong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
@@ -3740,17 +3746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19036.html">Weak Physics Informed Neural Networks for Geometry Compatible Hyperbolic Conservation Laws on Manifolds</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Hanfei Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19036">2505.19036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pablo Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03897.html">Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Martina Rama et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03897">2506.03897</a></td>
 </tr>
 </tbody></table>

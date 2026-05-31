@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,41 +1034,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02172.html">GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis</a></div></td>
 <td>Srikumar Sastry et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02172">2603.02172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06027.html">OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model</a></div></td>
-<td>Xiaochen Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06027">2504.06027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22159.html">Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward</a></div></td>
-<td>Jie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22159">2509.22159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00920.html">Spectral Super-Resolution via Adversarial Unfolding and Data-Driven Spectrum Regularization: From Multispectral Satellite Data to NASA Hyperspectral Image</a></div></td>
-<td>Si-Sheng Young et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00920">2603.00920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00988.html">Foundation Models in Remote Sensing: Evolving from Unimodality to Multimodality</a></div></td>
-<td>Danfeng Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00988">2603.00988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01161.html">GRAD-Former: Gated Robust Attention-based Differential Transformer for Change Detection</a></div></td>
-<td>Durgesh Ameta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01161">2603.01161</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01174.html">VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification</a></div></td>
-<td>Abdellah Zakaria Sellam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01174">2603.01174</a></td>
 </tr>
 </tbody></table>

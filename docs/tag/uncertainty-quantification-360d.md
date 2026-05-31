@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">548 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,17 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04582.html">Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Xu He et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04582">2506.04582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Pablo Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03897.html">Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Martina Rama et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03897">2506.03897</a></td>
 </tr>
 </tbody></table>

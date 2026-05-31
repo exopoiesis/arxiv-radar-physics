@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27888.html">Machine-learning-accelerated discovery of synthesizable high-temperature altermagnets with giant spin splitting</a></div></td>
+<td>Yi-Fei Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27888">2605.27888</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div></td>
 <td>Abdul Samad Khan</td>
 <td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24617.html">Transformer refined quantum sampling for strongly correlated electronic structure</a></div></td>
-<td>Xiongzhi Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24617">2605.24617</a></td>
 </tr>
 </tbody></table>

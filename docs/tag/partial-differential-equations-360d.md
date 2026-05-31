@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">829 papers</span>
+  <span class="paper-count">830 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Maciej Paszyński et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
+<td>Yuxin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -254,6 +260,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12368.html">MetaColloc: Optimization-Free PDE Solving via Meta-Learned Basis Functions</a></div></td>
 <td>Zichuan Yang</td>
 <td><a href="http://arxiv.org/abs/2605.12368">2605.12368</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27408.html">Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Chanyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27408">2605.27408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -4982,11 +4994,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14812.html">Weak TransNet: A Petrov-Galerkin based neural network method for solving elliptic PDEs</a></div></td>
 <td>Zhihang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14812">2506.14812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04375.html">Solving engineering eigenvalue problems with neural networks using the Rayleigh quotient</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Conor Rowan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04375">2506.04375</a></td>
 </tr>
 </tbody></table>

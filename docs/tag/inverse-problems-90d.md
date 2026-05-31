@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,23 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02149.html">3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems</a></div></td>
 <td>Namhoon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02149">2603.02149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22973.html">EquiReg: Equivariance Regularized Diffusion for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Bahareh Tolooshams et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22973">2505.22973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21659.html">RED-DiffEq: Regularization by denoising diffusion models for solving inverse PDE problems with application to full waveform inversion</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Siming Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21659">2509.21659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01231.html">Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models</a></div></td>
-<td>Francesco Brandolin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01231">2603.01231</a></td>
 </tr>
 </tbody></table>

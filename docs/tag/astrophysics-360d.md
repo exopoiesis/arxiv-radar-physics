@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,17 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05911.html">Simulation-based inference with neural posterior estimation applied to X-ray spectral fitting II -- High-resolution spectroscopy with the X-ray Integral Field Unit</a></div></td>
 <td>Simon Dupourqué et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05911">2506.05911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03511.html">POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning</a></div></td>
-<td>Fangyi Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03511">2506.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Kiyam Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">179 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1082,11 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01345.html">PymooLab: An Open-Source Visual Analytics Framework for Multi-Objective Optimization using LLM-Based Code Generation and MCDM</a></div></td>
 <td>Thiago Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01345">2603.01345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00876.html">BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning</a></div></td>
-<td>Yuyang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00876">2603.00876</a></td>
 </tr>
 </tbody></table>

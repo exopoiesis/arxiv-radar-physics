@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Deepak Akhare et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25633.html">Exponential mixing properties of nonlinear functional autoregressive models</a></div></td>
@@ -104,6 +110,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12700.html">UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Hanli Qiao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12700">2605.12700</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27408.html">Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Chanyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27408">2605.27408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>

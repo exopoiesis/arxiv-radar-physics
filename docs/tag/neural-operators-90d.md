@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="rom-90d.html">rom</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Minseo Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28909.html">Sequential Physics-Constrained Neural Operator Forward Modeling for the $\textit{Norne}$ Reservoir System</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Clement Etienam et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28909">2605.28909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
+<td>Yuxin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24041.html">Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation</a></div></td>
 <td>Xiaotian Liu et al.</td>
@@ -788,23 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03211.html">Shape Derivative-Informed Neural Operators with Application to Risk-Averse Shape Optimization</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Xindi Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03211">2603.03211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21592.html">Accelerating Data Generation for Nonlinear temporal PDEs via homologous perturbation in solution space</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Lei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21592">2510.21592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00971.html">Random Features for Operator-Valued Kernels: Bridging Kernel Methods and Neural Operators</a></div></td>
-<td>Mike Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00971">2603.00971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01064.html">A level-wise training scheme for learning neural multigrid smoothers with application to integral equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Lingfeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01064">2603.01064</a></td>
 </tr>
 </tbody></table>

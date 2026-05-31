@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28900.html">Spectral Guidance for Flexible and Efficient Control of Diffusion Models</a></div></td>
+<td>Gabriel Moreira et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28900">2605.28900</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -284,29 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00788.html">Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Adam Arthur et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00788">2605.00788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20549.html">Sample-efficient evidence estimation of score based priors for model selection</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20549">2602.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27443.html">ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Gabe Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27443">2604.27443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Ali Shibli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28169.html">PhyCo: Learning Controllable Physical Priors for Generative Motion</a></div></td>
-<td>Sriram Narayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28169">2604.28169</a></td>
 </tr>
 </tbody></table>

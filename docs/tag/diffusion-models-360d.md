@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">614 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28900.html">Spectral Guidance for Flexible and Efficient Control of Diffusion Models</a></div></td>
+<td>Gabriel Moreira et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28900">2605.28900</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -3692,17 +3698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03979.html">Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Haoxuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03979">2506.03979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12089.html">How Compositional Generalization and Creativity Improve as Diffusion Models are Trained</a></div></td>
-<td>Alessandro Favero et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12089">2502.12089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01144.html">FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation</a></div></td>
-<td>Ariel Shaulov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01144">2506.01144</a></td>
 </tr>
 </tbody></table>

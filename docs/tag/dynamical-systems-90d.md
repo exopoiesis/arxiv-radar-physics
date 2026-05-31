@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">242 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
+<td>James Rudd-Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30160">2605.30160</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
@@ -1448,23 +1454,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02461.html">Understanding Decision-Making Across the Lifespan Needs Theoretical Neuroscience</a></div></td>
 <td>Michael B. Ryan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02461">2603.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19305.html">LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Pengpeng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19305">2411.19305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02137.html">DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Dongze Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02137">2511.02137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01279.html">Energy analysis of 2D electro-thermo-hydrodynamic turbulent convection</a></div></td>
-<td>Owen Hutchinson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01279">2603.01279</a></td>
 </tr>
 </tbody></table>

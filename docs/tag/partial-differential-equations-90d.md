@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">244 papers</span>
+  <span class="paper-count">241 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Maciej Paszyński et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
+<td>Yuxin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -254,6 +260,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12368.html">MetaColloc: Optimization-Free PDE Solving via Meta-Learned Basis Functions</a></div></td>
 <td>Zichuan Yang</td>
 <td><a href="http://arxiv.org/abs/2605.12368">2605.12368</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27408.html">Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Chanyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27408">2605.27408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -1448,35 +1460,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02066.html">Accelerating PDE Surrogates via RL-Guided Mesh Optimization</a></div></td>
 <td>Yang Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02066">2603.02066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22973.html">EquiReg: Equivariance Regularized Diffusion for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Bahareh Tolooshams et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22973">2505.22973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21592.html">Accelerating Data Generation for Nonlinear temporal PDEs via homologous perturbation in solution space</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Lei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21592">2510.21592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00843.html">Uncertainty quantification using importance-sampled quasi-Monte Carlo with dimension-independent convergence rates</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Zexin Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00843">2603.00843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00904.html">From Frequency Bias to Spectral Balance: Operator-Aware Preconditioners for PINNs</a></div></td>
-<td>Roy Y. He et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00904">2603.00904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01064.html">A level-wise training scheme for learning neural multigrid smoothers with application to integral equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Lingfeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01064">2603.01064</a></td>
 </tr>
 </tbody></table>

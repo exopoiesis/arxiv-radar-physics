@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Qihong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>

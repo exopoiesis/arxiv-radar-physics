@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="rom-90d.html">rom</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Minseo Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Logan A. Burnett et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17198.html">BumpNet: A Sparse MLP Framework for Learning PDE Solutions</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Shao-Ting Chiu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17198">2512.17198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15632.html">Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
-<td>Changhong Mou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15632">2602.15632</a></td>
 </tr>
 </tbody></table>

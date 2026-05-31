@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02369.html">Continual Learning via Ensemble-Based Depth-Wise Masked Autoencoders for Data Quality Monitoring in High-Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
 <td>Dale Julson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02369">2603.02369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02137.html">DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Dongze Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02137">2511.02137</a></td>
 </tr>
 </tbody></table>

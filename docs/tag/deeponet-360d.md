@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Minseo Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>

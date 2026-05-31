@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,17 +1010,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01981.html">Quantifying Uncertainty in Void Swelling Prediction: A Conformal Prediction Framework for Reactor Safety Margins</a></div></td>
 <td>Minhee Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01981">2603.01981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06407.html">Toward Trustworthy Earthquake Catalogs in the Era of Automated Detection: A Probabilistic Framework for Robust Earthquake Location</a></div></td>
-<td>Ziye Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06407">2512.06407</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00843.html">Uncertainty quantification using importance-sampled quasi-Monte Carlo with dimension-independent convergence rates</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Zexin Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00843">2603.00843</a></td>
 </tr>
 </tbody></table>

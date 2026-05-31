@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27888.html">Machine-learning-accelerated discovery of synthesizable high-temperature altermagnets with giant spin splitting</a></div></td>
+<td>Yi-Fei Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27888">2605.27888</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div></td>
 <td>Abdul Samad Khan</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09001.html">Surprisingly High Redundancy in Electronic Structure Data Across Materials Explained by Low Intrinsic Dimensionality</a></div></td>
 <td>Sazzad Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09001">2507.09001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17219.html">Vibrational infrared and Raman spectra of the methanol molecule with equivariant neural-network property surfaces</a></div><div class="paper-tags"><a href="equivariant-neural-networks-30d.html">equivariant-neural-networks</a></div></td>
-<td>Ayaki Sunaga et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17219">2602.17219</a></td>
 </tr>
 </tbody></table>

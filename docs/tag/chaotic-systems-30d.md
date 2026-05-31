@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>James Rudd-Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30160">2605.30160</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24047.html">EMMA: Extracting Multiple physical parameters from Multimodal Data</a></div></td>
 <td>Farhat Shaikh et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14405.html">Watch your neighbors: Training statistically accurate chaotic systems with local phase space information</a></div></td>
 <td>Joon-Hyuk Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14405">2605.14405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27412.html">Kolmogorov-Sinai entropies identify optimal observables for prediction and dynamics reconstruction in chaotic systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Maximilian Topel</td>
-<td><a href="http://arxiv.org/abs/2604.27412">2604.27412</a></td>
 </tr>
 </tbody></table>

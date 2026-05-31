@@ -17,6 +17,12 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Qihong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Maciej Paszyński et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
@@ -1106,11 +1112,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01998.html">Hybrid ROM-PINN Framework for Closure Modeling in Convection-Dominated Systems</a></div><div class="paper-tags"><a href="les-90d.html">les</a> · <a href="rom-90d.html">rom</a></div></td>
 <td>Ferhat Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01998">2603.01998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01001.html">Data-Free PINNs for Compressible Flows: Mitigating Spectral Bias and Gradient Pathologies via Mach-Guided Scaling and Hybrid Convolutions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Ryosuke Yano</td>
-<td><a href="http://arxiv.org/abs/2603.01001">2603.01001</a></td>
 </tr>
 </tbody></table>

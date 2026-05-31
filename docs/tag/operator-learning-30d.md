@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Deepak Akhare et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25633.html">Exponential mixing properties of nonlinear functional autoregressive models</a></div></td>
@@ -106,6 +112,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.12700">2605.12700</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27408.html">Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Chanyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27408">2605.27408</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10277.html">Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Koichi Taniguchi et al.</td>
@@ -176,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Purav Matlia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27298.html">DeepPropNet: an operator learning-based predictor for thermal plasma properties</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Zuo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27298">2604.27298</a></td>
 </tr>
 </tbody></table>

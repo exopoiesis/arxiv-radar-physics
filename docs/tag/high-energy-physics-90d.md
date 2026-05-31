@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>high-energy-physics — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <strong>90d</strong> <a href="high-energy-physics-360d.html">360d</a> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08667.html">Characterization and upgrade of a quantum graph neural network for charged particle tracking</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Matteo Argenton et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08667">2603.08667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01051.html">CelloAI Benchmarks: Toward Repeatable Evaluation of AI Assistants</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
-<td>Mohammad Atif et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01051">2603.01051</a></td>
 </tr>
 </tbody></table>

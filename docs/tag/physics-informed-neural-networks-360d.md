@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">620 papers</span>
+  <span class="paper-count">619 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,21 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Qihong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Maciej Paszyński et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
+<td>Yuxin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-26</td>
@@ -3716,23 +3728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04582.html">Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Xu He et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04582">2506.04582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pablo Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03897.html">Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Martina Rama et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03897">2506.03897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03917.html">Sound Field Reconstruction Using Physics-Informed Boundary Integral Networks</a></div></td>
-<td>Stefano Damiano et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03917">2506.03917</a></td>
 </tr>
 </tbody></table>

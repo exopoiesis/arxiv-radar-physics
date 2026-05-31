@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Deepak Akhare et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25633.html">Exponential mixing properties of nonlinear functional autoregressive models</a></div></td>
 <td>Shuntarou Suzuki et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25867.html">CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Pietro Zanotta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25867">2605.25867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24658.html">WLNO: Wavelet-Laplace Neural Operator for Solving Partial Differential Equations</a></div></td>
-<td>Muhammad Abid et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24658">2605.24658</a></td>
 </tr>
 </tbody></table>

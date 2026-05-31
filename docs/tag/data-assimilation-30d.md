@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00950.html">Equation-Free Digital Twins for Nonlinear Structural Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>Mohammad Mahdi Abaei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00950">2605.00950</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27680.html">To stall-cell or not to stall-cell: Variational data assimilation of 3D mean flow past a stalled airfoil</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
-<td>Uttam Cadambi Padmanaban et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27680">2604.27680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27944.html">Calibrating Attribution Proxies for Reward Allocation in Participatory Weather Sensing</a></div></td>
-<td>Mark C. Ballandies et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27944">2604.27944</a></td>
 </tr>
 </tbody></table>

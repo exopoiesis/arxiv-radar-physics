@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19619.html">SESaMo: Symmetry-Enforcing Stochastic Modulation for Normalizing Flows</a></div></td>
 <td>Janik Kreit et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19619">2505.19619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Kiyam Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
 </tr>
 </tbody></table>

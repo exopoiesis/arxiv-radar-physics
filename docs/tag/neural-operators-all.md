@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">523 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="deeponet-all.html">deeponet</a> · <a href="rom-all.html">rom</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Minseo Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28909.html">Sequential Physics-Constrained Neural Operator Forward Modeling for the $\textit{Norne}$ Reservoir System</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Clement Etienam et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28909">2605.28909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
+<td>Yuxin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24041.html">Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation</a></div></td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20429.html">Estimating the triaxiality of massive clusters from 2D observables in MillenniumTNG with machine learning</a></div></td>
 <td>Ana Maria Delgado et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20429">2511.20429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21432.html">Cosmological analysis of the DESI DR1 Lyman alpha 1D power spectrum</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>J. Chaves-Montero et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21432">2601.21432</a></td>
 </tr>
 </tbody></table>

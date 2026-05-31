@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10415.html">LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models</a></div></td>
 <td>Parshin Shojaee et al.</td>
 <td><a href="http://arxiv.org/abs/2504.10415">2504.10415</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04282.html">DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Runxiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04282">2506.04282</a></td>
 </tr>
 </tbody></table>

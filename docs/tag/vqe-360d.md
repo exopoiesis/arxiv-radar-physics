@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vqe — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <strong>360d</strong> <a href="vqe-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09308.html">Quantum Algorithm Software for Condensed Matter Physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="qaoa-360d.html">qaoa</a> · <a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>T. Farajollahpour</td>
 <td><a href="http://arxiv.org/abs/2506.09308">2506.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21336.html">Adaptive Variational Quantum Kolmogorov-Arnold Network</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Hikaru Wakaura et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21336">2503.21336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04146.html">Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Simone Cantori et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04146">2506.04146</a></td>
 </tr>
 </tbody></table>

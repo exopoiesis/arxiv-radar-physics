@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12274.html">Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Xin Ju et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12274">2602.12274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19305.html">LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Pengpeng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19305">2411.19305</a></td>
 </tr>
 </tbody></table>

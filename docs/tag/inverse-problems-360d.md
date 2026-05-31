@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,17 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04538.html">Assessing parameter identifiability of a hemodynamics PDE model using spectral surrogates and dimension reduction</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Mitchel J. Colebank</td>
 <td><a href="http://arxiv.org/abs/2506.04538">2506.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pablo Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04375.html">Solving engineering eigenvalue problems with neural networks using the Rayleigh quotient</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Conor Rowan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04375">2506.04375</a></td>
 </tr>
 </tbody></table>

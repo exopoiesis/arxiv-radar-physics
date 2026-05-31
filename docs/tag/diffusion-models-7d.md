@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28900.html">Spectral Guidance for Flexible and Efficient Control of Diffusion Models</a></div></td>
+<td>Gabriel Moreira et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28900">2605.28900</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27006.html">Sampling Data with Chains of Forward-Backward Diffusion Steps</a></div></td>
 <td>Hyunmo Kang et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24959.html">Three-Step Conditional Diffusion 3D Reconstruction for Light-Field Microscopy</a></div></td>
 <td>Qihong Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24959">2605.24959</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24630.html">DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion</a></div></td>
-<td>Adam Lee</td>
-<td><a href="http://arxiv.org/abs/2605.24630">2605.24630</a></td>
 </tr>
 </tbody></table>

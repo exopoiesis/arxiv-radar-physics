@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,17 +1178,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03235.html">Model-Independent Reconstruction of f(T) Gravity Using Genetic Algorithms</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Redouane El Ouardi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03235">2506.03235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06459.html">Improved Uncertainty Quantification in Physics-Informed Neural Networks Using Error Bounds and Solution Bundles</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pablo Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06459">2505.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04339.html">Savage-Dickey density ratio estimation with normalizing flows for Bayesian model comparison</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Kiyam Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04339">2506.04339</a></td>
 </tr>
 </tbody></table>

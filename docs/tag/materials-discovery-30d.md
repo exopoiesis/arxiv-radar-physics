@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div></td>
+<td>Yeyong Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29555">2605.29555</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Rushikesh Pawar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25866.html">UNATE: UNsupervised ATomic Embedding for crystal structures property prediction</a></div></td>
 <td>Laura Solà-Garcia et al.</td>
@@ -134,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00313.html">Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships</a></div></td>
 <td>Guillaume Lambard</td>
 <td><a href="http://arxiv.org/abs/2605.00313">2605.00313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27636.html">Generative structure search for efficient and diverse discovery of molecular and crystal structures</a></div></td>
-<td>Yifang Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27636">2604.27636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27810.html">Hyper-Dimensional Fingerprints as Molecular Representations</a></div></td>
-<td>Jonas Teufel et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27810">2604.27810</a></td>
 </tr>
 </tbody></table>

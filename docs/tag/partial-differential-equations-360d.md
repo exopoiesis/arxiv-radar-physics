@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,35 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06188.html">Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations</a></div></td>
 <td>Luis Kin Miyatake et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06188">2506.06188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09659.html">Fokker-Planck to Callan-Symanzik: evolution of weight matrices under training</a></div></td>
-<td>Wei Bu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09659">2501.09659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19136.html">Stochastic Poisson Surface Reconstruction with One Solve using Geometric Gaussian Processes</a></div></td>
-<td>Sidhanth Holalkere et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19136">2503.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19036.html">Weak Physics Informed Neural Networks for Geometry Compatible Hyperbolic Conservation Laws on Manifolds</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Hanfei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19036">2505.19036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04538.html">Assessing parameter identifiability of a hemodynamics PDE model using spectral surrogates and dimension reduction</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Mitchel J. Colebank</td>
-<td><a href="http://arxiv.org/abs/2506.04538">2506.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14812.html">Weak TransNet: A Petrov-Galerkin based neural network method for solving elliptic PDEs</a></div></td>
-<td>Zhihang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14812">2506.14812</a></td>
 </tr>
 </tbody></table>

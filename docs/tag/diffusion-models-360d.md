@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">614 papers</span>
+  <span class="paper-count">611 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3680,23 +3680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06400.html">ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction</a></div></td>
 <td>Changsheng Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06400">2506.06400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16642.html">FlowDAS: A Stochastic Interpolant-based Framework for Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Siyi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16642">2501.16642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00921.html">Blink of an eye: a simple theory for feature localization in generative models</a></div></td>
-<td>Marvin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00921">2502.00921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03979.html">Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Haoxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03979">2506.03979</a></td>
 </tr>
 </tbody></table>

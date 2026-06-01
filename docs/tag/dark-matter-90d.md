@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03414.html">Cognitive Dark Matter: Measuring What AI Misses</a></div></td>
 <td>Patrick J. Mineault et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03414">2603.03414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12178.html">Search for additional scalar bosons within the Inert Doublet Model in a final state with two leptons at the FCC-ee</a></div></td>
-<td>Anubha Bal et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12178">2504.12178</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01370.html">Everything Every Band All at Once II: The Relationship Between Optical Size and Stellar Mass Over Eight Billion Years of Cosmic History</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Tim B. Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01370">2603.01370</a></td>
 </tr>
 </tbody></table>

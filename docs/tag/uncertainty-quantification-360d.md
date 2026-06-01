@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,11 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06638.html">Meteorologically-Informed Adaptive Conformal Prediction for Tropical Cyclone Intensity Forecasting</a></div></td>
 <td>Xuepeng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06638">2506.06638</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04582.html">Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Xu He et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04582">2506.04582</a></td>
 </tr>
 </tbody></table>

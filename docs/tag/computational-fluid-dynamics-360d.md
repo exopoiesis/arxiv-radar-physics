@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">184 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1118,17 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08516.html">NeurIPS 2024 ML4CFD Competition: Results and Retrospective Analysis</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Mouadh Yagoubi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08516">2506.08516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04627.html">Enhancing Efficiency and Propulsion in Bio-mimetic Robotic Fish through End-to-End Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Xinyu Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04627">2506.04627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05293.html">Reduction of Outflow Boundary Influence on Aerodynamic Performance using Neural Networks</a></div></td>
-<td>Mario Christopher Bedrunka et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05293">2506.05293</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hep — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <strong>30d</strong> <a href="hep-90d.html">90d</a> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01423.html">HepScript: A Dual-Use DSL for Human-AI Collaborative Data Analysis Workflows in High-Energy Physics</a></div></td>
 <td>Junkun Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01423">2605.01423</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26173.html">Entropy Centroids as Intrinsic Rewards for Test-Time Scaling</a></div></td>
-<td>Wenshuo Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26173">2604.26173</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28992.html">FRAPPE: Full Input, Residual Output Autoencoding with Projection Pursuit Encoder</a></div></td>
 <td>Dan Jacobellis et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28992">2605.28992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24844.html">Geo-Expert: Towards Expert-Level Geological Reasoning via Parameter-Efficient Fine-Tuning</a></div></td>
-<td>Chenyou Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24844">2605.24844</a></td>
 </tr>
 </tbody></table>

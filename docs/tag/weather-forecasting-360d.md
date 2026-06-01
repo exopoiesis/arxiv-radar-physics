@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,17 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24429.html">Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System</a></div></td>
 <td>Giovanny A. Cuervo-Londoño et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24429">2505.24429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16642.html">FlowDAS: A Stochastic Interpolant-based Framework for Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="diffusion-models-360d.html">diffusion-models</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Siyi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16642">2501.16642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05261.html">A seasonal to decadal calibration of 1990-2100 eastern Canadian freshwater discharge simulations by observations, data models, and neural networks</a></div></td>
-<td>Richard E. Danielson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05261">2506.05261</a></td>
 </tr>
 </tbody></table>

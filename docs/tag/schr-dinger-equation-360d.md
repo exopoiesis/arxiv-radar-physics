@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10219.html">Interpretable Neural Network Quantum States for Solving the Steady States of the Nonlinear Schrödinger Equation</a></div><div class="paper-tags"><a href="plasma-physics-360d.html">plasma-physics</a></div></td>
 <td>Mingshu Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10219">2506.10219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05245.html">Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach</a></div></td>
-<td>Shaoxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05245">2506.05245</a></td>
 </tr>
 </tbody></table>

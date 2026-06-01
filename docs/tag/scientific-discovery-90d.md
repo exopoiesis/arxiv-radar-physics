@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,29 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01616.html">The Invisibility Hypothesis: Promises of AGI and the Future of the Global South</a></div></td>
 <td>L. Julián Lechuga López et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01616">2603.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14176.html">ReSearch: A Multi-Stage Machine Learning Framework for Earth Science Data Discovery</a></div></td>
-<td>Youran Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2601.14176">2601.14176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18753.html">HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs</a></div></td>
-<td>Xinyue Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18753">2601.18753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02742.html">Entropy-Guided Dynamic Tokens for Graph-LLM Alignment in Molecular Understanding</a></div></td>
-<td>Zihao Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02742">2602.02742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01345.html">PymooLab: An Open-Source Visual Analytics Framework for Multi-Objective Optimization using LLM-Based Code Generation and MCDM</a></div></td>
-<td>Thiago Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01345">2603.01345</a></td>
 </tr>
 </tbody></table>

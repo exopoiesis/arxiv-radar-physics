@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pde-learning — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="pde-learning-7d.html">7d</a> <a href="pde-learning-30d.html">30d</a> <strong>90d</strong> <a href="pde-learning-360d.html">360d</a> <a href="pde-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23428.html">Merging Memory and Space: A State Space Neural Operator</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Nodens Koren et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23428">2507.23428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01762.html">DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Yingjie Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01762">2603.01762</a></td>
 </tr>
 </tbody></table>

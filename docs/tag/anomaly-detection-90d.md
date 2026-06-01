@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,17 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02700.html">Neural quantum support vector data description for one-class classification</a></div></td>
 <td>Changjae Im et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02700">2603.02700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01621.html">Information-Theoretic Digital Twins for Stealthy Attack Detection in Industrial Control Systems: A Closed-Form KL Divergence Approach</a></div></td>
-<td>Inda Kreso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01621">2603.01621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02369.html">Continual Learning via Ensemble-Based Depth-Wise Masked Autoencoders for Data Quality Monitoring in High-Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
-<td>Dale Julson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02369">2603.02369</a></td>
 </tr>
 </tbody></table>

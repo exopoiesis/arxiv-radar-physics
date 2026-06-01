@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18423.html">DeepExtractor: Time-domain reconstruction of signals and glitches in gravitational wave data with deep learning</a></div></td>
 <td>Tom Dooney et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18423">2501.18423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04584.html">The future of gravitational wave science unlocking LIGO potential: AI-driven data analysis and exploration</a></div></td>
-<td>Yong Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04584">2506.04584</a></td>
 </tr>
 </tbody></table>

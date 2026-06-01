@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">241 papers</span>
+  <span class="paper-count">232 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1406,59 +1406,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03224.html">Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Divyavardhan Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03224">2603.03224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03925.html">Learning Lagrangian Interaction Dynamics with Sampling-Based Model Order Reduction</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
-<td>Hrishikesh Viswanath et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03925">2407.03925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20212.html">Causality-Respecting Adaptive Refinement for PINNs: Enabling Precise Interface Evolution in Phase Field Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Wei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20212">2410.20212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20729.html">Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision</a></div></td>
-<td>Ao Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20729">2508.20729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07684.html">Nemytskii neural operator: a nonlinear model reduction method for parametrized partial differential equations</a></div></td>
-<td>Jingye Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07684">2511.07684</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01459.html">PhysFormer: A Physics-Embedded Generative Model for Physically Self-Consistent Spectral Synthesis</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Siqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01459">2603.01459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01689.html">Randomized Neural Networks for Partial Differential Equation on Static and Evolving Surfaces</a></div></td>
-<td>Jingbo Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01689">2603.01689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01762.html">DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
-<td>Yingjie Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01762">2603.01762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01949.html">Probabilistic Retrofitting of Learned Simulators</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Cristiana Diaconu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01949">2603.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02066.html">Accelerating PDE Surrogates via RL-Guided Mesh Optimization</a></div></td>
-<td>Yang Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02066">2603.02066</a></td>
 </tr>
 </tbody></table>

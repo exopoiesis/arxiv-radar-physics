@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,17 +500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11801.html">Learning to Integrate</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Oliver G. Ernst et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11801">2506.11801</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12930.html">Augmented Invertible Koopman Autoencoder for long-term time series forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Anthony Frion et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12930">2503.12930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19619.html">SESaMo: Symmetry-Enforcing Stochastic Modulation for Normalizing Flows</a></div></td>
-<td>Janik Kreit et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19619">2505.19619</a></td>
 </tr>
 </tbody></table>

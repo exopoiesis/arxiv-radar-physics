@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">447 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,23 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06465.html">Perturbative QCD reveals the softening of matter in the cores of massive neutron stars</a></div></td>
 <td>Oleg Komoltsev</td>
 <td><a href="http://arxiv.org/abs/2506.06465">2506.06465</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03896.html">FLIP: Flowability-Informed Powder Weighing</a></div></td>
-<td>Nikola Radulov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03896">2506.03896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04687.html">Joint Optimization of Electric Vehicle Routes and Charging Locations Learning Charge Constraints Using QUBO Solver</a></div></td>
-<td>Akihisa Okada et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04687">2506.04687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04946.html">Information-Optimal Sensing and Control in High-Intensity Laser Experiments</a></div></td>
-<td>A. Döpp et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04946">2506.04946</a></td>
 </tr>
 </tbody></table>

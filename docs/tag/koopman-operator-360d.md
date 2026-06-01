@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,17 +572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06451.html">A Koopman-backstepping approach to data-driven robust output regulation for linear parabolic systems</a></div></td>
 <td>Joachim Deutscher et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06451">2506.06451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05334.html">Multiplicative Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Nicolas Boullé et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05334">2405.05334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12930.html">Augmented Invertible Koopman Autoencoder for long-term time series forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Anthony Frion et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12930">2503.12930</a></td>
 </tr>
 </tbody></table>

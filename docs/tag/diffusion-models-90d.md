@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,23 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20839.html">Training-Free Multi-Concept Image Editing</a></div></td>
 <td>Niki Foteinopoulou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20839">2602.20839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26364.html">Data-to-Energy Stochastic Dynamics</a></div></td>
-<td>Kirill Tamogashev et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26364">2509.26364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12274.html">Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Xin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12274">2602.12274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01837.html">Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Hongkun Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01837">2603.01837</a></td>
 </tr>
 </tbody></table>

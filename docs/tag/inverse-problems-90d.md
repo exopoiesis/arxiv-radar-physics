@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,23 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03196.html">Infinite dimensional generative sensing</a></div></td>
 <td>Paolo Angella et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03196">2603.03196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12274.html">Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Xin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12274">2602.12274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01837.html">Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Hongkun Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01837">2603.01837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02149.html">3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems</a></div></td>
-<td>Namhoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02149">2603.02149</a></td>
 </tr>
 </tbody></table>

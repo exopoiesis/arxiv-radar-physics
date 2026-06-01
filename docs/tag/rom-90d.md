@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rom — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <strong>90d</strong> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08488.html">NN-OpInf: an operator inference approach using structure-preserving composable neural networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Eric Parish et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08488">2603.08488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03925.html">Learning Lagrangian Interaction Dynamics with Sampling-Based Model Order Reduction</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Hrishikesh Viswanath et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03925">2407.03925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01998.html">Hybrid ROM-PINN Framework for Closure Modeling in Convection-Dominated Systems</a></div><div class="paper-tags"><a href="les-90d.html">les</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Ferhat Kaya et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01998">2603.01998</a></td>
 </tr>
 </tbody></table>

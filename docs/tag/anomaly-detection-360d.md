@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,17 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06516.html">Nearest neighbor permutation entropy detects phase transitions in complex high-pressure systems</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Arthur A. B. Pessa et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06516">2506.06516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18821.html">An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus</a></div></td>
-<td>Mohammad Fatahi et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18821">2501.18821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05135.html">Noise-Driven AI Sensors: Secure Healthcare Monitoring with PUFs</a></div></td>
-<td>Christiana Chamon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05135">2506.05135</a></td>
 </tr>
 </tbody></table>

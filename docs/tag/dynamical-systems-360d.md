@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">718 papers</span>
+  <span class="paper-count">714 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4298,29 +4298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06228.html">Statistical Guarantees in Data-Driven Nonlinear Control: Conformal Robustness for Stability and Safety</a></div></td>
 <td>Ting-Wei Hsu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06228">2506.06228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05334.html">Multiplicative Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Nicolas Boullé et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05334">2405.05334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12930.html">Augmented Invertible Koopman Autoencoder for long-term time series forecasting</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Anthony Frion et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12930">2503.12930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04528.html">Hierarchical Implicit Neural Emulators</a></div></td>
-<td>Ruoxi Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04528">2506.04528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05259.html">Learning long range dependencies through time reversal symmetry breaking</a></div></td>
-<td>Guillaume Pourcel et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05259">2506.05259</a></td>
 </tr>
 </tbody></table>

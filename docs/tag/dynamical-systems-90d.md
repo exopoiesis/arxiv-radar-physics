@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">240 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,47 +1412,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02940.html">Data-Driven Prediction of Chaotic Transition in Periapsis Poincaré Maps</a></div></td>
 <td>Shanshan Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02940">2603.02940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20212.html">Causality-Respecting Adaptive Refinement for PINNs: Enabling Precise Interface Evolution in Phase Field Modeling</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Wei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20212">2410.20212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06558.html">Rapid training of Hamiltonian graph networks using random features</a></div></td>
-<td>Atamert Rahma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06558">2506.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01799.html">Optimal information injection and transfer mechanisms for active matter reservoir computing</a></div></td>
-<td>Mario U. Gaimann et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01799">2509.01799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01918.html">PAC Finite-Time Safety Guarantees for Stochastic Systems with Unknown Disturbance Distributions</a></div></td>
-<td>Taoran Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01918">2603.01918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01949.html">Probabilistic Retrofitting of Learned Simulators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Cristiana Diaconu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01949">2603.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02439.html">Using the SEKF to Transfer NN Models of Dynamical Systems with Limited Data</a></div></td>
-<td>Joshua E. Hammond et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02439">2603.02439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02461.html">Understanding Decision-Making Across the Lifespan Needs Theoretical Neuroscience</a></div></td>
-<td>Michael B. Ryan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02461">2603.02461</a></td>
 </tr>
 </tbody></table>

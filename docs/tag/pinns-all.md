@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">922 papers</span>
+  <span class="paper-count">917 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5516,35 +5516,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03433.html">Annealed adaptive importance sampling method in PINNs for solving high dimensional partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Zhengqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03433">2405.03433</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00217.html">GMC-PINNs: A new general Monte Carlo PINNs method for solving fractional partial differential equations on irregular domains</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Shupeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00217">2405.00217</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18494.html">Learning in PINNs: Phase transition, total diffusion, and generalization</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sokratis J. Anagnostopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2403.18494">2403.18494</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.07465.html">Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Zheyuan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2402.07465">2402.07465</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.00326.html">PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2402.00326">2402.00326</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10926.html">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Tim De Ryck et al.</td>
-<td><a href="http://arxiv.org/abs/2402.10926">2402.10926</a></td>
 </tr>
 </tbody></table>

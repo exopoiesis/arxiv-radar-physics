@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">643 papers</span>
+  <span class="paper-count">642 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3866,11 +3866,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00449.html">RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models</a></div></td>
 <td>Mohamed Manzour Hussien et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00449">2405.00449</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08809.html">Leveraging viscous Hamilton-Jacobi PDEs for uncertainty quantification in scientific machine learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Zongren Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08809">2404.08809</a></td>
 </tr>
 </tbody></table>

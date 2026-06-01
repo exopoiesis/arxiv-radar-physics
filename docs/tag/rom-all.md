@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rom — all</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02615.html">A hybrid numerical methodology coupling Reduced Order Modeling and Graph Neural Networks for non-parametric geometries: applications to structural dynamics problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
 <td>Victor Matray et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02615">2406.02615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.01532.html">Data-driven local operator finding for reduced-order modelling of plasma systems: II. Application to parametric dynamics</a></div></td>
-<td>Farbod Faraji et al.</td>
-<td><a href="http://arxiv.org/abs/2403.01532">2403.01532</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">618 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,17 +3710,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04151.html">Gas Source Localization Using physics Guided Neural Networks</a></div></td>
 <td>Victor Scott Prieto Ruiz et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04151">2405.04151</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.00326.html">PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2402.00326">2402.00326</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10926.html">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Tim De Ryck et al.</td>
-<td><a href="http://arxiv.org/abs/2402.10926">2402.10926</a></td>
 </tr>
 </tbody></table>

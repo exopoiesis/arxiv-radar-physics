@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">806 papers</span>
+  <span class="paper-count">804 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4838,17 +4838,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01355.html">Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>S. J. P. Pamela et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01355">2405.01355</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08809.html">Leveraging viscous Hamilton-Jacobi PDEs for uncertainty quantification in scientific machine learning</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Zongren Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08809">2404.08809</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.01960.html">Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Ziqi Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2402.01960">2402.01960</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">370 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2216,23 +2216,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01975.html">Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field data from a reduced parametric space</a></div></td>
 <td>Rasoul Najafi Koopas et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01975">2405.01975</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03099.html">Composite Bayesian Optimization In Function Spaces Using NEON -- Neural Epistemic Operator Networks</a></div></td>
-<td>Leonardo Ferreira Guilhoto et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03099">2404.03099</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.15715.html">Operator Learning: Algorithms and Analysis</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Nikola B. Kovachki et al.</td>
-<td><a href="http://arxiv.org/abs/2402.15715">2402.15715</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.01960.html">Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Ziqi Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2402.01960">2402.01960</a></td>
 </tr>
 </tbody></table>

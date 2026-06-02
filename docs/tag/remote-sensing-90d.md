@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02092.html">LALE: Lightweight-Transformer Architecture for Land-Cover Estimation</a></div></td>
+<td>Ümit Mert Çağlar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02092">2606.02092</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24460.html">Coarse-to-Fine Domain Incremental Learning with Attentive Distillation for Mining Footprint Segmentation in Multispectral Imagery</a></div></td>
 <td>Alif Tri Handoyo et al.</td>
@@ -1016,11 +1022,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04562.html">Fusion and Grouping Strategies in Deep Learning for Local Climate Zone Classification of Multimodal Remote Sensing Data</a></div></td>
 <td>Ancymol Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04562">2603.04562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03283.html">Utonia: Toward One Encoder for All Point Clouds</a></div></td>
-<td>Yujia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03283">2603.03283</a></td>
 </tr>
 </tbody></table>

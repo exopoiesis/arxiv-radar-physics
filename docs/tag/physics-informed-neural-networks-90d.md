@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01572.html">PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Jungwook Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01572">2606.01572</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01622.html">An alternating learning-based collocation method for solving inverse elliptic problems</a></div></td>
+<td>Zhizhong Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01622">2606.01622</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -1136,35 +1148,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04019.html">Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Antonin Sulc</td>
 <td><a href="http://arxiv.org/abs/2603.04019">2603.04019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17198.html">BumpNet: A Sparse MLP Framework for Learning PDE Solutions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Shao-Ting Chiu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17198">2512.17198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01731.html">Solving Inverse PDE Problems using Minimization Methods and AI</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Noura Al Helwani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01731">2603.01731</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02948.html">Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Alberto Miño Calero et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02948">2603.02948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03224.html">Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Divyavardhan Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03224">2603.03224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03259.html">Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Süleyman Cengizci et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03259">2603.03259</a></td>
 </tr>
 </tbody></table>

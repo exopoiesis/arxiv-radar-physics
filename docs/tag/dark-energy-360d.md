@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10506.html">Evidence for dynamical dark energy from DESI-DR2 and SN data? A symbolic regression analysis</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Agripino Sousa-Neto et al.</td>
 <td><a href="http://arxiv.org/abs/2502.10506">2502.10506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03235.html">Model-Independent Reconstruction of f(T) Gravity Using Genetic Algorithms</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Redouane El Ouardi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03235">2506.03235</a></td>
 </tr>
 </tbody></table>

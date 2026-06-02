@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28899.html">Quantum-Enhanced Adversarial Robustness in Artificial Intelligence</a></div></td>
 <td>Jaydip Sen</td>
 <td><a href="http://arxiv.org/abs/2605.28899">2605.28899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25768.html">Rethinking Expressibility-Trainability Trade-off in Hybrid Quantum Neural Networks</a></div></td>
-<td>Muhammad Kashif et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25768">2605.25768</a></td>
 </tr>
 </tbody></table>

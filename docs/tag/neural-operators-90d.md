@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,29 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03922.html">Hierarchical Inference and Closure Learning via Adaptive Surrogates for ODEs and PDEs</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Pengyu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03922">2603.03922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02431.html">Prediction of Multiscale Features Using Deep Learning-based Preconditioner-Solver Architecture for Darcy Equation in High-Contrast Media</a></div></td>
-<td>Jie Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02431">2411.02431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23703.html">A Boundary Integral-based Neural Operator for Mesh Deformation</a></div></td>
-<td>Zhengyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23703">2602.23703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03112.html">From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Pengyu Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03112">2603.03112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03211.html">Shape Derivative-Informed Neural Operators with Application to Risk-Averse Shape Optimization</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Xindi Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03211">2603.03211</a></td>
 </tr>
 </tbody></table>

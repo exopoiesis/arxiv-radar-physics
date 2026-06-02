@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00359.html">An Interpretable Operator-Learning Model for Electric Field Profile Reconstruction in Discharges Based on the EFISH Method</a></div></td>
 <td>Zhijian Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00359">2512.00359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17198.html">BumpNet: A Sparse MLP Framework for Learning PDE Solutions</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Shao-Ting Chiu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17198">2512.17198</a></td>
 </tr>
 </tbody></table>

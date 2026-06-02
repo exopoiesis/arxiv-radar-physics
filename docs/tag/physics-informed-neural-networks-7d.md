@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01572.html">PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Jungwook Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01572">2606.01572</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01622.html">An alternating learning-based collocation method for solving inverse elliptic problems</a></div></td>
+<td>Zhizhong Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01622">2606.01622</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Qihong Yang et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27308.html">PINNsur: Physics-Informed Neural Networks for PDEs on Curved Surfaces</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Pranav Jain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27308">2605.27308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26234.html">Minimal surfaces, Knots, and Neural Networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Tancredi Schettini Gherardini et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26234">2605.26234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26358.html">Deep Learning-based Algebraic Reynolds Stress Closures for RANS Simulations of Turbulent Flows</a></div><div class="paper-tags"><a href="rans-7d.html">rans</a></div></td>
-<td>Daniel Dehtyriov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26358">2605.26358</a></td>
 </tr>
 </tbody></table>

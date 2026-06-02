@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">231 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1400,17 +1400,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03650.html">Adaptive Sensing of Continuous Physical Systems for Machine Learning</a></div></td>
 <td>Felix Köster et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03650">2603.03650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div></td>
-<td>Polina V. Banushkina et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02940.html">Data-Driven Prediction of Chaotic Transition in Periapsis Poincaré Maps</a></div></td>
-<td>Shanshan Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02940">2603.02940</a></td>
 </tr>
 </tbody></table>

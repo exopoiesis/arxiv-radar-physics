@@ -1,0 +1,387 @@
+{
+ "2606.01538": {
+  "abstract": "To study the ability to infer physical dynamics from videos and extrapolate them forward in time, we assemble a dataset of 2D Material Point Method (MPM) physical simulations covering rich physical phenomena such as deformable objects, fluids, kinetic objects, and emitters. We study code generation and video diffusion approaches on this dataset, identifying their strengths and weaknesses by varying the amount of physically relevant side information. The code generation model, beyond giving a working demonstration of automatic synthesis of MPM simulations, reveals that such an approach struggles with inferring physical parameters from visual input, but relative to video diffusion, produces physically and temporally stable extrapolations forward in time, while the video diffusion model more strongly identifies geometric properties from visual input but produces physically implausible extrapolations.",
+  "authors": [
+   "Žiga Kovačič",
+   "Kevin Ellis"
+  ],
+  "categories": [
+   "cs.GR",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "16 pages, 13 figures. Project page: https://zzigak.github.io/mpmworlds/",
+  "first_author": "Žiga Kovačič",
+  "pdf_url": "http://arxiv.org/pdf/2606.01538",
+  "primary_category": "cs.GR",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01566": {
+  "abstract": "Small-to-medium scientific datasets place machine learning pipelines under two compounding pressures. Single-run feature selection produces feature sets that change substantially under small perturbations of the training data, and any procedure that uses the same data for selection, tuning, and evaluation produces optimistically biased performance estimates. The two failure modes are routinely treated as separable, but in the regimes where scientific data live, they interact: an unstable selection inflates the variance of an already-optimistic score, and standard remedies for one rarely address the other. RobustModelMaker is a Python framework that couples bootstrap stability selection with strict nested cross-validation, performs all preprocessing and selection inside each fold, and produces a stability-tested feature subset together with a leakage-safe performance estimate. The framework supports nine algorithms across binary classification, multiclass classification, and regression. Behaviour is verified by a deterministic test suite spanning unit, performance, and reproducibility checks on three real scientific datasets comparing to three alternative selectors (ANOVA F-test, recursive feature elimination with cross-validation, and Boruta) on both predictive score and a Jaccard measure of selection stability. RobustModelMaker is competitive in score with the best alternative selector on each dataset, and occupies a position on the joint score-stability frontier that none of the alternatives match across all three task types. Two example applications, ovarian cancer biomarker discovery from the PLCO Trial and critical-temperature regression on the UCI Superconductivity Data, illustrate how the framework is used in practice and what trade-offs become visible when stability is treated as a first-class deliverable rather than an emergent property.",
+  "authors": [
+   "Amanda S Barnard"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "19 pages, 2 figure plates, 8 tables",
+  "first_author": "Amanda S Barnard",
+  "pdf_url": "http://arxiv.org/pdf/2606.01566",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "RobustModelMaker: Coupling Bootstrap Stability Selection with Leakage-Safe Nested Cross-Validation for Scientific Machine Learning",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01572": {
+  "abstract": "Predicting patient-specific facial soft-tissue deformation is critical for iterative orthognathic surgery planning. However, current computational methods face a strict accuracy-efficiency trade-off: high-fidelity Finite Element Methods (FEM) are computationally prohibitive, whereas pure deep learning models often produce biomechanically inconsistent results. While Physics-Informed Neural Networks (PINNs) offer a promising avenue, learning the complex heterogeneous mechanics of bone--soft-tissue interactions with only partial clinical supervision (i.e., outer facial surfaces) remains highly unstable. To overcome these challenges, we present PINNOCHIO, a novel physics-informed framework for facial soft-tissue simulation. PINNOCHIO introduces a hybrid sequential decomposition that explicitly decouples discontinuous bone--soft-tissue interface movements from continuous volumetric hyperelastic deformation. This structural separation enables stable training and facilitates a physics-enabled sim-to-real adaptation strategy, ensuring internal biomechanical consistency without requiring volumetric ground truth. Evaluated on a 40-patient clinical cohort, PINNOCHIO outperforms existing baselines in both surface accuracy and physical validity. Furthermore, it achieves a substantial speedup over FEM, successfully resolving the accuracy-efficiency trade-off to provide a highly reliable and practical tool for interactive surgical planning.",
+  "authors": [
+   "Jungwook Lee",
+   "Daeseung Kim",
+   "Kevin Gu",
+   "Zhangfeng Hu",
+   "Tianshu Kuang",
+   "Finn Hopeman",
+   "Michael A. K. Liebschner",
+   "Jaime Gateno",
+   "Pingkun Yan"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV"
+  ],
+  "comment": "This work has been submitted to MICCAI 2026",
+  "first_author": "Jungwook Lee",
+  "pdf_url": "http://arxiv.org/pdf/2606.01572",
+  "primary_category": "eess.IV",
+  "published": "2026-06-01",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01577": {
+  "abstract": "Methane is a major driver of near-term climate change, and rapidly identifying its emission sources is a critical climate intervention. Spaceborne hyperspectral imagery is the primary tool for this task, but the volume of data produced by each sensor makes ground-based detection impractical and necessitates onboard detection. Classical methods incur prohibitive computational cost on onboard hardware, while deep learning models are fast but fall short on detection quality. We propose FLAME, a physics-guided neural operator that builds the physics of methane absorption directly into its architecture. On the methane detection benchmark, FLAME achieves the highest detection accuracy among all evaluated methods, reduces the pixel-level false positive rate by nearly $3\\times$ over the strongest neural baseline, uses the fewest parameters among learned baselines, and runs within the latency budget of onboard satellite hardware.",
+  "authors": [
+   "Junhyuk Heo",
+   "Junhwan Park",
+   "Sancheol Sim",
+   "Beomkyu Choi",
+   "Woojin Cho"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Junhyuk Heo",
+  "pdf_url": "http://arxiv.org/pdf/2606.01577",
+  "primary_category": "cs.CV",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01597": {
+  "abstract": "Robot swarms can exhibit coherent collective behaviors through local perception, limited communication and decentralized decision-making, yet modeling and controlling such emergence remains challenging when behaviors unfold over multiple phases. Here we introduce PhySwarm, a physics-informed micro--macro framework that represents multi-stage swarm emergence as physically constrained density-field evolution coupled to executable robot motion. At the macroscopic level, a multi-phase advection--diffusion--reaction model (Macro-ADR) describes phase-dependent swarm-density evolution through directed transport, diffusion-based spatial regulation and behavioral phase transitions. At the microscopic level, an equivalent deterministic motion model (Micro-EDM) realizes these mechanisms through potential-field advection, density-gradient compensation and rate- or event-gated phase switching. A neural-physics controller (NPC) maps local observations and temporal memory to bounded physical parameters, and is trained with a reinforcement learning--PINN objective that combines task rewards with macro-scale density residuals and micro-scale motion-consistency constraints. In several proof-of-concept swarm missions -- including trail-guided foraging, formation-reconfigurable navigation and role-adaptive search and rescue -- we demonstrate that PhySwarm can generate distinct multi-stage emergent behaviors within a unified physics-informed modeling framework. The learned density fields and physical parameters provide interpretable evidence of how advection, diffusion and reaction jointly regulate multi-stage swarm organization. These results establish a physics-informed route for learning, interpreting and controlling emergent behaviors in robot swarms.",
+  "authors": [
+   "Zixuan Jin",
+   "Wenzhuo Zhang",
+   "Shuxian Quan",
+   "Zirui Dong",
+   "Fangwen Ye",
+   "Yuchen Shi",
+   "Cheng Xu"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Zixuan Jin",
+  "pdf_url": "http://arxiv.org/pdf/2606.01597",
+  "primary_category": "cs.RO",
+  "published": "2026-06-01",
+  "tags": [
+   "phase-transitions"
+  ],
+  "title": "Physics-Informed Modeling and Control of Emergent Behaviors in Robot Swarms",
+  "topics": [
+   "Materials Science & Condensed Matter",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01598": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) can approach quantum accuracy for short-range chemistry, but most architectures remain local and fail to capture the long-range electrostatic and polarization interactions essential for ionic, polar, and interfacial systems. Recent Ewald-based MLIPs show that locally predicted electrostatic variables can recover important long-range physics, including multipolar response. However, many energy-based implementations still compute reciprocal-space terms by direct summation over k vectors, leaving a gap with production molecular dynamics, where particle-mesh Ewald (PME) with O(NlogN) scaling is standard. Here we introduce a fully differentiable PME framework for learned charges and learned atomic dipoles within an E(n)-equivariant Cartesian tensor message passing network. Charges are predicted from scalar local features, while dipoles are predicted from equivariant vector features and enter the same particle-mesh solver as an effective bound charge density. This dipolar density is constructed using analytic real-space gradients of Hockney-Eastwood spline assignment weights, enabling charge-dipole and dipole-dipole long-range forces to be trained end-to-end through FFT-space electrostatics without direct charge or dipole supervision. On a charged-dimer test case, the differentiable PME module reproduces explicit Ewald energies and forces to numerical precision when assignment-kernel deconvolution is enabled. On molten NaCl, the charge and dipole long-range channel gives the lowest force RMSE among the tested models, while all energy RMSE values remain in the sub-meV per atom regime. Timing tests show the expected crossover from explicit Ewald summation to particle-mesh scaling. These results establish differentiable dipole PME as a scalable route toward polarization-aware MLIPs for condensed-phase and interfacial systems.",
+  "authors": [
+   "Zhiyue Guo",
+   "Junjie Wang",
+   "Haoting Zhang",
+   "Zhixin Liang",
+   "Ziyang Yang",
+   "Yujian Pan",
+   "Jian Sun"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhiyue Guo",
+  "pdf_url": "http://arxiv.org/pdf/2606.01598",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "machine-learning-interatomic-potentials"
+  ],
+  "title": "Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01622": {
+  "abstract": "We propose the Alternating Learning-Based Collocation (ALBC) method for solving inverse elliptic problems. Our approach employs sinusoidal shallow networks as adaptive basis generators. By alternately updating the state variable and the unknown parameter, we decompose the original nonconvex joint optimization problem into a sequence of tractable linear subproblems. This strategy effectively overcomes the fixed-basis limitations of classical collocation methods while avoiding the slow convergence typically encountered in deep learning approaches. Theoretically, we establish stability estimates and prove the convergence of the proposed algorithm. Numerical experiments on five benchmark problems demonstrate the efficacy of ALBC, which consistently outperforms the standard collocation method in accuracy. Furthermore, it achieves performance comparable to or better than that of physics-informed neural networks at a substantially lower computational cost. Finally, the method remains robust under noise levels of up to twenty percent.",
+  "authors": [
+   "Zhizhong Kong",
+   "Jerry Zhijian Yang",
+   "Cheng Yuan"
+  ],
+  "categories": [
+   "math.NA",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhizhong Kong",
+  "pdf_url": "http://arxiv.org/pdf/2606.01622",
+  "primary_category": "math.NA",
+  "published": "2026-06-01",
+  "tags": [
+   "physics-informed-neural-networks"
+  ],
+  "title": "An alternating learning-based collocation method for solving inverse elliptic problems",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01652": {
+  "abstract": "Recently, partial differential equations (PDEs) have been used to directly model the measurement process in signal processing, although their evaluation is costly. In this paper, we propose a novel alternating direction method of multipliers (ADMM)-based algorithm called physics-aware linearized ADMM (PA-LADMM) for inverse problems from PDE-based measurement processes. The key idea is the linearization of the subproblem with PDEs, leading to a cost-efficient update rule that calls only a PDE solver and its gradient evaluation per iteration. The algorithm has a theoretical convergence guarantee under certain conditions. In addition, we combine it with deep unfolding to unroll the PA-LADMM and train its internal parameters using supervised data. Two distinct experiments, compressed sensing with optical fiber communication and image restoration from noisy anisotropic diffusion, demonstrated the effectiveness of the proposed algorithms.",
+  "authors": [
+   "Satoshi Takabe",
+   "Shunta Arai",
+   "Tadashi Wadayama"
+  ],
+  "categories": [
+   "eess.SP",
+   "cs.CV"
+  ],
+  "comment": "5 pages, 3 figures",
+  "first_author": "Satoshi Takabe",
+  "pdf_url": "http://arxiv.org/pdf/2606.01652",
+  "primary_category": "eess.SP",
+  "published": "2026-06-01",
+  "tags": [
+   "inverse-problems",
+   "partial-differential-equations"
+  ],
+  "title": "Physics-Aware Linearized ADMM and Its Unrolling",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01691": {
+  "abstract": "Industrial Internet systems face increasing threats from sophisticated industrial control system (ICS) attacks, resulting in critical safety incidents. However, existing tools exhibit limited effectiveness in real-time anomaly detection due to the complex dependencies among sensors and actuators. To tackle this, we present IstGPT, the first industrial anomaly detection tool based on LLMs and graph learning to provide real-time protection against a wide range of ICS attacks. IstGPT achieves fine-grained and precise modeling on spatial-temporal dependencies in industrial cyber-physical systems. It first leverages industrial multi-modal knowledge, including operational data, technical documents, and system diagrams, to extract sensor-actuator dependency graphs via multi-stage prompt engineering. Then, LLM-Optimation iteratively refines the graph based on node accuracy, edge consistency, and logical coherence. Finally, IstGPT integrated improved graph neural networks with an encoder-decoder architecture to detect anomalies via reconstruction errors. We evaluate IstGPT against 12 state-of-the-art baselines on 9 datasets, including 2 public, 6 simulated, and a real-world robotic arm dataset. IstGPT achieves the best F1-scores and eTaF1 (a newer time-aware metric) across nine datasets. We further discuss the feasibility of deploying IstGPT in real-world industrial scenarios.",
+  "authors": [
+   "Yuchen Zhang",
+   "Ning Xi",
+   "Pengbin Feng",
+   "Shigang Liu",
+   "Jianfeng Ma",
+   "Yulong Shen",
+   "Yanan Sun",
+   "Xiaolin Zhou"
+  ],
+  "categories": [
+   "cs.CR",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yuchen Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.01691",
+  "primary_category": "cs.CR",
+  "published": "2026-06-01",
+  "tags": [
+   "anomaly-detection"
+  ],
+  "title": "IstGPT: LLM-based Anomaly Detection for Spatial-Temporal Graph in Industrial Systems",
+  "topics": [
+   "Particle & High Energy Physics"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01907": {
+  "abstract": "Because groups are directly associated with halos, they allow for considerably simpler theoretical modeling than approaches based on individual galaxies. We therefore propose to use voids identified in galaxy group catalogs, referred to as group-voids, to investigate the cosmic large-scale structure (LSS). Using the reference mock galaxy redshift survey (MGRS) designed for the Chinese Space-station Survey Telescope (CSST), we build two galaxy group catalogs representing ideal and conservative scenarios, derived from galaxy samples with 100\\% and roughly 30\\% spectroscopic redshift completeness, respectively. We then identify voids in these two mock group catalogs, as well as in the underlying halo catalog, and measure two void statistics, the void size function (VSF) and the void density profile, within five redshift intervals spanning $z=0$ to $1.0$. We compare the statistics obtained from two kinds of voids: those defined by galaxy groups (group-voids) and those defined by dark matter halos (halo-voids). In the void-finding process, we adopt the brightest central galaxy (BCG) as the group center to improve the accuracy of the inferred void centers. Our analysis shows that void statistics derived from group-voids with spectroscopic redshift completeness of at least 40\\% can faithfully reproduce the corresponding statistics from halo-voids. Even when the redshift completeness of galaxies falls to as low as 30\\%, we can still reliably describe group-voids via halo-voids by incorporating a redshift error term. This indicates that group-voids are a promising tool for probing LSS and offer a valuable complement to standard void studies, which is especially advantageous for emulator-based methods.",
+  "authors": [
+   "Yingxiao Song",
+   "Xiaohu Yang",
+   "Yan Gong",
+   "Yizhou Gu",
+   "Qingyang Li",
+   "Hong Guo",
+   "Yunkun Han",
+   "Yipeng Jing",
+   "Cheng Li",
+   "Feng Shi",
+   "Jipeng Sui",
+   "Run Wen",
+   "Hu Zhan",
+   "Pengjie Zhang",
+   "Youcai Zhang",
+   "Gong-Bo Zhao",
+   "Xian Zhong Zheng",
+   "Xingchen Zhou",
+   "Hu Zou"
+  ],
+  "categories": [
+   "astro-ph.CO",
+   "astro-ph.GA"
+  ],
+  "comment": "13 pages, 6 figures, and 1 table",
+  "first_author": "Yingxiao Song",
+  "pdf_url": "http://arxiv.org/pdf/2606.01907",
+  "primary_category": "astro-ph.CO",
+  "published": "2026-06-01",
+  "tags": [
+   "dark-matter"
+  ],
+  "title": "CSST large-scale structure analysis pipeline: IV. Cosmic Voids Identified from Galaxy Group Samples as Probes of the Large-scale Structure",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01925": {
+  "abstract": "Diagnosing Quality-of-Experience (QoE) degradations in operational Radio Access Networks (RANs) is a critical but notoriously complex task, traditionally requiring labor-intensive expert analysis over high-dimensional, cross-layer telemetry. While Large Language Models (LLMs) offer unprecedented reasoning capabilities, they are fundamentally unsuited for raw RANs troubleshooting: they fail at numeric time-series analysis, hallucinate protocol-violating causal links, and lack the stateful rigor required for multi-step fault localization. To bridge this gap, we present QoEReasoner, an end-to-end, LLM-driven agentic system designed for automated and explainable QoE diagnosis. QoEReasoner tames the inherent unpredictability of LLMs by grounding their reasoning in the physical realities of the network. It employs deterministic tools to reliably translate raw numeric KPIs into structured evidence, enforces protocol-consistent fault propagation through a domain-specific Knowledge Base, and leverages a Historical Bank of expert-validated cases to guide hypothesis generation. A stateful central planner orchestrates this closed-loop process across anomaly detection, causal tracing, and root-cause localization. Evaluations on real-world operational RANs datasets demonstrate that QoEReasoner outperforms strong baselines by 18\\%-40\\% in accuracy across multiple diagnostic tasks. Furthermore, it reduces diagnostic time from approximately 30 minutes of manual expert analysis to just 3 minutes per session, delivering highly interpretable, expert-grade reports while remaining robust across diverse LLM backbones.",
+  "authors": [
+   "Qizhe Li",
+   "Haolong Chen",
+   "Shan Dai",
+   "Zhuo Li",
+   "Zhiwei Hu",
+   "Xuan Li",
+   "Guangxu Zhu",
+   "Qingjiang Shi"
+  ],
+  "categories": [
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Qizhe Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.01925",
+  "primary_category": "cs.MA",
+  "published": "2026-06-01",
+  "tags": [
+   "anomaly-detection",
+   "rans"
+  ],
+  "title": "QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs",
+  "topics": [
+   "Particle & High Energy Physics"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01966": {
+  "abstract": "We present an implementation in CheckMATE and Rivet of the ATLAS collaboration search for triple Higgs boson production in a six $b$-jets final state. The search relies on event selection using a deep neural network and a statistical model based on the HS3 format. Owing to a rich validation material provided by ATLAS, we perform a thorough validation of neural network input features and exclusion limits in the Standard Model and its extension with two additional singlet scalar fields (TRSM). Finally, we discuss expected performance of the search at the High Luminosity LHC in several scenarios of systematic uncertainty. We present projected exclusion limits for a set of TRSM benchmark models beyond those considered by ATLAS.",
+  "authors": [
+   "Tomasz Procter",
+   "Krzysztof Rolbiecki",
+   "Andrzej Siódmok"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "23 pages, 10 figures",
+  "first_author": "Tomasz Procter",
+  "pdf_url": "http://arxiv.org/pdf/2606.01966",
+  "primary_category": "hep-ph",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "Reinterpreting the ATLAS HHH$\\to 6b$ Search with CheckMATE and Rivet: Validation, TRSM Benchmarks, and HL-LHC Prospects",
+  "topics": [
+   "Particle & High Energy Physics"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02084": {
+  "abstract": "In magnetic confinement fusion reactors, hydrogen plasma irradiation causes material saturation and recycling, where hydrogen released from the tungsten wall significantly impacts the peripheral plasma. Kinetic Monte Carlo (kMC) simulations are essential for investigating the dynamic balance between incident and emitted fluxes at the atomic scale. However, standard kMC frameworks are inadequate for handling realistic material complexities, such as polycrystalline structures and dynamic evolution under irradiation, being computationally bottlenecked by continuous transition parameter updates. Conventionally, evaluating migration barriers in disordered systems (e.g., grain boundaries) relies on computationally prohibitive on-the-fly atomistic calculations like the Nudged Elastic Band (NEB) method.   Here, we present a deep learning-accelerated Dynamic kMC framework that eliminates this reliance. Our approach integrates a three-stage deep learning pipeline: a pix2pix model for predicting local 3D potential energy distributions, a U-Net for extracting hydrogen trapping sites, and a 3D-CNN for directly evaluating migration barriers. To achieve macroscopic timescales, we implemented a hierarchical spatial index combined with a differential local-update algorithm operating in O(1) complexity. This architecture restricts recalculations to the immediate vicinity of moving atoms, accelerating updates. Demonstrated on a large-scale realistic polycrystalline tungsten model, the framework successfully reproduces preferential hydrogen trapping along grain boundaries, bridging the gap between atomic-scale accuracy and macroscopic timescales for full-scale plasma-wall interaction simulations.",
+  "authors": [
+   "Seiki Saito",
+   "Keisuke Takeuchi",
+   "Hiroaki Nakamura",
+   "Yasuhiro Oda",
+   "Kazuo Hoshino",
+   "Yuki Homma",
+   "Shohei Yamoto",
+   "Yuki Uchida"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph",
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Seiki Saito",
+  "pdf_url": "http://arxiv.org/pdf/2606.02084",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "Deep Learning-Accelerated Dynamic Kinetic Monte Carlo Simulation for Hydrogen Transport in Tungsten",
+  "topics": [
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02092": {
+  "abstract": "Semantic segmentation of remote sensing imagery requires models that capture both global context and local detail under tight computational budgets. Prior work typically optimizes for one of these axes: attention for global context, convolution for local detail, or compactness for efficiency. While hybrid approaches aim to capture both, they require architectural changes and encoder backbones with computational overhead, limiting efficiency and performance. We present LALE (Lightweight-transformer Architecture for Land-cover Estimation), an end-to-end remote sensing image segmentation architecture, that bifurcates its encoder by resolution: lightweight ConvMixer stages handle high-resolution local features, while transformer stages handle low-resolution global context, confining the quadratic cost of self-attention to deep, downsampled feature maps. An all-MLP multi-scale decoder, together with RMSNorm and StarReLU throughout, further reduces compute and parameter count. On the large-scale ARAS400k remote-sensing segmentation benchmark, LALE establishes a strong efficiency-performance trade-off against CNN, transformer, and hybrid baselines. Our smallest variant, (just 1.6M parameters), reaches within 2.6 F1 points of the best baseline (UPerNet) while using 4.5x fewer parameters, 7x less storage, 17x fewer GMACs, and delivering 1.8x higher throughput.",
+  "authors": [
+   "Ümit Mert Çağlar",
+   "Alptekin Temizel"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Ümit Mert Çağlar",
+  "pdf_url": "http://arxiv.org/pdf/2606.02092",
+  "primary_category": "eess.IV",
+  "published": "2026-06-01",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "LALE: Lightweight-Transformer Architecture for Land-Cover Estimation",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-06-01"
+ }
+}

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01907.html">CSST large-scale structure analysis pipeline: IV. Cosmic Voids Identified from Galaxy Group Samples as Probes of the Large-scale Structure</a></div></td>
+<td>Yingxiao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01907">2606.01907</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29876.html">Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Colton R. Feathers et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09945.html">Slow neutrinos: non-linearity and momentum-space emulation</a></div></td>
 <td>Amol Upadhye et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09945">2511.09945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03414.html">Cognitive Dark Matter: Measuring What AI Misses</a></div></td>
-<td>Patrick J. Mineault et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03414">2603.03414</a></td>
 </tr>
 </tbody></table>

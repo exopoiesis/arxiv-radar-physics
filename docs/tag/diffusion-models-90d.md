@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,11 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02143.html">Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Fabian Steinbrenner et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02143">2603.02143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20839.html">Training-Free Multi-Concept Image Editing</a></div></td>
-<td>Niki Foteinopoulou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20839">2602.20839</a></td>
 </tr>
 </tbody></table>

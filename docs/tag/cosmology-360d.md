@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,17 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08086.html">Large, fast and accurate HI intensity maps with latent overlap diffusion</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Satvik Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08086">2506.08086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19251.html">Probing the Bounce Energy Scale in Bouncing Cosmologies with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Junrong Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19251">2504.19251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03235.html">Model-Independent Reconstruction of f(T) Gravity Using Genetic Algorithms</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Redouane El Ouardi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03235">2506.03235</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Rushikesh Pawar et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05238.html">Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Xinwei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05238">2603.05238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03223.html">Expanding Universal Machine Learning Interatomic Potentials to 97 Elements Towards Nuclear Applications</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Naoya Kuroda et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03223">2603.03223</a></td>
 </tr>
 </tbody></table>

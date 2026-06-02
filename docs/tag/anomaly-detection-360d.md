@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01691.html">IstGPT: LLM-based Anomaly Detection for Spatial-Temporal Graph in Industrial Systems</a></div></td>
+<td>Yuchen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01691">2606.01691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01925.html">QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
+<td>Qizhe Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01925">2606.01925</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27942.html">Quantum principal component analysis without eigenvector recovery</a></div></td>
@@ -1892,11 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10613.html">Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information</a></div></td>
 <td>Henrik Sebastian Steude et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10613">2506.10613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06516.html">Nearest neighbor permutation entropy detects phase transitions in complex high-pressure systems</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Arthur A. B. Pessa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06516">2506.06516</a></td>
 </tr>
 </tbody></table>

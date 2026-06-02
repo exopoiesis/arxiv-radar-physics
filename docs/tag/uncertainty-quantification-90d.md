@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,29 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04395.html">Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Hang Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04395">2603.04395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12496.html">Regularity and tailored regularization of Deep Neural Networks, with application to parametric PDEs in uncertainty quantification</a></div></td>
-<td>Alexander Keller et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12496">2502.12496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21527.html">Sustainable Materials Discovery in the Era of Artificial Intelligence</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Sajid Mannan et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21527">2601.21527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02089.html">High-quality, high-information datasets for universal atomistic machine learning</a></div></td>
-<td>Cesare Malosso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02089">2603.02089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02717.html">Decoupling Intrinsic Molecular Efficacy from Platform Effects: An Interpretable Machine Learning Framework for Unbiased Perovskite Passivator Discovery</a></div></td>
-<td>Jing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02717">2603.02717</a></td>
 </tr>
 </tbody></table>

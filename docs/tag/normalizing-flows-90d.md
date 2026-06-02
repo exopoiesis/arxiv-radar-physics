@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>normalizing-flows — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <strong>90d</strong> <a href="normalizing-flows-360d.html">360d</a> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06944.html">Estimating Complex Densities using Two-Stage Normalizing Flows</a></div></td>
 <td>Roxana Darvishi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06944">2603.06944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02984.html">Variance reduction in lattice QCD observables via normalizing flows</a></div></td>
-<td>Ryan Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02984">2603.02984</a></td>
 </tr>
 </tbody></table>

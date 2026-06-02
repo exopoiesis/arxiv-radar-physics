@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,17 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04259.html">Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Baojun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2501.04259">2501.04259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05888.html">Variational Inference for Quantum HyperNetworks</a></div></td>
-<td>Luca Nepote et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05888">2506.05888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06465.html">Perturbative QCD reveals the softening of matter in the cores of massive neutron stars</a></div></td>
-<td>Oleg Komoltsev</td>
-<td><a href="http://arxiv.org/abs/2506.06465">2506.06465</a></td>
 </tr>
 </tbody></table>

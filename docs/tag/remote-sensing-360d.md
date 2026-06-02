@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02092.html">LALE: Lightweight-Transformer Architecture for Land-Cover Estimation</a></div></td>
+<td>Ümit Mert Çağlar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02092">2606.02092</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24460.html">Coarse-to-Fine Domain Incremental Learning with Attentive Distillation for Mining Footprint Segmentation in Multispectral Imagery</a></div></td>
@@ -3488,17 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17458.html">Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration</a></div></td>
 <td>Sebastian Hafner et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17458">2406.17458</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11165.html">YOLO-RS: Remote Sensing Enhanced Crop Detection Methods</a></div></td>
-<td>Linlin Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11165">2504.11165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06176.html">SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Zhenyu Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06176">2506.06176</a></td>
 </tr>
 </tbody></table>

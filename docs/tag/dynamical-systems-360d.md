@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">714 papers</span>
+  <span class="paper-count">712 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4286,17 +4286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16398.html">The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations</a></div></td>
 <td>Waïss Azizian et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16398">2503.16398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06168.html">Robustness of complexity estimation in event-driven signals against accuracy of event detection method</a></div></td>
-<td>Marco Cafiso et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06168">2506.06168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06228.html">Statistical Guarantees in Data-Driven Nonlinear Control: Conformal Robustness for Stability and Safety</a></div></td>
-<td>Ting-Wei Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06228">2506.06228</a></td>
 </tr>
 </tbody></table>

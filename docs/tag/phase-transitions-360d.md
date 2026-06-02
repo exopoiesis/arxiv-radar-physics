@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01597.html">Physics-Informed Modeling and Control of Emergent Behaviors in Robot Swarms</a></div></td>
+<td>Zixuan Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01597">2606.01597</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27300.html">Deterministic Mapping of Topological Phases via Autoregressive Exogenous Neural Networks</a></div></td>
@@ -1040,23 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04211.html">Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Junrong Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04211">2504.04211</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19251.html">Probing the Bounce Energy Scale in Bouncing Cosmologies with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Junrong Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19251">2504.19251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06516.html">Nearest neighbor permutation entropy detects phase transitions in complex high-pressure systems</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Arthur A. B. Pessa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06516">2506.06516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17242.html">Differentiable neural network representation of multi-well, locally-convex potentials</a></div></td>
-<td>Reese E. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17242">2506.17242</a></td>
 </tr>
 </tbody></table>

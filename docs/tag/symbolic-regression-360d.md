@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,17 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07549.html">Improving Memory Efficiency for Training KANs via Meta Learning</a></div></td>
 <td>Zhangchi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07549">2506.07549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13681.html">Ab Initio Nonparametric Variable Selection for Scalable Symbolic Regression with Large $p$</a></div></td>
-<td>Shengbin Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13681">2410.13681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06176.html">SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Zhenyu Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06176">2506.06176</a></td>
 </tr>
 </tbody></table>

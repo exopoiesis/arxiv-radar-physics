@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01652.html">Physics-Aware Linearized ADMM and Its Unrolling</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Satoshi Takabe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01652">2606.01652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Yueyang Wang et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27756.html">Sparse POD Mode Selection and Manifold Dimensionality Reduction with Neural Networks</a></div></td>
 <td>Tomoki Koike et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27756">2605.27756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26042.html">Alt-CC-PINN: An Alternating Optimization Framework with Implicit Neural Representation for Microwave Inverse Scattering Imaging</a></div></td>
-<td>Shilong Sun</td>
-<td><a href="http://arxiv.org/abs/2605.26042">2605.26042</a></td>
 </tr>
 </tbody></table>

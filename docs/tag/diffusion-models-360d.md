@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">611 papers</span>
+  <span class="paper-count">609 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3668,17 +3668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07083.html">Inverse Design of Metamaterials with Manufacturing-Guiding Spectrum-to-Structure Conditional Diffusion Model</a></div></td>
 <td>Jiawen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07083">2506.07083</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02951.html">LDPM: Towards undersampled MRI reconstruction with MR-VAE and Latent Diffusion Prior</a></div></td>
-<td>Xingjian Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02951">2411.02951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06400.html">ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction</a></div></td>
-<td>Changsheng Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06400">2506.06400</a></td>
 </tr>
 </tbody></table>

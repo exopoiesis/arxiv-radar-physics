@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">712 papers</span>
+  <span class="paper-count">710 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4274,17 +4274,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08475.html">Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Xiaolong He et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08475">2506.08475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13654.html">A Novel Neural Filter to Improve Accuracy of Neural Network Models of Dynamic Systems</a></div></td>
-<td>Parham Oveissi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13654">2409.13654</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16398.html">The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations</a></div></td>
-<td>Waïss Azizian et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16398">2503.16398</a></td>
 </tr>
 </tbody></table>

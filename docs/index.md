@@ -5,15 +5,93 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-06-02._
+_Updated 2026-06-03._
 
-**18645** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**18672** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03159.html">NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation</a></div></td>
+<td> NVIDIA et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03159">2606.03159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03224.html">COSMOS2025: Machine Learning Classification of Early- and Late-type Galaxies at 0 &lt; z &lt; 3</a></div></td>
+<td>Vahid Asadi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03224">2606.03224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03355.html">APIC: Amortized Physics-Informed Calibration using Neural Processes</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Aishwarya Venkataramanan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03355">2606.03355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03536.html">Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots</a></div></td>
+<td>Tianchen Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03536">2606.03536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03572.html">GeoVolDiff: Taming 3D Geological Volumes with Latent Diffusion</a></div></td>
+<td>Qi Pang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03572">2606.03572</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03764.html">RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers</a></div></td>
+<td>Frank M. Abel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03764">2606.03764</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03816.html">Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials</a></div><div class="paper-tags"><a href="tag/inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Simon Wiesheier et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03816">2606.03816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03838.html">Uncovering Turbulent Dynamics in Stenotic Flows from 4D-flow MRI Measurements via Resolvent Analysis and Data Assimilation</a></div><div class="paper-tags"><a href="tag/data-assimilation-30d.html">data-assimilation</a> · <a href="tag/rans-30d.html">rans</a></div></td>
+<td>Aleaxndre Villié et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03838">2606.03838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03848.html">Generating quantum ensembles via reverse-time quantum diffusions</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a> · <a href="tag/schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
+<td>Maël Bompais et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03848">2606.03848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03860.html">Biased tracers, Hybrid Effective Field Theory and Modified Gravity</a></div></td>
+<td>Guilherme Brando et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03860">2606.03860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03926.html">DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data</a></div></td>
+<td>Mengdi Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03926">2606.03926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03962.html">Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Anthony GX-Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03962">2606.03962</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Giuliano Giacalone et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01538.html">MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics</a></div></td>
@@ -99,99 +177,21 @@ _Updated 2026-06-02._
 <td><a href="http://arxiv.org/abs/2606.02092">2606.02092</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24460.html">Coarse-to-Fine Domain Incremental Learning with Attentive Distillation for Mining Footprint Segmentation in Multispectral Imagery</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Alif Tri Handoyo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24460">2605.24460</a></td>
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02115.html">Error Bounds for a Diffusion Model-Based Drift Estimator</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Ioar Casado-Telletxea et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02115">2606.02115</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28373.html">FARSim: a fast RF-chain-aware trigger-screening surrogate for radio detection of ultra-high-energy cosmic rays</a></div></td>
-<td>Xin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28373">2605.28373</a></td>
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02153.html">Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking From Sparse Inertial Sensors and Ranging-Based Between-Sensor Distances</a></div></td>
+<td>Dominik Hollidt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02153">2606.02153</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29193.html">Bayesian reversal of the liquid level trajectory in a draining tank for pollution forensics</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Kyla D. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29193">2605.29193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29248.html">Steering Tropical Cyclones Using Small Perturbations in an AI Weather Model</a></div></td>
-<td>Qin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29248">2605.29248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29267.html">When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop</a></div></td>
-<td>Yang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29267">2605.29267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29330.html">EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Kelsey Doerksen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29330">2605.29330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/inverse-problems-30d.html">inverse-problems</a> · <a href="tag/normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Yueyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29373">2605.29373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29383.html">Bayesian constraints on the transport coefficients $η/s$ and $ζ/s$ from spin polarization in relativisitic heavy-ion collisions</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Sushant K. Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29383">2605.29383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29391.html">Phast: Simultaneous reconstruction of photoelectron count and time profiles from PMT waveforms via machine learning</a></div></td>
-<td>Yiming Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29391">2605.29391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29471.html">V2XCrafter: Learning to Generate Driving Scene Across Agents</a></div></td>
-<td>Yihang Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29471">2605.29471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29546.html">Rademacher Complexity Bounds for Parameterized Quantum Circuits Generated by Pauli Strings</a></div><div class="paper-tags"><a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Hiroshi Ohno</td>
-<td><a href="http://arxiv.org/abs/2605.29546">2605.29546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Yeyong Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29555">2605.29555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29560.html">Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Jiawei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29560">2605.29560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
-<td>Andreas Burger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29622">2605.29622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29669.html">Eigen-Spike Emergence and Quadratic Equivalents for Conjugate Kernels on Nonlinearly Separable Data</a></div></td>
-<td>Collin Cranston et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29669">2605.29669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Qihong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02258.html">Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Shashwat Sourav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02258">2606.02258</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03355.html">APIC: Amortized Physics-Informed Calibration using Neural Processes</a></div></td>
+<td>Aishwarya Venkataramanan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03355">2606.03355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div></td>
+<td>Giuliano Giacalone et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
+<td>Mitchell T. Dennis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02732">2606.02732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29193.html">Bayesian reversal of the liquid level trajectory in a draining tank for pollution forensics</a></div></td>
@@ -236,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03156.html">Primordial Black Hole contribution to the stochastic background of Gravitational Waves</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
 <td>D. Martín-González</td>
 <td><a href="http://arxiv.org/abs/2605.03156">2605.03156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05674.html">Observational Insights on DBI K-essence Models Using Machine Learning and Bayesian Analysis</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Samit Ganguly et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05674">2506.05674</a></td>
 </tr>
 </tbody></table>

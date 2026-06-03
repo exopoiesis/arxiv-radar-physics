@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cfd — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,17 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27968.html">Adapting Automotive Aerodynamics Surrogates to New Vehicle Families via Transfer Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Seunghwan Keum et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27968">2605.27968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27578.html">From Centerlines to Hemodynamics: Anisotropic RBF Decoders for Coronary Arteries</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
-<td>Reza Akbarian Bafghi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27578">2605.27578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27725.html">CFDTwin: An open-source GUI and Python toolkit for POD-NN surrogate modeling of ANSYS Fluent simulations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Daniel Curl et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27725">2605.27725</a></td>
 </tr>
 </tbody></table>

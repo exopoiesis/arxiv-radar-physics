@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02661.html">Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Yunlong Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02661">2606.02661</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="rom-90d.html">rom</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
@@ -758,29 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23428.html">Merging Memory and Space: A State Space Neural Operator</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
 <td>Nodens Koren et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23428">2507.23428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02168.html">An Approximation Theory Perspective on Machine Learning</a></div></td>
-<td>Hrushikesh N. Mhaskar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02168">2506.02168</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03621.html">Extending Neural Operators: Robust Handling of Functions Beyond the Training Set</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Blaine Quackenbush et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03621">2603.03621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03912.html">Fast proton transport and neutron production in proton therapy using Fourier neural operators</a></div></td>
-<td>Francesco Blangiardi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03912">2603.03912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03922.html">Hierarchical Inference and Closure Learning via Adaptive Surrogates for ODEs and PDEs</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Pengyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03922">2603.03922</a></td>
 </tr>
 </tbody></table>

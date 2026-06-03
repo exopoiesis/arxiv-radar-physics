@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <strong>90d</strong> <a href="quantum-many-body-systems-360d.html">360d</a> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13485.html">Distance learning from projective measurements as an information-geometric probe of many-body physics</a></div></td>
 <td>Oleksii Malyshev et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13485">2603.13485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04486.html">Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
-<td>Nik O. Gjonbalaj et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04486">2603.04486</a></td>
 </tr>
 </tbody></table>

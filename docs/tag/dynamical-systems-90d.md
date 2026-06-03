@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">229 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1388,17 +1388,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09980.html">Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Enzo Nicolas Spotorno et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09980">2602.09980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14059.html">Tracking solutions of time-varying variational inequalities</a></div></td>
-<td>Hédi Hadiji et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14059">2406.14059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03650.html">Adaptive Sensing of Continuous Physical Systems for Machine Learning</a></div></td>
-<td>Felix Köster et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03650">2603.03650</a></td>
 </tr>
 </tbody></table>

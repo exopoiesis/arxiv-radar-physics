@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11781.html">GeoPandas-AI: A Smart Class Bringing LLM as Stateful AI Code Assistant</a></div></td>
 <td>Gaspard Merten et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11781">2506.11781</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06753.html">Influential scientists shape knowledge flows between science and IGO policy</a></div></td>
-<td>Kimitaka Asatani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06753">2506.06753</a></td>
 </tr>
 </tbody></table>

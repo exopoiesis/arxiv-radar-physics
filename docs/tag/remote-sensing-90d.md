@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05571.html">UK White Paper on Magnetohydrodynamic (MHD) seismology of solar and heliospheric plasmas</a></div><div class="paper-tags"><a href="mhd-90d.html">mhd</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Valery M. Nakariakov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05571">2603.05571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04562.html">Fusion and Grouping Strategies in Deep Learning for Local Climate Zone Classification of Multimodal Remote Sensing Data</a></div></td>
-<td>Ancymol Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04562">2603.04562</a></td>
 </tr>
 </tbody></table>

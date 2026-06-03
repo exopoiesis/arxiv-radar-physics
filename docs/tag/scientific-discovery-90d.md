@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03962.html">Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</a></div></td>
+<td>Anthony GX-Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03962">2606.03962</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02258.html">Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Shashwat Sourav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02258">2606.02258</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02430.html">Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference</a></div></td>
+<td>Yafan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02430">2606.02430</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29560.html">Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</a></div></td>
@@ -1046,11 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05151.html">Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a></div></td>
 <td>Steffen Eger et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05151">2502.05151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03780.html">MACC: Multi-Agent Collaborative Competition for Scientific Exploration</a></div></td>
-<td>Satoshi Oyama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03780">2603.03780</a></td>
 </tr>
 </tbody></table>

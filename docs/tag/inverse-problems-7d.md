@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03816.html">Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials</a></div></td>
+<td>Simon Wiesheier et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03816">2606.03816</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01652.html">Physics-Aware Linearized ADMM and Its Unrolling</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
@@ -26,29 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29373.html">Deep Adaptive Dimension Reduction for Bayesian Inference in Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Yueyang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29373">2605.29373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25353.html">PDEInvBench: A Comprehensive Dataset and Design Space Exploration of Neural Networks for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Divyam Goel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25353">2605.25353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27191.html">Statistical and Algorithmic Foundations of Probing Quantum Systems with Compressive Measurements: A Review</a></div></td>
-<td>Zhen Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27191">2605.27191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27544.html">Subsystem Structure as an Inferential Resource for Coupled Engineered Systems</a></div></td>
-<td>Esmaeil Ghorbani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27544">2605.27544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27756.html">Sparse POD Mode Selection and Manifold Dimensionality Reduction with Neural Networks</a></div></td>
-<td>Tomoki Koike et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27756">2605.27756</a></td>
 </tr>
 </tbody></table>

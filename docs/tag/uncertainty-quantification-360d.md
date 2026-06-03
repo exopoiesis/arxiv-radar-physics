@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">545 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02886.html">Scalable Uncertainty Quantification for Extreme Weather Forecasting via Empirical Neural Tangent Kernels</a></div></td>
+<td>Jose Marie Antonio Miñoza et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02886">2606.02886</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29976.html">Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
@@ -3272,17 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08152.html">The Riemann problem for three-phase foam flow in porous media</a></div></td>
 <td>Luis Fernando Lozano et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08152">2506.08152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13794.html">Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Da Long et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13794">2410.13794</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06638.html">Meteorologically-Informed Adaptive Conformal Prediction for Tropical Cyclone Intensity Forecasting</a></div></td>
-<td>Xuepeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06638">2506.06638</a></td>
 </tr>
 </tbody></table>

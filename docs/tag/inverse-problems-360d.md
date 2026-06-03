@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03816.html">Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials</a></div></td>
+<td>Simon Wiesheier et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03816">2606.03816</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01652.html">Physics-Aware Linearized ADMM and Its Unrolling</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Satoshi Takabe et al.</td>
@@ -2492,11 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04259.html">Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Baojun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2501.04259">2501.04259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13794.html">Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Da Long et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13794">2410.13794</a></td>
 </tr>
 </tbody></table>

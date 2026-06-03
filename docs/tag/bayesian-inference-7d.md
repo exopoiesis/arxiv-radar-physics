@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03355.html">APIC: Amortized Physics-Informed Calibration using Neural Processes</a></div></td>
+<td>Aishwarya Venkataramanan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03355">2606.03355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div></td>
+<td>Giuliano Giacalone et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
+<td>Mitchell T. Dennis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02732">2606.02732</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29193.html">Bayesian reversal of the liquid level trajectory in a draining tank for pollution forensics</a></div></td>
 <td>Kyla D. Jones et al.</td>
@@ -32,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29383.html">Bayesian constraints on the transport coefficients $η/s$ and $ζ/s$ from spin polarization in relativisitic heavy-ion collisions</a></div></td>
 <td>Sushant K. Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29383">2605.29383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Hans Reimann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27500.html">Constraining Gravitational Wave Memory with Hierarchical Inference</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a></div></td>
-<td>Keefe Mitman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27500">2605.27500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27562.html">A Semi-Supervised Variational Autoencoder for Generating Neutron Star Equations of State</a></div></td>
-<td>Tianqi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27562">2605.27562</a></td>
 </tr>
 </tbody></table>

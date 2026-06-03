@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,23 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06800.html">From Accurate Quantum Chemistry to Converged Thermodynamics for Ion Pairing in Solution</a></div></td>
 <td>Niamh O&#x27;Neill et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06800">2603.06800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23117.html">The Open Polymers 2026 (OPoly26) Dataset and Evaluations</a></div></td>
-<td>Daniel S. Levine et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23117">2512.23117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04092.html">Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
-<td>Udari De Alwis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04092">2603.04092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div></td>
-<td>Sakshi Goel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04103">2603.04103</a></td>
 </tr>
 </tbody></table>

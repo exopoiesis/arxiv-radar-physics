@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02886.html">Scalable Uncertainty Quantification for Extreme Weather Forecasting via Empirical Neural Tangent Kernels</a></div></td>
+<td>Jose Marie Antonio Miñoza et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02886">2606.02886</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29976.html">Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
@@ -968,17 +974,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04697.html">A Multi-Fidelity Tensor Emulator for Spatiotemporal Outputs: Emulation of Arctic Sea Ice Dynamics</a></div></td>
 <td>Tristan Contant et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04697">2603.04697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03838.html">Climate Downscaling with Stochastic Interpolants (CDSI)</a></div></td>
-<td>Erik Larsson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03838">2603.03838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04395.html">Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Hang Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04395">2603.04395</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>koopman-operator — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <strong>30d</strong> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05134.html">Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction</a></div></td>
 <td>Dan Wilson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05134">2605.05134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01835.html">Learning Koopman operators for coupled systems via information on governing equations of subsystems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Tatsuya Naoi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01835">2605.01835</a></td>
 </tr>
 </tbody></table>

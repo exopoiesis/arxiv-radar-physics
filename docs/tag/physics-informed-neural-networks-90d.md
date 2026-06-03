@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,11 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05033.html">Neural blind deconvolution to reconstruct high-resolution ground-based solar observations</a></div><div class="paper-tags"><a href="mhd-90d.html">mhd</a></div></td>
 <td>Christoph Schirninger et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05033">2603.05033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04019.html">Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Antonin Sulc</td>
-<td><a href="http://arxiv.org/abs/2603.04019">2603.04019</a></td>
 </tr>
 </tbody></table>

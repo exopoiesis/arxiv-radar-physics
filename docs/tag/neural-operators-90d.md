@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24579.html">Adaptive Correction for Ensuring Conservation Laws in Neural Operators</a></div></td>
 <td>Chaoyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24579">2505.24579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23428.html">Merging Memory and Space: A State Space Neural Operator</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
-<td>Nodens Koren et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23428">2507.23428</a></td>
 </tr>
 </tbody></table>

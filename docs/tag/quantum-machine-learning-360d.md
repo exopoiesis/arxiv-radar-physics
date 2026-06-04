@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,11 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07937.html">Quantum Graph Transformer for NLP Sentiment Classification</a></div></td>
 <td>Shamminuj Aktar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07937">2506.07937</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09069.html">Devanagari Digit Recognition using Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Sahaj Raj Malla</td>
-<td><a href="http://arxiv.org/abs/2506.09069">2506.09069</a></td>
 </tr>
 </tbody></table>

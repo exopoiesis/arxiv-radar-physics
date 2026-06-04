@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04094.html">Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging</a></div></td>
+<td>Erandi Chavez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04094">2606.04094</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
 <td>Mitchell T. Dennis et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03362.html">Predicting and controlling nonlinear neuro-mechanical locomotion dynamics</a></div></td>
 <td>Alexander E. Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03362">2605.03362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03156.html">Primordial Black Hole contribution to the stochastic background of Gravitational Waves</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
-<td>D. Martín-González</td>
-<td><a href="http://arxiv.org/abs/2605.03156">2605.03156</a></td>
 </tr>
 </tbody></table>

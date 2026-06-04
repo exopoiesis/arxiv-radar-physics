@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">226 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1370,23 +1370,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06872.html">Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green&#x27;s Functions and the Method of Characteristics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
 <td>Boumediene Hamzi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06872">2603.06872</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18339.html">Structured Kolmogorov-Arnold Neural ODEs for Interpretable Learning and Symbolic Discovery of Nonlinear Dynamics</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Wei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18339">2506.18339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27173.html">FMint-SDE: A Multimodal Foundation Model for Accelerating Numerical Simulation of SDEs via Error Correction</a></div></td>
-<td>Jiaxin Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27173">2510.27173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09980.html">Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Enzo Nicolas Spotorno et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09980">2602.09980</a></td>
 </tr>
 </tbody></table>

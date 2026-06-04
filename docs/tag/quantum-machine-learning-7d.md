@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,23 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29877.html">Verifying Adversarial Robustness in Quantum Machine Learning: from theory to physical validation via a software tool</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
 <td>Ji Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29877">2605.29877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27923.html">Do We Really Need Quantum Machine Learning?: A Multidimensional Empirical Study</a></div></td>
-<td>Sudip Vhaduri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27923">2605.27923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28690.html">Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States</a></div></td>
-<td>Quoc Hoan Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28690">2605.28690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28899.html">Quantum-Enhanced Adversarial Robustness in Artificial Intelligence</a></div></td>
-<td>Jaydip Sen</td>
-<td><a href="http://arxiv.org/abs/2605.28899">2605.28899</a></td>
 </tr>
 </tbody></table>

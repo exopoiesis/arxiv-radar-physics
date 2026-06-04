@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,17 +1034,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06761.html">Diversity-Aware Adaptive Collocation for Physics-Informed Neural Networks via Sparse QUBO Optimization and Hybrid Coresets</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Hadi Salloum et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06761">2603.06761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23246.html">Quantum Physics-Informed Neural Networks for Maxwell&#x27;s Equations: Circuit Design, &quot;Black Hole&quot; Barren Plateaus Mitigation, and GPU Acceleration</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Ziv Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23246">2506.23246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09980.html">Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Enzo Nicolas Spotorno et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09980">2602.09980</a></td>
 </tr>
 </tbody></table>

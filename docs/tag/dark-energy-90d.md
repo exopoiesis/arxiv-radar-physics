@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04208.html">HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy</a></div></td>
+<td>Erin Mentuch Cooper et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04208">2606.04208</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30139.html">Cosmo-PINN: A Physics-Informed Neural Network for Cosmological Reconstruction</a></div></td>
 <td>Andronikos Paliathanasis</td>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03422.html">Simulation-Based Inference for Probabilistic Galaxy Detection and Deblending</a></div></td>
 <td>Ismael Mendoza et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03422">2601.03422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05009.html">Observational and Thermodynamic aspects of one-dimensional Dark Energy EoS parametrization models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Anirban Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05009">2603.05009</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,17 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03086.html">Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Yizheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03086">2601.03086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17805.html">Towards Sharp Minimax Risk Bounds for Operator Learning</a></div></td>
-<td>Ben Adcock et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17805">2512.17805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05577.html">Koopman Regularized Deep Speech Disentanglement for Speaker Verification</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Nikos Chazaridis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05577">2603.05577</a></td>
 </tr>
 </tbody></table>

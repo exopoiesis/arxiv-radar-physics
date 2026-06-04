@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transitions — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <strong>30d</strong> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div></td>
 <td>Truong Xuan Khanh</td>
 <td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29184.html">Cell-induced densification and tether formation in fibrous extracellular matrices with biomimetic physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Anci Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29184">2603.29184</a></td>
 </tr>
 </tbody></table>

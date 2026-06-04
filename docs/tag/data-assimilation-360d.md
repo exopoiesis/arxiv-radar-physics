@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,11 +824,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10875.html">Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Guanjin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10875">2506.10875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07321.html">Capability demonstration of a JEDI-based system for TEMPO assimilation: system description and evaluation</a></div></td>
-<td>Maryam Abdi-Oskouei et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07321">2506.07321</a></td>
 </tr>
 </tbody></table>

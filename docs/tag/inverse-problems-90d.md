@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06632.html">FEALPy: A Cross-platform Intelligent Numerical Simulation Engine</a></div></td>
 <td>Yangyang Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06632">2512.06632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15664.html">Bayesian Inference for PDE-based Inverse Problems using the Optimization of a Discrete Loss</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Lucas Amoudruz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15664">2510.15664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04922.html">Quantum relative entropy regularization for quantum state tomography</a></div></td>
-<td>Florian Oberender et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04922">2603.04922</a></td>
 </tr>
 </tbody></table>

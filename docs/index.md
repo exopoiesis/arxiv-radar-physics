@@ -5,15 +5,33 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-06-03._
+_Updated 2026-06-04._
 
-**18672** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**18677** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04895.html">Posterior sampling in the Age of Emulators</a></div></td>
+<td>Andreas Nygaard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04895">2606.04895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04991.html">Deep Learning with Magnetic Parameter Constraints for Short-Term Prediction of Solar Active Region Vector Magnetic Fields</a></div><div class="paper-tags"><a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Yuqing Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04991">2606.04991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05047.html">Full Nonlinear Velocity Reconstruction With Transformer and Ensemble Tree Machine Learning</a></div></td>
+<td>Yulin Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05047">2606.05047</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03159.html">NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation</a></div></td>
@@ -93,6 +111,18 @@ _Updated 2026-06-03._
 <td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04094.html">Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Erandi Chavez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04094">2606.04094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04208.html">HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy</a></div><div class="paper-tags"><a href="tag/dark-energy-30d.html">dark-energy</a></div></td>
+<td>Erin Mentuch Cooper et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04208">2606.04208</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01538.html">MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics</a></div></td>
 <td>Žiga Kovačič et al.</td>
@@ -163,35 +193,5 @@ _Updated 2026-06-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01966.html">Reinterpreting the ATLAS HHH$\to 6b$ Search with CheckMATE and Rivet: Validation, TRSM Benchmarks, and HL-LHC Prospects</a></div></td>
 <td>Tomasz Procter et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01966">2606.01966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02084.html">Deep Learning-Accelerated Dynamic Kinetic Monte Carlo Simulation for Hydrogen Transport in Tungsten</a></div></td>
-<td>Seiki Saito et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02084">2606.02084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02092.html">LALE: Lightweight-Transformer Architecture for Land-Cover Estimation</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Ümit Mert Çağlar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02092">2606.02092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02115.html">Error Bounds for a Diffusion Model-Based Drift Estimator</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Ioar Casado-Telletxea et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02115">2606.02115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02153.html">Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking From Sparse Inertial Sensors and Ranging-Based Between-Sensor Distances</a></div></td>
-<td>Dominik Hollidt et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02153">2606.02153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02258.html">Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Shashwat Sourav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02258">2606.02258</a></td>
 </tr>
 </tbody></table>

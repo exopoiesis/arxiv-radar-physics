@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01112.html">The causal structure of galactic astrophysics</a></div></td>
 <td>Harry Desmond et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01112">2510.01112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04789.html">Bayesian Learning of (n,p) Reaction Cross Sections with Quantified Uncertainties</a></div></td>
-<td>Arunabha Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04789">2603.04789</a></td>
 </tr>
 </tbody></table>

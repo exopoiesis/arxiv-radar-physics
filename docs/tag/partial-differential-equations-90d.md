@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,29 +1358,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06287.html">Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Akshay Govind Srinivasan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06287">2603.06287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23246.html">Quantum Physics-Informed Neural Networks for Maxwell&#x27;s Equations: Circuit Design, &quot;Black Hole&quot; Barren Plateaus Mitigation, and GPU Acceleration</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Ziv Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23246">2506.23246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23428.html">Merging Memory and Space: A State Space Neural Operator</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
-<td>Nodens Koren et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23428">2507.23428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15664.html">Bayesian Inference for PDE-based Inverse Problems using the Optimization of a Discrete Loss</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Lucas Amoudruz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15664">2510.15664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04711.html">Physics-Informed Deep Learning for Industrial Processes: Time-Discrete VPINNs for heat conduction</a></div></td>
-<td>Manuela Bastidas Olivares et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04711">2603.04711</a></td>
 </tr>
 </tbody></table>

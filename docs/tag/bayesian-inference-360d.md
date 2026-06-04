@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04094.html">Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging</a></div></td>
+<td>Erandi Chavez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04094">2606.04094</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Mitchell T. Dennis et al.</td>
@@ -2678,11 +2684,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07856.html">Stability of Mean-Field Variational Inference</a></div></td>
 <td>Shunan Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07856">2506.07856</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04259.html">Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Baojun Che et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04259">2501.04259</a></td>
 </tr>
 </tbody></table>

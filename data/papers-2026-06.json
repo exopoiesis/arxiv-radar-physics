@@ -1107,5 +1107,169 @@
    "Generative Models & Discovery"
   ],
   "updated": "2026-06-02"
+ },
+ "2606.04094": {
+  "abstract": "From magnetized plasma of relativistic jets to dust grains within protoplanetary disks, we study the emission mechanisms of radio sources via their rich spectral structure. Multifrequency Synthesis (MFS) is a technique in which interferometric data at multiple frequencies are imaged simultaneously, resulting in a denser sampling of spatial scales, higher imaging fidelity, and tighter constraints on the source's spectral structure and evolution. We describe a new method of MFS imaging reconstruction in a hierarchical interferometric Bayesian inference framework, CHIBI. The model parametrization is based on the spectral behavior of synchrotron radiation, the emission mechanism dominating the radio emission observed from galactic nuclei. We show results of this method on observations of jet sources from the MOJAVE catalog with the Very Long Baseline Array, and showcase the prospects for MFS imaging of M87* with simulated data from the Event Horizon Telescope (EHT) and future expansions such as the next generation EHT and the Black Hole Explorer. These demonstrations highlight the benefit of MFS to reconstruct higher-fidelity images and spectral index maps, producing scientifically richer results in a statistically grounded framework, implemented in Comrade.jl.",
+  "authors": [
+   "Erandi Chavez",
+   "Paul Tiede",
+   "Sara Issaoun",
+   "Michael D. Johnson",
+   "Dominic Pesce",
+   "Yuh Tsunetoe",
+   "Daniel C. M. Palumbo"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.HE"
+  ],
+  "comment": "26 pages, 18 figures, to be published in ApJ",
+  "first_author": "Erandi Chavez",
+  "pdf_url": "http://arxiv.org/pdf/2606.04094",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-06-02",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04208": {
+  "abstract": "The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX) is a wide-field, integral-field spectroscopic survey designed to map the large-scale distribution of Lyman-alpha emitting galaxies (LAEs) at 1.88 < z < 3.52 and constrain dark energy at cosmic noon. Using the 10-m Hobby-Eberly Telescope and the Visible Integral-Field Replicable Unit (IFU) Spectrograph, HETDEX obtains >35,000 spectra per exposure over 3500-5500 Å at R~800 with ~1.8 arcsec image quality, enabling an untargeted census of emission-line galaxies across 540 sq deg. We present HETDEX Public Data Release 1 (PDR1), comprising 431,713 IFU observations covering 86.67 sq deg of noncontiguous sky in the Spring (13h, +51°) and Fall (1.5h, 0°) fields, along with legacy regions (COSMOS, GOODS-N, NEP, SA22). PDR1 includes the HETDEX Public Source Catalog 2 (HPSC2), an expanded and reprocessed version of Mentuch Cooper et al. (2023) incorporating four additional years of data, improved quality control, and new machine learning classifiers. HPSC2 contains 426,654 LAEs, 491,411 [O II] emitters, 19,457 low-z galaxies, 18,303 active galactic nuclei, and 150,608 stars, providing coordinates, redshifts or stellar velocities, and 1D spectra for each source. Because the data cubes use local sky subtraction optimized for faint emission-line detection, they are not suited for absolute surface-brightness measurements or very extended nearby galaxies. Appendix materials include the full detection catalog, the 1.6 million-candidate LAE sample, and raw detection databases. All products are publicly accessible through the HETDEX data portal (https://hetdex.org/data-results/), including access to a public JupyterLab. HPSC2 is also publicly available via Zenodo (DOI: 10.5281/zenodo.19581262).",
+  "authors": [
+   "Erin Mentuch Cooper",
+   "Karl Gebhardt",
+   "Dustin Davis",
+   "Chenxu Liu",
+   "Barbara G. Castanheira",
+   "Owen Chase",
+   "Oscar A. Chavez Ortiz",
+   "Robin Ciardullo",
+   "Olivia Curtis",
+   "Delaney A. Dunne",
+   "Neal J. Evans",
+   "Daniel J. Farrow",
+   "Maximilian Fabricius",
+   "Steven L. Finkelstein",
+   "Caryl Gronwall",
+   "Nathaniel J. Hamme",
+   "Gary J. Hill",
+   "Lindsay R. House",
+   "Matt J. Jarvis",
+   "Donghui Jeong",
+   "Andreas Kelz",
+   "Eiichiro Komatsu",
+   "Mahan Mirza Khanlari",
+   "Hasti Khoraminezhad",
+   "Wolfram Kollatschny",
+   "Maja Lujan Niemeyer",
+   "Hanshin Lee",
+   "Phillip MacQueen",
+   "Deeshani Mitra",
+   "Shiro Mukae",
+   "Masami Ouchi",
+   "Jennifer Poppe",
+   "Meredith C. Powell",
+   "Mahdi Qezlou",
+   "Shun Saito",
+   "Donald P. Schneider",
+   "Laurel Weiss",
+   "Lutz Wisotzki",
+   "Gregory R. Zeimann"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.CO"
+  ],
+  "comment": "47 pages, 16 figures, 11 tables. All products are publicly accessible through the HETDEX data portal (https://hetdex.org/data-results/), including access to a public JupyterLab. HPSC2 is also publicly available via Zenodo (DOI: 10.5281/zenodo.19581262). Accepted for publication in ApJS",
+  "first_author": "Erin Mentuch Cooper",
+  "pdf_url": "http://arxiv.org/pdf/2606.04208",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-06-02",
+  "tags": [
+   "dark-energy"
+  ],
+  "title": "HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04895": {
+  "abstract": "We investigate posterior sampling strategies for cosmological parameter inference using fully differentiable neural-network likelihood emulators, which provide both rapid likelihood evaluations and automatic differentiation.   We compare Metropolis--Hastings (MH), the Metropolis-Adjusted Langevin Algorithm (MALA), Hamiltonian Monte Carlo (HMC), the No U-Turn Sampler (NUTS), and Affine Invariant Ensemble Sampling (AIES) using likelihood emulators constructed with the CLiENT framework. The methods are tested on emulators of both the $Λ$CDM model and a sterile-neutrino extension.   While NUTS generally converges in the fewest samples, its higher computational cost reduces this advantage when performance is measured by wall time. As a result, MALA and even standard MH remain highly competitive. We further find that whitening and covariance adaptation substantially improve sampling efficiency.   The TensorFlow implementations developed for this work are released as the BEST (Batched Emulator Sampling with TensorFlow) package, providing a general framework for sampling arbitrary TensorFlow likelihood functions. The package is available through PyPI as 'best-inference' and on GitHub (at https://github.com/AndreasNygaard/best-inference.git).",
+  "authors": [
+   "Andreas Nygaard",
+   "Luca Janken",
+   "Steen Hannestad",
+   "Thomas Tram"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.CO"
+  ],
+  "comment": "21 pages, 7 figures, 1 table",
+  "first_author": "Andreas Nygaard",
+  "pdf_url": "http://arxiv.org/pdf/2606.04895",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Posterior sampling in the Age of Emulators",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.04991": {
+  "abstract": "Forecasting the dynamic evolution of solar magnetic fields is a critical technique for enabling space weather warnings. Addressing the limitations of existing methods in predicting all vector magnetic field components and in maintaining consistency with solar surface magnetic-field-related quantities, this study proposes a deep learning prediction method that integrates dynamic masks of active regions with multiple magnetic parameter constraints. By constructing a three-channel representation of vector magnetic fields, applying dynamic masks to enhance attention to strong-field regions, and incorporating multi-parameter magnetic parameter constraints, we developed an end-to-end short-term (12-hour) predictive model of solar vector magnetic field evolution. Using SDO/SHARP vector magnetogram data, the model predicts and analyses field evolution across all components. Quantitative evaluations demonstrate that our approach achieves horizon-averaged structural similarity index measure (SSIM) of 0.912 (per-hour range: 0.909--0.916) and correlation coefficient (CC) of 0.998 for the radial component Br (root-mean-square error (RMSE) 13.0--21.0 G); the horizontal components achieve Bphi SSIM 0.760--0.800 (CC 0.910--0.945, RMSE 38.5--50.0 G) and Btheta SSIM 0.728--0.750 (CC 0.895--0.920, RMSE 38.5--49.0 G). The model maintains unsigned magnetic flux prediction errors at 7.82% (95% confidence interval (CI): +/-0.11%). These results demonstrate strong image-domain performance together with consistency under the magnetic-parameter diagnostics used here, suggesting initial potential for supporting future space weather forecasting efforts.",
+  "authors": [
+   "Yuqing Zhou",
+   "Hui Liu",
+   "Zhenyu Jin",
+   "Yuyang Li",
+   "Sizhong Zou",
+   "Jiaben Lin",
+   "Mingfu Shao",
+   "Zhuoheng Huang"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "Accepted for publication in Solar Physics. 44 pages, 35 figures",
+  "first_author": "Yuqing Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2606.04991",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-06-03",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "Deep Learning with Magnetic Parameter Constraints for Short-Term Prediction of Solar Active Region Vector Magnetic Fields",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05047": {
+  "abstract": "Accurate reconstruction of peculiar velocities from galaxy positions is important for probing the motion and evolution of large scale structure. They are sensitive to the cosmological effects of gravity and dark sector matter, and complement other velocity inference methods such as the kinematic Sunyaev-Zel'dovich (kSZ) imprinted in the CMB. We show that machine learning methods improve velocity reconstruction by capturing nonlinear contributions. Specifically, we train both a gradient boosting decision tree (GBDT) and a Transformer using multi-scale features to predict the residual between the actual velocity and the estimate from linear theory for both the line-of-sight and transverse components. We evaluate our approach in both periodic box and, more realistic, lightcone settings using mock galaxy catalogs from the \\textsc{AbacusSummit} simulations tailored to DESI spectroscopic surveys of luminous red galaxies (LRGs) and emission line galaxies (ELGs). We also assess the impact of redshift uncertainties such as those in Rubin LSST photometry. Both models significantly outperform the linear theory with the Transformer achieving the best performance. They more accurately recover the velocity power spectrum and maintain a higher cross-correlation with the true velocities across a wider range of spatial scales. Finally, we demonstrate two applications relevant to kSZ analyses: estimating cluster pairwise velocity correlations and stacked cluster density profiles. This machine learning framework for nonlinear velocity reconstruction opens up powerful new applications of survey data from DESI, Rubin LSST, Euclid and the Roman Space Telescope.",
+  "authors": [
+   "Yulin Gong",
+   "Rachel Bean"
+  ],
+  "categories": [
+   "astro-ph.CO"
+  ],
+  "comment": "19 pages, 7 figures",
+  "first_author": "Yulin Gong",
+  "pdf_url": "http://arxiv.org/pdf/2606.05047",
+  "primary_category": "astro-ph.CO",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Full Nonlinear Velocity Reconstruction With Transformer and Ensemble Tree Machine Learning",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-03"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>koopman-operator — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <strong>90d</strong> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06872.html">Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green&#x27;s Functions and the Method of Characteristics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Boumediene Hamzi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06872">2603.06872</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05577.html">Koopman Regularized Deep Speech Disentanglement for Speaker Verification</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Nikos Chazaridis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05577">2603.05577</a></td>
 </tr>
 </tbody></table>

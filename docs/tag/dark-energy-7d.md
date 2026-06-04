@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04208.html">HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy</a></div></td>
+<td>Erin Mentuch Cooper et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04208">2606.04208</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30139.html">Cosmo-PINN: A Physics-Informed Neural Network for Cosmological Reconstruction</a></div></td>
 <td>Andronikos Paliathanasis</td>
 <td><a href="http://arxiv.org/abs/2605.30139">2605.30139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28581.html">GINKAKU: Scalable Cosmological Structure Formation Simulation Code and Post-processing Pipeline</a></div></td>
-<td>Takahiro Nishimichi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28581">2605.28581</a></td>
 </tr>
 </tbody></table>

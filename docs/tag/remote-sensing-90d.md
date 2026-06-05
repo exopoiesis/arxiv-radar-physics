@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,35 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07246.html">LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture</a></div></td>
 <td>Erik Scheurer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07246">2603.07246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02732.html">Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications</a></div></td>
-<td>Daniela Szwarcman et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02732">2412.02732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03192.html">SAAIPAA: Optimizing aspect-angles-invariant physical adversarial attacks on SAR target recognition models</a></div></td>
-<td>Isar Lemeire et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03192">2511.03192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04461.html">UniTS: Unified Spatio-Temporal Generative Model for Remote Sensing</a></div></td>
-<td>Yuxiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04461">2512.04461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05844.html">Remote Sensing Image Classification Using Deep Ensemble Learning</a></div></td>
-<td>Niful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05844">2603.05844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06002.html">Demystifying KAN for Vision Tasks: The RepKAN Approach</a></div></td>
-<td>Minjong Cheon</td>
-<td><a href="http://arxiv.org/abs/2603.06002">2603.06002</a></td>
 </tr>
 </tbody></table>

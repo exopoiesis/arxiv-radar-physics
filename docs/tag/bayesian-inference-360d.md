@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,11 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08756.html">Bayesian Inverse Physics for Neuro-Symbolic Robot Learning</a></div></td>
 <td>Octavio Arriaga et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08756">2506.08756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07856.html">Stability of Mean-Field Variational Inference</a></div></td>
-<td>Shunan Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07856">2506.07856</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11526.html">CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement</a></div></td>
 <td>Alex Gn et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11526">2603.11526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06762.html">Prediction of Steady-State Flow through Porous Media Using Machine Learning Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Jinhong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06762">2603.06762</a></td>
 </tr>
 </tbody></table>

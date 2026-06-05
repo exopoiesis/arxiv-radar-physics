@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,29 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09693.html">Physics-informed neural operator for predictive parametric phase-field modelling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Nanxi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09693">2603.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05278.html">Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Paloma García-de-Herreros et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05278">2510.05278</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04672.html">Improving the accuracy of physics-informed neural networks via last-layer retraining</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Saad Qadeer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04672">2603.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06287.html">Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Akshay Govind Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06287">2603.06287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06380.html">Kinetic-based regularization: Learning spatial derivatives and PDE applications</a></div></td>
-<td>Abhisek Ganguly et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06380">2603.06380</a></td>
 </tr>
 </tbody></table>

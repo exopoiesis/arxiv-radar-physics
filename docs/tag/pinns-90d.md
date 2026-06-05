@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,23 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07740.html">Meta-PINNs: Meta-Learning Enhanced Physics-Informed Machine Learning Framework for Turbomachinery Flow Predictions under Varying Operation Conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yuling Han et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07740">2603.07740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04672.html">Improving the accuracy of physics-informed neural networks via last-layer retraining</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Saad Qadeer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04672">2603.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06287.html">Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Akshay Govind Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06287">2603.06287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06761.html">Diversity-Aware Adaptive Collocation for Physics-Informed Neural Networks via Sparse QUBO Optimization and Hybrid Coresets</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Hadi Salloum et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06761">2603.06761</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">377 papers</span>
+  <span class="paper-count">374 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2258,23 +2258,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00373.html">Generalized Lie Symmetries in Physics-Informed Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Amy Xiang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.00373">2502.00373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01173.html">SIFBench: An Extensive Benchmark for Fatigue Analysis</a></div></td>
-<td>Tushar Gautam et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01173">2506.01173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08057.html">Physics-Informed Neural Operators for Generalizable and Label-Free Inference of Temperature-Dependent Thermoelectric Properties</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Hyeonbin Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08057">2506.08057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08226.html">Mondrian: Transformer Operators via Domain Decomposition</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Arthur Feeney et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08226">2506.08226</a></td>
 </tr>
 </tbody></table>

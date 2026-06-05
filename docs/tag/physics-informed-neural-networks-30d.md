@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04708.html">Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems</a></div></td>
 <td>Miloš Babić et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04708">2605.04708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Zhao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Diego Marcondes</td>
-<td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04307.html">A physics-informed neural network approach to solve the spatially inhomogeneous electron Boltzmann equation</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Ihda Chaerony Siffa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04307">2605.04307</a></td>
 </tr>
 </tbody></table>

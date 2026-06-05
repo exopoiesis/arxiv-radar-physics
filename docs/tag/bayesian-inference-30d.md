@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06873.html">One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Panos Tsimpos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06873">2605.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03362.html">Predicting and controlling nonlinear neuro-mechanical locomotion dynamics</a></div></td>
-<td>Alexander E. Cohen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03362">2605.03362</a></td>
 </tr>
 </tbody></table>

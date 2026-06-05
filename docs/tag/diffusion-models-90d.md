@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,17 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07240.html">FabricGen: Microstructure-Aware Woven Fabric Generation</a></div></td>
 <td>Yingjie Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07240">2603.07240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11512.html">LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference</a></div></td>
-<td>Jianhao Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11512">2510.11512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03485.html">Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion</a></div></td>
-<td>Haoran Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03485">2603.03485</a></td>
 </tr>
 </tbody></table>

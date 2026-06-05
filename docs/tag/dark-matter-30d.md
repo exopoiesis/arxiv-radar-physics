@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08970.html">Reionisation time field reconstruction from 21-cm Maps: Investigating predictor coherence in WDM cosmology</a></div></td>
 <td>Julien Hiegel et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08970">2605.08970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04028.html">A Multi-parameter Fuzzy Set Framework for Classifying Red, Blue, and Green Valley Galaxies</a></div></td>
-<td>Amit Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04028">2605.04028</a></td>
 </tr>
 </tbody></table>

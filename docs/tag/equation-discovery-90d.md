@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>equation-discovery — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <strong>90d</strong> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12083.html">Discovering Symbolic Differential Equations with Symmetry Invariants</a></div></td>
 <td>Jianke Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12083">2505.12083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06869.html">Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Mirza Samad Ahmed Baig et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06869">2603.06869</a></td>
 </tr>
 </tbody></table>

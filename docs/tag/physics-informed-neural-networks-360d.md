@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">618 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,17 +3710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00910.html">Provably Accurate Adaptive Sampling for Collocation Points in Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Antoine Caradot et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00910">2504.00910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07958.html">Neural Tangent Kernel Analysis to Probe Convergence in Physics-informed Neural Solvers: PIKANs vs. PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Salah A. Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07958">2506.07958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08057.html">Physics-Informed Neural Operators for Generalizable and Label-Free Inference of Temperature-Dependent Thermoelectric Properties</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Hyeonbin Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08057">2506.08057</a></td>
 </tr>
 </tbody></table>

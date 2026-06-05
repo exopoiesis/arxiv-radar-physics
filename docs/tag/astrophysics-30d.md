@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>astrophysics — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <strong>30d</strong> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06790.html">Machine Learning Techniques for Astrophysics and Cosmology: Photometric Redshifts</a></div></td>
 <td>Luca Tortorelli et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06790">2605.06790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Julia Dima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03442">2605.03442</a></td>
 </tr>
 </tbody></table>

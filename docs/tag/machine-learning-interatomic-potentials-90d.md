@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div></td>
 <td>Zhiyue Guo et al.</td>
@@ -308,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10205.html">Flexible Cutoff Learning: Optimizing Machine Learning Potentials After Training</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Rick Oerder et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10205">2603.10205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19382.html">Learning Long-Range Representations with Equivariant Messages</a></div></td>
-<td>Egor Rumiantsev et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19382">2507.19382</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3266,17 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09193.html">LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Yilin Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09193">2506.09193</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03578.html">Universal machine learning interatomic potentials poised to supplant DFT in modeling general defects in metals and random alloys</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03578">2502.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08152.html">The Riemann problem for three-phase foam flow in porous media</a></div></td>
-<td>Luis Fernando Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08152">2506.08152</a></td>
 </tr>
 </tbody></table>

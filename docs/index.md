@@ -5,15 +5,21 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-06-04._
+_Updated 2026-06-05._
 
-**18677** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**18687** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06238.html">Generative Criticality in Large Language Model Temperature Scaling</a></div></td>
+<td>Huajian Ruan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06238">2606.06238</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04895.html">Posterior sampling in the Age of Emulators</a></div></td>
@@ -33,6 +39,24 @@ _Updated 2026-06-04._
 <td><a href="http://arxiv.org/abs/2606.05047">2606.05047</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05127.html">Non-covalent Interactions at cm$^{-1}$ Accuracy: Data Efficient Physics-Informed Distillation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Yulin Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05127">2606.05127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05140.html">Phase transitions for the noisy transformer model in arbitrary dimension</a></div></td>
+<td>Kyunghoo Mun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05140">2606.05140</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05472.html">Realistic quantum device data synthesized by consumer AI and how to identify it</a></div></td>
+<td>S. M. Frolov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05472">2606.05472</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03159.html">NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation</a></div></td>
 <td> NVIDIA et al.</td>
@@ -40,9 +64,27 @@ _Updated 2026-06-04._
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="tag/crystal-structure-prediction-30d.html">crystal-structure-prediction</a></div></td>
+<td>Alston Lo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03199">2606.03199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03217.html">An Asymptotic Theory of Chain-of-Thought in In-Context Learning</a></div></td>
+<td>Kaito Takanami et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03217">2606.03217</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03224.html">COSMOS2025: Machine Learning Classification of Early- and Late-type Galaxies at 0 &lt; z &lt; 3</a></div></td>
 <td>Vahid Asadi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03224">2606.03224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03232.html">GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond</a></div><div class="paper-tags"><a href="tag/force-fields-30d.html">force-fields</a></div></td>
+<td>Parth Verma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03232">2606.03232</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -94,6 +136,12 @@ _Updated 2026-06-04._
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03886.html">Data-driven mapping of borophene growth pathways</a></div></td>
+<td>Colin Bousige et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03886">2606.03886</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03926.html">DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data</a></div></td>
 <td>Mengdi Chu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03926">2606.03926</a></td>
@@ -118,6 +166,12 @@ _Updated 2026-06-04._
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04208.html">HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy</a></div><div class="paper-tags"><a href="tag/dark-energy-30d.html">dark-energy</a></div></td>
 <td>Erin Mentuch Cooper et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04208">2606.04208</a></td>
@@ -139,59 +193,5 @@ _Updated 2026-06-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01572.html">PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
 <td>Jungwook Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01572">2606.01572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01577.html">FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery</a></div></td>
-<td>Junhyuk Heo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01577">2606.01577</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01597.html">Physics-Informed Modeling and Control of Emergent Behaviors in Robot Swarms</a></div><div class="paper-tags"><a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Zixuan Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01597">2606.01597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="tag/machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Zhiyue Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01622.html">An alternating learning-based collocation method for solving inverse elliptic problems</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Zhizhong Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01622">2606.01622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01652.html">Physics-Aware Linearized ADMM and Its Unrolling</a></div><div class="paper-tags"><a href="tag/inverse-problems-30d.html">inverse-problems</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Satoshi Takabe et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01652">2606.01652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01691.html">IstGPT: LLM-based Anomaly Detection for Spatial-Temporal Graph in Industrial Systems</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Yuchen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01691">2606.01691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01907.html">CSST large-scale structure analysis pipeline: IV. Cosmic Voids Identified from Galaxy Group Samples as Probes of the Large-scale Structure</a></div><div class="paper-tags"><a href="tag/dark-matter-30d.html">dark-matter</a></div></td>
-<td>Yingxiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01907">2606.01907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01925.html">QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/rans-30d.html">rans</a></div></td>
-<td>Qizhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01925">2606.01925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01966.html">Reinterpreting the ATLAS HHH$\to 6b$ Search with CheckMATE and Rivet: Validation, TRSM Benchmarks, and HL-LHC Prospects</a></div></td>
-<td>Tomasz Procter et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01966">2606.01966</a></td>
 </tr>
 </tbody></table>

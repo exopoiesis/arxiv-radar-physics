@@ -454,7 +454,29 @@
   ],
   "title": "Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research",
   "topics": [
-   "Generative Models & Discovery"
+   "Generative Models & Discovery",
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02378": {
+  "abstract": "We track the developmental trajectory of attention-head circuit formation across three 1B-class language models spanning two architecture families (dense transformer, mixture-of-experts) and two pretraining corpora (The Pile, DCLM): Pythia 1B, OLMo 1B-0724-hf, and OLMoE 1B-7B-0924. At each of 10 log-spaced revisions per model -- 30 mechanistic-interpretability runs in total -- we apply a participation-ratio (PR) spectral signal and an all-head capability-specific selectivity screen to track induction, previous-token, and BOS-attractor heads as they emerge.   Five findings. (F1) Layers 0 and 1 produce zero BOS-classified heads at every revision in every model: the L0/L1 zero-BOS floor is an architectural property, not a learned outcome. (F2) The whole-model BOS-attractor fraction follows three distinct emergence shapes -- a gradual ramp in Pythia 1B, a sharp phase transition in OLMo 1B (7% to 70% between adjacent checkpoints), and a gradual ramp in OLMoE 1B-7B. (F3) In DCLM models, induction-circuit formation precedes BOS-attractor formation by 10-20x in tokens; capability-circuit formation and attention-sink formation are two transitions, not one. (F4) The capability-specific screen converges to the final induction circuit within 0.3-2% of total training tokens -- circuit identification does not require the final model. (F5) For every final-checkpoint induction head sampled across all three models, per-head PR is elevated at or before the first revision at which that head crosses its capability-selectivity threshold.   The results refine the induction-phase-transition framing: in 1B-class models trained on DCLM, the induction transition and the attention-sink transition are separated by an order of magnitude in tokens and have qualitatively different shapes.",
+  "authors": [
+   "Yongzhong Xu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "22 pages, 2 figures",
+  "first_author": "Yongzhong Xu",
+  "pdf_url": "http://arxiv.org/pdf/2606.02378",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures",
+  "topics": [
+   "Materials Science & Condensed Matter"
   ],
   "updated": "2026-06-01"
  },
@@ -555,7 +577,8 @@
   ],
   "title": "Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design",
   "topics": [
-   "Generative Models & Discovery"
+   "Generative Models & Discovery",
+   "Materials Science & Condensed Matter"
   ],
   "updated": "2026-06-01"
  },
@@ -803,6 +826,58 @@
   ],
   "updated": "2026-06-02"
  },
+ "2606.03199": {
+  "abstract": "Organic crystal structure prediction (CSP) is a requirement for computational modelling of organic solids, but traditionally costs several CPU-years per molecule. Generative models such as OXtal dramatically reduce this cost by sampling stable organic crystal structures directly. However, OXtal forgoes explicit lattice parametrization in favour of modelling large crops of the bulk material with expensive triangle layers, which can incur a computational cost of minutes per molecule. In this paper, we reduce this to seconds with Clari, a large-scale flow matching model that generates redundancy-free unit cells and replaces triangle layers with pure pair-bias attention. Clari requires only atom types and bonds as input and does not need an RDKit-sanitizable input molecule, which expands its applicability to challenging chemistries such as fullerenes, metal complexes, and atom clusters. We further ablate key design choices such as auxiliary losses, timestep distributions, noise priors, and self-conditioning. On OXtal's test sets, we surpass OXtal's solve rate while obtaining a speedup of $15$-$30\\times$. Because Clari also models explicit hydrogens, it supports inference-time scaling via direct energy ranking, without any decoration or relaxation step. When generating 150 crystals and selecting the top-30 by energy, we further improve solve rate while maintaining a speedup of $5$-$8\\times$. We also introduce the CSD Teaching Subset as a new test split of diverse and complex molecules for future benchmarking. Our contributions enable CSP within seconds, making large-scale virtual screening of organic solids practical. Code is available at https://github.com/aspuru-guzik-group/clari.",
+  "authors": [
+   "Alston Lo",
+   "Luka Mucko",
+   "Austin H. Cheng",
+   "Andy Cai",
+   "Alastair J. A. Price",
+   "Wojciech Matusik",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Alston Lo",
+  "pdf_url": "http://arxiv.org/pdf/2606.03199",
+  "primary_category": "cs.LG",
+  "published": "2026-06-02",
+  "tags": [
+   "crystal-structure-prediction"
+  ],
+  "title": "Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03217": {
+  "abstract": "Chain-of-thought (CoT) reasoning has become a widely used mechanism for eliciting multi-step reasoning in large language models by generating intermediate reasoning steps at inference time. Yet the scaling behavior of generalization with CoT depth remains poorly understood. To address this question, we study a theoretically solvable model of CoT for in-context weight prediction in linear regression, where test-time reasoning is represented as an iterative refinement of the weight-parameter estimate. Using tools from random matrix theory under high-dimensional asymptotics, we derive an exact formula for the generalization error as a function of reasoning depth, pretraining data amount, and context length. Our analysis reveals a sharp phase transition separating exponential and polynomial improvement, saturation, and overthinking, and characterizes how the optimal reasoning depth scales. We further show that deeper reasoning is most effective with sufficiently rich pretraining and in-context information, whereas limited pretraining or context makes longer reasoning prone to error amplification or saturation. We also validate these predictions through experiments on fully learned linear attention and softmax attention models. Our results provide a unified theoretical account of how test-time CoT depth affects generalization.",
+  "authors": [
+   "Kaito Takanami",
+   "Cengiz Pehlevan"
+  ],
+  "categories": [
+   "stat.ML",
+   "cond-mat.dis-nn",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kaito Takanami",
+  "pdf_url": "http://arxiv.org/pdf/2606.03217",
+  "primary_category": "stat.ML",
+  "published": "2026-06-02",
+  "tags": [],
+  "title": "An Asymptotic Theory of Chain-of-Thought in In-Context Learning",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-02"
+ },
  "2606.03224": {
   "abstract": "We present a fast, interpretable machine learning framework to classify early- and late-type galaxies in the COSMOS2025 catalog at $0 < z < 3$, without relying on image-based training labels or computationally expensive structural fitting. Using the Santa Cruz Semi-Analytic Model, we generate a training set with secure morphological labels defined by bulge-to-total mass ratio and specific star formation rate. We bridge the simulation-to-observation domain gap by injecting realistic photometric noise derived from COSMOS2025. A CatBoostClassifier trained on 66 broadband colors achieves excellent performance in the simulated domain, recovering late-types with 98\\% precision/recall and early-types with 91\\% precision and 88\\% recall. Applied to 44,132 COSMOS2025 galaxies, the model reveals a striking bimodality: only about 6\\% of galaxies receive intermediate probabilities ($0.3 < P(\\text{Early type}) < 0.7$) -- nearly identical to the fraction observed in the simulation. This demonstrates that broadband colors are a decisive morphological discriminant, with the remaining 94\\% classified at high confidence. Validation against independent bulge+disk decompositions yields 70\\% overall accuracy, with late-types identified at 78\\% purity and 74\\% completeness. The most important color feature, F277W-F444W, reflects the expected optical/NIR contrast between old and young stellar populations. The full pipeline completes in under 30 minutes on standard hardware, demonstrating that simulation-trained color-based classifiers offer a scalable, physically interpretable route to approximate morphology for large next-generation surveys.",
   "authors": [
@@ -821,6 +896,34 @@
   "title": "COSMOS2025: Machine Learning Classification of Early- and Late-type Galaxies at 0 < z < 3",
   "topics": [
    "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03232": {
+  "abstract": "Graph Neural Networks (GNNs) have revolutionized Neural Force Fields for atomistic simulations, achieving near-quantum accuracy at reduced cost, yet adapting these models to new chemical systems requires expensive retraining of foundation models. Inspired by model merging in vision and language processing, we introduce GFFMERGE, the first principled framework for closed-form model merging in GNNs. We exploit the linear structure of message-passing layers and formulate merging as a convex embedding-alignment problem with an analytical solution. Through the first systematic benchmarking of model merging for GNNs, we show that existing methods designed for vision and language catastrophically fail on force field regression, while GFFMERGE recovers performance approaching gold standard joint training. Across molecular (MD17, MD22), solid-state (LiPS20), and large-scale graph benchmarks, GFFMERGE and GNNMERGE (its generic GNN counterpart) achieve 5-27$\\times$ speedups while enabling modular composition of specialized models. Remarkably, our closed-form solution alone outperforms all baseline methods before fine-tuning and provides superior initialization for faster, data-efficient convergence.",
+  "authors": [
+   "Parth Verma",
+   "Parv P. Singh",
+   "Vipul Garg",
+   "Ishita Thakre",
+   "N. M. Anoop Krishnan",
+   "Sayan Ranu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Parth Verma",
+  "pdf_url": "http://arxiv.org/pdf/2606.03232",
+  "primary_category": "cs.LG",
+  "published": "2026-06-02",
+  "tags": [
+   "force-fields"
+  ],
+  "title": "GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond",
+  "topics": [
+   "Materials Science & Condensed Matter"
   ],
   "updated": "2026-06-02"
  },
@@ -1023,6 +1126,30 @@
   ],
   "updated": "2026-06-02"
  },
+ "2606.03886": {
+  "abstract": "Deterministic synthesis of borophene remains challenging because many polymorphs compete during nucleation and growth. Here we combine a reactive machine-learned interatomic potential with grand-canonical Monte Carlo simulations and data-driven structural classification to track borophene formation from early nuclei to extended layers on Ag(111) and Ag(100). We build temperature-pressure substrate growth maps and resolve how vacancy motifs, phase intermixing and seed structure govern polymorph selection. The simulations reproduce key experimental trends, including the prevalence of $β_{12}$/$χ_3$ phases and their temperature-dependent competition, while revealing kinetic pathways that connect metastable nuclei to long-range order. We identify conditions that suppress competing motifs and promote targeted phases, providing actionable synthesis windows. These results establish a predictive framework for directing borophene growth and, more broadly, for controlling polymorphism in low-dimensional materials by coupling atomistic simulation with machine-learning-enabled phase recognition.",
+  "authors": [
+   "Colin Bousige",
+   "Jean Furstoss",
+   "Julien Lam",
+   "Pierre Mignon"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Colin Bousige",
+  "pdf_url": "http://arxiv.org/pdf/2606.03886",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-02",
+  "tags": [],
+  "title": "Data-driven mapping of borophene growth pathways",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-02"
+ },
  "2606.03926": {
   "abstract": "Modeling temporal evolution is important to analyzing and reasoning about scientific phenomena, yet most machine learning methods provide deterministic forward predictions that overlook multiple plausible outcomes and rarely support backward reasoning, limiting their usefulness in practical scientific workflows. We present a framework that integrates diffusion-based generative modeling with interactive visual analytics for scientific exploration. We introduce DiffUNet^2, a conditional diffusion model that enables bidirectional, any-to-any generation across time and captures distributions of plausible system evolutions. Built upon the model, our interactive system supports branching timeline exploration, user-guided state editing, and probability-space navigation, enabling scientists to actively explore alternative hypotheses rather than passively observe predictions. We evaluate the model on 5 datasets across different scientific domains to validate its predictive accuracy and probability-space ensemble quality. In collaboration with domain experts, we demonstrate the effectiveness of our approach in supporting practical scientific temporal data analysis workflows. By integrating modeling and visual interaction, our approach enables scientists to interactively explore system dynamics, transforming generative models into tools for hypothesis-driven scientific analysis.",
   "authors": [
@@ -1134,6 +1261,32 @@
   "title": "Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging",
   "topics": [
    "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04100": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) enable efficient and accurate atomistic simulations but depend critically on the quality and diversity of the training data. We introduce Stein kernelized molecular dynamics (SKMD), an enhanced sampling method that uses interacting particle dynamics to acquire informative training configurations for the active learning and fine-tuning of MLIPs. SKMD corresponds to a stochastic variant of Stein variational gradient descent that is adapted for molecular dynamics by incorporating asynchronous particle updates and a kernel of global atomic descriptors, which provides a symmetry-aware measure of configurational similarity. Unlike other enhanced samplers used in molecular dynamics, SKMD preserves the Boltzmann distribution as the asymptotic distribution of the dynamics. This property enforces a balance between the exploration of diverse configurations and attraction toward high-probability regions of the energy landscape. We further propose an approach to efficient online data acquisition using an adaptive stopping criterion that selects non-redundant training data over the course of simulation. We demonstrate SKMD for the active learning of a neural network model of the Müller-Brown potential and the fine-tuning of a MACE interatomic potential for alanine dipeptide. Compared to active learning baselines, our method achieves higher model accuracy in fewer training iterations with the same number of acquired training samples.",
+  "authors": [
+   "Joanna Zou",
+   "Fraser Birks",
+   "Dallas Foster",
+   "Youssef Marzouk"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Joanna Zou",
+  "pdf_url": "http://arxiv.org/pdf/2606.04100",
+  "primary_category": "cs.LG",
+  "published": "2026-06-02",
+  "tags": [
+   "machine-learning-interatomic-potentials"
+  ],
+  "title": "Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials",
+  "topics": [
+   "Materials Science & Condensed Matter"
   ],
   "updated": "2026-06-02"
  },
@@ -1271,5 +1424,107 @@
    "Astrophysics & Cosmology"
   ],
   "updated": "2026-06-03"
+ },
+ "2606.05127": {
+  "abstract": "Foundation models in atomistic machine learning encode interaction physics across diverse atomic environments, but whether that structure can be transferred when building specialist potentials at quantum-chemical accuracy remains open. Here we show that knowledge distillation from a pretrained universal machine-learning interatomic potential (MLIP), followed by coupled-cluster fine-tuning with single and double excitations and perturbative triples [CCSD(T)], transfers not only low-cost labels but a physically meaningful prior on interaction length scales, anisotropy, and the repulsive-dispersive balance, which CCSD(T) data then sharpens to quantum-chemical accuracy. For He--benzene, fine-tuning with 30% of the CCSD(T) data outperforms direct training using the full 80%; a 60% reduction in the high-fidelity compute budget. A symmetry-adapted perturbation theory (SAPT)-informed adaptive short-range/long-range architecture further lowers the validation MAE from 0.75 1/cm to 0.49 1/cm. Across a circumarene series of polycyclic aromatic hydrocarbons (PAHs), swapping the MLIP teacher under an otherwise identical pipeline changes the coronene error by an order of magnitude while leaving the larger PAHs stable, direct evidence that distillation transfers physical structure, not labels alone. Together, these results identify the choice of pretrained teacher as a primary design axis for data-efficient quantum-chemical-accuracy potentials, alongside architecture and training protocol.",
+  "authors": [
+   "Yulin Shen",
+   "Shahzad Akram",
+   "Louis Primeau",
+   "Gen Zu",
+   "Konstantinos D. Vogiatzis",
+   "Yang Zhang",
+   "Adrian Del Maestro"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "10 pages, 5 figures plus supplemental material. For associated data and code repository see: https://github.com/DelMaestroGroup/papers-code-mlip-distillation-sapt",
+  "first_author": "Yulin Shen",
+  "pdf_url": "http://arxiv.org/pdf/2606.05127",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-03",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Non-covalent Interactions at cm$^{-1}$ Accuracy: Data Efficient Physics-Informed Distillation for Machine Learning Interatomic Potentials",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05140": {
+  "abstract": "We study the McKean--Vlasov free energy on the unit sphere associated with the unnormalized self-attention (USA) model for noisy transformer dynamics. We prove a sharp global-minimizer dichotomy in every dimension $d\\ge2$. There is a unique $β_*^{(d)}>0$ such that \\begin{equation*}   \\frac{I_{d/2+1}(β_*^{(d)})}{I_{d/2}(β_*^{(d)})}=\\frac1d, \\end{equation*} where $I_ν$ is the modified Bessel function of the first kind. For $0<β\\le β_*^{(d)}$, the uniform density remains the unique global minimizer up to the linear-stability threshold \\begin{equation*}   K_\\#^{(d)}(β)=\\frac{β^{d/2}}{2^{d/2}Γ(d/2)I_{d/2}(β)}, \\end{equation*} and the phase transition is continuous. For $β>β_*^{(d)}$, the uniform density is not globally minimizing at $K_\\#^{(d)}(β)$, so the critical coupling satisfies $K_c<K_\\#^{(d)}(β)$ and the transition is discontinuous. This result generalizes the authors' recent $d=2$ work arXiv:2604.16288 to arbitrary dimension. The proof uses the sharp Beckner--Onofri/logarithmic Hardy-Littlewood-Sobolev (HLS) inequality on the sphere, together with a Funk--Hecke/Bessel coefficient computation and a degree-two quartic obstruction.",
+  "authors": [
+   "Kyunghoo Mun",
+   "Matthew Rosenzweig"
+  ],
+  "categories": [
+   "math.AP",
+   "math-ph",
+   "math.PR",
+   "stat.ML"
+  ],
+  "comment": "18 pages",
+  "first_author": "Kyunghoo Mun",
+  "pdf_url": "http://arxiv.org/pdf/2606.05140",
+  "primary_category": "math.AP",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Phase transitions for the noisy transformer model in arbitrary dimension",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05472": {
+  "abstract": "With the advance of generative artificial intelligence (AI) synthetic texts and images have become commonplace. These capabilities offer clear benefits, but have also raised a number of ethical concerns that often have to do with misrepresenting AI outputs as genuine material. A lesser known capability of generative AI is to perform the basic analysis, processing and even synthesis of numerical data. This raises the question of whether AI can be used to imitate experimental data that an expert would consider scientifically meaningful and on par with data in the figures of peer-reviewed manuscripts? In this paper, we focus on synthesizing data inspired by well-known experiments done frequently on quantum electronic devices. This field is related to information technologies such as spintronics and quantum computing, and is considered data-rich and data-driven. We demonstrate that it is possible to generate dramatic signals associated with iconic effects such as quantum bit control, Majorana fermions, Josephson effects, quantum dots and wires using widely available ChatGPT. We find that because some of the clearest data from quantum devices can be expressed in terms of relatively basic mathematical models, AI does not need to learn on the specialized body of data. Instead, knowledge of the physics equations and of the basic features of experimental signals can go a long way towards building a realistic dataset. We also demonstrate that real data can be augmented by AI, and that AI can mimic the noise of common scientific instruments. To help assure that published data come from experiments and are not synthesized by AI, we recommend sharing large volumes of the primary data. While it is straightforward for AI to mimic a few sets of data, consistently generating long measured sequences poses sufficient barriers to the proliferation of undisclosed synthetic data.",
+  "authors": [
+   "S. M. Frolov",
+   "O. V. Kravchenko"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "cond-mat.supr-con",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "S. M. Frolov",
+  "pdf_url": "http://arxiv.org/pdf/2606.05472",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Realistic quantum device data synthesized by consumer AI and how to identify it",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.06238": {
+  "abstract": "We propose a statistical-field framework for text generated by large language models (LLMs), treating token embeddings as continuous spin variables on a one-dimensional chain. Defining a susceptibility from the connected two-point correlator and an order parameter from the ensemble-averaged embedding field, we vary the \\texttt{softmax} temperature $T$ and observe a sharp susceptibility peak near a characteristic $T_c$ with power-law-like scaling, a concurrent rapid change in the order parameter, and a collapse onto a single semantic direction below $T_c$. The intrinsic dimension estimated by the two nearest neighbor (TwoNN) method independently corroborates these findings, reaching a minimum near $T_c$. Results are robust across model scales (Qwen3: 0.6B--32B) and prompt categories. While the phenomenology closely resembles a continuous phase transition, the non-equilibrium nature of autoregressive generation warrants further investigation. Our framework provides quantitative tools for probing the collective statistical structure of LLM outputs and suggests connections between decoding strategies and critical phenomena.",
+  "authors": [
+   "Huajian Ruan",
+   "Jinyang Li",
+   "Xingyu Guo",
+   "Lingxiao Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.stat-mech",
+   "hep-lat"
+  ],
+  "comment": "9 pages, 7 figures, contributed to PAI 2026 Conference",
+  "first_author": "Huajian Ruan",
+  "pdf_url": "http://arxiv.org/pdf/2606.06238",
+  "primary_category": "cs.LG",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "Generative Criticality in Large Language Model Temperature Scaling",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-06-04"
  }
 }

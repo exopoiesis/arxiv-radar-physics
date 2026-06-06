@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
+<td>Mohammad Rashed et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02179">2606.02179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02315.html">Identifying sensitivity-dominant parameters via active subspaces in reduced-order modeling of fluid dynamics</a></div></td>
+<td>Dewu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02315">2606.02315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -1214,11 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15766.html">Accelerating Transient CFD through Machine Learning-Based Flow Initialization</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="rans-360d.html">rans</a></div></td>
 <td>Peter Sharpe et al.</td>
 <td><a href="http://arxiv.org/abs/2503.15766">2503.15766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08516.html">NeurIPS 2024 ML4CFD Competition: Results and Retrospective Analysis</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Mouadh Yagoubi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08516">2506.08516</a></td>
 </tr>
 </tbody></table>

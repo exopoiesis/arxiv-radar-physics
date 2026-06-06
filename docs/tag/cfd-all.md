@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">308 papers</span>
+  <span class="paper-count">310 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
+<td>Mohammad Rashed et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02179">2606.02179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02315.html">Identifying sensitivity-dominant parameters via active subspaces in reduced-order modeling of fluid dynamics</a></div></td>
+<td>Dewu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02315">2606.02315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="deeponet-all.html">deeponet</a> · <a href="neural-operators-all.html">neural-operators</a> · <a href="rom-all.html">rom</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>

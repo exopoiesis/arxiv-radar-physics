@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Nanoom Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06495">2606.06495</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30353.html">Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software</a></div></td>
 <td>Nhat-Minh Nguyen</td>
@@ -1154,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17553.html">SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Silvan Fischbacher et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17553">2502.17553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08783.html">syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Lukas Kammerer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08783">2506.08783</a></td>
 </tr>
 </tbody></table>

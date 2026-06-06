@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06268.html">Error Analysis of Tr-PINNs Algorithm for 2D Incompressible Navier-Stokes Equations with Non-Homogeneous Boundary Conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Dongjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06268">2606.06268</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28245.html">Data-efficient semi-supervised learning for flow estimation using unlabelled probe data</a></div></td>
 <td>Junwei Chen et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10466.html">UniPINN: A Unified PINN Framework for Multi-task Learning of Diverse Navier-Stokes Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Dengdi Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10466">2603.10466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24850.html">PHASE-Net: Physics-Grounded Harmonic Attention System for Efficient Remote Photoplethysmography Measurement</a></div></td>
-<td>Bo Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24850">2509.24850</a></td>
 </tr>
 </tbody></table>

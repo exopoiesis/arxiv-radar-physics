@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05910.html">Modeling Gamma-Ray Burst Spectra with Convolutional Neural Networks: Fast-Cooling Synchrotron Emission in a Decaying Magnetic Field</a></div></td>
+<td>Jia-Ming Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05910">2606.05910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06378.html">On the Possibility of a Strong First-Order Phase Transition in Neutron Stars</a></div></td>
+<td>Zheng Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06378">2606.06378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04324.html">Neural Galerkin Normalizing Flows for Bayesian Inference of Diffusions with Inaccessible Boundaries</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Riccardo Saporiti et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04324">2606.04324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04352.html">Negative and Fractional Types in the Fidelity Framework</a></div></td>
+<td>Houston Haynes</td>
+<td><a href="http://arxiv.org/abs/2606.04352">2606.04352</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03355.html">APIC: Amortized Physics-Informed Calibration using Neural Processes</a></div></td>
@@ -26,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div></td>
 <td>Giuliano Giacalone et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04042.html">Uncertainty-Aware Symbolic Regression through Bayesian Support Selection</a></div></td>
+<td>Satadeep Bhattacharjee</td>
+<td><a href="http://arxiv.org/abs/2606.04042">2606.04042</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -2666,17 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04211.html">Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Junrong Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04211">2504.04211</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03908.html">Emission-line Stacking of 21cm Intensity Maps with MeerKLASS: Inference Pipeline and Application to the L-band Deep-field Data</a></div></td>
-<td>Zhaoting Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03908">2504.03908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08756.html">Bayesian Inverse Physics for Neuro-Symbolic Robot Learning</a></div></td>
-<td>Octavio Arriaga et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08756">2506.08756</a></td>
 </tr>
 </tbody></table>

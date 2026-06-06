@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05982.html">Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process</a></div></td>
+<td>Arnaud Descours et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05982">2606.05982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06210.html">A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration</a></div></td>
+<td> Chengqi-Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06210">2606.06210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06231.html">Sensitivity of SDE Solutions to Perturbations of the Diffusion and Drift</a></div></td>
+<td>Jeremiah Birrell</td>
+<td><a href="http://arxiv.org/abs/2606.06231">2606.06231</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05357.html">An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)</a></div></td>
+<td>Jincheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05357">2606.05357</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02886.html">Scalable Uncertainty Quantification for Extreme Weather Forecasting via Empirical Neural Tangent Kernels</a></div></td>
@@ -950,11 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07525.html">Generative prediction of laser-induced rocket ignition with dynamic latent space representations</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Tony Zahtila et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07525">2603.07525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06970.html">Deep Probabilistic Spatial Modeling for Multivariate Mixed-Type Responses</a></div></td>
-<td>Yeseul Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06970">2603.06970</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06348.html">Performance Evaluation of GraphCast for Medium-Range Weather Forecasting over Brazil</a></div></td>
+<td>Wolfgang R. Rowell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06348">2606.06348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04991.html">Deep Learning with Magnetic Parameter Constraints for Short-Term Prediction of Solar Active Region Vector Magnetic Fields</a></div></td>
 <td>Yuqing Zhou et al.</td>
@@ -1016,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09120.html">Testing NeuralGCM&#x27;s capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event</a></div></td>
 <td>Shiheng Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.09120">2410.09120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09193.html">LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yilin Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09193">2506.09193</a></td>
 </tr>
 </tbody></table>

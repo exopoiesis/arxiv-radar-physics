@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>qml — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <strong>30d</strong> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05387.html">Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Vincenzo Sammartino</td>
+<td><a href="http://arxiv.org/abs/2606.05387">2606.05387</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29877.html">Verifying Adversarial Robustness in Quantum Machine Learning: from theory to physical validation via a software tool</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
@@ -62,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Natsuto Isogai et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04737.html">Harnessing a 256-qubit Neutral Atom Simulator for Graph Classification</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Edoardo Giusto et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04737">2605.04737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04945.html">Beyond Gates: Pulse Level Quantum Fourier Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Melvin Strobl et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04945">2605.04945</a></td>
 </tr>
 </tbody></table>

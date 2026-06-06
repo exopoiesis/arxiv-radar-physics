@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02794.html">Scaling Laws for Neural-Network Quantum States</a></div></td>
+<td>Riccardo Rende et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02794">2606.02794</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24814.html">Analytic Origin of Green-Function Compression in the Intermediate Representation</a></div></td>
 <td>Takahiro Misawa</td>
@@ -308,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10191.html">Constructive interference at the edge of quantum ergodic dynamics</a></div><div class="paper-tags"><a href="hamiltonian-learning-360d.html">hamiltonian-learning</a></div></td>
 <td>Dmitry A. Abanin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10191">2506.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08594.html">Solving excited states for long-range interacting trapped ions with neural networks</a></div></td>
-<td>Yixuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08594">2506.08594</a></td>
 </tr>
 </tbody></table>

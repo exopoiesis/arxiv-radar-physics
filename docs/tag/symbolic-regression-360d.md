@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04360.html">Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs</a></div></td>
+<td>Xinyu Pang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04360">2606.04360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29184.html">Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Evgeny S. Saveliev et al.</td>
@@ -1190,11 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04495.html">Discovering Physics Laws of Dynamical Systems via Invariant Function Learning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Shurui Gui et al.</td>
 <td><a href="http://arxiv.org/abs/2502.04495">2502.04495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08783.html">syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Lukas Kammerer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08783">2506.08783</a></td>
 </tr>
 </tbody></table>

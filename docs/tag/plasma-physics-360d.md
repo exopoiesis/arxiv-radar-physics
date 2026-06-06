@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>plasma-physics — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <strong>360d</strong> <a href="plasma-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10219.html">Interpretable Neural Network Quantum States for Solving the Steady States of the Nonlinear Schrödinger Equation</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Mingshu Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10219">2506.10219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04406.html">Calibrated Physics-Informed Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Vignesh Gopakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04406">2502.04406</a></td>
 </tr>
 </tbody></table>

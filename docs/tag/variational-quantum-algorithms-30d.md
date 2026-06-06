@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02697.html">Machine Learning-based Quantum Error Mitigation for Variational Algorithms</a></div><div class="paper-tags"><a href="vqe-30d.html">vqe</a></div></td>
+<td>Nikita Korolev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02697">2606.02697</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23138.html">Classical State Preparation for Variational Quantum Algorithms via Reinforcement Learning</a></div><div class="paper-tags"><a href="qaoa-30d.html">qaoa</a> · <a href="vqe-30d.html">vqe</a></div></td>
 <td>Gino Kwun et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27410.html">Zero-shot Quantum Neural Architecture Search</a></div></td>
 <td>Tung Dao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27410">2605.27410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04945.html">Beyond Gates: Pulse Level Quantum Fourier Models</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Melvin Strobl et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04945">2605.04945</a></td>
 </tr>
 </tbody></table>

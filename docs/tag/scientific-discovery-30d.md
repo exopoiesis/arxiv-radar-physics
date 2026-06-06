@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06473.html">MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery</a></div></td>
+<td>Shangheng Du et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06473">2606.06473</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04751.html">FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games</a></div></td>
+<td>Leonardo Bertolazzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04751">2606.04751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03962.html">Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</a></div></td>
 <td>Anthony GX-Chen et al.</td>
@@ -284,17 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06772.html">When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning</a></div></td>
 <td>Vasilis Niarchos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06772">2605.06772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04375.html">Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery</a></div></td>
-<td>Zhenning Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04375">2605.04375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04922.html">Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation</a></div></td>
-<td>Jiangwen Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04922">2605.04922</a></td>
 </tr>
 </tbody></table>

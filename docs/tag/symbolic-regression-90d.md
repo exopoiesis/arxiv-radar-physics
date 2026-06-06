@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04360.html">Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs</a></div></td>
+<td>Xinyu Pang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04360">2606.04360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29184.html">Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Evgeny S. Saveliev et al.</td>
@@ -350,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02908.html">The Challenge in Illuminating the Invisible: Constraining LyC Escape with Bayesian Modelling and Symbolic Regression</a></div></td>
 <td>Amanda Stoffers et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02908">2511.02908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07261.html">Turning Time Series into Algebraic Equations: Symbolic Machine Learning for Interpretable Modeling of Chaotic Time Series</a></div></td>
-<td>Madhurima Panja et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07261">2603.07261</a></td>
 </tr>
 </tbody></table>

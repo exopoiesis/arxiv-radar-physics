@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05618.html">Uncovering Extreme Event Mechanisms for Prediction and Control with Sensitivity-Balanced Projections</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
+<td>Nicholas Zolman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05618">2606.05618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05371.html">Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Zhi-Feng Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05371">2606.05371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03679.html">From Well-Posed Inversion to Learning Design: Physics- Informed Neural Estimation for Autonomic Regulation</a></div></td>
+<td>Sara Nour Sadoun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03679">2606.03679</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>James Rudd-Jones et al.</td>
@@ -1334,23 +1352,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07678.html">Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method</a></div><div class="paper-tags"><a href="flow-control-90d.html">flow-control</a></div></td>
 <td>Xinyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07678">2603.07678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16546.html">Transformers as Implicit State Estimators: In-Context Learning in Dynamical Systems</a></div></td>
-<td>Usman Akram et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16546">2410.16546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12876.html">Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks</a></div></td>
-<td>Yucheng Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2411.12876">2411.12876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16772.html">Thermodynamics a la Souriau on Kähler Non Compact Symmetric Spaces for Cartan Neural Networks</a></div></td>
-<td>Pietro G. Fré et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16772">2512.16772</a></td>
 </tr>
 </tbody></table>

@@ -7,9 +7,18 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cosmology — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a></div></td>
+<td>Nanoom Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06495">2606.06495</a></td>
+</tr>
+</tbody></table>

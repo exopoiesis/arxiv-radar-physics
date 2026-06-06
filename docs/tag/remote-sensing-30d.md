@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05586.html">BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection</a></div></td>
+<td>Wenlin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05586">2606.05586</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05999.html">ATT-CR: Adaptive Triangular Transformer for Cloud Removal</a></div></td>
+<td>Yang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05999">2606.05999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06363.html">GMBFormer: An NDVI-Guided Global Memory Bank Transformer for Urban Green-Space Extraction from Ultra-High-Resolution Imagery</a></div></td>
+<td>Hao Lei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06363">2606.06363</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02092.html">LALE: Lightweight-Transformer Architecture for Land-Cover Estimation</a></div></td>
@@ -212,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
 <td>Anh Vu Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05590">2605.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Chia-Hsiang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04565.html">Delay-Aware Large-Small Model Collaboration over LEO Satellite Networks</a></div></td>
-<td>Mingyu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04565">2605.04565</a></td>
 </tr>
 </tbody></table>

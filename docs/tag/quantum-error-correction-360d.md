@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04312.html">Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters</a></div></td>
+<td>Mahsa Karimi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04312">2606.04312</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17230.html">Maximum Likelihood Decoding of Quantum Error Correction Codes</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Hanyan Cao et al.</td>
@@ -350,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16113.html">Fully convolutional 3D neural network decoders for surface codes with syndrome circuit noise</a></div></td>
 <td>Spiro Gicev et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16113">2506.16113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06422.html">Low bit-flip rate probabilistic error cancellation</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Mathys Rennela et al.</td>
-<td><a href="http://arxiv.org/abs/2411.06422">2411.06422</a></td>
 </tr>
 </tbody></table>

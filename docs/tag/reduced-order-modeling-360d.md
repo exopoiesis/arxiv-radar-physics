@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05371.html">Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Zhi-Feng Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05371">2606.05371</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20639.html">Time-Dependent PDE-Constrained Optimization via Weak-Form Latent Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>April Tran et al.</td>
@@ -266,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10118.html">Data-driven balanced truncation for second-order systems with generalized proportional damping</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Sean Reiter et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10118">2506.10118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08475.html">Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Xiaolong He et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08475">2506.08475</a></td>
 </tr>
 </tbody></table>

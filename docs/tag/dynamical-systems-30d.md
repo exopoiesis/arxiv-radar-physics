@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05618.html">Uncovering Extreme Event Mechanisms for Prediction and Control with Sensitivity-Balanced Projections</a></div><div class="paper-tags"><a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
+<td>Nicholas Zolman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05618">2606.05618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05371.html">Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Zhi-Feng Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05371">2606.05371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03679.html">From Well-Posed Inversion to Learning Design: Physics- Informed Neural Estimation for Autonomic Regulation</a></div></td>
+<td>Sara Nour Sadoun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03679">2606.03679</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>James Rudd-Jones et al.</td>
@@ -224,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06315.html">End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems</a></div></td>
 <td>Carles Balsells-Rodas et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06315">2605.06315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04502.html">Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Isabela M. Yepes et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04502">2605.04502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04550.html">Neural-Guided Domain Restriction to Accelerate Pseudospectra Computation for Structured Non-normal Banded Matrices</a></div></td>
-<td>Amit Punia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04550">2605.04550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04917.html">Koopman Identification of Nonlinear Systems via Reservoir Liftings</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Weibin Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04917">2605.04917</a></td>
 </tr>
 </tbody></table>

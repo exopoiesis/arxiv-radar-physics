@@ -6,12 +6,12 @@ on:
     # First day of each month at 02:00 UTC.
     - cron: "0 2 1 * *"
 
-permissions:
-  contents: write
-
 env:
   GITHUB_USER_NAME: exopoiesis
   GITHUB_USER_EMAIL: lab@exopoiesis.space
+
+permissions:
+  contents: write
 
 jobs:
   prune:
@@ -20,10 +20,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
@@ -43,11 +43,10 @@ jobs:
           python tools/render_index.py
 
       - name: Push prune changes
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Monthly prune: drop shards + popup HTML older than 2 years"
-          files: README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+        run: |
+          git config user.name "${{ env.GITHUB_USER_NAME }}"
+          git config user.email "${{ env.GITHUB_USER_EMAIL }}"
+          git add README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
+          git diff --cached --quiet || git commit -m "Monthly prune: drop shards + popup HTML older than 2 years"
+          git pull --rebase origin main
+          git push

@@ -51,11 +51,10 @@ jobs:
           python tools/daily_arxiv.py
           
       - name: Push new arxiv-radar-physics update
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "GitHub Action automatic update: arxiv-radar-physics"
-          files: README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+        run: |
+          git config user.name "${{ env.GITHUB_USER_NAME }}"
+          git config user.email "${{ env.GITHUB_USER_EMAIL }}"
+          git add README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
+          git diff --cached --quiet || git commit -m "GitHub Action automatic update: arxiv-radar-physics"
+          git pull --rebase origin main
+          git push

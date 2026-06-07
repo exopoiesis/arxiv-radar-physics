@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1322,35 +1322,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08488.html">NN-OpInf: an operator inference approach using structure-preserving composable neural networks</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
 <td>Eric Parish et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08488">2603.08488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00002.html">Noise-Aware System Identification for High-Dimensional Stochastic Dynamics</a></div></td>
-<td>Ziheng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2411.00002">2411.00002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10336.html">Characterizing Nonlinear Dynamics via Smooth Prototype Equivalences</a></div></td>
-<td>Roy Friedman et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10336">2503.10336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01920.html">CITS: Nonparametric Statistical Causal Modeling for High-Resolution Neural Time Series</a></div></td>
-<td>Rahul Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01920">2508.01920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21266.html">Model-Free Neural State Estimation in Nonlinear Dynamical Systems: Comparing Neural and Classical Filters</a></div></td>
-<td>Zhuochen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21266">2601.21266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07678.html">Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method</a></div><div class="paper-tags"><a href="flow-control-90d.html">flow-control</a></div></td>
-<td>Xinyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07678">2603.07678</a></td>
 </tr>
 </tbody></table>

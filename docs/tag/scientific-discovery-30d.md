@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,29 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07863.html">ADKO: Agentic Decentralized Knowledge Optimization</a></div></td>
 <td>Lucas Nerone Rillo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07863">2605.07863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05921.html">Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery</a></div></td>
-<td>Alex Bäuerle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05921">2605.05921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05985.html">BioResearcher: Scenario-Guided Multi-Agent for Translational Medicine</a></div></td>
-<td>Remigiusz Kinas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05985">2605.05985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06607.html">AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Nithin Somasekharan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06607">2605.06607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06772.html">When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning</a></div></td>
-<td>Vasilis Niarchos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06772">2605.06772</a></td>
 </tr>
 </tbody></table>

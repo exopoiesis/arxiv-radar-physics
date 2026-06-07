@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16079.html">Investigating Lagrangian Neural Networks for Infinite Horizon Planning in Quadrupedal Locomotion</a></div><div class="paper-tags"><a href="lagrangian-neural-networks-360d.html">lagrangian-neural-networks</a></div></td>
 <td>Prakrut Kotecha et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16079">2506.16079</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10118.html">Data-driven balanced truncation for second-order systems with generalized proportional damping</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Sean Reiter et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10118">2506.10118</a></td>
 </tr>
 </tbody></table>

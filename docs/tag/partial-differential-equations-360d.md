@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,35 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11241.html">A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Donya Dabiri et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11241">2506.11241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00373.html">Generalized Lie Symmetries in Physics-Informed Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Amy Xiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00373">2502.00373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00963.html">PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs</a></div></td>
-<td>Mauricio Soroco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00963">2502.00963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18377.html">Mechanistic PDE Networks for Discovery of Governing Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Adeel Pervez et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18377">2502.18377</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08622.html">Physics-Informed Neural Networks for Irregular Domain Mapping and Partial Differential Equations solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Cuizhi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08622">2506.08622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09721.html">Generative Models for Parameter Space Reduction applied to Reduced Order Modelling</a></div></td>
-<td>Guglielmo Padula et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09721">2506.09721</a></td>
 </tr>
 </tbody></table>

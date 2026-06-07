@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>jet-tagging — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <strong>360d</strong> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14934.html">Vision Transformers for End-to-End Quark-Gluon Jet Classification from Calorimeter Images</a></div></td>
 <td>Md Abrar Jahin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14934">2506.14934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09862.html">Guided Graph Compression for Quantum Graph Neural Networks</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
-<td>Mikel Casals et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09862">2506.09862</a></td>
 </tr>
 </tbody></table>

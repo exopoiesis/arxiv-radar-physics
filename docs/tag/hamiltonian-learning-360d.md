@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07666.html">Hamiltonian-learning quantum magnets with non-local impurity tomography</a></div><div class="paper-tags"><a href="topological-insulators-360d.html">topological-insulators</a></div></td>
 <td>Greta Lupi et al.</td>
 <td><a href="http://arxiv.org/abs/2412.07666">2412.07666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10191.html">Constructive interference at the edge of quantum ergodic dynamics</a></div><div class="paper-tags"><a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
-<td>Dmitry A. Abanin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10191">2506.10191</a></td>
 </tr>
 </tbody></table>

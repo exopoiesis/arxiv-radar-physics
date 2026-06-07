@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>force-fields — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <strong>90d</strong> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13400.html">Combining Microscopy Data and Metadata for Reconstruction of Cellular Traction Forces Using a Hybrid Vision Transformer-U-Net</a></div></td>
 <td>Yunfei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13400">2603.13400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07425.html">A Perspective on Training Machine Learning Force Fields for Solid-State Electrolyte Materials</a></div></td>
-<td>Zihan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07425">2603.07425</a></td>
 </tr>
 </tbody></table>

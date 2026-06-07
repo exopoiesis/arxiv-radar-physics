@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">711 papers</span>
+  <span class="paper-count">706 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4250,35 +4250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10973.html">Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Julius Berner et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10973">2506.10973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01250.html">Metric-Entropy Limits on the Approximation of Nonlinear Dynamical Systems</a></div></td>
-<td>Yang Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01250">2407.01250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04495.html">Discovering Physics Laws of Dynamical Systems via Invariant Function Learning</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Shurui Gui et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04495">2502.04495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09546.html">Data-Driven Performance Measures using Global Properties of Attractors for Black-Box Surrogate Models of Chaotic Systems</a></div></td>
-<td>Luci Fumagalli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09546">2506.09546</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09568.html">Late time behavior in $f(R,\mathcal{L}_{m})$ gravity through Gaussian reconstruction and dynamical stability</a></div></td>
-<td>Y. Kalpana Devi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09568">2506.09568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10118.html">Data-driven balanced truncation for second-order systems with generalized proportional damping</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Sean Reiter et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10118">2506.10118</a></td>
 </tr>
 </tbody></table>

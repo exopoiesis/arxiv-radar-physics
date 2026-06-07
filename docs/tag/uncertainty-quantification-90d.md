@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,17 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20241.html">Probabilistic calibration of crystal plasticity material models with synthetic global and local data</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Joshua D. Pribe et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20241">2603.20241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07409.html">Tree-Based Predictive Models for Noisy Input Data</a></div></td>
-<td>Kevin McCoy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07409">2603.07409</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07525.html">Generative prediction of laser-induced rocket ignition with dynamic latent space representations</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Tony Zahtila et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07525">2603.07525</a></td>
 </tr>
 </tbody></table>

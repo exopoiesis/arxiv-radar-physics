@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.06363">2606.06363</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06524.html">Advanced Flood Prediction with Physics-Guided Deep Learning: Combining UNet, FNO, and SAR/Optical Imagery</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06524">2606.06524</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02092.html">LALE: Lightweight-Transformer Architecture for Land-Cover Estimation</a></div></td>
 <td>Ümit Mert Çağlar et al.</td>
@@ -218,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09687.html">Spatial-Frequency Gated Swin Transformer for Remote Sensing Single-Image Super-Resolution</a></div></td>
 <td>Md Aminur Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09687">2605.09687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07178.html">Masks Can Talk: Extracting Structured Text Information from Single-Modal Images for Remote Sensing Change Detection</a></div></td>
-<td>Kai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07178">2605.07178</a></td>
 </tr>
 </tbody></table>

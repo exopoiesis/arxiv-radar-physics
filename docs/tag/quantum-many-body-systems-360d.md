@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <strong>360d</strong> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01891.html">Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States</a></div></td>
 <td>Mahmud Ashraf Shamim et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01891">2506.01891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11227.html">Optimized Gutzwiller Projected States for Doped Antiferromagnets in Fermi-Hubbard Simulators</a></div></td>
-<td>Christian Reinmoser et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11227">2506.11227</a></td>
 </tr>
 </tbody></table>

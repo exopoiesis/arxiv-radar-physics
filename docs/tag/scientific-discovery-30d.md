@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Jacques Raynal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07303">2606.07303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07426.html">Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Hanqiao Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07426">2606.07426</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06473.html">MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery</a></div></td>
@@ -254,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
 <td>Xiangyu Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07723.html">LLM hallucinations in the wild: Large-scale evidence from non-existent citations</a></div></td>
-<td>Zhenyue Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07723">2605.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Nicolas Menet et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07863.html">ADKO: Agentic Decentralized Knowledge Optimization</a></div></td>
-<td>Lucas Nerone Rillo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07863">2605.07863</a></td>
 </tr>
 </tbody></table>

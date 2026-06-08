@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div></td>
+<td>Sijia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07396.html">Scalable Prediction of Complex Surface Reconstructions under Operating Conditions via Harmony-Search-Based Global Optimization</a></div></td>
+<td>Shi-Yang Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07396">2606.07396</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06617.html">Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Jiuyang Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06617">2606.06617</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div></td>
@@ -908,17 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div></td>
 <td>Jingchen Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05379.html">Teacher-student training improves accuracy and efficiency of machine learning interatomic potentials</a></div></td>
-<td>Sakib Matin et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05379">2502.05379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14293.html">Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Sakib Matin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14293">2503.14293</a></td>
 </tr>
 </tbody></table>

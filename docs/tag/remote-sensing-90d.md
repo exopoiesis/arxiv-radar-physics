@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06363.html">GMBFormer: An NDVI-Guided Global Memory Bank Transformer for Urban Green-Space Extraction from Ultra-High-Resolution Imagery</a></div></td>
 <td>Hao Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06363">2606.06363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06524.html">Advanced Flood Prediction with Physics-Guided Deep Learning: Combining UNet, FNO, and SAR/Optical Imagery</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06524">2606.06524</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -950,23 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09868.html">CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
 <td>Aleksei Rozanov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09868">2603.09868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16849.html">Post-Disaster Affected Area Segmentation with a Vision Transformer (ViT)-based EVAP Model using Sentinel-2 and Formosat-5 Imagery</a></div></td>
-<td>Yi-Shan Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16849">2507.16849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19736.html">InfScene-SR: Arbitrary-Size Image Super-Resolution via Iterative Joint-Denoising</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Shoukun Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19736">2602.19736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07975.html">Interleaved diffractive networks for information transfer through random diffusers</a></div></td>
-<td>Yuhang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07975">2603.07975</a></td>
 </tr>
 </tbody></table>

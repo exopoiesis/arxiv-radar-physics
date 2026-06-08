@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Jacques Raynal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07303">2606.07303</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05860.html">GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis</a></div></td>
 <td>Oleeviya Babu Poikarayil et al.</td>
@@ -506,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09762.html">Supernova scores for active anomaly detection</a></div></td>
 <td>Semenikhin T. A. et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09762">2603.09762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08137.html">Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach</a></div></td>
-<td>Yunhui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08137">2603.08137</a></td>
 </tr>
 </tbody></table>

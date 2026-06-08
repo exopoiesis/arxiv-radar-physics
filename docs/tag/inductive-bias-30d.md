@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06917.html">Belief-Aware Scheduling for Predictive Wildfire Hazard Mapping under Sparse-Window Telemetry</a></div></td>
+<td>Xun Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06917">2606.06917</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04366.html">MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers</a></div></td>
@@ -110,23 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10547.html">PhysEDA: Physics-Aware Learning Framework for Efficient EDA With Manhattan Distance Decay</a></div></td>
 <td>Zetao Yang</td>
 <td><a href="http://arxiv.org/abs/2605.10547">2605.10547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07611.html">Compositional Quantum Heuristics for Max-Clique Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Tiffany Duneau et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07611">2605.07611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08318.html">When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brandon Yee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Sangyoon Bae et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
 </tr>
 </tbody></table>

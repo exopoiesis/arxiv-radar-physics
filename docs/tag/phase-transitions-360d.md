@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06925.html">A Machine-Learning Based Approach to the Evaluation of the Critical Scaling Behavior of Anisotropic Spin Systems</a></div></td>
+<td>Alina A. Chubarova et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06925">2606.06925</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01597.html">Physics-Informed Modeling and Control of Emergent Behaviors in Robot Swarms</a></div></td>
 <td>Zixuan Jin et al.</td>
@@ -1034,11 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.17966.html">Reconfigurable Stream Network Architecture</a></div></td>
 <td>Chengyue Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2411.17966">2411.17966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10632.html">Hessian Geometry of Latent Space in Generative Models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Alexander Lobashev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10632">2506.10632</a></td>
 </tr>
 </tbody></table>

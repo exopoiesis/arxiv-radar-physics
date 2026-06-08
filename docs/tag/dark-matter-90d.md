@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06969.html">Lyman-$α$ forest constraints on pure and mixed fuzzy dark matter</a></div></td>
+<td>Jianxiang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06969">2606.06969</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01907.html">CSST large-scale structure analysis pipeline: IV. Cosmic Voids Identified from Galaxy Group Samples as Probes of the Large-scale Structure</a></div></td>
 <td>Yingxiao Song et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10179.html">A modern halo streaming model for redshift space distortions</a></div></td>
 <td>Cheng-Zong Ruan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10179">2603.10179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20826.html">Euclid preparation. Galaxy power spectrum modelling in redshift space</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20826">2601.20826</a></td>
 </tr>
 </tbody></table>

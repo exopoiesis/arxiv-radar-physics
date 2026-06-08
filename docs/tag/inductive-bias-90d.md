@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06917.html">Belief-Aware Scheduling for Predictive Wildfire Hazard Mapping under Sparse-Window Telemetry</a></div></td>
+<td>Xun Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06917">2606.06917</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04366.html">MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers</a></div></td>
 <td>Yanshun Zhao et al.</td>
@@ -374,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15328.html">Kuramoto Orientation Diffusion Models</a></div></td>
 <td>Yue Song et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15328">2509.15328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08583.html">DualFlexKAN: Dual-stage Kolmogorov-Arnold Networks with Independent Function Control</a></div></td>
-<td>Andrés Ortiz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08583">2603.08583</a></td>
 </tr>
 </tbody></table>

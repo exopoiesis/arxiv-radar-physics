@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">706 papers</span>
+  <span class="paper-count">705 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07247.html">Theory of learning of high-dimensional controlled non-linear dynamical systems (I): models and methods</a></div></td>
+<td>Pierfrancesco Urbani</td>
+<td><a href="http://arxiv.org/abs/2606.07247">2606.07247</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05618.html">Uncovering Extreme Event Mechanisms for Prediction and Control with Sensitivity-Balanced Projections</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Nicholas Zolman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05618">2606.05618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06728.html">Data-driven methods for computation of optimal linear response in high-dimensional dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
+<td>Gary Froyland et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06728">2606.06728</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -4232,23 +4244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11761.html">Using Deep Operators to Create Spatio-temporal Surrogates for Dynamical Systems under Uncertainty</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Jichuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11761">2506.11761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12952.html">Safe Physics-Informed Machine Learning for Dynamics and Control</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Jan Drgona et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12952">2504.12952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09816.html">Identifiability Challenges in Sparse Linear Ordinary Differential Equations</a></div></td>
-<td>Cecilia Casolo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09816">2506.09816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10973.html">Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Julius Berner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10973">2506.10973</a></td>
 </tr>
 </tbody></table>

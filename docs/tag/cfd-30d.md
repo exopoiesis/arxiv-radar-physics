@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07481.html">Drifting Models for Surrogate Flow Modeling</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Chris R. Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07481">2606.07481</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
 <td>Mohammad Rashed et al.</td>
@@ -164,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08832.html">Inpainting physics: self-supervised learning for context-driven fluid simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Jonas Weidner et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08832">2605.08832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07131.html">A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Yuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07131">2605.07131</a></td>
 </tr>
 </tbody></table>

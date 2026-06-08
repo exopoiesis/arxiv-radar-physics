@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09037.html">Plato&#x27;s view on supermassive black hole binaries: Exploring the faint limit of ESA&#x27;s Plato space mission</a></div></td>
 <td>Nicholas Jannsen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09037">2605.09037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Ryoichiro Agata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07393.html">Offline Policy Optimization with Posterior Sampling</a></div></td>
-<td>Hongqiang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07393">2605.07393</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>
+<td>Yimin Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07165">2606.07165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06007.html">Diffusion Models for Adaptive Sequential Data Generation</a></div></td>
 <td>Haoyang Cao et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08804.html">Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion</a></div></td>
 <td>Jianhui Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08804">2605.08804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07456.html">Inference-Time Attribute Distribution Alignment for Unconditional Diffusion</a></div></td>
-<td>Hao Luan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07456">2605.07456</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1079 papers</span>
+  <span class="paper-count">1081 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07247.html">Theory of learning of high-dimensional controlled non-linear dynamical systems (I): models and methods</a></div></td>
+<td>Pierfrancesco Urbani</td>
+<td><a href="http://arxiv.org/abs/2606.07247">2606.07247</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05618.html">Uncovering Extreme Event Mechanisms for Prediction and Control with Sensitivity-Balanced Projections</a></div><div class="paper-tags"><a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
 <td>Nicholas Zolman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05618">2606.05618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06728.html">Data-driven methods for computation of optimal linear response in high-dimensional dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>
+<td>Gary Froyland et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06728">2606.06728</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>

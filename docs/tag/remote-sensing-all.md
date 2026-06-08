@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>remote-sensing — all</h1>
-  <span class="paper-count">1008 papers</span>
+  <span class="paper-count">1009 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06363.html">GMBFormer: An NDVI-Guided Global Memory Bank Transformer for Urban Green-Space Extraction from Ultra-High-Resolution Imagery</a></div></td>
 <td>Hao Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06363">2606.06363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06524.html">Advanced Flood Prediction with Physics-Guided Deep Learning: Combining UNet, FNO, and SAR/Optical Imagery</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06524">2606.06524</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>

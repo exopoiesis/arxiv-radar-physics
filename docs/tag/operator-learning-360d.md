@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1598,17 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11761.html">Using Deep Operators to Create Spatio-temporal Surrogates for Dynamical Systems under Uncertainty</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Jichuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11761">2506.11761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16168.html">LeMON: Learning to Learn Multi-Operator Networks</a></div></td>
-<td>Jingmin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16168">2408.16168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10973.html">Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Julius Berner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10973">2506.10973</a></td>
 </tr>
 </tbody></table>

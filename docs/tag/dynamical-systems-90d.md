@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07247.html">Theory of learning of high-dimensional controlled non-linear dynamical systems (I): models and methods</a></div></td>
+<td>Pierfrancesco Urbani</td>
+<td><a href="http://arxiv.org/abs/2606.07247">2606.07247</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05618.html">Uncovering Extreme Event Mechanisms for Prediction and Control with Sensitivity-Balanced Projections</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
 <td>Nicholas Zolman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05618">2606.05618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06728.html">Data-driven methods for computation of optimal linear response in high-dimensional dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
+<td>Gary Froyland et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06728">2606.06728</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -1304,23 +1316,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10149.html">A neural operator for predicting vibration frequency response curves from limited data</a></div></td>
 <td>D. Bluedorn et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10149">2603.10149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06982.html">Sample-Based Consistency in Infinite-Dimensional Conic-Constrained Stochastic Optimization</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Caroline Geiersbach et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06982">2507.06982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08339.html">Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Sucheta Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08339">2603.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08488.html">NN-OpInf: an operator inference approach using structure-preserving composable neural networks</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
-<td>Eric Parish et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08488">2603.08488</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Giovanni Zingaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07215">2606.07215</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05982.html">Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process</a></div></td>
@@ -938,35 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10218.html">Bayesian Synchronization of Proxy Paleorecords with Reference Chronologies</a></div></td>
 <td>Marco A. Aquino-López et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10218">2603.10218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19118.html">MACE4IRmol: An uncertainty-aware foundation model for molecular infrared spectroscopy</a></div></td>
-<td>Nitik Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19118">2508.19118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20640.html">Scalable multitask Gaussian processes for complex mechanical systems with functional covariates</a></div></td>
-<td>Razak Christophe Sabi Gninkou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20640">2602.20640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07976.html">Bayesian neural network with autoencoder for model-based description of $α$-particle preformation factor</a></div></td>
-<td>Xiao-Yan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07976">2603.07976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08981.html">Uncertainty quantification for critical energy systems during compound extremes via BMW-GAM</a></div></td>
-<td>Mitchell L. Krock et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08981">2603.08981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20241.html">Probabilistic calibration of crystal plasticity material models with synthetic global and local data</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Joshua D. Pribe et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20241">2603.20241</a></td>
 </tr>
 </tbody></table>

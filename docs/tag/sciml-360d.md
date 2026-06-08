@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11761.html">Using Deep Operators to Create Spatio-temporal Surrogates for Dynamical Systems under Uncertainty</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Jichuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11761">2506.11761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11328.html">An Attention-based Spatio-Temporal Neural Operator for Evolving Physics</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Vispi Karkaria et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11328">2506.11328</a></td>
 </tr>
 </tbody></table>

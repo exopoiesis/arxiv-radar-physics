@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <strong>90d</strong> <a href="reduced-order-modeling-360d.html">360d</a> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04982.html">Operator Formalism for Laser-Plasma Wakefield Acceleration</a></div></td>
 <td>Mostafa Behtouei et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04982">2512.04982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08488.html">NN-OpInf: an operator inference approach using structure-preserving composable neural networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="rom-90d.html">rom</a></div></td>
-<td>Eric Parish et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08488">2603.08488</a></td>
 </tr>
 </tbody></table>

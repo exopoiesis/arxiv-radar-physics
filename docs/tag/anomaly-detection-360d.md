@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Jacques Raynal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07303">2606.07303</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05860.html">GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis</a></div></td>
 <td>Oleeviya Babu Poikarayil et al.</td>
@@ -1904,11 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11641.html">Deep Symmetric Autoencoders from the Eckart-Young-Schmidt Perspective</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Simone Brivio et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11641">2506.11641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10613.html">Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information</a></div></td>
-<td>Henrik Sebastian Steude et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10613">2506.10613</a></td>
 </tr>
 </tbody></table>

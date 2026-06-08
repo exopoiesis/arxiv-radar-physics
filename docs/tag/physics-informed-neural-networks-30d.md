@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,41 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12544.html">Dual-Correction Physics-Informed Neural Networks for Hemodynamic Reconstruction from Sparse Data</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Jingtai Song et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12544">2605.12544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07060.html">Functional-prior-based Bayesian PDE-constrained inversion using PINNs</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Ryoichiro Agata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07060">2605.07060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07131.html">A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Yuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07131">2605.07131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08028.html">Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Eunhan Ka et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08028">2605.08028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08318.html">When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brandon Yee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08408.html">AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Binghang Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08408">2605.08408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08517.html">A Deep Risk Estimator for Known Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Andreas Maier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08517">2605.08517</a></td>
 </tr>
 </tbody></table>

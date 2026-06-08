@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11715.html">Simulating realistic radio continuum survey maps with diffusion models</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
 <td>Tobias Vičánek Martínez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11715">2506.11715</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17553.html">SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Silvan Fischbacher et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17553">2502.17553</a></td>
 </tr>
 </tbody></table>

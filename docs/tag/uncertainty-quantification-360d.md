@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Giovanni Zingaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07215">2606.07215</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05982.html">Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process</a></div></td>
@@ -3260,23 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12230.html">Statistical Machine Learning for Astronomy -- A Textbook</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Yuan-Sen Ting</td>
 <td><a href="http://arxiv.org/abs/2506.12230">2506.12230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04279.html">Genetic Programming for the Nuclear Many-Body Problem: a Guide</a></div></td>
-<td>Illya Bakurov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04279">2406.04279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12952.html">Safe Physics-Informed Machine Learning for Dynamics and Control</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Jan Drgona et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12952">2504.12952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10636.html">Structure and asymptotic preserving deep neural surrogates for uncertainty quantification in multiscale kinetic equations</a></div></td>
-<td>Wei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10636">2506.10636</a></td>
 </tr>
 </tbody></table>

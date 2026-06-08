@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06827.html">Architecture Shapes Transfer Specificity in Implicit Neural Representations</a></div></td>
+<td>D Yang Eng</td>
+<td><a href="http://arxiv.org/abs/2606.06827">2606.06827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02997.html">TransportBench: A Comprehensive Benchmark for Non-Equilibrium Flow Transport</a></div></td>
 <td>Xu Wang et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11111.html">ShardTensor: Domain Parallelism for Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
 <td>Corey Adams et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11111">2605.11111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07323.html">Discovering Ordinary Differential Equations with LLM-Based Qualitative and Quantitative Evaluation</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Sum Kyun Song et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07323">2605.07323</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">611 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>
+<td>Yimin Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07165">2606.07165</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06007.html">Diffusion Models for Adaptive Sequential Data Generation</a></div></td>
@@ -3674,17 +3680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10711.html">PDESpectralRefiner: Achieving More Accurate Long Rollouts with Spectral Adjustment</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Li Luo</td>
 <td><a href="http://arxiv.org/abs/2506.10711">2506.10711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10632.html">Hessian Geometry of Latent Space in Generative Models</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Alexander Lobashev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10632">2506.10632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10639.html">GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning</a></div></td>
-<td>Xiaoyi Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10639">2506.10639</a></td>
 </tr>
 </tbody></table>

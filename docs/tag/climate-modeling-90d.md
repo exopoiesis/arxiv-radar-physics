@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>climate-modeling — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="climate-modeling-360d.html">360d</a> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09868.html">CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Aleksei Rozanov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09868">2603.09868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07940.html">AI Agents, Language, Deep Learning and the Next Revolution in Science</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Ke Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07940">2603.07940</a></td>
 </tr>
 </tbody></table>

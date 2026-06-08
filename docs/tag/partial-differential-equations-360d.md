@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4952,17 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21810.html">Physics-informed neural network framework for solving forward and inverse flexoelectric problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Hyeonbin Moon et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21810">2506.21810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10973.html">Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Julius Berner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10973">2506.10973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11241.html">A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Donya Dabiri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11241">2506.11241</a></td>
 </tr>
 </tbody></table>

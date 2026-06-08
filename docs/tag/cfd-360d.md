@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07481.html">Drifting Models for Surrogate Flow Modeling</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
+<td>Chris R. Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07481">2606.07481</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
 <td>Mohammad Rashed et al.</td>
@@ -1220,11 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14597.html">Deep Learning Surrogates for Real-Time Gas Emission Inversion</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Thomas Newman et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14597">2506.14597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15766.html">Accelerating Transient CFD through Machine Learning-Based Flow Initialization</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Peter Sharpe et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15766">2503.15766</a></td>
 </tr>
 </tbody></table>

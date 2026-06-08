@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">540 papers</span>
+  <span class="paper-count">539 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3248,11 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18090.html">Evaluation of derivatives using approximate generalized parameter shift rule</a></div></td>
 <td>Vytautas Abramavicius et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18090">2505.18090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10306.html">QSEA: Quantum Self-supervised Learning with Entanglement Augmentation</a></div></td>
-<td>Lingxiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10306">2506.10306</a></td>
 </tr>
 </tbody></table>

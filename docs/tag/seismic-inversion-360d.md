@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>seismic-inversion — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="seismic-inversion-7d.html">7d</a> <a href="seismic-inversion-30d.html">30d</a> <a href="seismic-inversion-90d.html">90d</a> <strong>360d</strong> <a href="seismic-inversion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05009.html">Seismic inversion using hybrid quantum neural networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Divakar Vashisth et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05009">2503.05009</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14140.html">Geophysics-informed neural network for model-based seismic inversion using surrogate point spread functions</a></div></td>
-<td>Marcus Saraiva et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14140">2507.14140</a></td>
 </tr>
 </tbody></table>

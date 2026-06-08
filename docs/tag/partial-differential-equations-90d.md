@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,29 +1358,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09815.html">Correction of Transformer-Based Models with Smoothing Pseudo-Projector</a></div></td>
 <td>Vitaly Bulgakov</td>
 <td><a href="http://arxiv.org/abs/2603.09815">2603.09815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06967.html">Noisy PDE Training Requires Bigger PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Sebastien Andre-Sloan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06967">2507.06967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06982.html">Sample-Based Consistency in Infinite-Dimensional Conic-Constrained Stochastic Optimization</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Caroline Geiersbach et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06982">2507.06982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08219.html">Wiener Chaos Expansion based Neural Operator for Singular Stochastic Partial Differential Equations</a></div></td>
-<td>Dai Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08219">2603.08219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08304.html">Graph-Instructed Neural Networks for parametric problems with varying boundary conditions</a></div></td>
-<td>Francesco Della Santa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08304">2603.08304</a></td>
 </tr>
 </tbody></table>

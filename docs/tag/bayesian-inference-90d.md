@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09728.html">A Regularized Ensemble Kalman Filter for Stochastic Phase Field Models of Brittle Fracture</a></div></td>
 <td>Lucas Hermann et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09728">2603.09728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08290.html">MCMC using $\textit{bouncy}$ Hamiltonian dynamics: A unifying framework for Hamiltonian Monte Carlo and piecewise deterministic Markov process samplers</a></div></td>
-<td>Andrew Chin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08290">2405.08290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07983.html">Correlation between nuclear isospin asymmetry and $α$-particle preformation probability for superheavy nuclei from a Bayesian inference</a></div></td>
-<td>Xiao-Yan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07983">2603.07983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08555.html">Multi-epoch afterglow rebrightenings in GRB 250129A: Evidence for successive shock interactions</a></div></td>
-<td>D. Akl et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08555">2603.08555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20241.html">Probabilistic calibration of crystal plasticity material models with synthetic global and local data</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Joshua D. Pribe et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20241">2603.20241</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10083.html">Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Ammar Daskin</td>
 <td><a href="http://arxiv.org/abs/2603.10083">2603.10083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08667.html">Characterization and upgrade of a quantum graph neural network for charged particle tracking</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
-<td>Matteo Argenton et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08667">2603.08667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08680.html">Metriq: A Collaborative Platform for Benchmarking Quantum Computers</a></div></td>
-<td>Alessandro Cosentino et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08680">2603.08680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08793.html">Efficient training of photonic quantum generative models</a></div></td>
-<td>Felix Gottlieb et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08793">2603.08793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18033.html">Asymptotic Expansions for Neural Network Approximations of Quantum Channels</a></div></td>
-<td>Rômulo Damasclin Chaves dos Santos</td>
-<td><a href="http://arxiv.org/abs/2603.18033">2603.18033</a></td>
 </tr>
 </tbody></table>

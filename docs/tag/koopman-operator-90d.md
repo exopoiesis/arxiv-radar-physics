@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>koopman-operator — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <strong>90d</strong> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10995.html">Factorized Neural Implicit DMD for Parametric Dynamics</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Siyuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10995">2603.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08339.html">Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Sucheta Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08339">2603.08339</a></td>
 </tr>
 </tbody></table>

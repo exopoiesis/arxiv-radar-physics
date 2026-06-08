@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">579 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06363.html">GMBFormer: An NDVI-Guided Global Memory Bank Transformer for Urban Green-Space Extraction from Ultra-High-Resolution Imagery</a></div></td>
 <td>Hao Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06363">2606.06363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06524.html">Advanced Flood Prediction with Physics-Guided Deep Learning: Combining UNet, FNO, and SAR/Optical Imagery</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06524">2606.06524</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -3476,17 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11732.html">Data-driven approaches to inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Carola-Bibiane Schönlieb et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11732">2506.11732</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10242.html">CAT: A Conditional Adaptation Tailor for Efficient and Effective Instance-Specific Pansharpening on Real-World Data</a></div></td>
-<td>Tianyu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10242">2504.10242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10601.html">Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection</a></div></td>
-<td>Xinyuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10601">2506.10601</a></td>
 </tr>
 </tbody></table>

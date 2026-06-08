@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3758,11 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11518.html">Transformed Diffusion-Wave fPINNs: Enhancing Computing Efficiency for PINNs Solving Time-Fractional Diffusion-Wave Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Jing Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11518">2506.11518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11241.html">A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Donya Dabiri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11241">2506.11241</a></td>
 </tr>
 </tbody></table>

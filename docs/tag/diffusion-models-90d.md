@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>
+<td>Yimin Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07165">2606.07165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06007.html">Diffusion Models for Adaptive Sequential Data Generation</a></div></td>
 <td>Haoyang Cao et al.</td>
@@ -1064,11 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09744.html">AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Bonwook Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09744">2603.09744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19736.html">InfScene-SR: Arbitrary-Size Image Super-Resolution via Iterative Joint-Denoising</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Shoukun Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19736">2602.19736</a></td>
 </tr>
 </tbody></table>

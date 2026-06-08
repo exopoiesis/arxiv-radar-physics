@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Giovanni Zingaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07215">2606.07215</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06046.html">Learning solution operators of PDEs with sparse approximation methods</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -308,41 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09189.html">Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World</a></div></td>
 <td>Christopher M. Bryant et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09189">2605.09189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07365.html">Solving Convolution-type Integral Equations using Preconditioned Neural Operators</a></div></td>
-<td>Raymond Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07365">2605.07365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07375.html">QuadNorm: Resolution-Robust Normalization for Neural Operators</a></div></td>
-<td>Bum Jun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07375">2605.07375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07792.html">Neural Operators as Efficient Function Interpolators</a></div></td>
-<td>Vasilis Niarchos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07792">2605.07792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07828.html">NSPOD: acceleratingthe convergence ofKrylov-based iterative linearsolvers via approximated PODs</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Francesc Levrero-Florencio et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07828">2605.07828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08318.html">When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Brandon Yee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08318">2605.08318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08466.html">Multiscale modeling of materials and neural operators</a></div></td>
-<td>Kaushik Bhattacharya</td>
-<td><a href="http://arxiv.org/abs/2605.08466">2605.08466</a></td>
 </tr>
 </tbody></table>

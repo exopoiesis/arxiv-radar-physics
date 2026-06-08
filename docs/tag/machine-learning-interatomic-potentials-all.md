@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — all</h1>
-  <span class="paper-count">208 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div></td>
+<td>Sijia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07396.html">Scalable Prediction of Complex Surface Reconstructions under Operating Conditions via Harmony-Search-Based Global Optimization</a></div></td>
+<td>Shi-Yang Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07396">2606.07396</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06617.html">Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Jiuyang Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06617">2606.06617</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div></td>

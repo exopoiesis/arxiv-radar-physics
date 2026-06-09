@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
+<td>Siyu Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09638">2606.09638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08405.html">Self-Evolving Scientific Agent Discovers Generalizable Physically-Reasoned Fluid Control</a></div></td>
+<td>Boai Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08405">2606.08405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08251.html">Contemporary AI lacks the imagination to diverge or negate in science</a></div></td>
+<td>Honglin Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08251">2606.08251</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a></div></td>
@@ -44,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03962.html">Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</a></div></td>
 <td>Anthony GX-Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03962">2606.03962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02258.html">Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Shashwat Sourav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02258">2606.02258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02430.html">Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference</a></div></td>
-<td>Yafan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02430">2606.02430</a></td>
 </tr>
 </tbody></table>

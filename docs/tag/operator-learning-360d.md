@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05900.html">Derivative-Informed Operator Learning for Finance: On-the-Fly Greeks, Surfaces, Hedging, and Control</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Miquel Noguer I Alonso</td>
@@ -1592,11 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14236.html">Physics-Informed Neural Networks for the Korteweg-de Vries Equation for Internal Solitary Wave Problem: Forward Simulation and Inverse Parameter Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ming Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14236">2506.14236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11761.html">Using Deep Operators to Create Spatio-temporal Surrogates for Dynamical Systems under Uncertainty</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Jichuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11761">2506.11761</a></td>
 </tr>
 </tbody></table>

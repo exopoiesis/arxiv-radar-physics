@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>David M. J. Vokrouhlicky et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07745">2606.07745</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05910.html">Modeling Gamma-Ray Burst Spectra with Convolutional Neural Networks: Fast-Cooling Synchrotron Emission in a Decaying Magnetic Field</a></div></td>
 <td>Jia-Ming Chen et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11179.html">Interpretable Machine Learning for Spatial Science: A Lie-Algebraic Kernel for Rotationally Anisotropic Gaussian Processes</a></div></td>
 <td>Kane Warrior et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11179">2605.11179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09037.html">Plato&#x27;s view on supermassive black hole binaries: Exploring the faint limit of ESA&#x27;s Plato space mission</a></div></td>
-<td>Nicholas Jannsen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09037">2605.09037</a></td>
 </tr>
 </tbody></table>

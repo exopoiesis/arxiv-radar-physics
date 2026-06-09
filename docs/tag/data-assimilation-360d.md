@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07681.html">Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model</a></div></td>
+<td>Aya Lahlou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07681">2606.07681</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03838.html">Uncovering Turbulent Dynamics in Stenotic Flows from 4D-flow MRI Measurements via Resolvent Analysis and Data Assimilation</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Aleaxndre Villié et al.</td>
@@ -806,11 +812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16767.html">Online model learning with data-assimilated reservoir computers</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Andrea Nóvoa et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16767">2504.16767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13312.html">Tensor-Var: Efficient Four-Dimensional Variational Data Assimilation</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Yiming Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.13312">2501.13312</a></td>
 </tr>
 </tbody></table>

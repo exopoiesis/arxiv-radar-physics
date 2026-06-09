@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05900.html">Derivative-Informed Operator Learning for Finance: On-the-Fly Greeks, Surfaces, Hedging, and Control</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
 <td>Miquel Noguer I Alonso</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03469.html">Physics-guided correction for operator learning under model misspecification</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Lei Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03469">2606.03469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02427.html">Spectral Audit of In-Context Operator Networks</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Zhiwei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02427">2606.02427</a></td>
 </tr>
 </tbody></table>

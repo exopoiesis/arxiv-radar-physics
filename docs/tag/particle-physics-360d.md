@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Alexandros Pratsos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03745.html">Predicting the Neutrino Mass Ordering Using Neural Networks</a></div></td>
 <td>T. J. C. Bezerra et al.</td>
@@ -638,11 +644,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16664.html">Geometric Kolmogorov-Arnold Superposition Theorem</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Francesco Alesiani et al.</td>
 <td><a href="http://arxiv.org/abs/2502.16664">2502.16664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03724.html">Stay Positive: Neural Refinement of Sample Weights</a></div></td>
-<td>Benjamin Nachman et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03724">2505.03724</a></td>
 </tr>
 </tbody></table>

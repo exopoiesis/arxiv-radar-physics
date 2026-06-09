@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a></div></td>
+<td>David M. J. Vokrouhlicky et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07745">2606.07745</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05910.html">Modeling Gamma-Ray Burst Spectra with Convolutional Neural Networks: Fast-Cooling Synchrotron Emission in a Decaying Magnetic Field</a></div></td>
 <td>Jia-Ming Chen et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04094.html">Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging</a></div></td>
 <td>Erandi Chavez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04094">2606.04094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
-<td>Mitchell T. Dennis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02732">2606.02732</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">224 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,35 +1328,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10995.html">Factorized Neural Implicit DMD for Parametric Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Siyuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10995">2603.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10212.html">WG-IDENT: Weak Group Identification of PDEs with Varying Coefficients</a></div></td>
-<td>Cheng Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10212">2504.10212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09597.html">Symbolic Discovery of Stochastic Differential Equations with Genetic Programming</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Sigur de Vries et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09597">2603.09597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09663.html">A Least-Squares-Based Regularity-Conforming Neural Networks (LS-ReCoNNs) for Solving Parametric Transmission Problems</a></div></td>
-<td>Shima Baharlouei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09663">2603.09663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09693.html">Physics-informed neural operator for predictive parametric phase-field modelling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Nanxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09693">2603.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09815.html">Correction of Transformer-Based Models with Smoothing Pseudo-Projector</a></div></td>
-<td>Vitaly Bulgakov</td>
-<td><a href="http://arxiv.org/abs/2603.09815">2603.09815</a></td>
 </tr>
 </tbody></table>

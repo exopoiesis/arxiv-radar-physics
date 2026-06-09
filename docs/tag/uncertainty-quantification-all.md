@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">811 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09094.html">CIG-Bench: A Comprehensive Survey and Benchmark for AI-Driven Subsurface Imaging Understanding</a></div></td>
+<td>Yimin Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09094">2606.09094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09147.html">Artificial Intelligence for Instability in Inorganic Perovskites: From Mechanism Discovery to Engineering Strategies</a></div></td>
+<td>Xue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09147">2606.09147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Giovanni Zingaro et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07215">2606.07215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07771.html">Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
+<td>Karla Tame-Narvaez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07771">2606.07771</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>

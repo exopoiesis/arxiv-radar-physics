@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09422.html">A Robust Agentic Framework for Expert-Level Automation of Atomistic Simulations</a></div><div class="paper-tags"><a href="force-fields-7d.html">force-fields</a></div></td>
+<td>Yutack Park et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09422">2606.09422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div></td>
 <td>Sijia Chen et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div></td>
 <td>Joanna Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div></td>
-<td>Zhiyue Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
 </tr>
 </tbody></table>

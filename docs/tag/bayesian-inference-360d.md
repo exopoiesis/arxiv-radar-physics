@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>David M. J. Vokrouhlicky et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07745">2606.07745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05910.html">Modeling Gamma-Ray Burst Spectra with Convolutional Neural Networks: Fast-Cooling Synchrotron Emission in a Decaying Magnetic Field</a></div></td>
@@ -2672,17 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04091.html">Silkscreen: Direct Measurements of Galaxy Distances from Survey Image Cutouts</a></div></td>
 <td>Tim B. Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04091">2407.04091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18815.html">A Next-Generation Exoplanet Atmospheric Retrieval Framework for Transmission Spectroscopy (NEXOTRANS): Comparative Characterization for WASP-39 b Using JWST NIRISS, NIRSpec PRISM, and MIRI Observations</a></div></td>
-<td>Tonmoy Deka et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18815">2504.18815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12230.html">Statistical Machine Learning for Astronomy -- A Textbook</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yuan-Sen Ting</td>
-<td><a href="http://arxiv.org/abs/2506.12230">2506.12230</a></td>
 </tr>
 </tbody></table>

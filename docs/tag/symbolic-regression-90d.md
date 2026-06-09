@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
+<td>Paul Kahlmeyer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09276">2606.09276</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06876.html">A Wall Function for Turbulent Boundary Layers under Rotation via Symbolic Regression</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07426.html">Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Hanqiao Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07426">2606.07426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07704.html">FunctionEvolve: Structure-Guided Symbolic Regression with LLMs</a></div></td>
+<td>Zeyu Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07704">2606.07704</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -356,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16640.html">Interpretable and physics-informed emulator for the linear matter power spectrum from machine learning</a></div></td>
 <td>J. Bayron Orjuela-Quintana et al.</td>
 <td><a href="http://arxiv.org/abs/2407.16640">2407.16640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09597.html">Symbolic Discovery of Stochastic Differential Equations with Genetic Programming</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Sigur de Vries et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09597">2603.09597</a></td>
 </tr>
 </tbody></table>

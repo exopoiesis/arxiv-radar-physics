@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -284,35 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10451.html">Don&#x27;t Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs</a></div><div class="paper-tags"><a href="pde-learning-30d.html">pde-learning</a></div></td>
 <td>Xuxiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10451">2605.10451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08915.html">Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Hanru Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08915">2605.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08938.html">Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators</a></div></td>
-<td>Ali Baheri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08938">2605.08938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09096.html">Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates</a></div></td>
-<td>Enrique Hernández Noguera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09096">2605.09096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09189.html">Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World</a></div></td>
-<td>Christopher M. Bryant et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09189">2605.09189</a></td>
 </tr>
 </tbody></table>

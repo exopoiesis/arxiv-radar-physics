@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">620 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3734,29 +3734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12922.html">PINNs Algorithmic Framework for Simulation of Nonlinear Burgers&#x27; Type Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Ajeet Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12922">2506.12922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00573.html">Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Xianliang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00573">2408.00573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15111.html">Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Afrah Farea et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15111">2411.15111</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07514.html">Modelling Mosquito Population Dynamics using PINN-derived Empirical Parameters</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Branislava Lalic et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07514">2412.07514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11518.html">Transformed Diffusion-Wave fPINNs: Enhancing Computing Efficiency for PINNs Solving Time-Fractional Diffusion-Wave Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11518">2506.11518</a></td>
 </tr>
 </tbody></table>

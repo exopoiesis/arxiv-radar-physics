@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09001.html">JAX-AMG: A GPU-Accelerated Differentiable Sparse Linear Solver Library for JAX</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Yi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09001">2606.09001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06827.html">Architecture Shapes Transfer Specificity in Implicit Neural Representations</a></div></td>
@@ -362,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12870.html">Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Matteo Giacomini et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12870">2603.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10368.html">Operator Learning for Consolidation: An Architectural Comparison for DeepONet Variants</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yongjin Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10368">2507.10368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09032.html">Two Teachers Better Than One: Hardware-Physics Co-Guided Distributed Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
-<td>Yuchen Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09032">2603.09032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09693.html">Physics-informed neural operator for predictive parametric phase-field modelling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Nanxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09693">2603.09693</a></td>
 </tr>
 </tbody></table>

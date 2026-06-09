@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">817 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4916,41 +4916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.14475.html">Point Cloud Neural Operator for Parametric PDEs on Complex and Variable Geometries</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Chenyu Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2501.14475">2501.14475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15111.html">Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Afrah Farea et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15111">2411.15111</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04276.html">Gaussian Process Regression for Inverse Problems in Linear PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Xin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04276">2502.04276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04613.html">DeePoly: A High-Order Accuracy Scientific Machine Learning Framework for Function Approximation and Solving PDEs</a></div></td>
-<td>Li Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04613">2506.04613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10711.html">PDESpectralRefiner: Achieving More Accurate Long Rollouts with Spectral Adjustment</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Li Luo</td>
-<td><a href="http://arxiv.org/abs/2506.10711">2506.10711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11641.html">Deep Symmetric Autoencoders from the Eckart-Young-Schmidt Perspective</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Simone Brivio et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11641">2506.11641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21810.html">Physics-informed neural network framework for solving forward and inverse flexoelectric problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Hyeonbin Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21810">2506.21810</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">529 papers</span>
+  <span class="paper-count">531 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>

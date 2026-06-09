@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09094.html">CIG-Bench: A Comprehensive Survey and Benchmark for AI-Driven Subsurface Imaging Understanding</a></div></td>
+<td>Yimin Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09094">2606.09094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09147.html">Artificial Intelligence for Instability in Inorganic Perovskites: From Mechanism Discovery to Engineering Strategies</a></div></td>
+<td>Xue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09147">2606.09147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Giovanni Zingaro et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07215">2606.07215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07771.html">Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
+<td>Karla Tame-Narvaez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07771">2606.07771</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -926,23 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11247.html">Reliable Viscosity Calculation from High-Pressure Equilibrium Molecular Dynamics: Case Study of 2,2,4-Trimethylhexane</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Gözdenur Toraman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11247">2603.11247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10368.html">Operator Learning for Consolidation: An Architectural Comparison for DeepONet Variants</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Yongjin Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10368">2507.10368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05927.html">World Models That Know When They Don&#x27;t Know - Controllable Video Generation with Calibrated Uncertainty</a></div></td>
-<td>Zhiting Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05927">2512.05927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10218.html">Bayesian Synchronization of Proxy Paleorecords with Reference Chronologies</a></div></td>
-<td>Marco A. Aquino-López et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10218">2603.10218</a></td>
 </tr>
 </tbody></table>

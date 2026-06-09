@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09001.html">JAX-AMG: A GPU-Accelerated Differentiable Sparse Linear Solver Library for JAX</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Yi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09001">2606.09001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08316.html">Some Inverse Problems in Particle Physics</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
+<td>Luigi Del Debbio</td>
+<td><a href="http://arxiv.org/abs/2606.08316">2606.08316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07122.html">A Unified DeepONet Framework for Logarithmically Stable Infinite-Dimensional Inverse Problems</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
@@ -2456,29 +2474,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12897.html">Generative modeling of seismic data using diffusion models and its application to multi-purpose posterior sampling for noisy inverse problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Chuangji Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12897">2506.12897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04276.html">Gaussian Process Regression for Inverse Problems in Linear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Xin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04276">2502.04276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11732.html">Data-driven approaches to inverse problems</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Carola-Bibiane Schönlieb et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11732">2506.11732</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11977.html">Dictionary Learning Based Regularization in Quantitative MRI: A Nested Alternating Optimization Framework</a></div></td>
-<td>Guozhi Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11977">2506.11977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21810.html">Physics-informed neural network framework for solving forward and inverse flexoelectric problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Hyeonbin Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21810">2506.21810</a></td>
 </tr>
 </tbody></table>

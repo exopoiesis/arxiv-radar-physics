@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Alexandros Pratsos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03745.html">Predicting the Neutrino Mass Ordering Using Neural Networks</a></div></td>
 <td>T. J. C. Bezerra et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13490.html">Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs</a></div></td>
 <td>P. Alex May et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13490">2603.13490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22248.html">Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP)</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Julia Gonski et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22248">2602.22248</a></td>
 </tr>
 </tbody></table>

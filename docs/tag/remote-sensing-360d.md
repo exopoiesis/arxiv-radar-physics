@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08920.html">PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction from High-Resolution Remote Sensing Images</a></div></td>
+<td>Yaoteng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08920">2606.08920</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08535.html">NGram-MoSE: Efficient Remote Sensing Super-Resolution via N-Gram Context and Mixture-of-Experts</a></div></td>
+<td>Yun-Hsuan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08535">2606.08535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05586.html">BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection</a></div></td>
 <td>Wenlin Liu et al.</td>
@@ -3470,17 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13505.html">UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data</a></div></td>
 <td>Vasiliki Balaska et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13505">2506.13505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17397.html">Fine-tune Smarter, Not Harder: Parameter-Efficient Fine-Tuning for Geospatial Foundation Models</a></div></td>
-<td>Francesc Marti-Escofet et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17397">2504.17397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11732.html">Data-driven approaches to inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Carola-Bibiane Schönlieb et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11732">2506.11732</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
+<td>Siyu Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09638">2606.09638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08405.html">Self-Evolving Scientific Agent Discovers Generalizable Physically-Reasoned Fluid Control</a></div></td>
+<td>Boai Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08405">2606.08405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08251.html">Contemporary AI lacks the imagination to diverge or negate in science</a></div></td>
+<td>Honglin Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08251">2606.08251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
 <td>Jacques Raynal et al.</td>
@@ -248,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
 <td>Kainat Riaz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
-<td>Vinay Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08941">2605.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
-<td>Harshit Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
-<td>Xiangyu Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
 </tr>
 </tbody></table>

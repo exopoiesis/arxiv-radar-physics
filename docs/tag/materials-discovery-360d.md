@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">248 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1502,11 +1502,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12516.html">Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining</a></div></td>
 <td>Yongqian Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12516">2506.12516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16548.html">From Efficiency Gains to Rebound Effects: The Problem of Jevons&#x27; Paradox in AI&#x27;s Polarized Environmental Debate</a></div></td>
-<td>Alexandra Sasha Luccioni et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16548">2501.16548</a></td>
 </tr>
 </tbody></table>

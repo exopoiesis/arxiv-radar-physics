@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,17 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04232.html">Soft Actor-Critic with Backstepping-Pretrained DeepONet for control of PDEs</a></div></td>
 <td>Chenchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04232">2507.04232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10368.html">Operator Learning for Consolidation: An Architectural Comparison for DeepONet Variants</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yongjin Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10368">2507.10368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00359.html">An Interpretable Operator-Learning Model for Electric Field Profile Reconstruction in Discharges Based on the EFISH Method</a></div></td>
-<td>Zhijian Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00359">2512.00359</a></td>
 </tr>
 </tbody></table>

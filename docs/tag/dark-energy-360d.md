@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
+<td>Alexandros Pratsos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>David M. J. Vokrouhlicky et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07745">2606.07745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
@@ -740,11 +752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12759.html">New tests of cosmic distance duality relation with DESI 2024 BAO observations</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Qiumin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12759">2506.12759</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10506.html">Evidence for dynamical dark energy from DESI-DR2 and SN data? A symbolic regression analysis</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Agripino Sousa-Neto et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10506">2502.10506</a></td>
 </tr>
 </tbody></table>

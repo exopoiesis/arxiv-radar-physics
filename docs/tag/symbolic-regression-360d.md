@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Paul Kahlmeyer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09276">2606.09276</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06876.html">A Wall Function for Turbulent Boundary Layers under Rotation via Symbolic Regression</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07426.html">Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Hanqiao Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07426">2606.07426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07704.html">FunctionEvolve: Structure-Guided Symbolic Regression with LLMs</a></div></td>
+<td>Zeyu Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07704">2606.07704</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -1196,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14403.html">Symbolic Regression-Enhanced Dynamic Wake Meandering: Fast and Physically Consistent Wind-Turbine Wake Modeling</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
 <td>Ding Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14403">2506.14403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10506.html">Evidence for dynamical dark energy from DESI-DR2 and SN data? A symbolic regression analysis</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Agripino Sousa-Neto et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10506">2502.10506</a></td>
 </tr>
 </tbody></table>

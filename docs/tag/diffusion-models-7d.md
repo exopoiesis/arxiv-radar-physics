@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
+<td>Hanxin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
+<td>Gianluca Scarpellini et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>
@@ -50,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04076.html">SkySense: A Semi-Supervised Generative Framework for UAV Localization in ISAC Networks</a></div></td>
 <td>Shenghan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04076">2606.04076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02115.html">Error Bounds for a Diffusion Model-Based Drift Estimator</a></div></td>
-<td>Ioar Casado-Telletxea et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02115">2606.02115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
-<td>Anand Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02661.html">Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Yunlong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02661">2606.02661</a></td>
 </tr>
 </tbody></table>

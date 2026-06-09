@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Weinan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07215.html">A Comparative Study of Deep Learning Models for Geological Carbon Sequestration</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Giovanni Zingaro et al.</td>
@@ -782,17 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10995.html">Factorized Neural Implicit DMD for Parametric Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Siyuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10995">2603.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09693.html">Physics-informed neural operator for predictive parametric phase-field modelling</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Nanxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09693">2603.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10083.html">Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ammar Daskin</td>
-<td><a href="http://arxiv.org/abs/2603.10083">2603.10083</a></td>
 </tr>
 </tbody></table>

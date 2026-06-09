@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
+<td>Alexandros Pratsos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06969.html">Lyman-$α$ forest constraints on pure and mixed fuzzy dark matter</a></div></td>
 <td>Jianxiang Liu et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11077.html">The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Jiamu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11077">2605.11077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08970.html">Reionisation time field reconstruction from 21-cm Maps: Investigating predictor coherence in WDM cosmology</a></div></td>
-<td>Julien Hiegel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08970">2605.08970</a></td>
 </tr>
 </tbody></table>

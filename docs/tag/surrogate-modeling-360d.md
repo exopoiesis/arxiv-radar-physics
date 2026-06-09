@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,17 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01704.html">Using Machine Learning to Compute Constrained Optimal Carbon Tax Rules</a></div></td>
 <td>Felix Kübler et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01704">2507.01704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11398.html">FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models</a></div></td>
-<td>Riddhiman Raut et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11398">2506.11398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14828.html">Accurate and Uncertainty-Aware Multi-Task Prediction of HEA Properties Using Prior-Guided Deep Gaussian Processes</a></div></td>
-<td>Sk Md Ahnaf Akif Alvi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14828">2506.14828</a></td>
 </tr>
 </tbody></table>

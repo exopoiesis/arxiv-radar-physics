@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09023.html">Precipitate phase selection and grain boundary morphology in Cu-Ni-Si-Mn alloys: A machine-learning interatomic potential study</a></div></td>
+<td>Aadil Fayaz Wani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09023">2606.09023</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07327.html">Six Open Questions in Machine-Learned Interatomic Potential Foundation Models</a></div></td>
 <td>Isabel Creed et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div></td>
 <td>Abhinaba Basu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10205.html">Flexible Cutoff Learning: Optimizing Machine Learning Potentials After Training</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Rick Oerder et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10205">2603.10205</a></td>
 </tr>
 </tbody></table>

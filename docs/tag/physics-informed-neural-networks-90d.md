@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,23 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11045.html">Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Tao Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11045">2603.11045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08465.html">MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Weizheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08465">2603.08465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09359.html">Evidential Perfusion Physics-Informed Neural Networks with Residual Uncertainty Quantification</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Junhyeok Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09359">2603.09359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09371.html">Flow Field Reconstruction via Voronoi-Enhanced Physics-Informed Neural Networks with End-to-End Sensor Placement Optimization</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Renjie Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09371">2603.09371</a></td>
 </tr>
 </tbody></table>

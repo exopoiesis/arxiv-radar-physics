@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
+<td>Siyu Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09638">2606.09638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08405.html">Self-Evolving Scientific Agent Discovers Generalizable Physically-Reasoned Fluid Control</a></div></td>
+<td>Boai Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08405">2606.08405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08251.html">Contemporary AI lacks the imagination to diverge or negate in science</a></div></td>
+<td>Honglin Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08251">2606.08251</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
@@ -998,47 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10979.html">Learning Adaptive Force Control for Contact-Rich Sample Scraping with Heterogeneous Materials</a></div></td>
 <td>Cenk Cetin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10979">2603.10979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05406.html">Synthesizing Interpretable Control Policies through Large Language Model Guided Search</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Carlo Bosio et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05406">2410.05406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13692.html">ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System</a></div></td>
-<td>Hao Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13692">2602.13692</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22248.html">Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP)</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Julia Gonski et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22248">2602.22248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09268.html">Logos: An evolvable reasoning engine for rational molecular design</a></div></td>
-<td>Haibin Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09268">2603.09268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09597.html">Symbolic Discovery of Stochastic Differential Equations with Genetic Programming</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Sigur de Vries et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09597">2603.09597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09756.html">Epistemic Closure: Autonomous Mechanism Completion for Physically Consistent Simulation</a></div></td>
-<td>Yue Wua et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09756">2603.09756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09800.html">MITRA: An AI Assistant for Knowledge Retrieval in Physics Collaborations</a></div></td>
-<td>Abhishikth Mallampalli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09800">2603.09800</a></td>
 </tr>
 </tbody></table>

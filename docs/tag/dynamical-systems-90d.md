@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,41 +1280,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16923.html">Beyond Deep Learning: Speech Segmentation and Phone Classification with Neural Assemblies</a></div></td>
 <td>Trevor Adelson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16923">2603.16923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05406.html">Synthesizing Interpretable Control Policies through Large Language Model Guided Search</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Carlo Bosio et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05406">2410.05406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17174.html">Continual uncertainty learning</a></div></td>
-<td>Heisei Yonezawa et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17174">2602.17174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09597.html">Symbolic Discovery of Stochastic Differential Equations with Genetic Programming</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Sigur de Vries et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09597">2603.09597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09742.html">Upper Generalization Bounds for Neural Oscillators</a></div></td>
-<td>Zifeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09742">2603.09742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10078.html">Stochastic Port-Hamiltonian Neural Networks: Universal Approximation with Passivity Guarantees</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
-<td>Luca Di Persio et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10078">2603.10078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10149.html">A neural operator for predicting vibration frequency response curves from limited data</a></div></td>
-<td>D. Bluedorn et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10149">2603.10149</a></td>
 </tr>
 </tbody></table>

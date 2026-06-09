@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
+<td>Hanxin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
+<td>Gianluca Scarpellini et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>
 <td>Yimin Dou et al.</td>
@@ -1058,17 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00716.html">Emergence of Distortions in High-Dimensional Guided Diffusion Models</a></div></td>
 <td>Enrico Ventura et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00716">2602.00716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02182.html">Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion</a></div></td>
-<td>Yule Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02182">2510.02182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09744.html">AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Bonwook Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09744">2603.09744</a></td>
 </tr>
 </tbody></table>

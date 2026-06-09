@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">956 papers</span>
+  <span class="paper-count">958 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
+<td>Hanxin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
+<td>Gianluca Scarpellini et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07165.html">Implicit Structural Modeling via Generative Diffusion Frameworks</a></div></td>

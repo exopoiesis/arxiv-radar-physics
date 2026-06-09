@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08920.html">PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction from High-Resolution Remote Sensing Images</a></div></td>
+<td>Yaoteng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08920">2606.08920</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08535.html">NGram-MoSE: Efficient Remote Sensing Super-Resolution via N-Gram Context and Mixture-of-Experts</a></div></td>
+<td>Yun-Hsuan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08535">2606.08535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05586.html">BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection</a></div></td>
 <td>Wenlin Liu et al.</td>
@@ -944,17 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17442.html">REMSA: Foundation Model Selection for Remote Sensing via a Constraint-Aware Agent</a></div></td>
 <td>Binger Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17442">2511.17442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09106.html">DFPF-Net: Dynamically Focused Progressive Fusion Network for Remote Sensing Change Detection</a></div></td>
-<td>Chengming Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09106">2603.09106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09868.html">CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
-<td>Aleksei Rozanov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09868">2603.09868</a></td>
 </tr>
 </tbody></table>

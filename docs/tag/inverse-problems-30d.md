@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09001.html">JAX-AMG: A GPU-Accelerated Differentiable Sparse Linear Solver Library for JAX</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Yi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09001">2606.09001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08316.html">Some Inverse Problems in Particle Physics</a></div><div class="paper-tags"><a href="lattice-qcd-30d.html">lattice-qcd</a></div></td>
+<td>Luigi Del Debbio</td>
+<td><a href="http://arxiv.org/abs/2606.08316">2606.08316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07122.html">A Unified DeepONet Framework for Logarithmically Stable Infinite-Dimensional Inverse Problems</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>

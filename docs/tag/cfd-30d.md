@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.07481">2606.07481</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07724.html">A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Kangkang Qi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07724">2606.07724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
 <td>Mohammad Rashed et al.</td>
@@ -164,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09629.html">Image-Based Whole-Heart Cardiac Flow Simulations in Health and Congenital Heart Disease</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Fanwei Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09629">2605.09629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08832.html">Inpainting physics: self-supervised learning for context-driven fluid simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Jonas Weidner et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08832">2605.08832</a></td>
 </tr>
 </tbody></table>

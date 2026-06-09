@@ -7,9 +7,24 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>equation-discovery — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Paul Kahlmeyer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09276">2606.09276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
+<td>Siyu Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09638">2606.09638</a></td>
+</tr>
+</tbody></table>

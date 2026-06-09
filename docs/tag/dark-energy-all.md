@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
+<td>Alexandros Pratsos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>David M. J. Vokrouhlicky et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07745">2606.07745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>

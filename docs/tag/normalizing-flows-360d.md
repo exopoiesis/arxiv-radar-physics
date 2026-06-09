@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03454.html">Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Qian Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03454">2412.03454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11801.html">Learning to Integrate</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Oliver G. Ernst et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11801">2506.11801</a></td>
 </tr>
 </tbody></table>

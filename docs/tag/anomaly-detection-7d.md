@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09550.html">InquiTree: Evaluating AI Agents in the Scientific Inquiry Loop with Paper-Derived Research Trees</a></div></td>
+<td>Shaoyang Cui</td>
+<td><a href="http://arxiv.org/abs/2606.09550">2606.09550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08173.html">AI-Native Closed-Loop Security for 6G-Enabled Cyber-Physical Systems: From Edge Detection to Network-Wide Mitigation</a></div></td>
+<td>Bilal Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08173">2606.08173</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
 <td>Jacques Raynal et al.</td>
@@ -26,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05860.html">GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis</a></div></td>
 <td>Oleeviya Babu Poikarayil et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05860">2606.05860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01691.html">IstGPT: LLM-based Anomaly Detection for Spatial-Temporal Graph in Industrial Systems</a></div></td>
-<td>Yuchen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01691">2606.01691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01925.html">QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs</a></div><div class="paper-tags"><a href="rans-7d.html">rans</a></div></td>
-<td>Qizhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01925">2606.01925</a></td>
 </tr>
 </tbody></table>

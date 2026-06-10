@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Paul Kahlmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09276">2606.09276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10027.html">Learning the Universe: The Structure of Dust Attenuation Curves in Galaxy Simulations</a></div></td>
+<td>Laura Sommovigo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10027">2606.10027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10045.html">A constrained symbolic regression approach for Lyapunov function discovery</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Ilias Mitrai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10045">2606.10045</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09930.html">Compile Once, Differentiate Everywhere: A Differentiable Meta-Circular Interpreter</a></div></td>
+<td>Lucas Sheneman</td>
+<td><a href="http://arxiv.org/abs/2606.09930">2606.09930</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -362,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13010.html">Calibrating Galaxy Infall Times in Groups and Clusters with IllustrisTNG Simulations</a></div></td>
 <td>Florine Masson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13010">2603.13010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16640.html">Interpretable and physics-informed emulator for the linear matter power spectrum from machine learning</a></div></td>
-<td>J. Bayron Orjuela-Quintana et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16640">2407.16640</a></td>
 </tr>
 </tbody></table>

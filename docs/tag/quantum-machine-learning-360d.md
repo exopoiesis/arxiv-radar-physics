@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">538 papers</span>
+  <span class="paper-count">539 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
+<td>Gianluca Scanu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09964">2606.09964</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10150.html">Towards the implementation of a quantum classifier</a></div></td>
+<td>Lorenzo Confalonieri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10150">2606.10150</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Gennaro De Luca</td>
+<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05387.html">Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
@@ -3230,17 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12788.html">The effect of Quantum Time Crystal Computing to Quantum Machine Learning methods</a></div></td>
 <td>Hikaru Wakaura et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12788">2506.12788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12292.html">Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Muhammad Usman</td>
-<td><a href="http://arxiv.org/abs/2506.12292">2506.12292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12427.html">Analysis of quantum neural network performance via edge cases</a></div></td>
-<td>Maximilian Balthasar Mansky et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12427">2506.12427</a></td>
 </tr>
 </tbody></table>

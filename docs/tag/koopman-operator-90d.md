@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09369.html">Residual Pseudospectra Reveal a Physics-Informed Koopman Backbone for Tropical Pacific Variability and ENSO Prediction</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Paula Lorenzo-Sanchez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09369">2606.09369</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18373.html">Dynamic robotic cloth folding with efficient Koopman operator-based model predictive control</a></div></td>
 <td>Edoardo Caldarelli et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02592.html">Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Ali Forootani et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02592">2602.02592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10995.html">Factorized Neural Implicit DMD for Parametric Dynamics</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Siyuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10995">2603.10995</a></td>
 </tr>
 </tbody></table>

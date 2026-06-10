@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19667.html">Picosecond laser test unit for photosensor characterization at ambient and low temperatures</a></div></td>
 <td>Matthias Raphael Stock et al.</td>
 <td><a href="http://arxiv.org/abs/2512.19667">2512.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01622.html">Analytical Emulator for the Baryon Density Distribution inside the Fuzzy Dark Matter Soliton from Machine Learning</a></div></td>
-<td>Ke Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01622">2512.01622</a></td>
 </tr>
 </tbody></table>

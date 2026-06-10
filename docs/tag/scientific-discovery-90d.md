@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09105.html">Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts</a></div></td>
+<td>Xu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09105">2606.09105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10402.html">Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries</a></div></td>
+<td>Federico Bianchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10402">2606.10402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10587.html">Towards Diverse Scientific Hypothesis Search with Large Language Models</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
+<td>Haorui Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10587">2606.10587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11150.html">ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity</a></div></td>
+<td>Andrew Bo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11150">2606.11150</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
@@ -1010,11 +1034,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12349.html">Budget-Sensitive Discovery Scoring: A Formally Verified Framework for Evaluating AI-Guided Scientific Selection</a></div></td>
 <td>Abhinaba Basu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12349">2603.12349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10979.html">Learning Adaptive Force Control for Contact-Rich Sample Scraping with Heterogeneous Materials</a></div></td>
-<td>Cenk Cetin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10979">2603.10979</a></td>
 </tr>
 </tbody></table>

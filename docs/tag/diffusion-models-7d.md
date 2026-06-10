@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
+<td>Shufeng Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
 <td>Hanxin Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09962.html">Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech</a></div></td>
+<td>Vadim Popov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09962">2606.09962</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05328.html">The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show</a></div></td>
 <td>Parsa Esmati et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05328">2606.05328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03848.html">Generating quantum ensembles via reverse-time quantum diffusions</a></div><div class="paper-tags"><a href="schr-dinger-equation-7d.html">schr-dinger-equation</a></div></td>
-<td>Maël Bompais et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03848">2606.03848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04076.html">SkySense: A Semi-Supervised Generative Framework for UAV Localization in ISAC Networks</a></div></td>
-<td>Shenghan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04076">2606.04076</a></td>
 </tr>
 </tbody></table>

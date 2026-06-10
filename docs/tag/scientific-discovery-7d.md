@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09105.html">Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts</a></div></td>
+<td>Xu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09105">2606.09105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10402.html">Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries</a></div></td>
+<td>Federico Bianchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10402">2606.10402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10587.html">Towards Diverse Scientific Hypothesis Search with Large Language Models</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
+<td>Haorui Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10587">2606.10587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11150.html">ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity</a></div></td>
+<td>Andrew Bo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11150">2606.11150</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
@@ -56,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04751.html">FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games</a></div></td>
 <td>Leonardo Bertolazzi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04751">2606.04751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03962.html">Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</a></div></td>
-<td>Anthony GX-Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03962">2606.03962</a></td>
 </tr>
 </tbody></table>

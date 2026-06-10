@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Michael Chin</td>
+<td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06046.html">Learning solution operators of PDEs with sparse approximation methods</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -1310,23 +1316,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05806.html">Image Segmentation via Variational Model Based Tailored UNet: A Deep Variational Framework</a></div></td>
 <td>Kaili Qi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05806">2505.05806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02113.html">Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02113">2410.02113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13755.html">Panda: A pretrained forecast model for chaotic dynamics</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Jeffrey Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13755">2505.13755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10995.html">Factorized Neural Implicit DMD for Parametric Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Siyuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10995">2603.10995</a></td>
 </tr>
 </tbody></table>

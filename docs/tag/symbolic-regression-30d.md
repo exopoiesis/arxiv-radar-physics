@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,24 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
 <td>Paul Kahlmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09276">2606.09276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10027.html">Learning the Universe: The Structure of Dust Attenuation Curves in Galaxy Simulations</a></div></td>
+<td>Laura Sommovigo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10027">2606.10027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10045.html">A constrained symbolic regression approach for Lyapunov function discovery</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Ilias Mitrai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10045">2606.10045</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09930.html">Compile Once, Differentiate Everywhere: A Differentiable Meta-Circular Interpreter</a></div></td>
+<td>Lucas Sheneman</td>
+<td><a href="http://arxiv.org/abs/2606.09930">2606.09930</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -104,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11280.html">Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Tousif Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11280">2605.11280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09696.html">Discovery of Nonlinear Dynamics with Automated Basis Function Generation</a></div></td>
-<td>Mohammad Amin Basiri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09696">2605.09696</a></td>
 </tr>
 </tbody></table>

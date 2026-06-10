@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
+<td>Gianluca Scanu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09964">2606.09964</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10150.html">Towards the implementation of a quantum classifier</a></div></td>
+<td>Lorenzo Confalonieri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10150">2606.10150</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Gennaro De Luca</td>
+<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05387.html">Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
@@ -818,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11968.html">From vacuum amplitudes to qubits</a></div><div class="paper-tags"><a href="collider-physics-90d.html">collider-physics</a></div></td>
 <td>Germán Rodrigo</td>
 <td><a href="http://arxiv.org/abs/2603.11968">2603.11968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14677.html">Kernel-based optimization of measurement operators for quantum reservoir computers</a></div></td>
-<td>Markus Gross et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14677">2602.14677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11131.html">Beyond Barren Plateaus: A Scalable Quantum Convolutional Architecture for High-Fidelity Image Classification</a></div></td>
-<td>Radhakrishnan Delhibabu</td>
-<td><a href="http://arxiv.org/abs/2603.11131">2603.11131</a></td>
 </tr>
 </tbody></table>

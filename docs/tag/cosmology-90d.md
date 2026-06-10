@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11157.html">DarkAgents</a></div><div class="paper-tags"><a href="collider-physics-90d.html">collider-physics</a></div></td>
+<td>Michele Lucente et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11157">2606.11157</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Nanoom Lee et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12380.html">HaloFlow II: Robust Galaxy Halo Mass Inference with Domain Adaptation</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
 <td>Nikhil Garuda et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12380">2603.12380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10424.html">CSST-PSFNet: A Point Spread Function Reconstruction Model for the CSST Based on Deep Learning</a></div></td>
-<td>Peipei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10424">2603.10424</a></td>
 </tr>
 </tbody></table>

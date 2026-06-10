@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>force-fields — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <strong>90d</strong> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,17 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15503.html">High-Throughput Computational Exploration of MOFs for Short-Chain PFAS Removal</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Mengru Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15503">2603.15503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11247.html">Reliable Viscosity Calculation from High-Pressure Equilibrium Molecular Dynamics: Case Study of 2,2,4-Trimethylhexane</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Gözdenur Toraman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11247">2603.11247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13400.html">Combining Microscopy Data and Metadata for Reconstruction of Cellular Traction Forces Using a Hybrid Vision Transformer-U-Net</a></div></td>
-<td>Yunfei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13400">2603.13400</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Alexandros Pratsos et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10197.html">Integral Field Unit Spectroscopy with One Fiber</a></div></td>
+<td>Zehao Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10197">2606.10197</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>

@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Shufeng Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
 <td>Hanxin Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09962.html">Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech</a></div></td>
+<td>Vadim Popov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09962">2606.09962</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -248,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10642.html">Composing diffusion priors with explicit physical context via generative Gibbs sampling</a></div></td>
 <td>Weizhou Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10642">2605.10642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09275.html">DiffATS: Diffusion in Aligned Tensor Space</a></div></td>
-<td>Jinhua Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09275">2605.09275</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09771.html">Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning</a></div></td>
-<td>Ziquan Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09771">2605.09771</a></td>
 </tr>
 </tbody></table>

@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Shufeng Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09187.html">CP4D: Compositional Physics-aware 4D Scene Generation</a></div></td>
 <td>Hanxin Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09187">2606.09187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09962.html">Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech</a></div></td>
+<td>Vadim Popov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09962">2606.09962</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -1058,17 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08246.html">FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models</a></div></td>
 <td>Yifan Han et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08246">2601.08246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08727.html">Losing dimensions: Geometric memorization in generative diffusion</a></div></td>
-<td>Beatrice Achilli et al.</td>
-<td><a href="http://arxiv.org/abs/2410.08727">2410.08727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00716.html">Emergence of Distortions in High-Dimensional Guided Diffusion Models</a></div></td>
-<td>Enrico Ventura et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00716">2602.00716</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.09226">2606.09226</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10215.html">LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa</a></div></td>
+<td>Sachin Alexander Reddy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10215">2606.10215</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08462.html">Experiment-free disruption prediction for new devices enabled by synthetic diagnostic data augmentation</a></div></td>
 <td>Zhiqiang Liu et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20502.html">Modeling Temperature Profiles in the Pedestal of NSTX with Reduced Models</a></div></td>
 <td>P. -Y. Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20502">2603.20502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10678.html">Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks: applications to magnetohydrodynamics</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>M. Lo Verso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10678">2603.10678</a></td>
 </tr>
 </tbody></table>

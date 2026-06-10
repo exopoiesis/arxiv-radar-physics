@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10197.html">Integral Field Unit Spectroscopy with One Fiber</a></div></td>
+<td>Zehao Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10197">2606.10197</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
 <td>David M. J. Vokrouhlicky et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06495.html">What it takes to solve the Hubble tension through Modifications of Cosmological Recombination II: in light of ACT DR6 and DESI DR2</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
 <td>Nanoom Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06495">2606.06495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04208.html">HETDEX Public Data Release 1: Source Catalog 2 and Data Cubes from ~90 sq deg of Integral-Field Optical Spectroscopy</a></div></td>
-<td>Erin Mentuch Cooper et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04208">2606.04208</a></td>
 </tr>
 </tbody></table>

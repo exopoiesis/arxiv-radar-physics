@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mhd — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09226.html">Predictability of a solar flare in May 2024 using observational data-driven MHD simulations</a></div></td>
 <td>Takafumi Kaneko</td>
 <td><a href="http://arxiv.org/abs/2606.09226">2606.09226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10215.html">LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa</a></div></td>
+<td>Sachin Alexander Reddy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10215">2606.10215</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>

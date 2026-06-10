@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">213 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Shufeng Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09432.html">Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems</a></div></td>
+<td>Karn Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09432">2606.09432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10045.html">A constrained symbolic regression approach for Lyapunov function discovery</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Ilias Mitrai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10045">2606.10045</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08479.html">Inferring hidden forcing in a biological oscillator using Kolmogorov-Arnold networks</a></div></td>
+<td>Julian Szereszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08479">2606.08479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08202.html">Vector Space of Cycles</a></div></td>
+<td>Moo K. Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08202">2606.08202</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07247.html">Theory of learning of high-dimensional controlled non-linear dynamical systems (I): models and methods</a></div></td>
@@ -1262,23 +1292,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11673.html">Context-dependent manifold learning: A neuromodulated constrained autoencoder approach</a></div></td>
 <td>Jérôme Adriaens et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11673">2603.11673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13755.html">Panda: A pretrained forecast model for chaotic dynamics</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Jeffrey Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13755">2505.13755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10777.html">Dynamics-Informed Deep Learning for Predicting Extreme Events</a></div></td>
-<td>Eirini Katsidoniotaki et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10777">2603.10777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16923.html">Beyond Deep Learning: Speech Segmentation and Phone Classification with Neural Assemblies</a></div></td>
-<td>Trevor Adelson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16923">2603.16923</a></td>
 </tr>
 </tbody></table>

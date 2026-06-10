@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10023.html">Learning the Universe: Posterior Reliability of Neural Generative Models in High-Dimensional Field-Level Inference of Cosmic Initial Conditions</a></div></td>
+<td>Ludvig Doeser et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10023">2606.10023</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04324.html">Neural Galerkin Normalizing Flows for Bayesian Inference of Diffusions with Inaccessible Boundaries</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Riccardo Saporiti et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24274.html">A lift for input-convex neural network training</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Ali Siahkoohi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24274">2605.24274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09718.html">Learning stochastic multiscale models through normalizing flows</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Anan Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09718">2605.09718</a></td>
 </tr>
 </tbody></table>

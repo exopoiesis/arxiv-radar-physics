@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Shaoqian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10370">2606.10370</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07745.html">CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
@@ -824,17 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11718.html">Revisiting early afterglows of gamma-ray bursts with finite-thickness ejecta: Implications from XRF 080330 and GRB 080710</a></div></td>
 <td>Kaori Obayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11718">2603.11718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19911.html">Adding equatorial-asymmetric effects for spin-precessing binaries into the SEOBNRv5PHM waveform model</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Héctor Estellés et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19911">2506.19911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10887.html">Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models</a></div></td>
-<td>Yixiu Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10887">2603.10887</a></td>
 </tr>
 </tbody></table>

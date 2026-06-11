@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Handi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div></td>
+<td>Clemens Wager et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Shaoqian Zhou et al.</td>
@@ -3290,17 +3302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07723.html">Multilevel randomized quasi-Monte Carlo estimator for nested integration</a></div></td>
 <td>Arved Bartuska et al.</td>
 <td><a href="http://arxiv.org/abs/2412.07723">2412.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12862.html">Bridging Data-Driven and Physics-Based Models: A Consensus Multi-Model Kalman Filter for Robust Vehicle State Estimation</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Farid Mafi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12862">2506.12862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12897.html">Generative modeling of seismic data using diffusion models and its application to multi-purpose posterior sampling for noisy inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Chuangji Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12897">2506.12897</a></td>
 </tr>
 </tbody></table>

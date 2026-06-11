@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11676.html">Neural-Parameterized Cellular Automata for Wildfire Spread</a></div></td>
+<td>Maksym Zhenirovskyy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11676">2606.11676</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10836.html">Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -284,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12870.html">Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Matteo Giacomini et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12870">2603.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18017.html">Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Matthieu Blanke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18017">2505.18017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02090.html">Flo: A data-driven limited-area storm surge model</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Nils Melsom Kristensen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02090">2601.02090</a></td>
 </tr>
 </tbody></table>

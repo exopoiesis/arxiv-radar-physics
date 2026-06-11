@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">614 papers</span>
+  <span class="paper-count">613 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3692,11 +3692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13834.html">Evolvable Conditional Diffusion</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Zhao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13834">2506.13834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04263.html">DeFoG: Discrete Flow Matching for Graph Generation</a></div></td>
-<td>Yiming Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2410.04263">2410.04263</a></td>
 </tr>
 </tbody></table>

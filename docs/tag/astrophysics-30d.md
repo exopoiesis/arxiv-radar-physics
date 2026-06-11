@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Antonio Pagliaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11190.html">When to Align, When to Predict: A Phase Diagram for Multimodal Learning</a></div></td>
 <td>Ilay Kamai et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a> · <a href="dark-matter-30d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Leander Thiele</td>
-<td><a href="http://arxiv.org/abs/2605.10719">2605.10719</a></td>
 </tr>
 </tbody></table>

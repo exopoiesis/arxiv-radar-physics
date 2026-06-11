@@ -16,6 +16,30 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Handi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11963.html">HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Mostafa Bamdad et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11963">2606.11963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
+<td>Ana Larrañaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Zhen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Michael Chin</td>
@@ -38,29 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06314.html">DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Anshima Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06314">2606.06314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04324.html">Neural Galerkin Normalizing Flows for Bayesian Inference of Diffusions with Inaccessible Boundaries</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
-<td>Riccardo Saporiti et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04324">2606.04324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04679.html">Hybrid quantum-classical physics-informed neural networks for solving nonlinear PDEs: when and where hybridization is effective?</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Kaveh Zabihi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04679">2606.04679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04736.html">Curvature-aware dynamic precision approach for physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Yingjie Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04736">2606.04736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05141.html">Generalized Forcing Method: Generation of Diverse Data for Training Linear Transport PDE Closure Models</a></div></td>
-<td>Wenyuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05141">2606.05141</a></td>
 </tr>
 </tbody></table>

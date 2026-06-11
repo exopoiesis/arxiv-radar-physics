@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
+<td>Shi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09105.html">Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts</a></div></td>
@@ -1004,35 +1010,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20262.html">Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization</a></div></td>
 <td>Zequn Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20262">2603.20262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06214.html">Can Theoretical Physics Research Benefit from Language Agents?</a></div></td>
-<td>Sirui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06214">2506.06214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25084.html">Scaling Generalist Data-Analytic Agents</a></div></td>
-<td>Shuofei Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25084">2509.25084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11515.html">Multi-Agent Collaboration for Automated Design Exploration on High Performance Computing Systems</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
-<td>Harshitha Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11515">2603.11515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12226.html">Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration</a></div></td>
-<td>Priyanka Kargupta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12226">2603.12226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12349.html">Budget-Sensitive Discovery Scoring: A Formally Verified Framework for Evaluating AI-Guided Scientific Selection</a></div></td>
-<td>Abhinaba Basu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12349">2603.12349</a></td>
 </tr>
 </tbody></table>

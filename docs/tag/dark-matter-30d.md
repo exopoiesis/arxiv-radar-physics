@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12209.html">Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe</a></div></td>
+<td>Yue Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12209">2606.12209</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
@@ -86,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13614.html">Search for pair production of additional neutral scalars within the Inert Doublet Model in a final state with two electrons or two muons in proton-proton collisions at $\sqrt{s}$ = 13 TeV and 13.6 TeV</a></div></td>
 <td>CMS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2605.13614">2605.13614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10023.html">Search for invisible decays of light mesons via $J/ψ\to VP$ $(V=ω/φ,P=η/η&#x27;)$ decays at STCF</a></div></td>
-<td>Zhibo Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10023">2605.10023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11077.html">The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Jiamu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11077">2605.11077</a></td>
 </tr>
 </tbody></table>

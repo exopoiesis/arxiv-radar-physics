@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
+<td>Jeongho Bang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12211">2606.12211</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
 <td>Gianluca Scanu et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
 <td>Gennaro De Luca</td>
 <td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05387.html">Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Vincenzo Sammartino</td>
-<td><a href="http://arxiv.org/abs/2606.05387">2606.05387</a></td>
 </tr>
 </tbody></table>

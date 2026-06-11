@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Antonio Pagliaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11157.html">DarkAgents</a></div><div class="paper-tags"><a href="collider-physics-30d.html">collider-physics</a></div></td>
 <td>Michele Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11157">2606.11157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>J. Williamson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -104,23 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13334.html">LLM-Based Persuasion Enables Guardrail Override in Frontier LLMs</a></div></td>
 <td>Rodrigo Nogueira et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13334">2605.13334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10105.html">Application of Machine Learning to 21 cm Cosmology</a></div></td>
-<td>Hayato Shimabukuro</td>
-<td><a href="http://arxiv.org/abs/2605.10105">2605.10105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
-<td>Leander Thiele</td>
-<td><a href="http://arxiv.org/abs/2605.10719">2605.10719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div></td>
-<td>Samit Kumar Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ligo — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <strong>30d</strong> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="black-holes-30d.html">black-holes</a></div></td>
 <td>Xin-yi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11280.html">Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Tousif Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11280">2605.11280</a></td>
 </tr>
 </tbody></table>

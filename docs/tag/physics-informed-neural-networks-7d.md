@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12050.html">Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Ismail Huseynov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12050">2606.12050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Zhen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10335.html">A Physics-Informed B-Spline Framework for Continuous Approximation of Flow Data</a></div><div class="paper-tags"><a href="navier-stokes-equations-7d.html">navier-stokes-equations</a></div></td>
 <td>Junoh Jung et al.</td>
@@ -44,6 +56,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10686.html">An adaptive framework for the axisymmetric pulsar magnetosphere using physics-informed Kolmogorov-Arnold networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Spyros Rigas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10686">2606.10686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11258.html">Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Yan Yang</td>
+<td><a href="http://arxiv.org/abs/2606.11258">2606.11258</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -86,23 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06314.html">DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Anshima Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06314">2606.06314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04420.html">Loss-Conditional PINNs for Parametric PDE Families</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Anna Lazareva et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04420">2606.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04679.html">Hybrid quantum-classical physics-informed neural networks for solving nonlinear PDEs: when and where hybridization is effective?</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Kaveh Zabihi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04679">2606.04679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04736.html">Curvature-aware dynamic precision approach for physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Yingjie Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04736">2606.04736</a></td>
 </tr>
 </tbody></table>

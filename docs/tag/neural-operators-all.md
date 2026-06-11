@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">538 papers</span>
+  <span class="paper-count">541 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11963.html">HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Mostafa Bamdad et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11963">2606.11963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12318.html">Harness In-Context Operator Learning with Chain of Operators</a></div></td>
+<td>Minghui Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12318">2606.12318</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
@@ -26,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10848.html">Data-driven surrogate models for forecasting experimentally measured fluid flows</a></div><div class="paper-tags"><a href="flow-control-all.html">flow-control</a></div></td>
 <td>Peter I. Renn et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10848">2606.10848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11518.html">SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators</a></div></td>
+<td>Pengqing Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11518">2606.11518</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-08</td>

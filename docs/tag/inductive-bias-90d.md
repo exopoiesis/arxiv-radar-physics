@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06917.html">Belief-Aware Scheduling for Predictive Wildfire Hazard Mapping under Sparse-Window Telemetry</a></div></td>
 <td>Xun Shao et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13663.html">PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers</a></div></td>
 <td>Eshed Gal et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13663">2603.13663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11563.html">SVLL: Staged Vision-Language Learning for Physically Grounded Embodied Task Planning</a></div></td>
-<td>Yuyuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11563">2603.11563</a></td>
 </tr>
 </tbody></table>

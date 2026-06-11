@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11988.html">What Uncertainties Do We Need for Dynamical Systems?</a></div></td>
+<td>Yusuf Sale et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11988">2606.11988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12141.html">PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea</a></div></td>
+<td>Sherkhon Azimov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12141">2606.12141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Ana Larrañaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Shufeng Kong et al.</td>
@@ -4238,23 +4256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13950.html">A Hybrid Neural Network -- Polynomial Series Scheme for Learning Invariant Manifolds of Discrete Dynamical Systems</a></div></td>
 <td>Dimitrios G. Patsatzis et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13950">2506.13950</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12810.html">Lyapunov Learning at the Onset of Chaos</a></div></td>
-<td>Matteo Benati et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12810">2506.12810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12914.html">Noise resilience of deterministic analog combinatorial optimization solvers</a></div></td>
-<td>Clemens Gneiting et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12914">2506.12914</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13828.html">Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Abdullah Burkan Bereketoglu</td>
-<td><a href="http://arxiv.org/abs/2506.13828">2506.13828</a></td>
 </tr>
 </tbody></table>

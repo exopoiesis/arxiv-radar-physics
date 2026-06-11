@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,17 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15669.html">V2Rho-FNO: Fourier Neural Operator for Electronic Density Prediction</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Yingdi Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15669">2603.15669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09019.html">Operator Learning for Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Yihuai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09019">2412.09019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20058.html">Deep Eigenspace Network for Parametric Non-self-adjoint Eigenvalue Problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>H. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20058">2512.20058</a></td>
 </tr>
 </tbody></table>

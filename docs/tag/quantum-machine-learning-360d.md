@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
+<td>Jeongho Bang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12211">2606.12211</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
 <td>Gianluca Scanu et al.</td>
@@ -3242,11 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13185.html">Quantum Recurrent Embedding Neural Network</a></div></td>
 <td>Mingrui Jing et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13185">2506.13185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12788.html">The effect of Quantum Time Crystal Computing to Quantum Machine Learning methods</a></div></td>
-<td>Hikaru Wakaura et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12788">2506.12788</a></td>
 </tr>
 </tbody></table>

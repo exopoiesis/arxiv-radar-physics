@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
+<td>Shi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09105.html">Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts</a></div></td>
 <td>Xu Li et al.</td>
@@ -74,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06473.html">MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery</a></div></td>
 <td>Shangheng Du et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06473">2606.06473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04751.html">FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games</a></div></td>
-<td>Leonardo Bertolazzi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04751">2606.04751</a></td>
 </tr>
 </tbody></table>

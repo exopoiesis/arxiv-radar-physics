@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rans — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <strong>90d</strong> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15816.html">Efficient and Accurate Surrogate Modeling of Turbulent Flows via Space-Dependent Aggregation and Reduced Order Models</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Piero Zappi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15816">2603.15816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11390.html">SliceFed: Federated Constrained Multi-Agent DRL for Dynamic Spectrum Slicing in 6G</a></div></td>
-<td>Hossein Mohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11390">2603.11390</a></td>
 </tr>
 </tbody></table>

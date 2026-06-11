@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
+<td>Shi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09105.html">Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts</a></div></td>
@@ -260,35 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12485.html">Letting the neural code speak: Automated characterization of monkey visual neurons through human language</a></div></td>
 <td>Vedang Lad et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12485">2605.12485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10224.html">Hypothesis-Driven Deep Research with Large Language Models: A Structured Methodology for Automated Knowledge Discovery</a></div></td>
-<td>Michael Chin</td>
-<td><a href="http://arxiv.org/abs/2605.10224">2605.10224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Juan Diego Toscano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11128.html">Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs</a></div></td>
-<td>Amin Banayeeanzade et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11128">2605.11128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11258.html">Unlocking LLM Creativity in Science through Analogical Reasoning</a></div></td>
-<td>Andrew Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11258">2605.11258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
-<td>Kainat Riaz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
 </tr>
 </tbody></table>

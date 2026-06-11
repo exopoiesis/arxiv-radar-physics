@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11988.html">What Uncertainties Do We Need for Dynamical Systems?</a></div></td>
+<td>Yusuf Sale et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11988">2606.11988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12141.html">PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea</a></div></td>
+<td>Sherkhon Azimov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12141">2606.12141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Ana Larrañaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
@@ -1280,17 +1298,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13423.html">From Gradients to Riccati Geometry: Kalman World Models for Single-Pass Learning</a></div></td>
 <td>Andrew Kiruluta</td>
 <td><a href="http://arxiv.org/abs/2603.13423">2603.13423</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11547.html">Forward and Backward Reachability Analysis of Closed-loop Recurrent Neural Networks via Hybrid Zonotopes</a></div></td>
-<td>Yuhao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11547">2603.11547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11673.html">Context-dependent manifold learning: A neuromodulated constrained autoencoder approach</a></div></td>
-<td>Jérôme Adriaens et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11673">2603.11673</a></td>
 </tr>
 </tbody></table>

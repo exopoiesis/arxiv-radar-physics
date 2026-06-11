@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="cosmology-7d.html">cosmology</a></div></td>
+<td>Antonio Pagliaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06348.html">Performance Evaluation of GraphCast for Medium-Range Weather Forecasting over Brazil</a></div></td>
 <td>Wolfgang R. Rowell et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06348">2606.06348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04991.html">Deep Learning with Magnetic Parameter Constraints for Short-Term Prediction of Solar Active Region Vector Magnetic Fields</a></div></td>
-<td>Yuqing Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04991">2606.04991</a></td>
 </tr>
 </tbody></table>

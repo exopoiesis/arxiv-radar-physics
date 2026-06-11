@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13437.html">Vision-Language Based Expert Reporting for Painting Authentication and Defect Detection</a></div></td>
 <td>Eman Ouda et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13437">2603.13437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11745.html">CINDI: Conditional Imputation and Noisy Data Integrity with Flows in Power Grid Data</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>David Baumgartner et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11745">2603.11745</a></td>
 </tr>
 </tbody></table>

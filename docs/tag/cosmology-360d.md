@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Antonio Pagliaro et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11157.html">DarkAgents</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a></div></td>
 <td>Michele Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11157">2606.11157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>J. Williamson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -1142,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11998.html">Determination of Hubble constant from Megamaser Cosmology Project using Profile Likelihood</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Shubham Barua et al.</td>
 <td><a href="http://arxiv.org/abs/2502.11998">2502.11998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12759.html">New tests of cosmic distance duality relation with DESI 2024 BAO observations</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Qiumin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12759">2506.12759</a></td>
 </tr>
 </tbody></table>

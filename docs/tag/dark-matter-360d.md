@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12209.html">Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe</a></div></td>
+<td>Yue Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12209">2606.12209</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Alexandros Pratsos et al.</td>
@@ -1340,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16090.html">Identifying Ring Galaxies in DESI Legacy Imaging Surveys Using Machine Learning Methods</a></div></td>
 <td>Aina Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16090">2506.16090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17209.html">Characterisation of Hamamatsu R11065-20 PMTs for use in the SABRE South NaI(Tl) Crystal Detectors</a></div></td>
-<td>O. Stanley et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17209">2504.17209</a></td>
 </tr>
 </tbody></table>

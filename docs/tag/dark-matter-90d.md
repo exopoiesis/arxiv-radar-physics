@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12209.html">Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe</a></div></td>
+<td>Yue Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12209">2606.12209</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Alexandros Pratsos et al.</td>
@@ -302,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13031.html">Towards the Two-Loop EFTofLSS in Galaxy Lensing Surveys</a></div></td>
 <td>Evan Saraivanov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13031">2603.13031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19667.html">Picosecond laser test unit for photosensor characterization at ambient and low temperatures</a></div></td>
-<td>Matthias Raphael Stock et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19667">2512.19667</a></td>
 </tr>
 </tbody></table>

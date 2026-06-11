@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>J. Williamson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Alexandros Pratsos et al.</td>
@@ -752,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18986.html">Reconstructing Quasar Spectra and Measuring the Ly$α$ Forest with ${\rm S{\scriptsize pender}Q}$</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
 <td>ChangHoon Hahn et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18986">2506.18986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12759.html">New tests of cosmic distance duality relation with DESI 2024 BAO observations</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Qiumin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12759">2506.12759</a></td>
 </tr>
 </tbody></table>

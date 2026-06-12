@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10951.html">Dynamic inverse problems: Single-loop online algorithms</a></div></td>
 <td>Jyrki Jauhiainen et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07153.html">No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty</a></div></td>
 <td>Ronald Katende</td>
 <td><a href="http://arxiv.org/abs/2606.07153">2606.07153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
-<td>Jian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
 </tr>
 </tbody></table>

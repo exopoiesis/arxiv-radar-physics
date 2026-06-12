@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Henry Shaowu Yuchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12857">2606.12857</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Fateme Mohammad Mohammadi et al.</td>
@@ -374,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17057.html">Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="rans-90d.html">rans</a></div></td>
 <td>Isaac Robledo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17057">2603.17057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12635.html">Adaptive Diffusion Posterior Sampling for Data and Model Fusion of Complex Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12635">2603.12635</a></td>
 </tr>
 </tbody></table>

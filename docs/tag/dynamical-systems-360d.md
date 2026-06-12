@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12836.html">Interpretable model-free inference of parametric variation across time-series data through large-scale feature extraction</a></div></td>
+<td>Ben D. Fulcher et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12836">2606.12836</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Guglielmo Padula et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Maida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11988.html">What Uncertainties Do We Need for Dynamical Systems?</a></div></td>
 <td>Yusuf Sale et al.</td>
@@ -4238,23 +4256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14113.html">SKOLR: Structured Koopman Operator Linear RNN for Time-Series Forecasting</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Yitian Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14113">2506.14113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17357.html">AI-Driven Control of Chaos: A Transformer-Based Approach for Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>David Valle et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17357">2412.17357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16664.html">Geometric Kolmogorov-Arnold Superposition Theorem</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Francesco Alesiani et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16664">2502.16664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13950.html">A Hybrid Neural Network -- Polynomial Series Scheme for Learning Invariant Manifolds of Discrete Dynamical Systems</a></div></td>
-<td>Dimitrios G. Patsatzis et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13950">2506.13950</a></td>
 </tr>
 </tbody></table>

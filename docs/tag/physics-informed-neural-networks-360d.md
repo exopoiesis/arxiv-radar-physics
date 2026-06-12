@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">628 papers</span>
+  <span class="paper-count">629 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Zhen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12658.html">Physics-Informed Neural Networks for Chemotherapy Pharmacokinetics: Benchmarking the Clinical Estimator and Exposing Parameter Identifiability</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Riya Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12658">2606.12658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -3776,11 +3788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14236.html">Physics-Informed Neural Networks for the Korteweg-de Vries Equation for Internal Solitary Wave Problem: Forward Simulation and Inverse Parameter Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ming Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14236">2506.14236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13833.html">A Survey on World Models Grounded in Acoustic Physical Information</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Xiaoliang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13833">2506.13833</a></td>
 </tr>
 </tbody></table>

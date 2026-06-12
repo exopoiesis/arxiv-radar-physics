@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Maida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Antonio Pagliaro et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01116.html">Eliciting Chain-of-Thought Reasoning for Time Series Analysis using Reinforcement Learning</a></div></td>
 <td>Felix Parker et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01116">2510.01116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13563.html">MR-GNF: Multi-Resolution Graph Neural Forecasting on Ellipsoidal Meshes for Efficient Regional Weather Prediction</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Andrii Shchur et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13563">2603.13563</a></td>
 </tr>
 </tbody></table>

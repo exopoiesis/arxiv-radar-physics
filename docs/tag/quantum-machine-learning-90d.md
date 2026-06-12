@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div></td>
+<td>Kenya Sakka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13380">2606.13380</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
@@ -818,17 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14576.html">IQP Born Machines under Data-dependent and Agnostic Initialization Strategies</a></div></td>
 <td>Sacha Lerch et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14576">2603.14576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12540.html">Embedded Quantum Machine Learning in Embedded Systems: Feasibility, Hybrid Architectures, and Quantum Co-Processors</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Somdip Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12540">2603.12540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13005.html">Breaking concentration barriers for quantum extreme learning on digital quantum processors</a></div></td>
-<td>Timothée Dao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13005">2603.13005</a></td>
 </tr>
 </tbody></table>

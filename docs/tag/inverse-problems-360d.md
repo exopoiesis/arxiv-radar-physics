@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10951.html">Dynamic inverse problems: Single-loop online algorithms</a></div></td>
 <td>Jyrki Jauhiainen et al.</td>
@@ -2480,11 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14236.html">Physics-Informed Neural Networks for the Korteweg-de Vries Equation for Internal Solitary Wave Problem: Forward Simulation and Inverse Parameter Estimation</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ming Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14236">2506.14236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13210.html">Backsolution: A Framework for Solving Inverse Problems via Automatic Differentiation</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a></div></td>
-<td>Koji Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13210">2506.13210</a></td>
 </tr>
 </tbody></table>

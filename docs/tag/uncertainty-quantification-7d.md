@@ -16,6 +16,30 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Henry Shaowu Yuchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12857">2606.12857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div></td>
+<td>Mao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="rom-7d.html">rom</a></div></td>
+<td>Guglielmo Padula et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Handi Zhang et al.</td>
@@ -80,29 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07771.html">Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
 <td>Karla Tame-Narvaez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07771">2606.07771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05982.html">Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process</a></div></td>
-<td>Arnaud Descours et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05982">2606.05982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06210.html">A Surrogate Model for Proton Spectrum Prediction to Map Transitions in Laser-Ion Acceleration</a></div></td>
-<td> Chengqi-Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06210">2606.06210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06231.html">Sensitivity of SDE Solutions to Perturbations of the Diffusion and Drift</a></div></td>
-<td>Jeremiah Birrell</td>
-<td><a href="http://arxiv.org/abs/2606.06231">2606.06231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div></td>
-<td>João G. C. S. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
 </tr>
 </tbody></table>

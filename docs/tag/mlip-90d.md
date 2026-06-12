@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>Shuqi Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12811">2606.12811</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div></td>
+<td>Tamás Lajos Tompa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09023.html">Precipitate phase selection and grain boundary morphology in Cu-Ni-Si-Mn alloys: A machine-learning interatomic potential study</a></div></td>
@@ -296,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15503.html">High-Throughput Computational Exploration of MOFs for Short-Chain PFAS Removal</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Mengru Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15503">2603.15503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div></td>
-<td>Abhinaba Basu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13566.html">A Three-Layer Framework for AI in Scientific Discovery</a></div></td>
+<td>Guojun Liao</td>
+<td><a href="http://arxiv.org/abs/2606.13566">2606.13566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13662.html">EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery</a></div></td>
+<td>Amy Xin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13662">2606.13662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
 <td>Shi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12736.html">Benchmarking AI Agents for Addressing Scientific Challenges Across Scales</a></div></td>
+<td>Tianyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12736">2606.12736</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -74,11 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07426.html">Discovering Multiscale Deep Formulas in Complex Systems via Neural-Guided Lambda Calculus</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
 <td>Hanqiao Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07426">2606.07426</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06473.html">MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery</a></div></td>
-<td>Shangheng Du et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06473">2606.06473</a></td>
 </tr>
 </tbody></table>

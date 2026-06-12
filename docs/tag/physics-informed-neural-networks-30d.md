@@ -28,6 +28,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12658.html">Physics-Informed Neural Networks for Chemotherapy Pharmacokinetics: Benchmarking the Clinical Estimator and Exposing Parameter Identifiability</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Riya Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12658">2606.12658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10335.html">A Physics-Informed B-Spline Framework for Continuous Approximation of Flow Data</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
 <td>Junoh Jung et al.</td>
@@ -278,17 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Yuka Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13260">2605.13260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Andreas Langer</td>
-<td><a href="http://arxiv.org/abs/2605.08877">2605.08877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13892.html">A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Nahid Binandeh Dehaghani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13892">2605.13892</a></td>
 </tr>
 </tbody></table>

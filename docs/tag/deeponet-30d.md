@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>deeponet — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <strong>30d</strong> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Runlong Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12997">2605.12997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12723.html">Shock-Centered Low-Rank Structure and Neural-Operator Representation of Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Ehsan Roohi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12723">2605.12723</a></td>
 </tr>
 </tbody></table>

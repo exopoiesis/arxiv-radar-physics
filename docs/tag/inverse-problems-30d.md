@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10951.html">Dynamic inverse problems: Single-loop online algorithms</a></div></td>
 <td>Jyrki Jauhiainen et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Ayoub Belhadji et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12085.html">A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography</a></div></td>
-<td>Tatiana A. Bubba et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12085">2605.12085</a></td>
 </tr>
 </tbody></table>

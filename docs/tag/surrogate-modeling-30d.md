@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Henry Shaowu Yuchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12857">2606.12857</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10682.html">PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
@@ -122,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13912.html">ViT-K: A Few-Shot Learning Model for Coupled Fluid-Porous Media Flows with Interface Conditions</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>Mengjia Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13912">2605.13912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09523.html">HS-FNO: History-Space Fourier Neural Operator for Non-Markovian Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Lennon J. Shikhman</td>
-<td><a href="http://arxiv.org/abs/2605.09523">2605.09523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12025.html">Approximation Theory of Laplacian-Based Neural Operators for Reaction-Diffusion System</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Takashi Furuya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12025">2605.12025</a></td>
 </tr>
 </tbody></table>

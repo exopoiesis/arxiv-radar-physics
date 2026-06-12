@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ligo — all</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12931.html">Tests of general relativity at the fourth post-Newtonian order with GW230627 and GW250114</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Xi-Min Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12931">2606.12931</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27500.html">Constraining Gravitational Wave Memory with Hierarchical Inference</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>

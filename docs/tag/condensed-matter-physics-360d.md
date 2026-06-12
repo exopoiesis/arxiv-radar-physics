@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <strong>360d</strong> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09308.html">Quantum Algorithm Software for Condensed Matter Physics</a></div><div class="paper-tags"><a href="qaoa-360d.html">qaoa</a> · <a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="vqe-360d.html">vqe</a></div></td>
 <td>T. Farajollahpour</td>
 <td><a href="http://arxiv.org/abs/2506.09308">2506.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13210.html">Backsolution: A Framework for Solving Inverse Problems via Automatic Differentiation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Koji Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13210">2506.13210</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12690.html">EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence</a></div></td>
+<td>Xin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12690">2606.12690</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09550.html">InquiTree: Evaluating AI Agents in the Scientific Inquiry Loop with Paper-Derived Research Trees</a></div></td>
 <td>Shaoyang Cui</td>
@@ -500,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22436.html">ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection</a></div></td>
 <td>Runzhi Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22436">2511.22436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13437.html">Vision-Language Based Expert Reporting for Painting Authentication and Defect Detection</a></div></td>
-<td>Eman Ouda et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13437">2603.13437</a></td>
 </tr>
 </tbody></table>

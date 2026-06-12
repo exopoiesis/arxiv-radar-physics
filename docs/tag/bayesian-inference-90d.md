@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12931.html">Tests of general relativity at the fourth post-Newtonian order with GW230627 and GW250114</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
+<td>Xi-Min Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12931">2606.12931</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13004.html">3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching</a></div></td>
+<td>A. Asensio Ramos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13004">2606.13004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13114.html">Disentangling the origin of degradation in perovskite solar cells via optical imaging and Bayesian inference</a></div></td>
+<td>Akash Dasgupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13114">2606.13114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12723.html">Spectroscopic modeling of ionic structure in stellar winds of high-mass X-ray binaries</a></div></td>
+<td>G. Sanjurjo-Ferrín et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12723">2606.12723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -812,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16019.html">Sensitivity of neutron star observables to microscopic nuclear parameters of realistic equations of state</a></div></td>
 <td>Nikolas Cruz-Camacho et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16019">2603.16019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07227.html">Estimating changes in extreme quantiles over time, applied to desert temperatures</a></div></td>
-<td>Callum Leach et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07227">2603.07227</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13646.html">Surrogate-Based Bayesian Inference: Uncertainty Quantification and Active Learning</a></div></td>
-<td>Andrew Gerard Roberts et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13646">2603.13646</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13414.html">Physics-informed time-series forecasting of perovskite photoluminescence stability</a></div></td>
+<td>Alexander Wieczorek et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13414">2606.13414</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
@@ -404,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13920.html">Generative Inverse Design of Cold Metals for Low-Power Electronics</a></div></td>
 <td>Kedeng Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13920">2603.13920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14729.html">High-Throughput Quantification of Altermagnetic Band Splitting</a></div></td>
-<td>Ali Sufyan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14729">2509.14729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12745.html">Ab initio screening of quantum frustrated materials with kagome and triangular geometries</a></div></td>
-<td>Byeong-Hyeon Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12745">2603.12745</a></td>
 </tr>
 </tbody></table>

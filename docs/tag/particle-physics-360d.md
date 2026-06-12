@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13535.html">AgentRivet: an automated system for producing Rivet routines from journal publications</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Antonio J. Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13535">2606.13535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Alexandros Pratsos et al.</td>
@@ -638,11 +644,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06983.html">Machine learning opportunities for online and offline tagging of photo-induced and diffractive events in continuous readout experiments</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a></div></td>
 <td>Simone Ragoni et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06983">2410.06983</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16664.html">Geometric Kolmogorov-Arnold Superposition Theorem</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Francesco Alesiani et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16664">2502.16664</a></td>
 </tr>
 </tbody></table>

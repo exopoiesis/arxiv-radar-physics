@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13566.html">A Three-Layer Framework for AI in Scientific Discovery</a></div></td>
+<td>Guojun Liao</td>
+<td><a href="http://arxiv.org/abs/2606.13566">2606.13566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13662.html">EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery</a></div></td>
+<td>Amy Xin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13662">2606.13662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
 <td>Shi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12736.html">Benchmarking AI Agents for Addressing Scientific Challenges Across Scales</a></div></td>
+<td>Tianyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12736">2606.12736</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -998,17 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13727.html">Data-driven Progressive Discovery of Physical Laws</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Mingkun Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13727">2603.13727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12976.html">SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning</a></div></td>
-<td>Md Anwar Hossen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12976">2603.12976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20262.html">Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization</a></div></td>
-<td>Zequn Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20262">2603.20262</a></td>
 </tr>
 </tbody></table>

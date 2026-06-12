@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12938.html">Cluster Mass Inference from Galaxy Kinematics</a></div></td>
+<td>Bonny Y. Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12938">2606.12938</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10023.html">Learning the Universe: Posterior Reliability of Neural Generative Models in High-Dimensional Field-Level Inference of Cosmic Initial Conditions</a></div></td>
 <td>Ludvig Doeser et al.</td>
@@ -506,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17015.html">Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Dominic Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17015">2506.17015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03454.html">Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Qian Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03454">2412.03454</a></td>
 </tr>
 </tbody></table>

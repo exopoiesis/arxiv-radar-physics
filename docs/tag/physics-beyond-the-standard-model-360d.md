@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13535.html">AgentRivet: an automated system for producing Rivet routines from journal publications</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
+<td>Antonio J. Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13535">2606.13535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04571.html">Rolling Down the Leptonic BSM Landscape Using Machine Learning Techniques</a></div></td>
 <td>Alfredo Aranda et al.</td>
@@ -158,11 +164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18981.html">Experimental Determination of BSM Triple Higgs Couplings at the HL-LHC with Neural Networks</a></div></td>
 <td>Markus Frank et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18981">2506.18981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13002.html">Proposed measurement of longitudinally polarised vector bosons in $WH$ and $ZH$ production at Hadron colliders</a></div></td>
-<td>Rosa Colyer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13002">2506.13002</a></td>
 </tr>
 </tbody></table>

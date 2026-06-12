@@ -40,6 +40,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12719.html">A Multiplexing Design Space: Theory, Method, and Application</a></div></td>
+<td>Yiwen Xing et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12719">2606.12719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Michael Chin</td>
@@ -1316,17 +1328,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14029.html">Energy Dissipation Preserving Feature-based DNN Galerkin Methods for Gradient Flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Tao Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14029">2603.14029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20114.html">Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise</a></div></td>
-<td>Timo Schorlepp et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20114">2502.20114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12220.html">RELift: Learned Coarse-to-Fine Propagators for Time-Dependent PDEs with Applications to Electron Dynamics</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Hardeep Bassi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12220">2509.12220</a></td>
 </tr>
 </tbody></table>

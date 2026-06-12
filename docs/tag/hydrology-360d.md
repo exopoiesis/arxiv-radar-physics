@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrology — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <strong>360d</strong> <a href="hydrology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.06934.html">A Scalable Bayesian Spatiotemporal Model for Water Level Predictions using a Nearest Neighbor Gaussian Process Approach</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Victor Hugo Nagahama et al.</td>
 <td><a href="http://arxiv.org/abs/2412.06934">2412.06934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01607.html">Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Zhengsen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01607">2405.01607</a></td>
 </tr>
 </tbody></table>

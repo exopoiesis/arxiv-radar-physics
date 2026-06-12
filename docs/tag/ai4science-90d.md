@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ai4science — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <strong>90d</strong> <a href="ai4science-360d.html">360d</a> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16929.html">MeasHalu: Mitigation of Scientific Measurement Hallucinations for Large Language Models with Enhanced Reasoning</a></div></td>
 <td>Ruijun Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16929">2604.16929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15098.html">Uni-Parser Technical Report</a></div></td>
-<td>Xi Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15098">2512.15098</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13443.html">How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators</a></div></td>
+<td>Jihyeon Hur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13443">2606.13443</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11963.html">HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -800,35 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14086.html">Derivative-Informed Fourier Neural Operator: Universal Approximation and Applications to PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Boyuan Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14086">2512.14086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12220.html">RELift: Learned Coarse-to-Fine Propagators for Time-Dependent PDEs with Applications to Electron Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Hardeep Bassi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12220">2509.12220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12635.html">Adaptive Diffusion Posterior Sampling for Data and Model Fusion of Complex Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12635">2603.12635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13118.html">NOIR: Neural Operator mapping for Implicit Representations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Sidaty El Hadramy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13118">2603.13118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13563.html">MR-GNF: Multi-Resolution Graph Neural Forecasting on Ellipsoidal Meshes for Efficient Regional Weather Prediction</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Andrii Shchur et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13563">2603.13563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15669.html">V2Rho-FNO: Fourier Neural Operator for Electronic Density Prediction</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Yingdi Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15669">2603.15669</a></td>
 </tr>
 </tbody></table>

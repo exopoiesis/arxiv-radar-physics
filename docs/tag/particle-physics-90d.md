@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13535.html">AgentRivet: an automated system for producing Rivet routines from journal publications</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Antonio J. Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13535">2606.13535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Alexandros Pratsos et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03307.html">Searching for HWW Anomalous Couplings with Simulation-Based Inference</a></div></td>
 <td>Marta Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03307">2509.03307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13490.html">Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs</a></div></td>
-<td>P. Alex May et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13490">2603.13490</a></td>
 </tr>
 </tbody></table>

@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.11676">2606.11676</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12559.html">Feature-preserving Latent-EnKF for Data Assimilation of Flows with Shocks</a></div></td>
+<td>Hemanth Chandravamsi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12559">2606.12559</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10836.html">Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Maximilian Ramgraber et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10836">2606.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07681.html">Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model</a></div></td>
-<td>Aya Lahlou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07681">2606.07681</a></td>
 </tr>
 </tbody></table>

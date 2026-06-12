@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">613 papers</span>
+  <span class="paper-count">611 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12828.html">Topical Phase Transitions in Artificial Intelligence Research: Large-Scale Evidence and an Early-Warning Signature for Emerging Topics</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Rasul Khanbayov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12828">2606.12828</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
@@ -3674,23 +3680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13754.html">VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Edward Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13754">2506.13754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08434.html">Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models</a></div></td>
-<td>Armando Fortes et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08434">2503.08434</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09665.html">VideoMat: Extracting PBR Materials from Video Diffusion Models</a></div></td>
-<td>Jacob Munkberg et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09665">2506.09665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13834.html">Evolvable Conditional Diffusion</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Zhao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13834">2506.13834</a></td>
 </tr>
 </tbody></table>

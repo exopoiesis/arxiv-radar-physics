@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Maida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Antonio Pagliaro et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14317.html">Guided Diffusion Sampling for Precipitation Forecast Interventions</a></div></td>
 <td>Ayumu Ueyama et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14317">2605.14317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Eduardo Ochoa Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12668">2605.12668</a></td>
 </tr>
 </tbody></table>

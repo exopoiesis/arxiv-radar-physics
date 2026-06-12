@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12832.html">Data-driven modeling of Galactic diffuse emission with multi-wavelength observations</a></div></td>
+<td>Xi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12832">2606.12832</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Antonio Pagliaro et al.</td>
@@ -206,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18145.html">Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools</a></div></td>
 <td>Nico Schuster et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18145">2603.18145</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01112.html">The causal structure of galactic astrophysics</a></div></td>
-<td>Harry Desmond et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01112">2510.01112</a></td>
 </tr>
 </tbody></table>

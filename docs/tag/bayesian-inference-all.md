@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">653 papers</span>
+  <span class="paper-count">657 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12931.html">Tests of general relativity at the fourth post-Newtonian order with GW230627 and GW250114</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
+<td>Xi-Min Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12931">2606.12931</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13004.html">3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching</a></div></td>
+<td>A. Asensio Ramos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13004">2606.13004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13114.html">Disentangling the origin of degradation in perovskite solar cells via optical imaging and Bayesian inference</a></div></td>
+<td>Akash Dasgupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13114">2606.13114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12723.html">Spectroscopic modeling of ionic structure in stellar winds of high-mass X-ray binaries</a></div></td>
+<td>G. Sanjurjo-Ferrín et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12723">2606.12723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">539 papers</span>
+  <span class="paper-count">538 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div></td>
+<td>Kenya Sakka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13380">2606.13380</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
@@ -3236,17 +3242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09308.html">Quantum Algorithm Software for Condensed Matter Physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="qaoa-360d.html">qaoa</a> · <a href="qml-360d.html">qml</a> · <a href="vqe-360d.html">vqe</a></div></td>
 <td>T. Farajollahpour</td>
 <td><a href="http://arxiv.org/abs/2506.09308">2506.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03339.html">Clique detection using symmetry-restricted quantum circuits</a></div></td>
-<td>Maximilian Balthasar Mansky et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03339">2506.03339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13185.html">Quantum Recurrent Embedding Neural Network</a></div></td>
-<td>Mingrui Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13185">2506.13185</a></td>
 </tr>
 </tbody></table>

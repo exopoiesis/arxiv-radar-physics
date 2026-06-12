@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11676.html">Neural-Parameterized Cellular Automata for Wildfire Spread</a></div></td>
 <td>Maksym Zhenirovskyy et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11676">2606.11676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12559.html">Feature-preserving Latent-EnKF for Data Assimilation of Flows with Shocks</a></div></td>
+<td>Hemanth Chandravamsi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12559">2606.12559</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -278,17 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14115.html">A Lagrangian Conditional Gaussian Koopman Network for Data Assimilation and Prediction</a></div></td>
 <td>Zhongrui Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14115">2603.14115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12635.html">Adaptive Diffusion Posterior Sampling for Data and Model Fusion of Complex Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12635">2603.12635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12870.html">Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Matteo Giacomini et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12870">2603.12870</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12836.html">Interpretable model-free inference of parametric variation across time-series data through large-scale feature extraction</a></div></td>
+<td>Ben D. Fulcher et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12836">2606.12836</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Guglielmo Padula et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Maida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11988.html">What Uncertainties Do We Need for Dynamical Systems?</a></div></td>
 <td>Yusuf Sale et al.</td>
@@ -224,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
 <td>Sergio Vanegas et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14489">2605.14489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Mehmet Ali Ferah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12683.html">Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction</a></div></td>
-<td>Florian Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12683">2605.12683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-30d.html">hamiltonian-neural-networks</a></div></td>
-<td>Maximino Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12785">2605.12785</a></td>
 </tr>
 </tbody></table>

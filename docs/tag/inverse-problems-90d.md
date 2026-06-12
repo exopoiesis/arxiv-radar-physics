@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Manuel Reyna et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10951.html">Dynamic inverse problems: Single-loop online algorithms</a></div></td>
 <td>Jyrki Jauhiainen et al.</td>
@@ -692,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14086.html">Derivative-Informed Fourier Neural Operator: Universal Approximation and Applications to PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Boyuan Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14086">2512.14086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12724.html">SciDesignBench: Benchmarking and Improving Language Models for Scientific Inverse Design</a></div></td>
-<td>David van Dijk et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12724">2603.12724</a></td>
 </tr>
 </tbody></table>

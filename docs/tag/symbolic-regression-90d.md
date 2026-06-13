@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,17 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15292.html">Scalable Simulation-Based Model Inference with Test-Time Complexity Control</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Manuel Gloeckler et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15292">2603.15292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13727.html">Data-driven Progressive Discovery of Physical Laws</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Mingkun Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13727">2603.13727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14139.html">Digital Hydrogen Platform (DigHyd): A Rigorously Curated Database for Hydrogen Storage Materials Empowered by AI-Assisted Literature Mining</a></div></td>
-<td>Seong-Hoon Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14139">2603.14139</a></td>
 </tr>
 </tbody></table>

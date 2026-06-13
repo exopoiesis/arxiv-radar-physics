@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">448 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,35 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16015.html">Bayesian Epistemology with Weighted Authority: A Formal Architecture for Truth-Promoting Autonomous Scientific Reasoning</a></div></td>
 <td>Craig S. Wright</td>
 <td><a href="http://arxiv.org/abs/2506.16015">2506.16015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11998.html">Determination of Hubble constant from Megamaser Cosmology Project using Profile Likelihood</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Shubham Barua et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11998">2502.11998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01120.html">Bias-Corrected Importance Sampling for Inferring Beyond-Vacuum-GR Effects in Gravitational-Wave Sources</a></div></td>
-<td>Shubham Kejriwal et al.</td>
-<td><a href="http://arxiv.org/abs/2503.01120">2503.01120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12983.html">Adaptive Modeling of Correlated Noise in Space-Based Gravitational Wave Detectors</a></div></td>
-<td>Ya-Nan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12983">2504.12983</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14597.html">Deep Learning Surrogates for Real-Time Gas Emission Inversion</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Thomas Newman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14597">2506.14597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14764.html">Gravitational-wave background detection using machine learning</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Hugo Einsle et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14764">2506.14764</a></td>
 </tr>
 </tbody></table>

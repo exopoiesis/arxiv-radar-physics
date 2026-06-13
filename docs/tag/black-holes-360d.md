@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,11 +608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21401.html">The more accurately the metal-dependent star formation rate is modeled, the larger the predicted excess of binary black hole mergers</a></div></td>
 <td>Cecilia Sgalletta et al.</td>
 <td><a href="http://arxiv.org/abs/2410.21401">2410.21401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19121.html">The impact of assembly history on the X-ray detectability of halos. From galaxy groups to galaxy clusters</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>I. Marini et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19121">2503.19121</a></td>
 </tr>
 </tbody></table>

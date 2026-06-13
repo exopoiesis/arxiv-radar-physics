@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,17 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14309.html">In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels</a></div></td>
 <td>Tomislav Medic et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14309">2603.14309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13689.html">Quantum-Enhanced Vision Transformer for Flood Detection using Remote Sensing Imagery</a></div></td>
-<td>Soumyajit Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13689">2603.13689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13708.html">RSEdit: Text-Guided Image Editing for Remote Sensing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Chen Zhenyuan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13708">2603.13708</a></td>
 </tr>
 </tbody></table>

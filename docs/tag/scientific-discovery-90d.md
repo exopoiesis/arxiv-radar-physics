@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14405.html">ES-Merging: Biological MLLM Merging via Embedding Space Signals</a></div></td>
 <td>Wonbin Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14405">2603.14405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06580.html">AI for Scientific Discovery is a Social Problem</a></div></td>
-<td>Georgia Channing et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06580">2509.06580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13727.html">Data-driven Progressive Discovery of Physical Laws</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Mingkun Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13727">2603.13727</a></td>
 </tr>
 </tbody></table>

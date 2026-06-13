@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,35 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15456.html">DIPA: Distilled Preconditioned Algorithms for Solving Imaging Inverse Problems</a></div></td>
 <td>Romario Gualdrón-Hurtado et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15456">2605.15456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13068.html">Local Inverse Geometry Can Be Amortized</a></div></td>
-<td>Aaditya L. Kachhadiya</td>
-<td><a href="http://arxiv.org/abs/2605.13068">2605.13068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13470.html">Twincher: Bijective Representation Learning for Robust Inversion of Continuous Systems</a></div></td>
-<td>Arkady Gonoskov</td>
-<td><a href="http://arxiv.org/abs/2605.13470">2605.13470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13744.html">Aligning Network Equivariance with Data Symmetry: A Theoretical Framework and Adaptive Approach for Image Restoration</a></div></td>
-<td>Feiyu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13744">2605.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13988.html">Neural Fields for NV-Center Inverse Sensing</a></div></td>
-<td>Zhixuan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13988">2605.13988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14142.html">To discretize continually: Mean shift interacting particle systems for Bayesian inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Ayoub Belhadji et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14142">2605.14142</a></td>
 </tr>
 </tbody></table>

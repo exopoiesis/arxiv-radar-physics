@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,17 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21684.html">KSZ Velocity Reconstruction with ACT and DESI-LS using a Tomographic QML Power Spectrum Estimator</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Anderson C. M. Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21684">2506.21684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20862.html">Nonlinear reconstruction of 21cm global signal from 21cm power spectrum with artificial neural networks</a></div></td>
-<td>Hayato Shimabukuro</td>
-<td><a href="http://arxiv.org/abs/2412.20862">2412.20862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11998.html">Determination of Hubble constant from Megamaser Cosmology Project using Profile Likelihood</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Shubham Barua et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11998">2502.11998</a></td>
 </tr>
 </tbody></table>

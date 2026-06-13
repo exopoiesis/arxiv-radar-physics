@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15284.html">Tadpole: Autoencoders as Foundation Models for 3D PDEs with Online Learning</a></div><div class="paper-tags"><a href="pde-learning-30d.html">pde-learning</a></div></td>
 <td>Qiang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15284">2605.15284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12965.html">U-HNO: A U-shaped Hybrid Neural Operator with Sparse-Point Adaptive Routing for Non-stationary PDE Dynamics</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Yingzhe Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12965">2605.12965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Runlong Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12997">2605.12997</a></td>
 </tr>
 </tbody></table>

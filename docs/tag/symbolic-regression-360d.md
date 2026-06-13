@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17456.html">Refining Tc Prediction in Hydrides via Symbolic-Regression-Enhanced Electron-Localization-Function-Based Descriptors</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a></div></td>
 <td>Francesco Belli et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17456">2506.17456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14403.html">Symbolic Regression-Enhanced Dynamic Wake Meandering: Fast and Physically Consistent Wind-Turbine Wake Modeling</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Ding Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14403">2506.14403</a></td>
 </tr>
 </tbody></table>

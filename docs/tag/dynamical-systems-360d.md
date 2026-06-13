@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">707 papers</span>
+  <span class="paper-count">703 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4232,29 +4232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15782.html">Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Nicolas Boullé et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15782">2506.15782</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06073.html">Neural Ordinary Differential Equations for Model Order Reduction of Stiff Systems</a></div></td>
-<td>Matteo Caldana et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06073">2408.06073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06311.html">When are dynamical systems learned from time series data statistically accurate?</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Jeongjin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2411.06311">2411.06311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12879.html">Spline Dimensional Decomposition with Interpolation-based Optimal Knot Selection for Stochastic Dynamic Analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yeonsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12879">2505.12879</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14113.html">SKOLR: Structured Koopman Operator Linear RNN for Time-Series Forecasting</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Yitian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14113">2506.14113</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,17 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18260.html">Advanced For-Loop for QML algorithm search</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>FuTe Wong</td>
 <td><a href="http://arxiv.org/abs/2506.18260">2506.18260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09308.html">Quantum Algorithm Software for Condensed Matter Physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="qaoa-360d.html">qaoa</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="vqe-360d.html">vqe</a></div></td>
-<td>T. Farajollahpour</td>
-<td><a href="http://arxiv.org/abs/2506.09308">2506.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14858.html">CutReg: A loss regularizer for enhancing the scalability of QML via adaptive circuit cutting</a></div></td>
-<td>Maniraman Periyasamy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14858">2506.14858</a></td>
 </tr>
 </tbody></table>

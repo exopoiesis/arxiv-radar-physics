@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>jet-tagging — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <strong>360d</strong> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22691.html">Investigation of the performance of a GNN-based b-jet tagging method in heavy-ion collisions</a></div></td>
 <td>Changhwan Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22691">2506.22691</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14934.html">Vision Transformers for End-to-End Quark-Gluon Jet Classification from Calorimeter Images</a></div></td>
-<td>Md Abrar Jahin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14934">2506.14934</a></td>
 </tr>
 </tbody></table>

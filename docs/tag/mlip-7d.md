@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09023.html">Precipitate phase selection and grain boundary morphology in Cu-Ni-Si-Mn alloys: A machine-learning interatomic potential study</a></div></td>
 <td>Aadil Fayaz Wani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09023">2606.09023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07327.html">Six Open Questions in Machine-Learned Interatomic Potential Foundation Models</a></div></td>
-<td>Isabel Creed et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07327">2606.07327</a></td>
 </tr>
 </tbody></table>

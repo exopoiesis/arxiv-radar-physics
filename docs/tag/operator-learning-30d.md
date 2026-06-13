@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15285.html">Universal Approximation of Nonlinear Operators and Their Derivatives</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Filippo de Feo</td>
 <td><a href="http://arxiv.org/abs/2605.15285">2605.15285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12997.html">Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Runlong Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12997">2605.12997</a></td>
 </tr>
 </tbody></table>

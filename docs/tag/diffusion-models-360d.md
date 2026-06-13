@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">611 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3674,11 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15684.html">Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards</a></div></td>
 <td>Qingming Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15684">2506.15684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13754.html">VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Edward Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13754">2506.13754</a></td>
 </tr>
 </tbody></table>

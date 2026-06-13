@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,35 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15385.html">Provable Maximum Entropy Manifold Exploration via Diffusion Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Riccardo De Santi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15385">2506.15385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04227.html">Agent Laboratory: Using LLM Agents as Research Assistants</a></div></td>
-<td>Samuel Schmidgall et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04227">2501.04227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02242.html">From Street Views to Urban Science: Discovering Road Safety Factors with Multimodal Large Language Models</a></div></td>
-<td>Yihong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02242">2506.02242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14508.html">An ELIXIR scoping review on domain-specific evaluation metrics for synthetic data in life sciences</a></div></td>
-<td>Styliani-Christina Fragkouli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14508">2506.14508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17303.html">The California Report on Frontier AI Policy</a></div></td>
-<td>Rishi Bommasani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17303">2506.17303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01025.html">HPC-AI Coupling Methodology for Scientific Applications</a></div></td>
-<td>Yutong Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01025">2507.01025</a></td>
 </tr>
 </tbody></table>

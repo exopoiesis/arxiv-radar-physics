@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,23 +1022,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20497.html">LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration</a></div></td>
 <td>Peiliang Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20497">2602.20497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13695.html">Steering Generative Models for Accessibility: EasyRead Image Generation</a></div></td>
-<td>Nicolas Dickenmann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13695">2603.13695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13708.html">RSEdit: Text-Guided Image Editing for Remote Sensing</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Chen Zhenyuan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13708">2603.13708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13770.html">PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment</a></div></td>
-<td>Zhexiao Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13770">2603.13770</a></td>
 </tr>
 </tbody></table>

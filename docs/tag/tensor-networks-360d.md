@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21640.html">A Survey on Continuous Variable Quantum Key Distribution for Secure Data Transmission: Toward the Future of Secured Quantum-Networks</a></div></td>
 <td>Mobin Motaharifar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21640">2506.21640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14569.html">Enhancing Symbolic Machine Learning by Subsymbolic Representations</a></div></td>
-<td>Stephen Roth et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14569">2506.14569</a></td>
 </tr>
 </tbody></table>

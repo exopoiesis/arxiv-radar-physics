@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vqe — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <strong>360d</strong> <a href="vqe-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00072.html">Classifying Hotspots Mutations for Biosimulation with Quantum Neural Networks and Variational Quantum Eigensolver</a></div></td>
 <td>Don Roosan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00072">2507.00072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09308.html">Quantum Algorithm Software for Condensed Matter Physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="qaoa-360d.html">qaoa</a> · <a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>T. Farajollahpour</td>
-<td><a href="http://arxiv.org/abs/2506.09308">2506.09308</a></td>
 </tr>
 </tbody></table>

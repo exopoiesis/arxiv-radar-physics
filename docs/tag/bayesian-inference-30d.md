@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,29 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22848.html">From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems</a></div></td>
 <td>Mojdeh Saadati et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22848">2605.22848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14447.html">Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
-<td>Debashree Sen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14447">2605.14447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14997.html">A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</a></div></td>
-<td>Nicholas Wogan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14997">2605.14997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15407.html">Amortized Energy-Based Bayesian Inference</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="seismic-inversion-30d.html">seismic-inversion</a></div></td>
-<td>Hojjat Kaveh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15407">2605.15407</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15459.html">Don&#x27;t Stop Me Yet: Sampling Loss Minima via Dissipative Riemannian Mechanics</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Albert Kjøller Jacobsen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15459">2605.15459</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14695.html">Scaling Autoregressive Models for Lattice Thermodynamics</a></div></td>
 <td>Xiaochen Du et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14695">2603.14695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14664.html">Punctuated Equilibria in Artificial Intelligence: The Institutional Scaling Law and the Speciation of Sovereign AI</a></div></td>
-<td>Mark Baciak et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14664">2603.14664</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">628 papers</span>
+  <span class="paper-count">625 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3764,23 +3764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02887.html">Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Alejandro Polo-Molina et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02887">2507.02887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10094.html">Data-driven shape inference in three-dimensional steady state supersonic flows using ODIL and JAX-Fluids</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Aaron B. Buhendwa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10094">2408.10094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03536.html">Physics-informed Neural Networks with Fourier Features for Seismic Wavefield Simulation in Time-Domain Nonsmooth Complex Media</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Yi Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03536">2409.03536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15405.html">Simulation of parametrized cardiac electrophysiology in three dimensions using physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Roshan Antony Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15405">2506.15405</a></td>
 </tr>
 </tbody></table>

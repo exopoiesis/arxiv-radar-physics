@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">610 papers</span>
+  <span class="paper-count">607 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3656,23 +3656,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16209.html">VideoGAN-based Trajectory Proposal for Automated Vehicles</a></div></td>
 <td>Annajoyce Mariani et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16209">2506.16209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15346.html">Acoustic Waveform Inversion with Image-to-Image Schrödinger Bridges</a></div></td>
-<td>A. S. Stankevich et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15346">2506.15346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15673.html">UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting</a></div></td>
-<td>Kai He et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15673">2506.15673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15684.html">Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards</a></div></td>
-<td>Qingming Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15684">2506.15684</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15522.html">Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification</a></div></td>
 <td>Georgios Maragkopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15522">2603.15522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14576.html">IQP Born Machines under Data-dependent and Agnostic Initialization Strategies</a></div></td>
-<td>Sacha Lerch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14576">2603.14576</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">268 papers</span>
+  <span class="paper-count">267 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1616,11 +1616,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08190.html">U-WNO: U-Net Enhanced Wavelet Neural Operator for Solving Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Wei-Min Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08190">2408.08190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15906.html">From Local Interactions to Global Operators: Scalable Gaussian Process Operator for Physical Systems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sawan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15906">2506.15906</a></td>
 </tr>
 </tbody></table>

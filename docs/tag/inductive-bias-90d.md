@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,17 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17855.html">Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation</a></div></td>
 <td>William Thorossian</td>
 <td><a href="http://arxiv.org/abs/2603.17855">2603.17855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06354.html">Frequency-Separable Hamiltonian Neural Network for Multi-Timescale Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Yaojun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06354">2603.06354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12244.html">Separable neural architectures as a primitive for unified predictive and generative intelligence</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Reza T. Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12244">2603.12244</a></td>
 </tr>
 </tbody></table>

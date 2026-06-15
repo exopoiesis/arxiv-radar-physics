@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-reconstruction — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="particle-reconstruction-7d.html">7d</a> <a href="particle-reconstruction-30d.html">30d</a> <a href="particle-reconstruction-90d.html">90d</a> <strong>360d</strong> <a href="particle-reconstruction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07594.html">Locality-Sensitive Hashing-Based Efficient Point Transformer for Charged Particle Reconstruction</a></div></td>
 <td>Shitij Govil et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07594">2510.07594</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21589.html">nuSCOPE: A short-baseline neutrino beam at CERN for high-precision cross-section measurements</a></div></td>
-<td>F. Acerbi et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21589">2503.21589</a></td>
 </tr>
 </tbody></table>

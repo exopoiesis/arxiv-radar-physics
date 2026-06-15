@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,17 +914,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16835.html">An assessment of data-centric methods for label noise identification in remote sensing data sets</a></div></td>
 <td>Felix Kröber et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16835">2603.16835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08741.html">HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer</a></div></td>
-<td>Tianlong Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08741">2507.08741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15497.html">Real-Time Oriented Object Detection Transformer in Remote Sensing Images</a></div></td>
-<td>Zeyu Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15497">2603.15497</a></td>
 </tr>
 </tbody></table>

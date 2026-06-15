@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>normalizing-flows — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <strong>90d</strong> <a href="normalizing-flows-360d.html">360d</a> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18907.html">Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Riccardo Saporiti et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18907">2603.18907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15332.html">Calibrating spectral siren cosmology with synthetic catalogs of binary black hole mergers</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Arianna Scarpa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15332">2603.15332</a></td>
 </tr>
 </tbody></table>

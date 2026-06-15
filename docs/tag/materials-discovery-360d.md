@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,17 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18542.html">Data-Driven Design-Test-Make-Analyze Paradigm for Inorganic Crystals: Ultrafast Synthesis of Ternary Oxides</a></div></td>
 <td>Haiwen Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18542">2506.18542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12919.html">Bridging Text and Crystal Structures: Literature-driven Contrastive Learning for Materials Science</a></div></td>
-<td>Yuta Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12919">2501.12919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17345.html">CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning</a></div></td>
-<td>Changwen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17345">2506.17345</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17575.html">Unsupervised Symbolic Anomaly Detection</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Md Maruf Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17575">2603.17575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15237.html">Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection</a></div></td>
-<td>Yao Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15237">2603.15237</a></td>
 </tr>
 </tbody></table>

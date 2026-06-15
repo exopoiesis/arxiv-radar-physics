@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>les — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <strong>90d</strong> <a href="les-360d.html">360d</a> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17606.html">End-to-end data-driven prediction of urban airflow and pollutant dispersion</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Nishant Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17606">2603.17606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13126.html">Machine-learning-based simulation of turbulent flows over periodic hills using a hybrid U-Net and Fourier neural operator framework</a></div></td>
-<td>Yunpeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13126">2504.13126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15992.html">Physics-Constrained Neural Closure for Lattice Boltzmann Large-Eddy Simulation</a></div></td>
-<td>Muhammad Idrees Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15992">2603.15992</a></td>
 </tr>
 </tbody></table>

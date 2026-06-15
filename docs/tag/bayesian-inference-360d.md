@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,11 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10599.html">Enhancing Taiji&#x27;s Parameter Estimation under Non-Stationarity: a Time-Frequency Domain Framework for Galactic Binaries and Instrumental Noises</a></div></td>
 <td>Minghui Du et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10599">2506.10599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16015.html">Bayesian Epistemology with Weighted Authority: A Formal Architecture for Truth-Promoting Autonomous Scientific Reasoning</a></div></td>
-<td>Craig S. Wright</td>
-<td><a href="http://arxiv.org/abs/2506.16015">2506.16015</a></td>
 </tr>
 </tbody></table>

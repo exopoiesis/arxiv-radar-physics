@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,23 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17057.html">Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Isaac Robledo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17057">2603.17057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21071.html">Super-resolution of 4D flow MRI through inverse problem explicit solving</a></div></td>
-<td>Aurélien de Turenne et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21071">2509.21071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15920.html">DiFVM: A Vectorized Graph-Based Finite Volume Solver for Differentiable CFD on Unstructured Meshes</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Pan Du et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15920">2603.15920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26695.html">Complementarity-Preserving Generative Theory for Multimodal ECG Synthesis: A Quantum-Inspired Approach</a></div></td>
-<td>Timothy Oladunni et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26695">2603.26695</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,41 +1238,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17022.html">Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Kasidit Muenprasitivej et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17022">2603.17022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17341.html">TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Dibyajyoti Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17341">2505.17341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24978.html">Agentic Exploration of Physics Models</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Maximilian Nägele et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24978">2509.24978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14802.html">OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX</a></div></td>
-<td>Jan Williams et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14802">2603.14802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14863.html">A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Jingqiao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14863">2603.14863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14944.html">Ultra-Early Prediction of Tipping Points: Integrating Dynamical Measures with Reservoir Computing</a></div></td>
-<td>Xin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14944">2603.14944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15894.html">Dicovering the emergent nonlinear dynamics of acoustically levitated cube clusters</a></div></td>
-<td>Annie Z. Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15894">2603.15894</a></td>
 </tr>
 </tbody></table>

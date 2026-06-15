@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rans — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <strong>90d</strong> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17057.html">Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Isaac Robledo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17057">2603.17057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15816.html">Efficient and Accurate Surrogate Modeling of Turbulent Flows via Space-Dependent Aggregation and Reduced Order Models</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>Piero Zappi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15816">2603.15816</a></td>
 </tr>
 </tbody></table>

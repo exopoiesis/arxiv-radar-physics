@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,23 +998,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16362.html">$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Ruizhi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16362">2603.16362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01535.html">Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing</a></div></td>
-<td>Zijin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01535">2603.01535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13228.html">PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization</a></div></td>
-<td>Yangsong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13228">2603.13228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15396.html">AI Evasion and Impersonation Attacks on Facial Re-Identification with Activation Map Explanations</a></div></td>
-<td>Noe Claudel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15396">2603.15396</a></td>
 </tr>
 </tbody></table>

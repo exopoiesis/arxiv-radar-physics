@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
 <td>Gilberto Aguilar-Pérez et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18873.html">GenAI-FDIA: Physics-Informed Generative Models for False Data Injection Attacks</a></div></td>
-<td>Mohammad A. Razzaque et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18873">2605.18873</a></td>
 </tr>
 </tbody></table>

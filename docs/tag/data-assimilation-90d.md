@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16976.html">Implementation of tangent linear and adjoint models for neural networks based on a compiler library tool</a></div></td>
 <td>Sa Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16976">2603.16976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14863.html">A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Jingqiao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14863">2603.14863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15358.html">FuXiWeather2: Learning accurate atmospheric state estimation for operational global weather forecasting</a></div></td>
-<td>Xiaoze Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15358">2603.15358</a></td>
 </tr>
 </tbody></table>

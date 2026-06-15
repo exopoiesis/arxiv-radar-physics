@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16321.html">How Quantum Circuits Actually Learn: A Causal Identification of Genuine Quantum Contributions</a></div></td>
 <td>Cyrille Yetuyetu Kesiku et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16321">2603.16321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10621.html">QuantumX: an experience for the consolidation of Quantum Computing and Quantum Software Engineering as an emerging discipline</a></div></td>
-<td>Juan M. Murillo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10621">2603.10621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15522.html">Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification</a></div></td>
-<td>Georgios Maragkopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15522">2603.15522</a></td>
 </tr>
 </tbody></table>

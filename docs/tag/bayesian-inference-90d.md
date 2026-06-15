@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,35 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16756.html">Sequential Bayesian Experimental Design for Prediction in Physical Experiments Informed by Computer Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Hao Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16756">2603.16756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07933.html">Probing the warm dark matter mass with [C II] intensity mapping</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>Elena Marcuzzo et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07933">2512.07933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14966.html">Real-time probabilistic tsunami forecasting in Cascadia from sparse offshore pressure observations</a></div></td>
-<td>Stefan Henneking et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14966">2603.14966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15072.html">Circuit Modeling for In Situ 21 cm Radiometer Calibration</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Gary Vincent Charles Allen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15072">2603.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15801.html">Differentiable Multi-scale Effective Field Theory Likelihoods for Beyond the Standard Model Phenomenology</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Aleks Smolkovič et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15801">2603.15801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16019.html">Sensitivity of neutron star observables to microscopic nuclear parameters of realistic equations of state</a></div></td>
-<td>Nikolas Cruz-Camacho et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16019">2603.16019</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15101.html">Gaussian mixture models for model improvement</a></div></td>
 <td>Paolo Villani et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15101">2603.15101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14918.html">Bayesian Inference for Missing Physics</a></div></td>
-<td>Arno Strouwen</td>
-<td><a href="http://arxiv.org/abs/2603.14918">2603.14918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15292.html">Scalable Simulation-Based Model Inference with Test-Time Complexity Control</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Manuel Gloeckler et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15292">2603.15292</a></td>
 </tr>
 </tbody></table>

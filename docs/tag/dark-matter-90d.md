@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18379.html">A Non-parametric Method for the Inference of Halo Occupation Distributions</a></div></td>
 <td>Jacob Kennedy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18379">2603.18379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07933.html">Probing the warm dark matter mass with [C II] intensity mapping</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Elena Marcuzzo et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07933">2512.07933</a></td>
 </tr>
 </tbody></table>

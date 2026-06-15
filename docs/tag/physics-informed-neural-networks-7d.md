@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11258.html">Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Yan Yang</td>
 <td><a href="http://arxiv.org/abs/2606.11258">2606.11258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08435.html">Sound Field Interpolation Using Physics-Informed Extreme Learning Machine with Pre-Training</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Hayato Komaba et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08435">2606.08435</a></td>
 </tr>
 </tbody></table>

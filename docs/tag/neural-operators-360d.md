@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">386 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,17 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16918.html">A Neural Operator based Hybrid Microscale Model for Multiscale Simulation of Rate-Dependent Materials</a></div></td>
 <td>Dhananjeyan Jeyaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16918">2506.16918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18426.html">Guaranteed prediction sets for functional surrogate models</a></div></td>
-<td>Ander Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18426">2501.18426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16283.html">Random feature approximation for general spectral methods</a></div></td>
-<td>Mike Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16283">2506.16283</a></td>
 </tr>
 </tbody></table>

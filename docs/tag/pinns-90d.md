@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,23 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17184.html">Reconstructing the Type Ia Supernova Absolute Magnitude with Two-Probe Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Denitsa Staicova</td>
 <td><a href="http://arxiv.org/abs/2603.17184">2603.17184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15073.html">The Evolution of Computer-Assisted Proof In Analysis</a></div></td>
-<td>Marek Rychlik</td>
-<td><a href="http://arxiv.org/abs/2603.15073">2603.15073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15194.html">PiGRAND: Physics-informed Graph Neural Diffusion for Intelligent Additive Manufacturing</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Benjamin Uhrich et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15194">2603.15194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15526.html">Building Trust in PINNs: Error Estimation through Finite Difference Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Aleksander Krasowski et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15526">2603.15526</a></td>
 </tr>
 </tbody></table>

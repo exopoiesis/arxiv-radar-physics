@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,17 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17194.html">$\textit{Ab initio}$ Identification of Hydrogen Tunneling as Two-Level Systems in Nb$_2$O$_5$ and Ta$_2$O$_5$</a></div></td>
 <td>Cristóbal Méndez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17194">2603.17194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00581.html">AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules</a></div></td>
-<td>Stephen E. Farr et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00581">2601.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15503.html">High-Throughput Computational Exploration of MOFs for Short-Chain PFAS Removal</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
-<td>Mengru Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15503">2603.15503</a></td>
 </tr>
 </tbody></table>

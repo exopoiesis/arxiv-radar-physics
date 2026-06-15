@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20661.html">Architectural mechanisms of a universal fault-tolerant quantum computer</a></div></td>
 <td>Dolev Bluvstein et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20661">2506.20661</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16113.html">Fully convolutional 3D neural network decoders for surface codes with syndrome circuit noise</a></div></td>
-<td>Spiro Gicev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16113">2506.16113</a></td>
 </tr>
 </tbody></table>

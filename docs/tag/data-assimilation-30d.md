@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Xi&#x27;an Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16086">2606.16086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Zongren Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11676.html">Neural-Parameterized Cellular Automata for Wildfire Spread</a></div></td>
@@ -68,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="les-30d.html">les</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Luca Saverio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28851.html">Towards a Foundation Model for the Martian Atmosphere</a></div><div class="paper-tags"><a href="atmospheric-physics-30d.html">atmospheric-physics</a> · <a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Sujit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28851">2605.28851</a></td>
 </tr>
 </tbody></table>

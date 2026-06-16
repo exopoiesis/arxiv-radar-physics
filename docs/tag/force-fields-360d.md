@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,11 +638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19628.html">Operator Forces For Coarse-Grained Molecular Dynamics</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Leon Klein et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19628">2506.19628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15337.html">Knowledge Distillation Framework for Accelerating High-Accuracy Neural Network-Based Molecular Dynamics Simulations</a></div></td>
-<td>Naoki Matsumura et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15337">2506.15337</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
+<td>Qian Qi</td>
+<td><a href="http://arxiv.org/abs/2606.16846">2606.16846</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08796.html">A Non-Overlapping Schwarz Hybrid Finite Element-Neural Operator Framework for Solid Mechanics on Irregular Domains</a></div></td>
 <td>Wei Wang et al.</td>
@@ -308,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Purna Vindhya Kota et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08005.html">SG-DeepONet: Source-generalized deep operator learning for full waveform inversion</a></div></td>
-<td>Zekai Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08005">2408.08005</a></td>
 </tr>
 </tbody></table>

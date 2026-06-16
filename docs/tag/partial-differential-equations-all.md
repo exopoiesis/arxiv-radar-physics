@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1328 papers</span>
+  <span class="paper-count">1332 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
+<td>Xi&#x27;an Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16086">2606.16086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14597.html">Zero-shot generalization of transformer neural operators to larger domains</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Armand de Villeroché et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14597">2606.14597</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14913.html">Structure-Informed Neural Operators for Long-Time Prediction of Parametric Hamiltonian PDEs</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Victory C. Obieke et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14913">2606.14913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>

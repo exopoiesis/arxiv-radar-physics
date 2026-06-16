@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16421.html">Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images</a></div></td>
+<td>Gyutae Hwang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16421">2606.16421</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15709.html">AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan</a></div></td>
+<td>Mohammed Fasha et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15709">2606.15709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15207.html">Controlled Dynamics Attractor Transformer</a></div></td>
+<td>Cheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15207">2606.15207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15343.html">Generalized likelihood ratio test for magnetic anomaly detection: a geometrical approach</a></div></td>
+<td>C. Chenevas-Paule et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15343">2606.15343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14857.html">Chopping and distilling variational autoencoders for real-time anomaly detection in high energy physics</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
+<td>Max Cohen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14857">2606.14857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13780.html">Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches</a></div></td>
+<td>Jack Y. Araz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13780">2606.13780</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12690.html">EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence</a></div></td>
@@ -1886,11 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17824.html">Quantum-Hybrid Support Vector Machines for Anomaly Detection in Industrial Control Systems</a></div></td>
 <td>Tyler Cultice et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17824">2506.17824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16815.html">Robust Group Anomaly Detection for Quasi-Periodic Network Time Series</a></div></td>
-<td>Kai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16815">2506.16815</a></td>
 </tr>
 </tbody></table>

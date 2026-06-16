@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
+<td>Jeffery Opoku et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
+<td>Phalgun Lolur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14417.html">Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14417">2606.14417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
@@ -38,6 +62,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="rom-7d.html">rom</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
+<td>Fabian Paischer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -68,17 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10873.html">Spatial Model Selection and Uncertainty Quantification: Comparing Continuous and Discrete Wound Healing Models</a></div></td>
 <td>John T. Nardini et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10873">2606.10873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09094.html">CIG-Bench: A Comprehensive Survey and Benchmark for AI-Driven Subsurface Imaging Understanding</a></div></td>
-<td>Yimin Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09094">2606.09094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09147.html">Artificial Intelligence for Instability in Inorganic Perovskites: From Mechanism Discovery to Engineering Strategies</a></div></td>
-<td>Xue Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09147">2606.09147</a></td>
 </tr>
 </tbody></table>

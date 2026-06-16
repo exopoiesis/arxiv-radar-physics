@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
+<td>Jeffery Opoku et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Phalgun Lolur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14417.html">Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14417">2606.14417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -38,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="rom-30d.html">rom</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
+<td>Fabian Paischer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -260,17 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19122.html">Dual-Channel Tensor Neural Networks: Finite-Sample Theory and Conformal Structure Selection</a></div></td>
 <td>Elynn Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19122">2605.19122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16966.html">Harnessing AI for Inverse Partial Differential Equation Problems: Past, Present, and Prospects</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Zhentao Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16966">2605.16966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Phuoc-Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">830 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
+<td>Jeffery Opoku et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Phalgun Lolur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14417.html">Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14417">2606.14417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
@@ -38,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="rom-all.html">rom</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
+<td>Fabian Paischer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>

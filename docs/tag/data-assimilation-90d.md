@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Xi&#x27;an Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16086">2606.16086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Zongren Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11676.html">Neural-Parameterized Cellular Automata for Wildfire Spread</a></div></td>
@@ -260,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22319.html">Sparsely-Supervised Data Assimilation via Physics-Informed Schrödinger Bridge</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Dohyun Bu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22319">2603.22319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16976.html">Implementation of tangent linear and adjoint models for neural networks based on a compiler library tool</a></div></td>
-<td>Sa Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16976">2603.16976</a></td>
 </tr>
 </tbody></table>

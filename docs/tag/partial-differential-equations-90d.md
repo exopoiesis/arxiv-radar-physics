@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Xi&#x27;an Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16086">2606.16086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14597.html">Zero-shot generalization of transformer neural operators to larger domains</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Armand de Villeroché et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14597">2606.14597</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14913.html">Structure-Informed Neural Operators for Long-Time Prediction of Parametric Hamiltonian PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Victory C. Obieke et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14913">2606.14913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -1256,17 +1280,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18328.html">A Family of Adaptive Activation Functions for Mitigating Failure Modes in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Krishna Murari</td>
 <td><a href="http://arxiv.org/abs/2603.18328">2603.18328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08108.html">Tau-BNO: Brain Neural Operator for Tau Transport Model</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Nuutti Barron et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08108">2603.08108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17022.html">Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Kasidit Muenprasitivej et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17022">2603.17022</a></td>
 </tr>
 </tbody></table>

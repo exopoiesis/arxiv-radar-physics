@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
+<td>Zongren Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14079.html">Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems</a></div></td>
+<td>Ryogo Tanaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14079">2606.14079</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12836.html">Interpretable model-free inference of parametric variation across time-series data through large-scale feature extraction</a></div></td>
@@ -224,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
 <td>Joris C. Kühl et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16747.html">Propagation of Chaos in Contextual Flow Maps</a></div></td>
-<td>Shi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16747">2605.16747</a></td>
 </tr>
 </tbody></table>

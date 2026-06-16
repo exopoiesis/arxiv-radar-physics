@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Julius H Ramlau et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16587">2606.16587</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Henry Shaowu Yuchi et al.</td>
@@ -374,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17867.html">RHYME-XT: A Neural Operator for Spatiotemporal Control Systems</a></div></td>
 <td>Marijn Ruiter et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17867">2603.17867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17057.html">Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="rans-90d.html">rans</a></div></td>
-<td>Isaac Robledo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17057">2603.17057</a></td>
 </tr>
 </tbody></table>

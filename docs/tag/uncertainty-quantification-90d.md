@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
+<td>Jeffery Opoku et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Phalgun Lolur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14417.html">Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14417">2606.14417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
@@ -38,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="rom-90d.html">rom</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
+<td>Fabian Paischer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -938,23 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17532.html">Anisotropic Permeability Tensor Prediction from Porous Media Microstructure via Physics-Informed Progressive Transfer Learning with Hybrid CNN-Transformer</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Mohammad Nooraiepour</td>
 <td><a href="http://arxiv.org/abs/2603.17532">2603.17532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16194.html">TPMM: Three-component Posterior Mixture Model Enables Robust Inverton Detection in Low-Depth Metagenomes and Suggests Potential Viral Invertons</a></div></td>
-<td>Yi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16194">2603.16194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16756.html">Sequential Bayesian Experimental Design for Prediction in Physical Experiments Informed by Computer Models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Hao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16756">2603.16756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16757.html">pADAM: A Plug-and-Play All-in-One Diffusion Architecture for Multi-Physics Learning</a></div></td>
-<td>Amirhossein Mollaali et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16757">2603.16757</a></td>
 </tr>
 </tbody></table>

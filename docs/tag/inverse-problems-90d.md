@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Ali Siahkoohi</td>
+<td><a href="http://arxiv.org/abs/2606.15871">2606.15871</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12226.html">An Electric Potential-Augmented Benchmark Dataset for Physics-Guided Image Reconstruction of Electrical Capacitance Tomography</a></div></td>
@@ -74,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14743.html">Delayed acceptance sampling with Hamiltonian proposal subchains for random field materials inference</a></div></td>
+<td>Simona Bérešová et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14743">2606.14743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -656,23 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16549.html">Bridging the Simulation-to-Reality Gap in Electron Microscope Calibration via VAE-EM Estimation</a></div></td>
 <td>Jilles S. van Hulst et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16549">2603.16549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13972.html">Distributional Consistency Loss: Beyond Pointwise Data Terms in Inverse Problems</a></div></td>
-<td>George Webber et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13972">2510.13972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16066.html">Adaptive regularization parameter selection for high-dimensional inverse problems: A Bayesian approach with Tucker low-rank constraints</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Qing-Mei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16066">2603.16066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16478.html">Fast and Reliable Gradients for Deformables Across Frictional Contact Regimes</a></div></td>
-<td>Ziqiu Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16478">2603.16478</a></td>
 </tr>
 </tbody></table>

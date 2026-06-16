@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Xiaoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19565.html">HiLiftAeroML: High-Fidelity Computational Fluid Dynamics Dataset for High-Lift Aircraft Aerodynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="rans-360d.html">rans</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>

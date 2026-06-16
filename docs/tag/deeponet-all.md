@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">226 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
+<td>Qian Qi</td>
+<td><a href="http://arxiv.org/abs/2606.16846">2606.16846</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08796.html">A Non-Overlapping Schwarz Hybrid Finite Element-Neural Operator Framework for Solid Mechanics on Irregular Domains</a></div></td>

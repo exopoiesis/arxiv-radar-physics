@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Julius H Ramlau et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16587">2606.16587</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
@@ -44,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02315.html">Identifying sensitivity-dominant parameters via active subspaces in reduced-order modeling of fluid dynamics</a></div></td>
 <td>Dewu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02315">2606.02315</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="rans-30d.html">rans</a></div></td>
+<td>Nicolas J. Tricard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>

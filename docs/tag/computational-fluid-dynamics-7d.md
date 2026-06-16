@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Xin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09963">2606.09963</a></td>
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15356.html">ShipNet: A Geometric Deep Learning Surrogate for Real-Time Ship Hydrodynamics</a></div></td>
+<td>Kirsten Odendaal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15356">2606.15356</a></td>
 </tr>
 </tbody></table>

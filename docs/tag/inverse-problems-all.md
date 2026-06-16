@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">628 papers</span>
+  <span class="paper-count">630 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Ali Siahkoohi</td>
+<td><a href="http://arxiv.org/abs/2606.15871">2606.15871</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12226.html">An Electric Potential-Augmented Benchmark Dataset for Physics-Guided Image Reconstruction of Electrical Capacitance Tomography</a></div></td>
@@ -74,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14743.html">Delayed acceptance sampling with Hamiltonian proposal subchains for random field materials inference</a></div></td>
+<td>Simona Bérešová et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14743">2606.14743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>

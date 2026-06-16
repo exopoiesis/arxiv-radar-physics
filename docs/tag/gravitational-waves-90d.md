@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13728.html">\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Shubham Kejriwal</td>
+<td><a href="http://arxiv.org/abs/2606.13728">2606.13728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13941.html">Binary Black Hole Parameter Estimation with Hybrid CNN-Transformer Neural Networks</a></div></td>
+<td>Panagiotis N. Sakellariou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13941">2606.13941</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21955.html">On the Presence of a Tertiary Compact Object in GW190814</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="ligo-90d.html">ligo</a></div></td>
 <td>Lalit Pathak et al.</td>
@@ -86,17 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15984.html">Direct Inference of Nuclear Equation-of-State Parameters from Gravitational-Wave Observations</a></div></td>
 <td>Brendan T. Reed et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15984">2506.15984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15393.html">Orbital eccentricity in a neutron star - black hole merger</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Gonzalo Morras et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15393">2503.15393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12364.html">Robustness of Neural Networks for CMB Polarization Foreground Removal</a></div></td>
-<td>Luca Gomez Bachar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12364">2603.12364</a></td>
 </tr>
 </tbody></table>

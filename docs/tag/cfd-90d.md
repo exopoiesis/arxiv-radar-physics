@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Julius H Ramlau et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16587">2606.16587</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Xin Zhang et al.</td>
@@ -44,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02315.html">Identifying sensitivity-dominant parameters via active subspaces in reduced-order modeling of fluid dynamics</a></div></td>
 <td>Dewu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02315">2606.02315</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="rans-90d.html">rans</a></div></td>
+<td>Nicolas J. Tricard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -386,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07034.html">Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Mikael Vaillant et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07034">2507.07034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16554.html">UrbanFlow-3K: A Dataset of 3,000 Lattice-Boltzmann Simulations of Random Building Layouts</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Hojin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16554">2603.16554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17057.html">Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Isaac Robledo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17057">2603.17057</a></td>
 </tr>
 </tbody></table>

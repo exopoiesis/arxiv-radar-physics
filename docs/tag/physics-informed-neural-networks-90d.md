@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14181.html">Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Mikel Landajuela</td>
+<td><a href="http://arxiv.org/abs/2606.14181">2606.14181</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12050.html">Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Ismail Huseynov et al.</td>
@@ -1130,17 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18328.html">A Family of Adaptive Activation Functions for Mitigating Failure Modes in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Krishna Murari</td>
 <td><a href="http://arxiv.org/abs/2603.18328">2603.18328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15584.html">Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Vasiliy A. Es&#x27;kin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15584">2603.15584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17184.html">Reconstructing the Type Ia Supernova Absolute Magnitude with Two-Probe Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Denitsa Staicova</td>
-<td><a href="http://arxiv.org/abs/2603.17184">2603.17184</a></td>
 </tr>
 </tbody></table>

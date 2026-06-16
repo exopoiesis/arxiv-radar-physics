@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Yong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14181.html">Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Mikel Landajuela</td>
+<td><a href="http://arxiv.org/abs/2606.14181">2606.14181</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12050.html">Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>

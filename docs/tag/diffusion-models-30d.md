@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16124.html">Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Ke Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16124">2606.16124</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div></td>
+<td>Yanbin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14317.html">CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation</a></div></td>
+<td>Sihan Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14317">2606.14317</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14570.html">Regional Climate Model Emulation with Diffusion Approaches: What is the Added Value of Generative Machine Learning?</a></div></td>
+<td>Mikel N. Legasa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14570">2606.14570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12828.html">Topical Phase Transitions in Artificial Intelligence Research: Large-Scale Evidence and an Early-Warning Signature for Emerging Topics</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
@@ -80,6 +104,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04076.html">SkySense: A Semi-Supervised Generative Framework for UAV Localization in ISAC Networks</a></div></td>
 <td>Shenghan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04076">2606.04076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14732.html">Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion</a></div></td>
+<td>Matiur Rahman Minar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14732">2606.14732</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -200,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
 <td>Tianyue Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Gilberto Aguilar-Pérez et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
 </tr>
 </tbody></table>

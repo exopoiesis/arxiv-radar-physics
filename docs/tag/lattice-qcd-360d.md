@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16877.html">Direct calculation of parton distributions in momentum space from lattice QCD</a></div></td>
+<td>Anthony V. Grebe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16877">2606.16877</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09152.html">Constraining DVCS Compton Form Factors Using Lattice QCD calculations</a></div></td>
 <td>Yuan-Yuan Huang et al.</td>
@@ -212,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17763.html">Bayesian Inference of the Critical Endpoint in 2+1-Flavor System from Holographic QCD</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Liqiang Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.17763">2501.17763</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16689.html">Ill-Posedness in Limited Discrete Fourier Inversion and Regularization for Quasi Distributions in LaMET</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ao-Sheng Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16689">2506.16689</a></td>
 </tr>
 </tbody></table>

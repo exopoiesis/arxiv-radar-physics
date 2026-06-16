@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15053.html">Physics-conforming Latent Twins</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15053">2606.15053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14998.html">Rumoca: Modelica as a Universal Algebraic Frontend via a Rust-Native Compiler</a></div></td>
+<td>Micah K. Condie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14998">2606.14998</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Handi Zhang et al.</td>
@@ -26,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Shaoqian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10370">2606.10370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Conor Rowan</td>
-<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09001.html">JAX-AMG: A GPU-Accelerated Differentiable Sparse Linear Solver Library for JAX</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Yi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09001">2606.09001</a></td>
 </tr>
 </tbody></table>

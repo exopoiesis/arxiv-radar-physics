@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,17 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18211.html">Finite-size resource scaling for learning quantum phase transitions with fidelity-based support vector machines</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Aaqib Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18211">2603.18211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15248.html">Mechanistic Foundations of Goal-Directed Control</a></div></td>
-<td>Alma Lago</td>
-<td><a href="http://arxiv.org/abs/2603.15248">2603.15248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16440.html">Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models</a></div></td>
-<td>Rishaank Gupta</td>
-<td><a href="http://arxiv.org/abs/2603.16440">2603.16440</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Yong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15512.html">Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator</a></div></td>
+<td>Jay Phil Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15512">2606.15512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14039.html">Machine learning for rarefied gas transport in vacuum and micro/nano systems: promise, pitfalls, and a verification agenda</a></div></td>
+<td>Ehsan Roohi</td>
+<td><a href="http://arxiv.org/abs/2606.14039">2606.14039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14913.html">Structure-Informed Neural Operators for Long-Time Prediction of Parametric Hamiltonian PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Victory C. Obieke et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14913">2606.14913</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09047.html">Families of Control-Cost-Parametrized Inverse-Optimal Universal Stabilizers</a></div></td>

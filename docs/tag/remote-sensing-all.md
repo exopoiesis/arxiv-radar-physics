@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>remote-sensing — all</h1>
-  <span class="paper-count">1014 papers</span>
+  <span class="paper-count">1017 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16124.html">Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Ke Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16124">2606.16124</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14963.html">Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning</a></div></td>
+<td>Tewodros Syum Gebre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14963">2606.14963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13896.html">How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?</a></div></td>
+<td>Julia Romero et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13896">2606.13896</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10329.html">Building Change Detection in Earthquake: A Multi-Scale Interaction Network and A Change Detection Dataset</a></div></td>

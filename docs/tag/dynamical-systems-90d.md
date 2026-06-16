@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Zongren Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14079.html">Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems</a></div></td>
+<td>Ryogo Tanaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14079">2606.14079</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12836.html">Interpretable model-free inference of parametric variation across time-series data through large-scale feature extraction</a></div></td>
@@ -1196,47 +1208,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17750.html">Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems</a></div></td>
 <td>Qi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17750">2603.17750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18131.html">Data-Driven Model Order Reduction of Nonlinear Systems with Noisy Data</a></div></td>
-<td>Behrad Samari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18131">2507.18131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13344.html">Neural Control Barrier Functions for Signal Temporal Logic Specifications with Input Constraints</a></div></td>
-<td>Vaishnavi Jagabathula et al.</td>
-<td><a href="http://arxiv.org/abs/2512.13344">2512.13344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19941.html">Block-Recurrent Dynamics in Vision Transformers</a></div></td>
-<td>Mozes Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19941">2512.19941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08108.html">Tau-BNO: Brain Neural Operator for Tau Transport Model</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Nuutti Barron et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08108">2603.08108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14762.html">Online Learning for Supervisory Switching Control</a></div></td>
-<td>Haoyuan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14762">2603.14762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16850.html">Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks</a></div></td>
-<td>Xavier Gonzalez</td>
-<td><a href="http://arxiv.org/abs/2603.16850">2603.16850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17022.html">Contingency-Aware Planning via Certified Neural Hamilton-Jacobi Reachability</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Kasidit Muenprasitivej et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17022">2603.17022</a></td>
 </tr>
 </tbody></table>

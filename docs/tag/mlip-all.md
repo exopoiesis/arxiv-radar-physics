@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="les-all.html">les</a> · <a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Xiaoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09152.html">Constraining DVCS Compton Form Factors Using Lattice QCD calculations</a></div></td>
-<td>Yuan-Yuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09152">2606.09152</a></td>
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16877.html">Direct calculation of parton distributions in momentum space from lattice QCD</a></div></td>
+<td>Anthony V. Grebe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16877">2606.16877</a></td>
 </tr>
 </tbody></table>

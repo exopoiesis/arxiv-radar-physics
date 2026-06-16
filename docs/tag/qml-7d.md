@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
-<td>Gennaro De Luca</td>
-<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14822.html">Quantum Machine Learning for Industrial Applications</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Léo Monbroussou</td>
+<td><a href="http://arxiv.org/abs/2606.14822">2606.14822</a></td>
 </tr>
 </tbody></table>

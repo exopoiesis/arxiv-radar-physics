@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15356.html">ShipNet: A Geometric Deep Learning Surrogate for Real-Time Ship Hydrodynamics</a></div></td>
+<td>Kirsten Odendaal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15356">2606.15356</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -38,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06405.html">Bridging CAD and Data-Driven Design: Attributed Feature Graphs for Engineering Design</a></div></td>
 <td>Abhishek Indupally et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06405">2606.06405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="rans-90d.html">rans</a></div></td>
+<td>Nicolas J. Tricard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -398,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17516.html">Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data</a></div></td>
 <td>Eric Diehl et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17516">2603.17516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16554.html">UrbanFlow-3K: A Dataset of 3,000 Lattice-Boltzmann Simulations of Random Building Layouts</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Hojin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16554">2603.16554</a></td>
 </tr>
 </tbody></table>

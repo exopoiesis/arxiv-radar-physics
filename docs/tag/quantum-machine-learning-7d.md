@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16090.html">Enhancing Quantum Machine Learning with Anyons</a></div></td>
+<td>Da Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16090">2606.16090</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div></td>
+<td>Ali Al-Bayaty</td>
+<td><a href="http://arxiv.org/abs/2606.15801">2606.15801</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15808.html">Trainable Quantum Channels as Computational Primitives for Quantum Learning</a></div></td>
+<td>Jingwei Wen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15808">2606.15808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14822.html">Quantum Machine Learning for Industrial Applications</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
+<td>Léo Monbroussou</td>
+<td><a href="http://arxiv.org/abs/2606.14822">2606.14822</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div></td>
@@ -26,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
 <td>Jeongho Bang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12211">2606.12211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
-<td>Gianluca Scanu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09964">2606.09964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10150.html">Towards the implementation of a quantum classifier</a></div></td>
-<td>Lorenzo Confalonieri et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10150">2606.10150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Gennaro De Luca</td>
-<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
 </tr>
 </tbody></table>

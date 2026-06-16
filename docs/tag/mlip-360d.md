@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="les-360d.html">les</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Xiaoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Shuqi Tang et al.</td>
@@ -830,11 +836,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10538.html">Foundation Models for Atomistic Simulation of Chemistry and Materials</a></div></td>
 <td>Eric C. -Y. Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.10538">2503.10538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16771.html">Machine Learning Potentials for Alloys: A Detailed Workflow to Predict Phase Diagrams and Benchmark Accuracy</a></div></td>
-<td>Siya Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16771">2506.16771</a></td>
 </tr>
 </tbody></table>

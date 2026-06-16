@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15959.html">Quantifying the Impact of Lossy Compression on Neural Generative Surrogate Modeling</a></div></td>
+<td>Zhimin Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15959">2606.15959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14266.html">Large Language Model Based Agent for Automated Discovery in Computational Physics</a></div></td>
+<td>Hang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14266">2606.14266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14386.html">Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks</a></div></td>
+<td>Li Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14386">2606.14386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13566.html">A Three-Layer Framework for AI in Scientific Discovery</a></div></td>
@@ -962,17 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20321.html">BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases</a></div></td>
 <td>Mathew J. Koretsky et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20321">2505.20321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17028.html">Accelerating Structure-Property Relationship Discovery with Multimodal Machine Learning and Self-Driving Microscopy</a></div></td>
-<td>Jiawei Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17028">2603.17028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17216.html">AI Scientist via Synthetic Task Scaling</a></div></td>
-<td>Ziyang Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17216">2603.17216</a></td>
 </tr>
 </tbody></table>

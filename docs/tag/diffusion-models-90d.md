@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16124.html">Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
+<td>Ke Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16124">2606.16124</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div></td>
+<td>Yanbin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14317.html">CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation</a></div></td>
+<td>Sihan Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14317">2606.14317</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14570.html">Regional Climate Model Emulation with Diffusion Approaches: What is the Added Value of Generative Machine Learning?</a></div></td>
+<td>Mikel N. Legasa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14570">2606.14570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12828.html">Topical Phase Transitions in Artificial Intelligence Research: Large-Scale Evidence and an Early-Warning Signature for Emerging Topics</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
@@ -80,6 +104,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04076.html">SkySense: A Semi-Supervised Generative Framework for UAV Localization in ISAC Networks</a></div></td>
 <td>Shenghan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04076">2606.04076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14732.html">Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion</a></div></td>
+<td>Matiur Rahman Minar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14732">2606.14732</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -974,29 +1004,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22307.html">Full waveform inversion method based on diffusion model</a></div></td>
 <td>Caiyun Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22307">2603.22307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10402.html">Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance</a></div></td>
-<td>Jiachi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10402">2510.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15484.html">RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Xianbao Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15484">2603.15484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16209.html">Physics-guided diffusion models for inverse design of disordered metamaterials</a></div></td>
-<td>Ziyuan Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16209">2603.16209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16362.html">$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Ruizhi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16362">2603.16362</a></td>
 </tr>
 </tbody></table>

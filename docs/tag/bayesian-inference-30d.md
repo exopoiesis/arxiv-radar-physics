@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03707.html">Neutron Star Observations Challenge a Large Colour-Superconducting Gap in Dense Quark Matter</a></div></td>
+<td>Shao-Peng Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03707">2606.03707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14472.html">Transitions in the Mass-ratio and Spin Properties of Binary Black Holes in GWTC-5</a></div></td>
+<td>Elizabeth Flanagan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14472">2606.14472</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Ali Siahkoohi</td>
+<td><a href="http://arxiv.org/abs/2606.15871">2606.15871</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14197.html">Licence to Bin: Accurate and Scalable Inference for Binary Neutron Stars in Next-Generation Gravitational-Wave Detectors</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
+<td>Nir Guttman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14197">2606.14197</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12931.html">Tests of general relativity at the fourth post-Newtonian order with GW230627 and GW250114</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a></div></td>
@@ -32,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13114.html">Disentangling the origin of degradation in perovskite solar cells via optical imaging and Bayesian inference</a></div></td>
 <td>Akash Dasgupta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13114">2606.13114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13728.html">\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
+<td>Shubham Kejriwal</td>
+<td><a href="http://arxiv.org/abs/2606.13728">2606.13728</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>

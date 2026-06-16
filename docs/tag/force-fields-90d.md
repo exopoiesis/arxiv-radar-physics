@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>force-fields — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <strong>90d</strong> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18058.html">Polarization Dynamics in Ferroelectrics: Insights Enabled by Machine Learning Molecular Dynamics</a></div></td>
 <td>Dongyu Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18058">2603.18058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16770.html">Training a force field for proteins and small molecules from scratch</a></div></td>
-<td>Alexandre Blanco-González et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16770">2603.16770</a></td>
 </tr>
 </tbody></table>

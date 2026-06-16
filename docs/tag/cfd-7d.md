@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Xin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09963">2606.09963</a></td>
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Julius H Ramlau et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16587">2606.16587</a></td>
 </tr>
 </tbody></table>

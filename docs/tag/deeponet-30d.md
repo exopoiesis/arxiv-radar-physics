@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
+<td>Qian Qi</td>
+<td><a href="http://arxiv.org/abs/2606.16846">2606.16846</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08796.html">A Non-Overlapping Schwarz Hybrid Finite Element-Neural Operator Framework for Solid Mechanics on Irregular Domains</a></div></td>
 <td>Wei Wang et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Abderrahim Bendahi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17107.html">Diffusion-Based Stochastic Operator Networks for Uncertainty Quantification in Stochastic Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Phuoc-Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17107">2605.17107</a></td>
 </tr>
 </tbody></table>

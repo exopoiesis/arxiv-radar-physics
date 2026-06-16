@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
+<td>Jeffery Opoku et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Phalgun Lolur et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14417.html">Stable Multivariate Functional Time Series Prediction for Major Geomagnetic Indices</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14417">2606.14417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Chengyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -38,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="rom-360d.html">rom</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
+<td>Fabian Paischer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -3290,11 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18855.html">ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data</a></div></td>
 <td>Aviral Prakash et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18855">2506.18855</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16689.html">Ill-Posedness in Limited Discrete Fourier Inversion and Regularization for Quasi Distributions in LaMET</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
-<td>Ao-Sheng Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16689">2506.16689</a></td>
 </tr>
 </tbody></table>

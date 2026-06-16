@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="les-90d.html">les</a> · <a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Xiaoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
@@ -284,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18864.html">Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite</a></div></td>
 <td>Samuel Del Fré et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18864">2603.18864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16347.html">Tuning Cu/Diamond Interfacial Thermal Conductance via Nitrogen-Termination Engineering</a></div></td>
-<td>Guang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16347">2603.16347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17194.html">$\textit{Ab initio}$ Identification of Hydrogen Tunneling as Two-Level Systems in Nb$_2$O$_5$ and Ta$_2$O$_5$</a></div></td>
-<td>Cristóbal Méndez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17194">2603.17194</a></td>
 </tr>
 </tbody></table>

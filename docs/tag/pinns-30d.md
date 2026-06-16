@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Yong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15201.html">A Koopman-PINN Framework for Epidemic Models: Parameter Inference and Forecasting</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Achraf Zinihi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15201">2606.15201</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14181.html">Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Mikel Landajuela</td>
+<td><a href="http://arxiv.org/abs/2606.14181">2606.14181</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12050.html">Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>

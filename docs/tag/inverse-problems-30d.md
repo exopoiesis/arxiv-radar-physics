@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Ali Siahkoohi</td>
+<td><a href="http://arxiv.org/abs/2606.15871">2606.15871</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12226.html">An Electric Potential-Augmented Benchmark Dataset for Physics-Guided Image Reconstruction of Electrical Capacitance Tomography</a></div></td>
@@ -74,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14743.html">Delayed acceptance sampling with Hamiltonian proposal subchains for random field materials inference</a></div></td>
+<td>Simona Bérešová et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14743">2606.14743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -188,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18655.html">Self-Supervised Conformal Prediction with Equivariant Bootstrapping for Image Uncertainty Quantification</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Henry J. Aldridge et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18655">2605.18655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16966.html">Harnessing AI for Inverse Partial Differential Equation Problems: Past, Present, and Prospects</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Zhentao Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16966">2605.16966</a></td>
 </tr>
 </tbody></table>

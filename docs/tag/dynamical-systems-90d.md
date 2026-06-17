@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Zongren Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -92,6 +98,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08202.html">Vector Space of Cycles</a></div></td>
 <td>Moo K. Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08202">2606.08202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17070.html">KFTD: Koopman-Fourier Time-Differentiable Network for Continuous Ocean Spatiotemporal Forecasting</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Qinghui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17070">2606.17070</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -1178,35 +1190,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18548.html">SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Amanda A. Howard et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18548">2603.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04962.html">ROPE: A Novel Method for Real-Time Phase Estimation of Complex Biological Rhythms</a></div></td>
-<td>Antonio Spallone et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04962">2509.04962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05538.html">JAWS: Enhancing Long-term Rollout of Neural PDE Solvers via Spatially-Adaptive Jacobian Regularization</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Fengxiang Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05538">2603.05538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15363.html">Deep learning and the rate of approximation by flows</a></div></td>
-<td>Jingpu Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15363">2603.15363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16583.html">Trajectory-Optimized Time Reparameterization for Learning-Compatible Reduced-Order Modeling of Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Joe Standridge et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16583">2603.16583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17750.html">Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems</a></div></td>
-<td>Qi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17750">2603.17750</a></td>
 </tr>
 </tbody></table>

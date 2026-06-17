@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17529.html">Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Meng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17529">2606.17529</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>

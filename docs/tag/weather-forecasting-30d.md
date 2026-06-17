@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
+<td>Egor Bugaev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17659">2606.17659</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14353.html">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</a></div></td>
 <td>Muhannad Alhumaidi et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18333.html">QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting</a></div></td>
 <td>Alberto Marchisio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18333">2605.18333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17369.html">The Deep Learning-Based Dual-Branch Multimodal Fusion Model for Solar Flare Prediction</a></div></td>
-<td>Limin Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17369">2605.17369</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Giulia Borghetto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16248.html">Benchmarking Exact, GP-Emulated, and Simulation-Based Inference for Late-Time Cosmology</a></div></td>

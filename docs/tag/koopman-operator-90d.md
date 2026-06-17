@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>koopman-operator — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <strong>90d</strong> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05085.html">Learning dynamically inspired bases for Koopman and transfer operator approximation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Gary Froyland et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05085">2505.05085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17416.html">Physics-informed Deep Mixture-of-Koopmans Vehicle Dynamics Model with Dual-branch Encoder for Distributed Electric-drive Trucks</a></div></td>
-<td>Jinyu Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17416">2603.17416</a></td>
 </tr>
 </tbody></table>

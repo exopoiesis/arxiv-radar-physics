@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Alejandro Calle-Saldarriaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17413">2606.17413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Oriol Vendrell-Gallart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Huanhuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
 <td>Jeffery Opoku et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17093.html">Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry</a></div></td>
+<td>Adam Haroon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17093">2606.17093</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -956,17 +986,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19165.html">Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Amartya Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19165">2603.19165</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17403.html">Large-Scale 3D Ground-Motion Synthesis with Physics-Inspired Latent Operator Flow Matching</a></div></td>
-<td>Yaozhong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17403">2603.17403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17532.html">Anisotropic Permeability Tensor Prediction from Porous Media Microstructure via Physics-Informed Progressive Transfer Learning with Hybrid CNN-Transformer</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Mohammad Nooraiepour</td>
-<td><a href="http://arxiv.org/abs/2603.17532">2603.17532</a></td>
 </tr>
 </tbody></table>

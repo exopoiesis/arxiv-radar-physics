@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02186.html">Residual test to search for microlensing signatures in strongly lensed gravitational wave signals</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Eungwang Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02186">2503.02186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03485.html">Accelerating HI density predictions during the Epoch of Reionization using a GPR-based emulator on N-body simulations</a></div></td>
-<td>Gaurav Pundir et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03485">2412.03485</a></td>
 </tr>
 </tbody></table>

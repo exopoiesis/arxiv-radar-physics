@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17120.html">Noise-Driven Escape from Metastable Phases explains Grokking in Deep Neural Networks</a></div></td>
+<td>Ibrahim Talha Ersoy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17120">2606.17120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
@@ -272,29 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21762.html">Inflationary Phase Transitions in the Early Universe: A Bayesian Study with Space-Based Gravitational Waves Detectors</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Qingyuan Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21762">2603.21762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22389.html">Convergent Discovery of Critical Phenomena Mathematics Across Disciplines</a></div></td>
-<td>Bruce Stephenson et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22389">2601.22389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12017.html">Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction</a></div></td>
-<td>Nuria H. Espejo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12017">2603.12017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17586.html">Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice</a></div></td>
-<td>Pengfei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17586">2603.17586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18211.html">Finite-size resource scaling for learning quantum phase transitions with fidelity-based support vector machines</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Aaqib Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18211">2603.18211</a></td>
 </tr>
 </tbody></table>

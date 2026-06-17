@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>time-series-prediction — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="time-series-prediction-7d.html">7d</a> <a href="time-series-prediction-30d.html">30d</a> <strong>90d</strong> <a href="time-series-prediction-360d.html">360d</a> <a href="time-series-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11175.html">The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Ali Karimi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11175">2508.11175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15886.html">PhasorFlow: A Python Library for Unit Circle Based Computing</a></div></td>
-<td>Dibakar Sigdel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15886">2603.15886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17433.html">The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle</a></div></td>
-<td>Dibakar Sigdel</td>
-<td><a href="http://arxiv.org/abs/2603.17433">2603.17433</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
+<td>Alejandro Calle-Saldarriaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17413">2606.17413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Oriol Vendrell-Gallart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Huanhuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
 <td>Jeffery Opoku et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17093.html">Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry</a></div></td>
+<td>Adam Haroon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17093">2606.17093</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>

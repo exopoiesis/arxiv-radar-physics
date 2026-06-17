@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
+<td>Alejandro Calle-Saldarriaga et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17413">2606.17413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Oriol Vendrell-Gallart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Huanhuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
 <td>Jeffery Opoku et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17093.html">Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry</a></div></td>
+<td>Adam Haroon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17093">2606.17093</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -80,23 +110,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div></td>
 <td>Clemens Wager et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Shaoqian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10370">2606.10370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10836.html">Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
-<td>Maximilian Ramgraber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10836">2606.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10873.html">Spatial Model Selection and Uncertainty Quantification: Comparing Continuous and Discrete Wound Healing Models</a></div></td>
-<td>John T. Nardini et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10873">2606.10873</a></td>
 </tr>
 </tbody></table>

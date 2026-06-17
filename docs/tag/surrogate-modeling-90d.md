@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19735.html">Surrogate Modeling with Low-Rank Function Representation for Electromagnetic Simulation</a></div></td>
 <td>Mingze Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19735">2603.19735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17867.html">RHYME-XT: A Neural Operator for Spatiotemporal Control Systems</a></div></td>
-<td>Marijn Ruiter et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17867">2603.17867</a></td>
 </tr>
 </tbody></table>

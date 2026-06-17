@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Huanhuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16124.html">Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div></td>
 <td>Yanbin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17342.html">Learning a Maximum Entropy Model for Visual Textures using Diffusion</a></div></td>
+<td>Xinyuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17342">2606.17342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -68,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
 <td>Gianluca Scarpellini et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17070.html">KFTD: Koopman-Fourier Time-Differentiable Network for Continuous Ocean Spatiotemporal Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Qinghui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17070">2606.17070</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -224,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a></div></td>
 <td>Stefaan Simon Pierre Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
 </tr>
 </tbody></table>

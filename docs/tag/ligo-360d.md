@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17214.html">CASPER: Interpretable ResNet based Classifier with FastShap Explainer for Gravitational Wave Detection</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
+<td>R. Rai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17214">2606.17214</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14229.html">Fortifying gravitational-wave population inference with normalizing flows</a></div></td>
 <td>Christian Adamcewicz et al.</td>
@@ -524,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20657.html">SuperSONIC: Cloud-Native Infrastructure for ML Inferencing</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Dmitry Kondratyev et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20657">2506.20657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17618.html">Black Hole Spectroscopy with Conditional Variational Autoencoder</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Akash K Mishra</td>
-<td><a href="http://arxiv.org/abs/2506.17618">2506.17618</a></td>
 </tr>
 </tbody></table>

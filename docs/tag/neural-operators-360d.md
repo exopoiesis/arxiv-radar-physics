@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">391 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Yahong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17460.html">Operator Boosting Produces Pareto-Efficient PDE Surrogates</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.17460">2606.17460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Oriol Vendrell-Gallart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18221.html">LGNO: A Local-Global Neural Operator for Hyperbolic Conservation Laws</a></div></td>
+<td>Hao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18221">2606.18221</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16602.html">PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates</a></div></td>
@@ -2336,11 +2360,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18427.html">Neural-operator element method: Efficient and scalable finite element method enabled by reusable neural operators</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Weihang Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18427">2506.18427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17582.html">LFR-PINO: A Layered Fourier Reduced Physics-Informed Neural Operator for Parametric PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17582">2506.17582</a></td>
 </tr>
 </tbody></table>

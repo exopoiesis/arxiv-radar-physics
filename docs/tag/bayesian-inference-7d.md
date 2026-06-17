@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
+<td>P. Bonifacio et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03707.html">Neutron Star Observations Challenge a Large Colour-Superconducting Gap in Dense Quark Matter</a></div></td>
 <td>Shao-Peng Tang et al.</td>
@@ -68,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12723.html">Spectroscopic modeling of ionic structure in stellar winds of high-mass X-ray binaries</a></div></td>
 <td>G. Sanjurjo-Ferrín et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12723">2606.12723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Shaoqian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10370">2606.10370</a></td>
 </tr>
 </tbody></table>

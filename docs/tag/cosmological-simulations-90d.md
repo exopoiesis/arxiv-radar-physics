@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmological-simulations — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <strong>90d</strong> <a href="cosmological-simulations-360d.html">360d</a> <a href="cosmological-simulations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02300.html">Revealing the neutrino mass through persistent homology of the cosmic web</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Jiaqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02300">2604.02300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11382.html">Islands in Simulated Cosmos: Probing the Hubble Flow around Groups and Clusters</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>David Benisty et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11382">2510.11382</a></td>
 </tr>
 </tbody></table>

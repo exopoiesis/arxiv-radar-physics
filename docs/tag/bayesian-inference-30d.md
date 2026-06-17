@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
+<td>P. Bonifacio et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03707.html">Neutron Star Observations Challenge a Large Colour-Superconducting Gap in Dense Quark Matter</a></div></td>
 <td>Shao-Peng Tang et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18495.html">Bayesian characterization of porous media using three-microphone tube method in extended frequency ranges</a></div></td>
 <td>Ziqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18495">2605.18495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17608.html">Bayesian-Monte Carlo Schedule Updating for Construction Digital Twins: A Probabilistic Framework for Dynamic Project Forecasting</a></div></td>
-<td>Atena Khoshkonesh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17608">2605.17608</a></td>
 </tr>
 </tbody></table>

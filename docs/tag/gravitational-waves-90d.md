@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17214.html">CASPER: Interpretable ResNet based Classifier with FastShap Explainer for Gravitational Wave Detection</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
+<td>R. Rai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17214">2606.17214</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13728.html">\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Shubham Kejriwal</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05558.html">Environmental Measurements in the Sedrun Access Shaft to the Gotthard Base Tunnel -- a Promising Site for a Long-Baseline Atom Interferometer</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>M. Guinchard et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05558">2603.05558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15984.html">Direct Inference of Nuclear Equation-of-State Parameters from Gravitational-Wave Observations</a></div></td>
-<td>Brendan T. Reed et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15984">2506.15984</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">625 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18149.html">How Sparse and How Noisy? Systematic Benchmarking of Inverse Physics-Informed Neural Networks for Manning Friction Estimation in Shallow Water Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Soheil Radfar</td>
+<td><a href="http://arxiv.org/abs/2606.18149">2606.18149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18175.html">A Convex Quasilinearization Method for Solving Nonlinear PDEs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Gbenga T. Awojinrin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -3752,23 +3764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19503.html">Physics-Informed Neural Networks for Industrial Gas Turbines: Recent Trends, Advancements and Challenges</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Afila Ajithkumar Sophiya et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19503">2506.19503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17582.html">LFR-PINO: A Layered Fourier Reduced Physics-Informed Neural Operator for Parametric PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17582">2506.17582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17681.html">Inferring viscoplastic models from velocity fields: a physics-informed neural network approach</a></div></td>
-<td>Martin Lardy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17681">2506.17681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17726.html">Numerical simulation of transient heat conduction with moving heat source using Physics Informed Neural Networks</a></div></td>
-<td>Anirudh Kalyan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17726">2506.17726</a></td>
 </tr>
 </tbody></table>

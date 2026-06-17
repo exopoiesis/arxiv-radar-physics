@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17214.html">CASPER: Interpretable ResNet based Classifier with FastShap Explainer for Gravitational Wave Detection</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
+<td>R. Rai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17214">2606.17214</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13728.html">\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Shubham Kejriwal</td>
@@ -476,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10398.html">Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts</a></div></td>
 <td>Niklas Houba</td>
 <td><a href="http://arxiv.org/abs/2503.10398">2503.10398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17618.html">Black Hole Spectroscopy with Conditional Variational Autoencoder</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Akash K Mishra</td>
-<td><a href="http://arxiv.org/abs/2506.17618">2506.17618</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17766.html">Operator Learning for PDE Backstepping Control of Parabolic Equations on Time-Varying Domains</a></div></td>
+<td>Jinrun Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17766">2606.17766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18200.html">A Diagnostic Software Suite for Auditing Learned PDE Simulators</a></div><div class="paper-tags"><a href="magnetohydrodynamics-90d.html">magnetohydrodynamics</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.18200">2606.18200</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
@@ -308,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18581.html">WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network</a></div></td>
 <td>Haotian Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18581">2603.18581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Purna Vindhya Kota et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
 </tr>
 </tbody></table>

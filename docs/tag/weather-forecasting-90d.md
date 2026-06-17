@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
+<td>Egor Bugaev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17659">2606.17659</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14353.html">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</a></div></td>
 <td>Muhannad Alhumaidi et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22314.html">Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction</a></div></td>
 <td>Peisong Niu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22314">2603.22314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15797.html">OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15797">2603.15797</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18837.html">Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
 <td>Rahul Halder et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18837">2603.18837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07034.html">Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Mikael Vaillant et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07034">2507.07034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17516.html">Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data</a></div></td>
-<td>Eric Diehl et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17516">2603.17516</a></td>
 </tr>
 </tbody></table>

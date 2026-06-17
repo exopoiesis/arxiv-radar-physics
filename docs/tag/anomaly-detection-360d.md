@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19077.html">Multimodal Anomaly Detection with a Mixture-of-Experts</a></div></td>
 <td>Christoph Willibald et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19077">2506.19077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17824.html">Quantum-Hybrid Support Vector Machines for Anomaly Detection in Industrial Control Systems</a></div></td>
-<td>Tyler Cultice et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17824">2506.17824</a></td>
 </tr>
 </tbody></table>

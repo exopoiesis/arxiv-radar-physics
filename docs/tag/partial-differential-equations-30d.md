@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Yahong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17460.html">Operator Boosting Produces Pareto-Efficient PDE Surrogates</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.17460">2606.17460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18175.html">A Convex Quasilinearization Method for Solving Nonlinear PDEs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Gbenga T. Awojinrin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
@@ -302,17 +320,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-30d.html">magnetohydrodynamics</a> · <a href="mhd-30d.html">mhd</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>E. A. Huerta</td>
 <td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Abderrahim Bendahi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28856.html">Inverse scattering for the linear system associated with the coupled Gerdjikov--Ivanov equations</a></div></td>
-<td>Ramazan Ercan</td>
-<td><a href="http://arxiv.org/abs/2605.28856">2605.28856</a></td>
 </tr>
 </tbody></table>

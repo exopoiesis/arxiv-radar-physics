@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Yahong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17460.html">Operator Boosting Produces Pareto-Efficient PDE Surrogates</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.17460">2606.17460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Oriol Vendrell-Gallart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18221.html">LGNO: A Local-Global Neural Operator for Hyperbolic Conservation Laws</a></div></td>
+<td>Hao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18221">2606.18221</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16602.html">PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates</a></div></td>
@@ -800,17 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19463.html">Deep Hilbert--Galerkin Methods for Infinite-Dimensional PDEs and Optimal Control</a></div></td>
 <td>Samuel N. Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19463">2603.19463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17523.html">Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Luca Pellegrini</td>
-<td><a href="http://arxiv.org/abs/2603.17523">2603.17523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Purna Vindhya Kota et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
 </tr>
 </tbody></table>

@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17529.html">Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
+<td>Meng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17529">2606.17529</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Julius H Ramlau et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16587">2606.16587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17121.html">Regularized Machine Learning for System Identification of Ship Free-Running Manoeuvres from CFD-Based Synthetic Data: A Comparative Study</a></div></td>
+<td>R. F. Suárez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17121">2606.17121</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-08</td>
@@ -1226,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Marco Laudato</td>
 <td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08217.html">DrivAer Transformer: A high-precision and fast prediction method for vehicle aerodynamic drag coefficient based on the DrivAerNet++ dataset</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Jiaqi He et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08217">2504.08217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00305.html">Learning Aerodynamics for the Control of Flying Humanoid Robots</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Antonello Paolino et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00305">2506.00305</a></td>
 </tr>
 </tbody></table>

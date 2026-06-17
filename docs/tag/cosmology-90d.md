@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Giulia Borghetto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16248.html">Benchmarking Exact, GP-Emulated, and Simulation-Based Inference for Late-Time Cosmology</a></div></td>
 <td>Sai Swagat Mishra</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19377.html">Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Dounia Nanadoumgar-Lacroze et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19377">2603.19377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17500.html">Tightening Cosmological Constraints Within and Beyond $Λ$CDM Using Gamma-Ray Bursts Calibrated with Type Ia Supernovae</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Wei Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17500">2603.17500</a></td>
 </tr>
 </tbody></table>

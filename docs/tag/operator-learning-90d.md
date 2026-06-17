@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Yahong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17672.html">When Rough Data Helps: A Phase Transition in Convergence Rates for Kernel Recovery in Integral Operators</a></div></td>
+<td>Jihong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17672">2606.17672</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Yong Wang et al.</td>
@@ -506,17 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22309.html">UniFluids: Unified Neural Operator Learning with Conditional Flow-matching</a></div></td>
 <td>Haosen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22309">2603.22309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05538.html">JAWS: Enhancing Long-term Rollout of Neural PDE Solvers via Spatially-Adaptive Jacobian Regularization</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Fengxiang Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05538">2603.05538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17847.html">A Continuous-Variable Quantum Fourier Layer: Applications to Filtering and PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Paolo Marcandelli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17847">2603.17847</a></td>
 </tr>
 </tbody></table>

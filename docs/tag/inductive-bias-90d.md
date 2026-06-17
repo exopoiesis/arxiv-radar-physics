@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17886.html">Monotonic Kolmogorov-Arnold Networks: A Theoretical and Empirical Study of Monotonicity as an Inductive Bias</a></div></td>
+<td>Mikhail Krasnov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17886">2606.17886</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16900.html">Factorized Neural Operators Decompose Dynamic and Persistent Responses</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Hao Tang et al.</td>
@@ -356,11 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19078.html">Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning</a></div></td>
 <td>Sangwoo Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19078">2603.19078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17855.html">Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation</a></div></td>
-<td>William Thorossian</td>
-<td><a href="http://arxiv.org/abs/2603.17855">2603.17855</a></td>
 </tr>
 </tbody></table>

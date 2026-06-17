@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
+<td>P. Bonifacio et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03707.html">Neutron Star Observations Challenge a Large Colour-Superconducting Gap in Dense Quark Matter</a></div></td>
@@ -812,17 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19377.html">Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Dounia Nanadoumgar-Lacroze et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19377">2603.19377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11382.html">Islands in Simulated Cosmos: Probing the Hubble Flow around Groups and Clusters</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>David Benisty et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11382">2510.11382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18129.html">Probing Kerr black hole in a uniform Bertotti-Robinson magnetic field through astrophysical quasi-periodic oscillations</a></div></td>
-<td>Hamza Rehman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18129">2603.18129</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
+<td>Giulia Borghetto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09276.html">ERBench: A Benchmark and Testsuite for Equation Discovery Algorithms</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Paul Kahlmeyer et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18548.html">SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Amanda A. Howard et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18548">2603.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17575.html">Unsupervised Symbolic Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Md Maruf Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17575">2603.17575</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10848.html">Data-driven surrogate models for forecasting experimentally measured fluid flows</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Peter I. Renn et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10848">2606.10848</a></td>
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18186.html">Kolmogorov Regression for Robust Diffusion Policies</a></div></td>
+<td>Lekan Molu</td>
+<td><a href="http://arxiv.org/abs/2606.18186">2606.18186</a></td>
 </tr>
 </tbody></table>

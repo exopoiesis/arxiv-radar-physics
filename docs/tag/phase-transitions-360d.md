@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17120.html">Noise-Driven Escape from Metastable Phases explains Grokking in Deep Neural Networks</a></div></td>
+<td>Ibrahim Talha Ersoy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17120">2606.17120</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Shuqi Tang et al.</td>
@@ -1046,11 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18764.html">Neural Total Variation Distance Estimators for Changepoint Detection in News Data</a></div></td>
 <td>Csaba Zsolnai et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18764">2506.18764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08190.html">U-WNO: U-Net Enhanced Wavelet Neural Operator for Solving Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Wei-Min Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08190">2408.08190</a></td>
 </tr>
 </tbody></table>

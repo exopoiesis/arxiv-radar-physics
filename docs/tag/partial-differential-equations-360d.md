@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Yahong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17460.html">Operator Boosting Produces Pareto-Efficient PDE Surrogates</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.17460">2606.17460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18175.html">A Convex Quasilinearization Method for Solving Nonlinear PDEs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Gbenga T. Awojinrin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Xi&#x27;an Li et al.</td>
@@ -4922,23 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17908.html">Robust PDE discovery under sparse and highly noisy conditions via attention neural networks</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Shilin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17908">2506.17908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19974.html">Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling</a></div></td>
-<td>Ruth E. Baker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19974">2504.19974</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17582.html">LFR-PINO: A Layered Fourier Reduced Physics-Informed Neural Operator for Parametric PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17582">2506.17582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17654.html">Rank Inspired Neural Network for solving linear partial differential equations</a></div></td>
-<td>Wentao Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17654">2506.17654</a></td>
 </tr>
 </tbody></table>

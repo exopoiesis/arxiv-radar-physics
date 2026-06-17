@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17766.html">Operator Learning for PDE Backstepping Control of Parabolic Equations on Time-Varying Domains</a></div></td>
+<td>Jinrun Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17766">2606.17766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18200.html">A Diagnostic Software Suite for Auditing Learned PDE Simulators</a></div><div class="paper-tags"><a href="magnetohydrodynamics-30d.html">magnetohydrodynamics</a></div></td>
+<td>Lennon J. Shikhman</td>
+<td><a href="http://arxiv.org/abs/2606.18200">2606.18200</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
 <td>Qian Qi</td>
@@ -92,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Hugo Melchers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17477.html">Rapid Vibration Suppression and Trajectory Tracking of a Serial Manipulator with Multi-Flexible Links</a></div></td>
-<td>Chengyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17477">2605.17477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18905.html">Stability and Discretization Error of State Space Model Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Abderrahim Bendahi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18905">2605.18905</a></td>
 </tr>
 </tbody></table>

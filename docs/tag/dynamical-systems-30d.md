@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
 <td>Zongren Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -92,6 +98,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08202.html">Vector Space of Cycles</a></div></td>
 <td>Moo K. Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08202">2606.08202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17070.html">KFTD: Koopman-Fourier Time-Differentiable Network for Continuous Ocean Spatiotemporal Forecasting</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Qinghui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17070">2606.17070</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>

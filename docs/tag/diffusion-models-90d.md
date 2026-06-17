@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Huanhuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16124.html">Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Ke Li et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div></td>
 <td>Yanbin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17342.html">Learning a Maximum Entropy Model for Visual Textures using Diffusion</a></div></td>
+<td>Xinyuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17342">2606.17342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -68,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
 <td>Gianluca Scarpellini et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17070.html">KFTD: Koopman-Fourier Time-Differentiable Network for Continuous Ocean Spatiotemporal Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Qinghui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17070">2606.17070</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -986,23 +1004,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19629.html">On the role of memorization in learned priors for geophysical inverse problems</a></div><div class="paper-tags"><a href="seismic-inversion-90d.html">seismic-inversion</a></div></td>
 <td>Ali Siahkoohi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19629">2603.19629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Purna Vindhya Kota et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20289.html">Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Heng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20289">2603.20289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22307.html">Full waveform inversion method based on diffusion model</a></div></td>
-<td>Caiyun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22307">2603.22307</a></td>
 </tr>
 </tbody></table>

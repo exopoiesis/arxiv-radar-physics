@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17614.html">Joint reconstruction of $H(z)$ and $fσ_8(z)$ with physics informed neural networks</a></div></td>
+<td>Konstantinos F. Dialektopoulos</td>
+<td><a href="http://arxiv.org/abs/2606.17614">2606.17614</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Giulia Borghetto et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
@@ -236,23 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19882.html">Modeling Quasar Photo-$z$ Distribution and Uncertainty. A Study Based on the Kilo-Degree Survey</a></div></td>
 <td>Kacper Drabicki et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19882">2603.19882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11382.html">Islands in Simulated Cosmos: Probing the Hubble Flow around Groups and Clusters</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmological-simulations-90d.html">cosmological-simulations</a></div></td>
-<td>David Benisty et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11382">2510.11382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17500.html">Tightening Cosmological Constraints Within and Beyond $Λ$CDM Using Gamma-Ray Bursts Calibrated with Type Ia Supernovae</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Wei Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17500">2603.17500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18223.html">Gamma-Ray Bursts as an Independent High-Redshift Probe of Dark Energy</a></div></td>
-<td>Maria Giovanna Dainotti et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18223">2603.18223</a></td>
 </tr>
 </tbody></table>

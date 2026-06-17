@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Daniel Waxman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14079.html">Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems</a></div></td>
 <td>Ryogo Tanaka et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Ana Larrañaga et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Shufeng Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Jiale Linghu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18713">2606.18713</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16090.html">Enhancing Quantum Machine Learning with Anyons</a></div></td>
@@ -788,17 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19805.html">Quantifying Gate Contribution in Quantum Feature Maps for Scalable Circuit Optimization</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>F. Rodríguez-Díaz et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19805">2603.19805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05912.html">Thermal-Drift Sampling: Generating Thermal Ensembles for Learning Many-Body Systems</a></div></td>
-<td>Jiyu Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05912">2602.05912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18479.html">Barren Plateaus Beyond Observable Concentration</a></div></td>
-<td>Zi-Shen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18479">2603.18479</a></td>
 </tr>
 </tbody></table>

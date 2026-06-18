@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.17659">2606.17659</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14353.html">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</a></div></td>
 <td>Muhannad Alhumaidi et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-30d.html">mlip</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18333.html">QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting</a></div></td>
-<td>Alberto Marchisio et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18333">2605.18333</a></td>
 </tr>
 </tbody></table>

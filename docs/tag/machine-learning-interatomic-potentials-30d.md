@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18691.html">Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning</a></div></td>
+<td>Youngwoo Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18691">2606.18691</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16859.html">Transferable machine learning of excited-state dynamics with extremal pooling</a></div></td>
 <td>Cesare Malosso et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Olga Zaghen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Bowen Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
 </tr>
 </tbody></table>

@@ -28,6 +28,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.17672">2606.17672</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18525.html">Hierarchical Attention via Domain Decomposition</a></div></td>
+<td>Stephan Köhler et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18525">2606.18525</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Yong Wang et al.</td>
@@ -164,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Ha Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17968.html">Function graph transformers universally approximate operators between function spaces</a></div></td>
-<td>Takashi Furuya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17968">2605.17968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19104.html">Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Branden Frieden et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19104">2605.19104</a></td>
 </tr>
 </tbody></table>

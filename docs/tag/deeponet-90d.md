@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.18200">2606.18200</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Georgia Foutsitzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16846.html">Deep Q-Learning on Hölder Spaces</a></div></td>
 <td>Qian Qi</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21308.html">Direct Interval Propagation Methods using Neural-Network Surrogates for Uncertainty Quantification in Physical Systems Surrogate Model</a></div></td>
 <td>Ghifari Adam Faza et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21308">2603.21308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18581.html">WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network</a></div></td>
-<td>Haotian Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18581">2603.18581</a></td>
 </tr>
 </tbody></table>

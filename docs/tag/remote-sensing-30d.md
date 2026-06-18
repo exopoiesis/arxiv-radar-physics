@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
+<td>Timothy Agboada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19277">2606.19277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17713.html">Heterogeneous SAR-optical fusion for near-real-time land use and land cover mapping under cloud contamination: A novel framework and global benchmark dataset</a></div></td>
@@ -182,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24003.html">Remote sensing data imputation using deep learning for multispectral imagery</a></div></td>
 <td>Shuang Liua et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24003">2605.24003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
-<td>Zhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17792">2605.17792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17980.html">Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution</a></div></td>
-<td>Bin Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17980">2605.17980</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18621.html">Towards Anomaly Detection on Relational Data</a></div></td>
+<td>Shiyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18621">2606.18621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Martin Uray et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16421.html">Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images</a></div></td>
 <td>Gyutae Hwang et al.</td>
@@ -506,17 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14154.html">An Edge-Cloud Collaborative Architecture for Proactive Elderly Care: Real-Time Risk Assessment and Three-Level Emergency Response</a></div></td>
 <td>Lijie Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14154">2604.14154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04839.html">Optimal Transport Event Representation for Anomaly Detection</a></div></td>
-<td>Tianji Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04839">2512.04839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08802.html">Explicit or Implicit? Encoding Physics at the Precision Frontier</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Victor Breso-Pla et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08802">2603.08802</a></td>
 </tr>
 </tbody></table>

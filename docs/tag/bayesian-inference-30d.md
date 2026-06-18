@@ -22,6 +22,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18378.html">Inferential Models: The Power of Auxiliary Variables for Reasoning with Scientific Uncertainty</a></div></td>
+<td>Chuanhai Liu</td>
+<td><a href="http://arxiv.org/abs/2606.18378">2606.18378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03707.html">Neutron Star Observations Challenge a Large Colour-Superconducting Gap in Dense Quark Matter</a></div></td>
 <td>Shao-Peng Tang et al.</td>
@@ -224,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21599.html">JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S</a></div></td>
 <td>Qiao Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21599">2605.21599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18097.html">Effects of formation channels and gravitational lensing on stochastic gravitational wave background</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="ligo-30d.html">ligo</a></div></td>
-<td>Xin-yi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18097">2605.18097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18495.html">Bayesian characterization of porous media using three-microphone tube method in extended frequency ranges</a></div></td>
-<td>Ziqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18495">2605.18495</a></td>
 </tr>
 </tbody></table>

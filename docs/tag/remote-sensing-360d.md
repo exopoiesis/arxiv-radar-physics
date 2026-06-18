@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
+<td>Timothy Agboada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19277">2606.19277</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17713.html">Heterogeneous SAR-optical fusion for near-real-time land use and land cover mapping under cloud contamination: A novel framework and global benchmark dataset</a></div></td>
 <td>Jiangong Xu et al.</td>
@@ -3488,11 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18946.html">DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Zhe Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18946">2506.18946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18006.html">OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model</a></div></td>
-<td>Shuaiyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18006">2506.18006</a></td>
 </tr>
 </tbody></table>

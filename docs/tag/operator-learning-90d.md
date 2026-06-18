@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17672.html">When Rough Data Helps: A Phase Transition in Convergence Rates for Kernel Recovery in Integral Operators</a></div></td>
 <td>Jihong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17672">2606.17672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18525.html">Hierarchical Attention via Domain Decomposition</a></div></td>
+<td>Stephan Köhler et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18525">2606.18525</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -512,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20602.html">Interpretable Operator Learning for Inverse Problems via Adaptive Spectral Filtering: Convergence and Discretization Invariance</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Hang-Cheng Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20602">2603.20602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22309.html">UniFluids: Unified Neural Operator Learning with Conditional Flow-matching</a></div></td>
-<td>Haosen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22309">2603.22309</a></td>
 </tr>
 </tbody></table>

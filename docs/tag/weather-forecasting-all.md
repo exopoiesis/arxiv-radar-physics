@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">303 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
 <td>Egor Bugaev et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17659">2606.17659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>

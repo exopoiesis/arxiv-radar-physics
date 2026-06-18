@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Jiale Linghu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18713">2606.18713</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16090.html">Enhancing Quantum Machine Learning with Anyons</a></div></td>
 <td>Da Zhang et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div></td>
 <td>Kenya Sakka et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13380">2606.13380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
-<td>Jeongho Bang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12211">2606.12211</a></td>
 </tr>
 </tbody></table>

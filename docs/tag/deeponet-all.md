@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">230 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18200.html">A Diagnostic Software Suite for Auditing Learned PDE Simulators</a></div><div class="paper-tags"><a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a></div></td>
 <td>Lennon J. Shikhman</td>
 <td><a href="http://arxiv.org/abs/2606.18200">2606.18200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Georgia Foutsitzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>

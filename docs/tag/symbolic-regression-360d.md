@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18975.html">On the robustness of the angular homogeneity scale $θ_H$: a comparative analysis of computational approaches</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Pedro Fanha et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18975">2606.18975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Giulia Borghetto et al.</td>
@@ -1214,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19550.html">Discovering Symmetries of ODEs by Symbolic Regression</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Paul Kahlmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19550">2506.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17908.html">Robust PDE discovery under sparse and highly noisy conditions via attention neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Shilin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17908">2506.17908</a></td>
 </tr>
 </tbody></table>

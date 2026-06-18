@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09422.html">A Robust Agentic Framework for Expert-Level Automation of Atomistic Simulations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Yutack Park et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25710.html">Machine Learning Multiscale Interactions</a></div></td>
 <td>Àlex Solé et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25710">2605.25710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Stefaan Simon Pierre Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
 </tr>
 </tbody></table>

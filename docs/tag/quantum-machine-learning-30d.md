@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Jiale Linghu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18713">2606.18713</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16090.html">Enhancing Quantum Machine Learning with Anyons</a></div></td>
@@ -170,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19417.html">Towards Fair Benchmarking of Quantum Transfer Learning for Visual Classification</a></div></td>
 <td>Nouhaila Innan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19417">2605.19417</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18345.html">Hybrid Quantum-Classical Neural Architecture Search</a></div></td>
-<td>Alberto Marchisio et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18345">2605.18345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18540.html">Discovering Data Encoding Strategies for Quantum-Classical Neural Networks Using Monte Carlo Tree Search</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Lena Tokuhiro et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18540">2605.18540</a></td>
 </tr>
 </tbody></table>

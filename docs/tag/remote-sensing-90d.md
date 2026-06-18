@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
+<td>Timothy Agboada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19277">2606.19277</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17713.html">Heterogeneous SAR-optical fusion for near-real-time land use and land cover mapping under cloud contamination: A novel framework and global benchmark dataset</a></div></td>
 <td>Jiangong Xu et al.</td>
@@ -890,11 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19858.html">Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response</a></div></td>
 <td>Alejandro D. Mousist et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19858">2603.19858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14637.html">Forest-Chat: Adapting Vision-Language Agents for Interactive Forest Change Analysis</a></div></td>
-<td>James Brock et al.</td>
-<td><a href="http://arxiv.org/abs/2601.14637">2601.14637</a></td>
 </tr>
 </tbody></table>

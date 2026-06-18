@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19144.html">Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction</a></div></td>
+<td>Jingyi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19144">2606.19144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18303.html">A Link between Shock-wave Theory and Symmetry-reduced Stochastic Gradient Descent for Artificial Neural Networks</a></div></td>
+<td>Taiki Miyagawa</td>
+<td><a href="http://arxiv.org/abs/2606.18303">2606.18303</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17120.html">Noise-Driven Escape from Metastable Phases explains Grokking in Deep Neural Networks</a></div></td>

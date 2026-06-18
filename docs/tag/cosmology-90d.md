@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18975.html">On the robustness of the angular homogeneity scale $θ_H$: a comparative analysis of computational approaches</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Pedro Fanha et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18975">2606.18975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Giulia Borghetto et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -332,17 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19600.html">Furax: A Modular JAX Framework for Linear Operators in Astrophysical and Cosmological Data Analysis</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Pierre Chanial et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19600">2603.19600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16003.html">Emulation of SPHEREx Galaxy Power Spectra I: Neural Network Details and Optimization</a></div></td>
-<td>Joseph Adamo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16003">2603.16003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19377.html">Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Dounia Nanadoumgar-Lacroze et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19377">2603.19377</a></td>
 </tr>
 </tbody></table>

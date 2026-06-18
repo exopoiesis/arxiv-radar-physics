@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
 <td>Huanhuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18464.html">Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection</a></div></td>
+<td>Isidro Gómez-Vargas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18464">2606.18464</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -98,17 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
 <td>Fabian Paischer et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Handi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div></td>
-<td>Clemens Wager et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
 </tr>
 </tbody></table>

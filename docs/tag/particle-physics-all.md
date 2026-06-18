@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="cosmology-all.html">cosmology</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13535.html">AgentRivet: an automated system for producing Rivet routines from journal publications</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-all.html">physics-beyond-the-standard-model</a></div></td>

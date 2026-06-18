@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18175.html">A Convex Quasilinearization Method for Solving Nonlinear PDEs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Gbenga T. Awojinrin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18417.html">Enhancing neural network extrapolation in thermo-fluid systems using steady-state solutions</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Sanjeeb Poudel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18417">2606.18417</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -1238,23 +1250,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22319.html">Sparsely-Supervised Data Assimilation via Physics-Informed Schrödinger Bridge</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Dohyun Bu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22319">2603.22319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01995.html">Locally-averaged McCormick relaxations for discretization-regularized inverse problems</a></div></td>
-<td>Barbara Kaltenbacher et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01995">2601.01995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19165.html">Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Amartya Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19165">2603.19165</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19526.html">A review of shape-morphing solutions and evolutional neural networks for spatiotemporal dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Mohammad Farazmand</td>
-<td><a href="http://arxiv.org/abs/2603.19526">2603.19526</a></td>
 </tr>
 </tbody></table>

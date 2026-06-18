@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18386.html">Reconstructing Galactic Gravitational Potentials from Stellar Kinematics with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a></div></td>
+<td>Charlotte Myers et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18386">2606.18386</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13527.html">Machine Learning Does It and Does It Better: Unearthing Primordial Dark-Matter Velocities from the Matter Power Spectrum</a></div></td>
 <td>Keith R. Dienes et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23549.html">Enhancing Neutrinoless Double-Beta Decay Sensitivity of Liquid-Xenon Time Projection Chamber with Augmented Convolutional Neural Network</a></div></td>
 <td>E. Aprile et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23549">2603.23549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18379.html">A Non-parametric Method for the Inference of Halo Occupation Distributions</a></div></td>
-<td>Jacob Kennedy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18379">2603.18379</a></td>
 </tr>
 </tbody></table>

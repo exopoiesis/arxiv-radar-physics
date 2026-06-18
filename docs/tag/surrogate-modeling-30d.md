@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18409.html">Learning Moment Maps for Continuous-Time Markov Chains under Monte Carlo Noise</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Madison Pratt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18409">2606.18409</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16587.html">Learning Interface Breakup: A Geometry-Conditioned Latent Surrogate for Spray Formation</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
@@ -116,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19565.html">HiLiftAeroML: High-Fidelity Computational Fluid Dynamics Dataset for High-Lift Aircraft Aerodynamics</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="les-30d.html">les</a> · <a href="rans-30d.html">rans</a></div></td>
 <td>Neil Ashton et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19565">2605.19565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19104.html">Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Branden Frieden et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19104">2605.19104</a></td>
 </tr>
 </tbody></table>

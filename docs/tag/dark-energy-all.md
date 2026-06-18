@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
 <td>Giulia Borghetto et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="cosmology-all.html">cosmology</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>

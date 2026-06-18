@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18759.html">A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Sheng-Gwo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18759">2606.18759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18874.html">Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness</a></div></td>
+<td>Zijian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18874">2606.18874</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18149.html">How Sparse and How Noisy? Systematic Benchmarking of Inverse Physics-Informed Neural Networks for Manning Friction Estimation in Shallow Water Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Soheil Radfar</td>
 <td><a href="http://arxiv.org/abs/2606.18149">2606.18149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Georgia Foutsitzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -1124,17 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00029.html">Spatio-Temporal Uncertainty-Modulated Physics-Informed Neural Networks for Solving Hyperbolic Conservation Laws with Strong Shocks</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Darui Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00029">2604.00029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08709.html">Multi-Preconditioned LBFGS for Training Finite-Basis PINNs</a></div></td>
-<td>Marc Salvadó-Benasco et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08709">2601.08709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19165.html">Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Amartya Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19165">2603.19165</a></td>
 </tr>
 </tbody></table>

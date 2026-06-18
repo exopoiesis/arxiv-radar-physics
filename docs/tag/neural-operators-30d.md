@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,23 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Hugo Melchers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18606.html">Physics-Aligned Canonical Equivariant Fourier Neural Operator under Symmetry-Induced Shifts</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Jiaxiao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18606">2605.18606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-30d.html">magnetohydrodynamics</a> · <a href="mhd-30d.html">mhd</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>E. A. Huerta</td>
-<td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19104.html">Neural Operators for Design-Space Surrogate Modeling of Tendon-Actuated Continuum Robots</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Branden Frieden et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19104">2605.19104</a></td>
 </tr>
 </tbody></table>

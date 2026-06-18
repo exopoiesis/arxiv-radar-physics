@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10335.html">A Physics-Informed B-Spline Framework for Continuous Approximation of Flow Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Junoh Jung et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="les-30d.html">les</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Luca Saverio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18606.html">Physics-Aligned Canonical Equivariant Fourier Neural Operator under Symmetry-Induced Shifts</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Jiaxiao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18606">2605.18606</a></td>
 </tr>
 </tbody></table>

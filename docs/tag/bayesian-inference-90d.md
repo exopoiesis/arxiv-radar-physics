@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
 <td>P. Bonifacio et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18378.html">Inferential Models: The Power of Auxiliary Variables for Reasoning with Scientific Uncertainty</a></div></td>
+<td>Chuanhai Liu</td>
+<td><a href="http://arxiv.org/abs/2606.18378">2606.18378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -788,35 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21410.html">Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing</a></div></td>
 <td>Haodong Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21410">2603.21410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18487.html">A systematic search for physical associations between fast radio bursts and astrophysical transients</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Hao-Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18487">2603.18487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18907.html">Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Riccardo Saporiti et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18907">2603.18907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18925.html">Improving moment tensor solutions under Earth structure uncertainty with simulation-based inference</a></div></td>
-<td>A. A. Saoulis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18925">2603.18925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18956.html">GRB 241030A: a bright afterglow challenging forward shock emission</a></div></td>
-<td>J. -G. Ducoin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18956">2603.18956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19377.html">Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Dounia Nanadoumgar-Lacroze et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19377">2603.19377</a></td>
 </tr>
 </tbody></table>

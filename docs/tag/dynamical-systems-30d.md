@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Simon Pedro Galeano Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18997">2606.18997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19145.html">OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems</a></div></td>
+<td>Till Richter et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19145">2606.19145</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18409.html">Learning Moment Maps for Continuous-Time Markov Chains under Monte Carlo Noise</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Madison Pratt et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18409">2606.18409</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
@@ -236,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>Thomas Savary et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18250.html">A Unified Framework for Structured Flow Modeling: From Continuous Fields to Data-Driven Representations</a></div></td>
-<td>Diego Casadei</td>
-<td><a href="http://arxiv.org/abs/2605.18250">2605.18250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18425.html">Generative Adversarial Learning from Deterministic Processes</a></div></td>
-<td>Joris C. Kühl et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18425">2605.18425</a></td>
 </tr>
 </tbody></table>

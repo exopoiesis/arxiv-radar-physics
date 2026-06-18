@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">538 papers</span>
+  <span class="paper-count">537 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Jiale Linghu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18713">2606.18713</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16090.html">Enhancing Quantum Machine Learning with Anyons</a></div></td>
@@ -3230,17 +3236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18260.html">Advanced For-Loop for QML algorithm search</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>FuTe Wong</td>
 <td><a href="http://arxiv.org/abs/2506.18260">2506.18260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05961.html">Quantum mechanical dataset of 836k neutral closed shell molecules with upto 5 heavy atoms from CNOFSiPSClBr</a></div></td>
-<td>Danish Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05961">2405.05961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18002.html">A Survey of Quantum Generative Adversarial Networks: Architectures, Use Cases, and Real-World Implementations</a></div></td>
-<td>Mujahidul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18002">2506.18002</a></td>
 </tr>
 </tbody></table>

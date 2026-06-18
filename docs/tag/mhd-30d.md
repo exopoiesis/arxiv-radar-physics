@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mhd — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <strong>30d</strong> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23121.html">NIMROD-to-IMAS workflow for extended-magnetohydrodynamic data with reusable datasets and implications for IMAS schema development</a></div></td>
 <td>Alexei Y. Pankin et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23121">2605.23121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-30d.html">magnetohydrodynamics</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>E. A. Huerta</td>
-<td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
 </tr>
 </tbody></table>

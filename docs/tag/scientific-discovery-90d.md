@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,17 +962,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20132.html">Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents</a></div></td>
 <td>Cen Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20132">2603.20132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17454.html">Automated Explanation Selection for Scientific Discovery</a></div></td>
-<td>Ashlin Iser</td>
-<td><a href="http://arxiv.org/abs/2407.17454">2407.17454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09632.html">Application of interpretable data-driven methods for the reconstruction of supernova neutrino energy spectra following fast neutrino flavor conversions</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Haihao Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09632">2507.09632</a></td>
 </tr>
 </tbody></table>

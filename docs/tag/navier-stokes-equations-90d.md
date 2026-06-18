@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.18175">2606.18175</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10335.html">A Physics-Informed B-Spline Framework for Continuous Approximation of Flow Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Junoh Jung et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22380.html">Symbolic Graph Networks for Robust PDE Discovery from Noisy Sparse Data</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Xingyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22380">2603.22380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18837.html">Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Rahul Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18837">2603.18837</a></td>
 </tr>
 </tbody></table>

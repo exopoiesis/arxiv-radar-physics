@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">835 papers</span>
+  <span class="paper-count">836 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Huanhuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18464.html">Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection</a></div></td>
+<td>Isidro Gómez-Vargas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18464">2606.18464</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>

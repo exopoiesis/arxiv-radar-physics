@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.17659">2606.17659</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Kuilin Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14353.html">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</a></div></td>
 <td>Muhannad Alhumaidi et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
 <td>Maida Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="cosmology-7d.html">cosmology</a></div></td>
-<td>Antonio Pagliaro et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
 </tr>
 </tbody></table>

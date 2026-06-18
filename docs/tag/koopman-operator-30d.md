@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19303.html">P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution</a></div></td>
+<td> Xizhuo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19303">2606.19303</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15094.html">Adaptive Deep Koopman Operator for Vehicle Dynamics Modeling: A Physics-Informed and Tire-Force-Driven Approach</a></div></td>
 <td>Wenjie Wang et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09369.html">Residual Pseudospectra Reveal a Physics-Informed Koopman Backbone for Tropical Pacific Variability and ENSO Prediction</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Paula Lorenzo-Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09369">2606.09369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18373.html">Dynamic robotic cloth folding with efficient Koopman operator-based model predictive control</a></div></td>
-<td>Edoardo Caldarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18373">2605.18373</a></td>
 </tr>
 </tbody></table>

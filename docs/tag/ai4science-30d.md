@@ -16,15 +16,15 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18936.html">SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety</a></div></td>
+<td>Linghao Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18936">2606.18936</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24558.html">Position: AI for Science Should Treat Measurement-to-Dataset Pipelines as Inference Components</a></div></td>
 <td>Ling Zhan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24558">2605.24558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18587.html">PACE: Geometry-Aware Bridge Transport for Single-Cell Trajectory Inference</a></div></td>
-<td>Chenglei Yu* et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18587">2605.18587</a></td>
 </tr>
 </tbody></table>

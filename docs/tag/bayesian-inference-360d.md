@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">447 papers</span>
+  <span class="paper-count">448 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
 <td>P. Bonifacio et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18378.html">Inferential Models: The Power of Auxiliary Variables for Reasoning with Scientific Uncertainty</a></div></td>
+<td>Chuanhai Liu</td>
+<td><a href="http://arxiv.org/abs/2606.18378">2606.18378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -2690,11 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02186.html">Residual test to search for microlensing signatures in strongly lensed gravitational wave signals</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Eungwang Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02186">2503.02186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00117.html">Binarity at LOw Metallicity (BLOeM): Pipeline-Determined Physical Properties of OB Stars</a></div></td>
-<td>J. M. Bestenlehner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00117">2506.00117</a></td>
 </tr>
 </tbody></table>

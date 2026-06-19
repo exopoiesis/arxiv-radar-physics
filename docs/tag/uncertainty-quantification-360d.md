@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">557 papers</span>
+  <span class="paper-count">558 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
+<td>Antonio Varagnolo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20497">2606.20497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
@@ -3344,17 +3362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20013.html">Escape and transport in chaotic motion of charged particles in a magnetized plasma under the influence of two and three modes of drift waves</a></div></td>
 <td>P. Haerter et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20013">2506.20013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18227.html">Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Zezhong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18227">2506.18227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18855.html">ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data</a></div></td>
-<td>Aviral Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18855">2506.18855</a></td>
 </tr>
 </tbody></table>

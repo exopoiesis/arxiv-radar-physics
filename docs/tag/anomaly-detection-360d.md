@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
+<td>Youji Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20055">2606.20055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18621.html">Towards Anomaly Detection on Relational Data</a></div></td>
@@ -1916,17 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19920.html">Graph theory inspired anomaly detection at the LHC</a></div></td>
 <td>Jack Y. Araz et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19920">2506.19920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18544.html">Normality Prior Guided Multi-Semantic Fusion Network for Unsupervised Image Anomaly Detection</a></div></td>
-<td>Muhao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18544">2506.18544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19077.html">Multimodal Anomaly Detection with a Mixture-of-Experts</a></div></td>
-<td>Christoph Willibald et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19077">2506.19077</a></td>
 </tr>
 </tbody></table>

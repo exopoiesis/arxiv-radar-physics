@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
+<td>Youji Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20055">2606.20055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18621.html">Towards Anomaly Detection on Relational Data</a></div></td>
@@ -506,17 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26745.html">Motion Semantics Guided Normalizing Flow for Privacy-Preserving Video Anomaly Detection</a></div></td>
 <td>Yang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26745">2603.26745</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20488.html">Spatio-Temporal Grid Intelligence: A Hybrid Graph Neural Network and LSTM Framework for Robust Electricity Theft Detection</a></div></td>
-<td>Adewale U. Oguntola et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20488">2603.20488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14154.html">An Edge-Cloud Collaborative Architecture for Proactive Elderly Care: Real-Time Risk Assessment and Three-Level Emergency Response</a></div></td>
-<td>Lijie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14154">2604.14154</a></td>
 </tr>
 </tbody></table>

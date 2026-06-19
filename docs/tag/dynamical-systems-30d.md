@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Juntian Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Simon Pedro Galeano Munoz et al.</td>
@@ -74,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Maida Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19368.html">Neural Architectures as Functional Priors in Physics-Informed Control Problems</a></div></td>
+<td>Sonia Rubio Herranz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19368">2606.19368</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -248,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21488.html">Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning</a></div></td>
 <td>Benhao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21488">2605.21488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
-<td>Siva Athreya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Thomas Savary et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
 </tr>
 </tbody></table>

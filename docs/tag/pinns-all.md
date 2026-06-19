@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">945 papers</span>
+  <span class="paper-count">949 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19754.html">Learning universal approximations for partial differential equations with Physics-Informed Broad Learning System</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Zhiwen Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19754">2606.19754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20156.html">Modularity-Free Conflict-Averse Training for Generalized PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Heejo Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20156">2606.20156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20442.html">Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Fedor Buzaev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20442">2606.20442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18759.html">A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Sheng-Gwo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18759">2606.18759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>

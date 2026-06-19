@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Christopher Cain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19539.html">Review of Machine Learning Models for Solar Energetic Particle Prediction</a></div></td>
+<td>Spiridon Kasapis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19539">2606.19539</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14622.html">Impact of non-Gaussian likelihood on cosmological constraints from the thermal Sunyaev--Zel&#x27;dovich power spectrum: a simulation-based inference analysis</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
@@ -194,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22461.html">Impact of eccentricity on the population properties of neutron star - black hole mergers</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
 <td>Gonzalo Morras et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22461">2603.22461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19600.html">Furax: A Modular JAX Framework for Linear Operators in Astrophysical and Cosmological Data Analysis</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Pierre Chanial et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19600">2603.19600</a></td>
 </tr>
 </tbody></table>

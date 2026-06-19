@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">273 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19895.html">A fast direct solver based neural network for solving PDEs</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
+<td>Jashwanth Reddy Kadaru et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19895">2606.19895</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -1646,17 +1652,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23440.html">The Sample Complexity of Learning Lipschitz Operators with respect to Gaussian Measures</a></div></td>
 <td>Ben Adcock et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23440">2410.23440</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11382.html">Holistic Physics Solver: Learning PDEs in a Unified Spectral-Physical Space</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Xihang Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11382">2410.11382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18427.html">Neural-operator element method: Efficient and scalable finite element method enabled by reusable neural operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Weihang Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18427">2506.18427</a></td>
 </tr>
 </tbody></table>

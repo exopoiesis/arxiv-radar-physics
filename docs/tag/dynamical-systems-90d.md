@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Juntian Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
@@ -74,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Maida Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19368.html">Neural Architectures as Functional Priors in Physics-Informed Control Problems</a></div></td>
+<td>Sonia Rubio Herranz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19368">2606.19368</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -1184,29 +1196,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20891.html">Auto-differentiable data assimilation: Co-learning of states, dynamics, and filtering algorithms</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Melissa Adrian et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20891">2603.20891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08964.html">The FABRIC Strategy for Verifying Neural Feedback Systems</a></div></td>
-<td>Samuel I. Akinwande et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08964">2603.08964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20102.html">Koopman and transfer operator techniques from the perspective of quantum theory</a></div></td>
-<td>Dimitrios Giannakis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20102">2603.20102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20467.html">Goal-oriented learning of stochastic dynamical systems using error bounds on path-space observables</a></div></td>
-<td>Joanna Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20467">2603.20467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20474.html">From Data to Laws: Neural Discovery of Conservation Laws Without False Positives</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Rahul D Ray</td>
-<td><a href="http://arxiv.org/abs/2603.20474">2603.20474</a></td>
 </tr>
 </tbody></table>

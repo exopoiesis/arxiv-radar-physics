@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-beyond-the-standard-model — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="physics-beyond-the-standard-model-7d.html">7d</a> <a href="physics-beyond-the-standard-model-30d.html">30d</a> <a href="physics-beyond-the-standard-model-90d.html">90d</a> <strong>360d</strong> <a href="physics-beyond-the-standard-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18986.html">Reconstructing Quasar Spectra and Measuring the Ly$α$ Forest with ${\rm S{\scriptsize pender}Q}$</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>ChangHoon Hahn et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18986">2506.18986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18981.html">Experimental Determination of BSM Triple Higgs Couplings at the HL-LHC with Neural Networks</a></div></td>
-<td>Markus Frank et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18981">2506.18981</a></td>
 </tr>
 </tbody></table>

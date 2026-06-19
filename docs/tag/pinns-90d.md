@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19754.html">Learning universal approximations for partial differential equations with Physics-Informed Broad Learning System</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Zhiwen Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19754">2606.19754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20156.html">Modularity-Free Conflict-Averse Training for Generalized PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Heejo Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20156">2606.20156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20442.html">Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Fedor Buzaev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20442">2606.20442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18759.html">A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Sheng-Gwo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18759">2606.18759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -1058,17 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20816.html">Preserving Conservation Laws in the Time-Evolving Natural Gradient Method via Relaxation and Projection Techniques</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Zihao Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20816">2603.20816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19545.html">Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton-Jacobi-Bellman Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Jun Liu</td>
-<td><a href="http://arxiv.org/abs/2603.19545">2603.19545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00029.html">Spatio-Temporal Uncertainty-Modulated Physics-Informed Neural Networks for Solving Hyperbolic Conservation Laws with Strong Shocks</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Darui Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00029">2604.00029</a></td>
 </tr>
 </tbody></table>

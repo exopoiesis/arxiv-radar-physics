@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Juntian Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
@@ -56,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14079.html">Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems</a></div></td>
 <td>Ryogo Tanaka et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14079">2606.14079</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12836.html">Interpretable model-free inference of parametric variation across time-series data through large-scale feature extraction</a></div></td>
-<td>Ben D. Fulcher et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12836">2606.12836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="rom-7d.html">rom</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Guglielmo Padula et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Maida Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
 </tr>
 </tbody></table>

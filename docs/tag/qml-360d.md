@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,11 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19275.html">A Qubit-Efficient Hybrid Quantum Encoding Mechanism for Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hevish Cowlessur et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19275">2506.19275</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18260.html">Advanced For-Loop for QML algorithm search</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>FuTe Wong</td>
-<td><a href="http://arxiv.org/abs/2506.18260">2506.18260</a></td>
 </tr>
 </tbody></table>

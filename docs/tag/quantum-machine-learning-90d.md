@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,11 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26739.html">Quantum Fuzzy Sets Revisited: Density Matrices, Decoherence, and the Q-Matrix Framework</a></div></td>
 <td>Mirco A. Mannucci</td>
 <td><a href="http://arxiv.org/abs/2603.26739">2603.26739</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19805.html">Quantifying Gate Contribution in Quantum Feature Maps for Scalable Circuit Optimization</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>F. Rodríguez-Díaz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19805">2603.19805</a></td>
 </tr>
 </tbody></table>

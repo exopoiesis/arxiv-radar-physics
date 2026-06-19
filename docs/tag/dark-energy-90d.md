@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19427.html">Physics-guided discovery of dynamical dark-energy equations of state through iterative AI reasoning</a></div></td>
+<td>Clecio R. Bom et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19427">2606.19427</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17614.html">Joint reconstruction of $H(z)$ and $fσ_8(z)$ with physics informed neural networks</a></div></td>
 <td>Konstantinos F. Dialektopoulos</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21127.html">Testing General Relativity on Galactic Scales via DESI-BAO and Strong Lensing: Circumventing Assumptions on the Hubble Constant, Sound Horizon, and Dark Energy</a></div><div class="paper-tags"><a href="strong-lensing-90d.html">strong-lensing</a></div></td>
 <td>Hengyu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21127">2603.21127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19882.html">Modeling Quasar Photo-$z$ Distribution and Uncertainty. A Study Based on the Kilo-Degree Survey</a></div></td>
-<td>Kacper Drabicki et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19882">2603.19882</a></td>
 </tr>
 </tbody></table>

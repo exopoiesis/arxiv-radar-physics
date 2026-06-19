@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <strong>30d</strong> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Ali Ramlaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
 <td>Egor Bugaev et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14353.html">Can Deep Neural Networks Improve Compression of Very Large Scientific Data?</a></div></td>
 <td>Muhannad Alhumaidi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14353">2606.14353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Maida Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
 </tr>
 </tbody></table>

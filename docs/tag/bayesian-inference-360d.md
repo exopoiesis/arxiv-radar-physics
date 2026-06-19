@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Christopher Cain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
 <td>P. Bonifacio et al.</td>
@@ -2696,11 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13814.html">Building Population-Informed Priors for Bayesian Inference Using Data-Consistent Stochastic Inversion</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Rebekah D. White et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13814">2407.13814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02186.html">Residual test to search for microlensing signatures in strongly lensed gravitational wave signals</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Eungwang Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02186">2503.02186</a></td>
 </tr>
 </tbody></table>

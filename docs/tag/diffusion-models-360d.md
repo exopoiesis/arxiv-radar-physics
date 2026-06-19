@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19729.html">VOiLA: Vectorized Online Planning with Learned Diffusion Model for POMDP Agents</a></div></td>
+<td>Marcus Hoerger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19729">2606.19729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Juntian Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20110.html">FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model</a></div></td>
+<td>Yuhwan Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20110">2606.20110</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Simon Pedro Galeano Munoz et al.</td>
@@ -3686,23 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19488.html">SceneCrafter: Controllable Multi-View Driving Scene Editing</a></div></td>
 <td>Zehao Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19488">2506.19488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00751.html">InstructAttribute: Fine-grained Object Attributes editing with Instruction</a></div></td>
-<td>Xingxi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18227.html">Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Zezhong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18227">2506.18227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18946.html">DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Zhe Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18946">2506.18946</a></td>
 </tr>
 </tbody></table>

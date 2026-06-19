@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
+<td>Antonio Varagnolo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20497">2606.20497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="sciml-7d.html">sciml</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
@@ -74,35 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Chengyang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Henry Shaowu Yuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12857">2606.12857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div></td>
-<td>Mao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div></td>
-<td>Ioannis Kouroudis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="rom-7d.html">rom</a></div></td>
-<td>Guglielmo Padula et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
-<td>Fabian Paischer et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 </tbody></table>

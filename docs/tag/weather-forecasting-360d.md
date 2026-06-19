@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
 <td>Egor Bugaev et al.</td>
@@ -1034,11 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21465.html">Optimising 4th-Order Runge-Kutta Methods: A Dynamic Heuristic Approach for Efficiency and Low Storage</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Gavin Lee Goodship et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21465">2506.21465</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19088.html">Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes</a></div></td>
-<td>Fanny Lehmann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19088">2506.19088</a></td>
 </tr>
 </tbody></table>

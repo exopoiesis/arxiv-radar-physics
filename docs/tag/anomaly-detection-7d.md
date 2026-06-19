@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
+<td>Youji Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20055">2606.20055</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18621.html">Towards Anomaly Detection on Relational Data</a></div></td>
 <td>Shiyuan Li et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14857.html">Chopping and distilling variational autoencoders for real-time anomaly detection in high energy physics</a></div><div class="paper-tags"><a href="high-energy-physics-7d.html">high-energy-physics</a></div></td>
 <td>Max Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14857">2606.14857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13780.html">Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches</a></div></td>
-<td>Jack Y. Araz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13780">2606.13780</a></td>
 </tr>
 </tbody></table>

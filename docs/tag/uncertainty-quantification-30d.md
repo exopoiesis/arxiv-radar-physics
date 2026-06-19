@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
+<td>Antonio Varagnolo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20497">2606.20497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="sciml-30d.html">sciml</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
@@ -278,29 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23101.html">Mode-Shape Expansion Using Physics-Constrained Gaussian Process Regression</a></div></td>
 <td>Farid Ghahari</td>
 <td><a href="http://arxiv.org/abs/2605.23101">2605.23101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Jimeng Shi</td>
-<td><a href="http://arxiv.org/abs/2605.19366">2605.19366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-30d.html">mlip</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-30d.html">seismic-inversion</a></div></td>
-<td>Ipsita Bhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24009.html">Improving Ensemble CAPE Forecasts with a Diffusion Model Incorporating Aerosol Information</a></div></td>
-<td>Zachary James et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24009">2605.24009</a></td>
 </tr>
 </tbody></table>

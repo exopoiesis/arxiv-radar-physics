@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19785.html">Boltzmann-constrained extraction of spin splitting and momentum relaxation in d-wave altermagnets</a></div></td>
+<td>Y. X. Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19785">2606.19785</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
 <td>Chaoqun Zhang et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22099.html">Overcoming sampling limitations using machine-learned interatomic potentials: the case of water-in-salt electrolytes</a></div></td>
 <td>Luca Brugnoli et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22099">2603.22099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20451.html">More converged, less accurate? Reassessing standard choices for ab initio water using machine learning potentials</a></div></td>
-<td>Hubert Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20451">2603.20451</a></td>
 </tr>
 </tbody></table>

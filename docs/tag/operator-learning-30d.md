@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19895.html">A fast direct solver based neural network for solving PDEs</a></div><div class="paper-tags"><a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
+<td>Jashwanth Reddy Kadaru et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19895">2606.19895</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Yahong Yang et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Adrien Weihs et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Ha Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
 </tr>
 </tbody></table>

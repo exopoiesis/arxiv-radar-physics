@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="cosmology-7d.html">cosmology</a></div></td>
+<td>Christopher Cain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
@@ -56,29 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14197.html">Licence to Bin: Accurate and Scalable Inference for Binary Neutron Stars in Next-Generation Gravitational-Wave Detectors</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
 <td>Nir Guttman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14197">2606.14197</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12931.html">Tests of general relativity at the fourth post-Newtonian order with GW230627 and GW250114</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a></div></td>
-<td>Xi-Min Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12931">2606.12931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13004.html">3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching</a></div></td>
-<td>A. Asensio Ramos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13004">2606.13004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13114.html">Disentangling the origin of degradation in perovskite solar cells via optical imaging and Bayesian inference</a></div></td>
-<td>Akash Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13114">2606.13114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13728.html">\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a></div></td>
-<td>Shubham Kejriwal</td>
-<td><a href="http://arxiv.org/abs/2606.13728">2606.13728</a></td>
 </tr>
 </tbody></table>

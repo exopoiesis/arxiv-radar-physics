@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19427.html">Physics-guided discovery of dynamical dark-energy equations of state through iterative AI reasoning</a></div></td>
+<td>Clecio R. Bom et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19427">2606.19427</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17614.html">Joint reconstruction of $H(z)$ and $fσ_8(z)$ with physics informed neural networks</a></div></td>
 <td>Konstantinos F. Dialektopoulos</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Simran Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22862.html">Constraining Black Hole Parameters in Non-Commutative Geometry using Machine Learning</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
-<td>Maryem Jemri</td>
-<td><a href="http://arxiv.org/abs/2605.22862">2605.22862</a></td>
 </tr>
 </tbody></table>

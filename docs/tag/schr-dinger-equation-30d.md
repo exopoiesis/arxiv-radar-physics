@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19895.html">A fast direct solver based neural network for solving PDEs</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Jashwanth Reddy Kadaru et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19895">2606.19895</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17023.html">Reconstruction of time-dependent coefficients in a semilinear dynamical Schr{ö}dinger equation</a></div></td>
 <td>Parveen Kumar et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03848.html">Generating quantum ensembles via reverse-time quantum diffusions</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Maël Bompais et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03848">2606.03848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20004.html">A note on several inverse problems with generally random coefficients</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Cătălin I. Cârstea</td>
-<td><a href="http://arxiv.org/abs/2605.20004">2605.20004</a></td>
 </tr>
 </tbody></table>

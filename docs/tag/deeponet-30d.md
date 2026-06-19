@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>deeponet — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <strong>30d</strong> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20015.html">Adaptive Distance-Aware Trunk Deep Operator Learning for Long-Span Roadway Bridges</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
+<td>Bilal Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20015">2606.20015</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17766.html">Operator Learning for PDE Backstepping Control of Parabolic Equations on Time-Varying Domains</a></div></td>
@@ -98,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Adrien Weihs et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Ha Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Hugo Melchers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
 </tr>
 </tbody></table>

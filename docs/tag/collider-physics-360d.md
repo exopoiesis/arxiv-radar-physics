@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>collider-physics — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="collider-physics-7d.html">7d</a> <a href="collider-physics-30d.html">30d</a> <a href="collider-physics-90d.html">90d</a> <strong>360d</strong> <a href="collider-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22059.html">Stable and Interpretable Jet Physics with IRC-Safe Equivariant Feature Extraction</a></div></td>
 <td>Partha Konar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22059">2509.22059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18987.html">Efficient many-jet event generation with Flow Matching</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Enrico Bothmann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18987">2506.18987</a></td>
 </tr>
 </tbody></table>

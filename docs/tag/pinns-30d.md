@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19754.html">Learning universal approximations for partial differential equations with Physics-Informed Broad Learning System</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Zhiwen Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19754">2606.19754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20156.html">Modularity-Free Conflict-Averse Training for Generalized PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Heejo Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20156">2606.20156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20442.html">Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Fedor Buzaev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20442">2606.20442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18759.html">A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Sheng-Gwo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18759">2606.18759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="sciml-30d.html">sciml</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Gabriel F. Barros et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -254,35 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Joseph Nyangon</td>
 <td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Jianan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19263">2605.19263</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19564.html">A Spline-based Physics-Informed Numerical Scheme: Accurate Smooth Solutions for Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Ayman Mourad et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19564">2605.19564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19856.html">StableGrad: Backward Scale Control without Batch Normalization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Jose I. Mestre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19886.html">Constraint-Aware Physics-Informed Neural Networks for SEIR Reaction-Diffusion Epidemic Models with Vital Dynamics</a></div></td>
-<td>Achraf Zinihi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19886">2605.19886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>O. Kounchev et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 </tbody></table>

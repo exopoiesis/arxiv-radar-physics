@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Christopher Cain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19539.html">Review of Machine Learning Models for Solar Energetic Particle Prediction</a></div></td>
+<td>Spiridon Kasapis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19539">2606.19539</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14622.html">Impact of non-Gaussian likelihood on cosmological constraints from the thermal Sunyaev--Zel&#x27;dovich power spectrum: a simulation-based inference analysis</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
@@ -758,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20657.html">SuperSONIC: Cloud-Native Infrastructure for ML Inferencing</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Dmitry Kondratyev et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20657">2506.20657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18277.html">HAWC Performance Enhanced by Machine Learning in Gamma-Hadron Separation</a></div></td>
-<td>R. Alfaro et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18277">2506.18277</a></td>
 </tr>
 </tbody></table>

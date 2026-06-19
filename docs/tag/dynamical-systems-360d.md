@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">707 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Juntian Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -74,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13422.html">Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Maida Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13422">2606.13422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19368.html">Neural Architectures as Functional Priors in Physics-Informed Control Problems</a></div></td>
+<td>Sonia Rubio Herranz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19368">2606.19368</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -4250,11 +4262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19550.html">Discovering Symmetries of ODEs by Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Paul Kahlmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19550">2506.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18250.html">Filtrations Indexed by Attracting Levels and their Applications</a></div></td>
-<td>Yusuke Imoto et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18250">2506.18250</a></td>
 </tr>
 </tbody></table>

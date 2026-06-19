@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14913.html">Structure-Informed Neural Operators for Long-Time Prediction of Parametric Hamiltonian PDEs</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Victory C. Obieke et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14913">2606.14913</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13443.html">How Much Memory Do We Need? Adaptive Memory Gate for Neural Operators</a></div></td>
-<td>Jihyeon Hur et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13443">2606.13443</a></td>
 </tr>
 </tbody></table>

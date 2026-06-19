@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Anna Asch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17659.html">Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific</a></div></td>
 <td>Egor Bugaev et al.</td>
@@ -332,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21284.html">Sonny: Breaking the Compute Wall in Medium-Range Weather Forecasting</a></div></td>
 <td>Minjong Cheon</td>
 <td><a href="http://arxiv.org/abs/2603.21284">2603.21284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22314.html">Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction</a></div></td>
-<td>Peisong Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22314">2603.22314</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mhd — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <strong>90d</strong> <a href="mhd-360d.html">360d</a> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02139.html">Application of parametric Shallow Recurrent Decoder Network to magnetohydrodynamic flows in liquid metal blankets of fusion reactors</a></div></td>
 <td>M. Lo Verso et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02139">2604.02139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20502.html">Modeling Temperature Profiles in the Pedestal of NSTX with Reduced Models</a></div></td>
-<td>P. -Y. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20502">2603.20502</a></td>
 </tr>
 </tbody></table>

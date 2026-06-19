@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20634.html">CFNN: Continued Fraction Neural Network</a></div></td>
 <td>Chao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20634">2603.20634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19078.html">Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning</a></div></td>
-<td>Sangwoo Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19078">2603.19078</a></td>
 </tr>
 </tbody></table>

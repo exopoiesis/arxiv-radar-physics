@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">535 papers</span>
+  <span class="paper-count">534 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3218,11 +3218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24765.html">Supervised Quantum Machine Learning: A Future Outlook from Qubits to Enterprise Applications</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Srikanth Thudumu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24765">2505.24765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19275.html">A Qubit-Efficient Hybrid Quantum Encoding Mechanism for Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Hevish Cowlessur et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19275">2506.19275</a></td>
 </tr>
 </tbody></table>

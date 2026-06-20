@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,11 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26751.html">Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models</a></div></td>
 <td>Qionghao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26751">2603.26751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01498.html">Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection</a></div></td>
-<td>Kai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01498">2603.01498</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">500 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3014,17 +3014,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20743.html">A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools</a></div></td>
 <td>Minh-Hao Van et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20743">2506.20743</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19613.html">Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI</a></div></td>
-<td>Sha Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19613">2506.19613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19724.html">From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking</a></div></td>
-<td>Gyeongwon James Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19724">2506.19724</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">558 papers</span>
+  <span class="paper-count">557 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3356,11 +3356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20839.html">Uncertainty-Aware Machine-Learning Framework for Predicting Dislocation Plasticity and Stress-Strain Response in FCC Alloys</a></div></td>
 <td>Jing Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20839">2506.20839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20013.html">Escape and transport in chaotic motion of charged particles in a magnetized plasma under the influence of two and three modes of drift waves</a></div></td>
-<td>P. Haerter et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20013">2506.20013</a></td>
 </tr>
 </tbody></table>

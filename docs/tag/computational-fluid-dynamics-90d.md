@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20240.html">Tensor Train Representation of High-Dimensional Unsteady Flamelet Manifolds</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Sinan Demir et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20240">2603.20240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28791.html">Learning 3D Hypersonic Flow with Physics-Enhanced Neural Fields: A Case Study on the Orion Reentry Capsule</a></div></td>
-<td>Haitz Sáez de Ocáriz Borde et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28791">2603.28791</a></td>
 </tr>
 </tbody></table>

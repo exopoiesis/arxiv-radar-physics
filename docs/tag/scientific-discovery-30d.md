@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,23 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24043.html">LLM-AutoSciLab: Closed-Loop Scientific Discovery via Active Experimentation with LLMs</a></div></td>
 <td>Sanchit Kabra et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24043">2605.24043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div></td>
-<td>Kevin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21740">2605.21740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21820.html">Beyond Scalar Objectives: Expert-Feedback-Driven Autonomous Experimentation for Scientific Discovery at the Nanoscale</a></div></td>
-<td>Ralph Bulanadi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21820">2605.21820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24018.html">EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery</a></div></td>
-<td>Xiaoyu Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24018">2605.24018</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,35 +992,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03275.html">IPSL-AID: Generative Diffusion Models for Climate Downscaling from Global to Regional Scales</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Kishanthan Kingston et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03275">2604.03275</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16474.html">Foresight Diffusion: Improving Sampling Consistency in Predictive Diffusion Models</a></div></td>
-<td>Yu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16474">2505.16474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17090.html">Neural Stochastic Differential Equations on Compact State Spaces: Theory, Methods, and Application to Suicide Risk Modeling</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Malinda Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17090">2508.17090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20582.html">Generative Diffusion Model for Risk-Neutral Derivative Pricing</a></div></td>
-<td>Nilay Tiwari</td>
-<td><a href="http://arxiv.org/abs/2603.20582">2603.20582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20828.html">EruDiff: Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis</a></div></td>
-<td>Xiefan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20828">2603.20828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20902.html">Virtual receiver functions via conditional diffusion transformers for robust crustal imaging</a></div></td>
-<td>Tiente R. Koireng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20902">2603.20902</a></td>
 </tr>
 </tbody></table>

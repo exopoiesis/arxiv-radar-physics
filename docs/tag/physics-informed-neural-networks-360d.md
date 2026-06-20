@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">636 papers</span>
+  <span class="paper-count">634 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3818,17 +3818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20441.html">Méthode de quadrature pour les PINNs fondée théoriquement sur la hessienne des résiduels</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Antoine Caradot et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20441">2506.20441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19243.html">High precision PINNs in unbounded domains: application to singularity formulation in PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yixuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19243">2506.19243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19503.html">Physics-Informed Neural Networks for Industrial Gas Turbines: Recent Trends, Advancements and Challenges</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Afila Ajithkumar Sophiya et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19503">2506.19503</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">821 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4940,17 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20764.html">Control and optimization for Neural Partial Differential Equations in Supervised Learning</a></div></td>
 <td>Alain Bensoussan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20764">2506.20764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13248.html">Neural network-based Godunov corrections for approximate Riemann solvers using bi-fidelity learning</a></div></td>
-<td>Akshay Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13248">2503.13248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19396.html">Maximal Update Parametrization and Zero-Shot Hyperparameter Transfer for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Shanda Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19396">2506.19396</a></td>
 </tr>
 </tbody></table>

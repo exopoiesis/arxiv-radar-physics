@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3452,35 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22501.html">How Can Multimodal Remote Sensing Datasets Transform Classification via SpatialNet-ViT?</a></div></td>
 <td>Gautam Siddharth Kashyap et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22501">2506.22501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09922.html">Cross-sensor self-supervised training and alignment for remote sensing</a></div></td>
-<td>Valerio Marsocci et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09922">2405.09922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11299.html">MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Yepeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11299">2501.11299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19561.html">MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image Classification</a></div></td>
-<td>Minjong Cheon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19561">2506.19561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19585.html">SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images</a></div></td>
-<td>Gencer Sumbul et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19585">2506.19585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19656.html">Video Compression for Spatiotemporal Earth System Data</a></div></td>
-<td>Oscar J. Pellicer-Valero et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19656">2506.19656</a></td>
 </tr>
 </tbody></table>

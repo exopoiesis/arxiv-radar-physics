@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22147.html">Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Jiangwei Mo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22147">2605.22147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20997.html">Hybrid Machine Learning Model for Forest Height Estimation from TanDEM-X and Landsat Data</a></div></td>
-<td>Islam Mansour et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20997">2605.20997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21268.html">Vision Transformers and Convolutional Neural Networks for Land Use Scene Classification</a></div></td>
-<td>Arun D. Kulkarni</td>
-<td><a href="http://arxiv.org/abs/2605.21268">2605.21268</a></td>
 </tr>
 </tbody></table>

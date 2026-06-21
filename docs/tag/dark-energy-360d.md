@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,11 +776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03260.html">Photometric Redshift Predictions with a Neural Network for DESI Quasars</a></div></td>
 <td>Jeremy P. Moss et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03260">2507.03260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18986.html">Reconstructing Quasar Spectra and Measuring the Ly$α$ Forest with ${\rm S{\scriptsize pender}Q}$</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
-<td>ChangHoon Hahn et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18986">2506.18986</a></td>
 </tr>
 </tbody></table>

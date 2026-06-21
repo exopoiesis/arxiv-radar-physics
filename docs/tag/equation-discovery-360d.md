@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19487.html">Data-Efficient Symbolic Regression via Foundation Model Distillation</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Wangyang Ying et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19487">2508.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20694.html">Evaluating PDE discovery methods for multiscale modeling of biological signals</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Andréa Ducos et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20694">2506.20694</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,17 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21684.html">KSZ Velocity Reconstruction with ACT and DESI-LS using a Tomographic QML Power Spectrum Estimator</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Anderson C. M. Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21684">2506.21684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12050.html">Representation Learning with Parameterised Quantum Circuits for Advancing Speech Emotion Recognition</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Thejan Rajapakshe et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12050">2501.12050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24765.html">Supervised Quantum Machine Learning: A Future Outlook from Qubits to Enterprise Applications</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Srikanth Thudumu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24765">2505.24765</a></td>
 </tr>
 </tbody></table>

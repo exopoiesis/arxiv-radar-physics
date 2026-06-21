@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,11 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21405.html">An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems</a></div></td>
 <td>Lena Baumann et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21405">2506.21405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20237.html">Time and covariance smoothing for restoration of bivariate signals</a></div></td>
-<td>Yusuf Yigit Pilavci et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20237">2506.20237</a></td>
 </tr>
 </tbody></table>

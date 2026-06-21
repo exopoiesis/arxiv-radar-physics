@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05291.html">Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity</a></div></td>
 <td>Manuel Ricardo Guevara Garban et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05291">2507.05291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00460.html">Subspace-Distance-Enabled Active Learning for Efficient Data-Driven Model Reduction of Parametric Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Harshit Kapadia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00460">2505.00460</a></td>
 </tr>
 </tbody></table>

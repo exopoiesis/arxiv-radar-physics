@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26210.html">Field-level multi-tracers simulation-based inference of cosmological parameters from 3D maps</a></div></td>
 <td>Giulio Scelfo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26210">2605.26210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22489.html">Machine Learning Techniques for Astrophysics and Cosmology: Lyman-$α$ forest</a></div></td>
-<td>Jonás Chaves-Montero</td>
-<td><a href="http://arxiv.org/abs/2605.22489">2605.22489</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,23 +1238,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22380.html">Symbolic Graph Networks for Robust PDE Discovery from Noisy Sparse Data</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Xingyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22380">2603.22380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05133.html">Learning Hidden Physics and System Parameters with Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Dibakar Roy Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05133">2412.05133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18131.html">Randomness and signal propagation in physics-informed neural networks (PINNs): A neural PDE perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jean-Michel Tucny et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18131">2509.18131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21315.html">FluidWorld: Reaction-Diffusion Dynamics as a Predictive Substrate for World Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Fabien Polly</td>
-<td><a href="http://arxiv.org/abs/2603.21315">2603.21315</a></td>
 </tr>
 </tbody></table>

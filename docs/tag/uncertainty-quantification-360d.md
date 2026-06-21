@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">557 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3338,23 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13238.html">Robust Inference for the Direct Average Treatment Effect with Treatment Assignment Interference</a></div></td>
 <td>Matias D. Cattaneo et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13238">2502.13238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20135.html">Multivariate unbounded quantum regression via log-ratio probabilities mitigating barren plateaus</a></div></td>
-<td>Jaemin Seo</td>
-<td><a href="http://arxiv.org/abs/2506.20135">2506.20135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20799.html">Structural System Identification via Validation and Adaptation</a></div></td>
-<td>Cristian López et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20799">2506.20799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20839.html">Uncertainty-Aware Machine-Learning Framework for Predicting Dislocation Plasticity and Stress-Strain Response in FCC Alloys</a></div></td>
-<td>Jing Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20839">2506.20839</a></td>
 </tr>
 </tbody></table>

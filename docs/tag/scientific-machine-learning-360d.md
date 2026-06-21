@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.24101.html">Learning Structured Population Models from Data with WSINDy</a></div></td>
 <td>Rainey Lyons et al.</td>
 <td><a href="http://arxiv.org/abs/2506.24101">2506.24101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20341.html">A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Marco Laudato</td>
-<td><a href="http://arxiv.org/abs/2506.20341">2506.20341</a></td>
 </tr>
 </tbody></table>

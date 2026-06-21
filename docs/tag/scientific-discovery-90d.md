@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,11 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22376.html">AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access</a></div></td>
 <td>Liwei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22376">2603.22376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21344.html">The AI Scientific Community: Agentic Virtual Lab Swarms</a></div></td>
-<td>Ulisses Braga-Neto</td>
-<td><a href="http://arxiv.org/abs/2603.21344">2603.21344</a></td>
 </tr>
 </tbody></table>

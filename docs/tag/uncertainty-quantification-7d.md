@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
 <td>Jeffery Opoku et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17093.html">Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry</a></div></td>
-<td>Adam Haroon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17093">2606.17093</a></td>
 </tr>
 </tbody></table>

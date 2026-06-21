@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">821 papers</span>
+  <span class="paper-count">817 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4916,29 +4916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19290.html">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Zhenyi Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2502.19290">2502.19290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06300.html">LT-PINN: Lagrangian Topology-conscious Physics-informed Neural Network for Boundary-focused Engineering Optimization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yuanye Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06300">2506.06300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20181.html">Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ronald Katende</td>
-<td><a href="http://arxiv.org/abs/2506.20181">2506.20181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20694.html">Evaluating PDE discovery methods for multiscale modeling of biological signals</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
-<td>Andréa Ducos et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20694">2506.20694</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20764.html">Control and optimization for Neural Partial Differential Equations in Supervised Learning</a></div></td>
-<td>Alain Bensoussan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20764">2506.20764</a></td>
 </tr>
 </tbody></table>

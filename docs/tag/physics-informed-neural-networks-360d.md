@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">634 papers</span>
+  <span class="paper-count">631 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3800,23 +3800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19290.html">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Zhenyi Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2502.19290">2502.19290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06300.html">LT-PINN: Lagrangian Topology-conscious Physics-informed Neural Network for Boundary-focused Engineering Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yuanye Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06300">2506.06300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20181.html">Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ronald Katende</td>
-<td><a href="http://arxiv.org/abs/2506.20181">2506.20181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20441.html">Méthode de quadrature pour les PINNs fondée théoriquement sur la hessienne des résiduels</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Antoine Caradot et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20441">2506.20441</a></td>
 </tr>
 </tbody></table>

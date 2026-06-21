@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21749.html">Model selection in hybrid quantum neural networks with applications to quantum transformer architectures</a></div></td>
 <td>Harsh Wadhwa et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21749">2603.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21300.html">The Average Relative Entropy and Transpilation Depth determines the noise robustness in Variational Quantum Classifiers</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Aakash Ravindra Shinde et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21300">2603.21300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26739.html">Quantum Fuzzy Sets Revisited: Density Matrices, Decoherence, and the Q-Matrix Framework</a></div></td>
-<td>Mirco A. Mannucci</td>
-<td><a href="http://arxiv.org/abs/2603.26739">2603.26739</a></td>
 </tr>
 </tbody></table>

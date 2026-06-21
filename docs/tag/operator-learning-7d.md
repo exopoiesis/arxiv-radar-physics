@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>operator-learning — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Yong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15512.html">Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator</a></div></td>
-<td>Jay Phil Yoo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15512">2606.15512</a></td>
 </tr>
 </tbody></table>

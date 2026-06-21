@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07197.html">Rapid inference and comparison of gravitational-wave population models with neural variational posteriors</a></div></td>
 <td>Matthew Mould et al.</td>
 <td><a href="http://arxiv.org/abs/2504.07197">2504.07197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20657.html">SuperSONIC: Cloud-Native Infrastructure for ML Inferencing</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
-<td>Dmitry Kondratyev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20657">2506.20657</a></td>
 </tr>
 </tbody></table>

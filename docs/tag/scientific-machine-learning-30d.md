@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25115.html">Courant: a State-Adaptive Perceiver-Based Neural Surrogate with Local Support and Interpretable Field Decomposition</a></div></td>
 <td>Anuj Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25115">2605.25115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22498.html">The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning</a></div></td>
-<td>Lucas Sheneman</td>
-<td><a href="http://arxiv.org/abs/2605.22498">2605.22498</a></td>
 </tr>
 </tbody></table>

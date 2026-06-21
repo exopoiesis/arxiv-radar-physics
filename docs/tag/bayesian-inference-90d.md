@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,11 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22461.html">Impact of eccentricity on the population properties of neutron star - black hole mergers</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
 <td>Gonzalo Morras et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22461">2603.22461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21410.html">Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing</a></div></td>
-<td>Haodong Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21410">2603.21410</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>anomaly-detection — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15709.html">AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan</a></div></td>
 <td>Mohammed Fasha et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15709">2606.15709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15207.html">Controlled Dynamics Attractor Transformer</a></div></td>
-<td>Cheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15207">2606.15207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15343.html">Generalized likelihood ratio test for magnetic anomaly detection: a geometrical approach</a></div></td>
-<td>C. Chenevas-Paule et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15343">2606.15343</a></td>
 </tr>
 </tbody></table>

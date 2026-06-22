@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24630.html">DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion</a></div></td>
 <td>Adam Lee</td>
 <td><a href="http://arxiv.org/abs/2605.24630">2605.24630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23878.html">LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</a></div></td>
-<td>Bo Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23878">2605.23878</a></td>
 </tr>
 </tbody></table>

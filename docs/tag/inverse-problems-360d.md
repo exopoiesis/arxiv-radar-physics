@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">402 papers</span>
+  <span class="paper-count">400 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2414,17 +2414,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00065.html">Segmentation-Based Regression for Quantum Neural Networks</a></div></td>
 <td>James C. Hateley</td>
 <td><a href="http://arxiv.org/abs/2507.00065">2507.00065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01299.html">Enhancing Dynamic CT Image Reconstruction with Neural Fields and Optical Flow</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Pablo Arratia et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01299">2406.01299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21405.html">An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems</a></div></td>
-<td>Lena Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21405">2506.21405</a></td>
 </tr>
 </tbody></table>

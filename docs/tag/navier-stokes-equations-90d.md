@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <strong>90d</strong> <a href="navier-stokes-equations-360d.html">360d</a> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23072.html">Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations</a></div></td>
 <td>Sebastien Andre-Sloan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23072">2603.23072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22380.html">Symbolic Graph Networks for Robust PDE Discovery from Noisy Sparse Data</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Xingyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22380">2603.22380</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,35 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23265.html">SynForceNet: A Force-Driven Global-Local Latent Representation Framework for Lithium-Ion Battery Fault Diagnosis</a></div></td>
 <td>Rongxiu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23265">2603.23265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21612.html">Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction</a></div></td>
-<td>Shiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21612">2603.21612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22366.html">Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks</a></div></td>
-<td>Devashish Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22366">2603.22366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22525.html">Adversarial Vulnerabilities in Neural Operator Digital Twins: Gradient-Free Attacks on Nuclear Thermal-Hydraulic Surrogates</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Samrendra Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22525">2603.22525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22586.html">A Foundation Model for Instruction-Conditioned In-Context Time Series Tasks</a></div></td>
-<td>Anish Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22586">2603.22586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26745.html">Motion Semantics Guided Normalizing Flow for Privacy-Preserving Video Anomaly Detection</a></div></td>
-<td>Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26745">2603.26745</a></td>
 </tr>
 </tbody></table>

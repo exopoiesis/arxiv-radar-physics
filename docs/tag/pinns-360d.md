@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3758,17 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19185.html">Least Squares with Equality constraints Extreme Learning Machines for the resolution of PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Davide Elia De Falco et al.</td>
 <td><a href="http://arxiv.org/abs/2503.19185">2503.19185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17938.html">Error bounds for Physics Informed Neural Networks in Nonlinear Schrödinger equations placed on unbounded domains</a></div></td>
-<td>Miguel Á. Alejo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17938">2409.17938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19290.html">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Zhenyi Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19290">2502.19290</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <strong>90d</strong> <a href="quantum-many-body-systems-360d.html">360d</a> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25066.html">Neural Operator Quantum State: A Foundation Model for Quantum Dynamics</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>Zihao Qi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25066">2603.25066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22244.html">Probing the Spacetime Structure of Entanglement in Monitored Quantum Circuits with Graph Neural Networks</a></div></td>
-<td>Javad Vahedi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22244">2603.22244</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">813 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4892,29 +4892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22204.html">Hybrid Generative Modeling for Incomplete Physics: Deep Grey-Box Meets Optimal Transport</a></div></td>
 <td>Gurjeet Sangra Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22204">2506.22204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01299.html">Enhancing Dynamic CT Image Reconstruction with Neural Fields and Optical Flow</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Pablo Arratia et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01299">2406.01299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03437.html">Zebra: In-Context Generative Pretraining for Solving Parametric PDEs</a></div></td>
-<td>Louis Serrano et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03437">2410.03437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04833.html">Wavelet Diffusion Neural Operator</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Peiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04833">2412.04833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19290.html">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Zhenyi Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19290">2502.19290</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,29 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21249.html">Parallel adaptive reweighting importance sampling for Bayesian astrophysics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Miaoxin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21249">2603.21249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07098.html">BayesFlow 2: Multi-Backend Amortized Bayesian Inference in Python</a></div></td>
-<td>Lars Kühmichel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07098">2602.07098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21752.html">Identifiability and amortized inference limitations in Kuramoto models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Emma Hannula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21752">2603.21752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21762.html">Inflationary Phase Transitions in the Early Universe: A Bayesian Study with Space-Based Gravitational Waves Detectors</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Qingyuan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21762">2603.21762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22461.html">Impact of eccentricity on the population properties of neutron star - black hole mergers</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Gonzalo Morras et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22461">2603.22461</a></td>
 </tr>
 </tbody></table>

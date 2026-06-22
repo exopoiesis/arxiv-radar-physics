@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07396.html">Automating quantum feature map design via large language models</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Kenya Sakka et al.</td>
 <td><a href="http://arxiv.org/abs/2504.07396">2504.07396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21622.html">QuFoundry: Generating Data with Quantum Properties for Quantum Machine Learning Utility</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Jason Ludmir et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21622">2509.21622</a></td>
 </tr>
 </tbody></table>

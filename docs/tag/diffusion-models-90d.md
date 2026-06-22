@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,23 +974,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03276.html">Scaling atom-by-atom inverse design with nano-topology optimization and diffusion models</a></div></td>
 <td>Chun-Teh Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03276">2604.03276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14769.html">Kolmogorov Modes and Linear Response of Jump-Diffusion Models</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
-<td>Mickaël D. Chekroun et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14769">2411.14769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26759.html">Physics-Aware Diffusion for LiDAR Point Cloud Densification</a></div></td>
-<td>Zeping Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26759">2603.26759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03275.html">IPSL-AID: Generative Diffusion Models for Climate Downscaling from Global to Regional Scales</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Kishanthan Kingston et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03275">2604.03275</a></td>
 </tr>
 </tbody></table>

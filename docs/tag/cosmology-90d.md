@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26533.html">Extracting Cosmological Information from Lightcone Data: A Comparison of CNNs and Summary-Statistic-Based Approaches</a></div></td>
 <td>Min Zhiwei et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26533">2603.26533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22135.html">The SPHEREx Ices Investigation: An Overview</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
-<td>Gary J. Melnick et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22135">2603.22135</a></td>
 </tr>
 </tbody></table>

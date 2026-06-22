@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00134.html">Causal Discovery of Latent Variables in Galactic Archaeology</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Zehao Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00134">2507.00134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22519.html">Exploring the parameter space of hierarchical triple black hole systems</a></div></td>
-<td>M. Attia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22519">2506.22519</a></td>
 </tr>
 </tbody></table>

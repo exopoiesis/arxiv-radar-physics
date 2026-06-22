@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23408.html">GeoSANE: Learning Geospatial Representations from Models, Not Data</a></div></td>
 <td>Joelle Hanna et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23408">2603.23408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17782.html">Thalia: A Global, Multi-Modal Dataset for Volcanic Activity Monitoring</a></div></td>
-<td>Nikolas Papadopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17782">2505.17782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21456.html">Compressive single-pixel imaging via a wavelength-multiplexed spatially incoherent diffractive optical processor</a></div></td>
-<td>Xiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21456">2603.21456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21911.html">A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing</a></div></td>
-<td>Chedly Ben Azizi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21911">2603.21911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26751.html">Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models</a></div></td>
-<td>Qionghao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26751">2603.26751</a></td>
 </tr>
 </tbody></table>

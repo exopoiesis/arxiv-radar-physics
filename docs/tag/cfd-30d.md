@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24763.html">High-fidelity Modeling of Full-scale Pressurized Water Reactor Flow Fields for Machine Learning Applications</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="deeponet-30d.html">deeponet</a></div></td>
 <td>Logan A. Burnett et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24763">2605.24763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23850.html">Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Ali Zahir et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23850">2605.23850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24150.html">Divergence-aware adaptive prediction framework for accelerating CFD simulations of unsteady flows</a></div></td>
-<td>Xiangrui Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24150">2605.24150</a></td>
 </tr>
 </tbody></table>

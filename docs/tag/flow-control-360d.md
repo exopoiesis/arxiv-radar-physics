@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flow-control — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <a href="flow-control-90d.html">90d</a> <strong>360d</strong> <a href="flow-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08625.html">Active flow control of vertical-axis wind turbines: Insights from large-eddy simulation and finite-time resolvent analysis</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
 <td>Lucas Feitosa de Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08625">2507.08625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21269.html">Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou</a></div></td>
-<td>Pengfei Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21269">2506.21269</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21249.html">Parallel adaptive reweighting importance sampling for Bayesian astrophysics</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Miaoxin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21249">2603.21249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22461.html">Impact of eccentricity on the population properties of neutron star - black hole mergers</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Gonzalo Morras et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22461">2603.22461</a></td>
 </tr>
 </tbody></table>

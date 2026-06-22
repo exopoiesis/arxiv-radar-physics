@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00866.html">Template-Fitting Meets Deep Learning: Redshift Estimation Using Physics-Guided Neural Networks</a></div></td>
 <td>Jonas Chris Ferrao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00866">2507.00866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21684.html">KSZ Velocity Reconstruction with ACT and DESI-LS using a Tomographic QML Power Spectrum Estimator</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Anderson C. M. Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21684">2506.21684</a></td>
 </tr>
 </tbody></table>

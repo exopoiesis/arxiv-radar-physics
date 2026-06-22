@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,41 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26777.html">BHCast: Unlocking Black Hole Plasma Dynamics from a Single Blurry Image with Long-Term Forecasting</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Renbo Tu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26777">2603.26777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01811.html">Quantum Circuit Encodings of Polynomial Chaos Expansions</a></div></td>
-<td>Junaid Aftab et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01811">2506.01811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21678.html">CoNBONet: Conformalized Neuroscience-inspired Bayesian Operator Network for Reliability Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Shailesh Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21678">2603.21678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21752.html">Identifiability and amortized inference limitations in Kuramoto models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Emma Hannula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21752">2603.21752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22006.html">A plug-and-play approach with fast uncertainty quantification for weak lensing mass mapping</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>Hubert Leterme et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22006">2603.22006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22050.html">MAGPI: Multifidelity-Augmented Gaussian Process Inputs for Surrogate Modeling from Scarce Data</a></div></td>
-<td>Atticus Rex et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22050">2603.22050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03275.html">IPSL-AID: Generative Diffusion Models for Climate Downscaling from Global to Regional Scales</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Kishanthan Kingston et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03275">2604.03275</a></td>
 </tr>
 </tbody></table>

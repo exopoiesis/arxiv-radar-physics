@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,59 +1184,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22951.html">Weak-PDE-Net: Discovering Open-Form PDEs via Differentiable Symbolic Networks and Weak Formulation</a></div></td>
 <td>Xinxin Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22951">2603.22951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05141.html">Deep Neural Networks with General Activations: Super-Convergence in Sobolev Norms</a></div></td>
-<td>Yahong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05141">2508.05141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12344.html">FEDONet : Fourier-Embedded DeepONet for Spectrally Accurate Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Arth Sojitra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12344">2509.12344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12842.html">Scalable learning of macroscopic stochastic dynamics</a></div></td>
-<td>Mengyi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12842">2511.12842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03290.html">ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Julian Evan Chrisnanto et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03290">2512.03290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00834.html">Intrinsic-Metric Physics-Informed Neural Networks (IM-PINN) for Reaction-Diffusion Dynamics on Complex Riemannian Manifolds</a></div></td>
-<td>Julian Evan Chrisnanto et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00834">2601.00834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21534.html">Generalization Limits of In-Context Operator Networks for Higher-Order Partial Differential Equations</a></div></td>
-<td>Jamie Mahowald et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21534">2603.21534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21568.html">Stability and Bifurcation Analysis of Nonlinear PDEs via Random Projection-based PINNs: A Krylov-Arnoldi Approach</a></div></td>
-<td>Gianluca Fabiani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21568">2603.21568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21674.html">SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Shailesh Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21674">2603.21674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22380.html">Symbolic Graph Networks for Robust PDE Discovery from Noisy Sparse Data</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Xingyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22380">2603.22380</a></td>
 </tr>
 </tbody></table>

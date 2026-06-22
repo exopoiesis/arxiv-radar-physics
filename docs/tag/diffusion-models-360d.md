@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3674,17 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17720.html">Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Naichen Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17720">2407.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04833.html">Wavelet Diffusion Neural Operator</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Peiyan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04833">2412.04833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19391.html">Generate the Forest before the Trees -- A Hierarchical Diffusion model for Climate Downscaling</a></div></td>
-<td>Declan J. Curran et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19391">2506.19391</a></td>
 </tr>
 </tbody></table>

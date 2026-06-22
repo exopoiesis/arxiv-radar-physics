@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,11 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01054.html">XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science</a></div></td>
 <td>Jithendaraa Subramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01054">2507.01054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20958.html">High-Throughput Mapping of Magnetic Properties via the on-the-fly XMCD spectroscopy in a Combinatorial Fe-Co-Ni Film</a></div></td>
-<td>Y. Yamasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20958">2506.20958</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,23 +1034,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22803.html">A Residual-Attention Physics-Informed Neural Network for Irregular Interfaces and Multi-Peak Transport Fields</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Baitong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22803">2603.22803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03290.html">ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Julian Evan Chrisnanto et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03290">2512.03290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08104.html">High-Fidelity Modeling of Stochastic Chemical Dynamics on Complex Manifolds: A Multi-Scale SIREN-PINN Framework for the Curvature-Perturbed Ginzburg-Landau Equation</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Julian Evan Chrisnanto et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08104">2601.08104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21834.html">A hybrid wavelet-based physics-informed neural network for portfolio management</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Bahadur Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21834">2603.21834</a></td>
 </tr>
 </tbody></table>

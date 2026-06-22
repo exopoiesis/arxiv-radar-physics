@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>lattice-qcd — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <strong>90d</strong> <a href="lattice-qcd-360d.html">360d</a> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25571.html">Neural-Network Holographic Model of the QCD Phase Transition under Lattice and HRG Constraints</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>De-Xing Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25571">2603.25571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22471.html">Automated Extraction of Collins-Soper Kernel from Lattice QCD using An Autonomous AI Physicist System</a></div></td>
-<td>Jin-Xin Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22471">2603.22471</a></td>
 </tr>
 </tbody></table>

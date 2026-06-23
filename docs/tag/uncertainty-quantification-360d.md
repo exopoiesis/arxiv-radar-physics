@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">552 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Yaozhong Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22346">2606.22346</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Amir H. M. Labeb et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21945">2606.21945</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div></td>
+<td>Debadri Som et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21728.html">Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling</a></div></td>
+<td>Matthew Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21728">2606.21728</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
@@ -3314,17 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00480.html">Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization</a></div></td>
 <td>Kiyoung Om et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00480">2507.00480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17720.html">Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Naichen Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17720">2407.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22313.html">Manifold-Constrained Gaussian Processes for Inference of Mixed-effects Ordinary Differential Equations with Application to Pharmacokinetics</a></div></td>
-<td>Yuxuan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22313">2506.22313</a></td>
 </tr>
 </tbody></table>

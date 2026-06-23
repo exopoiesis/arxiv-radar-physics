@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">569 papers</span>
+  <span class="paper-count">567 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21475.html">Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features</a></div></td>
+<td>Adrian Canovas-Rodriguez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21475">2606.21475</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
@@ -38,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17020.html">FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models</a></div></td>
 <td>Jiaju Han et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17020">2606.17020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20702.html">Beyond Templates: Revisiting Zero-Shot Remote Sensing through Meta-Prompting</a></div></td>
+<td>Eirini Baltzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20702">2606.20702</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -3404,29 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22939.html">Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data</a></div></td>
 <td>Ghufran A. Omran et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22939">2506.22939</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17944.html">SegChange-R1: LLM-Augmented Remote Sensing Change Detection</a></div></td>
-<td>Fei Zhou</td>
-<td><a href="http://arxiv.org/abs/2506.17944">2506.17944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21866.html">Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images</a></div></td>
-<td>Yanguang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21866">2506.21866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21945.html">SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images</a></div></td>
-<td>Naftaly Wambugu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21945">2506.21945</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22570.html">Dual Atrous Separable Convolution for Improving Agricultural Semantic Segmentation</a></div></td>
-<td>Chee Mei Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22570">2506.22570</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">530 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22331.html">No Reference-Free Generalization in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Jeongho Bang</td>
+<td><a href="http://arxiv.org/abs/2606.22331">2606.22331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21327.html">Temporal processing of quantum states with hybrid quantum-classical reservoirs</a></div></td>
+<td>Mateu Coll-Comas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21327">2606.21327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21570.html">A Correlation Aware Quantum Feature Map for Variational Quantum Classification</a></div></td>
+<td>Murat Kurt</td>
+<td><a href="http://arxiv.org/abs/2606.21570">2606.21570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
@@ -3176,29 +3194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22845.html">Quantum Neural Networks for Wind Energy Forecasting: A Comparative Study of Performance and Scalability with Classical Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Batuhan Hangun et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22845">2506.22845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21842.html">Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Archisman Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21842">2506.21842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22241.html">Boosting Classification with Quantum-Inspired Augmentations</a></div></td>
-<td>Matthias Tschöpe et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22241">2506.22241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22310.html">Trainability of Parametrised Linear Combinations of Unitaries</a></div></td>
-<td>Nikhil Khatri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22310">2506.22310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22340.html">QuKAN: A Quantum Circuit Born Machine approach to Quantum Kolmogorov Arnold Networks</a></div></td>
-<td>Yannick Werner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22340">2506.22340</a></td>
 </tr>
 </tbody></table>

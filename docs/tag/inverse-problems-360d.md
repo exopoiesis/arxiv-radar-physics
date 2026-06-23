@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Yaozhong Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22346">2606.22346</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22364.html">Physics-Informed Neural Operator for Speech Production Analysis</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Kazuya Yokota et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22364">2606.22364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21099.html">ShuffleFlow: Scalable Posterior Inference for Bayesian Inverse Imaging</a></div></td>
+<td>Tianao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21099">2606.21099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21392.html">QVaR: a Quantum Variational Regularization method for Linear Inverse Problems</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Siiri Rautio et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21392">2606.21392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21602.html">Deep Unrolled Networks in Representation Space Applied to MRI Reconstruction</a></div></td>
+<td>Efe Ilıcak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21602">2606.21602</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
@@ -2402,17 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23311.html">Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction</a></div></td>
 <td>Perla Mayo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23311">2506.23311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01499.html">Manifold-based transformation of probability distributions: application to the inverse problem of reconstructing distributions from experimental data</a></div></td>
-<td>Tomotaka Oroguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2410.01499">2410.01499</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00065.html">Segmentation-Based Regression for Quantum Neural Networks</a></div></td>
-<td>James C. Hateley</td>
-<td><a href="http://arxiv.org/abs/2507.00065">2507.00065</a></td>
 </tr>
 </tbody></table>

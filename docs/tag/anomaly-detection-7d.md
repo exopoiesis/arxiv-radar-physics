@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22556.html">HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection</a></div></td>
+<td>Jiayu Huo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22556">2606.22556</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
 <td>Youji Zhu et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
 <td>Martin Uray et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16421.html">Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images</a></div></td>
-<td>Gyutae Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16421">2606.16421</a></td>
 </tr>
 </tbody></table>

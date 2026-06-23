@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06870.html">Bayesian Component Separation for DESI LAE Automated Spectroscopic Redshifts and Photometric Targeting</a></div></td>
 <td>Ana Sofía M. Uzsoy et al.</td>
 <td><a href="http://arxiv.org/abs/2504.06870">2504.06870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21169.html">Revisiting CPL with sign-switching density: To cross or not to cross the NECB</a></div></td>
-<td>Mine Gökçen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21169">2602.21169</a></td>
 </tr>
 </tbody></table>

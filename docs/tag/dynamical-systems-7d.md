@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
+<td>Borui Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21530.html">Exploratory Modelling of Multi-System Transformation Pathways from Real-World Data: A SINDy-Inspired Sparse Orthogonal Regression Technique</a></div></td>
+<td>Sabin Roman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21530">2606.21530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21538.html">Turbulence Physics Governs a Scaling Law for the Machine-Learning Predictability Ceiling in Chaotic Flow</a></div></td>
+<td>Jiashun Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21538">2606.21538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
+<td>Sina Arefizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Juntian Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20967.html">Formalizing Task-Space Complexity for Zero-Shot Generalization</a></div></td>
+<td>Jung-Hoon Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20967">2606.20967</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
@@ -46,15 +76,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.18409">2606.18409</a></td>
 </tr>
 <tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
-<td>Zongren Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Daniel Waxman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20718.html">Escape from Delusional Echo Trap: Symmetry Breaking, Stochastic Dynamics and Mathematical Mitigation Strategies for Algorithmic Sycophancy</a></div></td>
+<td>Sayantari Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20718">2606.20718</a></td>
 </tr>
 </tbody></table>

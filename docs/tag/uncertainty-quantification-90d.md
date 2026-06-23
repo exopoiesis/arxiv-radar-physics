@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Yaozhong Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22346">2606.22346</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Amir H. M. Labeb et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21945">2606.21945</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div></td>
+<td>Debadri Som et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21728.html">Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling</a></div></td>
+<td>Matthew Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21728">2606.21728</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
 <td>Antonio Varagnolo et al.</td>
@@ -920,29 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24751.html">Scalable Bayesian full waveform inversion via dual augmented Lagrangian SVGD</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Kamal Aghazade et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24751">2603.24751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12004.html">Scaled Block Vecchia Approximation for High-Dimensional Gaussian Process Emulation on GPUs</a></div></td>
-<td>Qilong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12004">2504.12004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18884.html">Fast simulation of Gaussian random fields with flexible correlation models in Euclidean spaces</a></div></td>
-<td>Moreno Bevilacqua et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18884">2512.18884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23787.html">Digital Twin-Assisted Measurement Design and Channel Statistics Prediction</a></div></td>
-<td>Robin J. Williams et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23787">2603.23787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26777.html">BHCast: Unlocking Black Hole Plasma Dynamics from a Single Blurry Image with Long-Term Forecasting</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Renbo Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26777">2603.26777</a></td>
 </tr>
 </tbody></table>

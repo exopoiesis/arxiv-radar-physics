@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>sciml — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <strong>30d</strong> <a href="sciml-90d.html">90d</a> <a href="sciml-360d.html">360d</a> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21044.html">An Asynchronous multi-rate Taylor method for Delay Differential Equations</a></div></td>
+<td>Avinash Malik</td>
+<td><a href="http://arxiv.org/abs/2606.21044">2606.21044</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20015.html">Adaptive Distance-Aware Trunk Deep Operator Learning for Long-Span Roadway Bridges</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>

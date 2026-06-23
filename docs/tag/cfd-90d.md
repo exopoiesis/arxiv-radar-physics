@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Xin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09963">2606.09963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20655.html">Input-schema identifiability limits in physics-informed surrogates for mechanics-governed flow</a></div></td>
+<td>Daniel Cieslak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20655">2606.20655</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-05</td>
@@ -380,17 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03255.html">Generative deep learning for foundational video translation in ultrasound</a></div></td>
 <td>Nikolina Tomic et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03255">2511.03255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07151.html">Optimize discrete loss with finite-difference physics constraint and time-stepping for PDE solving</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Yali Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07151">2603.07151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20240.html">Tensor Train Representation of High-Dimensional Unsteady Flamelet Manifolds</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Sinan Demir et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20240">2603.20240</a></td>
 </tr>
 </tbody></table>

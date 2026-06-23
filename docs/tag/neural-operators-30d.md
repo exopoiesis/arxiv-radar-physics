@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22364.html">Physics-Informed Neural Operator for Speech Production Analysis</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Kazuya Yokota et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22364">2606.22364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21828.html">Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers</a></div></td>
+<td>Jaemin Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21828">2606.21828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Yitian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -236,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25786.html">NPSolver: Neural Poisson Solver with Iterative Physics Supervision</a></div></td>
 <td>Bocheng Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25786">2605.25786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24651.html">WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains</a></div></td>
-<td>Bokai Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24651">2605.24651</a></td>
 </tr>
 </tbody></table>

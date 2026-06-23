@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">973 papers</span>
+  <span class="paper-count">976 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22477.html">Physically-guided Image Generation for Multi-Projection Mapping</a></div></td>
+<td>Xingyun Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22477">2606.22477</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19729.html">VOiLA: Vectorized Online Planning with Learned Diffusion Model for POMDP Agents</a></div></td>
@@ -32,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20110.html">FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model</a></div></td>
 <td>Yuhwan Jeong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20110">2606.20110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20764.html">One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception</a></div></td>
+<td>Keqin Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20764">2606.20764</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
@@ -62,6 +74,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17342.html">Learning a Maximum Entropy Model for Visual Textures using Diffusion</a></div></td>
 <td>Xinyuan Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17342">2606.17342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20707.html">GEOPHYS: The Geometry of Physical Plausibility</a></div></td>
+<td>Christian Internò et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20707">2606.20707</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>

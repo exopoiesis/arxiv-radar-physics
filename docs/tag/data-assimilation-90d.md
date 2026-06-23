@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21294.html">Using Distributional Regression Networks to Retrieve Cloud Properties from Solar Satellite Channels for Data Assimilation</a></div></td>
+<td>Stefano Franzoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21294">2606.21294</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Ananyo Bhattacharya</td>
+<td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Xi&#x27;an Li et al.</td>
@@ -224,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26975.html">Probabilistic Forecasting of Localized Wildfire Spread Based on Conditional Flow Matching</a></div></td>
 <td>Bryan Shaddy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26975">2603.26975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00479.html">On the joint estimation of flow fields and particle properties from Lagrangian data</a></div></td>
-<td>Ke Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00479">2510.00479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23779.html">Sentinel-2 for Crop Yield Estimation: A Systematic Review</a></div></td>
-<td>Mohammadreza Narimani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23779">2603.23779</a></td>
 </tr>
 </tbody></table>

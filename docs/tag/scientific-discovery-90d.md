@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22175.html">StickyInvoc: Rethinking Task Models for High-throughput Workflows in the LLM Era</a></div></td>
+<td>Thanh Son Phung et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22175">2606.22175</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15959.html">Quantifying the Impact of Lossy Compression on Neural Generative Surrogate Modeling</a></div></td>
 <td>Zhimin Li et al.</td>
@@ -926,11 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10402.html">Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering</a></div></td>
 <td>Xinyu Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.10402">2601.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04964.html">Scientific judgment drifts over time in AI ideation</a></div></td>
-<td>Lingyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04964">2511.04964</a></td>
 </tr>
 </tbody></table>

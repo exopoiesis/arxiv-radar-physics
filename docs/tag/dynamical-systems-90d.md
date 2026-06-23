@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Borui Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21530.html">Exploratory Modelling of Multi-System Transformation Pathways from Real-World Data: A SINDy-Inspired Sparse Orthogonal Regression Technique</a></div></td>
+<td>Sabin Roman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21530">2606.21530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21538.html">Turbulence Physics Governs a Scaling Law for the Machine-Learning Predictability Ceiling in Chaotic Flow</a></div></td>
+<td>Jiashun Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21538">2606.21538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
+<td>Sina Arefizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Juntian Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20967.html">Formalizing Task-Space Complexity for Zero-Shot Generalization</a></div></td>
+<td>Jung-Hoon Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20967">2606.20967</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
@@ -44,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18409.html">Learning Moment Maps for Continuous-Time Markov Chains under Monte Carlo Noise</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Madison Pratt et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18409">2606.18409</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20718.html">Escape from Delusional Echo Trap: Symmetry Breaking, Stochastic Dynamics and Mathematical Mitigation Strategies for Algorithmic Sycophancy</a></div></td>
+<td>Sayantari Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20718">2606.20718</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -1124,23 +1160,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23854.html">Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Salah A Faroughi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23854">2603.23854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05085.html">Learning dynamically inspired bases for Koopman and transfer operator approximation</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Gary Froyland et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05085">2505.05085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20413.html">KANDy: Kolmogorov-Arnold Networks and Dynamical System Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Kevin Slote et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20413">2602.20413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16146.html">Deep Adaptive Model-Based Design of Experiments</a></div></td>
-<td>Arno Strouwen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16146">2603.16146</a></td>
 </tr>
 </tbody></table>

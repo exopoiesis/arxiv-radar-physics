@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21251.html">AI-accelerated metallized $σ$-bonding screening for superconductor discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Zechen Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21251">2606.21251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19785.html">Boltzmann-constrained extraction of spin splitting and momentum relaxation in d-wave altermagnets</a></div></td>
 <td>Y. X. Gao et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div></td>
 <td>Abdul Samad Khan</td>
 <td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24617.html">Transformer refined quantum sampling for strongly correlated electronic structure</a></div></td>
-<td>Xiongzhi Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24617">2605.24617</a></td>
 </tr>
 </tbody></table>

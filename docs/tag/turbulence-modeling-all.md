@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>turbulence-modeling — all</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="turbulence-modeling-7d.html">7d</a> <a href="turbulence-modeling-30d.html">30d</a> <a href="turbulence-modeling-90d.html">90d</a> <a href="turbulence-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21781.html">Physics-Preserving Latent Compression for Zero-Shot Resolution Transfer in 3D Turbulence</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Yilong Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21781">2606.21781</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="les-all.html">les</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

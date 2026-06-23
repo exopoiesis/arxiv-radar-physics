@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01751.html">Black hole optical analogue: photon sphere microlasers</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Chenni Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01751">2507.01751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10398.html">Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts</a></div></td>
-<td>Niklas Houba</td>
-<td><a href="http://arxiv.org/abs/2503.10398">2503.10398</a></td>
 </tr>
 </tbody></table>

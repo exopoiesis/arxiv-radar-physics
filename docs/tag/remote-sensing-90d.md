@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21475.html">Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features</a></div></td>
+<td>Adrian Canovas-Rodriguez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21475">2606.21475</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
@@ -38,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17020.html">FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models</a></div></td>
 <td>Jiaju Han et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17020">2606.17020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20702.html">Beyond Templates: Revisiting Zero-Shot Remote Sensing through Meta-Prompting</a></div></td>
+<td>Eirini Baltzi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20702">2606.20702</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -818,29 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24876.html">OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding</a></div></td>
 <td>Xiaoyu Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24876">2603.24876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16740.html">Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation</a></div></td>
-<td>Yunkai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16740">2512.16740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22768.html">From Pixels to Semantics: A Multi-Stage AI Framework for Structural Damage Detection in Satellite Imagery</a></div></td>
-<td>Bijay Shakya et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22768">2603.22768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22842.html">L-UNet: An LSTM Network for Remote Sensing Image Change Detection</a></div></td>
-<td>Shuting Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22842">2603.22842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23408.html">GeoSANE: Learning Geospatial Representations from Models, Not Data</a></div></td>
-<td>Joelle Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23408">2603.23408</a></td>
 </tr>
 </tbody></table>

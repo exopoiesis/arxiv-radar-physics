@@ -40,6 +40,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.09963">2606.09963</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20655.html">Input-schema identifiability limits in physics-informed surrogates for mechanics-governed flow</a></div></td>
+<td>Daniel Cieslak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20655">2606.20655</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07481.html">Drifting Models for Surrogate Flow Modeling</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Chris R. Jung et al.</td>
@@ -1226,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04682.html">Operator-based machine learning framework for generalizable prediction of unsteady treatment dynamics in stormwater infrastructure</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Mohamed Shatarah et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04682">2507.04682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22662.html">AirCANS: CFD 2D Mesh Optimisation-based Airfoil Classification and Assessment using Neural Networks</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Lushun Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22662">2506.22662</a></td>
 </tr>
 </tbody></table>

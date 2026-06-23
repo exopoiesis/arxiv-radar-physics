@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22331.html">No Reference-Free Generalization in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Jeongho Bang</td>
+<td><a href="http://arxiv.org/abs/2606.22331">2606.22331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21327.html">Temporal processing of quantum states with hybrid quantum-classical reservoirs</a></div></td>
+<td>Mateu Coll-Comas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21327">2606.21327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21570.html">A Correlation Aware Quantum Feature Map for Variational Quantum Classification</a></div></td>
+<td>Murat Kurt</td>
+<td><a href="http://arxiv.org/abs/2606.21570">2606.21570</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18713.html">Trainable Photonic Measurement for Physics-Informed PDE Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Jiale Linghu et al.</td>
@@ -740,23 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12383.html">High-Accuracy Temporal Prediction via Experimental Quantum Reservoir Computing in Correlated Spins</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Yanjun Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12383">2508.12383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07396.html">Automating quantum feature map design via large language models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Kenya Sakka et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07396">2504.07396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22964.html">A PAC-Bayesian approach to generalization for quantum models</a></div></td>
-<td>Pablo Rodriguez-Grasa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22964">2603.22964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23407.html">Encoding Numerical Data for Generative Quantum Machine Learning</a></div></td>
-<td>Michael Krebsbach et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23407">2603.23407</a></td>
 </tr>
 </tbody></table>

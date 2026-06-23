@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21781.html">Physics-Preserving Latent Compression for Zero-Shot Resolution Transfer in 3D Turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
+<td>Yilong Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21781">2606.21781</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20983.html">Physics-Guided Fully Convolutional Spatiotemporal Learning Toward Digital-Twin-Enabled Microstructure Evolution Prediction</a></div></td>
+<td>Michael Trimboli et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20983">2606.20983</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Gabriel F. Barros et al.</td>
@@ -356,17 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29307.html">Revisiting the Coprecessing Frame in the Presence of Orbital Eccentricity</a></div></td>
 <td>Lucy M. Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29307">2603.29307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12567.html">Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Jeffrey Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12567">2603.12567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22803.html">A Residual-Attention Physics-Informed Neural Network for Irregular Interfaces and Multi-Peak Transport Fields</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Baitong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22803">2603.22803</a></td>
 </tr>
 </tbody></table>

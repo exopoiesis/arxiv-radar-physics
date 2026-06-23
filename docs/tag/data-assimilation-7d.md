@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16086.html">Random-Feature Kalman Filtering for Linear PDE Data Assimilation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Xi&#x27;an Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16086">2606.16086</a></td>
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21294.html">Using Distributional Regression Networks to Retrieve Cloud Properties from Solar Satellite Channels for Data Assimilation</a></div></td>
+<td>Stefano Franzoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21294">2606.21294</a></td>
 </tr>
 <tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16219.html">Graphical conditional generative modeling for digital twin modeling</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Zongren Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16219">2606.16219</a></td>
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
+<td>Ananyo Bhattacharya</td>
+<td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
 </tr>
 </tbody></table>

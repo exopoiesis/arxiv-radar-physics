@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div></td>
+<td>Yifan Wang</td>
+<td><a href="http://arxiv.org/abs/2606.23219">2606.23219</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
@@ -392,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25687.html">On Neural Scaling Laws for Weather Emulation through Continual Training</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Shashank Subramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25687">2603.25687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23854.html">Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Salah A Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23854">2603.23854</a></td>
 </tr>
 </tbody></table>

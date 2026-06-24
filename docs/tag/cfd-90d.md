@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25635.html">Anchored-Branched Steady-state WInd Flow Transformer (AB-SWIFT): a metamodel for 3D atmospheric flow in urban environments</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Armand de Villeroché et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25635">2603.25635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03255.html">Generative deep learning for foundational video translation in ultrasound</a></div></td>
-<td>Nikolina Tomic et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03255">2511.03255</a></td>
 </tr>
 </tbody></table>

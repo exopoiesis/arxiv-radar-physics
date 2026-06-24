@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div></td>
+<td>Yifan Wang</td>
+<td><a href="http://arxiv.org/abs/2606.23219">2606.23219</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="sciml-7d.html">sciml</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Gabriel F. Barros et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18417.html">Enhancing neural network extrapolation in thermo-fluid systems using steady-state solutions</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Sanjeeb Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18417">2606.18417</a></td>
 </tr>
 </tbody></table>

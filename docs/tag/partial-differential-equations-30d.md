@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Jason Sulskis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22514.html">PI-DOSnet: A Physics-Informed Deep Operator-Splitting Network for Evolution Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
@@ -290,23 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26341.html">A PAC-Bayesian View of Generalisation for Physics-Informed Machine Learning</a></div></td>
 <td>Thien V. Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26341">2605.26341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Shan Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25001.html">Mitigating Gradient Pathology in PINNs through Aligned Constraint</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Yichen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25001">2605.25001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25057.html">Random Neural Network Expressivity for Non-Linear Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Muhammed Ali Mehmood et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25057">2605.25057</a></td>
 </tr>
 </tbody></table>

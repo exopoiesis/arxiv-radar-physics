@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>
+<td>Somyajit Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24696">2606.24696</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15356.html">ShipNet: A Geometric Deep Learning Surrogate for Real-Time Ship Hydrodynamics</a></div></td>
 <td>Kirsten Odendaal et al.</td>
@@ -362,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25635.html">Anchored-Branched Steady-state WInd Flow Transformer (AB-SWIFT): a metamodel for 3D atmospheric flow in urban environments</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Armand de Villeroché et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25635">2603.25635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24363.html">aPriori: a Python package to process direct numerical simulations</a></div></td>
-<td>Lorenzo Piu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24363">2603.24363</a></td>
 </tr>
 </tbody></table>

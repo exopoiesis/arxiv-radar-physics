@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,29 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25103.html">Layer-Specific Lipschitz Modulation for Fault-Tolerant Multimodal Representation Learning</a></div></td>
 <td>Diyar Altinses et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25103">2603.25103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10988.html">Observable Optimization for Precision Theory: Machine Learning Energy Correlators</a></div><div class="paper-tags"><a href="collider-physics-90d.html">collider-physics</a></div></td>
-<td>Arindam Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10988">2508.10988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24644.html">Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
-<td>Debadutta Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24644">2603.24644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24648.html">Energy-Efficient Hierarchical Federated Anomaly Detection for the Internet of Underwater Things via Selective Cooperative Aggregation</a></div></td>
-<td>Kenechi Omeke et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24648">2603.24648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25760.html">Topology as a Language for Emergent Organization in Complex Systems: Multiscale Structure, Higher-Order Interactions, and Early Warning Signals</a></div></td>
-<td>Mark M. Bailey</td>
-<td><a href="http://arxiv.org/abs/2603.25760">2603.25760</a></td>
 </tr>
 </tbody></table>

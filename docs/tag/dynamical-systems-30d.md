@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Kanishk Awadhiya</td>
+<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Liam K Magargal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Borui Cai et al.</td>
@@ -236,17 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27290.html">Linear Recurrent Neural Networks as Time-Delay Embeddings</a></div></td>
 <td>Fisher Ng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27290">2605.27290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24868.html">A comparative study of accuracy and rollout stability of temporal surrogate models</a></div></td>
-<td>Rajarshi Biswas</td>
-<td><a href="http://arxiv.org/abs/2605.24868">2605.24868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25061.html">GL-LFGNN:A Global-Local Dual-branch Causal Graph Neural Network Based on Liang-Kleeman Information Flow for EEG Emotion Recognition</a></div></td>
-<td>Ziyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25061">2605.25061</a></td>
 </tr>
 </tbody></table>

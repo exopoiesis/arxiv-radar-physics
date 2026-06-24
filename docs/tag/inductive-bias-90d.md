@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23791.html">One Generator, Any Process: LLM-Conditioning for the LHC</a></div></td>
+<td>Henning Bahl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23791">2606.23791</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Borui Cai et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25779.html">Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations</a></div></td>
 <td>Matteo Salis et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25779">2603.25779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06020.html">RamPINN: Recovering Raman Spectra From Coherent Anti-Stokes Spectra Using Embedded Physics</a></div></td>
-<td>Sai Karthikeya Vemuri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06020">2510.06020</a></td>
 </tr>
 </tbody></table>

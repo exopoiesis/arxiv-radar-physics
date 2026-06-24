@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Jason Sulskis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22514.html">PI-DOSnet: A Physics-Informed Deep Operator-Splitting Network for Evolution Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
@@ -1130,41 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26803.html">A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Guojie Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26803">2603.26803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21491.html">Nodal Hybrid Neural Solvers for Parametric PDE Systems</a></div></td>
-<td>Yun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21491">2511.21491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23854.html">Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Salah A Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23854">2603.23854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24002.html">Stochastic Dimension-Free Zeroth-Order Estimator for High-Dimensional and High-Order PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Zhangyong Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24002">2603.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24013.html">Bridging Computational Fluid Dynamics Algorithm and Physics-Informed Learning: SIMPLE-PINN for Incompressible Navier-Stokes Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Chang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24013">2603.24013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24090.html">Predicting Grain Growth Evolution Under Complex Thermal Profiles with Deep Learning through Thermal Descriptor Modulation</a></div></td>
-<td>Pungponhavoan Tep et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24090">2603.24090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24196.html">Quantum Neural Physics: Solving Partial Differential Equations on Quantum Simulators using Quantum Convolutional Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
-<td>Jucai Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24196">2603.24196</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
@@ -86,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="sciml-7d.html">sciml</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Gabriel F. Barros et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18149.html">How Sparse and How Noisy? Systematic Benchmarking of Inverse Physics-Informed Neural Networks for Manning Friction Estimation in Shallow Water Equations</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Soheil Radfar</td>
-<td><a href="http://arxiv.org/abs/2606.18149">2606.18149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Georgia Foutsitzi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
 </tr>
 </tbody></table>

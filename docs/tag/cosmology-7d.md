@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cosmology — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19452.html">Validation of the Hybrid Bias Expansion model for the galaxy bispectrum</a></div></td>
 <td>Marcos Pellejero Ibáñez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19452">2606.19452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a> · <a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Giulia Borghetto et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="dark-energy-7d.html">dark-energy</a> · <a href="particle-physics-7d.html">particle-physics</a></div></td>
-<td>Raul Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>sciml — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <a href="sciml-360d.html">360d</a> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Gabriel F. Barros et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17529.html">Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
-<td>Meng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17529">2606.17529</a></td>
 </tr>
 </tbody></table>

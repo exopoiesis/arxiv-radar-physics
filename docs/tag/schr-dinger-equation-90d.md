@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <strong>90d</strong> <a href="schr-dinger-equation-360d.html">360d</a> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,17 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25381.html">Enabling ab initio geometry optimization of strongly correlated systems with transferable deep quantum Monte Carlo</a></div></td>
 <td>P. Bernát Szabó et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25381">2603.25381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23887.html">Predicting quantum ground-state energy by data-driven Koopman analysis of variational parameter nonlinear dynamics</a></div></td>
-<td>Nobuyuki Okuma</td>
-<td><a href="http://arxiv.org/abs/2603.23887">2603.23887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23897.html">Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation</a></div></td>
-<td>Teng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23897">2603.23897</a></td>
 </tr>
 </tbody></table>

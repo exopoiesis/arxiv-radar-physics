@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -1064,41 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26803.html">A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Guojie Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26803">2603.26803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11847.html">An efficient wavelet-based physics-informed neural network for multiscale problems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Himanshu Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11847">2409.11847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23799.html">Resolving gradient pathology in physics-informed epidemiological models</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Nickson Golooba et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23799">2603.23799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24002.html">Stochastic Dimension-Free Zeroth-Order Estimator for High-Dimensional and High-Order PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Zhangyong Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24002">2603.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24013.html">Bridging Computational Fluid Dynamics Algorithm and Physics-Informed Learning: SIMPLE-PINN for Incompressible Navier-Stokes Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Chang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24013">2603.24013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24114.html">FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Chang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24114">2603.24114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24819.html">Weak and entropy physics-informed neural networks for conservation laws</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Ismail Oubarka et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24819">2603.24819</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div></td>
+<td>Yifan Wang</td>
+<td><a href="http://arxiv.org/abs/2606.23219">2606.23219</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="sciml-30d.html">sciml</a></div></td>
 <td>Yuxin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25115.html">Courant: a State-Adaptive Perceiver-Based Neural Surrogate with Local Support and Interpretable Field Decomposition</a></div></td>
-<td>Anuj Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25115">2605.25115</a></td>
 </tr>
 </tbody></table>

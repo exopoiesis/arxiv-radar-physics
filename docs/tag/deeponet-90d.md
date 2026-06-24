@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23502.html">DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation</a></div></td>
+<td>Arup Kumar Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23502">2606.23502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20015.html">Adaptive Distance-Aware Trunk Deep Operator Learning for Long-Span Roadway Bridges</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
 <td>Bilal Ahmed et al.</td>
@@ -290,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25122.html">Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Guojie Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25122">2603.25122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24644.html">Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Debadutta Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24644">2603.24644</a></td>
 </tr>
 </tbody></table>

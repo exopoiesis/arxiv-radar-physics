@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,23 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25039.html">Uncertainty Quantification for Quantum Computing</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Ryan Bennink et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25039">2603.25039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11614.html">Bulk viscous cosmological models with a cosmological constant: Observational constraints</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>R. Noemí Villalobos et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11614">2508.11614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24668.html">A Probabilistic Autoencoder for Galaxy SED Reconstruction and Redshift Estimation: Application to Mock SPHEREx Spectrophotometry</a></div></td>
-<td>Richard M. Feder et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24668">2603.24668</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24751.html">Scalable Bayesian full waveform inversion via dual augmented Lagrangian SVGD</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Kamal Aghazade et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24751">2603.24751</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>jet-tagging — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <strong>360d</strong> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06040.html">Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a> · <a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Arghya Choudhury et al.</td>
 <td><a href="http://arxiv.org/abs/2405.06040">2405.06040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22691.html">Investigation of the performance of a GNN-based b-jet tagging method in heavy-ion collisions</a></div></td>
-<td>Changhwan Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22691">2506.22691</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26042.html">Alt-CC-PINN: An Alternating Optimization Framework with Implicit Neural Representation for Microwave Inverse Scattering Imaging</a></div></td>
 <td>Shilong Sun</td>
 <td><a href="http://arxiv.org/abs/2605.26042">2605.26042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24876.html">IV-Net: A neural network for elliptic PDEs with random and highly varying coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Shan Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24876">2605.24876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25042.html">Unbiased Diffusion Variational Inversion via Principled Posterior Matching</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Weimin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25042">2605.25042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25177.html">Sampling Distributions as Regularization in Learned Inverse Problems</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Sandra R. Babyale et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25177">2605.25177</a></td>
 </tr>
 </tbody></table>

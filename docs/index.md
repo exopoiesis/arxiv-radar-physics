@@ -5,15 +5,81 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-06-23._
+_Updated 2026-06-24._
 
-**19295** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**19308** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24176.html">A Synthetic Reliability-Aware PINN Benchmark for Offshore Wind Turbine Support-Structure Monitoring with Bayesian Inverse Identification</a></div></td>
+<td>Puneet Kant et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24176">2606.24176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
+<td>Callum Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div><div class="paper-tags"><a href="tag/computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Somyajit Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24696">2606.24696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Jason Sulskis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22946.html">Neural Operator Processes for Probabilistic Operator Learning under Partial Observations</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Jose Miguel Lara-Rangel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22946">2606.22946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
+<td>Kanishk Awadhiya</td>
+<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Yifan Wang</td>
+<td><a href="http://arxiv.org/abs/2606.23219">2606.23219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23502.html">DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation</a></div><div class="paper-tags"><a href="tag/deeponet-30d.html">deeponet</a></div></td>
+<td>Arup Kumar Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23502">2606.23502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23791.html">One Generator, Any Process: LLM-Conditioning for the LHC</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Henning Bahl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23791">2606.23791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Liam K Magargal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22331.html">No Reference-Free Generalization in Quantum Machine Learning</a></div><div class="paper-tags"><a href="tag/qml-30d.html">qml</a> · <a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
@@ -99,6 +165,12 @@ _Updated 2026-06-23._
 <td><a href="http://arxiv.org/abs/2606.22601">2606.22601</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/quantum-many-body-systems-30d.html">quantum-many-body-systems</a></div></td>
+<td>Shang-Shun Zhang</td>
+<td><a href="http://arxiv.org/abs/2606.22644">2606.22644</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21828.html">Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
 <td>Jaemin Oh et al.</td>
@@ -121,77 +193,5 @@ _Updated 2026-06-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="tag/equation-discovery-30d.html">equation-discovery</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a> · <a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21945">2606.21945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Debadri Som et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21955.html">From RAN Control to Agentic Intelligence: Architecture and Vision for Energy Efficient AI-RAN</a></div><div class="paper-tags"><a href="tag/rans-30d.html">rans</a></div></td>
-<td>Sabrine Aroua et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21955">2606.21955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22053.html">Gradient-Descent Steps to Success over Mean Accuracy: A Paradigm Shift for ML</a></div><div class="paper-tags"><a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Riccardo Poli et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22053">2606.22053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22143.html">Physics-Informed Eikonal Caging for Whole-Arm Manipulation Planning</a></div></td>
-<td>Yan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22143">2606.22143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22175.html">StickyInvoc: Rethinking Task Models for High-throughput Workflows in the LLM Era</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Thanh Son Phung et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22175">2606.22175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22191.html">A Fractional-Memory Physics-Informed Neural Network with Fast History Compression for Tempered Fractional Coupled Phase-Field Systems</a></div><div class="paper-tags"><a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Shubham Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22191">2606.22191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22194.html">Machine Learning Optimal Quantum Error Correction Thresholds</a></div></td>
-<td>Dominik Seip et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22194">2606.22194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22234.html">Fine-Tuned Machine-Learned Interatomic Potentials for Structural and Vibrational Properties of Twisted 2D Materials</a></div></td>
-<td>Viet-Anh Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22234">2606.22234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21024.html">Negative Knowledge as Failure-aware Shared Memory for AutoResearch</a></div></td>
-<td>Hanchun Wang</td>
-<td><a href="http://arxiv.org/abs/2606.21024">2606.21024</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21044.html">An Asynchronous multi-rate Taylor method for Delay Differential Equations</a></div><div class="paper-tags"><a href="tag/sciml-30d.html">sciml</a></div></td>
-<td>Avinash Malik</td>
-<td><a href="http://arxiv.org/abs/2606.21044">2606.21044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21046.html">On the large-scale vertical velocity intermittency of turbulent wall flows</a></div><div class="paper-tags"><a href="tag/navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Tirtha Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21046">2606.21046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21099.html">ShuffleFlow: Scalable Posterior Inference for Bayesian Inverse Imaging</a></div><div class="paper-tags"><a href="tag/inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Tianao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21099">2606.21099</a></td>
 </tr>
 </tbody></table>

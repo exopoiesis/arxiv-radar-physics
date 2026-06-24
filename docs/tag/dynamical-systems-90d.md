@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Kanishk Awadhiya</td>
+<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Liam K Magargal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
@@ -1130,35 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25597.html">Spatiotemporal System Forecasting with Irregular Time Steps via Masked Autoencoder</a></div></td>
 <td>Kewei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25597">2603.25597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22785.html">Navigating the Latent Space Dynamics of Neural Models</a></div></td>
-<td>Marco Fumero et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22785">2505.22785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02330.html">A Compression Based Classification Framework Using Symbolic Dynamics of Chaotic Maps</a></div></td>
-<td>Parth Naik et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02330">2508.02330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14418.html">Theoretical Note: On the Practical Uses of Mathematical Theory for Attitude Research</a></div></td>
-<td>Mark G. Orr et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14418">2509.14418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00473.html">Deep Neural Networks as Discrete Dynamical Systems: Implications for Physics-Informed Learning</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Abhisek Ganguly et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00473">2601.00473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23854.html">Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Salah A Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23854">2603.23854</a></td>
 </tr>
 </tbody></table>

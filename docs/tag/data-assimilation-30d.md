@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Hans Reimann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24945.html">RealBench: Benchmarking Data-Driven Numerical Weather Forecasting Under Operational Conditions and Extreme Event Challenges</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Ruize Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24945">2605.24945</a></td>
 </tr>
 </tbody></table>

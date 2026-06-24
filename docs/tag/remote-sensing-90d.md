@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,29 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25689.html">LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation</a></div></td>
 <td>Ishaan Gakhar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25689">2603.25689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11804.html">OSMDA: OpenStreetMap-based Domain Adaptation for Remote Sensing VLMs</a></div></td>
-<td>Stefan Maria Ailuro et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11804">2603.11804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24005.html">DB SwinT: A Dual-Branch Swin Transformer Network for Road Extraction in Optical Remote Sensing Imagery</a></div></td>
-<td>Zongyang He et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24005">2603.24005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24552.html">The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series</a></div></td>
-<td>Jan Hemmerling et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24552">2603.24552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24876.html">OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding</a></div></td>
-<td>Xiaoyu Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24876">2603.24876</a></td>
 </tr>
 </tbody></table>

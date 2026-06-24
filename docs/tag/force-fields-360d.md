@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,17 +632,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00884.html">A Scalable and Quantum-Accurate Foundation Model for Biomolecular Force Field via Linearly Tensorized Quadrangle Attention</a></div></td>
 <td>Qun Su et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00884">2507.00884</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04133.html">The JARVIS Infrastructure is All You Need for Materials Design</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2503.04133">2503.04133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22822.html">Size-Dependent Tensile Behavior of Nanocrystalline HfNbTaTiZr High-Entropy Alloy: Roles of Solid-Solution and Short-Range Order</a></div></td>
-<td>Yihan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22822">2506.22822</a></td>
 </tr>
 </tbody></table>

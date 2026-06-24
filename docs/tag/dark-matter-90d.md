@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26196.html">Challenges in Binary Pulsar Timing Detection of Dark Matter Subhalos</a></div></td>
 <td>Zheng-Long Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26196">2603.26196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11614.html">Bulk viscous cosmological models with a cosmological constant: Observational constraints</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>R. Noemí Villalobos et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11614">2508.11614</a></td>
 </tr>
 </tbody></table>

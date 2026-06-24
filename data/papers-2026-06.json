@@ -17822,5 +17822,323 @@
    "Astrophysics & Cosmology"
   ],
   "updated": "2026-06-21"
+ },
+ "2606.22644": {
+  "abstract": "Understanding dynamical properties of quantum many-body systems remains a central challenge because excitations generally require information beyond a ground-state wave function. Here we introduce a neural polaron ansatz that represents quasiparticle excitations by neural many-body operators acting on a correlated ground state. Instead of learning an independent excited-state wave function, the method parameterizes a local dressing operator through a compact neural head defined on the feature map of a pretrained ground-state network. This operator-based construction builds in translation symmetry, momentum resolution, and quasiparticle locality, while separating ground-state correlations from excitation-specific dressing. We benchmark the method on the square-lattice $J_1$-$J_2$ Heisenberg model, where it accurately reproduces magnon dispersions and spectral weights over a broad range of frustration. In particular, it captures nontrivial many-body features including the $(π,0)$ anomaly and its progressive softening with increasing $J_2/J_1$. These results establish neural operators as a physically transparent route for extending neural quantum states from ground-state properties to dynamical response.",
+  "authors": [
+   "Shang-Shun Zhang"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "11 pages, 6 figures",
+  "first_author": "Shang-Shun Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.22644",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-21",
+  "tags": [
+   "neural-operators",
+   "quantum-many-body-systems"
+  ],
+  "title": "Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-21"
+ },
+ "2606.22946": {
+  "abstract": "Neural operators learn mappings between function spaces, but are typically developed with dense input-output training fields and fully observed inputs at inference. Many scientific problems require instead predicting solution fields from sparse, irregular, or partial observations under uncertainty. We introduce Neural Operator Processes (NOPs), a framework that unifies neural-process conditioning with neural-operator decoding to predict full output fields from limited context. NOPs condition on sparse joint input-output observations and support deterministic and probabilistic prediction within a shared encoder-decoder architecture. We study two conditioning strategies, convolutional pooled summaries and query-aligned attention, and analyze how their interaction with latent stochastic variables depends on PDE geometry. Across function regression and three PDE benchmarks, we find that sparse conditional operator learning is viable and can match dense-grid behavior in several regimes, that preserving local context-query geometry is essential in non-periodic settings but less so in spectrally smooth periodic regimes, and that uncertainty-aware operator learning succeeds when latent conditioning complements rather than overwrites the local geometric pathway. These results provide a basis for probabilistic operator learning under partial observations and help bridge operator learning and probabilistic meta-learning in function space.",
+  "authors": [
+   "Jose Miguel Lara-Rangel",
+   "Serge Guillas"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jose Miguel Lara-Rangel",
+  "pdf_url": "http://arxiv.org/pdf/2606.22946",
+  "primary_category": "cs.LG",
+  "published": "2026-06-22",
+  "tags": [
+   "neural-operators",
+   "operator-learning"
+  ],
+  "title": "Neural Operator Processes for Probabilistic Operator Learning under Partial Observations",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23123": {
+  "abstract": "Deep learning models, particularly Transformers and Neural Operators, exhibit a well-documented \"spectral bias,\" effectively acting as low-pass filters that smooth out high-frequency information. While benign in fluid dynamics, this bias is catastrophic for Chaotic Dynamical Systems, where the underlying strange attractor is characterized by fractal geometry and infinite spectral density. We introduce the Fractal Neural Operator (FNO), a novel architecture that utilizes a non-resonant prime number basis to approximate continuous dynamical systems. Unlike geometric encodings ($2^k$), which suffer from spectral gaps and resonance, our Harmonic Weierstrass Encoder injects infinite spectral resolution into the latent space. We demonstrate that FNO extends the valid prediction horizon of the Lorenz-63 system to 347 Lyapunov times, exceeding state-of-the-art Reservoir Computing baselines by a factor of 2.3x. These results suggest that \"chaos\" is not inherently unpredictable to neural networks, but rather requires non-differentiable, fractal embedding manifolds.",
+  "authors": [
+   "Kanishk Awadhiya"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Kanishk Awadhiya",
+  "pdf_url": "http://arxiv.org/pdf/2606.23123",
+  "primary_category": "cs.LG",
+  "published": "2026-06-22",
+  "tags": [
+   "dynamical-systems",
+   "neural-operators"
+  ],
+  "title": "The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23219": {
+  "abstract": "Physical-structure priors such as conservation laws, Hamiltonian forms, and symmetries can improve scientific machine learning when correct, but can degrade predictions when misspecified. Existing methods usually enforce a chosen structure or tune a soft penalty, without a calibrated rule for deciding whether to impose a prior, how strongly to impose it, which prior to use, or which subset of candidate laws holds. We introduce SPADE, Structure-Prior Adaptive Decision Estimation, a closed-form framework that treats this problem as shrinkage of the structure-violating block of an unconstrained estimator. SPADE uses one exact specification test and one estimand: the test decides whether the prior is supported by data, Stein-unbiased James-Stein shrinkage sets the enforcement strength with an $O(σ^2/n)$ oracle guarantee, and a gate commits to the hard prior only when the test certifies it. The same test yields consistent nested structure selection and Benjamini-Hochberg control for subset discovery in non-nested constraint families. Across a linear-subspace prior, a reservoir conservation law, and a nonlinear Hamiltonian prior on Duffing dynamics, SPADE tracks the oracle, beats a neural-network baseline, reduces correct-prior regret from $10.3\\%$ to $2.6\\%$, matches cross-validation with $1/71$ of the solves, selects the correct structure with $100\\%$ accuracy, and recovers partial laws with controlled false relaxation.",
+  "authors": [
+   "Yifan Wang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Yifan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.23219",
+  "primary_category": "cs.AI",
+  "published": "2026-06-22",
+  "tags": [
+   "scientific-machine-learning"
+  ],
+  "title": "SPADE: Structure-Prior Adaptive Decision Estimation",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23359": {
+  "abstract": "Physics-informed neural networks (PINNs) provide an effective way to solve partial differential equations (PDEs) by embedding physical principles into the learning process. However, the conventional PINN formulation, in which all constraints are imposed as soft penalty terms within a composite loss, often exhibits slow convergence, sensitivity to loss weight scaling, and inaccurate boundary enforcement due to poor conditioning of the optimization landscape. To address these limitations, this study proposes a unified hard--soft physics--informed neural network (HSPINN) with adaptive loss weighting. In this framework, Dirichlet and periodic boundary conditions are enforced exactly by construction through analytical or polynomial lifting, masking functions, and periodic feature mappings, while the governing PDE residuals, Neumann fluxes, and initial conditions are treated as soft constraints. An inverse-share softmax strategy dynamically balances the relative importance of individual loss components during training, eliminating manual penalty tuning and improving gradient stability. This formulation ensures boundary admissibility throughout optimization and enhances convergence efficiency and numerical robustness. Applications to representative elliptic (Poisson), parabolic (Burgers), and hyperbolic (convection with periodic boundaries) problems demonstrate that HSPINN consistently achieves faster convergence, higher accuracy, and greater stability than conventional PINNs, establishing a general and scalable foundation for physics-constrained deep learning across science and technology.",
+  "authors": [
+   "Duc Tien Nguyen",
+   "Trinh Minh Tuan",
+   "Nguyen Duc Manh",
+   "Vu Linh Nguyen",
+   "Dinh Gia Ninh"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Duc Tien Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2606.23359",
+  "primary_category": "cs.LG",
+  "published": "2026-06-22",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23502": {
+  "abstract": "Autonomous Underwater Vehicles (AUVs) rely heavily on the fusion of inertial sensors and Doppler velocity logs (DVLs) for navigation. In standard autonomous navigation systems, the DVL measures four beam velocities, thereby enabling the estimation of the AUV velocity vector. However, during real-world missions, the DVL may receive noisy or incomplete beam measurements due to marine obstacles, seabed reflections, or environmental disturbances. Furthermore, some low-cost underwater platforms operate without inertial sensors to reduce system complexity and cost. In such cases, reliable estimation of the AUV velocity vector in real-world missing beam scenarios becomes challenging, leading to degraded navigation solutions. To circumvent these challenges and enable resilient underwater navigation, we propose DVL-DeepONet, a physics-guided deep neural operator framework along with three variants. The proposed models are designed to estimate DVL-based velocity information under multiple operational scenarios, including (i) noise-resilient estimation in coupled inertial/DVL measurements, (ii) DVL-only learning, and (iii) beam measurement recovery. By learning a nonlinear operator that maps temporal inertial/DVL observations directly to vehicle velocity while enforcing DVL measurement physics through a consistency constraint, the proposed approach enables robust velocity estimation even under degraded sensing conditions. The proposed framework is validated using real-world AUV experiments, comprising a cumulative path length of approximately 10,000 m. Experimental results demonstrate that the proposed DVL-DeepONet architectures outperform baseline model-based approaches and learning-based algorithms by 40%.",
+  "authors": [
+   "Arup Kumar Sahoo",
+   "Itzik Klein"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "comment": "15 pages, 6 figures",
+  "first_author": "Arup Kumar Sahoo",
+  "pdf_url": "http://arxiv.org/pdf/2606.23502",
+  "primary_category": "cs.RO",
+  "published": "2026-06-22",
+  "tags": [
+   "deeponet"
+  ],
+  "title": "DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23730": {
+  "abstract": "Channel State Information (CSI) feedback is vital for high spectral efficiency in wireless systems, yet high-dimensional CSI introduce significant feedback overhead. Recent deep learning (DL) approaches alleviate this issue by treating CSI as a visual image, but such \"black-box\" designs often lack interpretability, producing CSI that is not consistent with multipath propagation principles. To address these limitations, this paper proposes HS-PINNnet, a Hierarchical Sensing mechanism assisted Physics-Informed Neural Network for CSI Feedback. Unlike vision-inspired methods, HS-PINNnet integrates a multipath channel model into the network, reformulating high-dimensional CSI reconstruction as low-dimensional multipath parameter estimation (e.g., amplitude, angle). HS-PINNnet features a hierarchical sensing encoder to produce a compact multipath representation, and a heterogeneous decoder for parameter-specific CSI reconstruction, with dedicated branches to estimate different parameters. Moreover, a PCD module adaptively estimates the number of dominant paths in each CSI sample to enhance generalization across diverse environments. A subchannel-wise shared encoding and parallel decoding strategy is further designed to decompose high-dimensional CSI processing into low-dimensional subchannel tasks, reducing training difficulty and improving scalability of HS-PINNnet for future extremely large-scale multiple-input multiple-output (XL-MIMO) systems. Simulation results show that HS-PINNnet outperforms the state-of-the-art under different configurations, achieving a 92.8% reduction in FLOPs and exhibiting two orders of magnitude lower FPGA simulation latency.",
+  "authors": [
+   "Chunyu Ling",
+   "Jiajia Guo",
+   "Yiming Cui",
+   "Chao-Kai Wen",
+   "Shi Jin",
+   "Shuangfeng Han",
+   "Xiaoyun Wang"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": "15 pages, 14 figures",
+  "first_author": "Chunyu Ling",
+  "pdf_url": "http://arxiv.org/pdf/2606.23730",
+  "primary_category": "eess.SP",
+  "published": "2026-06-20",
+  "tags": [],
+  "title": "Physics-Informed Path-Parametric Learning for Efficient and Lightweight CSI Feedback",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.23791": {
+  "abstract": "Neural network training for LHC event generation should, ideally, benefit from common high-level patterns in different processes. We propose novel conditioning schemes for continuous parameters, process labels, and Feynman diagrams. We employ pre-trained LLMs as multi-modal foundation models to provide descriptive embeddings for an autoregressive transformer. With such high-level physics-inductive bias the generative networks converge faster, provide better result, and generalize to unseen processes.",
+  "authors": [
+   "Henning Bahl",
+   "Tilman Plehn",
+   "Daniel Schiller",
+   "Thanush Sivagnanalingam"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "33 pages, 23 figures",
+  "first_author": "Henning Bahl",
+  "pdf_url": "http://arxiv.org/pdf/2606.23791",
+  "primary_category": "hep-ph",
+  "published": "2026-06-22",
+  "tags": [
+   "inductive-bias"
+  ],
+  "title": "One Generator, Any Process: LLM-Conditioning for the LHC",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.23834": {
+  "abstract": "This study investigates the efficient deployment of graph autoencoders, a class of graph neural networks (GNNs), for model-order reduction (MOR) of high-dimensional dynamical systems. The proposed framework leverages graph autoencoders to perform nonlinear dimensionality reduction, enabling low-dimensional representations of systems characterized by sharp gradients for which conventional linear approximations, such as proper orthogonal decomposition (POD), are inadequate. Specifically, this study introduces graph neural network latent space dynamics identification (GNN-LaSDI). GNN-LaSDI employs an operator learning framework to directly approximate the temporal evolution of the graph autoencoder's latent representation. The performance of GNN-LaSDI is assessed against both geometric deep least-squares Petrov-Galerkin (GD-LSPG and POD latent space dynamics identification (POD-LaSDI), which combines POD-based dimensionality reduction with operator learning. In addition to standard error metrics, this work presents a novel point cloud error metric specifically tailored to evaluate the accuracy of the identified locations of sharp gradients within the solution. The effectiveness of the metric and the proposed MOR framework is demonstrated through two numerical experiments featuring sharp gradients. For the studied problems, GNN-LaSDI incurs a substantially lower computational cost than GD-LSPG, though it remains slightly more computationally expensive than POD-LaSDI. However, GNN-LaSDI achieves significantly greater accuracy than POD-LaSDI, thereby providing a balance between predictive accuracy and computational speedup. Additionally, the results indicate that the proposed point cloud error provides a more intuitive and informative measure of reduced-order model accuracy in regions with sharp gradients than conventional error metrics.",
+  "authors": [
+   "Liam K Magargal",
+   "Parisa Khodabakhshi"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "31 pages, 16 figures",
+  "first_author": "Liam K Magargal",
+  "pdf_url": "http://arxiv.org/pdf/2606.23834",
+  "primary_category": "cs.CE",
+  "published": "2026-06-22",
+  "tags": [
+   "dynamical-systems",
+   "operator-learning"
+  ],
+  "title": "Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-22"
+ },
+ "2606.24176": {
+  "abstract": "Reliable structural health monitoring (SHM) of offshore wind turbine (OWT) support structures requires fast state estimation from sparse measurements. Repeated high fidelity finite element or aeroelastic analyses are difficult to use directly in online monitoring loops, while purely data-driven surrogates can require large training sets. This paper presents Digi Turbine, a synthetic reliability-aware Physics Informed Neural Network (PINN) benchmark for OWT monopile support structure monitoring. The workflow embeds a simplified Euler Bernoulli beam equation with Winkler soil foundation in the training objective, couples it with Bayesian-prior-informed inverse identification, and adds First Order Reliability Method (FORM) screening. All validation uses synthetic configurations with analytical or finite-difference ground truth motivated by the NREL 5MW reference turbine context.",
+  "authors": [
+   "Puneet Kant",
+   "Monika Tanwar"
+  ],
+  "categories": [
+   "cs.CL",
+   "stat.CO"
+  ],
+  "comment": "18 Pages, 8 Figures",
+  "first_author": "Puneet Kant",
+  "pdf_url": "http://arxiv.org/pdf/2606.24176",
+  "primary_category": "cs.CL",
+  "published": "2026-06-23",
+  "tags": [],
+  "title": "A Synthetic Reliability-Aware PINN Benchmark for Offshore Wind Turbine Support-Structure Monitoring with Bayesian Inverse Identification",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24660": {
+  "abstract": "Phase-field models play a central role in the continuum description of phase separation, in which the bulk free-energy density and the interfacial thickness parameter determine pattern formation and microstructural evolution. In practice, these constitutive quantities are rarely known a priori and must be inferred from limited dynamical observations. In this work, an extended pseudo-spectral physics-informed neural network (ESPINN) framework is developed for the inverse identification of phase-field models from transient snapshot data. It enables the simultaneous recovery of both the bulk chemical potential and unknown gradient coefficients. Numerical experiments on the one-dimensional Cahn-Hilliard equation demonstrate accurate and statistically stable reconstruction in the noiseless regime, with substantial constitutive information recoverable from even a single snapshot pair. In the presence of noise, reconstruction accuracy degrades gracefully, and increasing the number of snapshots improves robustness by reducing variance across runs. These results establish ESPINN as a data-efficient and physically consistent approach for learning free-energy structure in continuum models of phase separation.",
+  "authors": [
+   "Callum Marsh",
+   "Radek Erban",
+   "Andreas Munch"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.LG",
+   "math.NA",
+   "physics.bio-ph"
+  ],
+  "comment": "20 pages, 10 figures, Data available: https://doi.org/10.5281/zenodo.20797058",
+  "first_author": "Callum Marsh",
+  "pdf_url": "http://arxiv.org/pdf/2606.24660",
+  "primary_category": "q-bio.QM",
+  "published": "2026-06-23",
+  "tags": [],
+  "title": "Extended pseudo-spectral physics-informed neural networks for phase-field models",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24696": {
+  "abstract": "Physics-informed surrogate models can accelerate computational fluid dynamics simulations. However, many existing methods reproduce global flow patterns more reliably than localized multiscale structures. This study presents a physics-informed Fourier-wavelet transformer for next-step velocity-field reconstruction in real-world flow benchmarks. The proposed formulation combines hybrid Fourier-wavelet spectral encoding with physics-biased self-attention based on partial differential equation residual diagnostics. It also uses self-supervised pretraining through Masked Physics Prediction and Equation Consistency Prediction. The experiments are conducted on two real benchmark cases: cylinder-wake flow and fluid-structure interaction. All approaches are evaluated under a shared local protocol and compared with spectral, transformer-based, operator-learning, and physics-informed neural-network baselines. On the cylinder-wake benchmark, the proposed model achieves the best aggregate accuracy, with an all-channel normalized mean-squared error of 0.05875 and an all-channel Pearson correlation coefficient of 0.97019. On the fluid-structure-interaction benchmark, it gives the lowest all-channel normalized mean-squared error of $2.70 \\times 10^{-4}$, compared with $4.02 \\times 10^{-4}$ for the strongest baseline. Component-wise field comparisons and scale-separated diagnostics further show stronger recovery of localized wake structures, including near-body, wake-core, and far-wake features. The results demonstrate improved real-world flow reconstruction while maintaining a practical accuracy-cost tradeoff.",
+  "authors": [
+   "Somyajit Chakraborty",
+   "Ming Pan",
+   "Xizhong Chen"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Somyajit Chakraborty",
+  "pdf_url": "http://arxiv.org/pdf/2606.24696",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-23",
+  "tags": [
+   "computational-fluid-dynamics"
+  ],
+  "title": "A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24851": {
+  "abstract": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the complex FFT carries representational redundancy through conjugate symmetry. We introduce the Hartley Neural Operator (HNO), the exact real-valued mirror of FNO: it replaces the FFT with the purely real Discrete Hartley Transform and learns a single real multiplier per retained spectral mode, with no complex arithmetic. Because the real Hartley spectrum is not halved by conjugate symmetry, HNO retains twice as many frequency corners as FNO but one real weight where FNO carries a complex pair, so the two operators are iso-parametric at equal width and differ only in spectral basis. Our central thesis is that the best basis is a property of the operator. Self-adjoint elliptic operators (Poisson, biharmonic) have real, symmetric Green's functions that the real Hartley multiplier diagonalizes exactly, and HNO is favored there. Time-dependent operators carry phase, from oscillation in the wave equation to transport in advection, Burgers, and Navier-Stokes, which a real diagonal multiplier cannot represent, so FNO is favored there, and increasingly so with the operator's phase content, leaving the phaseless heat equation as the borderline case. Training both operators identically and benchmarking across PDE classes, initial-condition families, and boundary conditions, we find an elliptic-versus-time-dependent split that is monotone in operator phase content and matches the Green's-function theory we develop. Rather than a universal winner, our findings give a predictive rule: match the spectral basis to the symmetry of the solution operator.",
+  "authors": [
+   "Jason Sulskis",
+   "Sathya Ravi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Submitted to/in consideration for the 62nd Allerton Conference on Communication, Control, and Computing",
+  "first_author": "Jason Sulskis",
+  "pdf_url": "http://arxiv.org/pdf/2606.24851",
+  "primary_category": "cs.LG",
+  "published": "2026-06-23",
+  "tags": [
+   "neural-operators",
+   "partial-differential-equations"
+  ],
+  "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-06-23"
  }
 }

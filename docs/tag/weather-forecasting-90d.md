@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25687.html">On Neural Scaling Laws for Weather Emulation through Continual Training</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Shashank Subramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25687">2603.25687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24428.html">Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching</a></div></td>
-<td>Arsen Kuzhamuratov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24428">2603.24428</a></td>
 </tr>
 </tbody></table>

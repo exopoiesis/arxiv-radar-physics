@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Shang-Shun Zhang</td>
+<td><a href="http://arxiv.org/abs/2606.22644">2606.22644</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08546.html">Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos</a></div></td>
 <td>Jaskirat Singh et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02794.html">Scaling Laws for Neural-Network Quantum States</a></div></td>
 <td>Riccardo Rende et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02794">2606.02794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24814.html">Analytic Origin of Green-Function Compression in the Intermediate Representation</a></div></td>
-<td>Takahiro Misawa</td>
-<td><a href="http://arxiv.org/abs/2605.24814">2605.24814</a></td>
 </tr>
 </tbody></table>

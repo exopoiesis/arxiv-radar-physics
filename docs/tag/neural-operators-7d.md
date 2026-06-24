@@ -16,10 +16,34 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Jason Sulskis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22946.html">Neural Operator Processes for Probabilistic Operator Learning under Partial Observations</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Jose Miguel Lara-Rangel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22946">2606.22946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
+<td>Kanishk Awadhiya</td>
+<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22364.html">Physics-Informed Neural Operator for Speech Production Analysis</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
 <td>Kazuya Yokota et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22364">2606.22364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-7d.html">quantum-many-body-systems</a></div></td>
+<td>Shang-Shun Zhang</td>
+<td><a href="http://arxiv.org/abs/2606.22644">2606.22644</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-20</td>
@@ -32,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Yitian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Yahong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17460.html">Operator Boosting Produces Pareto-Efficient PDE Surrogates</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Lennon J. Shikhman</td>
-<td><a href="http://arxiv.org/abs/2606.17460">2606.17460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Oriol Vendrell-Gallart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18221.html">LGNO: A Local-Global Neural Operator for Hyperbolic Conservation Laws</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18221">2606.18221</a></td>
 </tr>
 </tbody></table>

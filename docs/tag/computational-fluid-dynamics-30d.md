@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>
+<td>Somyajit Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24696">2606.24696</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15356.html">ShipNet: A Geometric Deep Learning Surrogate for Real-Time Ship Hydrodynamics</a></div></td>
 <td>Kirsten Odendaal et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26388.html">MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
 <td>Trishit Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26388">2605.26388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25025.html">Micro-Swarm Locomotion Optimization in Dynamic Flow using Multi-Objective Multi-Agent Reinforcement Learning</a></div></td>
-<td>Josef Berman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25025">2605.25025</a></td>
 </tr>
 </tbody></table>

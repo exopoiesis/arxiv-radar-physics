@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1344 papers</span>
+  <span class="paper-count">1346 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Jason Sulskis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22514.html">PI-DOSnet: A Physics-Informed Deep Operator-Splitting Network for Evolution Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>

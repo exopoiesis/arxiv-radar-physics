@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25308.html">Real-time control of multiphase processes with learned operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Paolo Guida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25308">2603.25308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06762.html">A Machine Learning study of the two-dimensional antiferromagnetic $q$-state Potts model on the square lattice</a></div></td>
-<td>Shang-Wei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06762">2512.06762</a></td>
 </tr>
 </tbody></table>

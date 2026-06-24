@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25253.html">MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation</a></div></td>
 <td>Taolin Han et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25253">2603.25253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10402.html">Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering</a></div></td>
-<td>Xinyu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.10402">2601.10402</a></td>
 </tr>
 </tbody></table>

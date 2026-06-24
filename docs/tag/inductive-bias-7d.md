@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23791.html">One Generator, Any Process: LLM-Conditioning for the LHC</a></div></td>
+<td>Henning Bahl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23791">2606.23791</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
 <td>Borui Cai et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a></div></td>
 <td>Martin Uray et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17886.html">Monotonic Kolmogorov-Arnold Networks: A Theoretical and Empirical Study of Monotonicity as an Inductive Bias</a></div></td>
-<td>Mikhail Krasnov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17886">2606.17886</a></td>
 </tr>
 </tbody></table>

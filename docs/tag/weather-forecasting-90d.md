@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25937.html">Event-Aware Loss Design for Forecasting of Convective Precipitation and Lightning</a></div></td>
+<td>ChangJae Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25937">2606.25937</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
@@ -320,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27288.html">StretchCast: Global-Regional AI Weather Forecasting on Stretched Cubed-Sphere Mesh</a></div></td>
 <td>Jin Feng</td>
 <td><a href="http://arxiv.org/abs/2603.27288">2603.27288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12383.html">High-Accuracy Temporal Prediction via Experimental Quantum Reservoir Computing in Correlated Spins</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Yanjun Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12383">2508.12383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25687.html">On Neural Scaling Laws for Weather Emulation through Continual Training</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Shashank Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25687">2603.25687</a></td>
 </tr>
 </tbody></table>

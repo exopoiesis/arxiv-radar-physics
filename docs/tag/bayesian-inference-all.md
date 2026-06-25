@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">667 papers</span>
+  <span class="paper-count">669 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
+<td>Omar Hashash et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22813">2606.22813</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
+<td>C. Namuroy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21789.html">Bayesian three-dimensional seismic travel-time tomography for active- and passive-source seismic data using physics-informed neural network</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>

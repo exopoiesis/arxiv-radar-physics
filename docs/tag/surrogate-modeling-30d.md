@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Danyal Maheshwari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23411">2606.23411</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21781.html">Physics-Preserving Latent Compression for Zero-Shot Resolution Transfer in 3D Turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Yilong Dai et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Deepak Akhare et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25717.html">FLOATBench: A Dataset and Benchmark for Floating Offshore Wind Turbine Tower Fatigue</a></div></td>
-<td>João Alves Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25717">2605.25717</a></td>
 </tr>
 </tbody></table>

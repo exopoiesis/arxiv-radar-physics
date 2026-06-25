@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
+<td>Omar Hashash et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22813">2606.22813</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
+<td>C. Namuroy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21789.html">Bayesian three-dimensional seismic travel-time tomography for active- and passive-source seismic data using physics-informed neural network</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Ryoichiro Agata et al.</td>
@@ -2684,17 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00403.html">Quantum Bayesian inference with Suport vector states for intrusion detection</a></div></td>
 <td>Nayema Mridha et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00403">2507.00403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17763.html">Bayesian Inference of the Critical Endpoint in 2+1-Flavor System from Holographic QCD</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Liqiang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17763">2501.17763</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18685.html">Real-time adaptation of quantum noise channel estimates</a></div><div class="paper-tags"><a href="quantum-error-correction-360d.html">quantum-error-correction</a></div></td>
-<td>Lucas Daguerre et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18685">2501.18685</a></td>
 </tr>
 </tbody></table>

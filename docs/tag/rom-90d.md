@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rom — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <strong>90d</strong> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,17 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04232.html">A Multi-Fidelity Parametric Framework for Reduced-Order Modeling using Optimal Transport-based Interpolation: Applications to Diffused-Interface Two-Phase Flows</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Moaad Khamlich et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04232">2603.04232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24962.html">Nonlinear Model Order Reduction on Quadratic Manifolds via Greedy Algorithms with Dimension-Dependent Regularization</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Lijie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24962">2603.24962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25057.html">From Noisy Data to Hierarchical Control: A Model-Order-Reduction Framework</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Behrad Samari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25057">2603.25057</a></td>
 </tr>
 </tbody></table>

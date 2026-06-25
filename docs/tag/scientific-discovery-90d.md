@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08532.html">DN-Hypo-Pipeline: An AI-Driven Workflow for Generating Hypotheses using Large Language Models and Scientific Explanations</a></div></td>
+<td>Lei Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08532">2606.08532</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25532.html">Agentic evolution of physically constrained foundation models</a></div></td>
+<td>Jiangwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25532">2606.25532</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22859.html">AI Scientists as Engines of Discovery: A Case for Development within Reformed Institutions</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22859">2606.22859</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22175.html">StickyInvoc: Rethinking Task Models for High-throughput Workflows in the LLM Era</a></div></td>
 <td>Thanh Son Phung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22175">2606.22175</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23729.html">Interpretable Material Spatial Intelligence for Discovery of Governing Microstructural Features</a></div></td>
+<td>Mathieu Calvat et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23729">2606.23729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-14</td>
@@ -908,23 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26517.html">The internal law of a material can be discovered from its boundary</a></div></td>
 <td>Francesco Regazzoni</td>
 <td><a href="http://arxiv.org/abs/2603.26517">2603.26517</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23768.html">From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning</a></div></td>
-<td>Cheng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23768">2509.23768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23101.html">SpecXMaster Technical Report</a></div></td>
-<td>Yutang Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23101">2603.23101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25253.html">MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation</a></div></td>
-<td>Taolin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25253">2603.25253</a></td>
 </tr>
 </tbody></table>

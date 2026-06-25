@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Yanwei Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24999">2606.24999</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div></td>
 <td>Yifan Wang</td>
@@ -392,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18325.html">GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Seong-Hoon Jang</td>
 <td><a href="http://arxiv.org/abs/2510.18325">2510.18325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25687.html">On Neural Scaling Laws for Weather Emulation through Continual Training</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Shashank Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25687">2603.25687</a></td>
 </tr>
 </tbody></table>

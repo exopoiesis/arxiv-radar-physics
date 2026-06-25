@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22885.html">Interfacial-melt stability as a thermodynamic prerequisite for solid-state synthesis</a></div></td>
+<td>Zihan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22885">2606.22885</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22375.html">ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery</a></div></td>
 <td>Yi Cao et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Rushikesh Pawar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25866.html">UNATE: UNsupervised ATomic Embedding for crystal structures property prediction</a></div></td>
-<td>Laura Solà-Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25866">2605.25866</a></td>
 </tr>
 </tbody></table>

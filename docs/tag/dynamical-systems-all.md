@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1110 papers</span>
+  <span class="paper-count">1115 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,6 +16,24 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
+<td>Joachim Stein et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24953">2606.24953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25039.html">LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search</a></div></td>
+<td>Nikhil Abhyankar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25039">2606.25039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22969.html">Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction</a></div></td>
+<td>Georg Trede et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22969">2606.22969</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Kanishk Awadhiya</td>
@@ -23,9 +41,21 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23341.html">Partial Observation of Linear Systems with the Mori-Zwanzig Formalism</a></div></td>
+<td>Fan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23341">2606.23341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
 <td>Liam K Magargal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22662.html">LSTM Variants for Chaotic Dynamical Systems: An Empirical Study on the Lorenz Attractor</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>
+<td>Ruslan Gokhman</td>
+<td><a href="http://arxiv.org/abs/2606.22662">2606.22662</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-19</td>

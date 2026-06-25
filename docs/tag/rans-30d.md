@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>C. Namuroy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21955.html">From RAN Control to Agentic Intelligence: Architecture and Vision for Energy Efficient AI-RAN</a></div></td>
 <td>Sabrine Aroua et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Nicolas J. Tricard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26358.html">Deep Learning-based Algebraic Reynolds Stress Closures for RANS Simulations of Turbulent Flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Daniel Dehtyriov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26358">2605.26358</a></td>
 </tr>
 </tbody></table>

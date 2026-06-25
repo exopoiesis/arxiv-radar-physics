@@ -7,18 +7,9 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>koopman-operator — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">0 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-<table class="papers">
-<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
-<tbody>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19303.html">P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution</a></div></td>
-<td> Xizhuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19303">2606.19303</a></td>
-</tr>
-</tbody></table>
+_No papers in this window._

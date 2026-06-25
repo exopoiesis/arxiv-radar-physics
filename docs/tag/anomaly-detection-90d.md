@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24219.html">Decoherence as Defence and the Magnitude of Noise Regularisation: A Rigorous N -Qubit Theory of Stochastic Quantum Neural Networks for Adversarially Robust Network Intrusion Detection</a></div></td>
+<td>Gautier-Edouard Edouard Filardo</td>
+<td><a href="http://arxiv.org/abs/2606.24219">2606.24219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23851.html">Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach</a></div></td>
+<td>Inioluwa Emmanuel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23851">2606.23851</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22556.html">HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection</a></div></td>
@@ -422,35 +434,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26604.html">Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>Sagar Addepalli et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26604">2603.26604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15561.html">CGRA4ML: A Hardware/Software Framework to Implement Neural Networks for Scientific Edge Computing</a></div></td>
-<td>G Abarajithan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15561">2408.15561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24066.html">OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics</a></div><div class="paper-tags"><a href="jet-tagging-90d.html">jet-tagging</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Wahid Bhimji et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24066">2510.24066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05878.html">FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge</a></div></td>
-<td>Xinlong Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05878">2511.05878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06754.html">Learning the Standard Model Manifold: Bayesian Latent Diffusion for Collider Anomaly Detection</a></div></td>
-<td>Jigar Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06754">2603.06754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25103.html">Layer-Specific Lipschitz Modulation for Fault-Tolerant Multimodal Representation Learning</a></div></td>
-<td>Diyar Altinses et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25103">2603.25103</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25259.html">A Neural Surrogate Approach for Simulating Natural Convection Problems</a></div></td>
+<td>Nurshat Menglik et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25259">2606.25259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Shuo Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Jason Sulskis et al.</td>
@@ -836,17 +848,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29117.html">Predictor-Based Output-Feedback Control of Linear Systems with Time-Varying Input and Measurement Delays via Neural-Approximated Prediction Horizons</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Luke Bhan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29117">2603.29117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25404.html">Physics-Informed Neural Operator for Electromagnetic Inverse Scattering Problems</a></div></td>
-<td>Q. C. Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25404">2603.25404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26800.html">DSO: Dual-Scale Neural Operators for Stable Long-term Fluid Dynamics Forecasting</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Huanshuo Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26800">2603.26800</a></td>
 </tr>
 </tbody></table>

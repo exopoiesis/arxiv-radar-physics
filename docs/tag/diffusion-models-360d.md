@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">613 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24208.html">Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control</a></div></td>
+<td>Sabrina Bodmer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24208">2606.24208</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24000.html">Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models</a></div></td>
+<td>Rishabh Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24000">2606.24000</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22477.html">Physically-guided Image Generation for Multi-Projection Mapping</a></div></td>
@@ -3680,11 +3692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23466.html">FD-DiT: Frequency Domain-Directed Diffusion Transformer for Low-Dose CT Reconstruction</a></div></td>
 <td>Qiqing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23466">2506.23466</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05151.html">Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning</a></div></td>
-<td>Chuangtao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05151">2505.05151</a></td>
 </tr>
 </tbody></table>

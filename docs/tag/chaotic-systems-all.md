@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chaotic-systems — all</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <a href="chaotic-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22662.html">LSTM Variants for Chaotic Dynamical Systems: An Empirical Study on the Lorenz Attractor</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Ruslan Gokhman</td>
+<td><a href="http://arxiv.org/abs/2606.22662">2606.22662</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15505.html">Positive-Real Identification of Sparse Mori-Hamiltonians from Partial Observations</a></div><div class="paper-tags"><a href="plasma-physics-all.html">plasma-physics</a></div></td>

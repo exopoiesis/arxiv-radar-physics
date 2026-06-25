@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Eric Jianfeng Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24480">2606.24480</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21490.html">Controlling the phase behaviour of ultraconfined water via bilayer graphene stacking</a></div></td>
 <td>Yixuan Pu et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26471.html">Importance of Electronic Entropy for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Martin Hoffmann Petersen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26471">2603.26471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25373.html">Hessian-informed machine learning interatomic potential towards bridging theory and experiments</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Bangchen Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25373">2603.25373</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,23 +902,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26415.html">KMM-CP: Practical Conformal Prediction under Covariate Shift via Selective Kernel Mean Matching</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Siddhartha Laghuvarapu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26415">2603.26415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24948.html">Latent representation learning based model correction and uncertainty quantification for PDEs</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Wenwen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24948">2603.24948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25039.html">Uncertainty Quantification for Quantum Computing</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Ryan Bennink et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25039">2603.25039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25370.html">A Distribution-to-Distribution Neural Probabilistic Forecasting Framework for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Tianlin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25370">2603.25370</a></td>
 </tr>
 </tbody></table>

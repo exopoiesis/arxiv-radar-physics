@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Danyal Maheshwari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23411">2606.23411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24933.html">Self-Modulating Quantum Fast-Weight Programmers for Efficient Adaptive Sequential Learning</a></div></td>
+<td>Samuel Yen-Chi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24933">2606.24933</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22331.html">No Reference-Free Generalization in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Jeongho Bang</td>
@@ -746,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26604.html">Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>Sagar Addepalli et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26604">2603.26604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03689.html">A Resource Efficient Quantum Kernel</a></div></td>
-<td>Utkarsh Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03689">2507.03689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12383.html">High-Accuracy Temporal Prediction via Experimental Quantum Reservoir Computing in Correlated Spins</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Yanjun Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12383">2508.12383</a></td>
 </tr>
 </tbody></table>

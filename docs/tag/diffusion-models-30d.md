@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24208.html">Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control</a></div></td>
+<td>Sabrina Bodmer et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24208">2606.24208</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24000.html">Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models</a></div></td>
+<td>Rishabh Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24000">2606.24000</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22477.html">Physically-guided Image Generation for Multi-Projection Mapping</a></div></td>
 <td>Xingyun Liu et al.</td>
@@ -206,17 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27006.html">Sampling Data with Chains of Forward-Backward Diffusion Steps</a></div></td>
 <td>Hyunmo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27006">2605.27006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25531.html">From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks</a></div></td>
-<td>Nguyen Cong Luong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25531">2605.25531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div></td>
-<td>Alon Shtrikman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
 </tr>
 </tbody></table>

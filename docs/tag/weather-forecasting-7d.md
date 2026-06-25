@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25937.html">Event-Aware Loss Design for Forecasting of Convective Precipitation and Lightning</a></div></td>
+<td>ChangJae Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25937">2606.25937</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
 <td>Ananyo Bhattacharya</td>
 <td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Anna Asch et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
 </tr>
 </tbody></table>

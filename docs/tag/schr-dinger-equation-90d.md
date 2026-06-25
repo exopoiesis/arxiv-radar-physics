@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <strong>90d</strong> <a href="schr-dinger-equation-360d.html">360d</a> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,23 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12983.html">A Global Spacetime Optimization Approach to the Real-Space Time-Dependent Schrödinger Equation</a></div><div class="paper-tags"><a href="condensed-matter-physics-90d.html">condensed-matter-physics</a></div></td>
 <td>Enze Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12983">2511.12983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05228.html">Physics-Informed Evolution: An Evolutionary Framework for Solving Quantum Control Problems Involving the Schrödinger Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Kaichen Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05228">2502.05228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25066.html">Neural Operator Quantum State: A Foundation Model for Quantum Dynamics</a></div><div class="paper-tags"><a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Zihao Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25066">2603.25066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25381.html">Enabling ab initio geometry optimization of strongly correlated systems with transferable deep quantum Monte Carlo</a></div></td>
-<td>P. Bernát Szabó et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25381">2603.25381</a></td>
 </tr>
 </tbody></table>

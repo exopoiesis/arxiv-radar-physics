@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>lattice-qcd — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <a href="lattice-qcd-90d.html">90d</a> <strong>360d</strong> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13289.html">Generalized Parton Distributions from Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Andrew Dotson et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13289">2504.13289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17763.html">Bayesian Inference of the Critical Endpoint in 2+1-Flavor System from Holographic QCD</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Liqiang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17763">2501.17763</a></td>
 </tr>
 </tbody></table>

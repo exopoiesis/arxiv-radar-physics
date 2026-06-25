@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">558 papers</span>
+  <span class="paper-count">560 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25259.html">A Neural Surrogate Approach for Simulating Natural Convection Problems</a></div></td>
+<td>Nurshat Menglik et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25259">2606.25259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Shuo Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

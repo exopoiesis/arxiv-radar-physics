@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25820.html">Operator Learning on the Data-Driven Multiscale Space for Nonlinear Flow in Random Heterogeneous Porous Media</a></div></td>
+<td>Maria Vasilyeva et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25820">2606.25820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Shuo Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25185.html">Neural operator-based digital twins for modeling amyloid-$β$ and tau propagation and treatment optimization in Alzheimer&#x27;s disease</a></div></td>
+<td>Xiaofeng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25185">2606.25185</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22946.html">Neural Operator Processes for Probabilistic Operator Learning under Partial Observations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -506,17 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28939.html">Foundations of Polar Linear Algebra</a></div></td>
 <td>Giovanni Guasti</td>
 <td><a href="http://arxiv.org/abs/2603.28939">2603.28939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25122.html">Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Guojie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25122">2603.25122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25308.html">Real-time control of multiphase processes with learned operators</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Paolo Guida et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25308">2603.25308</a></td>
 </tr>
 </tbody></table>

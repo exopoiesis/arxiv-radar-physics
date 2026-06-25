@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Xiaodong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25323">2606.25323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25793.html">Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Qingyi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25793">2606.25793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26013.html">G-PINNs: Gaussian-based spatially weighted formulation for PINNs: 1D low-viscous Burgers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Kheir-eddine Otmani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26013">2606.26013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25151.html">Silent Failures in Physics-Informed Neural Networks: Parameter Poisoning and the Limits of Loss-Based Validation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>David McShannon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25151">2606.25151</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Duc Tien Nguyen et al.</td>
@@ -962,29 +986,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26921.html">Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Nikolaos M. Matzakos et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26921">2603.26921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05228.html">Physics-Informed Evolution: An Evolutionary Framework for Solving Quantum Control Problems Involving the Schrödinger Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
-<td>Kaichen Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05228">2502.05228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24948.html">Latent representation learning based model correction and uncertainty quantification for PDEs</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Wenwen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24948">2603.24948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25122.html">Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Guojie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25122">2603.25122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26803.html">A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Guojie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26803">2603.26803</a></td>
 </tr>
 </tbody></table>

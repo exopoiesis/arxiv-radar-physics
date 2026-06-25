@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,15 +16,33 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25312.html">LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection</a></div></td>
+<td>Qinzhe Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25312">2606.25312</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25324.html">Efficient Remote Sensing Instance Segmentation with Linear-Time State Space Distilled Visual Foundation Models</a></div></td>
+<td>Qinzhe Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25324">2606.25324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23356.html">Changing Modalities: Adapting Remote Sensing Models to New Satellites and Sensors</a></div></td>
+<td>Tim G. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23356">2606.23356</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23615.html">Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark</a></div></td>
+<td>Nathan Senyard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23615">2606.23615</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21475.html">Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features</a></div></td>
 <td>Adrian Canovas-Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21475">2606.21475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
-<td>Timothy Agboada et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19277">2606.19277</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26471.html">Importance of Electronic Entropy for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Martin Hoffmann Petersen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26471">2603.26471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11097.html">Intrinsic structure of relaxor ferroelectrics from first principles</a></div></td>
-<td>Xinyu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11097">2511.11097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25373.html">Hessian-informed machine learning interatomic potential towards bridging theory and experiments</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Bangchen Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25373">2603.25373</a></td>
 </tr>
 </tbody></table>

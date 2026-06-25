@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
+<td>Omar Hashash et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22813">2606.22813</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
+<td>C. Namuroy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21789.html">Bayesian three-dimensional seismic travel-time tomography for active- and passive-source seismic data using physics-informed neural network</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -746,11 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26405.html">Simulation-based Inference towards Gravitational-wave waveform systematics in Intermediate-Mass Binary Black Holes</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
 <td>Sama Al-Shammari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26405">2603.26405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25039.html">Uncertainty Quantification for Quantum Computing</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Ryan Bennink et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25039">2603.25039</a></td>
 </tr>
 </tbody></table>

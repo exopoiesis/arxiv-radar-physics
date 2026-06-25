@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Xiaodong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25323">2606.25323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Jason Sulskis et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Yanwei Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24999">2606.24999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25151.html">Silent Failures in Physics-Informed Neural Networks: Parameter Poisoning and the Limits of Loss-Based Validation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>David McShannon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25151">2606.25151</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Duc Tien Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23402.html">Physics-Informed Modeling for Wood Thermal Analysis and Prediction</a></div></td>
+<td>Jingren Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23402">2606.23402</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-21</td>
@@ -1112,35 +1136,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26643.html">Boundary neuron method for solving partial differential equations</a></div></td>
 <td>Ye Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26643">2603.26643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13772.html">Tensor Gaussian Processes: Efficient Solvers for Nonlinear PDEs</a></div></td>
-<td>Qiwei Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13772">2510.13772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24962.html">Nonlinear Model Order Reduction on Quadratic Manifolds via Greedy Algorithms with Dimension-Dependent Regularization</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
-<td>Lijie Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24962">2603.24962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25122.html">Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Guojie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25122">2603.25122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26800.html">DSO: Dual-Scale Neural Operators for Stable Long-term Fluid Dynamics Forecasting</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Huanshuo Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26800">2603.26800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26803.html">A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Guojie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26803">2603.26803</a></td>
 </tr>
 </tbody></table>

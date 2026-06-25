@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25793.html">Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Qingyi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25793">2606.25793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25169.html">Laplace--Fisher Gate Identities for Optimal Matrix-Gated Blended Score Estimation</a></div></td>
+<td>Alois Duston et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25169">2606.25169</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23838.html">The Degeneracy Distillery</a></div></td>
+<td>T. Lucas Makinen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23838">2606.23838</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -2426,11 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23892.html">Dimension and model reduction approaches for linear Bayesian inverse problems with rank-deficient prior covariances</a></div></td>
 <td>Josie König et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23892">2506.23892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23311.html">Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction</a></div></td>
-<td>Perla Mayo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23311">2506.23311</a></td>
 </tr>
 </tbody></table>

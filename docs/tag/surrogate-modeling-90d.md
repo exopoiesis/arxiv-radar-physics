@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Danyal Maheshwari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23411">2606.23411</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21781.html">Physics-Preserving Latent Compression for Zero-Shot Resolution Transfer in 3D Turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>

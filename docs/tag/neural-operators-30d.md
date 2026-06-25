@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25259.html">A Neural Surrogate Approach for Simulating Natural Convection Problems</a></div></td>
+<td>Nurshat Menglik et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25259">2606.25259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Shuo Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Jason Sulskis et al.</td>
@@ -266,17 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26732.html">APEX: Amplitude Anchors and Phase Priors for Target-Scarce Higher-Frequency Wave Prediction</a></div></td>
 <td>Yifan Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26732">2605.26732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25413.html">Autoregression-Free Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Jiaquan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25413">2605.25413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25786.html">NPSolver: Neural Poisson Solver with Iterative Physics Supervision</a></div></td>
-<td>Bocheng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25786">2605.25786</a></td>
 </tr>
 </tbody></table>

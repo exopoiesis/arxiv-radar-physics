@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24219.html">Decoherence as Defence and the Magnitude of Noise Regularisation: A Rigorous N -Qubit Theory of Stochastic Quantum Neural Networks for Adversarially Robust Network Intrusion Detection</a></div></td>
+<td>Gautier-Edouard Edouard Filardo</td>
+<td><a href="http://arxiv.org/abs/2606.24219">2606.24219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23851.html">Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach</a></div></td>
+<td>Inioluwa Emmanuel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23851">2606.23851</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22556.html">HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection</a></div></td>
 <td>Jiayu Huo et al.</td>
@@ -26,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
 <td>Youji Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20055">2606.20055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18621.html">Towards Anomaly Detection on Relational Data</a></div></td>
-<td>Shiyuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18621">2606.18621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
-<td>Martin Uray et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
 </tr>
 </tbody></table>

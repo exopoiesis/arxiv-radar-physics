@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>condensed-matter-physics — all</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <a href="condensed-matter-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25479.html">Automatic-differentiation-enabled dynamic parameter retrieval with sub-pulse-width resolution</a></div></td>
+<td>Huaiyue Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25479">2606.25479</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="symbolic-regression-all.html">symbolic-regression</a></div></td>

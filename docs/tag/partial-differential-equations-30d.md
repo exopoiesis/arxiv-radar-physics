@@ -16,16 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Xiaodong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25323">2606.25323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Jason Sulskis et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Yanwei Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24999">2606.24999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25151.html">Silent Failures in Physics-Informed Neural Networks: Parameter Poisoning and the Limits of Loss-Based Validation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>David McShannon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25151">2606.25151</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23359.html">Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Duc Tien Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23359">2606.23359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23402.html">Physics-Informed Modeling for Wood Thermal Analysis and Prediction</a></div></td>
+<td>Jingren Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23402">2606.23402</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-21</td>
@@ -278,29 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27308.html">PINNsur: Physics-Informed Neural Networks for PDEs on Curved Surfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Pranav Jain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27308">2605.27308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25413.html">Autoregression-Free Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Jiaquan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25413">2605.25413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25562.html">Consistent CutPINNs for Elliptic PDEs on Curved Level-Set Domains</a></div></td>
-<td>Maneesh Kumar Singh</td>
-<td><a href="http://arxiv.org/abs/2605.25562">2605.25562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25867.html">CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Pietro Zanotta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25867">2605.25867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26341.html">A PAC-Bayesian View of Generalisation for Physics-Informed Machine Learning</a></div></td>
-<td>Thien V. Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26341">2605.26341</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26312.html">Tailor Made Embeddings for Quantum Machine Learning</a></div></td>
+<td>Aldo Lamarre et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26312">2606.26312</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Danyal Maheshwari et al.</td>
@@ -752,11 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27377.html">Non-Unitary Quantum Machine Learning: Fisher Efficiency Transitions from Distributed Quantum Expressivity</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Apoorv Kumar Masta et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27377">2603.27377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26604.html">Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Sagar Addepalli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26604">2603.26604</a></td>
 </tr>
 </tbody></table>

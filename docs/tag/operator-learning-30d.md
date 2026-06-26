@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26652.html">Scalable Operator Learning via Nyström Approximation With Denoising Applications</a></div></td>
+<td>Naveen Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26652">2606.26652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25820.html">Operator Learning on the Data-Driven Multiscale Space for Nonlinear Flow in Random Heterogeneous Porous Media</a></div></td>
 <td>Maria Vasilyeva et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02427.html">Spectral Audit of In-Context Operator Networks</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Zhiwei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02427">2606.02427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Deepak Akhare et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
 </tr>
 </tbody></table>

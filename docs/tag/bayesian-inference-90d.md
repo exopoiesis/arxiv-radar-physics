@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26164.html">\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation</a></div></td>
+<td>Ira Wolfson</td>
+<td><a href="http://arxiv.org/abs/2606.26164">2606.26164</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
@@ -746,17 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27276.html">PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python</a></div></td>
 <td>Esmail Abdul Fattah et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27276">2603.27276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17986.html">Observational Signatures of Exact Black Hole Solutions in a Dark Matter Halo</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>Azalbek Boltaev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17986">2603.17986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26405.html">Simulation-based Inference towards Gravitational-wave waveform systematics in Intermediate-Mass Binary Black Holes</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Sama Al-Shammari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26405">2603.26405</a></td>
 </tr>
 </tbody></table>

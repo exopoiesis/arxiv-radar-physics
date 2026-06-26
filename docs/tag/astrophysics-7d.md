@@ -7,9 +7,18 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>astrophysics — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
+<td>Kevin Coldren et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26405">2606.26405</a></td>
+</tr>
+</tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">715 papers</span>
+  <span class="paper-count">718 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inductive-bias-360d.html">inductive-bias</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26727.html">One-shot prediction of noise-induced bifurcations with reservoir computing</a></div></td>
+<td>Nozomi Akashi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26727">2606.26727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27294.html">Generative Models on Analog Hardware with Dynamics</a></div></td>
+<td>Yu-Neng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27294">2606.27294</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
@@ -188,6 +206,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Shufeng Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-08</td>
@@ -4298,11 +4322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04775.html">Learning dynamical systems from data: Gradient-based dictionary optimization</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Mohammad Tabish et al.</td>
 <td><a href="http://arxiv.org/abs/2411.04775">2411.04775</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13791.html">ROCK: A variational formulation for occupation kernel methods in Reproducing Kernel Hilbert Spaces</a></div></td>
-<td>Victor Rielly et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13791">2503.13791</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26722.html">Socratic agents for autonomous scientific discovery in high-dimensional physical systems</a></div></td>
+<td>Xianrui Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26722">2606.26722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26728.html">Scientific discovery as meta-optimization: a combinatorial optimization case study</a></div></td>
+<td>Yuan-Hang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26728">2606.26728</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08532.html">DN-Hypo-Pipeline: An AI-Driven Workflow for Generating Hypotheses using Large Language Models and Scientific Explanations</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25532.html">Agentic evolution of physically constrained foundation models</a></div></td>
 <td>Jiangwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25532">2606.25532</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26359.html">Accelerating Returns and the Qualitative Engine for Science</a></div></td>
+<td>Guojun Liao</td>
+<td><a href="http://arxiv.org/abs/2606.26359">2606.26359</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -44,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23729.html">Interpretable Material Spatial Intelligence for Discovery of Governing Microstructural Features</a></div></td>
 <td>Mathieu Calvat et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23729">2606.23729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26132.html">Code evolution for link prediction in complex networks</a></div></td>
+<td>Alexey Vlaskin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26132">2606.26132</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-14</td>
@@ -896,41 +920,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29075.html">The Future of AI is Many, Not One</a></div></td>
 <td>Daniel J. Singer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29075">2603.29075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14043.html">AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance</a></div></td>
-<td>Chandrachur Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14043">2511.14043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04051.html">Symbolic Regression for Shared Expressions: Introducing Partial Parameter Sharing</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Viktor Martinek et al.</td>
-<td><a href="http://arxiv.org/abs/2601.04051">2601.04051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20396.html">cc-Shapley: Measuring Multivariate Feature Importance Needs Causal Context</a></div></td>
-<td>Jörg Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20396">2602.20396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26415.html">KMM-CP: Practical Conformal Prediction under Covariate Shift via Selective Kernel Mean Matching</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Siddhartha Laghuvarapu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26415">2603.26415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26496.html">Innovation Discovery System for Networking Research</a></div></td>
-<td>Mengrui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26496">2603.26496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26517.html">The internal law of a material can be discovered from its boundary</a></div></td>
-<td>Francesco Regazzoni</td>
-<td><a href="http://arxiv.org/abs/2603.26517">2603.26517</a></td>
 </tr>
 </tbody></table>

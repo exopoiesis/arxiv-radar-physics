@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27285.html">Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs</a></div></td>
+<td>Yang Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27285">2606.27285</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Yanwei Jia et al.</td>
@@ -392,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28073.html">SIMR-NO: A Spectrally-Informed Multi-Resolution Neural Operator for Turbulent Flow Super-Resolution</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Muhammad Abid et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28073">2603.28073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18325.html">GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Seong-Hoon Jang</td>
-<td><a href="http://arxiv.org/abs/2510.18325">2510.18325</a></td>
 </tr>
 </tbody></table>

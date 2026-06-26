@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01814.html">Where are all the dark galaxies? Predicting galaxy/halo locations from their bright neighbors</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Alice Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01814">2507.01814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00134.html">Causal Discovery of Latent Variables in Galactic Archaeology</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Zehao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00134">2507.00134</a></td>
 </tr>
 </tbody></table>

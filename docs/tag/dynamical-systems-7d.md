@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="inductive-bias-7d.html">inductive-bias</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26727.html">One-shot prediction of noise-induced bifurcations with reservoir computing</a></div></td>
+<td>Nozomi Akashi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26727">2606.26727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27294.html">Generative Models on Analog Hardware with Dynamics</a></div></td>
+<td>Yu-Neng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27294">2606.27294</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
@@ -80,17 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
 <td>Sina Arefizadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Juntian Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20967.html">Formalizing Task-Space Complexity for Zero-Shot Generalization</a></div></td>
-<td>Jung-Hoon Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20967">2606.20967</a></td>
 </tr>
 </tbody></table>

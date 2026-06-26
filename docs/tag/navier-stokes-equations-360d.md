@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -560,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02525.html">Data-Driven Transient Growth Analysis</a></div></td>
 <td>Zhicheng Kai et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02525">2507.02525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16767.html">Online model learning with data-assimilated reservoir computers</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Andrea Nóvoa et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16767">2504.16767</a></td>
 </tr>
 </tbody></table>

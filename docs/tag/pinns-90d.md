@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,11 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25311.html">Aspects of holographic entanglement using physics-informed-neural-networks</a></div></td>
 <td>Anirudh Deb et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25311">2509.25311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26921.html">Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Nikolaos M. Matzakos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26921">2603.26921</a></td>
 </tr>
 </tbody></table>

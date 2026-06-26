@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27177.html">A hybrid IFENN solver for generalizable modeling of phase-field fracture initiation and propagation</a></div></td>
+<td>Panos Pantidis et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27177">2606.27177</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
 <td>Shuo Ling et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23502.html">DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation</a></div></td>
 <td>Arup Kumar Sahoo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23502">2606.23502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20015.html">Adaptive Distance-Aware Trunk Deep Operator Learning for Long-Span Roadway Bridges</a></div><div class="paper-tags"><a href="sciml-7d.html">sciml</a></div></td>
-<td>Bilal Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20015">2606.20015</a></td>
 </tr>
 </tbody></table>

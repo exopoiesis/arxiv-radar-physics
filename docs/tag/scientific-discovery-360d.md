@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">503 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26722.html">Socratic agents for autonomous scientific discovery in high-dimensional physical systems</a></div></td>
+<td>Xianrui Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26722">2606.26722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26728.html">Scientific discovery as meta-optimization: a combinatorial optimization case study</a></div></td>
+<td>Yuan-Hang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26728">2606.26728</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08532.html">DN-Hypo-Pipeline: An AI-Driven Workflow for Generating Hypotheses using Large Language Models and Scientific Explanations</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25532.html">Agentic evolution of physically constrained foundation models</a></div></td>
 <td>Jiangwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25532">2606.25532</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26359.html">Accelerating Returns and the Qualitative Engine for Science</a></div></td>
+<td>Guojun Liao</td>
+<td><a href="http://arxiv.org/abs/2606.26359">2606.26359</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -44,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23729.html">Interpretable Material Spatial Intelligence for Discovery of Governing Microstructural Features</a></div></td>
 <td>Mathieu Calvat et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23729">2606.23729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26132.html">Code evolution for link prediction in complex networks</a></div></td>
+<td>Alexey Vlaskin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26132">2606.26132</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-14</td>
@@ -3020,17 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00964.html">Benchmarking the Discovery Engine</a></div></td>
 <td>Jack Foxabbott et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00964">2507.00964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23692.html">Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models</a></div></td>
-<td>Boyuan Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23692">2506.23692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00092.html">Thinking About Thinking: SAGE-nano&#x27;s Inverse Reasoning for Self-Aware Language Models</a></div></td>
-<td>Basab Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00092">2507.00092</a></td>
 </tr>
 </tbody></table>

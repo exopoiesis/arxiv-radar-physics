@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="inductive-bias-7d.html">inductive-bias</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27001.html">Uncertainty quantification via conformal prediction in data assimilation</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
+<td>Catherine George et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27001">2606.27001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
@@ -38,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21728.html">Embedding Linear Equality Constraints in Probabilistic Neural Networks for Dynamic Modelling</a></div></td>
 <td>Matthew Marsh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21728">2606.21728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
-<td>Antonio Varagnolo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20497">2606.20497</a></td>
 </tr>
 </tbody></table>

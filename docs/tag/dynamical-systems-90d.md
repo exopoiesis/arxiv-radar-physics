@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26727.html">One-shot prediction of noise-induced bifurcations with reservoir computing</a></div></td>
+<td>Nozomi Akashi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26727">2606.26727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27294.html">Generative Models on Analog Hardware with Dynamics</a></div></td>
+<td>Yu-Neng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27294">2606.27294</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
@@ -188,6 +206,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10530.html">Machine Learning Methods for Studying Latent Neural Activity Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Shufeng Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-08</td>
@@ -1142,11 +1166,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27062.html">Conformalized Signal Temporal Logic Inference under Covariate Shift</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Yixuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27062">2603.27062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00472.html">Binned Spectral Power Loss for Improved Prediction of Chaotic Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00472">2502.00472</a></td>
 </tr>
 </tbody></table>

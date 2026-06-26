@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27285.html">Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs</a></div></td>
+<td>Yang Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27285">2606.27285</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yanwei Jia et al.</td>
@@ -1256,11 +1262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03206.html">Weak Form Scientific Machine Learning: Test Function Construction for System Identification</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>April Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03206">2507.03206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.24101.html">Learning Structured Population Models from Data with WSINDy</a></div></td>
-<td>Rainey Lyons et al.</td>
-<td><a href="http://arxiv.org/abs/2506.24101">2506.24101</a></td>
 </tr>
 </tbody></table>

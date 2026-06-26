@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
+<td>Kevin Coldren et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26405">2606.26405</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Christopher Cain et al.</td>
@@ -188,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22412.html">Multivariate Time Series Classification of Fermi-Detected Gamma-Ray Transients Using Convolutional-Recurrent Neural Networks</a></div></td>
 <td>Arpan Aryam John et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22412">2510.22412</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04051.html">Symbolic Regression for Shared Expressions: Introducing Partial Parameter Sharing</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Viktor Martinek et al.</td>
-<td><a href="http://arxiv.org/abs/2601.04051">2601.04051</a></td>
 </tr>
 </tbody></table>

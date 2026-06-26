@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Yuanzhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26592">2606.26592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Deepak Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Xiaodong Liu et al.</td>
@@ -182,6 +194,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Manuel Reyna et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -1118,23 +1136,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27929.html">Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Ehsan Zeraatkar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27929">2603.27929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27643.html">Bayesian Optimization on Networks</a></div></td>
-<td>Wenwen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27643">2510.27643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26418.html">Kantorovich--Kernel Neural Operators: Approximation Theory, Asymptotics, and Neural Network Interpretation</a></div></td>
-<td>Tian-Xiao He</td>
-<td><a href="http://arxiv.org/abs/2603.26418">2603.26418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26643.html">Boundary neuron method for solving partial differential equations</a></div></td>
-<td>Ye Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26643">2603.26643</a></td>
 </tr>
 </tbody></table>

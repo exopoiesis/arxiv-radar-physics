@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
+<td>Kevin Coldren et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26405">2606.26405</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Christopher Cain et al.</td>
@@ -752,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01224.html">FLARE: A Dataflow-Aware and Scalable Hardware Architecture for Neural-Hybrid Scientific Lossy Compression</a></div></td>
 <td>Wenqi Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01224">2507.01224</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00134.html">Causal Discovery of Latent Variables in Galactic Archaeology</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Zehao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00134">2507.00134</a></td>
 </tr>
 </tbody></table>

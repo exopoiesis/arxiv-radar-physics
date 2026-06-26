@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26760.html">An Iterative Dual-Channel Neural Quantum State Algorithm for Selected Configuration Interaction</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
+<td>Jen-Yu Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26760">2606.26760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27021.html">SMR: Scheduler with Multi-Channel Map-Encoded Reinforcement Learning for Radio Telescopes</a></div></td>
+<td>Zhenyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27021">2606.27021</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25497.html">SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation</a></div></td>
@@ -332,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00027.html">Learning Inter-Atomic Potentials without Explicit Equivariance</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Ahmed A. Elhag et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00027">2510.00027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18325.html">GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Seong-Hoon Jang</td>
-<td><a href="http://arxiv.org/abs/2510.18325">2510.18325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26921.html">Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Nikolaos M. Matzakos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26921">2603.26921</a></td>
 </tr>
 </tbody></table>

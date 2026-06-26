@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>detector-simulation — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <strong>90d</strong> <a href="detector-simulation-360d.html">360d</a> <a href="detector-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11834.html">An AI-based Detector Simulation and Reconstruction Model for the ALEPH Experiment at LEP</a></div></td>
 <td>Ya-Feng Lo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11834">2604.11834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28804.html">Generalizable Foundation Models for Calorimetry via Mixtures-of-Experts and Parameter Efficient Fine Tuning</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Carlos Cardona-Giraldo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28804">2603.28804</a></td>
 </tr>
 </tbody></table>

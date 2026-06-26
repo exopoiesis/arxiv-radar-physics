@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27001.html">Uncertainty quantification via conformal prediction in data assimilation</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Catherine George et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27001">2606.27001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27267.html">Sparse Sensor Placement for Reducing Forecast Errors in Ensemble Kalman Filtering</a></div></td>
+<td>Takumi Saito et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27267">2606.27267</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24989.html">Low-Cost High-Order Singular Value Decomposition for Tensor-Based Reconstruction from Sparse Sensor Measurements: Urban Flow and Air-Quality Applications</a></div></td>
@@ -236,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00082.html">Deep-Learned Observation Operators for Artificial Intelligence Weather Forecasting Models</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Kelsey Lieberman et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00082">2604.00082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26975.html">Probabilistic Forecasting of Localized Wildfire Spread Based on Conditional Flow Matching</a></div></td>
-<td>Bryan Shaddy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26975">2603.26975</a></td>
 </tr>
 </tbody></table>

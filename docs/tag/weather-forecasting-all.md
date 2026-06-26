@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25937.html">Event-Aware Loss Design for Forecasting of Convective Precipitation and Lightning</a></div></td>
 <td>ChangJae Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25937">2606.25937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26389.html">Sampling sea state using a diffusion model</a></div></td>
+<td>Jiarong Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26389">2606.26389</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-19</td>

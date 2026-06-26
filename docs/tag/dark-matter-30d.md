@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
+<td>Tri Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26218">2606.26218</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21658.html">Towards LLM-Powered Automation of a Dark Matter Constraint Repository</a></div></td>
 <td>Lanqing Yuan et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29876.html">Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
 <td>Colton R. Feathers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29876">2605.29876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Gourab Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
 </tr>
 </tbody></table>

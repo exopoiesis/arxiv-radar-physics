@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,23 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21718.html">ANCHOR: Adaptive Network based on Cascaded Harmonic Offset Routing</a></div></td>
 <td>Wangye Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21718">2603.21718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07819.html">ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection</a></div></td>
-<td>Ke Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07819">2508.07819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25538.html">Missing-Aware Multimodal Fusion for Unified Microservice Incident Management</a></div></td>
-<td>Wenzhuo Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25538">2603.25538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26604.html">Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Sagar Addepalli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26604">2603.26604</a></td>
 </tr>
 </tbody></table>

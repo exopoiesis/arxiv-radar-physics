@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00881.html">Algebraic Reductibility Experiments of RANS-Inspired Equations</a></div></td>
 <td>Carla Valencia et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00881">2406.00881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01994.html">Curated Collaborative AI Edge with Network Data Analytics for B5G/6G Radio Access Networks</a></div></td>
-<td>Sardar Jaffar Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01994">2507.01994</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="rom-30d.html">rom</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Minseo Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27578.html">From Centerlines to Hemodynamics: Anisotropic RBF Decoders for Coronary Arteries</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Reza Akbarian Bafghi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27578">2605.27578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27725.html">CFDTwin: An open-source GUI and Python toolkit for POD-NN surrogate modeling of ANSYS Fluent simulations</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Daniel Curl et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27725">2605.27725</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27094.html">Learning Climate Variability from Scarce Data with Diffusion Models: A Test Case for ENSO</a></div></td>
+<td>Lluis Palma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27094">2606.27094</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24208.html">Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control</a></div></td>
 <td>Sabrina Bodmer et al.</td>
@@ -950,11 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08586.html">FluidFlow: a flow-matching generative model for fluid dynamics surrogates on unstructured meshes</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>David Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08586">2604.08586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26078.html">When Identities Collapse: A Stress-Test Benchmark for Multi-Subject Personalization</a></div></td>
-<td>Zhihan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26078">2603.26078</a></td>
 </tr>
 </tbody></table>

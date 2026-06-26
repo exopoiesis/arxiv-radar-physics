@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Yuanzhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26592">2606.26592</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25793.html">Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Qingyi Lin et al.</td>
@@ -2438,11 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06250.html">DGenNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yaohua Zang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.06250">2502.06250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23892.html">Dimension and model reduction approaches for linear Bayesian inverse problems with rank-deficient prior covariances</a></div></td>
-<td>Josie König et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23892">2506.23892</a></td>
 </tr>
 </tbody></table>

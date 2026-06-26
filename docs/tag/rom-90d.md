@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rom — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <strong>90d</strong> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21852.html">Interpretable Diagnostics and Adaptive Data Assimilation for Neural ODEs via Discrete Empirical Interpolation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
 <td>Hojin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21852">2510.21852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04232.html">A Multi-Fidelity Parametric Framework for Reduced-Order Modeling using Optimal Transport-based Interpolation: Applications to Diffused-Interface Two-Phase Flows</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Moaad Khamlich et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04232">2603.04232</a></td>
 </tr>
 </tbody></table>

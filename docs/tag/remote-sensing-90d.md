@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27018.html">On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events</a></div></td>
+<td>S. Ramírez-Gallego</td>
+<td><a href="http://arxiv.org/abs/2606.27018">2606.27018</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25312.html">LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection</a></div></td>
 <td>Qinzhe Yang et al.</td>
@@ -26,6 +32,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25324.html">Efficient Remote Sensing Instance Segmentation with Linear-Time State Space Distilled Visual Foundation Models</a></div></td>
 <td>Qinzhe Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25324">2606.25324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26204.html">Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery</a></div></td>
+<td>Sophia Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26204">2606.26204</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26416.html">Methane-Plume Segmentation From Hyperspectral Satellite Imagery Via Multimodal Deep Learning</a></div></td>
+<td>Brayan Quintero et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26416">2606.26416</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -800,23 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27357.html">Guided Lensless Polarization Imaging</a></div></td>
 <td>Noa Kraicer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27357">2603.27357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10163.html">SSeg: Active Sparse Point-Label Augmentation for Semantic Segmentation</a></div></td>
-<td>Cesar Borja et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10163">2510.10163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13352.html">Local Precise Refinement: A Dual-Gated Mixture-of-Experts for Enhancing Foundation Model Generalization against Spectral Shifts</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13352">2603.13352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17528.html">MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing</a></div></td>
-<td>Yimin Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17528">2603.17528</a></td>
 </tr>
 </tbody></table>

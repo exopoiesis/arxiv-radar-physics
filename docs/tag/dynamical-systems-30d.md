@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26727.html">One-shot prediction of noise-induced bifurcations with reservoir computing</a></div></td>
+<td>Nozomi Akashi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26727">2606.26727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27294.html">Generative Models on Analog Hardware with Dynamics</a></div></td>
+<td>Yu-Neng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27294">2606.27294</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
@@ -190,6 +208,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.10530">2606.10530</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09432.html">Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems</a></div></td>
 <td>Karn Tiwari et al.</td>
@@ -260,23 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
 <td>Luca Sosta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28452">2605.28452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26619.html">PIDM-DP: Physics-Informed Diffusion with Dormand-Prince Integration for Chaotic System Identification and State Reconstruction across Multiple Dynamical Regimes</a></div></td>
-<td>Shailendra Dabral</td>
-<td><a href="http://arxiv.org/abs/2605.26619">2605.26619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="data-assimilation-30d.html">data-assimilation</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Hans Reimann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27290.html">Linear Recurrent Neural Networks as Time-Delay Embeddings</a></div></td>
-<td>Fisher Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27290">2605.27290</a></td>
 </tr>
 </tbody></table>

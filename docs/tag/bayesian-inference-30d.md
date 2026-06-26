@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26164.html">\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation</a></div></td>
+<td>Ira Wolfson</td>
+<td><a href="http://arxiv.org/abs/2606.26164">2606.26164</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
@@ -194,23 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29383.html">Bayesian constraints on the transport coefficients $η/s$ and $ζ/s$ from spin polarization in relativisitic heavy-ion collisions</a></div></td>
 <td>Sushant K. Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29383">2605.29383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Hans Reimann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27500.html">Constraining Gravitational Wave Memory with Hierarchical Inference</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a></div></td>
-<td>Keefe Mitman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27500">2605.27500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27562.html">A Semi-Supervised Variational Autoencoder for Generating Neutron Star Equations of State</a></div></td>
-<td>Tianqi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27562">2605.27562</a></td>
 </tr>
 </tbody></table>

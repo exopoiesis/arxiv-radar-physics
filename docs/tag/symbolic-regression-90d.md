@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27126.html">Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs</a></div></td>
+<td>Miguel Jaraiz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27126">2606.27126</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20467.html">Agentic Symbolic Search: Characterizing PDEs Beyond Hand-crafted Expressions, Meshes, and Neural Networks</a></div></td>
@@ -314,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27955.html">Symbolic Density Estimation: A Decompositional Approach</a></div></td>
 <td>Angelo Rajendram et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27955">2603.27955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18325.html">GoodRegressor: A Hierarchical Inductive Bias for Navigating High-Dimensional Compositional Space</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Seong-Hoon Jang</td>
-<td><a href="http://arxiv.org/abs/2510.18325">2510.18325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04051.html">Symbolic Regression for Shared Expressions: Introducing Partial Parameter Sharing</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Viktor Martinek et al.</td>
-<td><a href="http://arxiv.org/abs/2601.04051">2601.04051</a></td>
 </tr>
 </tbody></table>

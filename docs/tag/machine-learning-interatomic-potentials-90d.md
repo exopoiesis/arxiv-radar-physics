@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26834.html">A Hybrid Quantum Mechanics Machine Learning Forcefield (QM/ML) Framework for Accurate Solute-Dislocation Interaction Simulations</a></div></td>
+<td>Junting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26834">2606.26834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
@@ -290,17 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01360.html">A New Paradigm for Computational Chemistry</a></div></td>
 <td>Raphael T. Husistein et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01360">2604.01360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26471.html">Importance of Electronic Entropy for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Martin Hoffmann Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26471">2603.26471</a></td>
 </tr>
 </tbody></table>

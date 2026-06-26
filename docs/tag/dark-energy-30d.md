@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-energy — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <strong>30d</strong> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28581.html">GINKAKU: Scalable Cosmological Structure Formation Simulation Code and Post-processing Pipeline</a></div></td>
 <td>Takahiro Nishimichi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28581">2605.28581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="dark-matter-30d.html">dark-matter</a></div></td>
-<td>Gourab Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
 </tr>
 </tbody></table>

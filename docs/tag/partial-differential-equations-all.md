@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1350 papers</span>
+  <span class="paper-count">1353 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Yuanzhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26592">2606.26592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Deepak Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
@@ -182,6 +194,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
 <td>Manuel Reyna et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>

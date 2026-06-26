@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
+<td>Tri Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26218">2606.26218</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21658.html">Towards LLM-Powered Automation of a Dark Matter Constraint Repository</a></div></td>
 <td>Lanqing Yuan et al.</td>
@@ -1322,11 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00351.html">Dark from light (DfL): Inferring halo properties from luminous tracers with machine learning trained on cosmological simulations. I. Method, proof of concept &amp; preliminary testing</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
 <td>Asa F. L. Bluck et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00351">2507.00351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00135.html">DeepCHART: Mapping the 3D dark matter density field from Ly$α$ forest surveys using deep learning</a></div></td>
-<td>Soumak Maitra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00135">2507.00135</a></td>
 </tr>
 </tbody></table>

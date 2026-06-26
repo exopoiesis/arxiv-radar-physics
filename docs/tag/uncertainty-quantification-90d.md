@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Eviatar Bach et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26497">2606.26497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27001.html">Uncertainty quantification via conformal prediction in data assimilation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Catherine George et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27001">2606.27001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22346.html">Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
@@ -896,11 +908,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27062.html">Conformalized Signal Temporal Logic Inference under Covariate Shift</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Yixuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27062">2603.27062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26415.html">KMM-CP: Practical Conformal Prediction under Covariate Shift via Selective Kernel Mean Matching</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Siddhartha Laghuvarapu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26415">2603.26415</a></td>
 </tr>
 </tbody></table>

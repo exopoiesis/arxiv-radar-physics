@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Deepak Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25793.html">Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Qingyi Lin et al.</td>
@@ -1064,11 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27496.html">Learnable Viscosity Modulation in Physics-Informed Neural Networks for Incompressible Flow Reconstruction</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Ke Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27496">2603.27496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26921.html">Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Nikolaos M. Matzakos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26921">2603.26921</a></td>
 </tr>
 </tbody></table>

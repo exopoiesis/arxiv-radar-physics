@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">718 papers</span>
+  <span class="paper-count">717 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4316,11 +4316,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01414.html">Decomposing Prediction Mechanisms for In-Context Recall</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Sultan Daniels et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01414">2507.01414</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04775.html">Learning dynamical systems from data: Gradient-based dictionary optimization</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Mohammad Tabish et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04775">2411.04775</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12552.html">Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems</a></div></td>
 <td>Gubio G. de Lima et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12552">2507.12552</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11900.html">Ansatz-free Hamiltonian learning with Heisenberg-limited scaling</a></div></td>
-<td>Hong-Ye Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11900">2502.11900</a></td>
 </tr>
 </tbody></table>

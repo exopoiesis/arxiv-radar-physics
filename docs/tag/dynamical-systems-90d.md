@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,17 +1154,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11349.html">Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning</a></div></td>
 <td>Yuanzhao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11349">2505.11349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01278.html">Cellular Automata: From Structural Principles to Transport and Correlation Methods</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Mihir Metkar et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01278">2601.01278</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27062.html">Conformalized Signal Temporal Logic Inference under Covariate Shift</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yixuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27062">2603.27062</a></td>
 </tr>
 </tbody></table>

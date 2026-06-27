@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">448 papers</span>
+  <span class="paper-count">446 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2690,17 +2690,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07310.html">Advancements in Constitutive Model Calibration: Leveraging the Power of Full-Field DIC Measurements and In-Situ Load Path Selection for Reliable Parameter Inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Denielle Ricciardi et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07310">2411.07310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16845.html">An accreting dwarf star orbiting the S-type giant star pi1 Gru</a></div></td>
-<td>M. Montargès et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16845">2504.16845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00403.html">Quantum Bayesian inference with Suport vector states for intrusion detection</a></div></td>
-<td>Nayema Mridha et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00403">2507.00403</a></td>
 </tr>
 </tbody></table>

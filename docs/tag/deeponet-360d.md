@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,23 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02524.html">Time Resolution Independent Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Diab W. Abueidda et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02524">2507.02524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05576.html">STONet: A neural operator for modeling solute transport in micro-cracked reservoirs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Ehsan Haghighat et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05576">2412.05576</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06250.html">DGenNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yaohua Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06250">2502.06250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01117.html">A Neural Operator based on Dynamic Mode Decomposition</a></div></td>
-<td>Nikita Sakovich et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01117">2507.01117</a></td>
 </tr>
 </tbody></table>

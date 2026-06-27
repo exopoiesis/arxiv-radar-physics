@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2432,17 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17597.html">Unraveling particle dark matter with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>M. P. Bento et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17597">2502.17597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16362.html">A novel Trunk Branch-net PINN for flow and heat transfer prediction in porous medium</a></div></td>
-<td>Haoyun Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16362">2501.16362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06250.html">DGenNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yaohua Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06250">2502.06250</a></td>
 </tr>
 </tbody></table>

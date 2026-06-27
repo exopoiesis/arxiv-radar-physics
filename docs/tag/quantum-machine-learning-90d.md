@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,11 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27852.html">A Resource-Aligned Hybrid Quantum-Classical Framework for Multimodal Face Anti-Spoofing</a></div></td>
 <td>Wanqi Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27852">2603.27852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27377.html">Non-Unitary Quantum Machine Learning: Fisher Efficiency Transitions from Distributed Quantum Expressivity</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Apoorv Kumar Masta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27377">2603.27377</a></td>
 </tr>
 </tbody></table>

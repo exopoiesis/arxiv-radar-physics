@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <strong>30d</strong> <a href="navier-stokes-equations-90d.html">90d</a> <a href="navier-stokes-equations-360d.html">360d</a> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06268.html">Error Analysis of Tr-PINNs Algorithm for 2D Incompressible Navier-Stokes Equations with Non-Homogeneous Boundary Conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Dongjie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06268">2606.06268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28245.html">Data-efficient semi-supervised learning for flow estimation using unlabelled probe data</a></div></td>
-<td>Junwei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28245">2605.28245</a></td>
 </tr>
 </tbody></table>

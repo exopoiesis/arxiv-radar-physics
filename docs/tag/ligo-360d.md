@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20129.html">Search for exotic gravitational wave signals beyond general relativity using deep learning</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Yu-Xin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.20129">2410.20129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16844.html">Nonparametric analysis of correlations in the binary black hole population with LIGO-Virgo-KAGRA data</a></div></td>
-<td>Jack Heinzel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16844">2406.16844</a></td>
 </tr>
 </tbody></table>

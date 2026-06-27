@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,17 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29856.html">Building and Road Recognition in Dense Urban Informal Settlements: A Dataset and Benchmark</a></div></td>
 <td>Hongyu Long et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29856">2605.29856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28174.html">FLORO: A Multimodal Geospatial Foundation Model for Ecological Remote Sensing Across Sensors and Scales</a></div></td>
-<td>Jorge L. Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28174">2605.28174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28992.html">FRAPPE: Full Input, Residual Output Autoencoding with Projection Pursuit Encoder</a></div></td>
-<td>Dan Jacobellis et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28992">2605.28992</a></td>
 </tr>
 </tbody></table>

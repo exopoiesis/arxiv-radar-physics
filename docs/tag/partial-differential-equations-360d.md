@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">816 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4910,11 +4910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01841.html">Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Yihang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01841">2507.01841</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06250.html">DGenNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Yaohua Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06250">2502.06250</a></td>
 </tr>
 </tbody></table>

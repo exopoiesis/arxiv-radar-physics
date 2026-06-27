@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">569 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3428,23 +3428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01747.html">SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery</a></div></td>
 <td>Nora Gourmelon et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01747">2507.01747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05769.html">Exploring Text-Guided Single Image Editing for Remote Sensing Images</a></div></td>
-<td>Fangzhou Han et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05769">2405.05769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00356.html">CGEarthEye:A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation</a></div></td>
-<td>Zhiwei Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00356">2507.00356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01123.html">Landslide Detection and Mapping Using Deep Learning Across Multi-Source Satellite Data and Geographic Regions</a></div></td>
-<td>Rahul A. Burange et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01123">2507.01123</a></td>
 </tr>
 </tbody></table>

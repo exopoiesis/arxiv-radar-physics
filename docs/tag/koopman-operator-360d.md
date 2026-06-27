@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12474.html">Spatio-Temporal Prediction via Operator-Valued RKHS and Koopman Approximation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Mahishanka Withanachchi</td>
 <td><a href="http://arxiv.org/abs/2507.12474">2507.12474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04775.html">Learning dynamical systems from data: Gradient-based dictionary optimization</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Mohammad Tabish et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04775">2411.04775</a></td>
 </tr>
 </tbody></table>

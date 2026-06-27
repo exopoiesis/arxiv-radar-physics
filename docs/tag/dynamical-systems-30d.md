@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>James Rudd-Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30160">2605.30160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
-<td>Luca Sosta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28452">2605.28452</a></td>
 </tr>
 </tbody></table>

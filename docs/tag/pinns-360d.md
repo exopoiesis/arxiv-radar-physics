@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">631 papers</span>
+  <span class="paper-count">630 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3794,11 +3794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01841.html">Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Yihang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01841">2507.01841</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20027.html">Inelastic Scattering, Emergent Interactions of Solitons in the Zakharov-Kuznetsov Equation through Conservative and non-Conservative Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>A. Nakamula et al.</td>
-<td><a href="http://arxiv.org/abs/2412.20027">2412.20027</a></td>
 </tr>
 </tbody></table>

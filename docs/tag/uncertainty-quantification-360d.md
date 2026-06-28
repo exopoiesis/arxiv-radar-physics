@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">554 papers</span>
+  <span class="paper-count">553 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3332,11 +3332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03074.html">Differentiable Halo Mass Prediction and the Cosmology-Dependence of Halo Mass Functions</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Jim Buisman et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03074">2507.03074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07310.html">Advancements in Constitutive Model Calibration: Leveraging the Power of Full-Field DIC Measurements and In-Situ Load Path Selection for Reliable Parameter Inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Denielle Ricciardi et al.</td>
-<td><a href="http://arxiv.org/abs/2411.07310">2411.07310</a></td>
 </tr>
 </tbody></table>

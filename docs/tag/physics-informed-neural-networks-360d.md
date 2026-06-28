@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">636 papers</span>
+  <span class="paper-count">632 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3806,29 +3806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02272.html">Three-dimensional crustal deformation analysis using physics-informed deep learning</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Tomohisa Okazaki et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02272">2507.02272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.17039.html">A novel number-theoretic sampling method for neural network solutions of partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.17039">2411.17039</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17597.html">Unraveling particle dark matter with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>M. P. Bento et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17597">2502.17597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01714.html">B-PL-PINN: Stabilizing PINN Training with Bayesian Pseudo Labeling</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Kevin Innerebner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01714">2507.01714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01841.html">Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yihang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01841">2507.01841</a></td>
 </tr>
 </tbody></table>

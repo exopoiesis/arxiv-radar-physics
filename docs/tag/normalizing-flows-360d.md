@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,17 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11192.html">Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11192">2507.11192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09374.html">Inherited or produced? Inferring protein production kinetics when protein counts are shaped by a cell&#x27;s division history</a></div></td>
-<td>Pedro Pessoa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09374">2506.09374</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01726.html">Generative flow-based warm start of the variational quantum eigensolver</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a> · <a href="vqe-360d.html">vqe</a></div></td>
-<td>Hang Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01726">2507.01726</a></td>
 </tr>
 </tbody></table>

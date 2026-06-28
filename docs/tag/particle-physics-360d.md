@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,11 +638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09582.html">A Practical Guide to Unbinned Unfolding</a></div></td>
 <td>Florencia Canelli et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09582">2507.09582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02032.html">Neural simulation-based inference of the Higgs trilinear self-coupling via off-shell Higgs production</a></div></td>
-<td>Aishik Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02032">2507.02032</a></td>
 </tr>
 </tbody></table>

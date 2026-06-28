@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02242.html">Predicting Flow-Induced Vibration in Isolated and Tandem Cylinders Using Hypergraph Neural Networks</a></div></td>
 <td>Shayan Heydari et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02242">2507.02242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01704.html">Using Machine Learning to Compute Constrained Optimal Carbon Tax Rules</a></div></td>
-<td>Felix Kübler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01704">2507.01704</a></td>
 </tr>
 </tbody></table>

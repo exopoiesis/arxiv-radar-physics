@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">396 papers</span>
+  <span class="paper-count">395 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2384,11 +2384,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04153.html">Physics-informed neural networks and neural operators for a study of EUV electromagnetic wave diffraction from a lithography mask</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Vasiliy A. Es&#x27;kin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04153">2507.04153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01388.html">Spectral Learning of Magnetized Plasma Dynamics: A Neural Operator Application</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Roberta Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01388">2507.01388</a></td>
 </tr>
 </tbody></table>

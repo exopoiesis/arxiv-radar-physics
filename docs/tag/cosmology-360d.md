@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,17 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03086.html">Mitigating Model Misspecification in Simulation-Based Inference for Galaxy Clustering</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
 <td>Sébastien Pierre et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03086">2507.03086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17597.html">Unraveling particle dark matter with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>M. P. Bento et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17597">2502.17597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01820.html">The Cosmological analysis of X-ray cluster surveys VII. Bypassing scaling relations with Lagrangian Deep Learning and Simulation-based inference</a></div></td>
-<td>Nicolas Cerardi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01820">2507.01820</a></td>
 </tr>
 </tbody></table>

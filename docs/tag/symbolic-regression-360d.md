@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,17 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02730.html">Constraint-Guided Symbolic Regression for Data-Efficient Kinetic Model Discovery</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Miguel Ángel de Carvalho Servia et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02730">2507.02730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13289.html">Generalized Parton Distributions from Symbolic Regression</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
-<td>Andrew Dotson et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13289">2504.13289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01814.html">Where are all the dark galaxies? Predicting galaxy/halo locations from their bright neighbors</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Alice Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01814">2507.01814</a></td>
 </tr>
 </tbody></table>

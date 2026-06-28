@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-7d.html">quantum-many-body-systems</a></div></td>
 <td>Shang-Shun Zhang</td>
 <td><a href="http://arxiv.org/abs/2606.22644">2606.22644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21828.html">Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers</a></div></td>
-<td>Jaemin Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21828">2606.21828</a></td>
 </tr>
 </tbody></table>

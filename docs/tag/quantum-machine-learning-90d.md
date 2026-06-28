@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,23 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18208.html">Near-optimal Prediction Error Estimation for Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Qiuhao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18208">2510.18208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27671.html">Benchmarking Encoding Families in Quantum Neural Networks Under Fixed Circuit Area for Frequency Spectrum and Trainability</a></div></td>
-<td>Martyna Czuba et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27671">2603.27671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27836.html">Q-Bridge: Code Translation for Quantum Machine Learning via LLMs</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Runjia Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27836">2603.27836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27852.html">A Resource-Aligned Hybrid Quantum-Classical Framework for Multimodal Face Anti-Spoofing</a></div></td>
-<td>Wanqi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27852">2603.27852</a></td>
 </tr>
 </tbody></table>

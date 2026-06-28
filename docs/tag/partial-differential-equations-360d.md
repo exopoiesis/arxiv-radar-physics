@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">816 papers</span>
+  <span class="paper-count">813 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4892,23 +4892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02524.html">Time Resolution Independent Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Diab W. Abueidda et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02524">2507.02524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.17039.html">A novel number-theoretic sampling method for neural network solutions of partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.17039">2411.17039</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01388.html">Spectral Learning of Magnetized Plasma Dynamics: A Neural Operator Application</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Roberta Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01388">2507.01388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01841.html">Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yihang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01841">2507.01841</a></td>
 </tr>
 </tbody></table>

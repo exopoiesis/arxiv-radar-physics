@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">530 papers</span>
+  <span class="paper-count">528 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3182,17 +3182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03518.html">Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission</a></div></td>
 <td>Sreeraj Rajan Warrier et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03518">2507.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15375.html">Learning to Maximize Quantum Neural Network Expressivity via Effective Rank</a></div></td>
-<td>Juan Yao</td>
-<td><a href="http://arxiv.org/abs/2506.15375">2506.15375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02086.html">Selective Feature Re-Encoded Quantum Convolutional Neural Network with Joint Optimization for Image Classification</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Shaswata Mahernob Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02086">2507.02086</a></td>
 </tr>
 </tbody></table>

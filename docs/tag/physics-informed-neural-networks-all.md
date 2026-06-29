@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — all</h1>
-  <span class="paper-count">992 papers</span>
+  <span class="paper-count">994 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28158.html">Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Ali AlHadi Kalout et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28158">2606.28158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28220.html">Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Gift Modekwe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28220">2606.28220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

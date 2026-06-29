@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28266.html">RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning</a></div></td>
+<td>Yelin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28266">2606.28266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27018.html">On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28029.html">A Structure-Preserving Neural-Spectral Method for Reconstructing Controls of Wave Equations</a></div></td>
+<td>Tan-Phuc Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28029">2606.28029</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28220.html">Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Gift Modekwe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28220">2606.28220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Deepak Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27459.html">Operator Learning for Cubic Nonlinear Schrödinger Equation on Periodic Domains</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Emmanuel E. Oguadimma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27459">2606.27459</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-24</td>
@@ -1124,17 +1142,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yi Bing et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03529.html">Quasi-Monte Carlo for Bayesian design of experiment problems governed by parametric PDEs</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Vesa Kaarnioja et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03529">2405.03529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27929.html">Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Ehsan Zeraatkar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27929">2603.27929</a></td>
 </tr>
 </tbody></table>

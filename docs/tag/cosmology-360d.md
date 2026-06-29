@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,17 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07155.html">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Xueqing Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07155">2507.07155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03074.html">Differentiable Halo Mass Prediction and the Cosmology-Dependence of Halo Mass Functions</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Jim Buisman et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03074">2507.03074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03086.html">Mitigating Model Misspecification in Simulation-Based Inference for Galaxy Clustering</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
-<td>Sébastien Pierre et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03086">2507.03086</a></td>
 </tr>
 </tbody></table>

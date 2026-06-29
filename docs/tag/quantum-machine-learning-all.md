@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-machine-learning — all</h1>
-  <span class="paper-count">898 papers</span>
+  <span class="paper-count">901 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
+<td>Akshay Bhagwan Sonawane et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28252">2606.28252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27411.html">Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Santanu Ganguly et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27411">2606.27411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27561.html">Quantum Generative Diffusion Model for Real-World Time Series</a></div></td>
+<td>Jack Waller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27561">2606.27561</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26312.html">Tailor Made Embeddings for Quantum Machine Learning</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27741.html">SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models</a></div></td>
+<td>Ruoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27741">2606.27741</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27094.html">Learning Climate Variability from Scarce Data with Diffusion Models: A Test Case for ENSO</a></div></td>
@@ -944,17 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yi Bing et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09094.html">Chain of Event-Centric Causal Thought for Physically Plausible Video Generation</a></div></td>
-<td>Zixuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09094">2603.09094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08586.html">FluidFlow: a flow-matching generative model for fluid dynamics surrogates on unstructured meshes</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>David Ramos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08586">2604.08586</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28158.html">Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Ali AlHadi Kalout et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28158">2606.28158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28220.html">Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Gift Modekwe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28220">2606.28220</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Xiaodong Liu et al.</td>
@@ -956,17 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29237.html">Stochastic Dimension Implicit Functional Projections for Exact Integral Conservation in High-Dimensional PINNs</a></div></td>
 <td>Zhangyong Liang</td>
 <td><a href="http://arxiv.org/abs/2603.29237">2603.29237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01949.html">ELM-FBPINNs: An Efficient Multilevel Random Feature Method</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Samuel Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01949">2409.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27929.html">Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Ehsan Zeraatkar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27929">2603.27929</a></td>
 </tr>
 </tbody></table>

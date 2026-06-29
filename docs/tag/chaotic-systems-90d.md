@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chaotic-systems — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <strong>90d</strong> <a href="chaotic-systems-360d.html">360d</a> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08592.html">Reservoir observer enhanced with residual calibration and attention mechanism</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Yichen Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08592">2604.08592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28671.html">Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems</a></div></td>
-<td>Martin Thomas Brolly</td>
-<td><a href="http://arxiv.org/abs/2603.28671">2603.28671</a></td>
 </tr>
 </tbody></table>

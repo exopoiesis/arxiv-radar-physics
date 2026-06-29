@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22389.html">Bypassing Minimization Bias: A Shift-Invariant Variance Estimator for Off-Equilibrium Local Learning Coefficients</a></div></td>
-<td>Yingjia Cai</td>
-<td><a href="http://arxiv.org/abs/2606.22389">2606.22389</a></td>
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28103.html">Phase structure of the Random Language Model</a></div></td>
+<td>Alessio Giorlandino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28103">2606.28103</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-beyond-the-standard-model — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="physics-beyond-the-standard-model-7d.html">7d</a> <a href="physics-beyond-the-standard-model-30d.html">30d</a> <strong>90d</strong> <a href="physics-beyond-the-standard-model-360d.html">360d</a> <a href="physics-beyond-the-standard-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11839.html">Molecular Quantum Control Algorithm Design by Reinforcement Learning</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Anastasia Pipi et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11839">2410.11839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28935.html">Autonomous Discovery of Particle Physics Theories from Experimental Data</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Stephon Alexander et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28935">2603.28935</a></td>
 </tr>
 </tbody></table>

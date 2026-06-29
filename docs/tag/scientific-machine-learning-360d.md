@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">208 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,11 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07143.html">Understanding Malware Propagation Dynamics through Scientific Machine Learning</a></div></td>
 <td>Karthik Pappu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07143">2507.07143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03206.html">Weak Form Scientific Machine Learning: Test Function Construction for System Identification</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>April Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03206">2507.03206</a></td>
 </tr>
 </tbody></table>

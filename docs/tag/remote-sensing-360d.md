@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">566 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28266.html">RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning</a></div></td>
+<td>Yelin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28266">2606.28266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27018.html">On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events</a></div></td>
@@ -3392,23 +3398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04366.html">Time2Agri: Temporal Pretext Tasks for Agricultural Monitoring</a></div></td>
 <td>Moti Rattan Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04366">2507.04366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13659.html">Regression coefficient estimation from remote sensing maps</a></div></td>
-<td>Kerri Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13659">2407.13659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16095.html">Good Representation, Better Explanation: Role of Convolutional Neural Networks in Transformer-Based Remote Sensing Image Captioning</a></div></td>
-<td>Swadhin Das et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16095">2502.16095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02268.html">Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation</a></div></td>
-<td>Yuxiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02268">2507.02268</a></td>
 </tr>
 </tbody></table>

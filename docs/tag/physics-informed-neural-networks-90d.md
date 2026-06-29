@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28158.html">Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Ali AlHadi Kalout et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28158">2606.28158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28220.html">Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Gift Modekwe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28220">2606.28220</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Deepak Gupta et al.</td>
@@ -1052,17 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Yi Bing et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01949.html">ELM-FBPINNs: An Efficient Multilevel Random Feature Method</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Samuel Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01949">2409.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14258.html">StPINNs - Deep learning framework for approximation of stochastic differential equations</a></div></td>
-<td>Marcin Baranek et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14258">2512.14258</a></td>
 </tr>
 </tbody></table>

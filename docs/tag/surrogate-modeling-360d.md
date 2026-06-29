@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18247.html">Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures</a></div></td>
 <td>Manaswin Oddiraju et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18247">2506.18247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02242.html">Predicting Flow-Induced Vibration in Isolated and Tandem Cylinders Using Hypergraph Neural Networks</a></div></td>
-<td>Shayan Heydari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02242">2507.02242</a></td>
 </tr>
 </tbody></table>

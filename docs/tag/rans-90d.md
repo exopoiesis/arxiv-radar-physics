@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rans — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <strong>90d</strong> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29659.html">Self-scaling tensor basis neural network for Reynolds stress modeling of wall-bounded turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Zelong Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29659">2603.29659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28884.html">The Closure Challenge: a benchmark task for machine learning in turbulence modelling</a></div></td>
-<td>Ryley McConkey et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28884">2603.28884</a></td>
 </tr>
 </tbody></table>

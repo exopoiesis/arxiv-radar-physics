@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,17 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29946.html">Real-Time Explanations for Tabular Foundation Models</a></div></td>
 <td>Luan Borges Teodoro Reis Sena et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29946">2603.29946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27929.html">Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Ehsan Zeraatkar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27929">2603.27929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28073.html">SIMR-NO: A Spectrally-Informed Multi-Resolution Neural Operator for Turbulent Flow Super-Resolution</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Muhammad Abid et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28073">2603.28073</a></td>
 </tr>
 </tbody></table>

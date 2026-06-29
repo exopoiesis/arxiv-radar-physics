@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27982.html">PRONE: Petrov-Galerkin Operator Learning Unifies DMD, SINDy &amp; Koopmanism</a></div></td>
+<td>Matthew J. Colbrook et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27982">2606.27982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28065.html">OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators</a></div></td>
+<td>Joshua Stiller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28065">2606.28065</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28122.html">Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Alex Colagrande et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28122">2606.28122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27459.html">Operator Learning for Cubic Nonlinear Schrödinger Equation on Periodic Domains</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Emmanuel E. Oguadimma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27459">2606.27459</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25259.html">A Neural Surrogate Approach for Simulating Natural Convection Problems</a></div></td>

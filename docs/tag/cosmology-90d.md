@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29879.html">CROCS Data Release I: Constraints on the Hubble Constant</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Luke Weisenbach et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29879">2603.29879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21675.html">Unimodular Diffusion and Interacting Vacuum Cosmology</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Gopal Kashyap et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21675">2603.21675</a></td>
 </tr>
 </tbody></table>

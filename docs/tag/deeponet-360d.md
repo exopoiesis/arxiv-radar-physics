@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03660.html">When Network Architecture Meets Physics: Deep Operator Learning for Coupled Multiphysics</a></div></td>
 <td>Kazuma Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03660">2507.03660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02524.html">Time Resolution Independent Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Diab W. Abueidda et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02524">2507.02524</a></td>
 </tr>
 </tbody></table>

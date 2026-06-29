@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,17 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02408.html">A unified framework for equation discovery and dynamic prediction of hysteretic systems</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Siyuan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02408">2512.02408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25571.html">Neural-Network Holographic Model of the QCD Phase Transition under Lattice and HRG Constraints</a></div><div class="paper-tags"><a href="lattice-qcd-90d.html">lattice-qcd</a></div></td>
-<td>De-Xing Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25571">2603.25571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27955.html">Symbolic Density Estimation: A Decompositional Approach</a></div></td>
-<td>Angelo Rajendram et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27955">2603.27955</a></td>
 </tr>
 </tbody></table>

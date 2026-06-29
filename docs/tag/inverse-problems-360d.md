@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">402 papers</span>
+  <span class="paper-count">401 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27895.html">Mosaic: A Benchmark Suite for Differentiable Physics Solvers</a></div></td>
+<td>Andrin Rehmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27895">2606.27895</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -2414,17 +2420,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03834.html">Sequential bi-level regularized inversion with application to hidden reaction law discovery</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Tram Thi Ngoc Nguyen</td>
 <td><a href="http://arxiv.org/abs/2409.03834">2409.03834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13109.html">Bayesian Model Parameter Learning in Linear Inverse Problems: Application in EEG Focal Source Imaging</a></div></td>
-<td>Alexandra Koulouri et al.</td>
-<td><a href="http://arxiv.org/abs/2501.13109">2501.13109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02574.html">Learning and Testing Inverse Statistical Problems For Interacting Systems Undergoing Phase Transition</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Stefano Bae et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02574">2507.02574</a></td>
 </tr>
 </tbody></table>

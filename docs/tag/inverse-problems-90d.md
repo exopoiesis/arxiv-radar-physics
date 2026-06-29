@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27895.html">Mosaic: A Benchmark Suite for Differentiable Physics Solvers</a></div></td>
+<td>Andrin Rehmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27895">2606.27895</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -662,17 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29515.html">Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems</a></div></td>
 <td>David Gonzalez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29515">2603.29515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03529.html">Quasi-Monte Carlo for Bayesian design of experiment problems governed by parametric PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Vesa Kaarnioja et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03529">2405.03529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28177.html">Posterior contraction under misspecification and heteroscedasticity in non-linear inverse problems</a></div></td>
-<td>Fanny Seizilles et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28177">2603.28177</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27741.html">SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models</a></div></td>
+<td>Ruoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27741">2606.27741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27094.html">Learning Climate Variability from Scarce Data with Diffusion Models: A Test Case for ENSO</a></div></td>
 <td>Lluis Palma et al.</td>
@@ -3668,11 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03602.html">Kinetic Langevin Diffusion for Crystalline Materials Generation</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a></div></td>
 <td>François Cornet et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03602">2507.03602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16824.html">Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Taeyoung Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16824">2502.16824</a></td>
 </tr>
 </tbody></table>

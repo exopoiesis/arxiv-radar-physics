@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
+<td>Akshay Bhagwan Sonawane et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28252">2606.28252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27411.html">Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Santanu Ganguly et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27411">2606.27411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27561.html">Quantum Generative Diffusion Model for Real-World Time Series</a></div></td>
+<td>Jack Waller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27561">2606.27561</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26312.html">Tailor Made Embeddings for Quantum Machine Learning</a></div></td>
@@ -722,17 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08948.html">Random layers for quantum optimal control with exponential expressivity</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
 <td>Marco Dall&#x27;Ara et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08948">2603.08948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04825.html">Universal 2-Local Symmetry-Preserving Quantum Neural Networks for Fermionic Systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Ge Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04825">2412.04825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18208.html">Near-optimal Prediction Error Estimation for Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Qiuhao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18208">2510.18208</a></td>
 </tr>
 </tbody></table>

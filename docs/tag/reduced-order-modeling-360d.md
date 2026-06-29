@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05711.html">Sparsity-Promoting Dynamic Mode Decomposition Applied to Sea Surface Temperature Fields</a></div></td>
 <td>Zhicheng Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05711">2507.05711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12474.html">Spatio-Temporal Prediction via Operator-Valued RKHS and Koopman Approximation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Mahishanka Withanachchi</td>
-<td><a href="http://arxiv.org/abs/2507.12474">2507.12474</a></td>
 </tr>
 </tbody></table>

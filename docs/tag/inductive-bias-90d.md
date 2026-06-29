@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28122.html">Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Alex Colagrande et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28122">2606.28122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27021.html">SMR: Scheduler with Multi-Channel Map-Encoded Reinforcement Learning for Radio Telescopes</a></div></td>
 <td>Zhenyang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27021">2606.27021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27575.html">Perceptual 3D Simulation With Physical World Modeling</a></div></td>
+<td>Wanhee Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27575">2606.27575</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-24</td>

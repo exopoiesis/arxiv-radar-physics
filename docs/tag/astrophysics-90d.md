@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27447.html">A&amp;A community survey on the future of scientific publishing: Credibility over speed, fairness over profit, human judgment over automation</a></div></td>
+<td>João Alves et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27447">2606.27447</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27565.html">Searching for Extraterrestrial Intelligence with the SKA</a></div></td>
+<td>Chenoa D. Tremblay et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27565">2606.27565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
@@ -182,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29879.html">CROCS Data Release I: Constraints on the Hubble Constant</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Luke Weisenbach et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29879">2603.29879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29039.html">AI Cosplaying as Astrophysicists: A Controlled Synthetic-Agent Study of AI-Assisted Astrophysical Research Workflows</a></div></td>
-<td>Chun Huang</td>
-<td><a href="http://arxiv.org/abs/2603.29039">2603.29039</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28287.html">Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks</a></div></td>
+<td>Phong Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28287">2606.28287</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
@@ -872,29 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20179.html">AI Agents Can Already Autonomously Perform Experimental High Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
 <td>Eric A. Moreno et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20179">2603.20179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05050.html">Sampling recovery in Bochner spaces and applications to parametric PDEs</a></div></td>
-<td>Felix Bartel et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05050">2409.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28232.html">Observation of $Λ^+_c\to nπ^+η$ and search for $Λ^+_c\to na_0(980)^+$</a></div></td>
-<td>BESIII Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28232">2603.28232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28328.html">Physics-Informed Neural Networks for Predicting Hydrogen Sorption in Geological Formations: Thermodynamically Constrained Deep Learning Integrating Classical Adsorption Theory</a></div></td>
-<td>Mohammad Nooraiepour et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28328">2603.28328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28513.html">The FreeGSNKE Pulse Design Tool (FPDT): a computational framework for evolutive plasma scenario and control design</a></div></td>
-<td>K. Pentland et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28513">2603.28513</a></td>
 </tr>
 </tbody></table>

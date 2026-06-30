@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28482.html">Strongest constraints on dark acoustic oscillations from the Lyman-alpha forest</a></div></td>
+<td>Zhihan Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28482">2606.28482</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
 <td>Tri Nguyen et al.</td>
@@ -1286,11 +1292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02857.html">Reconstructing Galaxy Cluster Mass Maps using Score-based Generative Modeling</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Alan Hsu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02857">2410.02857</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16079.html">Evaluating the galaxy formation histories predicted by a neural network in pure dark matter simulations</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
-<td>Harry George Chittenden et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16079">2409.16079</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">295 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
+<td>Shuai Li</td>
+<td><a href="http://arxiv.org/abs/2606.29628">2606.29628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="les-all.html">les</a></div></td>
+<td>Benjamin Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>

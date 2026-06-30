@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>C. Namuroy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
+<td>Shuai Li</td>
+<td><a href="http://arxiv.org/abs/2606.29628">2606.29628</a></td>
 </tr>
 </tbody></table>

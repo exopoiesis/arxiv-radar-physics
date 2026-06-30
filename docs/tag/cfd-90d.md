@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="les-90d.html">les</a></div></td>
+<td>Benjamin Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17529.html">Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>

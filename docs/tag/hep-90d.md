@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hep — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <strong>90d</strong> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14696.html">Development of an LLM-Based System for Automatic Code Generation from HEP Publications</a></div></td>
 <td>Masahiko Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14696">2604.14696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20179.html">AI Agents Can Already Autonomously Perform Experimental High Energy Physics</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Eric A. Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20179">2603.20179</a></td>
 </tr>
 </tbody></table>

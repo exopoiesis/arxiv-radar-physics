@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29293.html">Private training in quantum machine learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Tigran Sedrakyan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29293">2606.29293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28655.html">Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Aspen Erlandsson Brisebois et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28655">2606.28655</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
 <td>Akshay Bhagwan Sonawane et al.</td>
@@ -3188,17 +3200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04111.html">Quantum computing for genomics: conceptual challenges and practical perspectives</a></div></td>
 <td>Aurora Maurizio et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04111">2507.04111</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16593.html">A Hybrid Quantum Neural Network for Split Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Hevish Cowlessur et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16593">2409.16593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03518.html">Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission</a></div></td>
-<td>Sreeraj Rajan Warrier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03518">2507.03518</a></td>
 </tr>
 </tbody></table>

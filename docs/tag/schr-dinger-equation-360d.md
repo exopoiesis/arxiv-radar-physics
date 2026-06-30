@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05664.html">PINNs Study for the Bekki-Nozaki Chaos in the Non-linear Schrödinger equation</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>N. Sawado et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05664">2507.05664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16393.html">Inverse scattering transform for the defocusing nonlinear Schrödinger equation with local and nonlocal nonlinearities under non-zero boundary conditions</a></div></td>
-<td>Chuanxin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16393">2502.16393</a></td>
 </tr>
 </tbody></table>

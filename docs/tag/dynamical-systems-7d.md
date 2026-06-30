@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30318.html">Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation</a></div></td>
+<td>Yulin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30318">2606.30318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28984.html">Compositional Dynamics in Learning and Mechanics</a></div></td>
+<td>David I. Spivak</td>
+<td><a href="http://arxiv.org/abs/2606.28984">2606.28984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="inductive-bias-7d.html">inductive-bias</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
@@ -44,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25039.html">LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search</a></div></td>
 <td>Nikhil Abhyankar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25039">2606.25039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22969.html">Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction</a></div></td>
-<td>Georg Trede et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22969">2606.22969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Kanishk Awadhiya</td>
-<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23341.html">Partial Observation of Linear Systems with the Mori-Zwanzig Formalism</a></div></td>
-<td>Fan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23341">2606.23341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Liam K Magargal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
 </tr>
 </tbody></table>

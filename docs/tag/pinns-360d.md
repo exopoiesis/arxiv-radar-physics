@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">627 papers</span>
+  <span class="paper-count">629 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30117.html">Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30117">2606.30117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29147.html">Consistent CutPINNs for Convection-Diffusion Equations on Curved Level-Set Domains</a></div></td>
+<td>Maneesh Kumar Singh</td>
+<td><a href="http://arxiv.org/abs/2606.29147">2606.29147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28158.html">Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -3770,11 +3788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04153.html">Physics-informed neural networks and neural operators for a study of EUV electromagnetic wave diffraction from a lithography mask</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Vasiliy A. Es&#x27;kin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04153">2507.04153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02440.html">Physics-informed neural networks for solving moving interface flow problems using the level set approach</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Mathieu Mullins et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02440">2502.02440</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29843.html">Gappy Reconstruction of Bubbly Flows by Guided Diffusion Models</a></div></td>
+<td>Hridey Narula et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29843">2606.29843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30012.html">SkelEM: Training-Signal Decoupling of Skeleton and Diffusion for Self-supervised Axial Super-Resolution in Volume Microscopy</a></div></td>
+<td>Bohao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30012">2606.30012</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27741.html">SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models</a></div></td>
 <td>Ruoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27741">2606.27741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28483.html">Quantum Fourier Generative Models Trainable at Large Scale</a></div></td>
+<td>Cenk Tüysüz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28483">2606.28483</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-25</td>
@@ -938,17 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28048.html">Self-Organizing Score-based Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Yuma Yamaoka et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28048">2603.28048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17499.html">A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes</a></div></td>
-<td>Xiucheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17499">2603.17499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yi Bing et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
 </tr>
 </tbody></table>

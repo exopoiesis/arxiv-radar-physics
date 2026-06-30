@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05287.html">Increasing Systemic Resilience to Socioeconomic Challenges: Modeling the Dynamics of Liquidity Flows and Systemic Risks Using Navier-Stokes Equations</a></div></td>
 <td>Davit Gondauri</td>
 <td><a href="http://arxiv.org/abs/2507.05287">2507.05287</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02440.html">Physics-informed neural networks for solving moving interface flow problems using the level set approach</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Mathieu Mullins et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02440">2502.02440</a></td>
 </tr>
 </tbody></table>

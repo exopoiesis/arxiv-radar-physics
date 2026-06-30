@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">271 papers</span>
+  <span class="paper-count">272 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28103.html">Phase structure of the Random Language Model</a></div></td>
 <td>Alessio Giorlandino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28103">2606.28103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28486.html">Spectral phase transitions and trainability in neural network learning dynamics</a></div></td>
+<td>Chanju Park et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28486">2606.28486</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-21</td>

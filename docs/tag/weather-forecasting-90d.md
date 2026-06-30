@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,29 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01454.html">Assessing the ability of a stretched-grid deep-learning weather prediction model to capture physical balances</a></div></td>
 <td>Francesco Pasquini et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01454">2604.01454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14399.html">Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14399">2406.14399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25080.html">Towards a Certificate of Trust: Task-Aware OOD Detection for Scientific AI</a></div></td>
-<td>Bogdan Raonić et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25080">2509.25080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09734.html">ARROW: An Adaptive Rollout and Routing Method for Global Weather Forecasting</a></div></td>
-<td>Jindong Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09734">2510.09734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00082.html">Deep-Learned Observation Operators for Artificial Intelligence Weather Forecasting Models</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Kelsey Lieberman et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00082">2604.00082</a></td>
 </tr>
 </tbody></table>

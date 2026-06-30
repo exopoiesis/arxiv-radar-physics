@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29139.html">How Token Influence Decays with Distance: A Green-Function View of Trained Language Models</a></div></td>
+<td>Matthias Brändel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29139">2606.29139</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29436.html">Fourier Neural Operators with Least-Squares Readout Refit for Learning Random Obstacle-to-Solution Maps</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
+<td>Chenhui Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29436">2606.29436</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Zirui Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26652.html">Scalable Operator Learning via Nyström Approximation With Denoising Applications</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00027.html">Learning Inter-Atomic Potentials without Explicit Equivariance</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Ahmed A. Elhag et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00027">2510.00027</a></td>
 </tr>
 </tbody></table>

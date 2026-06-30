@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28671.html">Entropy-Regularized Reinforcement Learning for Linear-Quadratic Stackelberg Differential Games in Regime-Switching Diffusion Models</a></div></td>
+<td>Congde Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28671">2606.28671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28029.html">A Structure-Preserving Neural-Spectral Method for Reconstructing Controls of Wave Equations</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28220.html">Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Gift Modekwe et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28220">2606.28220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Christian Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-25</td>
@@ -1124,23 +1136,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00689.html">Performance of Neural and Polynomial Operator Surrogates</a></div></td>
 <td>Josephine Westermann et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00689">2604.00689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27936.html">Deflation-PINNs: Learning Multiple Solutions for PDEs and Landau-de Gennes</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Sean Disarò et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27936">2603.27936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29249.html">A Unified Weighted-Loss Physics-Informed Neural Network for Boundary Layer Problems in Singularly Perturbed PDEs</a></div></td>
-<td>Wei-Fan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29249">2603.29249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yi Bing et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
 </tr>
 </tbody></table>

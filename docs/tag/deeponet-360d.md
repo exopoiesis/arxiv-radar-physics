@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29436.html">Fourier Neural Operators with Least-Squares Readout Refit for Learning Random Obstacle-to-Solution Maps</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Chenhui Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29436">2606.29436</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Christian Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27177.html">A hybrid IFENN solver for generalizable modeling of phase-field fracture initiation and propagation</a></div></td>
 <td>Panos Pantidis et al.</td>
@@ -926,17 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10401.html">Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ryan Bausback et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10401">2507.10401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03272.html">Sequential Neural Operator Transformer for High-Fidelity Surrogates of Time-Dependent Non-linear Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Qibang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03272">2507.03272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03660.html">When Network Architecture Meets Physics: Deep Operator Learning for Coupled Multiphysics</a></div></td>
-<td>Kazuma Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03660">2507.03660</a></td>
 </tr>
 </tbody></table>

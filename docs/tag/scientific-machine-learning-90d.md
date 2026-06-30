@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
+<td>Nick Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29346">2606.29346</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27285.html">Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs</a></div></td>
 <td>Yang Pan et al.</td>
@@ -380,11 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04665.html">A Simultaneous Approach for Training Neural Differential-Algebraic Systems of Equations</a></div></td>
 <td>Laurens R. Lueg et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04665">2504.04665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29946.html">Real-Time Explanations for Tabular Foundation Models</a></div></td>
-<td>Luan Borges Teodoro Reis Sena et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29946">2603.29946</a></td>
 </tr>
 </tbody></table>

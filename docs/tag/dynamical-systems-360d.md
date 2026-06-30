@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">715 papers</span>
+  <span class="paper-count">717 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30318.html">Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation</a></div></td>
+<td>Yulin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30318">2606.30318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28984.html">Compositional Dynamics in Learning and Mechanics</a></div></td>
+<td>David I. Spivak</td>
+<td><a href="http://arxiv.org/abs/2606.28984">2606.28984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inductive-bias-360d.html">inductive-bias</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>

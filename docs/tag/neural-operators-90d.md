@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Zirui Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28787.html">BREIT: A Framework for Brain Stroke Reconstruction using Multi-Frequency 3D EIT</a></div></td>
+<td>Djahid Abdelmoumene et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28787">2606.28787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27982.html">PRONE: Petrov-Galerkin Operator Learning Unifies DMD, SINDy &amp; Koopmanism</a></div></td>
@@ -56,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24851.html">Real vs. Complex Spectral Bases for Neural Operators: The Role of Green&#x27;s Function Alignment</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Jason Sulskis et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24851">2606.24851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28388.html">Anisotropic Mixed Fractional Landau Inequalities for Rotating Compressible Flows</a></div></td>
+<td>Rômulo Damasclin Chaves dos Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28388">2606.28388</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -866,11 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07366.html">Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Yilong Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07366">2604.07366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29117.html">Predictor-Based Output-Feedback Control of Linear Systems with Time-Varying Input and Measurement Delays via Neural-Approximated Prediction Horizons</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Luke Bhan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29117">2603.29117</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29293.html">Private training in quantum machine learning</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
+<td>Tigran Sedrakyan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29293">2606.29293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28655.html">Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
+<td>Aspen Erlandsson Brisebois et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28655">2606.28655</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
 <td>Akshay Bhagwan Sonawane et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26312.html">Tailor Made Embeddings for Quantum Machine Learning</a></div></td>
 <td>Aldo Lamarre et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26312">2606.26312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Danyal Maheshwari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23411">2606.23411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24933.html">Self-Modulating Quantum Fast-Weight Programmers for Efficient Adaptive Sequential Learning</a></div></td>
-<td>Samuel Yen-Chi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24933">2606.24933</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qaoa — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <strong>90d</strong> <a href="qaoa-360d.html">360d</a> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29687.html">A Machine-Verified Proof of a Quantum-Optimization Conjecture</a></div></td>
+<td>Uri Kol et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29687">2606.29687</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07727.html">Benchmarking Quantum Algorithmic Resilience for CVaR Portfolio Optimization: The Expressibility-Coherence Trade-off</a></div></td>

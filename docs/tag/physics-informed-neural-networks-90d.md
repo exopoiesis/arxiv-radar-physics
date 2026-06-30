@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30117.html">Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30117">2606.30117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28158.html">Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -1046,23 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00948.html">Physics-informed neural networks for solving two-phase flow problems with moving interfaces</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Qijia Zhai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00948">2604.00948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08614.html">PyMieDiff: A differentiable Mie scattering library</a></div></td>
-<td>Oscar K. C. Jackson et al.</td>
-<td><a href="http://arxiv.org/abs/2512.08614">2512.08614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27936.html">Deflation-PINNs: Learning Multiple Solutions for PDEs and Landau-de Gennes</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Sean Disarò et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27936">2603.27936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01242.html">Diffusion models with physics-guided inference for solving partial differential equations</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Yi Bing et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01242">2604.01242</a></td>
 </tr>
 </tbody></table>

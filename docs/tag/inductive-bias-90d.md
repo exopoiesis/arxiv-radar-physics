@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30183.html">DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling</a></div></td>
+<td>Mingke Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30183">2606.30183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28847.html">Physics Equivariance for Robust Generalization in Wireless Foundation Model</a></div></td>
+<td>Haoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28847">2606.28847</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28122.html">Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -356,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02499.html">CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks</a></div></td>
 <td>Felipe Hawthorne et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02499">2604.02499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00027.html">Learning Inter-Atomic Potentials without Explicit Equivariance</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Ahmed A. Elhag et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00027">2510.00027</a></td>
 </tr>
 </tbody></table>

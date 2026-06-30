@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="astrophysics-90d.html">astrophysics</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Philipp Denzel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18975.html">On the robustness of the angular homogeneity scale $θ_H$: a comparative analysis of computational approaches</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Pedro Fanha et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04661.html">unimpeded: A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Dily Duan Yi Ong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04661">2511.04661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29879.html">CROCS Data Release I: Constraints on the Hubble Constant</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Luke Weisenbach et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29879">2603.29879</a></td>
 </tr>
 </tbody></table>

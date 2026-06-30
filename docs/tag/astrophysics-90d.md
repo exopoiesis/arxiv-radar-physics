@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Philipp Denzel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27447.html">A&amp;A community survey on the future of scientific publishing: Credibility over speed, fairness over profit, human judgment over automation</a></div></td>
 <td>João Alves et al.</td>
@@ -188,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01313.html">JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Zeyu Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01313">2604.01313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29879.html">CROCS Data Release I: Constraints on the Hubble Constant</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Luke Weisenbach et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29879">2603.29879</a></td>
 </tr>
 </tbody></table>

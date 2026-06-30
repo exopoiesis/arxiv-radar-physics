@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
+<td>Shuai Li</td>
+<td><a href="http://arxiv.org/abs/2606.29628">2606.29628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a></div></td>
+<td>Benjamin Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>
@@ -332,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02483.html">A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Kiran Yalamanchi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02483">2604.02483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.30007.html">Learning the Exact Flux: Neural Riemann Solvers with Hard Constraints</a></div></td>
-<td>Yucheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.30007">2603.30007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00205.html">Unsupervised 4D Flow MRI Velocity Enhancement and Unwrapping Using Divergence-Free Neural Networks</a></div></td>
-<td>Javier Bisbal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00205">2604.00205</a></td>
 </tr>
 </tbody></table>

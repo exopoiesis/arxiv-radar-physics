@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fusion-energy — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="fusion-energy-7d.html">7d</a> <a href="fusion-energy-30d.html">30d</a> <a href="fusion-energy-90d.html">90d</a> <strong>360d</strong> <a href="fusion-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15967.html">graph framework: A Domain Specific Compiler for Building Physics Applications</a></div></td>
 <td>M. Cianciosa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15967">2508.15967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03776.html">Data-Driven Approach to Model the Influence of Magnetic Geometry in the Confinement of Fusion Devices</a></div></td>
-<td>R. Laia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03776">2507.03776</a></td>
 </tr>
 </tbody></table>

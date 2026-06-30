@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Yunzhe Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Zirui Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28287.html">Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks</a></div></td>
 <td>Phong Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28287">2606.28287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Philipp Denzel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Christian Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-25</td>
@@ -866,17 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01305.html">UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Mars Liyao Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01305">2604.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21273.html">Deep Polynomial Chaos Expansion</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Johannes Exenberger et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21273">2507.21273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20179.html">AI Agents Can Already Autonomously Perform Experimental High Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
-<td>Eric A. Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20179">2603.20179</a></td>
 </tr>
 </tbody></table>

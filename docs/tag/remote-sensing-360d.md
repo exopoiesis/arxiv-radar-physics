@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">564 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>
+<td>Zhuocheng Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29664">2606.29664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29849.html">Hessian sparsity-constrained self-supervised network for near-infrared single-photon single-pixel imaging</a></div></td>
+<td>Yao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29849">2606.29849</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30244.html">Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation</a></div></td>
+<td>Kun Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30244">2606.30244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28922.html">Cross-Sensor SAR Data Generation Using Diffusion Models and Feature Migration</a></div></td>
+<td>Xuanting Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28922">2606.28922</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28266.html">RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning</a></div></td>

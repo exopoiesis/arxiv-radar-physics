@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">846 papers</span>
+  <span class="paper-count">850 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
+<td>Yunzhe Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Zirui Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28287.html">Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks</a></div></td>
 <td>Phong Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28287">2606.28287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
+<td>Philipp Denzel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Christian Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-25</td>

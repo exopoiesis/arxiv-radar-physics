@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30183.html">DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling</a></div></td>
+<td>Mingke Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30183">2606.30183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28847.html">Physics Equivariance for Robust Generalization in Wireless Foundation Model</a></div></td>
+<td>Haoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28847">2606.28847</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28122.html">Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>

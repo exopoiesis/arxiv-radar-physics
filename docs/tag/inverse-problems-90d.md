@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30230.html">A Distributionally Robust Framework for Learned Reconstructions in Inverse Problems</a></div></td>
+<td>Floor van Maarschalkerwaart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30230">2606.30230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Zirui Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27895.html">Mosaic: A Benchmark Suite for Differentiable Physics Solvers</a></div></td>
 <td>Andrin Rehmann et al.</td>
@@ -656,17 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14189.html">SWEEP (Seismic Wave Equation Exploration Platform): A Unified Solver Framework for Differentiable Wave Physics</a></div></td>
 <td>Shaowen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14189">2604.14189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29515.html">Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems</a></div></td>
-<td>David Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29515">2603.29515</a></td>
 </tr>
 </tbody></table>

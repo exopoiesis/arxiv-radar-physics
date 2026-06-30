@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Yunzhe Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28183.html">Universal EOS-Radius Inverse Mappings Govern Precision-Dependent Inference of the Neutron Star Equation of State</a></div></td>
 <td>Bao-An Li</td>
 <td><a href="http://arxiv.org/abs/2606.28183">2606.28183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28492.html">Propagating data noise through the fit: the Monte Carlo replica distribution</a></div></td>
+<td>Mark N. Costantini</td>
+<td><a href="http://arxiv.org/abs/2606.28492">2606.28492</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-24</td>
@@ -734,17 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01121.html">A comparison of Markov Chain Monte Carlo algorithms for Bayesian inference of constitutive models</a></div></td>
 <td>Aricia Rinkens et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01121">2604.01121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15873.html">Gravitational-wave Observations Suggest Most Black Hole Mergers Form in Triples</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="ligo-90d.html">ligo</a></div></td>
-<td>Jakob Stegmann et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15873">2512.15873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16419.html">Early Prediction of Creep Failure via Bayesian Inference of Evolving Barriers</a></div></td>
-<td>Juan Carlos Verano-Espitia et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16419">2603.16419</a></td>
 </tr>
 </tbody></table>

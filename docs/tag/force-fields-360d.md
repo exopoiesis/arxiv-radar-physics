@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,11 +620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05502.html">Predicting mutational effects on protein binding from folding energy</a></div></td>
 <td>Arthur Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05502">2507.05502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13838.html">Machine Learning Accelerated Descriptor Design for Catalyst Discovery in CO$_2$ to Methanol Conversion</a></div></td>
-<td>Prajwal Pisal et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13838">2412.13838</a></td>
 </tr>
 </tbody></table>

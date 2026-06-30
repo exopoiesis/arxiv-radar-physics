@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
+<td>Nick Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29346">2606.29346</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27285.html">Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs</a></div></td>
 <td>Yang Pan et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24999.html">A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Yanwei Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24999">2606.24999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23219.html">SPADE: Structure-Prior Adaptive Decision Estimation</a></div></td>
-<td>Yifan Wang</td>
-<td><a href="http://arxiv.org/abs/2606.23219">2606.23219</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2036,53 +2036,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01672.html">Baryonification extended to thermal Sunyaev Zeldovich</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Giovanni Aricò et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01672">2406.01672</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17566.html">A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models</a></div></td>
-<td>David Harvey</td>
-<td><a href="http://arxiv.org/abs/2405.17566">2405.17566</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17498.html">Om å kartleggja mørk materie med maskinlæring</a></div></td>
-<td>Hans Georg Schaathun et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17498">2405.17498</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15296.html">Exploring interacting bulk viscous model with decaying vacuum density</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Vinita Khatri et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15296">2405.15296</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12918.html">Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra</a></div></td>
-<td>Álvaro Tovar-Pardo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12918">2405.12918</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15424.html">Using conditional GANs for convergence map reconstruction with uncertainties</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
-<td>Jessica Whitney et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15424">2406.15424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10424.html">$k$-e$μ$lator: emulating clustering effects of the $k$-essence dark energy</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>A. R. Nouri-Zonoz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10424">2405.10424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07915.html">Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks</a></div></td>
-<td>Yuchen Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07915">2405.07915</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Jonah C. Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
 </tr>
 </tbody></table>

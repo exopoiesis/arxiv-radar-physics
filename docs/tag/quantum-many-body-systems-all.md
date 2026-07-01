@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — all</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <a href="quantum-many-body-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,23 +470,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17841.html">Probing many-body Bell correlation depth with superconducting qubits</a></div></td>
 <td>Ke Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17841">2406.17841</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00151.html">Neural-network-supported basis optimizer for the configuration interaction problem in quantum many-body clusters: Feasibility study and numerical proof</a></div></td>
-<td>Pavlo Bilous et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00151">2406.00151</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15488.html">Unsupervised Deep Neural Network Approach To Solve Bosonic Systems</a></div></td>
-<td>Avishek Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15488">2405.15488</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13582.html">Dual-Capability Machine Learning Models for Quantum Hamiltonian Parameter Estimation and Dynamics Prediction</a></div></td>
-<td>Zheng An et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13582">2405.13582</a></td>
 </tr>
 </tbody></table>

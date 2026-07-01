@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gravitational-waves — all</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <a href="gravitational-waves-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,35 +764,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03257.html">The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="black-holes-all.html">black-holes</a></div></td>
 <td>Wei-Hua Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03257">2406.03257</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19407.html">Tempered Multifidelity Importance Sampling for Gravitational Wave Parameter Estimation</a></div></td>
-<td>Bassel Saleh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19407">2405.19407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09468.html">Predicting Binary Neutron Star Postmerger Spectra Using Artificial Neural Networks</a></div></td>
-<td>Dimitrios Pesios et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09468">2405.09468</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08163.html">Deep TOV to characterize Neutron Stars</a></div></td>
-<td>Praveer Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08163">2405.08163</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04564.html">Component Separation method for CMB using Convolutional Neural Networks</a></div></td>
-<td>A. Quintana-Estellés et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04564">2405.04564</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04547.html">Constraints on typical relic gravitational waves based on data of LIGO</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
-<td>Minghui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04547">2405.04547</a></td>
 </tr>
 </tbody></table>

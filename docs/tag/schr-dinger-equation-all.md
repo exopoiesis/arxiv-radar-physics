@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>schr-dinger-equation — all</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,23 +578,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01222.html">Symmetry enforced solution of the many-body Schrödinger equation with deep neural network</a></div></td>
 <td>Zhe Li et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01222">2406.01222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15502.html">Unsupervised Deep Neural Network Approach To Solve Fermionic Systems</a></div><div class="paper-tags"><a href="condensed-matter-physics-all.html">condensed-matter-physics</a></div></td>
-<td>Avishek Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15502">2405.15502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09164.html">Rapidly Achieving Chemical Accuracy with Quantum Computing Enforced Language Model</a></div><div class="paper-tags"><a href="vqe-all.html">vqe</a></div></td>
-<td>Honghui Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09164">2405.09164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07599.html">Transferable Neural Wavefunctions for Solids</a></div></td>
-<td>Leon Gerard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07599">2405.07599</a></td>
 </tr>
 </tbody></table>

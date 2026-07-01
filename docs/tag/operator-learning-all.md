@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">393 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2372,41 +2372,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03407.html">Physics and geometry informed neural operator network with application to acoustic scattering</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
 <td>Siddharth Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03407">2406.03407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19166.html">Transformers as Neural Operators for Solutions of Differential Equations with Finite Regularity</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Benjamin Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19166">2405.19166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16616.html">DPHGNN: A Dual Perspective Hypergraph Neural Networks</a></div></td>
-<td>Siddhant Saxena et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16616">2405.16616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12202.html">Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution</a></div></td>
-<td>Xihaier Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12202">2405.12202</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09285.html">Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Junfeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09285">2405.09285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07067.html">Learning Flame Evolution Operator under Hybrid Darrieus Landau and Diffusive Thermal Instability</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Rixin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07067">2405.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01975.html">Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field data from a reduced parametric space</a></div></td>
-<td>Rasoul Najafi Koopas et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01975">2405.01975</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ligo — all</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,17 +842,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01318.html">Advancements in Glitch Subtraction Systems for Enhancing Gravitational Wave Data Analysis: A Brief Review</a></div></td>
 <td>Mohammad Abu Thaher Chowdhury</td>
 <td><a href="http://arxiv.org/abs/2406.01318">2406.01318</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11650.html">On non-detection of Gamma-Ray Bursts in three compact binary merger events detected by LIGO</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Luyanda Mazwi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11650">2405.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04547.html">Constraints on typical relic gravitational waves based on data of LIGO</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Minghui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04547">2405.04547</a></td>
 </tr>
 </tbody></table>

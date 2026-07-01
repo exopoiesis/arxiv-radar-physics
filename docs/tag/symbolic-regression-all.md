@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,17 +1694,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00695.html">Discovering an interpretable mathematical expression for a full wind-turbine wake with artificial intelligence enhanced symbolic regression</a></div></td>
 <td>Ding Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00695">2406.00695</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18417.html">A physics-inspired evolutionary machine learning method: from the Schrödinger equation to an orbital-free-DFT kinetic energy functional</a></div></td>
-<td>Juan I. Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18417">2405.18417</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06848.html">ISR: Invertible Symbolic Regression</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="oceanography-all.html">oceanography</a></div></td>
-<td>Tony Tohme et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06848">2405.06848</a></td>
 </tr>
 </tbody></table>

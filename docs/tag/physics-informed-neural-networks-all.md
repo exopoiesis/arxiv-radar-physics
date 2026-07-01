@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — all</h1>
-  <span class="paper-count">996 papers</span>
+  <span class="paper-count">985 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5924,71 +5924,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02917.html">A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="pinns-all.html">pinns</a></div></td>
 <td>Khemraj Shukla et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02917">2406.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16770.html">Physics informed cell representations for variational formulation of multiscale problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Yuxiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16770">2405.16770</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01957.html">An analysis and solution of ill-conditioning in physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Wenbo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01957">2405.01957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14096.html">Newton Informed Neural Operator for Computing Multiple Solutions of Nonlinear Partials Differential Equations</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Wenrui Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14096">2405.14096</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14561.html">Beyond the Buzz: Strategic Paths for Enabling Useful NISQ Applications</a></div></td>
-<td>Pratibha Raghupati Hegde et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14561">2405.14561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11383.html">Investigating KAN-Based Physics-Informed Neural Networks for EMI/EMC Simulations</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
-<td>Kun Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11383">2405.11383</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11208.html">Discovering Physics-Informed Neural Networks Model for Solving Partial Differential Equations through Evolutionary Computation</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Bo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11208">2405.11208</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08406.html">Towards a Hybrid Digital Twin: Physics-Informed Neural Networks as Surrogate Model of a Reinforced Concrete Beam</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Tarik Sahin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08406">2405.08406</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08111.html">Conformalized Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
-<td>Lena Podina et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08111">2405.08111</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04466.html">A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Tianyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04466">2405.04466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03427.html">Geometry-aware framework for deep energy method: an application to structural mechanics with hyperelastic materials</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
-<td>Thi Nguyen Khoa Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03427">2405.03427</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03433.html">Annealed adaptive importance sampling method in PINNs for solving high dimensional partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Zhengqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03433">2405.03433</a></td>
 </tr>
 </tbody></table>

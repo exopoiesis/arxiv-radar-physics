@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1316,17 +1316,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03810.html">Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
 <td>Kai L. Polsterer et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03810">2406.03810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04740.html">Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-energy-all.html">dark-energy</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>John Franklin Crenshaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04740">2405.04740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Jonah C. Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
 </tr>
 </tbody></table>

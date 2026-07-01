@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>les — all</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <a href="les-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,11 +584,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00471.html">Machine-learning wall-model large-eddy simulation accounting for isotropic roughness under local equilibrium</a></div></td>
 <td>Rong Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00471">2406.00471</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02679.html">Prévisions météorologiques basées sur l&#x27;intelligence artificielle : une révolution peut en cacher une autre</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Zied Ben-Bouallegue et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02679">2405.02679</a></td>
 </tr>
 </tbody></table>

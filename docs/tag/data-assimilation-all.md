@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>data-assimilation — all</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">241 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1460,17 +1460,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00390.html">AI-based data assimilation: Learning the functional of analysis estimation</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
 <td>Jan D. Keller et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00390">2406.00390</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20160.html">Spectral adjoint-based assimilation of sparse data in unsteady simulations of turbulent flows</a></div></td>
-<td>Justin Plogmann et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20160">2405.20160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13711.html">VAE-Var: Variational-Autoencoder-Enhanced Variational Assimilation</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>
-<td>Yi Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13711">2405.13711</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrology — all</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <a href="hydrology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01776.html">Dynamical-generative downscaling of climate model ensembles</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Ignacio Lopez-Gomez et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01776">2410.01776</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02426.html">Generalized Solution for Double-Porosity Flow through a Graded Excavation Damaged Zone</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Kristopher L. Kuhlman</td>
-<td><a href="http://arxiv.org/abs/2405.02426">2405.02426</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2948,47 +2948,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00452.html">Towards a Unified Framework of Clustering-based Anomaly Detection</a></div></td>
 <td>Zeyu Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00452">2406.00452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18321.html">Long Short-Term Memory Networks for Anomaly Detection in Magnet Power Supplies of Particle Accelerators</a></div></td>
-<td>Ihar Lobach et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18321">2405.18321</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16580.html">A Study on Unsupervised Anomaly Detection and Defect Localization using Generative Model in Ultrasonic Non-Destructive Testing</a></div></td>
-<td>Yusaku Ando et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16580">2405.16580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07749.html">DeepHYDRA: Resource-Efficient Time-Series Anomaly Detection in Dynamically-Configured Systems</a></div></td>
-<td>Franz Kevin Stehle et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07749">2405.07749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07916.html">IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>
-<td>Ziyang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07916">2405.07916</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06580.html">Continuous-variable Quantum Boltzmann Machine</a></div></td>
-<td>Shikha Bangar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06580">2405.06580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02574.html">A Data Mining-Based Dynamical Anomaly Detection Method for Integrating with an Advance Metering System</a></div></td>
-<td>Sarit Maitra</td>
-<td><a href="http://arxiv.org/abs/2405.02574">2405.02574</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05277.html">An Attention-Based Deep Generative Model for Anomaly Detection in Industrial Control Systems</a></div></td>
-<td>Mayra Macas et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05277">2405.05277</a></td>
 </tr>
 </tbody></table>

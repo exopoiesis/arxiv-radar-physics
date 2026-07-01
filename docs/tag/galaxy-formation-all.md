@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>galaxy-formation — all</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <a href="galaxy-formation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,17 +476,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01672.html">Baryonification extended to thermal Sunyaev Zeldovich</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
 <td>Giovanni Aricò et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01672">2406.01672</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04601.html">Predictions for the abundance and clustering of H$α$ emitting galaxies</a></div></td>
-<td>Makun Madar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04601">2405.04601</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Jonah C. Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
 </tr>
 </tbody></table>

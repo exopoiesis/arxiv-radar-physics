@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qml — all</h1>
-  <span class="paper-count">332 papers</span>
+  <span class="paper-count">325 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1964,47 +1964,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01095.html">Application of ZX-calculus to Quantum Architecture Search</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
 <td>Tom Ewen et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01095">2406.01095</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18989.html">Classification analysis of transition-metal chalcogenides and oxides using quantum machine learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="vqe-all.html">vqe</a></div></td>
-<td>Kurudi V Vedavyasa et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18989">2405.18989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18230.html">Quantum Active Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Yongcheng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18230">2405.18230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11194.html">QuaLITi: Quantum Machine Learning Hardware Selection for Inferencing with Top-Tier Performance</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Koustubh Phalak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11194">2405.11194</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10119.html">Applications of Quantum Machine Learning for Quantitative Finance</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Piotr Mironowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10119">2405.10119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09135.html">On the Role of Controllability in Pulse-based Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Han-Xiao Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09135">2405.09135</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08917.html">Feature Importance and Explainability in Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Luke Power et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08917">2405.08917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08100.html">Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
-<td>Shamminuj Aktar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08100">2405.08100</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chaotic-systems — all</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <a href="chaotic-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,29 +596,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08149.html">Universal Scale Laws for Colors and Patterns in Imagery</a></div></td>
 <td>Rémi Michel et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08149">2406.08149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02580.html">Exploiting Chaotic Dynamics as Deep Neural Networks</a></div></td>
-<td>Shuhong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02580">2406.02580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05646.html">Outlier-robust Kalman Filtering through Generalised Bayes</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Gerardo Duran-Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05646">2405.05646</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10190.html">Comparative Analysis of Predicting Subsequent Steps in Hénon Map</a></div></td>
-<td>Vismaya V S et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10190">2405.10190</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13711.html">VAE-Var: Variational-Autoencoder-Enhanced Variational Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Yi Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13711">2405.13711</a></td>
 </tr>
 </tbody></table>

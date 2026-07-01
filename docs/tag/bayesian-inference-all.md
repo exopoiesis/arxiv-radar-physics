@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">673 papers</span>
+  <span class="paper-count">662 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3986,71 +3986,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03257.html">The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
 <td>Wei-Hua Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03257">2406.03257</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05646.html">Outlier-robust Kalman Filtering through Generalised Bayes</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>
-<td>Gerardo Duran-Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05646">2405.05646</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16630.html">Bayesian Inference with Deep Weakly Nonlinear Networks</a></div></td>
-<td>Boris Hanin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16630">2405.16630</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15296.html">Exploring interacting bulk viscous model with decaying vacuum density</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Vinita Khatri et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15296">2405.15296</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13149.html">Gaussian Measures Conditioned on Nonlinear Observations: Consistency, MAP Estimators, and Simulation</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Yifan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13149">2405.13149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11650.html">On non-detection of Gamma-Ray Bursts in three compact binary merger events detected by LIGO</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
-<td>Luyanda Mazwi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11650">2405.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10364.html">Inferring the Distribution of the Ionising Photon Escape Fraction</a></div></td>
-<td>Kimi C. Kreilgaard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10364">2405.10364</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04749.html">Bayesian Black Hole Photogrammetry</a></div></td>
-<td>Dominic O. Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04749">2405.04749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02656.html">Information content of JWST spectra of WASP-39b</a></div></td>
-<td>Anna Lueber et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02656">2405.02656</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01841.html">On the time dependency of $a_0$</a></div></td>
-<td>Antonino Del Popolo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01841">2405.01841</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00582.html">Implementing Bayesian inference on a stochastic CO2-based grey-box model for assessing indoor air quality in Canadian primary schools</a></div></td>
-<td>Shujie Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00582">2405.00582</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00449.html">RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models</a></div></td>
-<td>Mohamed Manzour Hussien et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00449">2405.00449</a></td>
 </tr>
 </tbody></table>

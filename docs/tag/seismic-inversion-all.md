@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>seismic-inversion — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="seismic-inversion-7d.html">7d</a> <a href="seismic-inversion-30d.html">30d</a> <a href="seismic-inversion-90d.html">90d</a> <a href="seismic-inversion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04932.html">High-resolution closed-loop seismic inversion network in time-frequency phase mixed domain</a></div></td>
 <td>Yingtian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04932">2408.04932</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05026.html">An anti-noise seismic inversion method based on diffusion model</a></div></td>
-<td>Yingtian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05026">2405.05026</a></td>
 </tr>
 </tbody></table>

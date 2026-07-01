@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1082,29 +1082,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03096.html">Learning to see R-parity violating scalar top decays</a></div><div class="paper-tags"><a href="event-classification-all.html">event-classification</a></div></td>
 <td>Gerrit Bickendorf et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03096">2406.03096</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01620.html">Parnassus: An Automated Approach to Accurate, Precise, and Fast Detector Simulation and Reconstruction</a></div><div class="paper-tags"><a href="detector-simulation-all.html">detector-simulation</a></div></td>
-<td>Etienne Dreyer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01620">2406.01620</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15508.html">Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments</a></div></td>
-<td>Olivia Jullian Parra et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15508">2405.15508</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14049.html">Particle physics DL-simulation with control over generated data properties</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Karol Rogoziński et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14049">2405.14049</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
-<td>Jonah C. Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
 </tr>
 </tbody></table>

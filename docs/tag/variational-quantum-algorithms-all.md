@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — all</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <a href="variational-quantum-algorithms-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,29 +572,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04715.html">$i$Trust: Trust-Region Optimisation with Ising Machines</a></div></td>
 <td>Sayantan Pramanik et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04715">2407.04715</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07790.html">Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization</a></div><div class="paper-tags"><a href="qaoa-all.html">qaoa</a></div></td>
-<td>Georg Kruse et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07790">2405.07790</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08100.html">Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Shamminuj Aktar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08100">2405.08100</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05332.html">Barren plateaus are swamped with traps</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Nikita A. Nemkov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05332">2405.05332</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04499.html">Benchmarking Optimizers for Qumode State Preparation with Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Shuwen Kan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04499">2405.04499</a></td>
 </tr>
 </tbody></table>

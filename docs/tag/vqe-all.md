@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vqe — all</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <a href="vqe-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,17 +344,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06150.html">Physics-Informed Bayesian Optimization of Variational Quantum Circuits</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
 <td>Kim A. Nicoli et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06150">2406.06150</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18989.html">Classification analysis of transition-metal chalcogenides and oxides using quantum machine learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Kurudi V Vedavyasa et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18989">2405.18989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09164.html">Rapidly Achieving Chemical Accuracy with Quantum Computing Enforced Language Model</a></div><div class="paper-tags"><a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
-<td>Honghui Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09164">2405.09164</a></td>
 </tr>
 </tbody></table>

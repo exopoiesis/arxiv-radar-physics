@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">299 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1808,53 +1808,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00390.html">AI-based data assimilation: Learning the functional of analysis estimation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
 <td>Jan D. Keller et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00390">2406.00390</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20882.html">Sheaf HyperNetworks for Personalized Federated Learning</a></div></td>
-<td>Bao Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20882">2405.20882</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19801.html">Modeling of Nitric Oxide Infrared radiative flux in lower thermosphere: a machine learning perspective</a></div></td>
-<td>Dayakrishna Nailwal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19801">2405.19801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18849.html">SFANet: Spatial-Frequency Attention Network for Weather Forecasting</a></div></td>
-<td>Jiaze Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18849">2405.18849</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07534.html">BharatBench: Dataset for data-driven weather forecasting over India</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a></div></td>
-<td>Animesh Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07534">2405.07534</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07395.html">CaFA: Global Weather Forecasting with Factorized Attention on Sphere</a></div></td>
-<td>Zijie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07395">2405.07395</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06590.html">Decomposing weather forecasting into advection and convection with neural networks</a></div></td>
-<td>Mengxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06590">2405.06590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03376.html">CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03376">2405.03376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02679.html">Prévisions météorologiques basées sur l&#x27;intelligence artificielle : une révolution peut en cacher une autre</a></div><div class="paper-tags"><a href="les-all.html">les</a></div></td>
-<td>Zied Ben-Bouallegue et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02679">2405.02679</a></td>
 </tr>
 </tbody></table>

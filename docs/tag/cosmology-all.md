@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmology — all</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,35 +1880,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01527.html">Modelling the redshift-space cluster-galaxy correlation function on Mpc scales with emulation of the pairwise velocity distribution</a></div></td>
 <td>Andrew Robertson et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01527">2406.01527</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15424.html">Using conditional GANs for convergence map reconstruction with uncertainties</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Jessica Whitney et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15424">2406.15424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07903.html">A complete framework for cosmological emulation and inference with CosmoPower</a></div></td>
-<td>H. T. Jense et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07903">2405.07903</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04740.html">Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="dark-energy-all.html">dark-energy</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>John Franklin Crenshaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04740">2405.04740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02252.html">A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics</a></div></td>
-<td>Beyond-2pt Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02252">2405.02252</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00766.html">Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine learning and Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Jonah C. Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00766">2405.00766</a></td>
 </tr>
 </tbody></table>

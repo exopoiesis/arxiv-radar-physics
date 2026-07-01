@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>climate-modeling — all</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <a href="climate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,23 +410,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05224.html">On the importance of learning non-local dynamics for stable data-driven climate modeling: A 1D gravity wave-QBO testbed</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Hamid A. Pahlavan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05224">2407.05224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14004.html">Towards A Comprehensive Assessment of AI&#x27;s Environmental Impact</a></div></td>
-<td>Srija Chakraborty</td>
-<td><a href="http://arxiv.org/abs/2405.14004">2405.14004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07534.html">BharatBench: Dataset for data-driven weather forecasting over India</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Animesh Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07534">2405.07534</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05430.html">Towards Invariant Time Series Forecasting in Smart Cities</a></div></td>
-<td>Ziyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05430">2405.05430</a></td>
 </tr>
 </tbody></table>

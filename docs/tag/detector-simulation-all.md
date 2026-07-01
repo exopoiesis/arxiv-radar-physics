@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>detector-simulation — all</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <a href="detector-simulation-90d.html">90d</a> <a href="detector-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13074.html">PIPPIN: Generating variable length full events from partons</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
 <td>Guillaume Quétant et al.</td>
 <td><a href="http://arxiv.org/abs/2406.13074">2406.13074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10106.html">Advancing Set-Conditional Set Generation: Diffusion Models for Fast Simulation of Reconstructed Particles</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Dmitrii Kobylianskii et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10106">2405.10106</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01620.html">Parnassus: An Automated Approach to Accurate, Precise, and Fast Detector Simulation and Reconstruction</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Etienne Dreyer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01620">2406.01620</a></td>
 </tr>
 </tbody></table>

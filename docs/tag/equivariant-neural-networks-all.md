@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>equivariant-neural-networks — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="equivariant-neural-networks-7d.html">7d</a> <a href="equivariant-neural-networks-30d.html">30d</a> <a href="equivariant-neural-networks-90d.html">90d</a> <a href="equivariant-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08318.html">Invariant multiscale neural networks for data-scarce scientific applications</a></div></td>
 <td>I. Schurov et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08318">2406.08318</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13850.html">Enhancing lattice kinetic schemes for fluid dynamics with Lattice-Equivariant Neural Networks</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Giulio Ortali et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13850">2405.13850</a></td>
 </tr>
 </tbody></table>

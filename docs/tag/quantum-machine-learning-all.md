@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-machine-learning — all</h1>
-  <span class="paper-count">903 papers</span>
+  <span class="paper-count">884 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5318,119 +5318,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01948.html">Can Entanglement-enhanced Quantum Kernels Improve Data Classification?</a></div></td>
 <td>Anand Babu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01948">2406.01948</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18989.html">Classification analysis of transition-metal chalcogenides and oxides using quantum machine learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="vqe-all.html">vqe</a></div></td>
-<td>Kurudi V Vedavyasa et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18989">2405.18989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18105.html">Quantum-Classical Autoencoder Architectures for End-to-End Radio Communication</a></div></td>
-<td>Zsolt I. Tabi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18105">2405.18105</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18230.html">Quantum Active Learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Yongcheng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18230">2405.18230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17060.html">Graph Neural Networks on Quantum Computers</a></div></td>
-<td>Yidong Liao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17060">2405.17060</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13515.html">Multi-Scale Feature Fusion Quantum Depthwise Convolutional Neural Networks for Text Classification</a></div></td>
-<td>Yixiong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13515">2405.13515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13808.html">Hybrid Quantum-Classical Normalizing Flow</a></div></td>
-<td>Anlei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13808">2405.13808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12625.html">Quantum Resonant Dimensionality Reduction and Its Application in Quantum Machine Learning</a></div></td>
-<td>Fan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12625">2405.12625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11194.html">QuaLITi: Quantum Machine Learning Hardware Selection for Inferencing with Top-Tier Performance</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Koustubh Phalak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11194">2405.11194</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09781.html">An Independent Implementation of Quantum Machine Learning Algorithms in Qiskit for Genomic Data</a></div></td>
-<td>Navneet Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09781">2405.09781</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10119.html">Applications of Quantum Machine Learning for Quantitative Finance</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Piotr Mironowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10119">2405.10119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08801.html">Prospects of Privacy Advantage in Quantum Machine Learning</a></div></td>
-<td>Jamie Heredge et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08801">2405.08801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09135.html">On the Role of Controllability in Pulse-based Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Han-Xiao Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09135">2405.09135</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08917.html">Feature Importance and Explainability in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Luke Power et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08917">2405.08917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08100.html">Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
-<td>Shamminuj Aktar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08100">2405.08100</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07226.html">Separable Power of Classical and Quantum Learning Protocols Through the Lens of No-Free-Lunch Theorem</a></div></td>
-<td>Xinbiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07226">2405.07226</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05332.html">Barren plateaus are swamped with traps</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
-<td>Nikita A. Nemkov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05332">2405.05332</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04499.html">Benchmarking Optimizers for Qumode State Preparation with Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
-<td>Shuwen Kan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04499">2405.04499</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03027.html">Understanding the effects of data encoding on quantum-classical convolutional neural networks</a></div></td>
-<td>Maureen Monnet et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03027">2405.03027</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01734.html">Diabetic Retinopathy Detection Using Quantum Transfer Learning</a></div></td>
-<td>Ankush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01734">2405.01734</a></td>
 </tr>
 </tbody></table>

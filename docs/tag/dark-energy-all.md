@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1196,35 +1196,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04529.html">Towards Precision Photometric Type Ia Supernova Cosmology with Machine Learning</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
 <td>Helen Qu</td>
 <td><a href="http://arxiv.org/abs/2406.04529">2406.04529</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12975.html">Systematic comparison of neural networks used in discovering strong gravitational lenses</a></div></td>
-<td>Anupreeta More et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12975">2405.12975</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10881.html">Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps II. Cosmological results</a></div></td>
-<td>M. Gatti et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10881">2405.10881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10424.html">$k$-e$μ$lator: emulating clustering effects of the $k$-essence dark energy</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>A. R. Nouri-Zonoz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10424">2405.10424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04740.html">Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>John Franklin Crenshaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04740">2405.04740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01396.html">Cutting corners: Hypersphere sampling as a new standard for cosmological emulators</a></div></td>
-<td>Andreas Nygaard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01396">2405.01396</a></td>
 </tr>
 </tbody></table>

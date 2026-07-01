@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-error-correction — all</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14272.html">Theoretical framework for quantum associative memories</a></div></td>
 <td>Adrià Labay-Mora et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14272">2408.14272</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17543.html">The MQT Handbook: A Summary of Design Automation Tools and Software for Quantum Computing</a></div></td>
-<td>Robert Wille et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17543">2405.17543</a></td>
 </tr>
 </tbody></table>

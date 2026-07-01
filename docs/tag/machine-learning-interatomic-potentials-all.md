@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — all</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1322,17 +1322,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15491.html">Vibrational Entropy and Free Energy of Solid Lithium using Covariance of Atomic Displacements Enabled by Machine Learning</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
 <td>Mgcini Keith Phuthi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15491">2406.15491</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08308.html">Online Test-time Adaptation for Interatomic Potentials</a></div></td>
-<td>Taoyong Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08308">2405.08308</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07105.html">Overcoming systematic softening in universal machine learning interatomic potentials by fine-tuning</a></div><div class="paper-tags"><a href="force-fields-all.html">force-fields</a></div></td>
-<td>Bowen Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07105">2405.07105</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">698 papers</span>
+  <span class="paper-count">690 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4154,53 +4154,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01147.html">Why Tabular Foundation Models Should Be a Research Priority</a></div></td>
 <td>Boris van Breugel et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01147">2405.01147</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16230.html">Active oversight and quality control in standard Bayesian optimization for autonomous experiments</a></div></td>
-<td>Sumner B. Harris et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16230">2405.16230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15485.html">Learning Beyond Pattern Matching? Assaying Mathematical Understanding in LLMs</a></div></td>
-<td>Siyuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15485">2405.15485</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13352.html">&quot;Turing Tests&quot; For An AI Scientist</a></div></td>
-<td>Xiaoxin Yin</td>
-<td><a href="http://arxiv.org/abs/2405.13352">2405.13352</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12300.html">Integration of Scanning Probe Microscope with High-Performance Computing: fixed-policy and reward-driven workflows implementation</a></div></td>
-<td>Yu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12300">2405.12300</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09817.html">Active Learning with Fully Bayesian Neural Networks for Discontinuous and Nonstationary Data</a></div></td>
-<td>Maxim Ziatdinov</td>
-<td><a href="http://arxiv.org/abs/2405.09817">2405.09817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09783.html">LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery</a></div></td>
-<td>Pingchuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09783">2405.09783</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02952.html">Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving</a></div></td>
-<td>Sohei Arisaka et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02952">2405.02952</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01616.html">Generative Active Learning for the Search of Small-molecule Protein Binders</a></div></td>
-<td>Maksym Korablyov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01616">2405.01616</a></td>
 </tr>
 </tbody></table>

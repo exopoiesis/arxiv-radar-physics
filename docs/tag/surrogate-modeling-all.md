@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">226 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,23 +1352,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12898.html">A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation</a></div><div class="paper-tags"><a href="fast-simulation-all.html">fast-simulation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Farzana Yasmin Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2406.12898">2406.12898</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13759.html">Enhancing Multiscale Simulations with Constitutive Relations-Aware Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Hamidreza Eivazi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13759">2405.13759</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09285.html">Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Junfeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09285">2405.09285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08406.html">Towards a Hybrid Digital Twin: Physics-Informed Neural Networks as Surrogate Model of a Reinforced Concrete Beam</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Tarik Sahin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08406">2405.08406</a></td>
 </tr>
 </tbody></table>

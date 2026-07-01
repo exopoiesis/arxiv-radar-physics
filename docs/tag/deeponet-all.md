@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,29 +1412,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03407.html">Physics and geometry informed neural operator network with application to acoustic scattering</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
 <td>Siddharth Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03407">2406.03407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19166.html">Transformers as Neural Operators for Solutions of Differential Equations with Finite Regularity</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Benjamin Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19166">2405.19166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14096.html">Newton Informed Neural Operator for Computing Multiple Solutions of Nonlinear Partials Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Wenrui Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14096">2405.14096</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13759.html">Enhancing Multiscale Simulations with Constitutive Relations-Aware Deep Operator Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Hamidreza Eivazi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13759">2405.13759</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13234.html">Deep operator learning-based surrogate models for aerothermodynamic analysis of AEDC hypersonic waverider</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Khemraj Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13234">2405.13234</a></td>
 </tr>
 </tbody></table>

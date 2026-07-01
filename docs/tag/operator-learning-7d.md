@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>operator-learning — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Shuo Ling et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25185.html">Neural operator-based digital twins for modeling amyloid-$β$ and tau propagation and treatment optimization in Alzheimer&#x27;s disease</a></div></td>
-<td>Xiaofeng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25185">2606.25185</a></td>
 </tr>
 </tbody></table>

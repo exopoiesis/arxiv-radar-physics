@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,23 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03321.html">General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Genwei Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03321">2604.03321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00441.html">Optimization-Based Discovery of A Non-Attracting Flow State in An Oscillating-Cylinder Wake</a></div></td>
-<td>Daiwei Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00441">2604.00441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00948.html">Physics-informed neural networks for solving two-phase flow problems with moving interfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Qijia Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00948">2604.00948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00987.html">Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Yi Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00987">2604.00987</a></td>
 </tr>
 </tbody></table>

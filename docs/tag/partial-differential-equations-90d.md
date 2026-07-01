@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">185 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1124,17 +1124,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07366.html">Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Yilong Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07366">2604.07366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29264.html">Lie Generator Networks for Nonlinear Partial Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Shafayeth Jamil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29264">2603.29264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00689.html">Performance of Neural and Polynomial Operator Surrogates</a></div></td>
-<td>Josephine Westermann et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00689">2604.00689</a></td>
 </tr>
 </tbody></table>

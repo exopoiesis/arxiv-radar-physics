@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>data-assimilation — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27267.html">Sparse Sensor Placement for Reducing Forecast Errors in Ensemble Kalman Filtering</a></div></td>
 <td>Takumi Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27267">2606.27267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24989.html">Low-Cost High-Order Singular Value Decomposition for Tensor-Based Reconstruction from Sparse Sensor Measurements: Urban Flow and Air-Quality Applications</a></div></td>
-<td>Arindam Sengupta et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24989">2606.24989</a></td>
 </tr>
 </tbody></table>

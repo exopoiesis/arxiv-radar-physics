@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02156.html">AstroConcepts: A Large-Scale Multi-Label Classification Corpus for Astrophysics</a></div></td>
 <td>Atilla Kaan Alkan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02156">2604.02156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01305.html">UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Mars Liyao Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01305">2604.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01313.html">JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Zeyu Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01313">2604.01313</a></td>
 </tr>
 </tbody></table>

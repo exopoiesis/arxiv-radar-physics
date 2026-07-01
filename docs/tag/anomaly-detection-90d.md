@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,23 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02327.html">Steerable Visual Representations</a></div></td>
 <td>Jona Ruthardt et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02327">2604.02327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26461.html">Neuro-Symbolic Process Anomaly Detection</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Devashish Gaikwad et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26461">2603.26461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29740.html">Data-Driven Optimisation of Superconducting Magnets at CEA Paris-Saclay</a></div></td>
-<td>Damien F. G. Minenna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29740">2603.29740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00382.html">mmAnomaly: Leveraging Visual Context for Robust Anomaly Detection in the Non-Visual World with mmWave Radar</a></div></td>
-<td>Tarik Reza Toha et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00382">2604.00382</a></td>
 </tr>
 </tbody></table>

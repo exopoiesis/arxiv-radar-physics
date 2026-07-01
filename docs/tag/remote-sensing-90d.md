@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01531.html">A Conditional Denoising Diffusion Probabilistic Model for RFI Mitigation in Synthetic Aperture Interferometric Radiometer</a></div></td>
 <td>Yuankai Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01531">2604.01531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21523.html">EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?</a></div></td>
-<td>Pierre Adorni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21523">2511.21523</a></td>
 </tr>
 </tbody></table>

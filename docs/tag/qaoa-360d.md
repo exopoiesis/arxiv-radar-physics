@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qaoa — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <a href="qaoa-90d.html">90d</a> <strong>360d</strong> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10733.html">Cross-Problem Parameter Transfer in Quantum Approximate Optimization Algorithm: A Machine Learning Approach</a></div></td>
 <td>Kien X. Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2504.10733">2504.10733</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03884.html">Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics</a></div></td>
-<td>Mazyar Taghavi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03884">2408.03884</a></td>
 </tr>
 </tbody></table>

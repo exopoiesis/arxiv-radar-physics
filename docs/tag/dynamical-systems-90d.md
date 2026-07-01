@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">181 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1100,53 +1100,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02474.html">Time-Warping Recurrent Neural Networks for Transfer Learning</a></div></td>
 <td>Jonathon Hirschi</td>
 <td><a href="http://arxiv.org/abs/2604.02474">2604.02474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22828.html">Fast dynamical similarity analysis</a></div></td>
-<td>Arman Behrad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22828">2511.22828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20359.html">Operator Learning for Smoothing and Forecasting</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Edoardo Calvello et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20359">2603.20359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28048.html">Self-Organizing Score-based Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Yuma Yamaoka et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28048">2603.28048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29264.html">Lie Generator Networks for Nonlinear Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Shafayeth Jamil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29264">2603.29264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00632.html">Neural Ordinary Differential Equations for Modeling Socio-Economic Dynamics</a></div></td>
-<td>Sandeep Kumar Samota et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00632">2604.00632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01188.html">Learning Neural Network Controllers with Certified Robust Performance via Adversarial Training</a></div></td>
-<td>Neelay Junnarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01188">2604.01188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01215.html">The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline</a></div></td>
-<td>Piyush Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01215">2604.01215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08592.html">Reservoir observer enhanced with residual calibration and attention mechanism</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Yichen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08592">2604.08592</a></td>
 </tr>
 </tbody></table>

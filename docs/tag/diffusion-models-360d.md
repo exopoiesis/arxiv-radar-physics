@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">611 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3680,11 +3680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04930.html">RainShift: A Benchmark for Precipitation Downscaling Across Geographies</a></div></td>
 <td>Paula Harder et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04930">2507.04930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02426.html">Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering</a></div></td>
-<td>Peng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02426">2409.02426</a></td>
 </tr>
 </tbody></table>

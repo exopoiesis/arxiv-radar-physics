@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,23 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21852.html">Interpretable Diagnostics and Adaptive Data Assimilation for Neural ODEs via Discrete Empirical Interpolation</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Hojin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21852">2510.21852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20359.html">Operator Learning for Smoothing and Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Edoardo Calvello et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20359">2603.20359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28048.html">Self-Organizing Score-based Data Assimilation</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Yuma Yamaoka et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28048">2603.28048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01216.html">LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)</a></div></td>
-<td>Yuxuan Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01216">2604.01216</a></td>
 </tr>
 </tbody></table>

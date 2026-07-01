@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01642.html">Machine Learning Interatomic Potentials for Million-Atom Simulations of Multicomponent Alloys</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Fei Shuang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01642">2604.01642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01963.html">Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells</a></div></td>
-<td>Kamron Fazel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01963">2505.01963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
 </tbody></table>

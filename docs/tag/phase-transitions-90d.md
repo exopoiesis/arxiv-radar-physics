@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15350.html">The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason</a></div></td>
 <td>Yi Liu</td>
 <td><a href="http://arxiv.org/abs/2604.15350">2604.15350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29805.html">From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability</a></div></td>
-<td>Max Hennick et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29805">2603.29805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00386.html">Machine-learning extraction of size-dependent temperature scales in the 2D XY model</a></div></td>
-<td>Qingao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00386">2604.00386</a></td>
 </tr>
 </tbody></table>

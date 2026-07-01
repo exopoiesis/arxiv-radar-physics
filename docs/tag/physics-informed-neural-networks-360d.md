@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">634 papers</span>
+  <span class="paper-count">630 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3794,29 +3794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04419.html">Machine Learning in Acoustics: A Review and Open-Source Repository</a></div></td>
 <td>Ryan A. McCarthy et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04419">2507.04419</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20343.html">PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Kento Kawaharazuka et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20343">2506.20343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03860.html">Taylor-Model Physics-Informed Neural Networks (PINNs) for Ordinary Differential Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Chandra Kanth Nagesh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03860">2507.03860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03961.html">Solving Lane-Emden-Type Eigenvalue Problems with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Luke Oluwaseye Joel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03961">2507.03961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04153.html">Physics-informed neural networks and neural operators for a study of EUV electromagnetic wave diffraction from a lithography mask</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Vasiliy A. Es&#x27;kin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04153">2507.04153</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01197.html">Quantum vs. Classical Machine Learning: A Unified Empirical Comparison</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Chuanming Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01197">2607.01197</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29293.html">Private training in quantum machine learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Tigran Sedrakyan et al.</td>
@@ -1148,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05190.html">QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hoang-Quan Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05190">2507.05190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04326.html">Quantum Machine Learning for Energy-Efficient 5G-Enabled IoMT Healthcare Systems: Enhancing Data Security and Processing</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Muhammad Zeeshan Riaz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04326">2507.04326</a></td>
 </tr>
 </tbody></table>

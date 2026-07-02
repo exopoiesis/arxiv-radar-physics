@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01048.html">Foreground Characterization and Mitigation in the Observations of the CD/EoR with the SKA</a></div></td>
+<td>Jacob Burba et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01048">2607.01048</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="astrophysics-90d.html">astrophysics</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -320,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04122.html">Gaussian-Process Emulation of the Redshift-Space Halo Power Spectrum Monopole in Cosmologies with Massive Neutrinos</a></div></td>
 <td>Jixin Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04122">2604.04122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01291.html">Fast End-to-End Framework for Cosmological Parameter Inference from CMB Data Using Machine Learning</a></div></td>
-<td>Larissa Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01291">2511.01291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04661.html">unimpeded: A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Dily Duan Yi Ong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04661">2511.04661</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Nisha Chandramoorthy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00320">2607.00320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Meenakshi Krishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -272,23 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03262.html">Let There Be Light: Reflection, Refraction and Scattering for Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Keke Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03262">2606.03262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02114.html">Switched Event-Triggered Adaptive Control of Reaction-Diffusion PDE-ODE with Neural Operator Implementation</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
-<td>Hongpeng Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02114">2606.02114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02427.html">Spectral Audit of In-Context Operator Networks</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Zhiwei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02427">2606.02427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02661.html">Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Yunlong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02661">2606.02661</a></td>
 </tr>
 </tbody></table>

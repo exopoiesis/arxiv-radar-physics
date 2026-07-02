@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00286.html">Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings</a></div></td>
+<td>Riley Acker et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00286">2607.00286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01012.html">Generative Model Proposal based Particle Filtering for Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Chandni Nagda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01012">2607.01012</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30318.html">Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation</a></div></td>
 <td>Yulin Zhou et al.</td>
@@ -1088,17 +1100,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03508.html">Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems</a></div></td>
 <td>Xin Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03508">2604.03508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01914.html">A Weak Notion of Symmetry for Dynamical Systems</a></div></td>
-<td>Jake Welde et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01914">2604.01914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02474.html">Time-Warping Recurrent Neural Networks for Transfer Learning</a></div></td>
-<td>Jonathon Hirschi</td>
-<td><a href="http://arxiv.org/abs/2604.02474">2604.02474</a></td>
 </tr>
 </tbody></table>

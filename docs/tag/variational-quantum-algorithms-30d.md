@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01080.html">Balancing Expressivity and Learnability in Quantum Kernel Bandit Optimization</a></div></td>
+<td>Yuqi Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01080">2607.01080</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20504.html">Entropy Estimation in Multi-Qutrit Systems via Variational and Classical Neural Networks</a></div></td>
 <td>Sai Sakunthala Guddanti et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08794.html">Graph Neural Networks for Fast Operator Selection in Adaptive VQE</a></div><div class="paper-tags"><a href="vqe-30d.html">vqe</a></div></td>
 <td>Javad Vahedi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08794">2606.08794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02697.html">Machine Learning-based Quantum Error Mitigation for Variational Algorithms</a></div><div class="paper-tags"><a href="vqe-30d.html">vqe</a></div></td>
-<td>Nikita Korolev et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02697">2606.02697</a></td>
 </tr>
 </tbody></table>

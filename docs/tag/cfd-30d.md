@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,23 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07724.html">A Geometry-Aware Triplane Field Network for Vehicle Aerodynamic Prediction</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Kangkang Qi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07724">2606.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02179.html">On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</a></div></td>
-<td>Mohammad Rashed et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02179">2606.02179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02315.html">Identifying sensitivity-dominant parameters via active subspaces in reduced-order modeling of fluid dynamics</a></div></td>
-<td>Dewu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02315">2606.02315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14729.html">Machine Learning-Driven Chemical Reactor Network Modeling of the Sandia-D Flame</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="rans-30d.html">rans</a></div></td>
-<td>Nicolas J. Tricard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14729">2606.14729</a></td>
 </tr>
 </tbody></table>

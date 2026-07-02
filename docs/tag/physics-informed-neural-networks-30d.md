@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Yuanshuo Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="pinns-30d.html">pinns</a></div></td>
@@ -296,17 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03904.html">MAdam: Metric-Aware Multi-Objective Adam</a></div></td>
 <td>Fengbei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03904">2606.03904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01572.html">PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Jungwook Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01572">2606.01572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01622.html">An alternating learning-based collocation method for solving inverse elliptic problems</a></div></td>
-<td>Zhizhong Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01622">2606.01622</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00417.html">EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction</a></div></td>
+<td>Qiyan Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00417">2607.00417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00638.html">Uncertainty-aware tree height change regression</a></div></td>
+<td>Max Gaber et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00638">2607.00638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div></td>
+<td>Dianyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>
@@ -3416,11 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19179.html">Mask Approximation Net: A Novel Diffusion Model Approach for Remote Sensing Change Captioning</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Dongwei Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2412.19179">2412.19179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04366.html">Time2Agri: Temporal Pretext Tasks for Agricultural Monitoring</a></div></td>
-<td>Moti Rattan Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04366">2507.04366</a></td>
 </tr>
 </tbody></table>

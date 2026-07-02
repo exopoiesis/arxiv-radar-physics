@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>Xin-Yang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
+<td>G. Li Causi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00669">2607.00669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Meenakshi Krishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28671.html">Entropy-Regularized Reinforcement Learning for Linear-Quadratic Stackelberg Differential Games in Regime-Switching Diffusion Models</a></div></td>
@@ -1088,41 +1106,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03346.html">Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Letao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03346">2604.03346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22413.html">Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Arun Govind Neelan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22413">2506.22413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00855.html">A Residual Guided strategy with Generative Adversarial Networks in training Physics-Informed Transformer Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Ziyang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00855">2508.00855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23113.html">Learning Physical Operators using Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Vignesh Gopakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23113">2602.23113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01835.html">Goal oriented error estimation for adaptive sampling of PINNS</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Medard Govoeyi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01835">2604.01835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03321.html">General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Genwei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03321">2604.03321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07366.html">Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yilong Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07366">2604.07366</a></td>
 </tr>
 </tbody></table>

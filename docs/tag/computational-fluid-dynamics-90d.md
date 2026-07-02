@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,29 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03504.html">Amalgamation of Physics-Informed Neural Network and LBM for the Prediction of Unsteady Fluid Flows in Fractal-Rough Microchannels</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
 <td>Ganesh Sahadeo Meshram et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03504">2604.03504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22413.html">Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Arun Govind Neelan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22413">2506.22413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01800.html">Deep learning accelerated solutions of incompressible Navier-Stokes equations on non-uniform Cartesian grids</a></div></td>
-<td>Heming Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01800">2604.01800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02326.html">ReVAR: A Data-Driven Algorithm for Generating Aero-Optic Phase Screens</a></div></td>
-<td>Jeffrey W. Utley et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02326">2604.02326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02483.html">A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Kiran Yalamanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02483">2604.02483</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01012.html">Generative Model Proposal based Particle Filtering for Data Assimilation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Chandni Nagda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01012">2607.01012</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26497.html">Learning Probabilistic Filters with Strictly Proper Scoring Rules</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Eviatar Bach et al.</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02889.html">Rethinking Forward Processes for Score-Based Data Assimilation in High Dimensions</a></div></td>
 <td>Eunbi Yoon et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02889">2604.02889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21852.html">Interpretable Diagnostics and Adaptive Data Assimilation for Neural ODEs via Discrete Empirical Interpolation</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>Hojin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21852">2510.21852</a></td>
 </tr>
 </tbody></table>

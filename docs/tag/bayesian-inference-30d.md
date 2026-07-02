@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00565.html">Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data</a></div></td>
+<td>Elizabeth Flanagan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00565">2607.00565</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Yunzhe Zhu et al.</td>
@@ -194,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04094.html">Multifrequency Synthesis via CHIBI: Colorful Hierarchical Interferometric Bayesian Imaging</a></div></td>
 <td>Erandi Chavez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04094">2606.04094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02732.html">Precision constraints on stellar physics from main sequence detached eclipsing binaries</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
-<td>Mitchell T. Dennis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02732">2606.02732</a></td>
 </tr>
 </tbody></table>

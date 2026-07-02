@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00565.html">Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data</a></div></td>
+<td>Elizabeth Flanagan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00565">2607.00565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
@@ -716,23 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12111.html">Breaching the Barrier: Transition Pathways of Coral Larval Connectivity Across the Eastern Pacific</a></div></td>
 <td>Maria Olascoaga et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12111">2603.12111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04661.html">unimpeded: A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Dily Duan Yi Ong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04661">2511.04661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19864.html">A Bayesian Method for Air-Shower Reconstruction using Information Field Theory</a></div></td>
-<td>Karen Terveer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19864">2602.19864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02108.html">Cross-Modal Visuo-Tactile Object Perception</a></div></td>
-<td>Anirvan Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02108">2604.02108</a></td>
 </tr>
 </tbody></table>

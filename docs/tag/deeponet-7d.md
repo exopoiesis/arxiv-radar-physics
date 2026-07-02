@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>deeponet — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27177.html">A hybrid IFENN solver for generalizable modeling of phase-field fracture initiation and propagation</a></div></td>
 <td>Panos Pantidis et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27177">2606.27177</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Shuo Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
 </tr>
 </tbody></table>

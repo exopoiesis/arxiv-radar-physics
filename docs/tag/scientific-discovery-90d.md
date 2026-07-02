@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01131.html">Autonomous Scientific Discovery via Iterative Meta-Reflection</a></div></td>
+<td>Bingchen Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01131">2607.01131</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30109.html">TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search</a></div></td>
@@ -902,23 +908,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03406.html">SASAV: Self-Directed Agent for Scientific Analysis and Visualization</a></div></td>
 <td>Jianxin Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03406">2604.03406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27584.html">Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling</a></div></td>
-<td>Junhao Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27584">2603.27584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01728.html">The AnIML Ontology: Enabling Semantic Interoperability for Large-Scale Experimental Data in Interconnected Scientific Labs</a></div></td>
-<td>Wilf Morlidge et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01728">2604.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02038.html">O-ConNet: Geometry-Aware End-to-End Inference of Over-Constrained Spatial Mechanisms</a></div></td>
-<td>Haoyu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02038">2604.02038</a></td>
 </tr>
 </tbody></table>

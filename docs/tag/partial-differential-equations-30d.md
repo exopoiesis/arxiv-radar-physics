@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
+<td>Xin-Yang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
+<td>G. Li Causi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00669">2607.00669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Meenakshi Krishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28671.html">Entropy-Regularized Reinforcement Learning for Linear-Quadratic Stackelberg Differential Games in Regime-Switching Diffusion Models</a></div></td>
@@ -296,17 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03469.html">Physics-guided correction for operator learning under model misspecification</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Lei Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03469">2606.03469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01652.html">Physics-Aware Linearized ADMM and Its Unrolling</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Satoshi Takabe et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01652">2606.01652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02475.html">Physics-Informed Residuals for Adaptive Mesh Refinement in Finite-Difference PDE Solvers</a></div></td>
-<td>Henry Kasumba et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02475">2606.02475</a></td>
 </tr>
 </tbody></table>

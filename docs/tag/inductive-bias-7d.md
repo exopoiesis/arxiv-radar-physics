@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Xin-Yang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30183.html">DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling</a></div></td>
 <td>Mingke Li et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27575.html">Perceptual 3D Simulation With Physical World Modeling</a></div></td>
 <td>Wanhee Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27575">2606.27575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25497.html">SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation</a></div></td>
-<td>Hao Su et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25497">2606.25497</a></td>
 </tr>
 </tbody></table>

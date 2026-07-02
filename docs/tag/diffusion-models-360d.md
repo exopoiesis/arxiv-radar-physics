@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">611 papers</span>
+  <span class="paper-count">612 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01176.html">High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Yu Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01176">2607.01176</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29843.html">Gappy Reconstruction of Bubbly Flows by Guided Diffusion Models</a></div></td>

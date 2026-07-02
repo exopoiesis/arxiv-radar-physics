@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>G. Li Causi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00669">2607.00669</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Guglielmo Padula et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04986.html">Enhancing sample efficiency in reinforcement-learning-based flow control: replacing the critic with an adaptive reduced-order model</a></div><div class="paper-tags"><a href="flow-control-90d.html">flow-control</a></div></td>
 <td>Zesheng Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04986">2604.04986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21852.html">Interpretable Diagnostics and Adaptive Data Assimilation for Neural ODEs via Discrete Empirical Interpolation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Hojin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21852">2510.21852</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>remote-sensing — all</h1>
-  <span class="paper-count">1008 papers</span>
+  <span class="paper-count">1011 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00417.html">EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction</a></div></td>
+<td>Qiyan Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00417">2607.00417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00638.html">Uncertainty-aware tree height change regression</a></div></td>
+<td>Max Gaber et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00638">2607.00638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div></td>
+<td>Dianyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>

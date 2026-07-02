@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>equation-discovery — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <strong>90d</strong> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20910.html">LLM-ODE: Data-driven Discovery of Dynamical Systems with Large Language Models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Amirmohammad Ziaei Bideh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20910">2603.20910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02408.html">A unified framework for equation discovery and dynamic prediction of hysteretic systems</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Siyuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02408">2512.02408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01592.html">Symmetry-Informed Term Filtering for Continuum Equation Discovery</a></div></td>
-<td>Junya Yokokura et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01592">2604.01592</a></td>
 </tr>
 </tbody></table>

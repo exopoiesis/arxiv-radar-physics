@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>lattice-qcd — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <strong>90d</strong> <a href="lattice-qcd-360d.html">360d</a> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05858.html">Thermodynamic and Transport Properties of Quark-Gluon Plasma at Finite Chemical Potential with a DNN framework</a></div></td>
 <td>Rishabh Kumar Tiwari et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05858">2604.05858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01996.html">Tackling inverse problems for PDFs from lattice QCD</a></div></td>
-<td>Alexander Rothkopf</td>
-<td><a href="http://arxiv.org/abs/2604.01996">2604.01996</a></td>
 </tr>
 </tbody></table>

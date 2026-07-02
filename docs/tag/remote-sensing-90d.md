@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00417.html">EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction</a></div></td>
+<td>Qiyan Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00417">2607.00417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00638.html">Uncertainty-aware tree height change regression</a></div></td>
+<td>Max Gaber et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00638">2607.00638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div></td>
+<td>Dianyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>
@@ -806,17 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03456.html">Earth Embeddings Reveal Diverse Urban Signals from Space</a></div></td>
 <td>Wenjing Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03456">2604.03456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02362.html">Data-driven Radiative Magnetohydrodynamics Simulations with the MURaM Code: Coronal Heating and Dynamics in an Emerging Active Region</a></div><div class="paper-tags"><a href="mhd-90d.html">mhd</a></div></td>
-<td>Feng Chen</td>
-<td><a href="http://arxiv.org/abs/2511.02362">2511.02362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01531.html">A Conditional Denoising Diffusion Probabilistic Model for RFI Mitigation in Synthetic Aperture Interferometric Radiometer</a></div></td>
-<td>Yuankai Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01531">2604.01531</a></td>
 </tr>
 </tbody></table>

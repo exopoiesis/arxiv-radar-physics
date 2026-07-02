@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Yuanshuo Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Wenbo Cao et al.</td>
@@ -3788,11 +3794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05874.html">Robust Power System State Estimation using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Solon Falas et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05874">2507.05874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04419.html">Machine Learning in Acoustics: A Review and Open-Source Repository</a></div></td>
-<td>Ryan A. McCarthy et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04419">2507.04419</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01176.html">High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction</a></div><div class="paper-tags"><a href="hep-30d.html">hep</a> · <a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Yu Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01176">2607.01176</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29843.html">Gappy Reconstruction of Bubbly Flows by Guided Diffusion Models</a></div></td>
@@ -212,23 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14732.html">Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion</a></div></td>
 <td>Matiur Rahman Minar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14732">2606.14732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02115.html">Error Bounds for a Diffusion Model-Based Drift Estimator</a></div></td>
-<td>Ioar Casado-Telletxea et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02115">2606.02115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Anand Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02661.html">Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Yunlong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02661">2606.02661</a></td>
 </tr>
 </tbody></table>

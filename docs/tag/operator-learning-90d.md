@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Nisha Chandramoorthy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00320">2607.00320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Meenakshi Krishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29139.html">How Token Influence Decays with Distance: A Green-Function View of Trained Language Models</a></div></td>
 <td>Matthias Brändel et al.</td>
@@ -494,17 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21437.html">PVD-ONet: A Multi-scale Neural Operator Method for Singularly Perturbed Boundary Layer Problems</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Tiantian Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21437">2507.21437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01802.html">Graph Neural Operator Towards Edge Deployability and Portability for Sparse-to-Dense, Real-Time Virtual Sensing on Irregular Grids</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>William Howes et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01802">2604.01802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01961.html">Generalization Bounds and Statistical Guarantees for Multi-Task and Multiple Operator Learning with MNO Networks</a></div></td>
-<td>Adrien Weihs et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01961">2604.01961</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Nisha Chandramoorthy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00320">2607.00320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Meenakshi Krishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29139.html">How Token Influence Decays with Distance: A Green-Function View of Trained Language Models</a></div></td>
 <td>Matthias Brändel et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26652.html">Scalable Operator Learning via Nyström Approximation With Denoising Applications</a></div></td>
 <td>Naveen Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26652">2606.26652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25820.html">Operator Learning on the Data-Driven Multiscale Space for Nonlinear Flow in Random Heterogeneous Porous Media</a></div></td>
-<td>Maria Vasilyeva et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25820">2606.25820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25952.html">Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Shuo Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25952">2606.25952</a></td>
 </tr>
 </tbody></table>

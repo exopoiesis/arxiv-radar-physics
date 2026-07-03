@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">717 papers</span>
+  <span class="paper-count">714 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4298,23 +4298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06381.html">KPFlow: An Operator Perspective on Dynamic Collapse Under Gradient Descent Training of Recurrent Networks</a></div></td>
 <td>James Hazelden et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06381">2507.06381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05143.html">A generalized Wasserstein-2 distance approach for efficient reconstruction of random field models using stochastic neural networks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Mingtao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05143">2507.05143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05164.html">A Dynamical Systems Perspective on the Analysis of Neural Networks</a></div></td>
-<td>Dennis Chemnitz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05164">2507.05164</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05505.html">Dynamical Archetype Analysis: Autonomous Computation</a></div></td>
-<td>Abel Sagodi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05505">2507.05505</a></td>
 </tr>
 </tbody></table>

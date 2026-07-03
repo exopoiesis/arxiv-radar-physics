@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 360d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <strong>360d</strong> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02369.html">Designing lattice proteins with variational quantum algorithms</a></div></td>
 <td>Hanna Linn et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02369">2508.02369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16361.html">Enhancing variational quantum algorithms by balancing training on classical and quantum hardware</a></div><div class="paper-tags"><a href="vqe-360d.html">vqe</a></div></td>
-<td>Rahul Bhowmick et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16361">2503.16361</a></td>
 </tr>
 </tbody></table>

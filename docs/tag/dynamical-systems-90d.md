@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,35 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20910.html">LLM-ODE: Data-driven Discovery of Dynamical Systems with Large Language Models</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Amirmohammad Ziaei Bideh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20910">2603.20910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21716.html">A Unifying Framework for Parallelizing Sequential Models with Linear Dynamical Systems</a></div></td>
-<td>Xavier Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21716">2509.21716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02615.html">Complex-Valued GNNs for Distributed Basis-Invariant Control of Planar Systems</a></div></td>
-<td>Samuel Honor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02615">2604.02615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02625.html">Data-Driven Nonconvex Reachability Analysis using Exact Set Propagation</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02625">2604.02625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02928.html">New Robust Streaming DMD with Forecasting</a></div></td>
-<td>Zlatko Drmač et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02928">2604.02928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03508.html">Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems</a></div></td>
-<td>Xin Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03508">2604.03508</a></td>
 </tr>
 </tbody></table>

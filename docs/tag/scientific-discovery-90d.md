@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,23 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03893.html">FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning</a></div></td>
 <td>Zeyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03893">2604.03893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06128.html">Amortized Inference of Causal Models via Conditional Fixed-Point Iterations</a></div></td>
-<td>Divyat Mahajan et al.</td>
-<td><a href="http://arxiv.org/abs/2410.06128">2410.06128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02755.html">Accelerating Nonlinear Time-History Analysis with Complex Constitutive Laws via Heterogeneous Memory Management: From 3D Seismic Simulation to Neural Network Training</a></div></td>
-<td>Tsuyoshi Ichimura et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02755">2604.02755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03406.html">SASAV: Self-Directed Agent for Scientific Analysis and Visualization</a></div></td>
-<td>Jianxin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03406">2604.03406</a></td>
 </tr>
 </tbody></table>

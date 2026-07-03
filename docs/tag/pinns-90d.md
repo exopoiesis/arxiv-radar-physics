@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,29 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19967.html">Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Yongsheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19967">2602.19967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05621.html">A Pedagogical Framework for Physics-Informed Machine Learning: From Classical Pendulum to Quantum Anharmonic Oscillator Using PyTorch on Modern GPU Hardware</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Enis Yazici</td>
-<td><a href="http://arxiv.org/abs/2502.05621">2502.05621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02663.html">A Numerical Method for Coupling Parameterized Physics-Informed Neural Networks and FDM for Advanced Thermal-Hydraulic System Simulation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Jeesuk Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02663">2604.02663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14201.html">LSTM-PINN for Steady-State Electrothermal Transport: Preserving Multi-Field Consis tency in Strongly Coupled Heat and Fluid Flow</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yuqing Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14201">2604.14201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22784.html">Learning Without Adversarial Training: A Physics-Informed Neural Network for Secure Power System State Estimation under False Data Injection Attacks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Solon Falas et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22784">2604.22784</a></td>
 </tr>
 </tbody></table>

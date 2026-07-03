@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05849.html">DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Juli Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05849">2507.05849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04682.html">Operator-based machine learning framework for generalizable prediction of unsteady treatment dynamics in stormwater infrastructure</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Mohamed Shatarah et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04682">2507.04682</a></td>
 </tr>
 </tbody></table>

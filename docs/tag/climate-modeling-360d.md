@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06474.html">Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere</a></div></td>
 <td>Noah D. Brenowitz et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06474">2505.06474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11497.html">Physics Encoded Blocks in Residual Neural Network Architectures for Digital Twin Models</a></div></td>
-<td>Muhammad Saad Zia et al.</td>
-<td><a href="http://arxiv.org/abs/2411.11497">2411.11497</a></td>
 </tr>
 </tbody></table>

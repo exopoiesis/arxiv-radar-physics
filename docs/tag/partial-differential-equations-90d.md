@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1082,29 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04971.html">A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Gyounghun Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04971">2604.04971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21437.html">PVD-ONet: A Multi-scale Neural Operator Method for Singularly Perturbed Boundary Layer Problems</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Tiantian Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21437">2507.21437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03020.html">Generalized Transferable Neural Networks for Steady-State Partial Differential Equations</a></div></td>
-<td>Tao Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03020">2604.03020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03086.html">On Data-Driven Koopman Representations of Nonlinear Delay Differential Equations</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Santosh Mohan Rajkumar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03086">2604.03086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03346.html">Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Letao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03346">2604.03346</a></td>
 </tr>
 </tbody></table>

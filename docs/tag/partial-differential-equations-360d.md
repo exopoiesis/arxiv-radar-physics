@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">816 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4904,11 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06428.html">Neural Actor-Critic Methods for Hamilton-Jacobi-Bellman PDEs: Asymptotic Analysis and Numerical Studies</a></div></td>
 <td>Samuel N. Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06428">2507.06428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03834.html">Sequential bi-level regularized inversion with application to hidden reaction law discovery</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Tram Thi Ngoc Nguyen</td>
-<td><a href="http://arxiv.org/abs/2409.03834">2409.03834</a></td>
 </tr>
 </tbody></table>

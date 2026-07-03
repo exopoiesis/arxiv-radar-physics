@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3068,11 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06271.html">Virtual Laboratories: Domain-agnostic workflows for research</a></div></td>
 <td>Carlos Sevilla-Salcedo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06271">2507.06271</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10385.html">Autonomous Microscopy Experiments through Large Language Model Agents</a></div></td>
-<td>Indrajeet Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10385">2501.10385</a></td>
 </tr>
 </tbody></table>

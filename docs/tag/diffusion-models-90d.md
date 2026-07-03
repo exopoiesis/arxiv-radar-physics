@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,29 +908,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03522.html">Physics-Informed Transformer for Real-Time High-Fidelity Topology Optimization</a></div></td>
 <td>Aaron Lutheran et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03522">2604.03522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16255.html">Category-based Galaxy Image Generation via Diffusion Models</a></div></td>
-<td>Xingzhong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16255">2506.16255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02817.html">MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling</a></div></td>
-<td>Shubo Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02817">2604.02817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02850.html">High-resolution probabilistic estimation of three-dimensional regional ocean dynamics from sparse surface observations</a></div></td>
-<td>Niloofar Asefi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02850">2604.02850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03031.html">Vegetation Pattern Formation via Energy-Balance-Constrained Modeling</a></div></td>
-<td>Chad M. Topaz</td>
-<td><a href="http://arxiv.org/abs/2604.03031">2604.03031</a></td>
 </tr>
 </tbody></table>

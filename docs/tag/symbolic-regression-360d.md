@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,17 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06342.html">SymFlux: deep symbolic regression of Hamiltonian vector fields</a></div></td>
 <td>M. A. Evangelista-Alvarado et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06342">2507.06342</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04679.html">A symbolic regression-based implicit algebraic stress turbulence model: incorporating the production of non-dimensional Reynolds stress deviatoric tensor</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04679">2507.04679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05498.html">Explainable Hierarchical Deep Learning Neural Networks (Ex-HiDeNN)</a></div></td>
-<td>Reza T. Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05498">2507.05498</a></td>
 </tr>
 </tbody></table>

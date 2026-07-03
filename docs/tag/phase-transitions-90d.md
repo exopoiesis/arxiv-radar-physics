@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03550.html">Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks</a></div><div class="paper-tags"><a href="quantum-state-reconstruction-90d.html">quantum-state-reconstruction</a></div></td>
 <td>Hui Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03550">2604.03550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28964.html">The Spectral Edge Thesis: A Mathematical Framework for Intra-Signal Phase Transitions in Neural Network Training</a></div></td>
-<td>Yongzhong Xu</td>
-<td><a href="http://arxiv.org/abs/2603.28964">2603.28964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15350.html">The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason</a></div></td>
-<td>Yi Liu</td>
-<td><a href="http://arxiv.org/abs/2604.15350">2604.15350</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,17 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03582.html">Simple yet Effective: Low-Rank Spatial Attention for Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Zherui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03582">2604.03582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03034.html">Learning Contractive Integral Operators with Fredholm Integral Neural Operators</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Kyriakos C. Georgiou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03034">2604.03034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03449.html">Neural Operators for Multi-Task Control and Adaptation</a></div></td>
-<td>David Sewell et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03449">2604.03449</a></td>
 </tr>
 </tbody></table>

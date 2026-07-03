@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,17 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06541.html">Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
 <td>Emre Gurkanli et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06541">2604.06541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03346.html">Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Letao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03346">2604.03346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03482.html">Learning high-dimensional quantum entanglement through physics-guided neural networks</a></div></td>
-<td>Yang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03482">2604.03482</a></td>
 </tr>
 </tbody></table>

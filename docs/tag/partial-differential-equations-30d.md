@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,23 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05141.html">Generalized Forcing Method: Generation of Diverse Data for Training Linear Transport PDE Closure Models</a></div></td>
 <td>Wenyuan Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05141">2606.05141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03260.html">EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Sungwon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03260">2606.03260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03262.html">Let There Be Light: Reflection, Refraction and Scattering for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Keke Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03262">2606.03262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03469.html">Physics-guided correction for operator learning under model misspecification</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Lei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03469">2606.03469</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,29 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21717.html">Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging</a></div></td>
 <td>Dongxia Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21717">2603.21717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22068.html">Deep Gaussian Processes for Functional Maps</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
-<td>Matthew Lowery et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22068">2510.22068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10419.html">Equivariant Evidential Deep Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Zhongyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10419">2602.10419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01642.html">Machine Learning Interatomic Potentials for Million-Atom Simulations of Multicomponent Alloys</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01642">2604.01642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02663.html">A Numerical Method for Coupling Parameterized Physics-Informed Neural Networks and FDM for Advanced Thermal-Hydraulic System Simulation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jeesuk Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02663">2604.02663</a></td>
 </tr>
 </tbody></table>

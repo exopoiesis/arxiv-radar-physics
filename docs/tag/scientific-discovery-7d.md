@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29100.html">Toward Exascale AI for Science: A Scalable AI Skill for Autonomous Microkinetics Discovery</a></div></td>
 <td>Ken-ichi Nomura et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29100">2606.29100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28277.html">Towards Automating Scientific Review with Google&#x27;s Paper Assistant Tool</a></div></td>
-<td>Rajesh Jayaram et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28277">2606.28277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a> · <a href="astrophysics-7d.html">astrophysics</a> · <a href="cosmology-7d.html">cosmology</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
 </tr>
 </tbody></table>

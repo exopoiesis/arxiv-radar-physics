@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Igor Mezić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29825.html">Data-Driven Modeling and Control for Tethered Space Systems with Koopman-Informed Graphs</a></div></td>

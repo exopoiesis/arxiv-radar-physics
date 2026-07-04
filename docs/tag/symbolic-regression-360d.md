@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,11 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06830.html">Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation</a></div></td>
 <td>Tao Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06830">2507.06830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06342.html">SymFlux: deep symbolic regression of Hamiltonian vector fields</a></div></td>
-<td>M. A. Evangelista-Alvarado et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06342">2507.06342</a></td>
 </tr>
 </tbody></table>

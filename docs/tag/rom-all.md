@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rom — all</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01619.html">Post-Processing Reduced-Order Models for Transport-Dominated Problems by Gegenbauer Reconstruction</a></div></td>
+<td>Lei Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01619">2607.01619</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

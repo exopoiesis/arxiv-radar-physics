@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3326,11 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06921.html">Distribution-free inference for LightGBM and GLM with Tweedie loss</a></div></td>
 <td>Alokesh Manna et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06921">2507.06921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02009.html">Uncertainty-Aware Complex Scientific Table Data Extraction</a></div></td>
-<td>Kehinde Ajayi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02009">2507.02009</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03707.html">Forecasting chaotic dynamic using hybrid system</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Michele Baia et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03707">2508.03707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05664.html">PINNs Study for the Bekki-Nozaki Chaos in the Non-linear Schrödinger equation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>N. Sawado et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05664">2507.05664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06050.html">Minimal Deterministic Echo State Networks Outperform Random Reservoirs in Learning Chaotic Dynamics</a></div></td>
-<td>Francesco Martinuzzi</td>
-<td><a href="http://arxiv.org/abs/2507.06050">2507.06050</a></td>
 </tr>
 </tbody></table>

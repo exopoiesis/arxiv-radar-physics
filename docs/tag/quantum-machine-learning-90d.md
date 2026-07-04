@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,17 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04292.html">Circuit Harmonic Matrices: A Spectral Framework for Quantum Machine Learning</a></div></td>
 <td>Kyle James Stuart Campbell et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04292">2604.04292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11175.html">The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators</a></div><div class="paper-tags"><a href="time-series-prediction-90d.html">time-series-prediction</a></div></td>
-<td>Ali Karimi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11175">2508.11175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09645.html">Noise Models Impacts and Mitigation Strategies in Photonic Quantum Machine Learning</a></div></td>
-<td>A. M. A. S. D. Alagiyawanna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09645">2603.09645</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,23 +872,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04274.html">InferenceEvolve: Towards Automated Causal Effect Estimators through Self-Evolving AI</a></div></td>
 <td>Can Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04274">2604.04274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20910.html">LLM-ODE: Data-driven Discovery of Dynamical Systems with Large Language Models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a></div></td>
-<td>Amirmohammad Ziaei Bideh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20910">2603.20910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03553.html">Towards the AI Historian: Agentic Information Extraction from Primary Sources</a></div></td>
-<td>Lorenz Hufe et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03553">2604.03553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03893.html">FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning</a></div></td>
-<td>Zeyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03893">2604.03893</a></td>
 </tr>
 </tbody></table>

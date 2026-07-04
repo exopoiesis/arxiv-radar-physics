@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Joseph Webb et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -956,17 +962,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19967.html">Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Yongsheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19967">2602.19967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23480.html">Neural inference of fluid-structure interactions from sparse off-body measurements</a></div></td>
-<td>Rui Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23480">2506.23480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04971.html">A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Gyounghun Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04971">2604.04971</a></td>
 </tr>
 </tbody></table>

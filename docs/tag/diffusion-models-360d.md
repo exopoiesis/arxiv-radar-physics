@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">609 papers</span>
+  <span class="paper-count">607 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3656,17 +3656,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08106.html">Predicting Flow Dynamics using Diffusion Models</a></div></td>
 <td>Yannick Gachnang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08106">2507.08106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08696.html">Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics</a></div></td>
-<td>Sebastian Sanokowski et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08696">2502.08696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05060.html">A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Berkay Gunes et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05060">2507.05060</a></td>
 </tr>
 </tbody></table>

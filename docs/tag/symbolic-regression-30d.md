@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07704.html">FunctionEvolve: Structure-Guided Symbolic Regression with LLMs</a></div></td>
 <td>Zeyu Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07704">2606.07704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04360.html">Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs</a></div></td>
-<td>Xinyu Pang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04360">2606.04360</a></td>
 </tr>
 </tbody></table>

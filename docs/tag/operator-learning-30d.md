@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div></td>
+<td>Jeongbin Jo</td>
+<td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
@@ -194,17 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06164.html">On the training of physics-informed neural operators for solving parametric partial differential equations</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Nanxi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06164">2606.06164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04420.html">Loss-Conditional PINNs for Parametric PDE Families</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Anna Lazareva et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04420">2606.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05248.html">Inverse Manipulation through Symbolic Planning and Residual Operator Learning</a></div></td>
-<td>Yigit Yildirim et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05248">2606.05248</a></td>
 </tr>
 </tbody></table>

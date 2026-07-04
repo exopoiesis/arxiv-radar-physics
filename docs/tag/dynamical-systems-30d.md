@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Igor Mezić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00286.html">Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings</a></div></td>
 <td>Riley Acker et al.</td>
@@ -284,11 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06728.html">Data-driven methods for computation of optimal linear response in high-dimensional dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>Gary Froyland et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06728">2606.06728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05371.html">Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
-<td>Zhi-Feng Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05371">2606.05371</a></td>
 </tr>
 </tbody></table>

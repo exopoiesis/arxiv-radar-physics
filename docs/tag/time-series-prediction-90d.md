@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>time-series-prediction — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="time-series-prediction-7d.html">7d</a> <a href="time-series-prediction-30d.html">30d</a> <strong>90d</strong> <a href="time-series-prediction-360d.html">360d</a> <a href="time-series-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23743.html">Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Tushar Pandey</td>
 <td><a href="http://arxiv.org/abs/2604.23743">2604.23743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11175.html">The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ali Karimi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11175">2508.11175</a></td>
 </tr>
 </tbody></table>

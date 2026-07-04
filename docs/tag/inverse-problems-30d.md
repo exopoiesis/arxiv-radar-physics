@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
 <td>Jian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14743.html">Delayed acceptance sampling with Hamiltonian proposal subchains for random field materials inference</a></div></td>
-<td>Simona Bérešová et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14743">2606.14743</a></td>
 </tr>
 </tbody></table>

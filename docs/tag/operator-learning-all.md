@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">395 papers</span>
+  <span class="paper-count">396 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div></td>
+<td>Jeongbin Jo</td>
+<td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>

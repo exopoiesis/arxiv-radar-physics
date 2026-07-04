@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,29 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07155.html">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Xueqing Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07155">2507.07155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15370.html">Tokenization for Molecular Foundation Models</a></div></td>
-<td>Alexius Wadell et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15370">2409.15370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05241.html">SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity&#x27;s Last Exam?</a></div></td>
-<td>Jingyi Chai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05241">2507.05241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06139.html">Topic Modeling and Link-Prediction for Material Property Discovery</a></div></td>
-<td>Ryan C. Barron et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06139">2507.06139</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06271.html">Virtual Laboratories: Domain-agnostic workflows for research</a></div></td>
-<td>Carlos Sevilla-Salcedo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06271">2507.06271</a></td>
 </tr>
 </tbody></table>

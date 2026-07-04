@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06081.html">A machine learning framework for uncovering stochastic nonlinear dynamics from noisy data</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Matteo Bosso et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06081">2604.06081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21852.html">All elementary functions from a single binary operator</a></div></td>
-<td>Andrzej Odrzywołek</td>
-<td><a href="http://arxiv.org/abs/2603.21852">2603.21852</a></td>
 </tr>
 </tbody></table>

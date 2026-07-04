@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,11 +860,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14471.html">Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics</a></div></td>
 <td>Additi Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14471">2512.14471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03582.html">Simple yet Effective: Low-Rank Spatial Attention for Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Zherui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03582">2604.03582</a></td>
 </tr>
 </tbody></table>

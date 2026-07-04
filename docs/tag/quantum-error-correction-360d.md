@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08536.html">Enhancing Decoding Performance using Efficient Error Learning</a></div></td>
 <td>Pavithran Iyer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08536">2507.08536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07121.html">Introduction to Quantum Error Correction with Stabilizer Codes</a></div></td>
-<td>Zachary P. Bradshaw et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07121">2507.07121</a></td>
 </tr>
 </tbody></table>

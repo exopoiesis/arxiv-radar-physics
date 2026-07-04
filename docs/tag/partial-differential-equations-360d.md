@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01694.html">Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations</a></div></td>
+<td>Xiong Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01694">2607.01694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Joseph Webb et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Xin-Yang Liu et al.</td>
@@ -4892,17 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17763.html">Multi-Head Neural Operator for Modelling Interfacial Dynamics</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Mohammad Sadegh Eshaghi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17763">2507.17763</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05664.html">PINNs Study for the Bekki-Nozaki Chaos in the Non-linear Schrödinger equation</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>N. Sawado et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05664">2507.05664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06428.html">Neural Actor-Critic Methods for Hamilton-Jacobi-Bellman PDEs: Asymptotic Analysis and Numerical Studies</a></div></td>
-<td>Samuel N. Cohen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06428">2507.06428</a></td>
 </tr>
 </tbody></table>

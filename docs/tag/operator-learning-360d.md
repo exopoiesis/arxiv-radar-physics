@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div></td>
+<td>Jeongbin Jo</td>
+<td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Nisha Chandramoorthy et al.</td>
@@ -1700,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07292.html">Discretization-independent multifidelity operator learning for partial differential equations</a></div></td>
 <td>Jacob Hauck et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07292">2507.07292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05849.html">DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Juli Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05849">2507.05849</a></td>
 </tr>
 </tbody></table>

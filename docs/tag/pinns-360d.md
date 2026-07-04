@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">625 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Joseph Webb et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -3758,17 +3764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06826.html">Physics-Informed Direction-Aware Neural Acoustic Fields</a></div></td>
 <td>Yoshiki Masuyama et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06826">2507.06826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05664.html">PINNs Study for the Bekki-Nozaki Chaos in the Non-linear Schrödinger equation</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>N. Sawado et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05664">2507.05664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05874.html">Robust Power System State Estimation using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Solon Falas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05874">2507.05874</a></td>
 </tr>
 </tbody></table>

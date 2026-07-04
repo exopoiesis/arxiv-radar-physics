@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">527 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,23 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08217.html">Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Atit Pokharel et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08217">2507.08217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07072.html">On the relation between trainability and dequantization of variational quantum learning models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Elies Gil-Fuster et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07072">2406.07072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04940.html">When Quantum and Classical Models Disagree: Learning Beyond Minimum Norm Least Square</a></div></td>
-<td>Slimane Thabet et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04940">2411.04940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05589.html">Quantum Machine Learning for Identifying Transient Events in X-ray Light Curves</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Taiki Kawamuro et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05589">2507.05589</a></td>
 </tr>
 </tbody></table>

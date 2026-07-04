@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <strong>360d</strong> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01072.html">Biorthogonal Neural Network Approach to Two-Dimensional Non-Hermitian Systems</a></div></td>
 <td>Massimo Solinas et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01072">2508.01072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20723.html">Variational Transformer Ansatz for the Density Operator of Steady States in Dissipative Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a></div></td>
-<td>Lu Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20723">2502.20723</a></td>
 </tr>
 </tbody></table>

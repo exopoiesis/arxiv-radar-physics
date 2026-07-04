@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01694.html">Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations</a></div></td>
+<td>Xiong Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01694">2607.01694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Joseph Webb et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
@@ -1064,23 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04266.html">Data-Driven Boundary Control of Distributed Port-Hamiltonian Systems</a></div></td>
 <td>Thomas Beckers et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04266">2604.04266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03582.html">Simple yet Effective: Low-Rank Spatial Attention for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Zherui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03582">2604.03582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03892.html">Lotka-Sharpe Neural Operators for Control of Population PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Miroslav Krstic et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03892">2604.03892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04971.html">A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Gyounghun Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04971">2604.04971</a></td>
 </tr>
 </tbody></table>

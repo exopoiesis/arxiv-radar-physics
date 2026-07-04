@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>anomaly-detection — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,17 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30009.html">Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</a></div></td>
 <td>Bochen Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30009">2606.30009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27672.html">Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings</a></div></td>
-<td>Taeyeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27672">2606.27672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="cosmology-7d.html">cosmology</a> · <a href="scientific-discovery-7d.html">scientific-discovery</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
 </tr>
 </tbody></table>

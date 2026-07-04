@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04814.html">Diffusion of PeV Cosmic Rays in the Turbulent and Multiphase Interstellar Medium</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="mhd-90d.html">mhd</a></div></td>
 <td>Yue Hu</td>
 <td><a href="http://arxiv.org/abs/2604.04814">2604.04814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03550.html">Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks</a></div><div class="paper-tags"><a href="quantum-state-reconstruction-90d.html">quantum-state-reconstruction</a></div></td>
-<td>Hui Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03550">2604.03550</a></td>
 </tr>
 </tbody></table>

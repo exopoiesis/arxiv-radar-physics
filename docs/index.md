@@ -5,15 +5,51 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-07-03._
+_Updated 2026-07-04._
 
-**19214** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**19220** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01619.html">Post-Processing Reduced-Order Models for Transport-Dominated Problems by Gegenbauer Reconstruction</a></div><div class="paper-tags"><a href="tag/rom-30d.html">rom</a></div></td>
+<td>Lei Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01619">2607.01619</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Jeongbin Jo</td>
+<td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01694.html">Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Xiong Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01694">2607.01694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01696.html">Structure-Preserving Reduced-Order Modeling via Low-Rank Transport Signatures</a></div><div class="paper-tags"><a href="tag/reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Jiajia Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01696">2607.01696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Igor Mezić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Joseph Webb et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00286.html">Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
@@ -157,41 +193,5 @@ _Updated 2026-07-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
 <td>Yuanshuo Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01037.html">Quantum-Informed Portfolio Selection: An End-to-End Pipeline Validated on Trapped-Ion Hardware with Real Market Data</a></div><div class="paper-tags"><a href="tag/qaoa-30d.html">qaoa</a></div></td>
-<td>Romina Yalovetzky et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01037">2607.01037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01048.html">Foreground Characterization and Mitigation in the Observations of the CD/EoR with the SKA</a></div><div class="paper-tags"><a href="tag/cosmology-30d.html">cosmology</a></div></td>
-<td>Jacob Burba et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01048">2607.01048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Dianyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01080.html">Balancing Expressivity and Learnability in Quantum Kernel Bandit Optimization</a></div><div class="paper-tags"><a href="tag/variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Yuqi Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01080">2607.01080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="tag/inverse-problems-30d.html">inverse-problems</a> · <a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/operator-learning-30d.html">operator-learning</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Meenakshi Krishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01131.html">Autonomous Scientific Discovery via Iterative Meta-Reflection</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Bingchen Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01131">2607.01131</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">316 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1910,11 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08177.html">Rethinking Spatio-Temporal Anomaly Detection: A Vision for Causality-Driven Cybersecurity</a></div></td>
 <td>Arun Vignesh Malarkkan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08177">2507.08177</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06217.html">What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23</a></div></td>
-<td>Maria V. Pruzhinskaya et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06217">2507.06217</a></td>
 </tr>
 </tbody></table>

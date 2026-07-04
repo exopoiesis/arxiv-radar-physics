@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Igor Mezić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00286.html">Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings</a></div></td>
@@ -1058,17 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04155.html">The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models</a></div></td>
 <td>Prashant C. Raju</td>
 <td><a href="http://arxiv.org/abs/2604.04155">2604.04155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01882.html">Learning thermodynamic master equations for open quantum systems</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Peter Sentz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01882">2506.01882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20910.html">LLM-ODE: Data-driven Discovery of Dynamical Systems with Large Language Models</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Amirmohammad Ziaei Bideh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20910">2603.20910</a></td>
 </tr>
 </tbody></table>

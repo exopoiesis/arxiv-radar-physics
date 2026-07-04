@@ -944,5 +944,162 @@
    "Quantum Physics & Information"
   ],
   "updated": "2026-07-01"
+ },
+ "2607.01619": {
+  "abstract": "In this paper, we develop a physics-based post-processing technique for data-driven reduced-order models (ROMs) of transport-dominated problems. Besides the slow decay of the Kolmogorov n-width, ROMs based on globally supported bases often produce unphysical oscillations when approximating solutions with shocks or sharp gradients, a phenomenon analogous to Gibbs oscillations in spectral approximations. To address this issue, we introduce a post-processing framework based on Gegenbauer polynomial reconstruction.   The key idea is to re-project the ROM solution onto a Gegenbauer polynomial basis over each interval of analyticity. Originally developed for spectral approximations, Gegenbauer reconstruction achieves spectral accuracy while effectively suppressing Gibbs oscillations. We extend this technique to data-driven ROMs and consider three representative approaches: Proper Orthogonal Decomposition (POD)-Galerkin ROM, Operator Inference (OpInf), and nonlinear manifold ROMs based on convolutional autoencoders (CAE). Numerical results show that the proposed post-processing consistently removes spurious oscillations and substantially improves solution quality for all three ROMs.   For one-dimensional problems, the method is straightforward to implement once discontinuities are detected. We further develop a practical extension to two-dimensional problems using line-by-line reconstruction in each coordinate direction. Extensive numerical experiments demonstrate that the proposed method reduces errors by up to one or two orders of magnitude for inviscid transport problems and significantly outperforms total variation regularization in both numerical accuracy and the sharp resolution of discontinuities.",
+  "authors": [
+   "Lei Yan",
+   "Yan Jiang",
+   "Chi-Wang Shu"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Lei Yan",
+  "pdf_url": "http://arxiv.org/pdf/2607.01619",
+  "primary_category": "math.NA",
+  "published": "2026-07-02",
+  "tags": [
+   "rom"
+  ],
+  "title": "Post-Processing Reduced-Order Models for Transport-Dominated Problems by Gegenbauer Reconstruction",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.01634": {
+  "abstract": "We study natural-gradient updates whose metric operators are diagonalized by the Fourier transform and relate them to Sobolev mirror descent. Translation-invariant Fisher geometries and Sobolev mirror geometries share a common inverse-map structure in the spectral domain. The Fisher metric is represented by a positive Fourier symbol, while Sobolev mirror geometry corresponds to the specific Bessel-potential symbol associated with the Sobolev norm. When these symbols coincide, the natural-gradient and mirror-descent updates are identical; otherwise, Sobolev mirror descent provides a canonical spectral preconditioner for the Fisher inverse geometry. This gives a mathematical lens through which spectral filtering and truncation techniques in PDE and operator learning can be viewed as natural actions of inverse metric geometry. We introduce Spectral Natural Gradient, an FFT-based implementation of these geometric updates.",
+  "authors": [
+   "Jeongbin Jo"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Jeongbin Jo",
+  "pdf_url": "http://arxiv.org/pdf/2607.01634",
+  "primary_category": "math.NA",
+  "published": "2026-07-02",
+  "tags": [
+   "operator-learning"
+  ],
+  "title": "Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.01694": {
+  "abstract": "Solving partial differential equations (PDEs) with high-frequency solutions remains a central challenge in physics-informed machine learning due to spectral bias -- the tendency of neural networks to learn low-frequency components preferentially. This paper proposes a Frequency Shift Physics-Informed Extreme Learning Machine (FS-PIELM) framework that addresses this limitation through an additive mechanism for weight initialization. Rather than multiplying random weights by a scaling factor, the method translates the mean of the Gaussian weight distribution while keeping the variance fixed at unity, thereby avoiding the variance amplification inherent in scaling-based methods. Two variants are developed: FS-PIELM-L assigns independent frequency magnitudes to individual neurons, while FS-PIELM-G groups neurons for improved robustness. Theoretical analysis shows that the frequency variance under the proposed framework remains bounded and approaches unity regardless of target frequency, in contrast to the quadratic growth of conventional approaches. The method preserves the computational efficiency of extreme learning machines, requiring only a single linear solve. Experiments on seven benchmark problems spanning six equation types -- Helmholtz, wave, Poisson, Klein-Gordon, heat, and advection-diffusion -- on both regular and complex geometries show that the linear variant achieves the best accuracy in six of seven cases, with improvements of one to nearly five orders of magnitude over existing PIELM variants. The code and data accompanying this manuscript will be made publicly available at https://github.com/xgxgnpu/Physics-informed-vibe-coding/tree/main/FS-PIELM.",
+  "authors": [
+   "Xiong Xiong",
+   "Ruonan Zhai",
+   "Zheng Zeng",
+   "Sheng Zhou",
+   "Rongchun Hu",
+   "Zichen Deng"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Xiong Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2607.01694",
+  "primary_category": "cs.LG",
+  "published": "2026-07-02",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.01696": {
+  "abstract": "Parametrized PDEs with density-valued solutions are often difficult to approximate with classical linear reduced-order models, especially in transport-dominated regimes. We introduce an optimal-transport-based reduced-order modeling that represents each density by the Kantorovich potential transporting a fixed reference density to the target density, and then maps these potentials to transport signatures using a weighted Laplacian associated with the reference measure. This embeds the density-valued solution map in a Hilbert space while preserving control of the induced transport maps and Wasserstein error. We treat the signature map as a continuous matrix indexed by parameters and space, construct a low-rank skeleton decomposition using a maximal-volume criterion, and learn the parameter-to-coefficient map with a neural network for efficient non-intrusive online evaluation. The reconstructed solution is obtained by pushing forward the reference density, so mass preservation is built into the method. We prove a mean-squared Wasserstein error bound separating low-rank approximation, discretization, sampling, and learning errors, and demonstrate the method on a two-dimensional continuity equation, where transport signatures yield substantially lower-rank structure than the original density snapshots.",
+  "authors": [
+   "Jiajia Yu",
+   "Jingwei Hu",
+   "Fengyan Li",
+   "Shanyin Tong",
+   "Yunan Yang",
+   "Zhaiming Shen"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Jiajia Yu",
+  "pdf_url": "http://arxiv.org/pdf/2607.01696",
+  "primary_category": "math.NA",
+  "published": "2026-07-02",
+  "tags": [
+   "reduced-order-modeling"
+  ],
+  "title": "Structure-Preserving Reduced-Order Modeling via Low-Rank Transport Signatures",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.01819": {
+  "abstract": "The Koopman operator has gained considerable attention due to its ability to provide a global linear representation of highly complex dynamical systems. The operator describes nonlinear dynamics in a linear way through the lens of real- or complex-valued observable functions. Recently proposed data-driven techniques, like extended dynamic mode decomposition (EDMD), its kernelized variant, and machine-learning methods, can be used to generate finite-dimensional approximations accompanied by finite-data error bounds. In this tutorial paper, we provide a concise introduction into Koopman operator theory and its use in systems and control. A particular focus is put on data-driven surrogate models, their extension to systems with inputs, and controller design using Koopman operator theory. Moreover, we demonstrate the key techniques, i.e., EDMD and Koopman MPC. To this end, we provide simulation studies including source code on GitHub to enable the interested reader to experience the Koopman operator in systems and control step by step.",
+  "authors": [
+   "Igor Mezić",
+   "Jorge Cortés",
+   "Karl Worthmann",
+   "Mircea Lazar",
+   "Armin Lederer"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Igor Mezić",
+  "pdf_url": "http://arxiv.org/pdf/2607.01819",
+  "primary_category": "eess.SY",
+  "published": "2026-07-02",
+  "tags": [
+   "dynamical-systems",
+   "koopman-operator"
+  ],
+  "title": "Koopman operator theory: fundamentals, control, and applications",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02194": {
+  "abstract": "Physics-informed neural networks (PINNs) have emerged as a promising route to solve partial differential equations, yet they have struggled to reach the precision of classical solvers. The obstacle is increasingly understood to be one of optimisation, owing to the severely ill-conditioned loss landscape. We present $\\textbf{DSGNAR}$: Doubly-Sketched Gauss-Newton with Adaptive Ratio, a scalable second-order optimisation framework that confronts this ill-conditioning and, in doing so, obtains unprecedented accuracy and speed. $\\textbf{DSGNAR}$ couples a doubly-sketched Gauss-Newton model with a novel strategy that carefully controls both regularisation and step length. Across a suite of problems spanning nonlinear, chaotic, multi-scale, high-dimensional, and Navier-Stokes, the framework greatly improves on the state of the art: able to attain relative $\\ell_2$ errors as low as $3\\times10^{-16}$ in double precision, improve contemporary results by five orders of magnitude on the canonical Burgers' equation, and as much as eight orders on a high-dimensional Poisson problem, while remaining markedly faster. We further show that, in single precision, solutions at the limit of round-off error can be obtained very quickly: Burgers' equation to $\\ell_2^{\\text{rel}} = 4.75 \\times 10^{-7}$ in under ten seconds. The framework is also robust to the choice of architecture, arithmetic precision, and initial hyperparameters.   The code is available at https://www.github.com/wephy/physics-informed-neural-networks",
+  "authors": [
+   "Joseph Webb",
+   "Sadok Jerad",
+   "Coralia Cartis"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA",
+   "math.OC",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Joseph Webb",
+  "pdf_url": "http://arxiv.org/pdf/2607.02194",
+  "primary_category": "cs.LG",
+  "published": "2026-07-02",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-02"
  }
 }

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <strong>360d</strong> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10835.html">Functional Neural Wavefunction Optimization</a></div></td>
 <td>Victor Armegioiu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10835">2507.10835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20723.html">Variational Transformer Ansatz for the Density Operator of Steady States in Dissipative Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
-<td>Lu Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20723">2502.20723</a></td>
 </tr>
 </tbody></table>

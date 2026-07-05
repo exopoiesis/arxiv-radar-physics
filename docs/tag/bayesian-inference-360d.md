@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10738.html">Information Field Theory based Event Reconstruction for Cosmic Ray Radio Detectors</a></div></td>
 <td>Simon Strähnz et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10738">2507.10738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15530.html">Constraints on fast radio burst population from the first CHIME/FRB catalog with the Hierarchical Bayesian Inference</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Huan Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15530">2501.15530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06941.html">Calibration of Quantum Devices via Robust Statistical Methods</a></div></td>
-<td>Alexandra Ramôa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06941">2507.06941</a></td>
 </tr>
 </tbody></table>

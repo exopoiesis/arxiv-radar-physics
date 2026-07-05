@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Michael Chin</td>
 <td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06046.html">Learning solution operators of PDEs with sparse approximation methods</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Sebastian Neumayer et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06046">2606.06046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06164.html">On the training of physics-informed neural operators for solving parametric partial differential equations</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Nanxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06164">2606.06164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06314.html">DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Anshima Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06314">2606.06314</a></td>
 </tr>
 </tbody></table>

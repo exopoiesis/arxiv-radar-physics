@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10893.html">Modernizing CNN-based Weather Forecast Model towards Higher Computational Efficiency</a></div></td>
 <td>Minjong Cheon et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10893">2507.10893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06738.html">DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement</a></div></td>
-<td>Xinyu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06738">2507.06738</a></td>
 </tr>
 </tbody></table>

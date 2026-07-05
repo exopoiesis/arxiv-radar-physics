@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,11 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04578.html">Physics-informed automated surface reconstructing via low-energy electron diffraction based on Bayesian optimization</a></div></td>
 <td>Xiankang Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04578">2604.04578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19967.html">Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Yongsheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19967">2602.19967</a></td>
 </tr>
 </tbody></table>

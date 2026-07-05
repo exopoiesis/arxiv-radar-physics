@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19505.html">Comparing Quantum Machine Learning Approaches in Astrophysical Signal Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Mansur Ziiatdinov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19505">2507.19505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07155.html">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Xueqing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07155">2507.07155</a></td>
 </tr>
 </tbody></table>

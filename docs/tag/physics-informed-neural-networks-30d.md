@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,41 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08435.html">Sound Field Interpolation Using Physics-Informed Extreme Learning Machine with Pre-Training</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Hayato Komaba et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08435">2606.08435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05940.html">Seed-Robust PINN Determination of $s$-Wave Bound States and Jost-Function-Based vertex constants in $_Λ^{208}$Pb</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>J. T Tshipi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05940">2606.05940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06164.html">On the training of physics-informed neural operators for solving parametric partial differential equations</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Nanxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06164">2606.06164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06171.html">Effective Dimensionality as an Operator Invariant for Physics-Preserving Constraint Adaptation in Physics-Informed Neural Networks</a></div></td>
-<td>Cornelius Otchere et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06171">2606.06171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06268.html">Error Analysis of Tr-PINNs Algorithm for 2D Incompressible Navier-Stokes Equations with Non-Homogeneous Boundary Conditions</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Dongjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06268">2606.06268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06313.html">Wall Shear Stress Reconstruction from Concentration: Differentiable Physics and Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Mahmoud Elhadidy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06313">2606.06313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06314.html">DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Anshima Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06314">2606.06314</a></td>
 </tr>
 </tbody></table>

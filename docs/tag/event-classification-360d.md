@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>event-classification — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <a href="event-classification-90d.html">90d</a> <strong>360d</strong> <a href="event-classification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06040.html">Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a> · <a href="jet-tagging-360d.html">jet-tagging</a></div></td>
 <td>Arghya Choudhury et al.</td>
 <td><a href="http://arxiv.org/abs/2405.06040">2405.06040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10681.html">Multi-scale Optimal Transport for Complete Collider Events</a></div></td>
-<td>Tianji Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10681">2501.10681</a></td>
 </tr>
 </tbody></table>

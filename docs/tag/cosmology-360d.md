@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,17 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07257.html">Open Source Planning &amp; Control System with Language Agents for Autonomous Scientific Discovery</a></div></td>
 <td>Licong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07257">2507.07257</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15530.html">Constraints on fast radio burst population from the first CHIME/FRB catalog with the Hierarchical Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Huan Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15530">2501.15530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07155.html">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Xueqing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07155">2507.07155</a></td>
 </tr>
 </tbody></table>

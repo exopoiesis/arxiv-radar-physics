@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18698.html">Spectral Imaging with QUBIC: building frequency maps from Time-Ordered-Data using Bolometric Interferometry</a></div></td>
 <td>M. Regnier et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18698">2409.18698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04122.html">Gaussian-Process Emulation of the Redshift-Space Halo Power Spectrum Monopole in Cosmologies with Massive Neutrinos</a></div></td>
-<td>Jixin Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04122">2604.04122</a></td>
 </tr>
 </tbody></table>

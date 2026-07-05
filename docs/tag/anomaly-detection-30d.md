@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07303.html">Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Jacques Raynal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07303">2606.07303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05860.html">GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis</a></div></td>
-<td>Oleeviya Babu Poikarayil et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05860">2606.05860</a></td>
 </tr>
 </tbody></table>

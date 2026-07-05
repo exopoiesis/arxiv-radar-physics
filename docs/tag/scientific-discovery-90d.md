@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,11 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05018.html">PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing</a></div></td>
 <td>Yiwen Song et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05018">2604.05018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04274.html">InferenceEvolve: Towards Automated Causal Effect Estimators through Self-Evolving AI</a></div></td>
-<td>Can Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04274">2604.04274</a></td>
 </tr>
 </tbody></table>

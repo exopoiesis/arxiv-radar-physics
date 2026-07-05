@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,11 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10401.html">Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ryan Bausback et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10401">2507.10401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07292.html">Discretization-independent multifidelity operator learning for partial differential equations</a></div></td>
-<td>Jacob Hauck et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07292">2507.07292</a></td>
 </tr>
 </tbody></table>

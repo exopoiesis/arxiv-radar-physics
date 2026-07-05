@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inductive-bias — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30183.html">DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling</a></div></td>
 <td>Mingke Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30183">2606.30183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28847.html">Physics Equivariance for Robust Generalization in Wireless Foundation Model</a></div></td>
-<td>Haoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28847">2606.28847</a></td>
 </tr>
 </tbody></table>

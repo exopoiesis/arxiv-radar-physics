@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,11 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05689.html">CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration</a></div></td>
 <td>Xuecong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05689">2604.05689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04153.html">Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature</a></div></td>
-<td>Sofiane Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04153">2604.04153</a></td>
 </tr>
 </tbody></table>

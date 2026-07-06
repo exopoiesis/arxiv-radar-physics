@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">628 papers</span>
+  <span class="paper-count">626 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3770,17 +3770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08906.html">Physics-informed machine learning: A mathematical framework with applications to time series forecasting</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Nathan Doumèche</td>
 <td><a href="http://arxiv.org/abs/2507.08906">2507.08906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05044.html">Hybrid machine learning based scale bridging framework for permeability prediction of fibrous structures</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Denis Korolev et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05044">2502.05044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08121.html">Quasi-Random Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Tianchi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08121">2507.08121</a></td>
 </tr>
 </tbody></table>

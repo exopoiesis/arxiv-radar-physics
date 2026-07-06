@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">521 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01943.html">Hybrid quantum-classical neural network for sentiment analysis</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Giacomo Cappiello et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01943">2607.01943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02135.html">Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a></div></td>
+<td>Donovan Slabbert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02135">2607.02135</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00698.html">Quantum machine learning models for graphs</a></div><div class="paper-tags"><a href="equivariant-neural-networks-360d.html">equivariant-neural-networks</a></div></td>
@@ -3128,35 +3140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08623.html">Entangled Threats: A Unified Kill Chain Model for Quantum Machine Learning Security</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Pascal Debus et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08623">2507.08623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07684.html">Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks</a></div></td>
-<td>Stanisław Świerczewski et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07684">2507.07684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08155.html">Quantum and Hybrid Machine-Learning Models for Materials-Science Tasks</a></div></td>
-<td>Leyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08155">2507.08155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08175.html">Emotion Recognition in Older Adults with Quantum Machine Learning and Wearable Sensors</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Md. Saif Hassan Onim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08175">2507.08175</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08202.html">Quantum Properties Trojans (QuPTs) for Attacking Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Sounak Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08202">2507.08202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08217.html">Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Atit Pokharel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08217">2507.08217</a></td>
 </tr>
 </tbody></table>

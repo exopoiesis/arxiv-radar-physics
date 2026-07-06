@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,17 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06340.html">On the Jordan-Moore-Gibson-Thompson equation of nonlinear acoustics</a></div></td>
 <td>Barbara Kaltenbacher</td>
 <td><a href="http://arxiv.org/abs/2604.06340">2604.06340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04453.html">Generative modeling of granular flow on inclined planes using conditional flow matching</a></div></td>
-<td>Xuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04453">2604.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04578.html">Physics-informed automated surface reconstructing via low-energy electron diffraction based on Bayesian optimization</a></div></td>
-<td>Xiankang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04578">2604.04578</a></td>
 </tr>
 </tbody></table>

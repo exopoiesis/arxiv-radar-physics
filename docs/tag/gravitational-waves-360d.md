@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="ligo-360d.html">ligo</a></div></td>
+<td>Bhavya Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17214.html">CASPER: Interpretable ResNet based Classifier with FastShap Explainer for Gravitational Wave Detection</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>R. Rai et al.</td>
@@ -458,11 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09319.html">Machine Learning Left-Right Breaking from Gravitational Waves</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>William Searle et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09319">2506.09319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20129.html">Search for exotic gravitational wave signals beyond general relativity using deep learning</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Yu-Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20129">2410.20129</a></td>
 </tr>
 </tbody></table>

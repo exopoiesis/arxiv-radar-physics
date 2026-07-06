@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02471.html">Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment</a></div></td>
+<td>Ziyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02471">2607.02471</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00417.html">EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction</a></div></td>
 <td>Qiyan Luo et al.</td>
@@ -3410,11 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09081.html">From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Zhenyu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09081">2507.09081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07527.html">MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models</a></div></td>
-<td>Joelle Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07527">2507.07527</a></td>
 </tr>
 </tbody></table>

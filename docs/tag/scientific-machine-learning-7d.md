@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
-<td>Nick Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29346">2606.29346</a></td>
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02134.html">Coding-agents can replicate scientific machine learning papers</a></div></td>
+<td>Atharva Hans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02134">2607.02134</a></td>
 </tr>
 </tbody></table>

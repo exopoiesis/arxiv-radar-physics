@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a> · <a href="ligo-30d.html">ligo</a></div></td>
+<td>Bhavya Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Philipp Denzel et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11190.html">When to Align, When to Predict: A Phase Diagram for Multimodal Learning</a></div></td>
 <td>Ilay Kamai et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11190">2606.11190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07771.html">Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Karla Tame-Narvaez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07771">2606.07771</a></td>
 </tr>
 </tbody></table>

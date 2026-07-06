@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Meenakshi Krishnan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Tianhao Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-27</td>
@@ -1046,23 +1052,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06475.html">AE-ViT: Stable Long-Horizon Parametric Partial Differential Equations Modeling</a></div></td>
 <td>Iva Mikuš et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06475">2604.06475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00203.html">Estimating Parameter Fields in Multi-Physics PDEs from Scarce Measurements</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00203">2509.00203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04920.html">PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04920">2604.04920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05187.html">FNO$^{\angle θ}$: Extended Fourier neural operator for learning state and optimal control of distributed parameter systems</a></div></td>
-<td>Zhexian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05187">2604.05187</a></td>
 </tr>
 </tbody></table>

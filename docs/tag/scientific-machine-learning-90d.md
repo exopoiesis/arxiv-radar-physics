@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02134.html">Coding-agents can replicate scientific machine learning papers</a></div></td>
+<td>Atharva Hans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02134">2607.02134</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
 <td>Nick Oh et al.</td>
@@ -362,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05652.html">Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
 <td>Prashant Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05652">2604.05652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05230.html">Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Anas Jnini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05230">2604.05230</a></td>
 </tr>
 </tbody></table>

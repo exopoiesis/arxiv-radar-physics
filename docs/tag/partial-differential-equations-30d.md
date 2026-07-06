@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Meenakshi Krishnan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Tianhao Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-27</td>

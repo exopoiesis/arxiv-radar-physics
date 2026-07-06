@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01639.html">Autonomous discovery of traffic laws with AI traffic scientists</a></div></td>
+<td>Xingyuan Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01639">2607.01639</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01131.html">Autonomous Scientific Discovery via Iterative Meta-Reflection</a></div></td>
@@ -830,41 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06279.html">Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations</a></div></td>
 <td>Ruichen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06279">2604.06279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09901.html">Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics</a></div></td>
-<td>Lianhao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09901">2510.09901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20728.html">Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems</a></div></td>
-<td>Xi He et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20728">2510.20728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20669.html">Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation</a></div></td>
-<td>Zhuo Diao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20669">2602.20669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03756.html">MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier</a></div></td>
-<td>Zonglin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03756">2603.03756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04414.html">Eliminating Vendor Lock-In in Quantum Machine Learning via Framework-Agnostic Neural Networks</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Poornima Kumaresan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04414">2604.04414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05018.html">PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing</a></div></td>
-<td>Yiwen Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05018">2604.05018</a></td>
 </tr>
 </tbody></table>

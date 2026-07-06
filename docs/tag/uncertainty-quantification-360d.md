@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Tianhao Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Yunzhe Zhu et al.</td>
@@ -3314,11 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09081.html">From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Zhenyu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09081">2507.09081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10401.html">Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Ryan Bausback et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10401">2507.10401</a></td>
 </tr>
 </tbody></table>

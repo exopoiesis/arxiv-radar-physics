@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06318.html">Introducing sapphire: Towards Hybrid Physics-Informed, Data-Driven Modeling of Galaxy Formation</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
 <td>Viraj Pandya et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06318">2604.06318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18698.html">Spectral Imaging with QUBIC: building frequency maps from Time-Ordered-Data using Bolometric Interferometry</a></div></td>
-<td>M. Regnier et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18698">2409.18698</a></td>
 </tr>
 </tbody></table>

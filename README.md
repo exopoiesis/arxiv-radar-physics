@@ -1,8 +1,8 @@
-## Updated on 2026.07.05
+## Updated on 2026.07.06
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 19220 papers across 26 months.
+**Total corpus:** 19247 papers across 26 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -40,6 +40,12 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent**|Jeongbin Jo|[2607.01634](http://arxiv.org/abs/2607.01634)|[md](abstracts/2607.01634.md)|
+|**2026-07-02**|**Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion**|Lizhou Liu et al.|[2607.01777](http://arxiv.org/abs/2607.01777)|[md](abstracts/2607.01777.md)|
+|**2026-07-02**|**Fourier Neural Operators for Rayleigh-Bénard Convection**|Chelsea Maria John et al.|[2607.02088](http://arxiv.org/abs/2607.02088)|[md](abstracts/2607.02088.md)|
+|**2026-07-02**|**Coding-agents can replicate scientific machine learning papers**|Atharva Hans et al.|[2607.02134](http://arxiv.org/abs/2607.02134)|[md](abstracts/2607.02134.md)|
+|**2026-07-02**|**An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks**|Joseph Webb et al.|[2607.02194](http://arxiv.org/abs/2607.02194)|[md](abstracts/2607.02194.md)|
+|**2026-07-02**|**Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data**|Mojgan Alishiri et al.|[2607.02203](http://arxiv.org/abs/2607.02203)|[md](abstracts/2607.02203.md)|
 |**2026-07-01**|**From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators**|Nisha Chandramoorthy et al.|[2607.00320](http://arxiv.org/abs/2607.00320)|[md](abstracts/2607.00320.md)|
 |**2026-07-01**|**WarpagePINN: Thermal Warpage Prediction in Advanced Packaging via a Two-Stage Physics-Informed Neural Networks**|Xinyu Li et al.|[2607.00364](http://arxiv.org/abs/2607.00364)|[md](abstracts/2607.00364.md)|
 |**2026-07-01**|**Physics Informed Neural Networks for Nonlinear Delay Differential Equations**|Stone Yao et al.|[2607.00380](http://arxiv.org/abs/2607.00380)|[md](abstracts/2607.00380.md)|
@@ -84,14 +90,8 @@
 |**2026-06-24**|**Operator Learning on the Data-Driven Multiscale Space for Nonlinear Flow in Random Heterogeneous Porous Media**|Maria Vasilyeva et al.|[2606.25820](http://arxiv.org/abs/2606.25820)|[md](abstracts/2606.25820.md)|
 |**2026-06-24**|**Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps**|Shuo Ling et al.|[2606.25952](http://arxiv.org/abs/2606.25952)|[md](abstracts/2606.25952.md)|
 |**2026-06-24**|**G-PINNs: Gaussian-based spatially weighted formulation for PINNs: 1D low-viscous Burgers**|Kheir-eddine Otmani et al.|[2606.26013](http://arxiv.org/abs/2606.26013)|[md](abstracts/2606.26013.md)|
-|**2026-06-24**|**A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks**|Sen Li et al.|[2606.26059](http://arxiv.org/abs/2606.26059)|[md](abstracts/2606.26059.md)|
-|**2026-06-23**|**A Synthetic Reliability-Aware PINN Benchmark for Offshore Wind Turbine Support-Structure Monitoring with Bayesian Inverse Identification**|Puneet Kant et al.|[2606.24176](http://arxiv.org/abs/2606.24176)|[md](abstracts/2606.24176.md)|
-|**2026-06-23**|**Extended pseudo-spectral physics-informed neural networks for phase-field models**|Callum Marsh et al.|[2606.24660](http://arxiv.org/abs/2606.24660)|[md](abstracts/2606.24660.md)|
-|**2026-06-23**|**A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling**|Somyajit Chakraborty et al.|[2606.24696](http://arxiv.org/abs/2606.24696)|[md](abstracts/2606.24696.md)|
-|**2026-06-23**|**Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment**|Jason Sulskis et al.|[2606.24851](http://arxiv.org/abs/2606.24851)|[md](abstracts/2606.24851.md)|
-|**2026-06-23**|**A Zeroth-Order Deep Learning Method for Fully Nonlinear Parabolic Partial Differential Equations with Unknown Coefficients**|Yanwei Jia et al.|[2606.24999](http://arxiv.org/abs/2606.24999)|[md](abstracts/2606.24999.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Dynamical Systems & PDE Learning
 
@@ -148,17 +148,21 @@
 |**2026-06-24**|**Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation**|Qingyi Lin et al.|[2606.25793](http://arxiv.org/abs/2606.25793)|[md](abstracts/2606.25793.md)|
 |**2026-06-24**|**Principal-Part Decomposition for Neural Operator Learning of Dirichlet-to-Neumann Maps**|Shuo Ling et al.|[2606.25952](http://arxiv.org/abs/2606.25952)|[md](abstracts/2606.25952.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Quantum Physics & Information
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Structured Factorization Approaches for Quantum State Tomography**|Zhen Qin et al.|[2607.01608](http://arxiv.org/abs/2607.01608)|[md](abstracts/2607.01608.md)|
+|**2026-07-02**|**Hybrid quantum-classical neural network for sentiment analysis**|Giacomo Cappiello et al.|[2607.01943](http://arxiv.org/abs/2607.01943)|[md](abstracts/2607.01943.md)|
+|**2026-07-02**|**Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection**|Donovan Slabbert et al.|[2607.02135](http://arxiv.org/abs/2607.02135)|[md](abstracts/2607.02135.md)|
 |**2026-07-01**|**When AI meets quantum information: A comprehensive review**|Min Chen et al.|[2607.00365](http://arxiv.org/abs/2607.00365)|[md](abstracts/2607.00365.md)|
 |**2026-07-01**|**Quantum machine learning models for graphs**|Frédéric Sauvage et al.|[2607.00698](http://arxiv.org/abs/2607.00698)|[md](abstracts/2607.00698.md)|
 |**2026-07-01**|**Quantum-Informed Portfolio Selection: An End-to-End Pipeline Validated on Trapped-Ion Hardware with Real Market Data**|Romina Yalovetzky et al.|[2607.01037](http://arxiv.org/abs/2607.01037)|[md](abstracts/2607.01037.md)|
 |**2026-07-01**|**Balancing Expressivity and Learnability in Quantum Kernel Bandit Optimization**|Yuqi Huang et al.|[2607.01080](http://arxiv.org/abs/2607.01080)|[md](abstracts/2607.01080.md)|
 |**2026-07-01**|**Quantum vs. Classical Machine Learning: A Unified Empirical Comparison**|Chuanming Yu et al.|[2607.01197](http://arxiv.org/abs/2607.01197)|[md](abstracts/2607.01197.md)|
+|**2026-07-01**|**Ravines in quantum cost landscapes: opportunities for improved VQA predictions**|Felix J. Beckmann et al.|[2607.01329](http://arxiv.org/abs/2607.01329)|[md](abstracts/2607.01329.md)|
 |**2026-06-29**|**A Machine-Verified Proof of a Quantum-Optimization Conjecture**|Uri Kol et al.|[2606.29687](http://arxiv.org/abs/2606.29687)|[md](abstracts/2606.29687.md)|
 |**2026-06-29**|**First-Order Temporal Logic Tensor Networks**|Luca Boscarato et al.|[2606.29972](http://arxiv.org/abs/2606.29972)|[md](abstracts/2606.29972.md)|
 |**2026-06-28**|**Private training in quantum machine learning**|Tigran Sedrakyan et al.|[2606.29293](http://arxiv.org/abs/2606.29293)|[md](abstracts/2606.29293.md)|
@@ -200,17 +204,17 @@
 |**2026-06-09**|**Detecting Speculative Language in Biomedical Texts using Recurrent Neural Tensor Networks**|Dhruv Dixit|[2606.10471](http://arxiv.org/abs/2606.10471)|[md](abstracts/2606.10471.md)|
 |**2026-06-08**|**JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks**|Gianluca Scanu et al.|[2606.09964](http://arxiv.org/abs/2606.09964)|[md](abstracts/2606.09964.md)|
 |**2026-06-08**|**Absence of poor local minima in matrix product states**|Hao-Kai Zhang et al.|[2606.09988](http://arxiv.org/abs/2606.09988)|[md](abstracts/2606.09988.md)|
-|**2026-06-08**|**Towards the implementation of a quantum classifier**|Lorenzo Confalonieri et al.|[2606.10150](http://arxiv.org/abs/2606.10150)|[md](abstracts/2606.10150.md)|
-|**2026-06-08**|**Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization**|Gennaro De Luca|[2606.10179](http://arxiv.org/abs/2606.10179)|[md](abstracts/2606.10179.md)|
-|**2026-06-07**|**Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos**|Jaskirat Singh et al.|[2606.08546](http://arxiv.org/abs/2606.08546)|[md](abstracts/2606.08546.md)|
-|**2026-06-07**|**EinSort: Sorting is All We Need for Tensorizing LLM**|Toshiaki Koike-Akino et al.|[2606.08565](http://arxiv.org/abs/2606.08565)|[md](abstracts/2606.08565.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Materials Science & Condensed Matter
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Predicting Novel Stable Materials for Experimental Synthesis**|Yuqi An et al.|[2607.01713](http://arxiv.org/abs/2607.01713)|[md](abstracts/2607.01713.md)|
+|**2026-07-02**|**Second-order fluctuations for a phase transition in random partitions**|Jaime Garza et al.|[2607.01946](http://arxiv.org/abs/2607.01946)|[md](abstracts/2607.01946.md)|
+|**2026-07-02**|**Grounded autonomous research: a fault-tolerant LLM pipeline from corpus to manuscript in frontier computational physics**|Haonan Huang|[2607.02329](http://arxiv.org/abs/2607.02329)|[md](abstracts/2607.02329.md)|
+|**2026-07-02**|**Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials**|Gil Harari et al.|[2607.02499](http://arxiv.org/abs/2607.02499)|[md](abstracts/2607.02499.md)|
 |**2026-07-01**|**Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems**|Sheng Bi et al.|[2607.00613](http://arxiv.org/abs/2607.00613)|[md](abstracts/2607.00613.md)|
 |**2026-07-01**|**Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination**|Subhadeep Pal et al.|[2607.00924](http://arxiv.org/abs/2607.00924)|[md](abstracts/2607.00924.md)|
 |**2026-07-01**|**Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm**|Ling Tang et al.|[2607.01004](http://arxiv.org/abs/2607.01004)|[md](abstracts/2607.01004.md)|
@@ -257,12 +261,8 @@
 |**2026-06-18**|**Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?**|Sebastian Falkner et al.|[2606.20105](http://arxiv.org/abs/2606.20105)|[md](abstracts/2606.20105.md)|
 |**2026-06-18**|**Empowering Polymeric Materials Discovery by Artificial Intelligence**|Chenyao Ma et al.|[2606.20753](http://arxiv.org/abs/2606.20753)|[md](abstracts/2606.20753.md)|
 |**2026-06-17**|**Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning**|Youngwoo Cho et al.|[2606.18691](http://arxiv.org/abs/2606.18691)|[md](abstracts/2606.18691.md)|
-|**2026-06-17**|**Generalized deformation potential and machine-learning approaches for electron-phonon coupling and thermoelectric transport in semiconductors**|Ransell D'Souza et al.|[2606.19130](http://arxiv.org/abs/2606.19130)|[md](abstracts/2606.19130.md)|
-|**2026-06-17**|**Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction**|Jingyi Zhou et al.|[2606.19144](http://arxiv.org/abs/2606.19144)|[md](abstracts/2606.19144.md)|
-|**2026-06-17**|**AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces**|Zongmin Zhang et al.|[2606.19152](http://arxiv.org/abs/2606.19152)|[md](abstracts/2606.19152.md)|
-|**2026-06-17**|**Machine-learned prediction of carbon interstitial clusters in diamond**|Xiaoya Chang et al.|[2606.19600](http://arxiv.org/abs/2606.19600)|[md](abstracts/2606.19600.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Fluid Dynamics & Plasma Physics
 
@@ -319,13 +319,20 @@
 |**2026-06-05**|**A Wall Function for Turbulent Boundary Layers under Rotation via Symbolic Regression**|Yao Ma et al.|[2606.06876](http://arxiv.org/abs/2606.06876)|[md](abstracts/2606.06876.md)|
 |**2026-06-05**|**No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty**|Ronald Katende|[2606.07153](http://arxiv.org/abs/2606.07153)|[md](abstracts/2606.07153.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Particle & High Energy Physics
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Hybrid Residual Correction of VMC Charmonium Masses with a Screened Funnel Interaction**|Tarik Akan et al.|[2607.01797](http://arxiv.org/abs/2607.01797)|[md](abstracts/2607.01797.md)|
+|**2026-07-02**|**WavePID: Low-energy flavor identification using single-PMT time series in IceCube**|R. Abbasi et al.|[2607.02078](http://arxiv.org/abs/2607.02078)|[md](abstracts/2607.02078.md)|
+|**2026-07-02**|**Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection**|Donovan Slabbert et al.|[2607.02135](http://arxiv.org/abs/2607.02135)|[md](abstracts/2607.02135.md)|
+|**2026-07-02**|**Heavy-Flavor Electron Classification Using Hadronic Environment as Point Cloud**|Jingyu Zhang et al.|[2607.02225](http://arxiv.org/abs/2607.02225)|[md](abstracts/2607.02225.md)|
+|**2026-07-02**|**A Comprehensive Analysis of $B_s \to D_s^{**}\ellν_\ell$ Decays Within and Beyond the Standard Model**|Karthik Jain et al.|[2607.02276](http://arxiv.org/abs/2607.02276)|[md](abstracts/2607.02276.md)|
 |**2026-07-01**|**High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction**|Yu Guan et al.|[2607.01176](http://arxiv.org/abs/2607.01176)|[md](abstracts/2607.01176.md)|
+|**2026-07-01**|**IonSense-QKG: A Quantum-Readiness Metadata Framework for Lithium-Ion Battery Dataset Discovery**|Sakthi Prabhu Gunasekar et al.|[2607.01286](http://arxiv.org/abs/2607.01286)|[md](abstracts/2607.01286.md)|
+|**2026-07-01**|**Generative AI and Federated Learning for Intrusion Detection Systems: A Survey**|Jiefei Liu et al.|[2607.01305](http://arxiv.org/abs/2607.01305)|[md](abstracts/2607.01305.md)|
 |**2026-06-29**|**Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection**|Bochen Lin et al.|[2606.30009](http://arxiv.org/abs/2606.30009)|[md](abstracts/2606.30009.md)|
 |**2026-06-29**|**Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua**|Raul Jimenez et al.|[2606.30117](http://arxiv.org/abs/2606.30117)|[md](abstracts/2606.30117.md)|
 |**2026-06-26**|**Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings**|Taeyeong Choi et al.|[2606.27672](http://arxiv.org/abs/2606.27672)|[md](abstracts/2606.27672.md)|
@@ -368,24 +375,20 @@
 |**2026-06-13**|**Controlled Dynamics Attractor Transformer**|Cheng Zhang et al.|[2606.15207](http://arxiv.org/abs/2606.15207)|[md](abstracts/2606.15207.md)|
 |**2026-06-13**|**Generalized likelihood ratio test for magnetic anomaly detection: a geometrical approach**|C. Chenevas-Paule et al.|[2606.15343](http://arxiv.org/abs/2606.15343)|[md](abstracts/2606.15343.md)|
 |**2026-06-12**|**Machine-learned particle flow as a foundation model for collider physics**|Farouk Mokhtar et al.|[2606.14373](http://arxiv.org/abs/2606.14373)|[md](abstracts/2606.14373.md)|
-|**2026-06-12**|**JetParticle-JEPA: An Efficient Self-Supervised Representation Learning method for Jet Tagging in High-Energy Physics**|Guillaume Letellier et al.|[2606.14813](http://arxiv.org/abs/2606.14813)|[md](abstracts/2606.14813.md)|
-|**2026-06-12**|**Event Generation with Parallel Langevin Sampling and Learned Stein Diagnostics**|Rob Verheyen|[2606.14854](http://arxiv.org/abs/2606.14854)|[md](abstracts/2606.14854.md)|
-|**2026-06-12**|**Chopping and distilling variational autoencoders for real-time anomaly detection in high energy physics**|Max Cohen et al.|[2606.14857](http://arxiv.org/abs/2606.14857)|[md](abstracts/2606.14857.md)|
-|**2026-06-12**|**Pre-Training for Simulation-Based Science: A Study on Jet Foundation Model Training Objectives**|Ibrahim Elsharkawy et al.|[2606.14870](http://arxiv.org/abs/2606.14870)|[md](abstracts/2606.14870.md)|
-|**2026-06-11**|**AgentRivet: an automated system for producing Rivet routines from journal publications**|Antonio J. Costa et al.|[2606.13535](http://arxiv.org/abs/2606.13535)|[md](abstracts/2606.13535.md)|
-|**2026-06-11**|**Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches**|Jack Y. Araz et al.|[2606.13780](http://arxiv.org/abs/2606.13780)|[md](abstracts/2606.13780.md)|
-|**2026-06-10**|**A High-Precision Clock Synchronization System for the CEPC Accelerator**|Jun Hu et al.|[2606.11590](http://arxiv.org/abs/2606.11590)|[md](abstracts/2606.11590.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Astrophysics & Cosmology
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Black Boxes in Black Hole Imaging**|Juliusz Doboszewski et al.|[2607.02110](http://arxiv.org/abs/2607.02110)|[md](abstracts/2607.02110.md)|
 |**2026-07-01**|**Astrophysical S-factor Calculation for p-p Fusion Reaction**|Arushi Sharma et al.|[2607.00487](http://arxiv.org/abs/2607.00487)|[md](abstracts/2607.00487.md)|
 |**2026-07-01**|**Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data**|Elizabeth Flanagan et al.|[2607.00565](http://arxiv.org/abs/2607.00565)|[md](abstracts/2607.00565.md)|
 |**2026-07-01**|**Evolution of Chemistry in the envelope of HOt corinoS (ECHOS). III. Sulphur chemistry in the Class 0 objects HH 212 and NGC 1333 IRAS 4A**|P. Fernández-Ruiz et al.|[2607.00729](http://arxiv.org/abs/2607.00729)|[md](abstracts/2607.00729.md)|
 |**2026-07-01**|**Foreground Characterization and Mitigation in the Observations of the CD/EoR with the SKA**|Jacob Burba et al.|[2607.01048](http://arxiv.org/abs/2607.01048)|[md](abstracts/2607.01048.md)|
+|**2026-07-01**|**IRIS: Deciphering Spectral-Line Imagery of the Galactic Center by Machine-Learning on Simulations**|B. L. DuBois et al.|[2607.01338](http://arxiv.org/abs/2607.01338)|[md](abstracts/2607.01338.md)|
+|**2026-07-01**|**AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity**|Bhavya Gupta et al.|[2607.01372](http://arxiv.org/abs/2607.01372)|[md](abstracts/2607.01372.md)|
 |**2026-06-29**|**Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua**|Raul Jimenez et al.|[2606.30117](http://arxiv.org/abs/2606.30117)|[md](abstracts/2606.30117.md)|
 |**2026-06-28**|**Citizen Science Research with the Square Kilometre Array Observatory (SKAO)**|Ananda Hota et al.|[2606.29170](http://arxiv.org/abs/2606.29170)|[md](abstracts/2606.29170.md)|
 |**2026-06-28**|**PIE-ADA: Physics-Informed Ensemble with Adaptive Data Augmentation for Photometric Transient Classification**|Deba Priyo Guha et al.|[2606.29367](http://arxiv.org/abs/2606.29367)|[md](abstracts/2606.29367.md)|
@@ -429,16 +432,15 @@
 |**2026-06-17**|**A self-consistent analytical model for both the photoionization rate and reionization history**|Christopher Cain et al.|[2606.19449](http://arxiv.org/abs/2606.19449)|[md](abstracts/2606.19449.md)|
 |**2026-06-17**|**Validation of the Hybrid Bias Expansion model for the galaxy bispectrum**|Marcos Pellejero Ibáñez et al.|[2606.19452](http://arxiv.org/abs/2606.19452)|[md](abstracts/2606.19452.md)|
 |**2026-06-17**|**Review of Machine Learning Models for Solar Energetic Particle Prediction**|Spiridon Kasapis et al.|[2606.19539](http://arxiv.org/abs/2606.19539)|[md](abstracts/2606.19539.md)|
-|**2026-06-16**|**Characterizing Orbital Parameters of Hot Subdwarf Binaries with Multiple Spectroscopic Surveys**|XInlin Zhao et al.|[2606.17559](http://arxiv.org/abs/2606.17559)|[md](abstracts/2606.17559.md)|
-|**2026-06-16**|**Joint reconstruction of $H(z)$ and $fσ_8(z)$ with physics informed neural networks**|Konstantinos F. Dialektopoulos|[2606.17614](http://arxiv.org/abs/2606.17614)|[md](abstracts/2606.17614.md)|
-|**2026-06-16**|**TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way**|P. Bonifacio et al.|[2606.17674](http://arxiv.org/abs/2606.17674)|[md](abstracts/2606.17674.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Climate, Weather & Geophysics
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**A Deep Learning Earth System Model Simulation of Indian Monsoon Intraseasonal and Interannual Variability**|Bijit Kumar Banerjee et al.|[2607.01676](http://arxiv.org/abs/2607.01676)|[md](abstracts/2607.01676.md)|
+|**2026-07-02**|**Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment**|Ziyao Wang et al.|[2607.02471](http://arxiv.org/abs/2607.02471)|[md](abstracts/2607.02471.md)|
 |**2026-07-01**|**EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction**|Qiyan Luo et al.|[2607.00417](http://arxiv.org/abs/2607.00417)|[md](abstracts/2607.00417.md)|
 |**2026-07-01**|**Uncertainty-aware tree height change regression**|Max Gaber et al.|[2607.00638](http://arxiv.org/abs/2607.00638)|[md](abstracts/2607.00638.md)|
 |**2026-07-01**|**Generative Model Proposal based Particle Filtering for Data Assimilation**|Chandni Nagda et al.|[2607.01012](http://arxiv.org/abs/2607.01012)|[md](abstracts/2607.01012.md)|
@@ -487,21 +489,24 @@
 |**2026-06-17**|**A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures**|Timothy Agboada et al.|[2606.19277](http://arxiv.org/abs/2606.19277)|[md](abstracts/2606.19277.md)|
 |**2026-06-17**|**Optimal scenario design for climate emulation**|Christopher B. Womack et al.|[2606.19302](http://arxiv.org/abs/2606.19302)|[md](abstracts/2606.19302.md)|
 |**2026-06-17**|**Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction**|Anna Asch et al.|[2606.19642](http://arxiv.org/abs/2606.19642)|[md](abstracts/2606.19642.md)|
-|**2026-06-16**|**Bridging Spatial And Frequency Views For Disaster Assessment: Benefits And Limitations**|Shikha V. Chandel et al.|[2606.17403](http://arxiv.org/abs/2606.17403)|[md](abstracts/2606.17403.md)|
-|**2026-06-16**|**Physics-Constrained Neural Networks for Improved Short-Term Weather Forecasting: A Case Study over the South Pacific**|Egor Bugaev et al.|[2606.17659](http://arxiv.org/abs/2606.17659)|[md](abstracts/2606.17659.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Generative Models & Discovery
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-07-02**|**Autonomous discovery of traffic laws with AI traffic scientists**|Xingyuan Dai et al.|[2607.01639](http://arxiv.org/abs/2607.01639)|[md](abstracts/2607.01639.md)|
+|**2026-07-02**|**A Mathematical Introduction to Diffusion Models**|Jianfeng Lu|[2607.01693](http://arxiv.org/abs/2607.01693)|[md](abstracts/2607.01693.md)|
+|**2026-07-02**|**ProSAC-CT: Progressive Spectral-Anatomical Co-Guided Multi-Stage Diffusion Model for Low-Dose CT Denoising**|Xuepeng Liu et al.|[2607.01756](http://arxiv.org/abs/2607.01756)|[md](abstracts/2607.01756.md)|
 |**2026-07-01**|**Radial Interaction Tomography: Recognizing Non-Transitive Evolutionary Games from One Range-Expansion Image**|Faruk Alpay et al.|[2607.00378](http://arxiv.org/abs/2607.00378)|[md](abstracts/2607.00378.md)|
 |**2026-07-01**|**Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data**|Elizabeth Flanagan et al.|[2607.00565](http://arxiv.org/abs/2607.00565)|[md](abstracts/2607.00565.md)|
 |**2026-07-01**|**Effective Color Dipole Approach to Color Transparency in \texorpdfstring{$ρ^0$}{rho^0} Electroproduction**|Tae Keun Choi et al.|[2607.00566](http://arxiv.org/abs/2607.00566)|[md](abstracts/2607.00566.md)|
 |**2026-07-01**|**GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems**|Meenakshi Krishnan et al.|[2607.01128](http://arxiv.org/abs/2607.01128)|[md](abstracts/2607.01128.md)|
 |**2026-07-01**|**Autonomous Scientific Discovery via Iterative Meta-Reflection**|Bingchen Zhao et al.|[2607.01131](http://arxiv.org/abs/2607.01131)|[md](abstracts/2607.01131.md)|
 |**2026-07-01**|**High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction**|Yu Guan et al.|[2607.01176](http://arxiv.org/abs/2607.01176)|[md](abstracts/2607.01176.md)|
+|**2026-07-01**|**Generative AI and Federated Learning for Intrusion Detection Systems: A Survey**|Jiefei Liu et al.|[2607.01305](http://arxiv.org/abs/2607.01305)|[md](abstracts/2607.01305.md)|
+|**2026-07-01**|**A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data**|Tianhao Hu et al.|[2607.01534](http://arxiv.org/abs/2607.01534)|[md](abstracts/2607.01534.md)|
 |**2026-06-29**|**Gappy Reconstruction of Bubbly Flows by Guided Diffusion Models**|Hridey Narula et al.|[2606.29843](http://arxiv.org/abs/2606.29843)|[md](abstracts/2606.29843.md)|
 |**2026-06-29**|**Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models**|Yunzhe Zhu et al.|[2606.29862](http://arxiv.org/abs/2606.29862)|[md](abstracts/2606.29862.md)|
 |**2026-06-29**|**SkelEM: Training-Signal Decoupling of Skeleton and Diffusion for Self-supervised Axial Super-Resolution in Volume Microscopy**|Bohao Chen et al.|[2606.30012](http://arxiv.org/abs/2606.30012)|[md](abstracts/2606.30012.md)|
@@ -541,13 +546,8 @@
 |**2026-06-24**|**Direct stress imaging from shear wave propagation**|Yiwei Duan et al.|[2606.25385](http://arxiv.org/abs/2606.25385)|[md](abstracts/2606.25385.md)|
 |**2026-06-24**|**Automatic-differentiation-enabled dynamic parameter retrieval with sub-pulse-width resolution**|Huaiyue Peng et al.|[2606.25479](http://arxiv.org/abs/2606.25479)|[md](abstracts/2606.25479.md)|
 |**2026-06-24**|**Agentic evolution of physically constrained foundation models**|Jiangwei Zhang et al.|[2606.25532](http://arxiv.org/abs/2606.25532)|[md](abstracts/2606.25532.md)|
-|**2026-06-24**|**TensorLDM: A Component-Wise Latent Diffusion Model for Volumetric DTI Reconstruction from Sparse DWIs**|Junhyeok Lee et al.|[2606.25545](http://arxiv.org/abs/2606.25545)|[md](abstracts/2606.25545.md)|
-|**2026-06-24**|**Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation**|Qingyi Lin et al.|[2606.25793](http://arxiv.org/abs/2606.25793)|[md](abstracts/2606.25793.md)|
-|**2026-06-24**|**RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments**|Babak Rahmani et al.|[2606.26094](http://arxiv.org/abs/2606.26094)|[md](abstracts/2606.26094.md)|
-|**2026-06-24**|**\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation**|Ira Wolfson|[2606.26164](http://arxiv.org/abs/2606.26164)|[md](abstracts/2606.26164.md)|
-|**2026-06-24**|**NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation**|Bingyi Xia et al.|[2606.26265](http://arxiv.org/abs/2606.26265)|[md](abstracts/2606.26265.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:Fourier neural operators
 
@@ -594,7 +594,7 @@
 |**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et al.|[2406.03494](http://arxiv.org/abs/2406.03494)|[md](abstracts/2406.03494.md)|
 |**2024-06-02**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et al.|[2401.11037](http://arxiv.org/abs/2401.11037)|[md](abstracts/2401.11037.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs, DeepONet
 
@@ -651,7 +651,7 @@
 |**2025-01-02**|**Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach**|Qian Zhang et al.|[2501.08339](http://arxiv.org/abs/2501.08339)|[md](abstracts/2501.08339.md)|
 |**2024-12-21**|**KKANs: Kurkova-Kolmogorov-Arnold Networks and Their Learning Dynamics**|Juan Diego Toscano et al.|[2412.16738](http://arxiv.org/abs/2412.16738)|[md](abstracts/2412.16738.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:extreme events, dynamical systems
 
@@ -665,7 +665,7 @@
 |**2024-06-17**|**Active search for Bifurcations**|Yorgos M. Psarellis et al.|[2406.11141](http://arxiv.org/abs/2406.11141)|[md](abstracts/2406.11141.md)|
 |**2024-06-10**|**Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages**|Eirini Katsidoniotaki et al.|[2406.04519](http://arxiv.org/abs/2406.04519)|[md](abstracts/2406.04519.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:Koopman operator theory
 
@@ -675,7 +675,7 @@
 |**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
 |**2024-07-08**|**Limits and Powers of Koopman Learning**|Matthew J. Colbrook et al.|[2407.06312](http://arxiv.org/abs/2407.06312)|[md](abstracts/2407.06312.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs co-author
 
@@ -690,7 +690,7 @@
 |**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
 |**2024-07-15**|**Physics-Informed Machine Learning for Smart Additive Manufacturing**|Rahul Sharma et al.|[2407.10761](http://arxiv.org/abs/2407.10761)|[md](abstracts/2407.10761.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:equivariant ML, generative models
 
@@ -709,7 +709,7 @@
 |**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et al.|[2410.02667](http://arxiv.org/abs/2410.02667)|[md](abstracts/2410.02667.md)|
 |**2024-08-06**|**Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI**|Theodore Papamarkou et al.|[2402.00809](http://arxiv.org/abs/2402.00809)|[md](abstracts/2402.00809.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:geometric deep learning
 
@@ -731,7 +731,7 @@
 |**2024-11-29**|**OpenQDC: Open Quantum Data Commons**|Cristian Gabellini et al.|[2411.19629](http://arxiv.org/abs/2411.19629)|[md](abstracts/2411.19629.md)|
 |**2024-08-06**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et al.|[2402.08871](http://arxiv.org/abs/2402.08871)|[md](abstracts/2402.08871.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:SINDy, data-driven dynamics
 
@@ -761,7 +761,7 @@
 |**2024-09-05**|**A deep learning approach to wall-shear stress quantification: From numerical training to zero-shot experimental application**|Esther Lagemann et al.|[2409.03933](http://arxiv.org/abs/2409.03933)|[md](abstracts/2409.03933.md)|
 |**2024-08-28**|**Machine Learning in Viscoelastic Fluids via Energy-Based Kernel Embedding**|Samuel E. Otto et al.|[2404.14347](http://arxiv.org/abs/2404.14347)|[md](abstracts/2404.14347.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:data-driven dynamical systems
 
@@ -806,7 +806,7 @@
 |**2024-10-02**|**Deep Generative Modeling for Identification of Noisy, Non-Stationary Dynamical Systems**|Doris Voina et al.|[2410.02079](http://arxiv.org/abs/2410.02079)|[md](abstracts/2410.02079.md)|
 |**2024-08-28**|**Machine Learning in Viscoelastic Fluids via Energy-Based Kernel Embedding**|Samuel E. Otto et al.|[2404.14347](http://arxiv.org/abs/2404.14347)|[md](abstracts/2404.14347.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:ML for climate, dynamical systems
 
@@ -831,7 +831,7 @@
 |**2024-11-10**|**An Analysis of Deep Learning Parameterizations for Ocean Subgrid Eddy Forcing**|Cem Gultekin et al.|[2411.06604](http://arxiv.org/abs/2411.06604)|[md](abstracts/2411.06604.md)|
 |**2024-08-02**|**Transfer Learning for Emulating Ocean Climate Variability across $CO_2$ forcing**|Surya Dheeshjith et al.|[2405.18585](http://arxiv.org/abs/2405.18585)|[md](abstracts/2405.18585.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:PINNs, Bayesian SciML
 
@@ -853,7 +853,7 @@
 |**2024-09-23**|**Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials**|Sifan Wang et al.|[2410.05281](http://arxiv.org/abs/2410.05281)|[md](abstracts/2410.05281.md)|
 |**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators
 
@@ -871,7 +871,7 @@
 |**2025-06-03**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et al.|[2409.20175](http://arxiv.org/abs/2409.20175)|[md](abstracts/2409.20175.md)|
 |**2024-10-17**|**Data Complexity Estimates for Operator Learning**|Nikola B. Kovachki et al.|[2405.15992](http://arxiv.org/abs/2405.15992)|[md](abstracts/2405.15992.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:e3nn, equivariant tensor networks
 
@@ -890,7 +890,7 @@
 |**2024-11-14**|**Equivariant Symmetry Breaking Sets**|YuQing Xie et al.|[2402.02681](http://arxiv.org/abs/2402.02681)|[md](abstracts/2402.02681.md)|
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et al.|[2410.20516](http://arxiv.org/abs/2410.20516)|[md](abstracts/2410.20516.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators, PDE learning
 
@@ -917,7 +917,7 @@
 |**2024-11-05**|**FUSE: Fast Unified Simulation and Estimation for PDEs**|Levi E. Lingsch et al.|[2405.14558](http://arxiv.org/abs/2405.14558)|[md](abstracts/2405.14558.md)|
 |**2024-11-05**|**Poseidon: Efficient Foundation Models for PDEs**|Maximilian Herde et al.|[2405.19101](http://arxiv.org/abs/2405.19101)|[md](abstracts/2405.19101.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:neural operators, multi-scale
 
@@ -932,7 +932,7 @@
 |**2025-02-13**|**Comprehensive Study of $k$-essence Model: Dynamical System Analysis and Observational Constraints from Latest Type Ia Supernova and BAO Observations**|Saddam Hussain et al.|[2406.07179](http://arxiv.org/abs/2406.07179)|[md](abstracts/2406.07179.md)|
 |**2024-12-03**|**Learning constitutive relations from experiments: 1. PDE constrained optimization**|Andrew Akerson et al.|[2412.02864](http://arxiv.org/abs/2412.02864)|[md](abstracts/2412.02864.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:graph networks for physics simulation
 
@@ -958,7 +958,7 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine D -- Double-source-plane lens candidates**|Euclid Collaboration et al.|[2503.15327](http://arxiv.org/abs/2503.15327)|[md](abstracts/2503.15327.md)|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine E -- Ensemble classification of strong gravitational lenses: lessons for Data Release 1**|Euclid Collaboration et al.|[2503.15328](http://arxiv.org/abs/2503.15328)|[md](abstracts/2503.15328.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## via:author-whitelist:equivariant neural networks
 
@@ -967,4 +967,4 @@
 |**2026-03-04**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et al.|[2506.23971](http://arxiv.org/abs/2506.23971)|[md](abstracts/2506.23971.md)|
 |**2025-12-09**|**What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity**|Alexis Audran-Reiss et al.|[2511.15593](http://arxiv.org/abs/2511.15593)|[md](abstracts/2511.15593.md)|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>

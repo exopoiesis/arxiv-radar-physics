@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
+<td>Bhavya Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27227.html">Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks</a></div></td>
 <td>Tom Dooney et al.</td>
@@ -512,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08318.html">Improving gravitational wave search sensitivity with TIER: Trigger Inference using Extended strain Representation</a></div></td>
 <td>Digvijay Wadekar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08318">2507.08318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20129.html">Search for exotic gravitational wave signals beyond general relativity using deep learning</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Yu-Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20129">2410.20129</a></td>
 </tr>
 </tbody></table>

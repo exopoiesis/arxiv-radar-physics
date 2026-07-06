@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01713.html">Predicting Novel Stable Materials for Experimental Synthesis</a></div></td>
+<td>Yuqi An et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01713">2607.01713</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00924.html">Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination</a></div></td>
 <td>Subhadeep Pal et al.</td>
@@ -1490,11 +1496,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Philipp Hoellmer et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div></td>
-<td>Konstantin Karandashev</td>
-<td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
 </tr>
 </tbody></table>

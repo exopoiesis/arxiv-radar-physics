@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="ligo-90d.html">ligo</a></div></td>
+<td>Bhavya Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Philipp Denzel et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06318.html">Introducing sapphire: Towards Hybrid Physics-Informed, Data-Driven Modeling of Galaxy Formation</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
 <td>Viraj Pandya et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06318">2604.06318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06255.html">Learning the Stellar Structure Equations via Self-supervised Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Manuel Ballester et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06255">2604.06255</a></td>
 </tr>
 </tbody></table>

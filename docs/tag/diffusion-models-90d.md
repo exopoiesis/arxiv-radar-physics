@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>
+<td>Jianfeng Lu</td>
+<td><a href="http://arxiv.org/abs/2607.01693">2607.01693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01756.html">ProSAC-CT: Progressive Spectral-Anatomical Co-Guided Multi-Stage Diffusion Model for Low-Dose CT Denoising</a></div></td>
+<td>Xuepeng Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01756">2607.01756</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01176.html">High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Yu Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01176">2607.01176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01305.html">Generative AI and Federated Learning for Intrusion Detection Systems: A Survey</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Jiefei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01305">2607.01305</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -860,41 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05961.html">HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation</a></div></td>
 <td>Tao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05961">2604.05961</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07435.html">DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation</a></div></td>
-<td>Ze-Xin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07435">2509.07435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24702.html">Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility</a></div></td>
-<td>Yutong Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24702">2509.24702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09228.html">Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation</a></div></td>
-<td>Vijay M. Galshetwar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09228">2510.09228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04608.html">Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection</a></div></td>
-<td>Mei Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04608">2604.04608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04814.html">Diffusion of PeV Cosmic Rays in the Turbulent and Multiphase Interstellar Medium</a></div><div class="paper-tags"><a href="mhd-90d.html">mhd</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Yue Hu</td>
-<td><a href="http://arxiv.org/abs/2604.04814">2604.04814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09691.html">CAGE: Bridging the Accuracy-Aesthetics Gap in Educational Diagrams via Code-Anchored Generative Enhancement</a></div></td>
-<td>Dikshant Kukreja et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09691">2604.09691</a></td>
 </tr>
 </tbody></table>

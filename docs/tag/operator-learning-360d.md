@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div></td>
 <td>Jeongbin Jo</td>
 <td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02203.html">Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data</a></div></td>
+<td>Mojgan Alishiri et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02203">2607.02203</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -1688,17 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11574.html">Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Kazuma Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11574">2507.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07826.html">An Empirical Bernstein Inequality for Dependent Data in Hilbert Spaces and Applications</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Erfan Mirzaei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07826">2507.07826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10401.html">Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ryan Bausback et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10401">2507.10401</a></td>
 </tr>
 </tbody></table>

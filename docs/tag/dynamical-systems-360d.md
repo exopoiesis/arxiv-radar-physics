@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">711 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4262,23 +4262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08749.html">Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Chuanqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08749">2507.08749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04551.html">Stability of Jordan Recurrent Neural Network Estimator</a></div></td>
-<td>Avneet Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04551">2502.04551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07826.html">An Empirical Bernstein Inequality for Dependent Data in Hilbert Spaces and Applications</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Erfan Mirzaei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07826">2507.07826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07834.html">Approach to predicting extreme events in time series of chaotic dynamical systems using machine learning techniques</a></div></td>
-<td>Alexandre C. Andreani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07834">2507.07834</a></td>
 </tr>
 </tbody></table>

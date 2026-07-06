@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02499.html">Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Gil Harari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02499">2607.02499</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div></td>
 <td>Jaehong Kwon et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09023.html">Precipitate phase selection and grain boundary morphology in Cu-Ni-Si-Mn alloys: A machine-learning interatomic potential study</a></div></td>
 <td>Aadil Fayaz Wani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09023">2606.09023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07327.html">Six Open Questions in Machine-Learned Interatomic Potential Foundation Models</a></div></td>
-<td>Isabel Creed et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07327">2606.07327</a></td>
 </tr>
 </tbody></table>

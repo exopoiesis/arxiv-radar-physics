@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-7d.html">reduced-order-modeling</a></div></td>
+<td>Tianhao Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
 <td>Yunzhe Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Zirui Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
 </tr>
 </tbody></table>

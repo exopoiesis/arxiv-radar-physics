@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02134.html">Coding-agents can replicate scientific machine learning papers</a></div></td>
+<td>Atharva Hans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02134">2607.02134</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>

@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.01634">2607.01634</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02203.html">Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data</a></div></td>
+<td>Mojgan Alishiri et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02203">2607.02203</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Nisha Chandramoorthy et al.</td>
@@ -488,11 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06774.html">Sparse-Aware Neural Networks for Nonlinear Functionals: Mitigating the Exponential Dependence on Dimension</a></div></td>
 <td>Jianfei Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06774">2604.06774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04828.html">Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Mateusz Papierz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04828">2604.04828</a></td>
 </tr>
 </tbody></table>

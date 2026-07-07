@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3110,35 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03158.html">LEP-QNN: Loan Eligibility Prediction using Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Nouhaila Innan et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03158">2412.03158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12620.html">A quantum GAN for entanglement detection and image classification</a></div></td>
-<td>James E. Steck et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12620">2408.12620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12079.html">Engineering Quantum Reservoirs through Krylov Complexity, Expressivity and Observability</a></div></td>
-<td>Saud Čindrak et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12079">2409.12079</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13414.html">Adaptive Non-local Observable on Quantum Neural Networks</a></div></td>
-<td>Hsin-Yi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13414">2504.13414</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08379.html">Advances in Machine Learning: Where Can Quantum Techniques Help?</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Samarth Kashyap et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08379">2507.08379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08623.html">Entangled Threats: A Unified Kill Chain Model for Quantum Machine Learning Security</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Pascal Debus et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08623">2507.08623</a></td>
 </tr>
 </tbody></table>

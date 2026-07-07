@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11946.html">An Interpretable Convolutional Neural Network Framework for Fluid Dynamics</a></div></td>
 <td>Kwame Agyei-Baah et al.</td>
 <td><a href="http://arxiv.org/abs/2601.11946">2601.11946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16000.html">Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Tanxin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16000">2602.16000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05652.html">Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Prashant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05652">2604.05652</a></td>
 </tr>
 </tbody></table>

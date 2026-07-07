@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3314,11 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13376.html">Physics-guided impact localisation and force estimation in composite plates with uncertainty quantification</a></div></td>
 <td>Dong Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13376">2507.13376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09081.html">From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Zhenyu Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09081">2507.09081</a></td>
 </tr>
 </tbody></table>

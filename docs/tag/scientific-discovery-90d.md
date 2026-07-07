@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,35 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04957.html">FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04957">2604.04957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05930.html">Can We Predict Before Executing Machine Learning Agents?</a></div></td>
-<td>Jingsheng Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.05930">2601.05930</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00185.html">QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00185">2602.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05716.html">Can Large Language Models Reinvent Foundational Algorithms?</a></div></td>
-<td>Jian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05716">2604.05716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06279.html">Plasma GraphRAG: Physics-Grounded Parameter Selection for Gyrokinetic Simulations</a></div></td>
-<td>Ruichen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06279">2604.06279</a></td>
 </tr>
 </tbody></table>

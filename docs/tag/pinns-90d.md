@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,11 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07075.html">Estimating bottom topography in shallow water flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Lucas Pancotto et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07075">2604.07075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16000.html">Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Tanxin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16000">2602.16000</a></td>
 </tr>
 </tbody></table>

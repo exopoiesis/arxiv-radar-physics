@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,17 +620,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07129.html">A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Elsa Cardoso-Bihlo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07129">2604.07129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06085.html">gyaradax: Local Gyrokinetics JAX Code</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
-<td>Gianluca Galletti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06085">2604.06085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06340.html">On the Jordan-Moore-Gibson-Thompson equation of nonlinear acoustics</a></div></td>
-<td>Barbara Kaltenbacher</td>
-<td><a href="http://arxiv.org/abs/2604.06340">2604.06340</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">184 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1118,17 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03158.html">LEP-QNN: Loan Eligibility Prediction using Quantum Neural Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Nouhaila Innan et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03158">2412.03158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08379.html">Advances in Machine Learning: Where Can Quantum Techniques Help?</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Samarth Kashyap et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08379">2507.08379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08623.html">Entangled Threats: A Unified Kill Chain Model for Quantum Machine Learning Security</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Pascal Debus et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08623">2507.08623</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">606 papers</span>
+  <span class="paper-count">601 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3620,35 +3620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10463.html">Solving the compute crisis with physics-based ASICs</a></div></td>
 <td>Maxwell Aifer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10463">2507.10463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00901.html">A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Enzhe Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00901">2504.00901</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22511.html">Lighting the Night with Generative Artificial Intelligence</a></div></td>
-<td>Tingting Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22511">2506.22511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07878.html">Single-Step Latent Diffusion for Underwater Image Restoration</a></div></td>
-<td>Jiayi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07878">2507.07878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08380.html">From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning</a></div></td>
-<td>Sen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08380">2507.08380</a></td>
 </tr>
 </tbody></table>

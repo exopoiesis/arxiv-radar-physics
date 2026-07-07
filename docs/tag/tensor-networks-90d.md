@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>tensor-networks — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <strong>90d</strong> <a href="tensor-networks-360d.html">360d</a> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
 <td>Cesar A. Amaral et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06265.html">SMT-AD: a scalable quantum-inspired anomaly detection approach</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Apimuk Sornsaeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06265">2604.06265</a></td>
 </tr>
 </tbody></table>

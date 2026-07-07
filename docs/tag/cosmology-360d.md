@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07090.html">A Differentiable, End-to-End Forward Model for 21 cm Cosmology: Estimating the Foreground, Instrument, and Signal Joint Posterior</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Nicholas Kern</td>
 <td><a href="http://arxiv.org/abs/2504.07090">2504.07090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07257.html">Open Source Planning &amp; Control System with Language Agents for Autonomous Scientific Discovery</a></div></td>
-<td>Licong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07257">2507.07257</a></td>
 </tr>
 </tbody></table>

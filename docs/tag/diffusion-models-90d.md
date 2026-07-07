@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,29 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17844.html">Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation</a></div></td>
 <td>Shihan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17844">2511.17844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14429.html">Compositional amortized inference for large-scale hierarchical Bayesian models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Jonas Arruda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14429">2505.14429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05700.html">Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
-<td>Li Kunpeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05700">2604.05700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05727.html">Single-Stage Signal Attenuation Diffusion Model for Low-Light Image Enhancement and Denoising</a></div></td>
-<td>Ying Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05727">2604.05727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05961.html">HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation</a></div></td>
-<td>Tao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05961">2604.05961</a></td>
 </tr>
 </tbody></table>

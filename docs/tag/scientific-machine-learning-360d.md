@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,17 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11574.html">Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Kazuma Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11574">2507.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08746.html">Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Paolo Marcandelli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08746">2507.08746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08749.html">Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Chuanqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08749">2507.08749</a></td>
 </tr>
 </tbody></table>

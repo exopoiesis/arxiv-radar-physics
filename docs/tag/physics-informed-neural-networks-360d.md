@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">625 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3764,11 +3764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09330.html">WellPINN: Accurate Well Representation for Transient Fluid Pressure Diffusion in Subsurface Reservoirs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Linus Walter et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09330">2507.09330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08906.html">Physics-informed machine learning: A mathematical framework with applications to time series forecasting</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Nathan Doumèche</td>
-<td><a href="http://arxiv.org/abs/2507.08906">2507.08906</a></td>
 </tr>
 </tbody></table>

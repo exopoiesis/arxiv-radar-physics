@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06844.html">CloudMamba: An Uncertainty-Guided Dual-Scale Mamba Network for Cloud Detection in Remote Sensing Imagery</a></div></td>
 <td>Jiajun Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06844">2604.06844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07905.html">SatFusion: A Unified Framework for Enhancing Remote Sensing Images via Multi-Frame and Multi-Source Images Fusion</a></div></td>
-<td>Yufei Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07905">2510.07905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22581.html">Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model</a></div></td>
-<td>Naeem Paeedeh et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22581">2601.22581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05629.html">A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting</a></div></td>
-<td>Yongchuan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05629">2604.05629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05689.html">CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration</a></div></td>
-<td>Xuecong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05689">2604.05689</a></td>
 </tr>
 </tbody></table>

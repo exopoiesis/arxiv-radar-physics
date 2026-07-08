@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06147.html">Imprint of swampland-inspired coupled early dark energy</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Hao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06147">2607.06147</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19427.html">Physics-guided discovery of dynamical dark-energy equations of state through iterative AI reasoning</a></div></td>
 <td>Clecio R. Bom et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03182.html">DeepDISC-Euclid: Source Classification and Photometric Redshifts in Euclid Deep Field North With a Pixel-Level Deep Learning Approach</a></div></td>
 <td>Yuanzhe Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03182">2604.03182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14888.html">Modeling nonlinear scales for dynamical dark energy cosmologies with COLA</a></div></td>
-<td>João Rebouças et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14888">2510.14888</a></td>
 </tr>
 </tbody></table>

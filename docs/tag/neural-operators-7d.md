@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06188.html">Time-Invariant Neural Operators with Applications in Solving Time-Dependent PDEs</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Zihan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06188">2607.06188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05134.html">PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Akshat Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05134">2607.05134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03861.html">Approximate Dynamic Optimization via Deep Neural Operators</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Amin Nassaji et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03861">2607.03861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Himanshu Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>

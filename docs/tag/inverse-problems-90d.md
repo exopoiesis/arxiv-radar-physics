@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06252.html">A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems</a></div></td>
+<td>Fabian Schneider et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06252">2607.06252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05271.html">Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Qian Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05271">2607.05271</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03772.html">Level-set physics-informed neural networks for domain inverse problems of gravimetry</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Jingnan Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03772">2607.03772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03039.html">Out-of-distribution Neural Inference in Dynamical Ising Models</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Yuan-Bin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03039">2607.03039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03355.html">Amortized low-rank approximation for hyperparameter marginalization in PDE-governed Bayesian inverse problems</a></div></td>
+<td>Sonia Reilly et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03355">2607.03355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02628.html">SE-UNet: Singular Equivariant Imaging for Real-World Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Kanishk Awadhiya</td>
+<td><a href="http://arxiv.org/abs/2607.02628">2607.02628</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -602,23 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07671.html">On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Jonah Botvinick-Greenhouse et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07671">2604.07671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14135.html">Conditional flow matching for physics-constrained inverse problems with finite training data</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14135">2603.14135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06534.html">FOSSA: First-Order Optimality-Based Sensor Selection for PINN Inverse Problems, with Application to Electrocardiographic Imaging</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jianxin Xie</td>
-<td><a href="http://arxiv.org/abs/2604.06534">2604.06534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07129.html">A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Elsa Cardoso-Bihlo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07129">2604.07129</a></td>
 </tr>
 </tbody></table>

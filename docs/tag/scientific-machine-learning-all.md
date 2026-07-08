@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">298 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="neural-differential-equations-all.html">neural-differential-equations</a></div></td>
+<td>Syed Pouladi</td>
+<td><a href="http://arxiv.org/abs/2607.05718">2607.05718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="sciml-all.html">sciml</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Ana Fernandez Navamuel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05025">2607.05025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02134.html">Coding-agents can replicate scientific machine learning papers</a></div></td>
 <td>Atharva Hans et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02134">2607.02134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a> · <a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Himanshu Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-28</td>

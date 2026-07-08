@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04491.html">Generalizable turbulence closures across bluff-body shapes by PINN-based solver-agnostic training</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Zhen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04491">2607.04491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03571.html">Transferable inference of turbulence models for urban flows with the Parameter-Regularised Ensemble Kalman Filter</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
+<td>Emanuele Bombardi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03571">2607.03571</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>

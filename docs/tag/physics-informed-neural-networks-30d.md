@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,70 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Eszra Forenita Sigalingging et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06091">2607.06091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04865.html">Deep Learning Models for ADITYA-U MHD Equilibrium</a></div></td>
+<td>Udaya Maurya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04865">2607.04865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05271.html">Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Qian Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05271">2607.05271</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04285.html">Domain decomposition methods with Physics-informed neural networks for elliptic equations on manifolds</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Yufang Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04285">2607.04285</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04288.html">Mass weighting algorithm optimizes Fourier-based physics-informed neural network in adhesive contact mechanics</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Yunong Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04288">2607.04288</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03682.html">LRX-PINN: A Layer-Resolving XNet Physics-Informed Neural Network with Integrated Cauchy Activations for Convection-Dominated Problems</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Zihao Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03682">2607.03682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03772.html">Level-set physics-informed neural networks for domain inverse problems of gravimetry</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Jingnan Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03772">2607.03772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02905.html">Pre-Strings Lectures on Artificial Intelligence</a></div></td>
+<td>James Halverson</td>
+<td><a href="http://arxiv.org/abs/2607.02905">2607.02905</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03431.html">Pointwise Error Estimates for Numerical Physics-Informed Neural Networks</a></div></td>
+<td>Nivar Anwer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03431">2607.03431</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Joseph Webb et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Phil-Alexander Hofmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -236,11 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11258.html">Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Yan Yang</td>
 <td><a href="http://arxiv.org/abs/2606.11258">2606.11258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08435.html">Sound Field Interpolation Using Physics-Informed Extreme Learning Machine with Pre-Training</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Hayato Komaba et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08435">2606.08435</a></td>
 </tr>
 </tbody></table>

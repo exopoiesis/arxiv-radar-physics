@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04925.html">Inverse-k Primordial Oscillations from a Symbolic Regression Search</a></div></td>
+<td>Ze-Yu Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04925">2607.04925</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04095.html">ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</a></div></td>
+<td>Xin-Hui Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04095">2607.04095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04156.html">Language models guide symbolic equation discovery by controlling search</a></div><div class="paper-tags"><a href="equation-discovery-all.html">equation-discovery</a></div></td>
+<td>Zikai Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04156">2607.04156</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29331.html">Sample Complexity of Scientific Discovery: PAC Learnability of Compositional Function Trees</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>

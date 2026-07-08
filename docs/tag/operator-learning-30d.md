@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06287.html">Kernel-based Operator Learning: Error Analysis, Budget Allocation, and a Physics-Informed Extension</a></div></td>
+<td>Rüdiger Kempf</td>
+<td><a href="http://arxiv.org/abs/2607.06287">2607.06287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03311.html">Operator Learning in Lattice QCD: Spectral Reconstruction</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="lattice-qcd-30d.html">lattice-qcd</a></div></td>
+<td>Alessandro De Santis</td>
+<td><a href="http://arxiv.org/abs/2607.03311">2607.03311</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01634.html">Fourier-Diagonalized Natural Gradients and Sobolev Mirror Descent</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02203.html">Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data</a></div></td>
 <td>Mojgan Alishiri et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02203">2607.02203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Himanshu Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -176,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09806.html">Topological Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Lennart Bastian et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09806">2606.09806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08448.html">Multiscale Fourier Neural Operator for Inverse Wave Scattering in Highly Oscillatory Media</a></div></td>
-<td>Zilin You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08448">2606.08448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Weinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
 </tr>
 </tbody></table>

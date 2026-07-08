@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1106 papers</span>
+  <span class="paper-count">1110 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="neural-differential-equations-all.html">neural-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Syed Pouladi</td>
+<td><a href="http://arxiv.org/abs/2607.05718">2607.05718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04493.html">Beyond DSA: Conjugacy-based Comparison of Dynamical Systems</a></div></td>
+<td>Prakhar Godara et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04493">2607.04493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03713.html">Learning Robust Control Lyapunov Functions through Lipschitz Neural Networks</a></div></td>
+<td>Shiqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03713">2607.03713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03485.html">Data-Driven Discovery of Multiscale Power System Oscillation Governing Equations Using SINDy-SENDAI</a></div></td>
+<td>Andrea Pomarico et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03485">2607.03485</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>

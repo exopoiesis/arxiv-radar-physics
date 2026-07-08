@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06002.html">Solving Hamiltonian Constraint Equation with Physics-Informed Neural Networks</a></div></td>
+<td>Yu-Chen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06002">2607.06002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06261.html">Learning Adaptive Coarse Spaces Using Transferable Neural Network Models for Linear and Nonlinear Overlapping Domain Decomposition Methods</a></div></td>
+<td>Axel Klawonn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06261">2607.06261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06348.html">Physics-Informed Neural Embeddings of PDE Solution Families</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06348">2607.06348</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01694.html">Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations</a></div></td>
@@ -26,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02194.html">An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Joseph Webb et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02194">2607.02194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Phil-Alexander Hofmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -266,11 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Vijay Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Michael Chin</td>
-<td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
 </tr>
 </tbody></table>

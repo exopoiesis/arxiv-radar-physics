@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03153.html">RTL Fault Injection of a Deployed Graph Neural Network Trigger for Belle II</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
+<td>Georgios Sotiropoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03153">2607.03153</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Raul Jimenez et al.</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08814.html">New Deep Learning Data Analysis Method for PROSPECT using GAPE: Genetic Algorithm Powered Evolution</a></div></td>
 <td>M. Adriamirado et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08814">2604.08814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13970.html">Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
-<td>Philip Bechtle et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13970">2603.13970</a></td>
 </tr>
 </tbody></table>

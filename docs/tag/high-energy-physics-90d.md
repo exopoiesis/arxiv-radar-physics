@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03153.html">RTL Fault Injection of a Deployed Graph Neural Network Trigger for Belle II</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
+<td>Georgios Sotiropoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03153">2607.03153</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14857.html">Chopping and distilling variational autoencoders for real-time anomaly detection in high energy physics</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
 <td>Max Cohen et al.</td>
@@ -56,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15775.html">Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Abhishek Sawaika et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15775">2604.15775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13970.html">Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Philip Bechtle et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13970">2603.13970</a></td>
 </tr>
 </tbody></table>

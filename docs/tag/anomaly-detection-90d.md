@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05860.html">Autoencoder-Based Unsupervised Identification of Nonequilibrium Phases in Sheared Binary Colloids</a></div></td>
+<td>Yoshitaka Miyahara et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05860">2607.05860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05307.html">Quantum Spectral Anomaly Detection</a></div></td>
+<td>Yewei Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05307">2607.05307</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04219.html">Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents</a></div></td>
+<td>Rümeysa Hilal Sevinç et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04219">2607.04219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03558.html">Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation</a></div></td>
+<td>Abu Anas Ibn Samad</td>
+<td><a href="http://arxiv.org/abs/2607.03558">2607.03558</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02135.html">Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
@@ -386,23 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18606.html">Thermal Anomaly Detection using Physics Aware Neuromorphic Networks: Comparison between Raw and L1C Sentinel-2 Data</a></div></td>
 <td>Stephen Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18606">2604.18606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20906.html">A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems</a></div></td>
-<td>Sarad Venugopalan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20906">2504.20906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06541.html">Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Emre Gurkanli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06541">2604.06541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06849.html">Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI</a></div></td>
-<td>Fangmao Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06849">2604.06849</a></td>
 </tr>
 </tbody></table>

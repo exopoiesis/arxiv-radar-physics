@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>force-fields — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <strong>30d</strong> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04633.html">Differentiable OPLS Force Field Parameterization for Ionic Electrolytes and High-Throughput Application to Lithium-ion Batteries</a></div></td>
+<td>Haichao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04633">2607.04633</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div></td>
+<td>Samuel Sahel-Schackis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27636.html">CoTAR: Topology and Atomic State Reconstruction in Condensed Phases</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
@@ -44,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08688.html">PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback</a></div></td>
-<td>Chunji Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08688">2606.08688</a></td>
 </tr>
 </tbody></table>

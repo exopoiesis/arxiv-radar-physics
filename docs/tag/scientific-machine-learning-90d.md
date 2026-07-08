@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-differential-equations-90d.html">neural-differential-equations</a></div></td>
+<td>Syed Pouladi</td>
+<td><a href="http://arxiv.org/abs/2607.05718">2607.05718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Ana Fernandez Navamuel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05025">2607.05025</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02134.html">Coding-agents can replicate scientific machine learning papers</a></div></td>
 <td>Atharva Hans et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02134">2607.02134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Himanshu Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-28</td>
@@ -338,23 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09667.html">Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Shinhoo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09667">2602.09667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16951.html">Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a> · <a href="lagrangian-neural-networks-90d.html">lagrangian-neural-networks</a></div></td>
-<td>Martin G. Frasch</td>
-<td><a href="http://arxiv.org/abs/2603.16951">2603.16951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06881.html">MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06881">2604.06881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07129.html">A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Elsa Cardoso-Bihlo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07129">2604.07129</a></td>
 </tr>
 </tbody></table>

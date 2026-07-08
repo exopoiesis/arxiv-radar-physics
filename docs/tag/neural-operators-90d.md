@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06188.html">Time-Invariant Neural Operators with Applications in Solving Time-Dependent PDEs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Zihan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06188">2607.06188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05134.html">PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Akshat Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05134">2607.05134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03861.html">Approximate Dynamic Optimization via Deep Neural Operators</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Amin Nassaji et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03861">2607.03861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Himanshu Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00320.html">From Spectral Methods to Sample Complexity Bounds for Fourier Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
@@ -824,17 +848,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08076.html">$φ-$DeepONet: A Discontinuity Capturing Neural Operator</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Sumanta Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08076">2604.08076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06881.html">MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06881">2604.06881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07412.html">Physics-informed neural operators for the in situ characterization of locally reacting sound absorbers</a></div></td>
-<td>Jonas M. Schmid et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07412">2604.07412</a></td>
 </tr>
 </tbody></table>

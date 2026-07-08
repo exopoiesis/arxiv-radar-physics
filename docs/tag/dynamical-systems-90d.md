@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="neural-differential-equations-90d.html">neural-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Syed Pouladi</td>
+<td><a href="http://arxiv.org/abs/2607.05718">2607.05718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04493.html">Beyond DSA: Conjugacy-based Comparison of Dynamical Systems</a></div></td>
+<td>Prakhar Godara et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04493">2607.04493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03713.html">Learning Robust Control Lyapunov Functions through Lipschitz Neural Networks</a></div></td>
+<td>Shiqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03713">2607.03713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03485.html">Data-Driven Discovery of Multiscale Power System Oscillation Governing Equations Using SINDy-SENDAI</a></div></td>
+<td>Andrea Pomarico et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03485">2607.03485</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
@@ -974,17 +998,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07685.html">Tensor-based computation of the Koopman generator via operator logarithm</a></div></td>
 <td>Tatsuya Kishimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07685">2604.07685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06881.html">MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Tianyue Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06881">2604.06881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07069.html">Controller Design for Structured State-space Models via Contraction Theory</a></div></td>
-<td>Muhammad Zakwan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07069">2604.07069</a></td>
 </tr>
 </tbody></table>

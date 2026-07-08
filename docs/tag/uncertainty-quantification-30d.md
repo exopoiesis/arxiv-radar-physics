@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="sciml-30d.html">sciml</a></div></td>
+<td>Ana Fernandez Navamuel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05025">2607.05025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03212.html">Uncertainty Quantification Study of a Re-entry Breakup</a></div></td>
+<td>Tommy Williamson et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03212">2607.03212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03217.html">Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models</a></div><div class="paper-tags"><a href="hydrology-30d.html">hydrology</a></div></td>
+<td>Karan Ruparell et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03217">2607.03217</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
@@ -236,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09147.html">Artificial Intelligence for Instability in Inorganic Perovskites: From Mechanism Discovery to Engineering Strategies</a></div></td>
 <td>Xue Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09147">2606.09147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Weinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09923.html">Conformal Prediction for Neural Operators: Distribution-Free Uncertainty Quantification in Physics Simulation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Michael Chin</td>
-<td><a href="http://arxiv.org/abs/2606.09923">2606.09923</a></td>
 </tr>
 </tbody></table>

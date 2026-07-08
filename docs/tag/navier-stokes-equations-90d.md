@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <strong>90d</strong> <a href="navier-stokes-equations-360d.html">360d</a> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Phil-Alexander Hofmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">220 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05252.html">FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
+<td>Weichen Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05252">2607.05252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02931.html">VERITAS: Towards a General-Purpose Replication Tool for Scientific Research</a></div></td>
+<td>Haokun Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02931">2607.02931</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="gravitational-waves-all.html">gravitational-waves</a> · <a href="ligo-all.html">ligo</a></div></td>

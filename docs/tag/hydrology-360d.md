@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrology — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <strong>360d</strong> <a href="hydrology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03217.html">Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Karan Ruparell et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03217">2607.03217</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19379.html">Graph-based automated discovery of concise soil hydraulic functions from data: beyond the Mualem - van Genuchten model</a></div></td>

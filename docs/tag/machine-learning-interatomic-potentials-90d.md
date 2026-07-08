@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05015.html">dpti: An Automated Thermodynamic Integration Workflow for Phase Diagram Calculations with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Fengbo Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05015">2607.05015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02499.html">Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
@@ -278,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Xintian Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07197.html">Machine learning Hamiltonian enables scalable and accurate defect calculations: The case of oxygen vacancies in amorphous SiO$_2$</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07197">2604.07197</a></td>
 </tr>
 </tbody></table>

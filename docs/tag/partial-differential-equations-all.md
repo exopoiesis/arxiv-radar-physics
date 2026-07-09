@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1341 papers</span>
+  <span class="paper-count">1345 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07682.html">Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
+<td>Xiangming Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07682">2607.07682</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06002.html">Solving Hamiltonian Constraint Equation with Physics-Informed Neural Networks</a></div></td>
@@ -32,6 +44,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06348.html">Physics-Informed Neural Embeddings of PDE Solution Families</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06348">2607.06348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Sonal Ankush Chibire et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06479">2607.06479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06500.html">Leveraging Metrologically Useful States in Quantum Reservoir Networks</a></div></td>
+<td>Erik L. Connerty et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06500">2607.06500</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>

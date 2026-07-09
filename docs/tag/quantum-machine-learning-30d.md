@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06307.html">Quantum Probabilistic Local Differential Privacy: Structural Properties and Sample Complexity Bounds</a></div></td>
 <td>Xian Shi</td>
 <td><a href="http://arxiv.org/abs/2607.06307">2607.06307</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-many-body-systems-30d.html">quantum-many-body-systems</a></div></td>
+<td>Rahul Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -170,23 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12211.html">Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning</a></div></td>
 <td>Jeongho Bang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12211">2606.12211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09964.html">JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantum Neural Networks</a></div></td>
-<td>Gianluca Scanu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09964">2606.09964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10150.html">Towards the implementation of a quantum classifier</a></div></td>
-<td>Lorenzo Confalonieri et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10150">2606.10150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Gennaro De Luca</td>
-<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
 </tr>
 </tbody></table>

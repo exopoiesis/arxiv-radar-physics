@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11972.html">Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Wave Dynamics</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Zhiwei Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11972">2604.11972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10723.html">Generalized Spherical Neural Operators: Green&#x27;s Function Formulation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Hao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.10723">2512.10723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08076.html">$φ-$DeepONet: A Discontinuity Capturing Neural Operator</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
-<td>Sumanta Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08076">2604.08076</a></td>
 </tr>
 </tbody></table>

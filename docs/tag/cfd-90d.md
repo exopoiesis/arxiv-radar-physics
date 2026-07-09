@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04495.html">U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="les-90d.html">les</a></div></td>
 <td>Shixiong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04495">2607.04495</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06587.html">CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed by Conservation Laws</a></div></td>
+<td>Adnan Harun Doğan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06587">2607.06587</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>
@@ -332,23 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09112.html">Hybrid Cold-Start Recommender System for Closure Model Selection in Multiphase Flow Simulations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>S. Hänsch et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09112">2604.09112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="tensor-networks-90d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06747.html">TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design</a></div></td>
-<td>Juan Du et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06747">2604.06747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07781.html">Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction</a></div></td>
-<td>Tong Duy Son et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07781">2604.07781</a></td>
 </tr>
 </tbody></table>

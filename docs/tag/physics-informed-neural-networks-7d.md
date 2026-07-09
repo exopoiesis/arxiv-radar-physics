@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Eszra Forenita Sigalingging et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06091">2607.06091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Sonal Ankush Chibire et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06479">2607.06479</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -80,11 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Phil-Alexander Hofmann et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Yuanshuo Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
 </tr>
 </tbody></table>

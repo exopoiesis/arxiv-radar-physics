@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,11 +638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09319.html">Machine Learning Left-Right Breaking from Gravitational Waves</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>William Searle et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09319">2506.09319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09582.html">A Practical Guide to Unbinned Unfolding</a></div></td>
-<td>Florencia Canelli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09582">2507.09582</a></td>
 </tr>
 </tbody></table>

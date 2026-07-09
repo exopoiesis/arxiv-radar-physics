@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09505.html">Enhancing the accuracy of under-resolved numerical simulations of atmospheric flows with super resolution</a></div></td>
 <td>Armin Sheidani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09505">2604.09505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="tensor-networks-90d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
 </tr>
 </tbody></table>

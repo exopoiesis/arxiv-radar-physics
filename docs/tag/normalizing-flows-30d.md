@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07127.html">Weight-Space Physics: Interpretable Hypernetworks for Lattice Quantum Field Theories</a></div></td>
+<td>Tobias Göbel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07127">2607.07127</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03904.html">Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
 <td>Subhajit Dandapat et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13936.html">The baryonic Tully-Fisher relation as an independent direct probe of cosmology and of the nature of dark matter</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
 <td>Francesco Sinigaglia</td>
 <td><a href="http://arxiv.org/abs/2606.13936">2606.13936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10023.html">Learning the Universe: Posterior Reliability of Neural Generative Models in High-Dimensional Field-Level Inference of Cosmic Initial Conditions</a></div></td>
-<td>Ludvig Doeser et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10023">2606.10023</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a> · <a href="quantum-many-body-systems-30d.html">quantum-many-body-systems</a></div></td>
+<td>Rahul Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04915.html">How Hard Is Quantum Advantage? A Cloud Microphysics Stress Test for Variational Quantum Models</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Felix Herbort et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14822.html">Quantum Machine Learning for Industrial Applications</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Léo Monbroussou</td>
 <td><a href="http://arxiv.org/abs/2606.14822">2606.14822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10179.html">Trainability of IQP Quantum Circuit Born Machines Under Gaussian Initialization</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Gennaro De Luca</td>
-<td><a href="http://arxiv.org/abs/2606.10179">2606.10179</a></td>
 </tr>
 </tbody></table>

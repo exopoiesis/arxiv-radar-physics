@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07456.html">A Multi-Scale Machine Learning Framework for Coupled Chemical, Spin, and Structural Disorder in Alloys</a></div></td>
+<td>Zhenyao Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07456">2607.07456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Manas Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05015.html">dpti: An Automated Thermodynamic Integration Workflow for Phase Diagram Calculations with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Fengbo Yuan et al.</td>
@@ -278,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13699.html">MIND: AI Co-Scientist for Material Research</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Geonhee Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13699">2604.13699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04110.html">Accelerating Discovery of Ternary Chiral Materials via Large-Scale Random Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-prediction-90d.html">crystal-structure-prediction</a></div></td>
-<td>Jiexi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04110">2508.04110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
-<td>Xintian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
 </tr>
 </tbody></table>

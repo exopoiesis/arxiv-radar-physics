@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hep — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <a href="hep-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06775.html">Data Preservation in High Energy Physics: Global Report 2026</a></div></td>
+<td>Matthew Bellis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06775">2607.06775</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03006.html">PosterHarness: Turning Scientific Poster Generation into an Auditable Instruction-Following Benchmark</a></div></td>

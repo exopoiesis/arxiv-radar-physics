@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07127.html">Weight-Space Physics: Interpretable Hypernetworks for Lattice Quantum Field Theories</a></div></td>
+<td>Tobias Göbel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07127">2607.07127</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03904.html">Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
 <td>Subhajit Dandapat et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11519.html">Generative Path-Finding Method for Wasserstein Gradient Flow</a></div></td>
 <td>Chengyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11519">2604.11519</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08089.html">Assessment of normalizing flows for parameter estimation on time-frequency representations of gravitational-wave data</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Daniel Lanchares et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08089">2505.08089</a></td>
 </tr>
 </tbody></table>

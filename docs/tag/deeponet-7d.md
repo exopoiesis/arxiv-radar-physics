@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>deeponet — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07682.html">Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Xiangming Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07682">2607.07682</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06026.html">SplineNet: An Isogeometric Deep Learning Method for Complex Shells</a></div></td>

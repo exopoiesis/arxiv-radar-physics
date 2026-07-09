@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,23 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14913.html">Structure-Informed Neural Operators for Long-Time Prediction of Parametric Hamiltonian PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Victory C. Obieke et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14913">2606.14913</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09047.html">Families of Control-Cost-Parametrized Inverse-Optimal Universal Stabilizers</a></div></td>
-<td>Miroslav Krstic et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09047">2606.09047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09369.html">Residual Pseudospectra Reveal a Physics-Informed Koopman Backbone for Tropical Pacific Variability and ENSO Prediction</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Paula Lorenzo-Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09369">2606.09369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09806.html">Topological Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Lennart Bastian et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09806">2606.09806</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">519 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06307.html">Quantum Probabilistic Local Differential Privacy: Structural Properties and Sample Complexity Bounds</a></div></td>
 <td>Xian Shi</td>
 <td><a href="http://arxiv.org/abs/2607.06307">2607.06307</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
+<td>Rahul Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -3122,17 +3128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19505.html">Comparing Quantum Machine Learning Approaches in Astrophysical Signal Detection</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="qml-360d.html">qml</a></div></td>
 <td>Mansur Ziiatdinov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19505">2507.19505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02419.html">Quantum Curriculum Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Quoc Hoan Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02419">2407.02419</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03158.html">LEP-QNN: Loan Eligibility Prediction using Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Nouhaila Innan et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03158">2412.03158</a></td>
 </tr>
 </tbody></table>

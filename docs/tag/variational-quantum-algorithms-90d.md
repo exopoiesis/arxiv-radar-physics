@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,23 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Joona Pankkonen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a> · <a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07896.html">Non-variational supervised quantum kernel methods: a review</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>John Tanner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07896">2604.07896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07909.html">A Review of Variational Quantum Algorithms: Insights into Fault-Tolerant Quantum Computing</a></div></td>
-<td>Zhirao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07909">2604.07909</a></td>
 </tr>
 </tbody></table>

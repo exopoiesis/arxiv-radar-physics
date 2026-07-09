@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07348.html">Present Day Cosmic Acceleration from SDSS and DESI BAO: A Call for Finer Tomography of the DESI Bright Galaxy Survey</a></div></td>
+<td>Anna Chiara Ferri et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07348">2607.07348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06147.html">Imprint of swampland-inspired coupled early dark energy</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
 <td>Hao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06147">2607.06147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06734.html">Machine Learning Closure Audits for LSST Photometric Supernova Cosmology</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
+<td>Ayan Mitra</td>
+<td><a href="http://arxiv.org/abs/2607.06734">2607.06734</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
@@ -50,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
 <td>J. Williamson et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09576.html">Characterizing Stellar Streams with Error-Aware Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Alexandros Pratsos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09576">2606.09576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10197.html">Integral Field Unit Spectroscopy with One Fiber</a></div></td>
-<td>Zehao Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10197">2606.10197</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Rahul Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Shang-Shun Zhang</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14928.html">From Classical to Quantum: Extending Prometheus for Unsupervised Discovery of Phase Transitions in Three Dimensions and Quantum Systems</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Brandon Yee et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14928">2602.14928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14099.html">A review of quantum machine learning and quantum-inspired applied methods to computational fluid dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="tensor-networks-90d.html">tensor-networks</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Cesar A. Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14099">2510.14099</a></td>
 </tr>
 </tbody></table>

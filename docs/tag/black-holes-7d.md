@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03904.html">Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Subhajit Dandapat et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02861.html">Holographic Learning from Fermionic Spectra: Application to Strange Metal Phenomenology</a></div></td>
 <td>Hong-Zhi Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02861">2607.02861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="gravitational-waves-7d.html">gravitational-waves</a> · <a href="ligo-7d.html">ligo</a></div></td>
-<td>Bhavya Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07682.html">Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Xiangming Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07682">2607.07682</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06002.html">Solving Hamiltonian Constraint Equation with Physics-Informed Neural Networks</a></div></td>
 <td>Yu-Chen Zhou et al.</td>
@@ -34,6 +46,18 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.06348">2607.06348</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Sonal Ankush Chibire et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06479">2607.06479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06500.html">Leveraging Metrologically Useful States in Quantum Reservoir Networks</a></div></td>
+<td>Erik L. Connerty et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06500">2607.06500</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01694.html">Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations</a></div></td>
 <td>Xiong Xiong et al.</td>
@@ -50,29 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Phil-Alexander Hofmann et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a></div></td>
-<td>Xin-Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="rom-7d.html">rom</a></div></td>
-<td>G. Li Causi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00669">2607.00669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Meenakshi Krishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="reduced-order-modeling-7d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Tianhao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
 </tr>
 </tbody></table>

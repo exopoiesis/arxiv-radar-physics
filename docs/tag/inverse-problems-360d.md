@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">406 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07189.html">Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks</a></div></td>
+<td>Ethan Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07189">2607.07189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07468.html">Statistical inverse learning and $\ell^1$-regularization</a></div></td>
+<td>Abhishake Rastogi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07468">2607.07468</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06252.html">A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems</a></div></td>

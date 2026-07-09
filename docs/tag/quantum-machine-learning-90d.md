@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06307.html">Quantum Probabilistic Local Differential Privacy: Structural Properties and Sample Complexity Bounds</a></div></td>
 <td>Xian Shi</td>
 <td><a href="http://arxiv.org/abs/2607.06307">2607.06307</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a></div></td>
+<td>Rahul Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -692,41 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09869.html">Q-PIPE A Practical Quantum Phase Encoding Method</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Brian García Sarmina et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09869">2604.09869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19253.html">Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study</a></div></td>
-<td>Carla Crivoi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19253">2512.19253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02203.html">QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling</a></div></td>
-<td>Selim Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02203">2604.02203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07856.html">Hardware-Aware Quantum Support Vector Machines</a></div></td>
-<td>Adil Mubashir Chaudhry et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07856">2604.07856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07896.html">Non-variational supervised quantum kernel methods: a review</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>John Tanner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07896">2604.07896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08180.html">Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security</a></div></td>
-<td>Hui Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08180">2604.08180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08827.html">Quantum Patches: Enhancing Robustness of Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08827">2604.08827</a></td>
 </tr>
 </tbody></table>

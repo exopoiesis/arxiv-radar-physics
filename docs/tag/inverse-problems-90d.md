@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07189.html">Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks</a></div></td>
+<td>Ethan Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07189">2607.07189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07468.html">Statistical inverse learning and $\ell^1$-regularization</a></div></td>
+<td>Abhishake Rastogi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07468">2607.07468</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06252.html">A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems</a></div></td>
 <td>Fabian Schneider et al.</td>
@@ -626,17 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11467.html">On $L^\infty$ stability for wave propagation and for linear inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Rima Alaifari et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11467">2410.11467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07755.html">Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Brenda Anague et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07755">2512.07755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07671.html">On the Unique Recovery of Transport Maps and Vector Fields from Finite Measure-Valued Data</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Jonah Botvinick-Greenhouse et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07671">2604.07671</a></td>
 </tr>
 </tbody></table>

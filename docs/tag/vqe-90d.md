@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06971.html">Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware</a></div></td>
+<td>Yuqi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06971">2607.06971</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28742.html">MetaMorphQ: Physics-Based Metamorphic Testing of Variational Quantum Circuits</a></div></td>
 <td>Ngoc Nhi Nguyen et al.</td>
@@ -50,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23138.html">Classical State Preparation for Variational Quantum Algorithms via Reinforcement Learning</a></div><div class="paper-tags"><a href="qaoa-90d.html">qaoa</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
 <td>Gino Kwun et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23138">2605.23138</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07951.html">Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="qaoa-90d.html">qaoa</a></div></td>
-<td>Ryo Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07951">2604.07951</a></td>
 </tr>
 </tbody></table>

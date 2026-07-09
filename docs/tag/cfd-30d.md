@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04495.html">U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="les-30d.html">les</a></div></td>
 <td>Shixiong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04495">2607.04495</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06587.html">CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed by Conservation Laws</a></div></td>
+<td>Adnan Harun Doğan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06587">2607.06587</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>
@@ -62,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17121.html">Regularized Machine Learning for System Identification of Ship Free-Running Manoeuvres from CFD-Based Synthetic Data: A Comparative Study</a></div></td>
 <td>R. F. Suárez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17121">2606.17121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09963.html">Geometry-Aware Anisotropic Boundary Correction for Aerodynamic Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Xin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09963">2606.09963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20655.html">Input-schema identifiability limits in physics-informed surrogates for mechanics-governed flow</a></div></td>
-<td>Daniel Cieslak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20655">2606.20655</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.06091">2607.06091</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Sonal Ankush Chibire et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06479">2607.06479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06841.html">Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Robert Gruhlke et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06841">2607.06841</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04967.html">Estimating Hydrodynamic Coefficients for Floating Offshore Structures from Movement Data Using Physics-Informed Neural Networks</a></div></td>
 <td>Anders Schou et al.</td>
@@ -890,17 +902,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Vikas Dwivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07755.html">Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Brenda Anague et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07755">2512.07755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08453.html">Hard-constrained Physics-informed Neural Networks for Interface Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Seung Whan Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08453">2604.08453</a></td>
 </tr>
 </tbody></table>

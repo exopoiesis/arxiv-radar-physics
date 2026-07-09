@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">812 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07682.html">Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
+<td>Xiangming Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07682">2607.07682</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06002.html">Solving Hamiltonian Constraint Equation with Physics-Informed Neural Networks</a></div></td>
@@ -32,6 +44,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06348.html">Physics-Informed Neural Embeddings of PDE Solution Families</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06348">2607.06348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Sonal Ankush Chibire et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06479">2607.06479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06500.html">Leveraging Metrologically Useful States in Quantum Reservoir Networks</a></div></td>
+<td>Erik L. Connerty et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06500">2607.06500</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>
@@ -4880,11 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11130.html">Adaptive Reduced Basis Trust Region Methods for Parabolic Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Michael Kartmann et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11130">2507.11130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09757.html">Energy Dissipation Rate Guided Adaptive Sampling for Physics-Informed Neural Networks: Resolving Surface-Bulk Dynamics in Allen-Cahn Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Chunyan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09757">2507.09757</a></td>
 </tr>
 </tbody></table>

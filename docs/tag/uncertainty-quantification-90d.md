@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -830,23 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19958.html">Introducing RobustiPy: An efficient next generation multiversal library with model selection, averaging, resampling, and explainable artificial intelligence</a></div></td>
 <td>Daniel Valdenegro et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19958">2506.19958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13973.html">Learning relaxation time distributions from spectral induced polarization data with a complex-valued variational autoencoder</a></div></td>
-<td>Charles L. Bérubé et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13973">2603.13973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07675.html">FireSenseNet: A Dual-Branch CNN with Cross-Attentive Feature Interaction for Next-Day Wildfire Spread Prediction</a></div></td>
-<td>Jinzhen Han et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07675">2604.07675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07746.html">Towards Rapid Constitutive Model Discovery from Multi-Modal Data: Physics Augmented Finite Element Model Updating (paFEMU)</a></div></td>
-<td>Jingye Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07746">2604.07746</a></td>
 </tr>
 </tbody></table>

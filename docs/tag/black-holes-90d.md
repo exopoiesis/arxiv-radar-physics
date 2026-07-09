@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Felipe Agurto-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03904.html">Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Subhajit Dandapat et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12800.html">Spectroscopy of analogue black holes using simulation-based inference</a></div></td>
 <td>Leonardo Solidoro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12800">2604.12800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08671.html">Analog regular black holes and black hole mimickers for surface-gravity waves in fluids</a></div></td>
-<td>Valentin Pomakov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08671">2604.08671</a></td>
 </tr>
 </tbody></table>

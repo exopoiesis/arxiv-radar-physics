@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07189.html">Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks</a></div></td>
+<td>Ethan Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07189">2607.07189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07468.html">Statistical inverse learning and $\ell^1$-regularization</a></div></td>
+<td>Abhishake Rastogi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07468">2607.07468</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06252.html">A Convex Approximation Framework for Neural Likelihood-Based Bayesian Inverse Problems</a></div></td>
 <td>Fabian Schneider et al.</td>
@@ -164,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10951.html">Dynamic inverse problems: Single-loop online algorithms</a></div></td>
 <td>Jyrki Jauhiainen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10951">2606.10951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08956.html">From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Conor Rowan</td>
-<td><a href="http://arxiv.org/abs/2606.08956">2606.08956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09001.html">JAX-AMG: A GPU-Accelerated Differentiable Sparse Linear Solver Library for JAX</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Yi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09001">2606.09001</a></td>
 </tr>
 </tbody></table>

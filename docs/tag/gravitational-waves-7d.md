@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06736.html">The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves</a></div></td>
+<td>Ayan Mitra</td>
+<td><a href="http://arxiv.org/abs/2607.06736">2607.06736</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03885.html">Identifying lensed gravitational waves with physics-informed posterior learning</a></div><div class="paper-tags"><a href="dark-matter-7d.html">dark-matter</a></div></td>
 <td>Tian-Yang Sun et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03904.html">Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Subhajit Dandapat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03904">2607.03904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="black-holes-7d.html">black-holes</a> · <a href="ligo-7d.html">ligo</a></div></td>
-<td>Bhavya Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
 </tr>
 </tbody></table>

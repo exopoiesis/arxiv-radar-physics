@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">571 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3440,17 +3440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10381.html">Improving Remote Sensing Classification using Topological Data Analysis and Convolutional Neural Networks</a></div></td>
 <td>Aaryam Sharma</td>
 <td><a href="http://arxiv.org/abs/2507.10381">2507.10381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09541.html">DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection</a></div></td>
-<td>Zihao Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09541">2507.09541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09562.html">Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges</a></div></td>
-<td>Yidong Jiang</td>
-<td><a href="http://arxiv.org/abs/2507.09562">2507.09562</a></td>
 </tr>
 </tbody></table>

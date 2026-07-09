@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07068.html">Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors</a></div></td>
+<td>Alexis L. Quintana et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07068">2607.07068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07477.html">Population statistics of nanohertz gravitational wave sources</a></div></td>
+<td>Jiming Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07477">2607.07477</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06697.html">Impact and measurability of linear relativistic effects in galaxy surveys</a></div></td>
+<td>Robin Y. Wen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06697">2607.06697</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00565.html">Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data</a></div></td>
@@ -674,17 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17038.html">Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Brandon Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17038">2512.17038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08162.html">Bayesian Tendon Breakage Localization under Model Uncertainty Using Distributed Fiber Optic Sensors</a></div></td>
-<td>Daniel Andrés Arcones et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08162">2604.08162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18598.html">Bathymetry Reconstruction by Bayesian Inference</a></div><div class="paper-tags"><a href="oceanography-90d.html">oceanography</a></div></td>
-<td>Lars Stietz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18598">2604.18598</a></td>
 </tr>
 </tbody></table>

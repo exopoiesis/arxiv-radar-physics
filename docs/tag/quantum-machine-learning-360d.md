@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3110,23 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11401.html">Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Mehri Mehrnia et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11401">2507.11401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10635.html">Formal Verification of Variational Quantum Circuits</a></div></td>
-<td>Nicola Assolini et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10635">2507.10635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12485.html">Quantum Transfer Learning to Boost Dementia Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Sounak Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12485">2507.12485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19505.html">Comparing Quantum Machine Learning Approaches in Astrophysical Signal Detection</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="qml-360d.html">qml</a></div></td>
-<td>Mansur Ziiatdinov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19505">2507.19505</a></td>
 </tr>
 </tbody></table>

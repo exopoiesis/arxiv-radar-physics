@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">708 papers</span>
+  <span class="paper-count">707 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4256,11 +4256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11739.html">Sparse Identification of Nonlinear Dynamics with Conformal Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Urban Fasel</td>
 <td><a href="http://arxiv.org/abs/2507.11739">2507.11739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10352.html">Improved Sum-of-Squares Stability Verification of Neural-Network-Based Controllers</a></div></td>
-<td>Alvaro Detailleur et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10352">2507.10352</a></td>
 </tr>
 </tbody></table>

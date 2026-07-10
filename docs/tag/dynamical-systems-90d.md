@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,23 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09667.html">Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Shinhoo Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09667">2602.09667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06416.html">Online Subspace Learning on Flag Manifolds for System Identification</a></div></td>
-<td>Dian Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06416">2511.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06609.html">A Weak Penalty Neural ODE for Learning Chaotic Dynamics from Noisy Time Series</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Xuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06609">2511.06609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09074.html">A Bayesian Perspective on the Data-Driven LQR</a></div></td>
-<td>Thierry Schwaller et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09074">2604.09074</a></td>
 </tr>
 </tbody></table>

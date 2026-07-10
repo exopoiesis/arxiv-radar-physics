@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,23 +872,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10004.html">Universality and ambiguity in extremes of anomalous diffusion</a></div></td>
 <td>Sean D Lawley</td>
 <td><a href="http://arxiv.org/abs/2604.10004">2604.10004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08357.html">Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training</a></div></td>
-<td>Constantin Le Cleï et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08357">2604.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08945.html">TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches</a></div></td>
-<td>Langzhe Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08945">2604.08945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09058.html">PDE-regularized Dynamics-informed Diffusion with Uncertainty-aware Filtering for Long-Horizon Dynamics</a></div></td>
-<td>Min Young Baeg et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09058">2604.09058</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,17 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10008.html">Raiven: LLM-Based Visualization Authoring via Domain-Specific Language Mediation</a></div></td>
 <td>Alexandra Irger et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10008">2604.10008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09290.html">ToolRosetta: Scalable Tool Access for Open-World Scientific Agents</a></div></td>
-<td>Shimin Di et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09290">2603.09290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09793.html">GIANTS: Generative Insight Anticipation from Scientific Literature</a></div></td>
-<td>Joy He-Yueya et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09793">2604.09793</a></td>
 </tr>
 </tbody></table>

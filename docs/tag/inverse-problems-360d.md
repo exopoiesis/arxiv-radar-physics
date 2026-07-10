@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2450,17 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11130.html">Adaptive Reduced Basis Trust Region Methods for Parabolic Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Michael Kartmann et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11130">2507.11130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18423.html">Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equations</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Joshua Fagin et al.</td>
-<td><a href="http://arxiv.org/abs/2410.18423">2410.18423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10677.html">Unifying Chemical and Electrochemical Thermodynamics of Electrodes</a></div></td>
-<td>Archie Mingze Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10677">2507.10677</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,29 +1046,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12982.html">RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Pablo Herrera et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12982">2603.12982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11467.html">On $L^\infty$ stability for wave propagation and for linear inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Rima Alaifari et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11467">2410.11467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00491.html">Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Shuwei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00491">2601.00491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08869.html">Adaptive Randomized Neural Networks with Locally Activation Function: Theory and Algorithm for Solving PDEs</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08869">2604.08869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09289.html">Meta-Learned Basis Adaptation for Parametric Linear PDEs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Vikas Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09289">2604.09289</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">609 papers</span>
+  <span class="paper-count">608 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3662,11 +3662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15874.html">Sketch-based Fluid Video Generation Using Motion-Guided Diffusion Models in Still Landscape Images</a></div></td>
 <td>Hao Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15874">2510.15874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10463.html">Solving the compute crisis with physics-based ASICs</a></div></td>
-<td>Maxwell Aifer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10463">2507.10463</a></td>
 </tr>
 </tbody></table>

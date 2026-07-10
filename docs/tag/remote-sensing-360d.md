@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">571 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3422,23 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11523.html">Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection</a></div></td>
 <td>Buddhi Wijenayake et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11523">2507.11523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03504.html">Information-Bottleneck Driven Binary Neural Network for Change Detection</a></div></td>
-<td>Kaijie Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03504">2507.03504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10283.html">FTCFormer: Fuzzy Token Clustering Transformer for Image Classification</a></div></td>
-<td>Muyi Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10283">2507.10283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10381.html">Improving Remote Sensing Classification using Topological Data Analysis and Convolutional Neural Networks</a></div></td>
-<td>Aaryam Sharma</td>
-<td><a href="http://arxiv.org/abs/2507.10381">2507.10381</a></td>
 </tr>
 </tbody></table>

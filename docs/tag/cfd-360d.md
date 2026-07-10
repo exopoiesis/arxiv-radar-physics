@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13404.html">AortaDiff: Volume-Guided Conditional Diffusion Models for Multi-Branch Aortic Surface Generation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Delin An et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13404">2507.13404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10747.html">A Benchmarking Framework for AI models in Automotive Aerodynamics</a></div></td>
-<td>Kaustubh Tangsali et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10747">2507.10747</a></td>
 </tr>
 </tbody></table>

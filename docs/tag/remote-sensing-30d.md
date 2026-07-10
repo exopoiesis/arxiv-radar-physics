@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13896.html">How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?</a></div></td>
 <td>Julia Romero et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13896">2606.13896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10329.html">Building Change Detection in Earthquake: A Multi-Scale Interaction Network and A Change Detection Dataset</a></div></td>
-<td>Yunlong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10329">2606.10329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10373.html">PF-Trans: Physics-Embedded Frequency-Aware Transformer for Spectral Reconstruction</a></div></td>
-<td>Yuzhe Gui et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10373">2606.10373</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16168.html">FuXi-TC: A generative framework integrating deep learning and physics-based models for improved tropical cyclone forecasts</a></div></td>
 <td>Shan Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16168">2508.16168</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09041.html">U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster</a></div></td>
-<td>Salva Rühling Cachay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09041">2604.09041</a></td>
 </tr>
 </tbody></table>

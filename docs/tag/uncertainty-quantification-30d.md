@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,23 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div></td>
 <td>Clemens Wager et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10370.html">Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Shaoqian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10370">2606.10370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10836.html">Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Maximilian Ramgraber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10836">2606.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10873.html">Spatial Model Selection and Uncertainty Quantification: Comparing Continuous and Discrete Wound Healing Models</a></div></td>
-<td>John T. Nardini et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10873">2606.10873</a></td>
 </tr>
 </tbody></table>

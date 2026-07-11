@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Daniel Pranjić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08350">2607.08350</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
 <td>Rahul Bandyopadhyay et al.</td>
@@ -1106,11 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19852.html">Quantum Long Short-Term Memory for Drug Discovery</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Liang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2407.19852">2407.19852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11401.html">Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Mehri Mehrnia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11401">2507.11401</a></td>
 </tr>
 </tbody></table>

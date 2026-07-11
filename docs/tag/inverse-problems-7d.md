@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08074.html">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Steven Maio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08074">2607.08074</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07189.html">Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks</a></div></td>
 <td>Ethan Chung et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03772.html">Level-set physics-informed neural networks for domain inverse problems of gravimetry</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Jingnan Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03772">2607.03772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03039.html">Out-of-distribution Neural Inference in Dynamical Ising Models</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
-<td>Yuan-Bin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03039">2607.03039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03355.html">Amortized low-rank approximation for hyperparameter marginalization in PDE-governed Bayesian inverse problems</a></div></td>
-<td>Sonia Reilly et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03355">2607.03355</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08044.html">Catching Disguised Transients with ASTRANet: Anomaly-Aware Spectroscopic Classification and Conformal Calibration</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Argyro Sasli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08044">2607.08044</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Zhijian Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
@@ -818,11 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10854.html">Uncertainty-Aware Sparse Identification of Dynamical Systems via Bayesian Model Averaging</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Shuhei Kashiwamura et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10854">2604.10854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10059.html">Data-adaptive spline surfaces for non-separable hyperelastic energy functions</a></div></td>
-<td>Simon Wiesheier et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10059">2604.10059</a></td>
 </tr>
 </tbody></table>

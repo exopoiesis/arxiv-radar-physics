@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">516 papers</span>
+  <span class="paper-count">517 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Daniel Pranjić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08350">2607.08350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07927.html">Invariance Audits for Quantum Kernels and Variational Rewinding: A Real-to-Hermitian Taxonomy of Projector, Flag, Anchor, and Density Geometry</a></div></td>
+<td>Azadeh Alavi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07927">2607.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06307.html">Quantum Probabilistic Local Differential Privacy: Structural Properties and Sample Complexity Bounds</a></div></td>
@@ -3104,11 +3116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12505.html">Leveraging Quantum Layers in Classical Neural Networks</a></div></td>
 <td>Silvie Illésová</td>
 <td><a href="http://arxiv.org/abs/2507.12505">2507.12505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11401.html">Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Mehri Mehrnia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11401">2507.11401</a></td>
 </tr>
 </tbody></table>

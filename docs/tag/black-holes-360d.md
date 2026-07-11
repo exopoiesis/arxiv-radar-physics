@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,11 +614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13454.html">Functional inference on deviations from General Relativity</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Costantino Pacilio et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13454">2507.13454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11442.html">Identifying galactic binary systems of neutron stars and black holes with LISA</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Hannah Middleton et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11442">2507.11442</a></td>
 </tr>
 </tbody></table>

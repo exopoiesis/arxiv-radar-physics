@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
+<td>Zixin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
@@ -860,17 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12156.html">SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
 <td>Chen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12156">2507.12156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18344.html">Improved Sample Complexity For Diffusion Model Training Without Empirical Risk Minimizer Access</a></div></td>
-<td>Mudit Gaur et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18344">2505.18344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10004.html">Universality and ambiguity in extremes of anomalous diffusion</a></div></td>
-<td>Sean D Lawley</td>
-<td><a href="http://arxiv.org/abs/2604.10004">2604.10004</a></td>
 </tr>
 </tbody></table>

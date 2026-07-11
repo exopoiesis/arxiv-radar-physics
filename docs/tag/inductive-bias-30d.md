@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.05787">2607.05787</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06675.html">Spectral Born machines: classically trainable quantum generative models for discrete data</a></div></td>
+<td>Austin Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06675">2607.06675</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05167.html">MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Janine Strotherm et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16900.html">Factorized Neural Operators Decompose Dynamic and Persistent Responses</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Hao Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16900">2606.16900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div></td>
-<td>Isam A. Balghari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
 </tr>
 </tbody></table>

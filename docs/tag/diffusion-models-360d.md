@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
+<td>Zixin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
 <td>Ziyu Luo et al.</td>
@@ -3656,11 +3662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02179.html">CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality</a></div></td>
 <td>Yiqin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2411.02179">2411.02179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15874.html">Sketch-based Fluid Video Generation Using Motion-Guided Diffusion Models in Still Landscape Images</a></div></td>
-<td>Hao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15874">2510.15874</a></td>
 </tr>
 </tbody></table>

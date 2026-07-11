@@ -17,6 +17,12 @@ current_window: 7d
 <tbody>
 <tr class="paper">
 <td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07084.html">Inverse Low-Dimensional Manifold Reconstruction Framework for Spatiotemporal Reconstruction of Compressible Physical Fields</a></div></td>
+<td>Qiang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07084">2607.07084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07682.html">Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Xiangming Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07682">2607.07682</a></td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03861.html">Approximate Dynamic Optimization via Deep Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Amin Nassaji et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03861">2607.03861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03311.html">Operator Learning in Lattice QCD: Spectral Reconstruction</a></div><div class="paper-tags"><a href="lattice-qcd-7d.html">lattice-qcd</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Alessandro De Santis</td>
-<td><a href="http://arxiv.org/abs/2607.03311">2607.03311</a></td>
 </tr>
 </tbody></table>

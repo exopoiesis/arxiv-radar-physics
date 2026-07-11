@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08641.html">Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence</a></div></td>
+<td>Yann Claes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08641">2607.08641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07893.html">Reachability-Preserving Bellman Operator for the Discounted Reach-Cost Value Function: Uniting Hamilton-Jacobi Reachability and Reinforcement Learning</a></div></td>
+<td>Isabelle El-Hajj et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07893">2607.07893</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="neural-differential-equations-90d.html">neural-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Syed Pouladi</td>
@@ -956,17 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10854.html">Uncertainty-Aware Sparse Identification of Dynamical Systems via Bayesian Model Averaging</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Shuhei Kashiwamura et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10854">2604.10854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03814.html">Detecting Invariant Manifolds in ReLU-Based RNNs</a></div></td>
-<td>Lukas Eisenmann et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03814">2510.03814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09667.html">Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Shinhoo Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09667">2602.09667</a></td>
 </tr>
 </tbody></table>

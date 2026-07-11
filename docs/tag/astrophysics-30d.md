@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>astrophysics — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <strong>30d</strong> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12832.html">Data-driven modeling of Galactic diffuse emission with multi-wavelength observations</a></div></td>
 <td>Xi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12832">2606.12832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Antonio Pagliaro et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
 </tr>
 </tbody></table>

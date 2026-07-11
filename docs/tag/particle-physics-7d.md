@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03153.html">RTL Fault Injection of a Deployed Graph Neural Network Trigger for Belle II</a></div><div class="paper-tags"><a href="high-energy-physics-7d.html">high-energy-physics</a></div></td>
-<td>Georgios Sotiropoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03153">2607.03153</a></td>
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08131.html">Early Career Issues in Particle Physics</a></div><div class="paper-tags"><a href="dark-matter-7d.html">dark-matter</a></div></td>
+<td>Saptaparna Bhattacharya</td>
+<td><a href="http://arxiv.org/abs/2607.08131">2607.08131</a></td>
 </tr>
 </tbody></table>

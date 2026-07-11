@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">340 papers</span>
+  <span class="paper-count">341 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08131.html">Early Career Issues in Particle Physics</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
+<td>Saptaparna Bhattacharya</td>
+<td><a href="http://arxiv.org/abs/2607.08131">2607.08131</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06147.html">Imprint of swampland-inspired coupled early dark energy</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>

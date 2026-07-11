@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04293.html">CausalGame: Benchmarking Causal Thinking of LLM Agents in Games</a></div></td>
 <td>Zhenhao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04293">2607.04293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03039.html">Out-of-distribution Neural Inference in Dynamical Ising Models</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Yuan-Bin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03039">2607.03039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03574.html">Differentiate the Evaluator, Not the Program: An Efficient Runtime Representation for Neuro-Symbolic Learning</a></div></td>
-<td>Lucas Sheneman</td>
-<td><a href="http://arxiv.org/abs/2607.03574">2607.03574</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,11 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12540.html">Systematics from NICER Pulse Profiles Drive Uncertainty in Multi-Messenger Inference of the Neutron Star Equation of State</a></div></td>
 <td>Bhaskar Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12540">2507.12540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11442.html">Identifying galactic binary systems of neutron stars and black holes with LISA</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Hannah Middleton et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11442">2507.11442</a></td>
 </tr>
 </tbody></table>

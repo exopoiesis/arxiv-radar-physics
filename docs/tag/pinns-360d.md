@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -3752,17 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12659.html">Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Athanasios Papastathopoulos-Katsaros et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12659">2507.12659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04354.html">BridgeNet: A Hybrid, Physics-Informed Machine Learning Framework for Solving High-Dimensional Fokker-Planck Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Elmira Mirzabeigi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04354">2506.04354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10983.html">Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10983">2507.10983</a></td>
 </tr>
 </tbody></table>

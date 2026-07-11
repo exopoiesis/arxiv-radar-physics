@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Felipe Agurto-Sepúlveda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07623.html">Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates</a></div></td>
+<td>Jianing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07623">2607.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07874.html">Unveiling Semiclassical Structures in Quantum Chaotic Eigenstates Using Neural Networks</a></div></td>
+<td>J. Montes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07874">2607.07874</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -248,29 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14181.html">Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Mikel Landajuela</td>
 <td><a href="http://arxiv.org/abs/2606.14181">2606.14181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12050.html">Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Ismail Huseynov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12050">2606.12050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12658.html">Physics-Informed Neural Networks for Chemotherapy Pharmacokinetics: Benchmarking the Clinical Estimator and Exposing Parameter Identifiability</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Riya Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12658">2606.12658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Manuel Reyna et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
 </tr>
 </tbody></table>

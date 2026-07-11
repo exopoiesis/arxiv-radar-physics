@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08207.html">Learned Committors as Reaction Coordinates for Nucleation Rates</a></div></td>
+<td>Hubert J. Naguszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08207">2607.08207</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07460.html">Social-spatial dependencies for learning visual navigation</a></div></td>

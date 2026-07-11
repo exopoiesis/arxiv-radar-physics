@@ -22,9 +22,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.06287">2607.06287</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03311.html">Operator Learning in Lattice QCD: Spectral Reconstruction</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="lattice-qcd-7d.html">lattice-qcd</a></div></td>
-<td>Alessandro De Santis</td>
-<td><a href="http://arxiv.org/abs/2607.03311">2607.03311</a></td>
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07718.html">LLT: Local Linear Transformer for PDE Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Oded Ovadia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07718">2607.07718</a></td>
 </tr>
 </tbody></table>

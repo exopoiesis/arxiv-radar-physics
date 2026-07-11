@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13662.html">EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery</a></div></td>
 <td>Amy Xin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13662">2606.13662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11897.html">Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills</a></div></td>
-<td>Shi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11897">2606.11897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12736.html">Benchmarking AI Agents for Addressing Scientific Challenges Across Scales</a></div></td>
-<td>Tianyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12736">2606.12736</a></td>
 </tr>
 </tbody></table>

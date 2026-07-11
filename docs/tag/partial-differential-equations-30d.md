@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08074.html">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Steven Maio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08074">2607.08074</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
@@ -272,41 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Chengyang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Handi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11963.html">HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Mostafa Bamdad et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11963">2606.11963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Ana Larrañaga et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12719.html">A Multiplexing Design Space: Theory, Method, and Application</a></div></td>
-<td>Yiwen Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12719">2606.12719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Manuel Reyna et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
 </tr>
 </tbody></table>

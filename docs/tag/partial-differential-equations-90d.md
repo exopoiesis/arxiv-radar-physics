@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08074.html">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Steven Maio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08074">2607.08074</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>

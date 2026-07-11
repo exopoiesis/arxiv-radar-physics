@@ -16,21 +16,21 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08044.html">Catching Disguised Transients with ASTRANet: Anomaly-Aware Spectroscopic Classification and Conformal Calibration</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a></div></td>
+<td>Argyro Sasli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08044">2607.08044</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
+<td>Zhijian Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="sciml-7d.html">sciml</a></div></td>
 <td>Ana Fernandez Navamuel et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05025">2607.05025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03212.html">Uncertainty Quantification Study of a Re-entry Breakup</a></div></td>
-<td>Tommy Williamson et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03212">2607.03212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03217.html">Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models</a></div><div class="paper-tags"><a href="hydrology-7d.html">hydrology</a></div></td>
-<td>Karan Ruparell et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03217">2607.03217</a></td>
 </tr>
 </tbody></table>

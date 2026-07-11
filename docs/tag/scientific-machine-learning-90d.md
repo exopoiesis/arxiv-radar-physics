@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18679.html">Transformers for dynamical systems learn transfer operators in-context</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Anthony Bao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18679">2602.18679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09667.html">Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Shinhoo Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09667">2602.09667</a></td>
 </tr>
 </tbody></table>

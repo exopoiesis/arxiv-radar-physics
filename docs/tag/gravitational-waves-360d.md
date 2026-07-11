@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20996.html">Parameter inference of microlensed gravitational waves using neural spline flows</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Zheng Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20996">2505.20996</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11442.html">Identifying galactic binary systems of neutron stars and black holes with LISA</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Hannah Middleton et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11442">2507.11442</a></td>
 </tr>
 </tbody></table>

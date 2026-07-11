@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">630 papers</span>
+  <span class="paper-count">631 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Felipe Agurto-Sepúlveda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07623.html">Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates</a></div></td>
+<td>Jianing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07623">2607.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07874.html">Unveiling Semiclassical Structures in Quantum Chaotic Eigenstates Using Neural Networks</a></div></td>
+<td>J. Montes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07874">2607.07874</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -3782,17 +3800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12659.html">Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Athanasios Papastathopoulos-Katsaros et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12659">2507.12659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04354.html">BridgeNet: A Hybrid, Physics-Informed Machine Learning Framework for Solving High-Dimensional Fokker-Planck Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Elmira Mirzabeigi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04354">2506.04354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10983.html">Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10983">2507.10983</a></td>
 </tr>
 </tbody></table>

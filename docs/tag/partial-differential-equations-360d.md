@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">815 papers</span>
+  <span class="paper-count">814 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08074.html">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Steven Maio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08074">2607.08074</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -4886,23 +4898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12766.html">Layer Separation Deep Learning Model with Auxiliary Variables for Partial Differential Equations</a></div></td>
 <td>Yaru Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12766">2507.12766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04140.html">Synthetic Datasets for Machine Learning on Spatio-Temporal Graphs using PDEs</a></div></td>
-<td>Jost Arndt et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04140">2502.04140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10983.html">Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Tao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10983">2507.10983</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11130.html">Adaptive Reduced Basis Trust Region Methods for Parabolic Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Michael Kartmann et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11130">2507.11130</a></td>
 </tr>
 </tbody></table>

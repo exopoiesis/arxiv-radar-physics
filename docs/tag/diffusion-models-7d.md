@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
+<td>Zixin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
 <td>Ziyu Luo et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div></td>
 <td>Charley Schaefer et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05154">2607.05154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03470.html">PhysMirror: Physics-Aware Mirror Object Generation</a></div></td>
-<td>Xuan-Bach Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03470">2607.03470</a></td>
 </tr>
 </tbody></table>

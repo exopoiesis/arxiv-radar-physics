@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10718.html">SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?</a></div></td>
 <td>Udari Madhushani Sehwag et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10718">2604.10718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10008.html">Raiven: LLM-Based Visualization Authoring via Domain-Specific Language Mediation</a></div></td>
-<td>Alexandra Irger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10008">2604.10008</a></td>
 </tr>
 </tbody></table>

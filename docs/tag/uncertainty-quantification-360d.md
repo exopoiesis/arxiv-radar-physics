@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08044.html">Catching Disguised Transients with ASTRANet: Anomaly-Aware Spectroscopic Classification and Conformal Calibration</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Argyro Sasli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08044">2607.08044</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Zhijian Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05025.html">Uncertainty-aware damage identification in short-span bridges via physics-informed variational autoencoder</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
@@ -3302,23 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12358.html">Surrogate modeling for uncertainty quantification in nonlinear dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>S. Marelli et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12358">2507.12358</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11136.html">Interpretable Bayesian Tensor Network Kernel Machines with Automatic Rank and Feature Selection</a></div></td>
-<td>Afra Kilic et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11136">2507.11136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11574.html">Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Kazuma Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11574">2507.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11739.html">Sparse Identification of Nonlinear Dynamics with Conformal Prediction</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Urban Fasel</td>
-<td><a href="http://arxiv.org/abs/2507.11739">2507.11739</a></td>
 </tr>
 </tbody></table>

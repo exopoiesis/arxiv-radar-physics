@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08562.html">XShooter DESI Lens Program: Sample characterization</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>Eric Jullo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08562">2607.08562</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06959.html">KAN-LSTM-Transformer Neural Networks, MFV and Cosmological Parameters</a></div></td>
 <td>Jiang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06959">2607.06959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Zhijian Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -92,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13936.html">The baryonic Tully-Fisher relation as an independent direct probe of cosmology and of the nature of dark matter</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a> · <a href="galaxy-formation-30d.html">galaxy-formation</a> · <a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
 <td>Francesco Sinigaglia</td>
 <td><a href="http://arxiv.org/abs/2606.13936">2606.13936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Antonio Pagliaro et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
 </tr>
 </tbody></table>

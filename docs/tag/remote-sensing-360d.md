@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08004.html">LOGOS: Language-guided Oriented Object Detection in Aerial Scenes</a></div></td>
+<td>Trong-Thuan Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08004">2607.08004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08449.html">Predicting Viticulture Potential through an Ensemble of U-Net and a Geospatial Foundation Model</a></div></td>
+<td>Jorge Ignacio Perez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08449">2607.08449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07758.html">Scalable and Trustworthy Earth Observation Foundation Models</a></div></td>
+<td>Syed Usama Imtiaz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07758">2607.07758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04603.html">LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection</a></div></td>
 <td>Tianfang Zhang et al.</td>
@@ -3404,23 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00858.html">Deploying Geospatial Foundation Models in the Real World: Lessons from WorldCereal</a></div></td>
 <td>Christina Butsko et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00858">2508.00858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19043.html">Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing</a></div></td>
-<td>Genc Hoxha et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19043">2501.19043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11143.html">RMAU-NET: A Residual-Multihead-Attention U-Net Architecture for Landslide Segmentation and Detection from Remote Sensing Images</a></div></td>
-<td>Lam Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11143">2507.11143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11523.html">Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection</a></div></td>
-<td>Buddhi Wijenayake et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11523">2507.11523</a></td>
 </tr>
 </tbody></table>

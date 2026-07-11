@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19378.html">A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
 <td>Hyeonbin Moon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19378">2606.19378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Handi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
 </tr>
 </tbody></table>

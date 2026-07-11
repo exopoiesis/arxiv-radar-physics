@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Jiahao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08130">2607.08130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06091.html">Mass-Conserving Physics-Informed Neural Networks For The One-Dimensional Advection-Diffusion Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Eszra Forenita Sigalingging et al.</td>
@@ -890,11 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12982.html">RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Pablo Herrera et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12982">2603.12982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09667.html">Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Shinhoo Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09667">2602.09667</a></td>
 </tr>
 </tbody></table>

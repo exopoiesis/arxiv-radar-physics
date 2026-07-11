@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08641.html">Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence</a></div></td>
+<td>Yann Claes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08641">2607.08641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07893.html">Reachability-Preserving Bellman Operator for the Discounted Reach-Cost Value Function: Uniting Hamilton-Jacobi Reachability and Reinforcement Learning</a></div></td>
+<td>Isabelle El-Hajj et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07893">2607.07893</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="neural-differential-equations-360d.html">neural-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Syed Pouladi</td>
@@ -4244,17 +4256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12358.html">Surrogate modeling for uncertainty quantification in nonlinear dynamics</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>S. Marelli et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12358">2507.12358</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11314.html">Nonlinear Joint Spectral Radius</a></div></td>
-<td>Piero Deidda et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11314">2507.11314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11739.html">Sparse Identification of Nonlinear Dynamics with Conformal Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Urban Fasel</td>
-<td><a href="http://arxiv.org/abs/2507.11739">2507.11739</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.06287">2607.06287</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07718.html">LLT: Local Linear Transformer for PDE Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Oded Ovadia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07718">2607.07718</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03311.html">Operator Learning in Lattice QCD: Spectral Reconstruction</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
 <td>Alessandro De Santis</td>
@@ -1706,11 +1712,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16344.html">Diff-ANO: Towards Fast High-Resolution Ultrasound Computed Tomography via Conditional Consistency Models and Adjoint Neural Operators</a></div></td>
 <td>Xiang Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16344">2507.16344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11574.html">Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Kazuma Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11574">2507.11574</a></td>
 </tr>
 </tbody></table>

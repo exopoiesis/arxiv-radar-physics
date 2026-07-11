@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Daniel Pranjić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08350">2607.08350</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a></div></td>

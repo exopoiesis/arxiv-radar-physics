@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.05787">2607.05787</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06675.html">Spectral Born machines: classically trainable quantum generative models for discrete data</a></div></td>
+<td>Austin Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06675">2607.06675</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05167.html">MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Janine Strotherm et al.</td>
@@ -362,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13369.html">AeTHERON: Autoregressive Topology-aware Heterogeneous Graph Operator Network for Fluid-Structure Interaction</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Sushrut Kumar</td>
 <td><a href="http://arxiv.org/abs/2604.13369">2604.13369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10367.html">Beyond Monologue: Interactive Talking-Listening Avatar Generation with Conversational Audio Context-Aware Kernels</a></div></td>
-<td>Yuzhe Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10367">2604.10367</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08004.html">LOGOS: Language-guided Oriented Object Detection in Aerial Scenes</a></div></td>
+<td>Trong-Thuan Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08004">2607.08004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08449.html">Predicting Viticulture Potential through an Ensemble of U-Net and a Geospatial Foundation Model</a></div></td>
+<td>Jorge Ignacio Perez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08449">2607.08449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07758.html">Scalable and Trustworthy Earth Observation Foundation Models</a></div></td>
+<td>Syed Usama Imtiaz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07758">2607.07758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04603.html">LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection</a></div></td>
 <td>Tianfang Zhang et al.</td>
@@ -32,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03760.html">GeoSAM-Lite: A Lightweight Foundation Model for Onboard Remote Sensing Segmentation</a></div></td>
 <td>Yongcong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03760">2607.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03298.html">A harmonised dataset for Earth system foundation models</a></div></td>
-<td>Carlos Rodriguez-Pardo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03298">2607.03298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03320.html">LBTCap: A Lightweight Bilateral Transformer for Real-Time Remote Sensing Image Change Captioning</a></div></td>
-<td>Licheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03320">2607.03320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03644.html">Moonstone: A Multimodal Foundation Model and Benchmark for Lunar Remote Sensing</a></div></td>
-<td>Ayush Prasad et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03644">2607.03644</a></td>
 </tr>
 </tbody></table>

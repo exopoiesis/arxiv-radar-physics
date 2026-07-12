@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,11 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11956.html">Modified gravitational wave propagations in linearized gravity with Lorentz and diffeomorphism violations and their gravitational wave constraints</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Qiang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11956">2501.11956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20996.html">Parameter inference of microlensed gravitational waves using neural spline flows</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Zheng Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20996">2505.20996</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">213 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1292,11 +1292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13297.html">The Making of a Community Dark Matter Dataset with the National Science Data Fabric</a></div></td>
 <td>Amy Roberts et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13297">2507.13297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11842.html">CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching</a></div></td>
-<td>Sidharth Kannan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11842">2507.11842</a></td>
 </tr>
 </tbody></table>

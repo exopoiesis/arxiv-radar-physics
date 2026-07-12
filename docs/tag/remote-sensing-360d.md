@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3410,17 +3410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12939.html">A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image</a></div></td>
 <td>Hieu Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12939">2507.12939</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22027.html">Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method</a></div></td>
-<td>Han Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22027">2506.22027</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00858.html">Deploying Geospatial Foundation Models in the Real World: Lessons from WorldCereal</a></div></td>
-<td>Christina Butsko et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00858">2508.00858</a></td>
 </tr>
 </tbody></table>

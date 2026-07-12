@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,23 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11624.html">Prediction of chaotic dynamics from data: An introduction</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>Luca Magri et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11624">2604.11624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02983.html">BLADE: Bayesian Langevin Active Discovery with Replica Exchange for Identification of Complex Systems</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Cindy Xiangrui Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02983">2503.02983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18679.html">Transformers for dynamical systems learn transfer operators in-context</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Anthony Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18679">2602.18679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10854.html">Uncertainty-Aware Sparse Identification of Dynamical Systems via Bayesian Model Averaging</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Shuhei Kashiwamura et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10854">2604.10854</a></td>
 </tr>
 </tbody></table>

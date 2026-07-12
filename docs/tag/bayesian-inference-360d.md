@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,17 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21725.html">New {\em ab initio} constrained extended Skyrme equations of state for simulations of neutron stars, supernovae and binary mergers: I. Subsaturation density domain</a></div></td>
 <td>Adriana R. Raduta et al.</td>
 <td><a href="http://arxiv.org/abs/2504.21725">2504.21725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20996.html">Parameter inference of microlensed gravitational waves using neural spline flows</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Zheng Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20996">2505.20996</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12540.html">Systematics from NICER Pulse Profiles Drive Uncertainty in Multi-Messenger Inference of the Neutron Star Equation of State</a></div></td>
-<td>Bhaskar Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12540">2507.12540</a></td>
 </tr>
 </tbody></table>

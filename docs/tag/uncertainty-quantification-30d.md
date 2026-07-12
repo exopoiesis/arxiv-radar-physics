@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,35 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Chengyang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12857.html">Discrepancy Modeling with Intermediate Variables: A New Framework for Robust Gaussian Process Calibration</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Henry Shaowu Yuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12857">2606.12857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div></td>
-<td>Mao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div></td>
-<td>Ioannis Kouroudis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="rom-30d.html">rom</a></div></td>
-<td>Guglielmo Padula et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
-<td>Fabian Paischer et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3752,11 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11640.html">Quantifying data needs in surrogate modeling for flow fields in two-dimensional stirred tanks with physics-informed neural networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Veronika Trávníková et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11640">2507.11640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12659.html">Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Athanasios Papastathopoulos-Katsaros et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12659">2507.12659</a></td>
 </tr>
 </tbody></table>

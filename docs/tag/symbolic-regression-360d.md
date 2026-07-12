@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1196,11 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13033.html">(Exhaustive) Symbolic Regression and model selection by minimum description length</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Harry Desmond</td>
 <td><a href="http://arxiv.org/abs/2507.13033">2507.13033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12404.html">Neural Network-Guided Symbolic Regression for Interpretable Descriptor Discovery in Perovskite Catalysts</a></div></td>
-<td>Yeming Xian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12404">2507.12404</a></td>
 </tr>
 </tbody></table>

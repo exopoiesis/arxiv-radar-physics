@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11661.html">Towards Autonomous Mechanistic Reasoning in Virtual Cells</a></div></td>
 <td>Yunhui Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11661">2604.11661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02983.html">BLADE: Bayesian Langevin Active Discovery with Replica Exchange for Identification of Complex Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Cindy Xiangrui Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02983">2503.02983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10718.html">SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?</a></div></td>
-<td>Udari Madhushani Sehwag et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10718">2604.10718</a></td>
 </tr>
 </tbody></table>

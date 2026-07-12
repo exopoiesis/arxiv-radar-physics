@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,17 +608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13805.html">On-the-Fly Fine-Tuning of Foundational Neural Network Potentials: A Bayesian Neural Network Approach</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Tim Rensmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13805">2507.13805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17080.html">Geometric Formulation of Unified Force-Impedance Control on SE(3) for Robotic Manipulators</a></div></td>
-<td>Joohwan Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17080">2504.17080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Hendrik Kraß et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
 </tr>
 </tbody></table>

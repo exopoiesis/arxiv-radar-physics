@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09382.html">Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
+<td>Rodolphe Barlogis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09382">2607.09382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07084.html">Inverse Low-Dimensional Manifold Reconstruction Framework for Spatiotemporal Reconstruction of Compressible Physical Fields</a></div></td>
 <td>Qiang Liu et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05134.html">PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Akshat Jani et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05134">2607.05134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04407.html">Quadrature-Aware Complex-Linear Neural Operator for Boundary-to-Field Prediction in Resonant Acoustics</a></div></td>
-<td>Muhammad Idrees Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04407">2607.04407</a></td>
 </tr>
 </tbody></table>

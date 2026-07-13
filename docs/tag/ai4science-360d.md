@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ai4science — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <strong>360d</strong> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00020.html">Celler:A Genomic Language Model for Long-Tailed Single-Cell Annotation</a></div></td>
 <td>Huan Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00020">2504.00020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12803.html">FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction</a></div></td>
-<td>Qianru Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12803">2507.12803</a></td>
 </tr>
 </tbody></table>

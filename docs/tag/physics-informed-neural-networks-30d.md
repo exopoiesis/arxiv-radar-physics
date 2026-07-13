@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09071.html">Physics informed wavelet Fourier representation for multiscale fluid dynamics</a></div></td>
+<td>Chao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09071">2607.09071</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Jiahao Song et al.</td>
@@ -260,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Yong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14181.html">Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Mikel Landajuela</td>
-<td><a href="http://arxiv.org/abs/2606.14181">2606.14181</a></td>
 </tr>
 </tbody></table>

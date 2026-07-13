@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.08373">2607.08373</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08978.html">Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems</a></div></td>
+<td>Tung-Anh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08978">2607.08978</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05860.html">Autoencoder-Based Unsupervised Identification of Nonequilibrium Phases in Sheared Binary Colloids</a></div></td>
 <td>Yoshitaka Miyahara et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05307.html">Quantum Spectral Anomaly Detection</a></div></td>
 <td>Yewei Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05307">2607.05307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04219.html">Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents</a></div></td>
-<td>Rümeysa Hilal Sevinç et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04219">2607.04219</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">566 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09084.html">A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design</a></div></td>
+<td>Linhui Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09084">2607.09084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09583.html">Promptable Concept Segmentation from Above: Evaluating SAM 3&#x27;s Zero-Shot and One-Shot Capabilities in Remote Sensing</a></div></td>
+<td>Mohammad Dabaja et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09583">2607.09583</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08004.html">LOGOS: Language-guided Oriented Object Detection in Aerial Scenes</a></div></td>
@@ -3386,29 +3398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13812.html">SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing</a></div></td>
 <td>Yingying Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13812">2507.13812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07195.html">A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing</a></div></td>
-<td>Yujie Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07195">2412.07195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09953.html">4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion</a></div></td>
-<td>Zifei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09953">2507.09953</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12845.html">SEMT: Static-Expansion-Mesh Transformer Network Architecture for Remote Sensing Image Captioning</a></div></td>
-<td>Khang Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12845">2507.12845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12939.html">A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image</a></div></td>
-<td>Hieu Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12939">2507.12939</a></td>
 </tr>
 </tbody></table>

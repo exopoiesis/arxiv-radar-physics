@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15053.html">Physics-conforming Latent Twins</a></div></td>
 <td>Matthias Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15053">2606.15053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14998.html">Rumoca: Modelica as a Universal Algebraic Frontend via a Rust-Native Compiler</a></div></td>
-<td>Micah K. Condie et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14998">2606.14998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19378.html">A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling</a></div><div class="paper-tags"><a href="sciml-30d.html">sciml</a></div></td>
-<td>Hyeonbin Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19378">2606.19378</a></td>
 </tr>
 </tbody></table>

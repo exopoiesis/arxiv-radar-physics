@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09108.html">Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures</a></div></td>
+<td>Jaeuk Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09108">2607.09108</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
 <td>Zixin Guo et al.</td>
@@ -3650,11 +3656,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20863.html">Leveraging Diffusion Models for Parameterized Quantum Circuit Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Daniel Barta et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20863">2505.20863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12933.html">DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Dongyeun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12933">2507.12933</a></td>
 </tr>
 </tbody></table>

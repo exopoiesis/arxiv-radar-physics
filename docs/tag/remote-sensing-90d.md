@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09084.html">A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design</a></div></td>
+<td>Linhui Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09084">2607.09084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09583.html">Promptable Concept Segmentation from Above: Evaluating SAM 3&#x27;s Zero-Shot and One-Shot Capabilities in Remote Sensing</a></div></td>
+<td>Mohammad Dabaja et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09583">2607.09583</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08004.html">LOGOS: Language-guided Oriented Object Detection in Aerial Scenes</a></div></td>
 <td>Trong-Thuan Nguyen et al.</td>
@@ -794,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11562.html">The Impact of Federated Learning on Distributed Remote Sensing Archives</a></div></td>
-<td>Anand Umashankar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11562">2604.11562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11709.html">A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment</a></div></td>
-<td>Wanli Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11709">2604.11709</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,41 +914,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13847.html">Physics and causally constrained discrete-time neural models of turbulent dynamical systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Fabrizio Falasca et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13847">2602.13847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11077.html">Deep deterministic policy gradient with symmetric data augmentation for lateral attitude tracking control of a fixed-wing aircraft</a></div></td>
-<td>Yifei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11077">2407.11077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09389.html">Design Principles for Sequence Models via Coefficient Dynamics</a></div></td>
-<td>Jerome Sieber et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09389">2510.09389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11545.html">Incremental Data-Driven Policy Synthesis via Game Abstractions</a></div></td>
-<td>Irmak Sağlam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11545">2511.11545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21860.html">Pathwise Learning of Stochastic Dynamical Systems with Partial Observations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Nicole Tianjiao Yang</td>
-<td><a href="http://arxiv.org/abs/2601.21860">2601.21860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10967.html">Learning to Test: Physics-Informed Representation for Dynamical Instability Detection</a></div></td>
-<td>Minxing Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10967">2604.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11624.html">Prediction of chaotic dynamics from data: An introduction</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Luca Magri et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11624">2604.11624</a></td>
 </tr>
 </tbody></table>

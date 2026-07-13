@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.08373">2607.08373</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08978.html">Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems</a></div></td>
+<td>Tung-Anh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08978">2607.08978</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05860.html">Autoencoder-Based Unsupervised Identification of Nonequilibrium Phases in Sheared Binary Colloids</a></div></td>
 <td>Yoshitaka Miyahara et al.</td>
@@ -1934,11 +1940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15643.html">Towards Explainable Anomaly Detection in Shared Mobility Systems</a></div></td>
 <td>Elnur Isgandarov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15643">2507.15643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12086.html">Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Yue Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12086">2502.12086</a></td>
 </tr>
 </tbody></table>

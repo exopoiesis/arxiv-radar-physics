@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09071.html">Physics informed wavelet Fourier representation for multiscale fluid dynamics</a></div></td>
+<td>Chao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09071">2607.09071</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08130.html">Physics-informed neural networks for shock capturing in inviscid flows around an airfoil</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
@@ -62,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05271.html">Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Qian Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05271">2607.05271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04285.html">Domain decomposition methods with Physics-informed neural networks for elliptic equations on manifolds</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Yufang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04285">2607.04285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04288.html">Mass weighting algorithm optimizes Fourier-based physics-informed neural network in adhesive contact mechanics</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Yunong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04288">2607.04288</a></td>
 </tr>
 </tbody></table>

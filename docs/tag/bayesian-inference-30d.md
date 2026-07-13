@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09315.html">Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation</a></div></td>
+<td>Pinhao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09315">2607.09315</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07068.html">Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors</a></div></td>
 <td>Alexis L. Quintana et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15871.html">Amortized mean-shift interacting particles</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Ali Siahkoohi</td>
 <td><a href="http://arxiv.org/abs/2606.15871">2606.15871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14197.html">Licence to Bin: Accurate and Scalable Inference for Binary Neutron Stars in Next-Generation Gravitational-Wave Detectors</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Nir Guttman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14197">2606.14197</a></td>
 </tr>
 </tbody></table>

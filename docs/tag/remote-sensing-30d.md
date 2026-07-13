@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09084.html">A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design</a></div></td>
+<td>Linhui Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09084">2607.09084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09583.html">Promptable Concept Segmentation from Above: Evaluating SAM 3&#x27;s Zero-Shot and One-Shot Capabilities in Remote Sensing</a></div></td>
+<td>Mohammad Dabaja et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09583">2607.09583</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08004.html">LOGOS: Language-guided Oriented Object Detection in Aerial Scenes</a></div></td>
@@ -212,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20702.html">Beyond Templates: Revisiting Zero-Shot Remote Sensing through Meta-Prompting</a></div></td>
 <td>Eirini Baltzi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20702">2606.20702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14963.html">Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning</a></div></td>
-<td>Tewodros Syum Gebre et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14963">2606.14963</a></td>
 </tr>
 </tbody></table>

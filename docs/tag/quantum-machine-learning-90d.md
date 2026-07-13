@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09445.html">Diagnosing quantum reservoirs at scale based on expressivity and coverage</a></div></td>
+<td>Laia Domingo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09445">2607.09445</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
@@ -674,23 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12476.html">Noise-enhanced quantum kernels on analog quantum computers</a></div></td>
 <td>Hsiang-Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12476">2604.12476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02795.html">Geodesics of Quantum Feature Maps on the Space of Quantum Operators</a></div></td>
-<td>Andrew Vlasic</td>
-<td><a href="http://arxiv.org/abs/2509.02795">2509.02795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11022.html">SPATE: Spiking-Phase Adaptive Temporal Encoding for Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Nouhaila Innan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11022">2604.11022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11541.html">A Systematic Study of Noise Effects in Hybrid Quantum-Classical Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Bhavna Bose et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11541">2604.11541</a></td>
 </tr>
 </tbody></table>

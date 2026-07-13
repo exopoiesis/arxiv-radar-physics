@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,17 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19522.html">Applications and Manipulations of Physics-Informed Neural Networks in Solving Differential Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Aarush Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19522">2507.19522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12218.html">Physics-Informed Linear Model (PILM): Analytical Representations and Application to Crustal Strain Rate Estimation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Tomohisa Okazaki</td>
-<td><a href="http://arxiv.org/abs/2507.12218">2507.12218</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13475.html">Expansive Natural Neural Gradient Flows for Energy Minimization</a></div></td>
-<td>Wolfgang Dahmen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13475">2507.13475</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3296,17 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13805.html">On-the-Fly Fine-Tuning of Foundational Neural Network Potentials: A Bayesian Neural Network Approach</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
 <td>Tim Rensmeyer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13805">2507.13805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12885.html">Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning</a></div></td>
-<td>Mehmet Ozgur Turkoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12885">2506.12885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13204.html">Performance Portable Gradient Computations Using Source Transformation</a></div></td>
-<td>Kim Liegeois et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13204">2507.13204</a></td>
 </tr>
 </tbody></table>

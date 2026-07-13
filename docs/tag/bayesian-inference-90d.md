@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09315.html">Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation</a></div></td>
+<td>Pinhao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09315">2607.09315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07068.html">Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors</a></div></td>
@@ -668,23 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13139.html">Building an Affordable Self-Driving Lab: Practical Machine Learning Experiments for Physics Education Using Internet-of-Things</a></div></td>
 <td>Yang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13139">2604.13139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13249.html">Comparing astrophysical models to gravitational-wave data in the observable space</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Alexandre Toubiana et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13249">2507.13249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16913.html">A linear PDF model for Bayesian inference</a></div></td>
-<td>Mark N. Costantini et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16913">2507.16913</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03426.html">Bayesian post-correction of non-Markovian errors in bosonic lattice gravimetry</a></div></td>
-<td>Bharath Hebbe Madhusudhana et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03426">2603.03426</a></td>
 </tr>
 </tbody></table>

@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.08373">2607.08373</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08978.html">Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems</a></div></td>
+<td>Tung-Anh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08978">2607.08978</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05860.html">Autoencoder-Based Unsupervised Identification of Nonequilibrium Phases in Sheared Binary Colloids</a></div></td>
 <td>Yoshitaka Miyahara et al.</td>
@@ -410,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11390.html">Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection</a></div></td>
 <td>Jijun Xiang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11390">2604.11390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18611.html">Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems</a></div></td>
-<td>Samrendra Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18611">2604.18611</a></td>
 </tr>
 </tbody></table>

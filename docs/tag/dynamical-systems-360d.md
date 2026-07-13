@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">706 papers</span>
+  <span class="paper-count">705 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4244,11 +4244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14040.html">Markov matrix perturbations to optimize dynamical and entropy functionals</a></div></td>
 <td>Manuel Santos Gutierrez et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14040">2507.14040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12086.html">Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Yue Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12086">2502.12086</a></td>
 </tr>
 </tbody></table>

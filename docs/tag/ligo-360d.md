@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,17 +500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11192.html">Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11192">2507.11192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11956.html">Modified gravitational wave propagations in linearized gravity with Lorentz and diffeomorphism violations and their gravitational wave constraints</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Qiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11956">2501.11956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13454.html">Functional inference on deviations from General Relativity</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Costantino Pacilio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13454">2507.13454</a></td>
 </tr>
 </tbody></table>

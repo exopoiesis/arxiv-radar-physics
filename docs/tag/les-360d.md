@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09316.html">Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire&#x27;s Complete Works</a></div></td>
+<td>Miguel Arana-Catania et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09316">2607.09316</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04495.html">U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Shixiong Zhou et al.</td>
@@ -326,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Dongjin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12933.html">DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Dongyeun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12933">2507.12933</a></td>
 </tr>
 </tbody></table>

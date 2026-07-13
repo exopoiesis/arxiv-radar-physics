@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,11 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21652.html">Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with A Generalist Foundation Model and Multimodal Database</a></div></td>
 <td>Zi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.21652">2512.21652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21860.html">Pathwise Learning of Stochastic Dynamical Systems with Partial Observations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Nicole Tianjiao Yang</td>
-<td><a href="http://arxiv.org/abs/2601.21860">2601.21860</a></td>
 </tr>
 </tbody></table>

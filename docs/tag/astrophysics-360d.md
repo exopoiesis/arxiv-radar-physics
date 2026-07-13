@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15910.html">Physical parameter regression from black hole images via a multiscale adaptive neural network</a></div></td>
 <td>Jialei Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15910">2507.15910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13033.html">(Exhaustive) Symbolic Regression and model selection by minimum description length</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Harry Desmond</td>
-<td><a href="http://arxiv.org/abs/2507.13033">2507.13033</a></td>
 </tr>
 </tbody></table>

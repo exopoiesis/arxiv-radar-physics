@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09154.html">Enhancing the sensitivity to FCNC top decays $t\to cH $ and $t\to cS $ in the boosted regime at CLIC</a></div></td>
+<td>Shuo Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09154">2607.09154</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02078.html">WavePID: Low-energy flavor identification using single-PMT time series in IceCube</a></div></td>
 <td>R. Abbasi et al.</td>
@@ -50,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-matter-90d.html">dark-matter</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Andrea Addazi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11232.html">Machine Learning Study on Single Production of a Singlet Vector-like Lepton at the Large Hadron Collider</a></div></td>
-<td>Yiheng Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11232">2604.11232</a></td>
 </tr>
 </tbody></table>

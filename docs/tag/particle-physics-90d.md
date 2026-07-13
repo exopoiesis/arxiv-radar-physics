@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09457.html">Report on the Advanced Linear Collider Study Group (ALEGRO) Workshop 2026</a></div></td>
+<td>L. Verra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09457">2607.09457</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08131.html">Early Career Issues in Particle Physics</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Saptaparna Bhattacharya</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12364.html">Cross-Domain Transfer with Particle Physics Foundation Models: From Jets to Neutrino Interactions</a></div></td>
 <td>Gregor Krzmanc et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12364">2604.12364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11068.html">Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Waqas Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11068">2604.11068</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09286.html">Enhancing the Cherenkov Telescope Array Observatory high-level performance through an event-type-based analysis</a></div></td>
+<td>Juan Bernete et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09286">2607.09286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08131.html">Early Career Issues in Particle Physics</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Saptaparna Bhattacharya</td>
@@ -1286,11 +1292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17778.html">STQS: A Unified System Architecture for Spatial Temporal Quantum Sensing</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Anastashia Jebraeilli et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17778">2502.17778</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13297.html">The Making of a Community Dark Matter Dataset with the National Science Data Fabric</a></div></td>
-<td>Amy Roberts et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13297">2507.13297</a></td>
 </tr>
 </tbody></table>

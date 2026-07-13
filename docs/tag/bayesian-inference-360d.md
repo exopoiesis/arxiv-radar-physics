@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09315.html">Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation</a></div></td>
+<td>Pinhao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09315">2607.09315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07068.html">Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors</a></div></td>
@@ -2648,23 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18665.html">BARNN: A Bayesian Autoregressive and Recurrent Neural Network</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Dario Coscia et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18665">2501.18665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11956.html">Modified gravitational wave propagations in linearized gravity with Lorentz and diffeomorphism violations and their gravitational wave constraints</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Qiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11956">2501.11956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01302.html">GPU-Accelerated Gravitational Lensing &amp; Dynamical (GLaD) Modeling for Cosmology and Galaxies</a></div><div class="paper-tags"><a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Han Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01302">2504.01302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21725.html">New {\em ab initio} constrained extended Skyrme equations of state for simulations of neutron stars, supernovae and binary mergers: I. Subsaturation density domain</a></div></td>
-<td>Adriana R. Raduta et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21725">2504.21725</a></td>
 </tr>
 </tbody></table>

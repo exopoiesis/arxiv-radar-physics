@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,17 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
 <td>Ziyong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11895.html">Cosmological gravity on all scales V: MCMC forecasts combining large scale structure and CMB lensing for binned phenomenological modified gravity</a></div></td>
-<td>Sankarshana Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11895">2603.11895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11068.html">Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Waqas Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11068">2604.11068</a></td>
 </tr>
 </tbody></table>

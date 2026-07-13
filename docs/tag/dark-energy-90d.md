@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,17 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12414.html">Enhancing Lyα Emitter Identification in HETDEX with a Convolutional Neural Network</a></div></td>
 <td>Shiro Mukae et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12414">2604.12414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06454.html">Testing the Distance Duality Relation with Cosmological Observations at high Redshift using Artificial Neural Network</a></div></td>
-<td>Yukang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06454">2512.06454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03182.html">DeepDISC-Euclid: Source Classification and Photometric Redshifts in Euclid Deep Field North With a Pixel-Level Deep Learning Approach</a></div></td>
-<td>Yuanzhe Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03182">2604.03182</a></td>
 </tr>
 </tbody></table>

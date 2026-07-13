@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09382.html">Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Rodolphe Barlogis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09382">2607.09382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Sonal Ankush Chibire et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05045.html">On the Genealogy of Machine Learning Weather Prediction</a></div></td>
 <td>Mohammad Hassan Erfani</td>
 <td><a href="http://arxiv.org/abs/2607.05045">2607.05045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04450.html">A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC</a></div></td>
-<td>Alessandro Longhi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04450">2607.04450</a></td>
 </tr>
 </tbody></table>

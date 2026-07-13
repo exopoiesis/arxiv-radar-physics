@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09382.html">Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Rodolphe Barlogis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09382">2607.09382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06479.html">A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Sonal Ankush Chibire et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14424.html">Non-intrusive Learning of Physics-Informed Spatio-temporal Surrogate for Accelerating Design</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="koopman-operator-90d.html">koopman-operator</a></div></td>
 <td>Sudeepta Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14424">2604.14424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21860.html">Pathwise Learning of Stochastic Dynamical Systems with Partial Observations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Nicole Tianjiao Yang</td>
-<td><a href="http://arxiv.org/abs/2601.21860">2601.21860</a></td>
 </tr>
 </tbody></table>

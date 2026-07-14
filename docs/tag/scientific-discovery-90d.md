@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,23 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13699.html">MIND: AI Co-Scientist for Material Research</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Geonhee Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13699">2604.13699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05206.html">Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Xingjun Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05206">2502.05206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08618.html">HSG-12M: A Large-Scale Benchmark of Spatial Multigraphs from the Energy Spectra of Non-Hermitian Crystals</a></div><div class="paper-tags"><a href="condensed-matter-physics-90d.html">condensed-matter-physics</a></div></td>
-<td>Xianquan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08618">2506.08618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11661.html">Towards Autonomous Mechanistic Reasoning in Virtual Cells</a></div></td>
-<td>Yunhui Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11661">2604.11661</a></td>
 </tr>
 </tbody></table>

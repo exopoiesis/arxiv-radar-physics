@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,23 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13992.html">Physics-Informed Neural Networks for Methane Sorption: Cross-Gas Transfer Learning, Ensemble Collapse Under Physics Constraints, and Monte Carlo Dropout Uncertainty Quantification</a></div></td>
 <td>Mohammad Nooraiepour et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13992">2604.13992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23748.html">A Review of Diffusion-based Simulation-Based Inference: Foundations and Applications in Non-Ideal Data Scenarios</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Haley Rosso et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23748">2512.23748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08393.html">Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping</a></div></td>
-<td>Toba Temitope Bamidele et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08393">2603.08393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
 </tr>
 </tbody></table>

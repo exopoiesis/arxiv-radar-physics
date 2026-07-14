@@ -8,7 +8,7 @@
   total: 1003
   group: scientific-machine-learning
 - name: pinns
-  count: 38
+  count: 37
   total: 966
   group: scientific-machine-learning
 - name: remote-sensing
@@ -36,19 +36,19 @@
   total: 896
   group: quantum-physics
 - name: uncertainty-quantification
-  count: 27
+  count: 26
   total: 844
   group: generative-models
-- name: operator-learning
-  count: 26
-  total: 401
-  group: scientific-machine-learning
 - name: inverse-problems
   count: 25
   total: 647
   group: generative-models
+- name: operator-learning
+  count: 25
+  total: 401
+  group: scientific-machine-learning
 - name: anomaly-detection
-  count: 24
+  count: 22
   total: 499
   group: particle
 - name: inductive-bias
@@ -64,11 +64,11 @@
   total: 667
   group: generative-models
 - name: materials-discovery
-  count: 16
+  count: 15
   total: 361
   group: materials-science
 - name: scientific-machine-learning
-  count: 15
+  count: 14
   total: 302
   group: scientific-machine-learning
 - name: cosmology
@@ -127,10 +127,6 @@
   count: 7
   total: 149
   group: astrophysics
-- name: computational-fluid-dynamics
-  count: 7
-  total: 294
-  group: fluid-dynamics
 - name: rans
   count: 7
   total: 123
@@ -139,6 +135,10 @@
   count: 7
   total: 300
   group: climate
+- name: computational-fluid-dynamics
+  count: 6
+  total: 294
+  group: fluid-dynamics
 - name: electronic-structure
   count: 6
   total: 193
@@ -151,10 +151,6 @@
   count: 6
   total: 70
   group: scientific-machine-learning
-- name: chaotic-systems
-  count: 5
-  total: 99
-  group: dynamical-systems
 - name: force-fields
   count: 5
   total: 165
@@ -163,9 +159,9 @@
   count: 5
   total: 129
   group: astrophysics
-- name: koopman-operator
-  count: 5
-  total: 141
+- name: chaotic-systems
+  count: 4
+  total: 99
   group: dynamical-systems
 - name: hep
   count: 4
@@ -195,6 +191,10 @@
   count: 3
   total: 59
   group: generative-models
+- name: koopman-operator
+  count: 3
+  total: 141
+  group: dynamical-systems
 - name: ligo
   count: 3
   total: 139
@@ -311,10 +311,6 @@
   count: 1
   total: 11
   group: particle
-- name: plasma-physics
-  count: 1
-  total: 29
-  group: fluid-dynamics
 - name: strong-lensing
   count: 1
   total: 39
@@ -391,6 +387,10 @@
   count: 0
   total: 14
   group: dynamical-systems
+- name: plasma-physics
+  count: 0
+  total: 29
+  group: fluid-dynamics
 - name: quantum-circuit-learning
   count: 0
   total: 8

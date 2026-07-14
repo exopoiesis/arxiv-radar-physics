@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">623 papers</span>
+  <span class="paper-count">621 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3740,17 +3740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19522.html">Applications and Manipulations of Physics-Informed Neural Networks in Solving Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Aarush Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19522">2507.19522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19805.html">Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Chenhao Si et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19805">2506.19805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11640.html">Quantifying data needs in surrogate modeling for flow fields in two-dimensional stirred tanks with physics-informed neural networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Veronika Trávníková et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11640">2507.11640</a></td>
 </tr>
 </tbody></table>

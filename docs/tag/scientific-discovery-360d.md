@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">511 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3074,11 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15736.html">Understanding Large Language Models&#x27; Ability on Interdisciplinary Research</a></div></td>
 <td>Yuanhao Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15736">2507.15736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16247.html">Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models</a></div></td>
-<td>Konstantin Donhauser et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16247">2412.16247</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16539.html">Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a></div></td>
 <td>Hitaishi Chillara</td>
 <td><a href="http://arxiv.org/abs/2604.16539">2604.16539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12800.html">Spectroscopy of analogue black holes using simulation-based inference</a></div></td>
-<td>Leonardo Solidoro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12800">2604.12800</a></td>
 </tr>
 </tbody></table>

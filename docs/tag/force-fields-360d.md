@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,17 +596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18935.html">Accuracy and Limitations of Machine-Learned Interatomic Potentials for Magnetic Systems: A Case Study on Fe-Cr-C</a></div></td>
 <td>E. O. Khazieva et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18935">2507.18935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18665.html">BARNN: A Bayesian Autoregressive and Recurrent Neural Network</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Dario Coscia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18665">2501.18665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13805.html">On-the-Fly Fine-Tuning of Foundational Neural Network Potentials: A Bayesian Neural Network Approach</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Tim Rensmeyer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13805">2507.13805</a></td>
 </tr>
 </tbody></table>

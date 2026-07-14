@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14472.html">Auxiliary Finite-Difference Residual-Gradient Regularization for PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Stavros Kassinos</td>
 <td><a href="http://arxiv.org/abs/2604.14472">2604.14472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20440.html">DDC-PINNs: A Predictor-Corrector Approach Based on Neural Network-Driven Domain Decomposition and Classical ODE Solvers for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xun Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20440">2508.20440</a></td>
 </tr>
 </tbody></table>

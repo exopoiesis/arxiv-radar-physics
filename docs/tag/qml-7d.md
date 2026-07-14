@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>qml — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06472.html">Provable learning separation for predicting time-evolution of quantum many-body systems</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a> · <a href="quantum-many-body-systems-7d.html">quantum-many-body-systems</a></div></td>
 <td>Rahul Bandyopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06472">2607.06472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04915.html">How Hard Is Quantum Advantage? A Cloud Microphysics Stress Test for Variational Quantum Models</a></div><div class="paper-tags"><a href="phase-transitions-7d.html">phase-transitions</a> · <a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
-<td>Felix Herbort et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04915">2607.04915</a></td>
 </tr>
 </tbody></table>

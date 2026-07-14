@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,17 +1040,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08992.html">Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Dibakar Roy Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08992">2511.08992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09207.html">mLaSDI: Multi-stage latent space dynamics identification</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>William Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09207">2506.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20440.html">DDC-PINNs: A Predictor-Corrector Approach Based on Neural Network-Driven Domain Decomposition and Classical ODE Solvers for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xun Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20440">2508.20440</a></td>
 </tr>
 </tbody></table>

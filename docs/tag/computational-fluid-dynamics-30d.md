@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>
 <td>Somyajit Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24696">2606.24696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15356.html">ShipNet: A Geometric Deep Learning Surrogate for Real-Time Ship Hydrodynamics</a></div></td>
-<td>Kirsten Odendaal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15356">2606.15356</a></td>
 </tr>
 </tbody></table>

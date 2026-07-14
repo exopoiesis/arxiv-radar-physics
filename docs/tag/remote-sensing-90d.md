@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,17 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14762.html">OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism</a></div></td>
 <td>Jordan Shipard et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14762">2604.14762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04017.html">Habitat Classification from Ground-Level Imagery Using Deep Neural Networks</a></div></td>
-<td>Hongrui Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04017">2507.04017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09374.html">Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Prasad Nimantha Madusanka Ukwatta Hewage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09374">2604.09374</a></td>
 </tr>
 </tbody></table>

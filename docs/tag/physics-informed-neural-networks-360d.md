@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">631 papers</span>
+  <span class="paper-count">629 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3788,17 +3788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16644.html">An explainable operator approximation framework under the guideline of Green&#x27;s function</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Jianghang Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.16644">2412.16644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19805.html">Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Chenhao Si et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19805">2506.19805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11640.html">Quantifying data needs in surrogate modeling for flow fields in two-dimensional stirred tanks with physics-informed neural networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Veronika Trávníková et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11640">2507.11640</a></td>
 </tr>
 </tbody></table>

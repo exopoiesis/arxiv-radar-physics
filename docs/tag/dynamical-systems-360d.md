@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">705 papers</span>
+  <span class="paper-count">703 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4232,17 +4232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14678.html">Exterior differential systems on Lie algebroids and the invariant inverse problem of the calculus of variations</a></div></td>
 <td>Tom Mestdag et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14678">2507.14678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13613.html">Conformal Contraction for Robust Nonlinear Control with Distribution-Free Uncertainty Quantification</a></div></td>
-<td>Sihang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13613">2507.13613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14040.html">Markov matrix perturbations to optimize dynamical and entropy functionals</a></div></td>
-<td>Manuel Santos Gutierrez et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14040">2507.14040</a></td>
 </tr>
 </tbody></table>

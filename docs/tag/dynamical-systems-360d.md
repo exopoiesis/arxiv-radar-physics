@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">703 papers</span>
+  <span class="paper-count">704 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
+<td>Yiran Xing et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12351">2607.12351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10026.html">Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Yurui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10026">2607.10026</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08641.html">Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence</a></div></td>
 <td>Yann Claes et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08641">2607.08641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09801.html">Discovering Latent Response Laws in Forced Physical Systems</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Yi Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09801">2607.09801</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -4220,17 +4238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03707.html">Forecasting chaotic dynamic using hybrid system</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
 <td>Michele Baia et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03707">2508.03707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14595.html">Learning-Augmented Control: Adaptively Confidence Learning for Competitive MPC</a></div></td>
-<td>Tongxin Li</td>
-<td><a href="http://arxiv.org/abs/2507.14595">2507.14595</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14678.html">Exterior differential systems on Lie algebroids and the invariant inverse problem of the calculus of variations</a></div></td>
-<td>Tom Mestdag et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14678">2507.14678</a></td>
 </tr>
 </tbody></table>

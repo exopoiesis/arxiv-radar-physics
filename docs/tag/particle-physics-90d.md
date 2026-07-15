@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.09457">2607.09457</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08131.html">Early Career Issues in Particle Physics</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Saptaparna Bhattacharya</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21599.html">Conditional Wasserstein GAN for Simulating Neutrino Event Summaries using Incident Energy of Electron Neutrinos</a></div></td>
 <td>Dipthi S. et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21599">2603.21599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08080.html">Towards AI-assisted Neutrino Flavor Theory Design</a></div></td>
-<td>Jason Benjamin Baretz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08080">2506.08080</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12828.html">Detecting Phishing in Ethereum Networks using Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Sai Sakunthala Guddanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12828">2607.12828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10544.html">Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection</a></div></td>
+<td>Jian Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10544">2607.10544</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08044.html">Catching Disguised Transients with ASTRANet: Anomaly-Aware Spectroscopic Classification and Conformal Calibration</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16421.html">Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images</a></div></td>
 <td>Gyutae Hwang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16421">2606.16421</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15709.html">AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan</a></div></td>
-<td>Mohammed Fasha et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15709">2606.15709</a></td>
 </tr>
 </tbody></table>

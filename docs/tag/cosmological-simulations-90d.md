@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12008.html">A Universal Distribution of Dark Matter in Milky Way-like galaxies and How to Infer It</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Sam Cheng-Tse Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12008">2607.12008</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18386.html">Reconstructing Galactic Gravitational Potentials from Stellar Kinematics with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Charlotte Myers et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16539.html">Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
 <td>Hitaishi Chillara</td>
 <td><a href="http://arxiv.org/abs/2604.16539">2604.16539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14451.html">FAIR Universe Weak Lensing ML Uncertainty Challenge: Handling Uncertainties and Distribution Shifts for Precision Cosmology</a></div></td>
-<td>Biwei Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14451">2604.14451</a></td>
 </tr>
 </tbody></table>

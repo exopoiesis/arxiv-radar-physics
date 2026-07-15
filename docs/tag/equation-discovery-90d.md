@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>equation-discovery — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <strong>90d</strong> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Ingmar Posner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12474">2607.12474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09801.html">Discovering Latent Response Laws in Forced Physical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Yi Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09801">2607.09801</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04108.html">Dictionaries, Not Darwin: Set-Level Selection Beats LLM Evolution in Scientific Equation Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
@@ -86,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22486.html">The Machine Learning Approach to Moment Closure Relations for Plasma: A Review</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
 <td>Samuel Burles et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22486">2511.22486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11929.html">Fast and principled equation discovery from chaos to climate</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yuzheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11929">2604.11929</a></td>
 </tr>
 </tbody></table>

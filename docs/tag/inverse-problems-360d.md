@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12888.html">Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures</a></div></td>
+<td>Jing Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12888">2607.12888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11104.html">FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction</a></div></td>
+<td>Zheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11104">2607.11104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11298.html">PAC Studio Machine Learning: Human-in-the-Loop Analysis of TDPAC Spectra</a></div></td>
+<td>Thien Thanh Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11298">2607.11298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10817.html">An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Anuj Abhishek et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10817">2607.10817</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08074.html">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -2432,17 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16087.html">Iterative Born Solver for the Acoustic Helmholtz Equation with Heterogeneous Sound Speed and Density</a></div></td>
 <td>Antonio Stanziola et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16087">2507.16087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14760.html">QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Cassandra Tong Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14760">2507.14760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19522.html">Applications and Manipulations of Physics-Informed Neural Networks in Solving Differential Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Aarush Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19522">2507.19522</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10546.html">LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Jinyang Du et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10546">2607.10546</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07379.html">Physics-Audited Agentic Discovery in Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-7d.html">sciml</a></div></td>
 <td>Diab W. Abueidda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07379">2607.07379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="neural-differential-equations-7d.html">neural-differential-equations</a></div></td>
-<td>Syed Pouladi</td>
-<td><a href="http://arxiv.org/abs/2607.05718">2607.05718</a></td>
 </tr>
 </tbody></table>

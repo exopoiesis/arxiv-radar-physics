@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11576.html">Physics-Informed Neural Networks for the High-Resolution Reconstruction of Flow Measurement Indicators in Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Irena Radišić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11576">2607.11576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09557.html">CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Steven Roche et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20410.html">SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Mahmoud Elhadidy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20410">2603.20410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13919.html">Nested Fourier-enhanced neural operator for efficient modeling of radiation transfer in fires</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Anran Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13919">2604.13919</a></td>
 </tr>
 </tbody></table>

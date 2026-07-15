@@ -7,9 +7,24 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>astrophysics — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11417.html">Generative AI in Higher Education Laboratory Learning: A Qualitative Case Study of Epistemic Scaffolding and Assessment Boundaries</a></div></td>
+<td>Matteo Tuveri et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11417">2607.11417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a> · <a href="inductive-bias-7d.html">inductive-bias</a> · <a href="particle-physics-7d.html">particle-physics</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
+</tr>
+</tbody></table>

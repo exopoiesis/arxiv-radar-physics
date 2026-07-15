@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11576.html">Physics-Informed Neural Networks for the High-Resolution Reconstruction of Flow Measurement Indicators in Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Irena Radišić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11576">2607.11576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09557.html">CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09582.html">Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics</a></div></td>
 <td>Okezzi Ukorigho et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09582">2607.09582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09763.html">Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design</a></div></td>
+<td>Wenhao Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09763">2607.09763</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>
@@ -332,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16687.html">Agentic Risk-Aware Set-Based Engineering Design</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Varun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16687">2604.16687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13919.html">Nested Fourier-enhanced neural operator for efficient modeling of radiation transfer in fires</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Anran Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13919">2604.13919</a></td>
 </tr>
 </tbody></table>

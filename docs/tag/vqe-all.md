@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vqe — all</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <a href="vqe-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06971.html">Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware</a></div></td>
 <td>Yuqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06971">2607.06971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09761.html">SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
+<td>Akshaya Ajith et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09761">2607.09761</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-27</td>

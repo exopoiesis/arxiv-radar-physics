@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12122.html">An Agentic AI Scientific Community for Automated Neural Operator Discovery</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Luis Loo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12122">2607.12122</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09382.html">Learning Physics-Informed Surrogate Model of Linear Elastic Displacement Fields from Geometry</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Rodolphe Barlogis et al.</td>
@@ -308,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19027.html">Neural Operator Representation of Granular Micromechanics-based Failure Envelope</a></div></td>
 <td>Jinkyo Han et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19027">2604.19027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08992.html">Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Dibakar Roy Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08992">2511.08992</a></td>
 </tr>
 </tbody></table>

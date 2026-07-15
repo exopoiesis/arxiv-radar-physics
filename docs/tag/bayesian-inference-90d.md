@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10817.html">An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Anuj Abhishek et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10817">2607.10817</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09315.html">Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation</a></div></td>
 <td>Pinhao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09315">2607.09315</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09836.html">Compact stars in a large-tension braneworld: mildly negative Weyl coupling consistent with NICER and gravitational-wave data</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
+<td>Samuel Isidoro dos Santos Júnior et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09836">2607.09836</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -620,41 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15179.html">Quantum Metropolis-Hastings via Penalised Qubitized Walks: Spectral Filtering and Circuit Implementation</a></div></td>
 <td>Miguel Carrasco-Arango et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15179">2604.15179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04340.html">Replacing Gaussian Processes with Neural Networks in Pulsar Timing Array Inference of the Gravitational-Wave Background</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
-<td>Shreyas Tiruvaskar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04340">2604.04340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11929.html">Fast and principled equation discovery from chaos to climate</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yuzheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11929">2604.11929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13657.html">Hierarchical Bayesian calibration of mesoscopic models for ultrasound contrast agents from force spectroscopy data</a></div></td>
-<td>Brieuc Benvegnen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13657">2604.13657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13851.html">Denoising clustering covariance matrices with Rotational Invariant Estimators</a></div></td>
-<td>Antonio Farina et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13851">2604.13851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13930.html">Bayesian Analysis of Gravitational Wave Microlensing Effects from Galactic Double White Dwarfs</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
-<td>Yan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13930">2604.13930</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14133.html">AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data</a></div></td>
-<td>Zhong-Bo Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14133">2604.14133</a></td>
 </tr>
 </tbody></table>

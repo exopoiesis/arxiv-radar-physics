@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">287 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12570.html">Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems</a></div></td>
+<td>Marc Haltmayer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12570">2607.12570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11974.html">Learning to Discretize: Diffusion-Based Adaptive Mesh with Spectral Guidance</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Zixuan Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11974">2607.11974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10570.html">Spectral-Domain Deep Learning of Intrinsic Scattering Operators for Arbitrarily Shaped Compact 3D Particles</a></div></td>
+<td>Daize Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10570">2607.10570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11921.html">Near-Optimal Learning of Gaussian Sobolev Operators</a></div></td>
+<td>Ben Adcock et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11921">2607.11921</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06287.html">Kernel-based Operator Learning: Error Analysis, Budget Allocation, and a Physics-Informed Extension</a></div></td>

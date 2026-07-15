@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09457.html">Report on the Advanced Linear Collider Study Group (ALEGRO) Workshop 2026</a></div></td>
 <td>L. Verra et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09457">2607.09457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-09</td>

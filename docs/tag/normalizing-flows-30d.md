@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10026.html">Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Yurui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10026">2607.10026</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07127.html">Weight-Space Physics: Interpretable Hypernetworks for Lattice Quantum Field Theories</a></div></td>
 <td>Tobias Göbel et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Alejandro Calle-Saldarriaga et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17413">2606.17413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15986.html">Learning the generating functional for variance reduction in lattice QCD</a></div></td>
-<td>Ryan Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15986">2606.15986</a></td>
 </tr>
 </tbody></table>

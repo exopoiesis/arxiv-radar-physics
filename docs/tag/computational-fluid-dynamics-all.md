@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">295 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11576.html">Physics-Informed Neural Networks for the High-Resolution Reconstruction of Flow Measurement Indicators in Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Irena Radišić et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11576">2607.11576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09557.html">CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>

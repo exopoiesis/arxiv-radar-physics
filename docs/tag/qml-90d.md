@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12828.html">Detecting Phishing in Ethereum Networks using Quantum Machine Learning</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Sai Sakunthala Guddanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12828">2607.12828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11985.html">VQCSim: When Does Compile-Once Statevector Simulation Beat Generic Quantum Frameworks?</a></div></td>
+<td>Anton Firc et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11985">2607.11985</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
@@ -230,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15775.html">Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Abhishek Sawaika et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15775">2604.15775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13560.html">Parameter-efficient Quantum Multi-task Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Hevish Cowlessur et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13560">2604.13560</a></td>
 </tr>
 </tbody></table>

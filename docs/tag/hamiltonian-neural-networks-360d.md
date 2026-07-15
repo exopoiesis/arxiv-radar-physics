@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-neural-networks — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="hamiltonian-neural-networks-7d.html">7d</a> <a href="hamiltonian-neural-networks-30d.html">30d</a> <a href="hamiltonian-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12269.html">Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity</a></div></td>
+<td>Dibakar Sigdel</td>
+<td><a href="http://arxiv.org/abs/2607.12269">2607.12269</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27029.html">Symplectic Neural Networks for learning Generalized Hamiltonians</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>

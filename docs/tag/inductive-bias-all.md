@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="equivariant-neural-networks-all.html">equivariant-neural-networks</a></div></td>
+<td>Viktor A. Lilja et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12810">2607.12810</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09149.html">Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness</a></div></td>
 <td>Daomin Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09149">2607.09149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>

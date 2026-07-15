@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="equivariant-neural-networks-90d.html">equivariant-neural-networks</a></div></td>
+<td>Viktor A. Lilja et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12810">2607.12810</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09149.html">Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness</a></div></td>
 <td>Daomin Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09149">2607.09149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -368,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15273.html">How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations</a></div></td>
 <td>Nouhaila Innan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15273">2604.15273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13369.html">AeTHERON: Autoregressive Topology-aware Heterogeneous Graph Operator Network for Fluid-Structure Interaction</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Sushrut Kumar</td>
-<td><a href="http://arxiv.org/abs/2604.13369">2604.13369</a></td>
 </tr>
 </tbody></table>

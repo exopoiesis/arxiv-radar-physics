@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10965.html">Structure-preserving variational neural fields: Uncertainty-quantified reduced-order modeling of nonlinear conservation laws</a></div></td>
+<td>Aviral Prakash et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10965">2607.10965</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11832.html">Improved Global Ocean Heat Content Estimation by Modeling Vertical Spatio-Temporal Dependence</a></div></td>
+<td>Thea Sukianto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11832">2607.11832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11971.html">Uncertainty-Aware Crack Growth Forecasting via Conditional Denoising Diffusion Models for Phase-Field Fracture</a></div></td>
+<td>Jahnavi Krishna Koda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11971">2607.11971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09849.html">Robust Photometry for Roman High-Latitude Imaging Survey Cosmology Using Roman and Rubin Imaging</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
+<td>Chun-Hao To et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09849">2607.09849</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11928.html">Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry</a></div></td>
+<td>Adam Haroon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11928">2607.11928</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08044.html">Catching Disguised Transients with ASTRANet: Anomaly-Aware Spectroscopic Classification and Conformal Calibration</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
@@ -164,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16985.html">Dynestyx: A Probabilistic Programming Library for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Daniel Waxman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16985">2606.16985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15953.html">Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data</a></div></td>
-<td>Jeffery Opoku et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15953">2606.15953</a></td>
 </tr>
 </tbody></table>

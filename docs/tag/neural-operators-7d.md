@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06188.html">Time-Invariant Neural Operators with Applications in Solving Time-Dependent PDEs</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
-<td>Zihan Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06188">2607.06188</a></td>
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12122.html">An Agentic AI Scientific Community for Automated Neural Operator Discovery</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Luis Loo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12122">2607.12122</a></td>
 </tr>
 </tbody></table>

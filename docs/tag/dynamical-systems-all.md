@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1112 papers</span>
+  <span class="paper-count">1115 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
+<td>Yiran Xing et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12351">2607.12351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10026.html">Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
+<td>Yurui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10026">2607.10026</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08641.html">Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence</a></div></td>
 <td>Yann Claes et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08641">2607.08641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09801.html">Discovering Latent Response Laws in Forced Physical Systems</a></div><div class="paper-tags"><a href="equation-discovery-all.html">equation-discovery</a></div></td>
+<td>Yi Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09801">2607.09801</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>

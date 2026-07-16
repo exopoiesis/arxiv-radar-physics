@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,29 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16841.html">When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution</a></div></td>
 <td>Yiheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16841">2604.16841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18935.html">Feature Extraction in the Remote Sensing Data Value Chain: A Systematic Review of Methods and Applications</a></div></td>
-<td>Nathan Mankovich et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18935">2510.18935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13315.html">The Spectrascapes Dataset: Street-view imagery beyond the visible captured using a mobile platform</a></div></td>
-<td>Akshit Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13315">2604.13315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14643.html">Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification</a></div></td>
-<td>Weiwei Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14643">2604.14643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14762.html">OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism</a></div></td>
-<td>Jordan Shipard et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14762">2604.14762</a></td>
 </tr>
 </tbody></table>

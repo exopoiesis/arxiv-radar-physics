@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,23 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15775.html">Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="qml-90d.html">qml</a></div></td>
 <td>Abhishek Sawaika et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15775">2604.15775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15381.html">Hydration Monitoring Using Urinary Biomarkers: A Hybrid Classical Quantum Predictive Modeling Framework</a></div></td>
-<td>Saul Gonzalez-Bermejo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15381">2604.15381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15382.html">Classical and Quantum Machine Learning for Population-Level Prediction of Heat-Related Physiological Events</a></div></td>
-<td>Saul Gonzalez-Bermejo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15382">2604.15382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15552.html">Feature-level analysis and adversarial transfer in rotationally equivariant quantum machine learning</a></div></td>
-<td>Maureen Krumtünger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15552">2604.15552</a></td>
 </tr>
 </tbody></table>

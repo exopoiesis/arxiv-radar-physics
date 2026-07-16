@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmological-simulations — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <strong>90d</strong> <a href="cosmological-simulations-360d.html">360d</a> <a href="cosmological-simulations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17981.html">Efficiently emulating distribution functions in gigaparsec volumes for varying cosmological parameters</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Christopher C. Lovell et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17981">2604.17981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16539.html">Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Hitaishi Chillara</td>
-<td><a href="http://arxiv.org/abs/2604.16539">2604.16539</a></td>
 </tr>
 </tbody></table>

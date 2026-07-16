@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,41 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Suman Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03686.html">AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment</a></div></td>
-<td>Jiangyu Chen</td>
-<td><a href="http://arxiv.org/abs/2603.03686">2603.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09836.html">COMPOSITE-Stem</a></div></td>
-<td>Kyle Waters et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09836">2604.09836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14615.html">CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors</a></div></td>
-<td>Yubin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14615">2604.14615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14718.html">The Agentification of Scientific Research: A Physicist&#x27;s Perspective</a></div></td>
-<td>Xiao-Liang Qi</td>
-<td><a href="http://arxiv.org/abs/2604.14718">2604.14718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15411.html">PRL-Bench: A Comprehensive Benchmark Evaluating LLMs&#x27; Capabilities in Frontier Physics Research</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="condensed-matter-physics-90d.html">condensed-matter-physics</a></div></td>
-<td>Tingjia Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15411">2604.15411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15456.html">DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI</a></div></td>
-<td>Zhizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15456">2604.15456</a></td>
 </tr>
 </tbody></table>

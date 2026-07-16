@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2402,17 +2402,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16148.html">Learning Patient-Specific Spatial Biomarker Dynamics via Operator Learning for Alzheimer&#x27;s Disease Progression</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Jindong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16148">2507.16148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16644.html">An explainable operator approximation framework under the guideline of Green&#x27;s function</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jianghang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16644">2412.16644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15035.html">OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography</a></div></td>
-<td>Zhijun Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15035">2507.15035</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">633 papers</span>
+  <span class="paper-count">632 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3806,11 +3806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15678.html">GeoHNNs: Geometric Hamiltonian Neural Networks</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="hamiltonian-neural-networks-360d.html">hamiltonian-neural-networks</a></div></td>
 <td>Amine Mohamed Aboussalah et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15678">2507.15678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16644.html">An explainable operator approximation framework under the guideline of Green&#x27;s function</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jianghang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16644">2412.16644</a></td>
 </tr>
 </tbody></table>

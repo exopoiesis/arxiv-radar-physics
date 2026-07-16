@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>tensor-networks — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <strong>90d</strong> <a href="tensor-networks-360d.html">360d</a> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05050.html">Hybrid between biologically and quantum-inspired many-body states</a></div></td>
 <td>Miha Srdinšek et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05050">2506.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15427.html">Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google&#x27;s Quantum Echoes Experiment</a></div></td>
-<td>Pablo Bermejo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15427">2604.15427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15554.html">Natural gradient descent with momentum</a></div></td>
-<td>Anthony Nouy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15554">2604.15554</a></td>
 </tr>
 </tbody></table>

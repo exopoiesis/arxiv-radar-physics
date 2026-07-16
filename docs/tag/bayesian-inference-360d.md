@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2654,11 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16899.html">X-SHYNE: X-Shooter spectra of young exoplanet analogs II. Presentation and analysis of the full library</a></div></td>
 <td>Simon Petrus et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16899">2507.16899</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11192.html">Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11192">2507.11192</a></td>
 </tr>
 </tbody></table>

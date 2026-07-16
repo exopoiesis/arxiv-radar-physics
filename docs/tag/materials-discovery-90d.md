@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Suman Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02688.html">MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration</a></div></td>
-<td>Chenmu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02688">2604.02688</a></td>
 </tr>
 </tbody></table>

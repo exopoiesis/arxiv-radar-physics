@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,23 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="condensed-matter-physics-90d.html">condensed-matter-physics</a></div></td>
 <td>Mahyar Hassani-Vasmejani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15985">2604.15985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17448.html">In Context Learning and Reasoning for Symbolic Regression with Large Language Models</a></div></td>
-<td>Samiha Sharlin et al.</td>
-<td><a href="http://arxiv.org/abs/2410.17448">2410.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20266.html">Using Symbolic Regression to Emulate the Radial Fourier Transform of the Sérsic profile for Fast, Accurate and Differentiable Galaxy Profile Fitting</a></div></td>
-<td>Tim B. Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20266">2508.20266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12109.html">A critical assessment of bonding descriptors for predicting materials properties</a></div></td>
-<td>Aakash Ashok Naik et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12109">2602.12109</a></td>
 </tr>
 </tbody></table>

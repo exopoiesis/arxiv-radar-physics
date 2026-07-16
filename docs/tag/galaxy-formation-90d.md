@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>galaxy-formation — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <strong>90d</strong> <a href="galaxy-formation-360d.html">360d</a> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15932.html">Inferring Halo Mass and Scale Radius of Galaxy Clusters Using Convolutional Neural Networks and Uchuu-UniverseMachine Catalogs</a></div></td>
 <td>Hirobumi Tominaga et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15932">2604.15932</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14653.html">Closing the Observational Gap in Cosmic Dynamics: AI-Enabled Reconstruction of the Universe&#x27;s Vorticity and Rotational Flow Morphology</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Ziyong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14653">2604.14653</a></td>
 </tr>
 </tbody></table>

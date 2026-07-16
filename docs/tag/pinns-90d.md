@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,17 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15645.html">PINNACLE: An Open-Source Computational Framework for Classical and Quantum PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Shimon Pisnoy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15645">2604.15645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14879.html">SOLIS: Physics-Informed Learning of Interpretable Neural Surrogates for Nonlinear Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Murat Furkan Mansur et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14879">2604.14879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15392.html">Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Kang An et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15392">2604.15392</a></td>
 </tr>
 </tbody></table>

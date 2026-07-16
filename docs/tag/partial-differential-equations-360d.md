@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">812 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4886,17 +4886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14620.html">Closed-form Solutions: A New Perspective on Solving Differential Equations</a></div></td>
 <td>Shu Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2405.14620">2405.14620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19707.html">Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations</a></div></td>
-<td>Muhammad Luthfi Shahab et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19707">2407.19707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16644.html">An explainable operator approximation framework under the guideline of Green&#x27;s function</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jianghang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16644">2412.16644</a></td>
 </tr>
 </tbody></table>

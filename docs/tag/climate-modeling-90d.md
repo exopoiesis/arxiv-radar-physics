@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>climate-modeling — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="climate-modeling-360d.html">360d</a> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Suman Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15046.html">Quantum-Enhanced Convergence of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Nils Klement et al.</td>
-<td><a href="http://arxiv.org/abs/2601.15046">2601.15046</a></td>
 </tr>
 </tbody></table>

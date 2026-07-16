@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Georgia Foutsitzi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16575.html">RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Yong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16575">2606.16575</a></td>
 </tr>
 </tbody></table>

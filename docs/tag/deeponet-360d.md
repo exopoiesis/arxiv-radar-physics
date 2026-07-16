@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16571.html">Data-Driven Adaptive Gradient Recovery for Unstructured Finite Volume Computations</a></div></td>
 <td>G. de Romémont et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16571">2507.16571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16644.html">An explainable operator approximation framework under the guideline of Green&#x27;s function</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jianghang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16644">2412.16644</a></td>
 </tr>
 </tbody></table>

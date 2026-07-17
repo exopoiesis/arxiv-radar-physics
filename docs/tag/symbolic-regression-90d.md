@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>David Krongauz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11110.html">Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks</a></div></td>
 <td>Aruzhan Tleubek et al.</td>
@@ -302,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15250.html">In-Context Symbolic Regression for Robustness-Improved Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Francesco Sovrano et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15250">2603.15250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="condensed-matter-physics-90d.html">condensed-matter-physics</a></div></td>
-<td>Mahyar Hassani-Vasmejani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15985">2604.15985</a></td>
 </tr>
 </tbody></table>

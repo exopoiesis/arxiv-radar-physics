@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hep — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <strong>90d</strong> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01854.html">PrecisionSM: an annotated database for low-energy $e^+e^-$ hadronic cross sections</a></div></td>
 <td>Lorenzo Cotrozzi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01854">2512.01854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15775.html">Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Abhishek Sawaika et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15775">2604.15775</a></td>
 </tr>
 </tbody></table>

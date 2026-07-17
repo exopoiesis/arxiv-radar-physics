@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>James T. Pegg et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13737">2607.13737</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="equivariant-neural-networks-90d.html">equivariant-neural-networks</a></div></td>
 <td>Viktor A. Lilja et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03923.html">On the Convergence and Size Transferability of Continuous-depth Graph Neural Networks</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-differential-equations-90d.html">neural-differential-equations</a></div></td>
 <td>Mingsong Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03923">2510.03923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11929.html">Indoor Occupancy Classification using a Compact Hybrid Quantum-Classical Model Enabled by a Physics-Informed Radar Digital Twin</a></div></td>
-<td>Sebastian Ratto et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11929">2601.11929</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13301.html">Precision quantum simulation of magnon spectra and interactions</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
+<td>Trond I. Andersen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13301">2607.13301</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10388.html">The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy</a></div></td>
@@ -368,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06082.html">Offline Materials Optimization with CliqueFlowmer</a></div></td>
 <td>Jakub Grudzien Kuba et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06082">2603.06082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Suman Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
 </tr>
 </tbody></table>

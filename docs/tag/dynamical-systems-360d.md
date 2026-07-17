@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">704 papers</span>
+  <span class="paper-count">706 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14519.html">State-Dependent Metric Projection Neural Network for Variational Inequalities</a></div></td>
+<td>Mohammed Alshahrani</td>
+<td><a href="http://arxiv.org/abs/2607.14519">2607.14519</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14937.html">A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems</a></div></td>
+<td>Christoph Jürgen Hemmer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14937">2607.14937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15180.html">RTS Smoother-Guided Learning of Physics-Based Neural Differential Models</a></div></td>
+<td>Ahmet Demirkaya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15180">2607.15180</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13387.html">Change-Aware Self-Adaptive AI-Aided Kalman Filters With Neural Change Point Detection</a></div></td>
+<td>Wenyi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13387">2607.13387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>David Krongauz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
@@ -4220,23 +4250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16915.html">Avoiding spectral pollution for transfer operators using residuals</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>April Herwig et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16915">2507.16915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15274.html">Temporal Basis Function Models for Closed-Loop Neural Stimulation</a></div></td>
-<td>Matthew J. Bryan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15274">2507.15274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15837.html">Data-driven optimal approximation on Hardy spaces in simply connected domains</a></div></td>
-<td>Alessandro Borghi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15837">2507.15837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03707.html">Forecasting chaotic dynamic using hybrid system</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Michele Baia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03707">2508.03707</a></td>
 </tr>
 </tbody></table>

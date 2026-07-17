@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>equation-discovery — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <strong>90d</strong> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>William Lavery et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22486.html">The Machine Learning Approach to Moment Closure Relations for Plasma: A Review</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
-<td>Samuel Burles et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22486">2511.22486</a></td>
 </tr>
 </tbody></table>

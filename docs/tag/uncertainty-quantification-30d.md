@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13827.html">Inherent interpretability provides inherent value in quantum machine learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Kaitlin Gili et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13827">2607.13827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14392.html">Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
+<td>Priyabrata Senapati et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14392">2607.14392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13207.html">Estimation of Elastic Parameters with Guidance-based Diffusion model</a></div></td>
+<td>Anjali Dixit et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13207">2607.13207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10965.html">Structure-preserving variational neural fields: Uncertainty-quantified reduced-order modeling of nonlinear conservation laws</a></div></td>
 <td>Aviral Prakash et al.</td>
@@ -164,29 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Anna Asch et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17413.html">Amortized Probabilistic Retrieval of Atmospheric CO2 from OCO-2 Spectra Using Deep Learning with Laplace Approximations and Normalizing Flows</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Alejandro Calle-Saldarriaga et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17413">2606.17413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17513.html">Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Oriol Vendrell-Gallart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17513">2606.17513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17808.html">Incorporating wave physical priors into diffusion models: A novel approach to seismic resolution enhancement</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Huanhuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17808">2606.17808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18464.html">Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection</a></div></td>
-<td>Isidro Gómez-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18464">2606.18464</a></td>
 </tr>
 </tbody></table>

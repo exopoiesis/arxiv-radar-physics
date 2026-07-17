@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12971.html">A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Nathan Steinle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12971">2607.12971</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11417.html">Generative AI in Higher Education Laboratory Learning: A Qualitative Case Study of Epistemic Scaffolding and Assessment Boundaries</a></div></td>
 <td>Matteo Tuveri et al.</td>
@@ -752,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03819.html">Exploring the evolution of gravitational-wave emitters with efficient emulation: Constraining the origins of binary black holes using normalising flows</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Storm Colloms et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03819">2503.03819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15910.html">Physical parameter regression from black hole images via a multiscale adaptive neural network</a></div></td>
-<td>Jialei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15910">2507.15910</a></td>
 </tr>
 </tbody></table>

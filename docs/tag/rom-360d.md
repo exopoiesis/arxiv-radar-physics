@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11034.html">Inverse scattering for Schrödinger equation in the frequency domain via data-driven reduced order modeling</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Andreas Tataris et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11034">2503.11034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21299.html">Blending data and physics for reduced-order modeling of systems with spatiotemporal chaotic dynamics</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Alex Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21299">2507.21299</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15077.html">An Introduction to Sparse Identification of Nonlinear Dynamics for Engineering Applications</a></div></td>
+<td>Yao Cheng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15077">2607.15077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13866.html">Evaluation of State-of-the-Art Deep Learning Architectures for Aerodynamical Predictions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Jan Scherz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13866">2607.13866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14321.html">Accounting for Hysteresis and Eddy Currents in Finite Element Simulations of Ferromagnetic Laminated Cores using a Recurrent Neural Network</a></div></td>
+<td>Florent Purnode et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14321">2607.14321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13022.html">A Shortcut to Statistically Steady-State Turbulence with Flow Matching</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
+<td>Gianluca Galletti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13022">2607.13022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10429.html">Data-efficient continuous conditional denoising diffusion model for microstructure generation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -1004,17 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05863.html">Extending Parametric Model Embedding with Physical Information for Design-space Dimensionality Reduction in Shape Optimization</a></div></td>
 <td>Andrea Serani et al.</td>
 <td><a href="http://arxiv.org/abs/2504.05863">2504.05863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15235.html">Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data</a></div></td>
-<td>Miao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15235">2507.15235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15976.html">Efficient dataset construction using active learning and uncertainty-aware neural networks for plasma turbulent transport surrogate models</a></div></td>
-<td>Aaron Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15976">2507.15976</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15049.html">Neural operators solve inverse problems for constitutive model discovery</a></div></td>
+<td>Moritz Flaschel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15049">2607.15049</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14394.html">DRIFT: Direct Reduced Fourier Transforms for Distributed Spectral Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Sana Taghipour Anvari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14394">2607.14394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12122.html">An Agentic AI Scientific Community for Automated Neural Operator Discovery</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Luis Loo et al.</td>
@@ -794,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17040.html">When Spike Sparsity Does Not Translate to Deployed Cost: VS-WNO on Jetson Orin Nano</a></div></td>
 <td>Jason Yoo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17040">2604.17040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16721.html">Late Fusion Neural Operators for Extrapolation Across Parameter Space in Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Eva van Tegelen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16721">2604.16721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16722.html">Neuroscience Inspired Graph Operators Towards Edge-Deployable Virtual Sensing for Irregular Geometries</a></div></td>
-<td>William Howes et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16722">2604.16722</a></td>
 </tr>
 </tbody></table>

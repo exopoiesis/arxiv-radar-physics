@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13866.html">Evaluation of State-of-the-Art Deep Learning Architectures for Aerodynamical Predictions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Jan Scherz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13866">2607.13866</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12570.html">Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems</a></div></td>

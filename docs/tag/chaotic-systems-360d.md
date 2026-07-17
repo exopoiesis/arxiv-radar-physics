@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21244.html">Bubbleformer: Forecasting Boiling with Transformers</a></div></td>
 <td>Sheikh Md Shakeel Hassan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21244">2507.21244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15678.html">GeoHNNs: Geometric Hamiltonian Neural Networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-360d.html">hamiltonian-neural-networks</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Amine Mohamed Aboussalah et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15678">2507.15678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03707.html">Forecasting chaotic dynamic using hybrid system</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Michele Baia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03707">2508.03707</a></td>
 </tr>
 </tbody></table>

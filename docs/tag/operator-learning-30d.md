@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13866.html">Evaluation of State-of-the-Art Deep Learning Architectures for Aerodynamical Predictions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Jan Scherz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13866">2607.13866</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12570.html">Deep Learning-based Surrogate Modelling of the LOD Method for Multiscale Problems</a></div></td>
@@ -158,29 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20771.html">ELADO: Elliptic PDE Assessment Datasets for Operator Learning</a></div></td>
 <td>Frank Ehebrecht et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20771">2606.20771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17419.html">Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Yahong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17419">2606.17419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17672.html">When Rough Data Helps: A Phase Transition in Convergence Rates for Kernel Recovery in Integral Operators</a></div></td>
-<td>Jihong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17672">2606.17672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Kuilin Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18525.html">Hierarchical Attention via Domain Decomposition</a></div></td>
-<td>Stephan Köhler et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18525">2606.18525</a></td>
 </tr>
 </tbody></table>

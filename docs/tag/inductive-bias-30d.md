@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>James T. Pegg et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13737">2607.13737</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="equivariant-neural-networks-30d.html">equivariant-neural-networks</a></div></td>
 <td>Viktor A. Lilja et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
 <td>Martin Uray et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17886.html">Monotonic Kolmogorov-Arnold Networks: A Theoretical and Empirical Study of Monotonicity as an Inductive Bias</a></div></td>
-<td>Mikhail Krasnov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17886">2606.17886</a></td>
 </tr>
 </tbody></table>

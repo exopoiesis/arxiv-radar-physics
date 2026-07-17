@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13722.html">Towards quantum machine learning for assessing the resilience of post-quantum cryptography</a></div></td>
+<td>Jarosław A. Miszczak</td>
+<td><a href="http://arxiv.org/abs/2607.13722">2607.13722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>James T. Pegg et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13737">2607.13737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13827.html">Inherent interpretability provides inherent value in quantum machine learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Kaitlin Gili et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13827">2607.13827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13847.html">Quantum Topological Data Encoding</a></div></td>
+<td>Adam Wesołowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13847">2607.13847</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12487.html">Benchmarking loss functions for trainable quantum feature maps</a></div></td>
@@ -26,6 +50,30 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12828.html">Detecting Phishing in Ethereum Networks using Quantum Machine Learning</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a></div></td>
 <td>Sai Sakunthala Guddanti et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12828">2607.12828</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12981.html">An Agentic Formalization for Certified Quantum Neural Network Design</a></div></td>
+<td>Mingrui Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12981">2607.12981</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12996.html">Expressibility and trainability of a two-dimensional pairwise quantum-circuit ansatz</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
+<td>Shuai Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12996">2607.12996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13191.html">Two-Tower Quantum Matrix Chain Multiplication: Trading Qubits for Depth</a></div></td>
+<td>Giacomo Antonioli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13191">2607.13191</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14160.html">QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation from Sentinel-2 Imagery</a></div></td>
+<td>Jaiman Munshi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14160">2607.14160</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-13</td>
@@ -3122,11 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02685.html">Benchmarking Classical and Quantum Models for DeFi Yield Prediction on Curve Finance</a></div></td>
 <td>Chi-Sheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02685">2508.02685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10488.html">Opportunities and challenges of quantum computing for climate modelling</a></div></td>
-<td>Mierk Schwabe et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10488">2502.10488</a></td>
 </tr>
 </tbody></table>

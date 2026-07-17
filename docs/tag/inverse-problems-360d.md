@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,17 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16353.html">A Semi-analytic but Biased Uncertainty Assessment Method using Sample Extensions, Analysed for Nonlinear Travel Time Tomography</a></div></td>
 <td>Xuebin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16353">2507.16353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15768.html">Toward an event-level analysis of hadron structure using differential programming</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Kevin Braga et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15768">2507.15768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16087.html">Iterative Born Solver for the Acoustic Helmholtz Equation with Heterogeneous Sound Speed and Density</a></div></td>
-<td>Antonio Stanziola et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16087">2507.16087</a></td>
 </tr>
 </tbody></table>

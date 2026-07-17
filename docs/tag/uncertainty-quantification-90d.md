@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13827.html">Inherent interpretability provides inherent value in quantum machine learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Kaitlin Gili et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13827">2607.13827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14392.html">Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
+<td>Priyabrata Senapati et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14392">2607.14392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13207.html">Estimation of Elastic Parameters with Guidance-based Diffusion model</a></div></td>
+<td>Anjali Dixit et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13207">2607.13207</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10965.html">Structure-preserving variational neural fields: Uncertainty-quantified reduced-order modeling of nonlinear conservation laws</a></div></td>
@@ -776,23 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17156.html">Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="rans-90d.html">rans</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Khemraj Shukla et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17156">2604.17156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14757.html">Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Erik Burman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14757">2602.14757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16590.html">Global Attention with Linear Complexity for Exascale Generative Data Assimilation in Earth System Prediction</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Xiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16590">2604.16590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16719.html">Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
-<td>Xan Carey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16719">2604.16719</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,11 +602,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21628.html">Image of a time-dependent rotating regular black hole</a></div></td>
 <td>Sen Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21628">2507.21628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15775.html">Learning Null Geodesics for Gravitational Lensing Rendering in General Relativity</a></div></td>
-<td>Mingyuan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15775">2507.15775</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14519.html">State-Dependent Metric Projection Neural Network for Variational Inequalities</a></div></td>
+<td>Mohammed Alshahrani</td>
+<td><a href="http://arxiv.org/abs/2607.14519">2607.14519</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14937.html">A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems</a></div></td>
+<td>Christoph Jürgen Hemmer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14937">2607.14937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15180.html">RTS Smoother-Guided Learning of Physics-Based Neural Differential Models</a></div></td>
+<td>Ahmet Demirkaya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15180">2607.15180</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13387.html">Change-Aware Self-Adaptive AI-Aided Kalman Filters With Neural Change Point Detection</a></div></td>
+<td>Wenyi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13387">2607.13387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>David Krongauz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
@@ -206,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19145.html">OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems</a></div></td>
 <td>Till Richter et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19145">2606.19145</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18305.html">Starter-Iterator Neural Operator: A Unified Architecture for High-Fidelity Forward and Inverse PDE Problems</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Kuilin Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18305">2606.18305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18409.html">Learning Moment Maps for Continuous-Time Markov Chains under Monte Carlo Noise</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Madison Pratt et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18409">2606.18409</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20718.html">Escape from Delusional Echo Trap: Symmetry Breaking, Stochastic Dynamics and Mathematical Mitigation Strategies for Algorithmic Sycophancy</a></div></td>
-<td>Sayantari Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20718">2606.20718</a></td>
 </tr>
 </tbody></table>

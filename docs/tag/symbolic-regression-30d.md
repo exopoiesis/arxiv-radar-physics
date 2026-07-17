@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>David Krongauz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11110.html">Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks</a></div></td>
 <td>Aruzhan Tleubek et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18975.html">On the robustness of the angular homogeneity scale $θ_H$: a comparative analysis of computational approaches</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Pedro Fanha et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18975">2606.18975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17951.html">Data-Driven Discovery of a Simple Phantom-Crossing Dark Energy Parametrization</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Giulia Borghetto et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17951">2606.17951</a></td>
 </tr>
 </tbody></table>

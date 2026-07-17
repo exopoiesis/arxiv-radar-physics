@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12975.html">Ensemble Controlled-Flow Filtering for Implicit Data Assimilation</a></div></td>
+<td>Zhuoyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12975">2607.12975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03571.html">Transferable inference of turbulence models for urban flows with the Parameter-Regularised Ensemble Kalman Filter</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
 <td>Emanuele Bombardi et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18840.html">Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Ben Seiyon Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18840">2604.18840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16590.html">Global Attention with Linear Complexity for Exascale Generative Data Assimilation in Earth System Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Xiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16590">2604.16590</a></td>
 </tr>
 </tbody></table>

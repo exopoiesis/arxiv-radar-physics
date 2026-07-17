@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13301.html">Precision quantum simulation of magnon spectra and interactions</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Trond I. Andersen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13301">2607.13301</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20535.html">Near-Optimal Learning of Local Lindbladians</a></div></td>
 <td>Itai Arad et al.</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17470.html">Machine Learning Hamiltonian Dynamical Systems with Sparse and Noisy Data</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Vedanta Thapar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17470">2604.17470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20665.html">Lower Bounds for Learning Hamiltonians from Time Evolution</a></div></td>
-<td>Ziyun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20665">2509.20665</a></td>
 </tr>
 </tbody></table>

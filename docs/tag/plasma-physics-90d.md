@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>plasma-physics — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <strong>90d</strong> <a href="plasma-physics-360d.html">360d</a> <a href="plasma-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08645.html">Energy-based models for diagnostic reconstruction and analysis in a laboratory plasma device</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
 <td>Phil Travis et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08645">2605.08645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22486.html">The Machine Learning Approach to Moment Closure Relations for Plasma: A Review</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
-<td>Samuel Burles et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22486">2511.22486</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13151.html">Evaluating the flexibility of the MillenniumTNG galaxy formation model with multi-zoom re-simulations</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
+<td>Francisco Maion et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13151">2607.13151</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25359.html">Cosmological Galaxy Formation Modelling in the Era of the Square Kilometre Array</a></div></td>
 <td>Claudia del P. Lagos et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07651.html">Cosmology with one galaxy: An analytic formula relating $Ω_{\rm m}$ with galaxy properties</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Kito Liao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07651">2602.07651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15932.html">Inferring Halo Mass and Scale Radius of Galaxy Clusters Using Convolutional Neural Networks and Uchuu-UniverseMachine Catalogs</a></div></td>
-<td>Hirobumi Tominaga et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15932">2604.15932</a></td>
 </tr>
 </tbody></table>

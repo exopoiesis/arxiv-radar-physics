@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13629.html">Advanced Techniques in Stability Analysis of Trans-Neptunian Objects</a></div></td>
+<td>Tamás Kovács</td>
+<td><a href="http://arxiv.org/abs/2607.13629">2607.13629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12990.html">A Noise-Aware Quantum Algorithm for Credit Valuation Adjustments on Real Quantum Hardware</a></div></td>
+<td>Guillem Borràs Espert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12990">2607.12990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13243.html">MCMC Methods for Parameter Inference in Structurally Nonidentifiable Models</a></div></td>
+<td>Xuyuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13243">2607.13243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13268.html">Neural-Accelerated Bayesian Calibration of Chiral Mean-Field Models to Nuclear Saturation and Vacuum Properties</a></div></td>
+<td>Isaac Legred et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13268">2607.13268</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10817.html">An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
@@ -104,23 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Christopher Cain et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17674.html">TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way</a></div></td>
-<td>P. Bonifacio et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17674">2606.17674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18378.html">Inferential Models: The Power of Auxiliary Variables for Reasoning with Scientific Uncertainty</a></div></td>
-<td>Chuanhai Liu</td>
-<td><a href="http://arxiv.org/abs/2606.18378">2606.18378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="dark-energy-30d.html">dark-energy</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Raul Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
 </tr>
 </tbody></table>

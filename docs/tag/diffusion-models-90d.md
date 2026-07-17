@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
+<td>Tessa Cannon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13371">2607.13371</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12905.html">A new model for runaway electron transport based on chaotic Hamiltonian systems</a></div></td>
 <td>Dániel Jánosi et al.</td>
@@ -824,11 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>William Lavery et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01292.html">Branching Paths Statistics for confined Flows : Adressing Navier-Stokes Nonlinear Transport</a></div></td>
-<td>Daniel Yaacoub et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01292">2604.01292</a></td>
 </tr>
 </tbody></table>

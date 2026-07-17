@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12971.html">A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Nathan Steinle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12971">2607.12971</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10026.html">Robustly Invertible Nonlinear Dynamics and the BiLipREN: From Inversion-Based Control to Generative Trajectory Modelling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Yurui Zhang et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16975.html">Convergence theory for Hermite approximations under adaptive coordinate transformations</a></div></td>
 <td>Yahya Saleh</td>
 <td><a href="http://arxiv.org/abs/2604.16975">2604.16975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20699.html">Comparing next-generation detector configurations for high-redshift gravitational wave sources with neural posterior estimation</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Filippo Santoliquido et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20699">2512.20699</a></td>
 </tr>
 </tbody></table>

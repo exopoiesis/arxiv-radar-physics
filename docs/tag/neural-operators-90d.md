@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,11 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18261.html">DeepRitzSplit Neural Operator for Phase-Field Models via Energy Splitting</a></div></td>
 <td>Chih-Kang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18261">2604.18261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17040.html">When Spike Sparsity Does Not Translate to Deployed Cost: VS-WNO on Jetson Orin Nano</a></div></td>
-<td>Jason Yoo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17040">2604.17040</a></td>
 </tr>
 </tbody></table>

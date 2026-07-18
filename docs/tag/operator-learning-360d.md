@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">288 papers</span>
+  <span class="paper-count">286 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1730,17 +1730,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18346.html">Low-rank adaptive physics-informed HyperDeepONets for solving differential equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Etienne Zeudong et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18346">2507.18346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16148.html">Learning Patient-Specific Spatial Biomarker Dynamics via Operator Learning for Alzheimer&#x27;s Disease Progression</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Jindong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16148">2507.16148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16344.html">Diff-ANO: Towards Fast High-Resolution Ultrasound Computed Tomography via Conditional Consistency Models and Adjoint Neural Operators</a></div></td>
-<td>Xiang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16344">2507.16344</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Borui Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18857.html">Investigating Inductive Biases for Machine Learning Emulation of Sudden Stratospheric Warmings in Idealised Isca Simulations</a></div></td>
-<td>Oskar Bohn Lassen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18857">2606.18857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Martin Uray et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
 </tr>
 </tbody></table>

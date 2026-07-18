@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17786.html">Reinforcement Learning for Accelerated Aerodynamic Shape Optimisation</a></div></td>
 <td>Florian Sobieczky et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17786">2507.17786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15993.html">Benchmarking machine learning models for predicting aerofoil performance</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Oliver Summerell et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15993">2504.15993</a></td>
 </tr>
 </tbody></table>

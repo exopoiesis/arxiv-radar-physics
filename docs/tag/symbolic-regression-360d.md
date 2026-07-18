@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17815.html">Analytic Regression of Feynman Integrals from High-Precision Numerical Sampling</a></div></td>
 <td>Oscar Barrera et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17815">2507.17815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19540.html">Bayesian symbolic regression: Automated equation discovery from a physicists&#x27; perspective</a></div></td>
-<td>Roger Guimera et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19540">2507.19540</a></td>
 </tr>
 </tbody></table>

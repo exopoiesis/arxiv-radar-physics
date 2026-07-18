@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13220.html">Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science</a></div></td>
+<td>Sutanay Choudhury et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13220">2607.13220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>

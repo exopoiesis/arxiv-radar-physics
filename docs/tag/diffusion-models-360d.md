@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">614 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div></td>
+<td>Zezhong Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15278">2607.15278</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17515.html">Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Jesse Roberta Mingue Njiki et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17515">2604.17515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21161.html">Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Fanxu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21161">2506.21161</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18621.html">Quantum AI for Cancer Diagnostic Biomarker Discovery</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Mandeep Kaur Saggi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18621">2604.18621</a></td>
 </tr>
 </tbody></table>

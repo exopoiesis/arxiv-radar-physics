@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,17 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17931.html">Quantum Machine Learning Playground</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Pascal Debus et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17931">2507.17931</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16867.html">A Parameter-Efficient Quantum Anomaly Detection Method on a Superconducting Quantum Processor</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Maida Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16867">2412.16867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02685.html">Benchmarking Classical and Quantum Models for DeFi Yield Prediction on Curve Finance</a></div></td>
-<td>Chi-Sheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02685">2508.02685</a></td>
 </tr>
 </tbody></table>

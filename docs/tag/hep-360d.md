@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18811.html">Even Faster Simulations with Flow Matching: A Study of Zero Degree Calorimeter Responses</a></div></td>
 <td>Maksymilian Wojnar</td>
 <td><a href="http://arxiv.org/abs/2507.18811">2507.18811</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06040.html">Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a> · <a href="jet-tagging-360d.html">jet-tagging</a></div></td>
-<td>Arghya Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06040">2405.06040</a></td>
 </tr>
 </tbody></table>

@@ -11953,6 +11953,47 @@
   ],
   "updated": "2026-07-14"
  },
+ "2607.13220": {
+  "abstract": "Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems are rarely solved by one reasoner alone. They are solved by teams whose members carry different priors, experimental background, tacit knowledge, and domain-trained intuitions. The open problem is therefore not only how to scale models, but how to develop \"networked intelligence\", scaling the connections between humans and AI systems so that a result or hypothesis produced in one context reaches another person, agent, instrument or robot that can act on it. We introduce Mycelium, an active shared workspace that automatically connects researchers and AI agents. As human users and agents work, the system captures important observations and hypotheses, tracks how they relate to the team's evolving knowledge model, and routes them to the person or agent whose next decision they can inform. We evaluate Mycelium through a real-world scientific discovery use case: a biological multi-omics campaign where shared context turned a local analytical finding into a cross-expert mechanistic constraint and ultimately into an experimental design. Finally, we describe networked intelligence as sparse conditional computation over distributed scientific contexts. This framework establishes when a scaled standalone agent is sufficient, and when isolated data and specialized expertise make a networked approach essential.",
+  "authors": [
+   "Sutanay Choudhury",
+   "Jeffrey J. Czajka",
+   "Lummy M. O. Monteiro",
+   "Erin Bredeweg",
+   "Jason McDermott",
+   "Katherine Wolf",
+   "Alex Beliaev",
+   "Josh Elmore",
+   "Paul Piehowski",
+   "Kylee Tate",
+   "Yuqian Gao",
+   "Aivett Bilbao",
+   "Kelly Stratton",
+   "Scott Baker",
+   "Jaydeep P. Bardhan",
+   "Kristin Burnum Johnson",
+   "Chris Oehmen",
+   "Robert Rallo"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CE",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Sutanay Choudhury",
+  "pdf_url": "http://arxiv.org/pdf/2607.13220",
+  "primary_category": "cs.AI",
+  "published": "2026-07-14",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-07-16"
+ },
  "2607.13233": {
   "abstract": "In a previous paper, we found that adding an X-ray flux feature to a Random Forest Classifier of active galactic nuclei (AGN) and star-forming galaxies (SFGs) decreased classification accuracy from 97.51% to 89.26%, a counterintuitive result given the prevailing theory that X-rays are a reliable AGN diagnostic. This paper investigates the source of that discrepancy through both astrophysical and machine learning lenses. On the astrophysical side, we show that the X-ray luminosities of AGN and SFGs in the sample substantially overlap across the canonical $10^{42}$ erg/s threshold, reflecting the moderate luminosity characteristic of an optically-selected SDSS sample and the contribution of high-mass X-ray binaries (HMXBs) to SFG emission. On the machine learning side, we argue that the BPT-derived training labels constitute instance-dependent label noise: label uncertainty is concentrated near the BPT demarcation line, where X-ray data would be most useful as a discriminator. We show that misclassified objects in 5-fold cross-validation cluster primarily near the Kewley demarcation curve, with a median distance of 0.130 dex compared to 0.748 dex for correctly classified objects (with Kolmogorov-Smirnov test results of $D = 0.701,\\; p = 3.93\\times 10^{-9}$ showing a statistically significant difference), and the X-ray feature exhibits permutation importance consistent with active harm to model predictions. We conclude that the discrepancy is consistent with a machine learning artifact compounded by an astrophysical overlap, and that future classifiers operating on optically-selected samples should employ independent label sources or noise-robust training methods.",
   "authors": [
@@ -13799,6 +13840,39 @@
   "topics": [
    "Dynamical Systems & PDE Learning",
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15278": {
+  "abstract": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/.",
+  "authors": [
+   "Zezhong Qian",
+   "Xiaowei Chi",
+   "Chak-Wing Mak",
+   "Tianze Zhou",
+   "Ruibin Yuan",
+   "Yuhan Rui",
+   "Hengzhe Sun",
+   "Zhuoqun Wu",
+   "Yuming Li",
+   "Siyuan Qian",
+   "Sirui Han",
+   "Shanghang Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Zezhong Qian",
+  "pdf_url": "http://arxiv.org/pdf/2607.15278",
+  "primary_category": "cs.CV",
+  "published": "2026-07-16",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+  "topics": [
+   "Generative Models & Discovery"
   ],
   "updated": "2026-07-16"
  }

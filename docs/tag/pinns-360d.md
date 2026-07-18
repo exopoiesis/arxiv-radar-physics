@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">630 papers</span>
+  <span class="paper-count">628 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3782,17 +3782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15455.html">Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Hee Jun Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15455">2507.15455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16380.html">Optimization and generalization analysis for two-layer physics-informed neural networks without over-parametrization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Zhihan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16380">2507.16380</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16636.html">Physics-Informed Neural Networks for High-Precision Grad-Shafranov Equilibrium Reconstruction</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Cuizhi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16636">2507.16636</a></td>
 </tr>
 </tbody></table>

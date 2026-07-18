@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div></td>
+<td>Zezhong Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15278">2607.15278</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="climate-modeling-30d.html">climate-modeling</a></div></td>
 <td>Tessa Cannon et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20764.html">One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception</a></div></td>
 <td>Keqin Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20764">2606.20764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18997.html">DIPHINE: Diffusion-based $Φ$-ID Neural Estimator</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Simon Pedro Galeano Munoz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18997">2606.18997</a></td>
 </tr>
 </tbody></table>

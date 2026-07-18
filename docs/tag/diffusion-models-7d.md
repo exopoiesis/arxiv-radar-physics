@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div></td>
+<td>Zezhong Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15278">2607.15278</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="climate-modeling-7d.html">climate-modeling</a></div></td>
 <td>Tessa Cannon et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10429.html">Data-efficient continuous conditional denoising diffusion model for microstructure generation</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Tarakram Ramgopal et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10429">2607.10429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09108.html">Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures</a></div></td>
-<td>Jaeuk Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09108">2607.09108</a></td>
 </tr>
 </tbody></table>

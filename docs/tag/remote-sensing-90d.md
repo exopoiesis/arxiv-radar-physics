@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,17 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17243.html">RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation</a></div></td>
 <td>Rui Min et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17243">2604.17243</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21159.html">Spatial-Regularization-Aware Dual-Branch Collaborative Inference for Training-Free OVSS in Remote Sensing Imagery</a></div></td>
-<td>Jianzheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21159">2601.21159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16841.html">When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution</a></div></td>
-<td>Yiheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16841">2604.16841</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,21 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-07-17._
+_Updated 2026-07-18._
 
-**19668** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**19670** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13220.html">Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Sutanay Choudhury et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13220">2607.13220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="tag/force-fields-30d.html">force-fields</a></div></td>
@@ -135,6 +141,12 @@ _Updated 2026-07-17._
 <td><a href="http://arxiv.org/abs/2607.15195">2607.15195</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Zezhong Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15278">2607.15278</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="tag/climate-modeling-30d.html">climate-modeling</a> · <a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Tessa Cannon et al.</td>
@@ -181,17 +193,5 @@ _Updated 2026-07-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/scientific-discovery-30d.html">scientific-discovery</a> · <a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>David Krongauz et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13629.html">Advanced Techniques in Stability Analysis of Trans-Neptunian Objects</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Tamás Kovács</td>
-<td><a href="http://arxiv.org/abs/2607.13629">2607.13629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13688.html">Microstructure-Conditioned Surrogate Models for Graded Multiscale Optimization of Mycelium Composites</a></div></td>
-<td>J. Storm et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13688">2607.13688</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,17 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17922.html">Optimal Linear Interpolation under Differential Information: application to the prediction of perfect flows</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Soumyodeep Mukhopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17922">2604.17922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16842.html">Singularity Formation: Synergy in Theoretical, Numerical and Machine Learning Approaches</a></div></td>
-<td>Yixuan Wang</td>
-<td><a href="http://arxiv.org/abs/2604.16842">2604.16842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17156.html">Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="rans-90d.html">rans</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Khemraj Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17156">2604.17156</a></td>
 </tr>
 </tbody></table>

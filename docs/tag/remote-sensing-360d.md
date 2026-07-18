@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">564 papers</span>
+  <span class="paper-count">561 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3380,23 +3380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10027.html">ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction</a></div></td>
 <td>Shijie Lyu</td>
 <td><a href="http://arxiv.org/abs/2505.10027">2505.10027</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16228.html">MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing</a></div></td>
-<td>Shreelekha Revankar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16228">2507.16228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16657.html">Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection</a></div></td>
-<td>Shuang Song et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16657">2507.16657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16716.html">Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation</a></div></td>
-<td>Yiguo He et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16716">2507.16716</a></td>
 </tr>
 </tbody></table>

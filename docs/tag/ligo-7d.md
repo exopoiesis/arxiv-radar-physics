@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ligo — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14233.html">LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Nilay Anurag et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14233">2607.14233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09836.html">Compact stars in a large-tension braneworld: mildly negative Weyl coupling consistent with NICER and gravitational-wave data</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>Samuel Isidoro dos Santos Júnior et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09836">2607.09836</a></td>
 </tr>
 </tbody></table>

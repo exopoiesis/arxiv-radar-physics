@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3110,17 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18074.html">AlphaGo Moment for Model Architecture Discovery</a></div></td>
 <td>Yixiu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18074">2507.18074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17209.html">HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery</a></div></td>
-<td>Haoran Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17209">2507.17209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17470.html">Demonstration of Efficient Predictive Surrogates for Large-scale Quantum Processors</a></div></td>
-<td>Wei-You Liao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17470">2507.17470</a></td>
 </tr>
 </tbody></table>

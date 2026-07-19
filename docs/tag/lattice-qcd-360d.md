@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>lattice-qcd — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <a href="lattice-qcd-90d.html">90d</a> <strong>360d</strong> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14970.html">Study of Heavy Quarkonia Melting in QGP Using Deep Neural Networks</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Mohammad Yousuf Jamal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14970">2509.14970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17810.html">Decoding the proton&#x27;s gluonic density with lattice QCD-informed machine learning</a></div></td>
-<td>Brandon Kriesten et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17810">2507.17810</a></td>
 </tr>
 </tbody></table>

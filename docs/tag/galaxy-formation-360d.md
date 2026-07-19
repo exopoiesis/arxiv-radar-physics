@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08586.html">CSST Strong Lensing Preparation: Fast Modeling of Galaxy-Galaxy Strong Lenses in the Big Data Era</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Xiaoyue Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08586">2503.08586</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16548.html">Optimised neural network predictions of galaxy formation histories using semi-stochastic corrections</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Jayashree Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16548">2409.16548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14338.html">AMICO galaxy clusters in KiDS-1000: cosmological sample</a></div></td>
-<td>M. Maturi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14338">2507.14338</a></td>
 </tr>
 </tbody></table>

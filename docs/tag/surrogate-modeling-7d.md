@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13022.html">A Shortcut to Statistically Steady-State Turbulence with Flow Matching</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
 <td>Gianluca Galletti et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13022">2607.13022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10429.html">Data-efficient continuous conditional denoising diffusion model for microstructure generation</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Tarakram Ramgopal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10429">2607.10429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11943.html">BattVAE-GP: Generative Modeling of Long-Horizon Battery Degradation with Uncertainty Quantification</a></div></td>
-<td>Raghvender Raghvender et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11943">2607.11943</a></td>
 </tr>
 </tbody></table>

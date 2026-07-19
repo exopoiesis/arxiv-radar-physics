@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02570.html">Neural Scaling Laws Surpass Chemical Accuracy for the Many-Electron Schrödinger Equation</a></div></td>
 <td>Du Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02570">2508.02570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11034.html">Inverse scattering for Schrödinger equation in the frequency domain via data-driven reduced order modeling</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
-<td>Andreas Tataris et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11034">2503.11034</a></td>
 </tr>
 </tbody></table>

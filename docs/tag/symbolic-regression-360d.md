@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,11 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18332.html">Hierarchical Dimensionless Learning (Hi-π): A physics-data hybrid-driven approach for discovering dimensionless parameter combinations</a></div></td>
 <td>Mingkun Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18332">2507.18332</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17815.html">Analytic Regression of Feynman Integrals from High-Precision Numerical Sampling</a></div></td>
-<td>Oscar Barrera et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17815">2507.17815</a></td>
 </tr>
 </tbody></table>

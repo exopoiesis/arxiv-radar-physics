@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,29 +1286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18054.html">Variational autoencoder for generating realistic $N$-body simulations for dark matter halos</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Jazhiel Chacón-Lavanderos et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18054">2507.18054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16548.html">Optimised neural network predictions of galaxy formation histories using semi-stochastic corrections</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Jayashree Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16548">2409.16548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15468.html">Generating Dark Matter Subhalo Populations Using Normalizing Flows</a></div></td>
-<td>Jack Lonergan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15468">2504.15468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04336.html">In search of an interaction in the dark sector through Gaussian Process and ANN approaches</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Mazaharul Abedin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04336">2505.04336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17804.html">On the Energy Distribution of the Galactic Center Excess&#x27; Sources</a></div></td>
-<td>Florian List et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17804">2507.17804</a></td>
 </tr>
 </tbody></table>

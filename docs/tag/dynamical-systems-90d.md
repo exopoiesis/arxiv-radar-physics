@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18887.html">HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction</a></div></td>
 <td>Blake Werner et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18887">2604.18887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01015.html">Upper Approximation Bounds for Neural Oscillators</a></div></td>
-<td>Zifeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01015">2512.01015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17470.html">Machine Learning Hamiltonian Dynamical Systems with Sparse and Noisy Data</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
-<td>Vedanta Thapar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17470">2604.17470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17563.html">Composition and tensor train structure in polynomial optimization</a></div></td>
-<td>Llorenç Balada Gaggioli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17563">2604.17563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17566.html">Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification</a></div></td>
-<td>Achraf El Messaoudi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17566">2604.17566</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">820 papers</span>
+  <span class="paper-count">816 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4910,29 +4910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18813.html">Scale-Consistent Learning for Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Zongyi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18813">2507.18813</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13066.html">Fast And Scalable FFT-Based GPU-Accelerated Algorithms for Block-Triangular Toeplitz Matrices With Application to Linear Inverse Problems Governed by Autonomous Dynamical Systems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Sreeram Venkat et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13066">2407.13066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12941.html">Adaptive feature capture method for solving partial differential equations with near singular solutions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yangtao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12941">2507.12941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17535.html">Hybrid Boundary Physics-Informed Neural Networks for Solving Navier-Stokes Equations with Complex Boundary</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Chuyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17535">2507.17535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17713.html">Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Hongji Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17713">2507.17713</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,17 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22960.html">Hybrid Particle Swarm Optimization for Fast and Reliable Parameter Extraction in Thermoreflectance</a></div></td>
 <td>Bingjia Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22960">2507.22960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13066.html">Fast And Scalable FFT-Based GPU-Accelerated Algorithms for Block-Triangular Toeplitz Matrices With Application to Linear Inverse Problems Governed by Autonomous Dynamical Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sreeram Venkat et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13066">2407.13066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17713.html">Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Hongji Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17713">2507.17713</a></td>
 </tr>
 </tbody></table>

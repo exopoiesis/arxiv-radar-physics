@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">614 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3698,11 +3698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17268.html">PolarAnything: Diffusion-based Polarimetric Image Synthesis</a></div></td>
 <td>Kailong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17268">2507.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20863.html">Leveraging Diffusion Models for Parameterized Quantum Circuit Generation</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Daniel Barta et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20863">2505.20863</a></td>
 </tr>
 </tbody></table>

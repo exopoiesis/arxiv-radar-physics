@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <strong>90d</strong> <a href="hamiltonian-learning-360d.html">360d</a> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22955.html">Realizing multi-orbital Emery models with ultracold atoms</a></div></td>
 <td>Conall McCabe et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22955">2604.22955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17470.html">Machine Learning Hamiltonian Dynamical Systems with Sparse and Noisy Data</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Vedanta Thapar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17470">2604.17470</a></td>
 </tr>
 </tbody></table>

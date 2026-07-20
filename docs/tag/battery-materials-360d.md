@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13067.html">Integrating Density Functional Theory with Deep Neural Networks for Accurate Voltage Prediction in Alkali-Metal-Ion Battery Materials</a></div></td>
 <td>Sk Mujaffar Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2503.13067">2503.13067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18530.html">Deep learning-enabled large-scale analysis of particle geometry-lithiation correlations in battery cathode materials</a></div></td>
-<td>Binbin Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18530">2507.18530</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,17 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02717.html">DD-DeepONet: Domain decomposition and DeepONet for solving partial differential equations in three application scenarios</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Bo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02717">2508.02717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06133.html">Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06133">2507.06133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18346.html">Low-rank adaptive physics-informed HyperDeepONets for solving differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Etienne Zeudong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18346">2507.18346</a></td>
 </tr>
 </tbody></table>

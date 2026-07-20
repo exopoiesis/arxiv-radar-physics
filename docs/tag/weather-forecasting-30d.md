@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16160.html">SEP-PRISM Data: A multi-source dataset for solar energetic particle forecasting</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16160">2607.16160</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Ingmar Posner et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26389.html">Sampling sea state using a diffusion model</a></div></td>
 <td>Jiarong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26389">2606.26389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Ananyo Bhattacharya</td>
-<td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
 </tr>
 </tbody></table>

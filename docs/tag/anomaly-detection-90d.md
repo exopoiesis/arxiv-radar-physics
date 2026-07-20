@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Sodtavilan Odonchimed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13897.html">RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation</a></div></td>
 <td>Abdallah Aaraba et al.</td>
@@ -428,11 +434,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21035.html">Masked-Token Prediction for Anomaly Detection at the Large Hadron Collider</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
 <td>Ambre Visive et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21035">2604.21035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18064.html">Understanding Human Actions through the Lens of Executable Models</a></div></td>
-<td>Rimvydas Rubavicius et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18064">2604.18064</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15433.html">From hyperplanes to hyperellipsoids: characterizing the inherent interpretability of linear and single-qubit mixed-state binary classification models</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Kaitlin Gili</td>
+<td><a href="http://arxiv.org/abs/2607.15433">2607.15433</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>James T. Pegg et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23791.html">One Generator, Any Process: LLM-Conditioning for the LHC</a></div></td>
 <td>Henning Bahl et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23791">2606.23791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Borui Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
 </tr>
 </tbody></table>

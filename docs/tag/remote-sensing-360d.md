@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15639.html">BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating</a></div></td>
+<td>Gaurav Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15639">2607.15639</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15942.html">More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe</a></div></td>
+<td>Stefan Maria Ailuro et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15942">2607.15942</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11366.html">Self-supervised training for high-resolution close-range multispectral remote sensing imagery</a></div></td>
 <td>Leon-Friedrich Thomas et al.</td>
@@ -3350,17 +3362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05390.html">From General to Specialized: The Need for Foundational Models in Agriculture</a></div></td>
 <td>Vishal Nedungadi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05390">2507.05390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02574.html">Dynamic mapping from static labels: remote sensing dynamic sample generation with temporal-spectral embedding</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Shuai Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02574">2506.02574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18462.html">A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots</a></div></td>
-<td>Alghalya Al-Hajri et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18462">2507.18462</a></td>
 </tr>
 </tbody></table>

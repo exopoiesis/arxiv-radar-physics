@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Sodtavilan Odonchimed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13897.html">RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation</a></div></td>
 <td>Abdallah Aaraba et al.</td>
@@ -1928,11 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19253.html">BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection</a></div></td>
 <td>An Xiang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19253">2507.19253</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02574.html">Dynamic mapping from static labels: remote sensing dynamic sample generation with temporal-spectral embedding</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Shuai Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02574">2506.02574</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15907.html">A Semiparametric Framework for Stochastic Fundamental Diagram Modeling</a></div></td>
+<td>Pengnan Chi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15907">2607.15907</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Leonard Moracchini et al.</td>
@@ -3308,11 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09052.html">GREAT: Grassmannian REcursive Algorithm for Tracking &amp; Online System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>András Sasfi et al.</td>
 <td><a href="http://arxiv.org/abs/2412.09052">2412.09052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18683.html">Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Stephen A. Walsh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18683">2507.18683</a></td>
 </tr>
 </tbody></table>

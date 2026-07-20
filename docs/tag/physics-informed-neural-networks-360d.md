@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Xu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15560">2607.15560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15751.html">Trainable Spline Representations for Physics-Informed Learning</a></div></td>
+<td>Giovanni Canali et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15751">2607.15751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14665.html">A new strategy for physics-informed neural networks based on hierarchical collocation point refinement</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Minjae Choi et al.</td>
@@ -3794,17 +3806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19249.html">Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Jonas Søeborg Nielsen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19249">2508.19249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18132.html">Inverse Design using Physics-Informed Quantum GANs for Tailored Absorption in Dielectric Metasurfaces</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Sreeraj Rajan Warrier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18132">2507.18132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02692.html">Overcoming the Loss Conditioning Bottleneck in Optimization-Based PDE Solvers: A Novel Well-Conditioned Loss Function</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Wenbo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02692">2508.02692</a></td>
 </tr>
 </tbody></table>

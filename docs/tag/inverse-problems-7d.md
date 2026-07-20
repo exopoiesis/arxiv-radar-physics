@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="hamiltonian-learning-7d.html">hamiltonian-learning</a></div></td>
+<td>Jesús Jiménez-Rodríguez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16047">2607.16047</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12888.html">Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures</a></div></td>
 <td>Jing Qin et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11298.html">PAC Studio Machine Learning: Human-in-the-Loop Analysis of TDPAC Spectra</a></div></td>
 <td>Thien Thanh Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11298">2607.11298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10817.html">An Efficient Bayesian Framework for Uncertainty Quantification in Nonlinear Imaging Inverse Problems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>Anuj Abhishek et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10817">2607.10817</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15815.html">The Fourier Wall: Why Public Tabular Datasets Refuse Quantum Advantage, and a Certified Recipe for Where It Lives</a></div></td>
+<td>Javier Mancilla et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15815">2607.15815</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13827.html">Inherent interpretability provides inherent value in quantum machine learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Kaitlin Gili et al.</td>
@@ -1112,11 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03086.html">Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Salvatore Sinno et al.</td>
 <td><a href="http://arxiv.org/abs/2502.03086">2502.03086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18639.html">Quantum Machine Learning in Precision Medicine and Drug Discovery -- A Game Changer for Tailored Treatments?</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Markus Bertl et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18639">2502.18639</a></td>
 </tr>
 </tbody></table>

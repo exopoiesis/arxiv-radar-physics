@@ -34,6 +34,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
+<td>Adarsh Pashikanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Tianchi Yu et al.</td>
@@ -80,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11310.html">SPARC-Net: A Spectral, Causality-Aware, and Hard-Constrained Physics-Informed Architecture for Stiff and Shock-Dominated Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Divyavardhan Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11310">2607.11310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10546.html">LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Jinyang Du et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10546">2607.10546</a></td>
 </tr>
 </tbody></table>

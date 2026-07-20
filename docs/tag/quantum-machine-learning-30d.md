@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15433.html">From hyperplanes to hyperellipsoids: characterizing the inherent interpretability of linear and single-qubit mixed-state binary classification models</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Kaitlin Gili</td>
+<td><a href="http://arxiv.org/abs/2607.15433">2607.15433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13722.html">Towards quantum machine learning for assessing the resilience of post-quantum cryptography</a></div></td>
@@ -230,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22331.html">No Reference-Free Generalization in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Jeongho Bang</td>
 <td><a href="http://arxiv.org/abs/2606.22331">2606.22331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21327.html">Temporal processing of quantum states with hybrid quantum-classical reservoirs</a></div></td>
-<td>Mateu Coll-Comas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21327">2606.21327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21570.html">A Correlation Aware Quantum Feature Map for Variational Quantum Classification</a></div></td>
-<td>Murat Kurt</td>
-<td><a href="http://arxiv.org/abs/2606.21570">2606.21570</a></td>
 </tr>
 </tbody></table>

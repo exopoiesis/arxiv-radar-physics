@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div></td>
+<td>Matteo Tomasetto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16177">2607.16177</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14519.html">State-Dependent Metric Projection Neural Network for Variational Inequalities</a></div></td>
@@ -188,29 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22662.html">LSTM Variants for Chaotic Dynamical Systems: An Empirical Study on the Lorenz Attractor</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
 <td>Ruslan Gokhman</td>
 <td><a href="http://arxiv.org/abs/2606.22662">2606.22662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Borui Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21530.html">Exploratory Modelling of Multi-System Transformation Pathways from Real-World Data: A SINDy-Inspired Sparse Orthogonal Regression Technique</a></div></td>
-<td>Sabin Roman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21530">2606.21530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21538.html">Turbulence Physics Governs a Scaling Law for the Machine-Learning Predictability Ceiling in Chaotic Flow</a></div></td>
-<td>Jiashun Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21538">2606.21538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
-<td>Sina Arefizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
 </tr>
 </tbody></table>

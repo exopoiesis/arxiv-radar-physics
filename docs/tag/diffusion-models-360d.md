@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Sodtavilan Odonchimed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15693.html">Toward a mechanistic understanding of inference in visual cortex and diffusion models</a></div></td>
+<td>Zeyu Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15693">2607.15693</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div></td>
 <td>Zezhong Qian et al.</td>
@@ -3686,17 +3698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19292.html">PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups</a></div></td>
 <td>Sakuya Ota et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19292">2507.19292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06133.html">Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06133">2507.06133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17268.html">PolarAnything: Diffusion-based Polarimetric Image Synthesis</a></div></td>
-<td>Kailong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17268">2507.17268</a></td>
 </tr>
 </tbody></table>

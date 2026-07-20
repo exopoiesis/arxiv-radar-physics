@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <strong>90d</strong> <a href="reduced-order-modeling-360d.html">360d</a> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01493.html">OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
 <td>Zhuoyuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01493">2602.01493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10647.html">Latent Space Dynamics Identification for Interface Tracking with Application to Shock-Induced Pore Collapse</a></div></td>
-<td>Seung Whan Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10647">2507.10647</a></td>
 </tr>
 </tbody></table>

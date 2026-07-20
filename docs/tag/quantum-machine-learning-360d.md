@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">522 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15433.html">From hyperplanes to hyperellipsoids: characterizing the inherent interpretability of linear and single-qubit mixed-state binary classification models</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Kaitlin Gili</td>
+<td><a href="http://arxiv.org/abs/2607.15433">2607.15433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13722.html">Towards quantum machine learning for assessing the resilience of post-quantum cryptography</a></div></td>
@@ -3128,23 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19562.html">PennyCoder: Efficient Domain-Specific LLMs for PennyLane-Based Quantum Code Generation</a></div></td>
 <td>Abdul Basit et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19562">2507.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18639.html">Quantum Machine Learning in Precision Medicine and Drug Discovery -- A Game Changer for Tailored Treatments?</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Markus Bertl et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18639">2502.18639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18132.html">Inverse Design using Physics-Informed Quantum GANs for Tailored Absorption in Dielectric Metasurfaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Sreeraj Rajan Warrier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18132">2507.18132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18425.html">Quantum Machine Learning for Predicting Binding Free Energies in Structure-Based Virtual Screening</a></div></td>
-<td>Pei-Kun Yang</td>
-<td><a href="http://arxiv.org/abs/2507.18425">2507.18425</a></td>
 </tr>
 </tbody></table>

@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
+<td>Adarsh Pashikanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Tianchi Yu et al.</td>
@@ -278,11 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21945">2606.21945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Yitian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
 </tr>
 </tbody></table>

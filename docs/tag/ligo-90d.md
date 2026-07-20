@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15913.html">GW Microlensing: Degeneracy with Unlensed Precessing and Non-Spinning Gravitational-Wave Signals</a></div></td>
+<td>Disha Hegde et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15913">2607.15913</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14233.html">LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Nilay Anurag et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20941.html">Interpretable Analytic Formulae for GWTC-4 Binary Black Hole Population Properties via Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Chayan Chatterjee</td>
 <td><a href="http://arxiv.org/abs/2604.20941">2604.20941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17868.html">Including higher-order modes in a quadrupolar eccentric numerical relativity surrogate using universal eccentric modulation functions</a></div></td>
-<td>Tousif Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17868">2604.17868</a></td>
 </tr>
 </tbody></table>

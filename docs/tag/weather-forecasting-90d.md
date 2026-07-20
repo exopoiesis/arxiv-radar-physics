@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16160.html">SEP-PRISM Data: A multi-source dataset for solar energetic particle forecasting</a></div></td>
+<td>Yian Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16160">2607.16160</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
@@ -242,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23070.html">Learning the Weather-Grid Nexus via Weather-to-Voltage (W2V) Predictive Modeling</a></div></td>
 <td>Sol Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23070">2604.23070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11893.html">Universal Diffusion-Based Probabilistic Downscaling</a></div></td>
-<td>Roberto Molinaro et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11893">2602.11893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18906.html">Instability-Aware Steering of an Extreme Atmospheric River in an AI Weather Foundation Model</a></div></td>
-<td>Moyan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18906">2604.18906</a></td>
 </tr>
 </tbody></table>

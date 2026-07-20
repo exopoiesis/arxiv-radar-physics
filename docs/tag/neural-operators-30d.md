@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15857.html">Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators</a></div></td>
+<td>Ameir Shaa et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15857">2607.15857</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15049.html">Neural operators solve inverse problems for constitutive model discovery</a></div></td>
 <td>Moritz Flaschel et al.</td>
@@ -164,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21828.html">Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers</a></div></td>
 <td>Jaemin Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21828">2606.21828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Yitian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
 </tr>
 </tbody></table>

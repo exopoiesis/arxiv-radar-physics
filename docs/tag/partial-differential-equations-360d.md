@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">816 papers</span>
+  <span class="paper-count">811 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15087.html">Split Complex-Valued Physics-Informed Neural Networks for Forward and Inverse Nonlinear PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Biswanath Barman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
+<td>Adarsh Pashikanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -4874,41 +4880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19249.html">Physics-Informed Regression: Parameter Estimation in Parameter-Linear Nonlinear Dynamic Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jonas Søeborg Nielsen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19249">2508.19249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17844.html">LeanKAN: A Parameter-Lean Kolmogorov-Arnold Network Layer with Improved Memory Efficiency and Convergence Behavior</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17844">2502.17844</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06133.html">Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06133">2507.06133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18346.html">Low-rank adaptive physics-informed HyperDeepONets for solving differential equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Etienne Zeudong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18346">2507.18346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18731.html">Learning coupled Allen-Cahn and Cahn-Hilliard phase-field equations using Physics-informed neural operator(PINO)</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Gaijinliu Gangmei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18731">2507.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18780.html">Symmetry-reduced model reduction of shift-equivariant systems via operator inference</a></div></td>
-<td>Yu Shuai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18780">2507.18780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18813.html">Scale-Consistent Learning for Partial Differential Equations</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Zongyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18813">2507.18813</a></td>
 </tr>
 </tbody></table>

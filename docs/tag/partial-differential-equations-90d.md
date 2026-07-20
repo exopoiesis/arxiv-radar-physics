@@ -34,6 +34,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
+<td>Adarsh Pashikanti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Tianchi Yu et al.</td>
@@ -1010,11 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20061.html">Predictivity and Utility of Neural Surrogates of Multiscale PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Karthik Duraisamy</td>
 <td><a href="http://arxiv.org/abs/2604.20061">2604.20061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17922.html">Optimal Linear Interpolation under Differential Information: application to the prediction of perfect flows</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Soumyodeep Mukhopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17922">2604.17922</a></td>
 </tr>
 </tbody></table>

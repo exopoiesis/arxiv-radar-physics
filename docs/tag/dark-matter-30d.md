@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15020.html">High resolution Lyman-α forest constraints on dark matter-neutrino scattering</a></div></td>
 <td>Markus R. Mosbech et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15020">2607.15020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15320.html">On the reconstruction of the Rotation Curve for Milky Way and its spacetime implications: a Machine Learning approach</a></div></td>
+<td>Aritra Sanyal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15320">2607.15320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15339.html">Tighter Dark Matter Constraints from the Projected Mass Method: A Neural Network Enhanced Method for Galaxy Groups and Clusters</a></div></td>
+<td>Yinbo Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15339">2607.15339</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -92,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
 <td>Tri Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26218">2606.26218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21658.html">Towards LLM-Powered Automation of a Dark Matter Constraint Repository</a></div></td>
-<td>Lanqing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21658">2606.21658</a></td>
 </tr>
 </tbody></table>

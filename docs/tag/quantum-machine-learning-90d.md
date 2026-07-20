@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15433.html">From hyperplanes to hyperellipsoids: characterizing the inherent interpretability of linear and single-qubit mixed-state binary classification models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Kaitlin Gili</td>
+<td><a href="http://arxiv.org/abs/2607.15433">2607.15433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13722.html">Towards quantum machine learning for assessing the resilience of post-quantum cryptography</a></div></td>
@@ -650,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03023.html">Quantum Non-Linear Bandit Optimization</a></div></td>
 <td>Zakaria Shams Siam et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03023">2503.03023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18691.html">Harmoniq: Efficient Data Augmentation on a Quantum Computer Inspired by Harmonic Analysis</a></div></td>
-<td>Kristina Kirova et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18691">2604.18691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19832.html">Option Pricing on Noisy Intermediate-Scale Quantum Computers: A Quantum Neural Network Approach</a></div></td>
-<td>Sebastian Zając et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19832">2604.19832</a></td>
 </tr>
 </tbody></table>

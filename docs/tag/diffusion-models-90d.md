@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Sodtavilan Odonchimed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15693.html">Toward a mechanistic understanding of inference in visual cortex and diffusion models</a></div></td>
+<td>Zeyu Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15693">2607.15693</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15278.html">Hierarchical Denoising For Multi-Step Visual Reasoning</a></div></td>
@@ -812,29 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19670.html">Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming</a></div></td>
 <td>Alex Cuellar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19670">2604.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18611.html">Flow marching for a generative PDE foundation model</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Zituo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18611">2509.18611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17838.html">Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing</a></div></td>
-<td>Kijung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17838">2604.17838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18201.html">DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Geet Sethi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18201">2604.18201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
 </tr>
 </tbody></table>

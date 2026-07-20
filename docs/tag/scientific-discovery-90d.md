@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,23 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19355.html">LASER: Learning Active Sensing for Continuum Field Reconstruction</a></div></td>
 <td>Huayu Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19355">2604.19355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21248.html">ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition</a></div></td>
-<td>Yujie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21248">2503.21248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19897.html">ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows</a></div></td>
-<td>Qiushi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19897">2505.19897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15253.html">Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding</a></div></td>
-<td>Sensen Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15253">2510.15253</a></td>
 </tr>
 </tbody></table>

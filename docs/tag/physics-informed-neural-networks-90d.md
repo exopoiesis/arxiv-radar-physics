@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Xu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15560">2607.15560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15751.html">Trainable Spline Representations for Physics-Informed Learning</a></div></td>
+<td>Giovanni Canali et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15751">2607.15751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14665.html">A new strategy for physics-informed neural networks based on hierarchical collocation point refinement</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Minjae Choi et al.</td>
@@ -914,17 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00863.html">Physics-informed neural networks for form-finding of unilateral membrane structures</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Luigi Sibille et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00863">2605.00863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18277.html">Dissipative Latent Residual Physics-Informed Neural Networks for Modeling and Identification of Electromechanical Systems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Youyuan Long et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18277">2604.18277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="equation-discovery-90d.html">equation-discovery</a> · <a href="pinns-90d.html">pinns</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
 </tr>
 </tbody></table>

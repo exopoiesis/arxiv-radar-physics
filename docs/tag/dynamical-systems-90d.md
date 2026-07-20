@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div></td>
+<td>Matteo Tomasetto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16177">2607.16177</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14519.html">State-Dependent Metric Projection Neural Network for Variational Inequalities</a></div></td>
@@ -818,29 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19740.html">Generalization at the Edge of Stability</a></div></td>
 <td>Mario Tuci et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19740">2604.19740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18611.html">Flow marching for a generative PDE foundation model</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Zituo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18611">2509.18611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12448.html">Optimized Architectures for Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>James Bagrow et al.</td>
-<td><a href="http://arxiv.org/abs/2512.12448">2512.12448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18548.html">Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="equation-discovery-90d.html">equation-discovery</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18548">2604.18548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18887.html">HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction</a></div></td>
-<td>Blake Werner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18887">2604.18887</a></td>
 </tr>
 </tbody></table>

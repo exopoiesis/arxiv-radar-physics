@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>particle-physics — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <strong>90d</strong> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Srinivasan T. et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02219.html">Many Wrongs Make a Right: Leveraging Biased Simulations Towards Unbiased Parameter Inference</a></div></td>
-<td>Ezequiel Alvarez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02219">2604.02219</a></td>
 </tr>
 </tbody></table>

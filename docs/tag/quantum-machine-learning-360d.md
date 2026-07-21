@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">518 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3122,17 +3122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20317.html">Efficient Gaussian State Preparation in Quantum Circuits</a></div></td>
 <td>Yichen Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20317">2507.20317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19402.html">FD4QC: Application of Classical and Quantum-Hybrid Machine Learning for Financial Fraud Detection A Technical Report</a></div></td>
-<td>Matteo Cardaioli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19402">2507.19402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19562.html">PennyCoder: Efficient Domain-Specific LLMs for PennyLane-Based Quantum Code Generation</a></div></td>
-<td>Abdul Basit et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19562">2507.19562</a></td>
 </tr>
 </tbody></table>

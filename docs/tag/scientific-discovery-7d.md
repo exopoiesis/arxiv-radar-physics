@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12971.html">A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Nathan Steinle et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12971">2607.12971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11508.html">CDFM: Towards a General-Purpose Causal Discovery Foundation Model</a></div></td>
-<td>Jie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11508">2607.11508</a></td>
 </tr>
 </tbody></table>

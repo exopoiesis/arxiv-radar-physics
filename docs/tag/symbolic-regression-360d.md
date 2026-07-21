@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16972.html">Exploring Nonlinear System with Machine Learning: Chua and Lorenz Circuits Analyzed</a></div></td>
 <td>Zhe Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16972">2408.16972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06512.html">LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06512">2503.06512</a></td>
 </tr>
 </tbody></table>

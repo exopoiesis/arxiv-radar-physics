@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22928.html">Quantitative modelling of type Ia supernovae spectral time series III: Implications for type Ia supernovae standardisation in cosmology</a></div></td>
 <td>M. R. Magee</td>
 <td><a href="http://arxiv.org/abs/2604.22928">2604.22928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19613.html">MG-NECOLA: A Field-Level Emulator for $f(R)$ Gravity and Massive Neutrino Cosmologies</a></div></td>
-<td>J. Bayron Orjuela-Quintana et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19613">2604.19613</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1928,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20373.html">WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks</a></div></td>
 <td>Kiymet Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20373">2507.20373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19253.html">BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection</a></div></td>
-<td>An Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19253">2507.19253</a></td>
 </tr>
 </tbody></table>

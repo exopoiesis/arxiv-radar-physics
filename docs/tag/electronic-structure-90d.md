@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21005.html">Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments</a></div></td>
 <td>Saptarshi G. Dastider et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21005">2604.21005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14665.html">Accurate and scalable exchange-correlation with deep learning</a></div></td>
-<td>Giulia Luise et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14665">2506.14665</a></td>
 </tr>
 </tbody></table>

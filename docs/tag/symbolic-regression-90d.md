@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03963.html">Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Zewen Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03963">2508.03963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13510.html">On the definition and importance of interpretability in scientific machine learning</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Conor Rowan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13510">2505.13510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20941.html">Interpretable Analytic Formulae for GWTC-4 Binary Black Hole Population Properties via Symbolic Regression</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Chayan Chatterjee</td>
-<td><a href="http://arxiv.org/abs/2604.20941">2604.20941</a></td>
 </tr>
 </tbody></table>

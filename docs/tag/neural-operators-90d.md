@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,11 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03248.html">Multimodal Neural Operators for Real-Time Biomechanical Modelling of Traumatic Brain Injury</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Anusha Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03248">2510.03248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11375.html">DiLO: Decoupling Generative Priors and Neural Operators via Diffusion Latent Optimization for Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Haibo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11375">2604.11375</a></td>
 </tr>
 </tbody></table>

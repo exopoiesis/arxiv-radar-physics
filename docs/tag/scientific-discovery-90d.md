@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23072.html">Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis</a></div></td>
 <td>Junyan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23072">2604.23072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13510.html">On the definition and importance of interpretability in scientific machine learning</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Conor Rowan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13510">2505.13510</a></td>
 </tr>
 </tbody></table>

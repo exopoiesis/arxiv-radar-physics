@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hep — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <strong>90d</strong> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22541.html">Dr.Sai: An agentic AI for real-world physics analysis at BESIII</a></div><div class="paper-tags"><a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
 <td>Mingfeng He et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22541">2604.22541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01854.html">PrecisionSM: an annotated database for low-energy $e^+e^-$ hadronic cross sections</a></div></td>
-<td>Lorenzo Cotrozzi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01854">2512.01854</a></td>
 </tr>
 </tbody></table>

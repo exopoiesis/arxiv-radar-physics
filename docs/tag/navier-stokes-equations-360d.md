@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20739.html">Efficient Adjoint Petrov-Galerkin Reduced Order Models for fluid flows governed by the incompressible Navier-Stokes equations</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
 <td>Kamil David Sommer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20739">2507.20739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20065.html">Geometric Operator Learning with Optimal Transport</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Xinyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20065">2507.20065</a></td>
 </tr>
 </tbody></table>

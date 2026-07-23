@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>atmospheric-physics — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="atmospheric-physics-7d.html">7d</a> <a href="atmospheric-physics-30d.html">30d</a> <a href="atmospheric-physics-90d.html">90d</a> <strong>360d</strong> <a href="atmospheric-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18877.html">Physics-Informed Super-Resolution of Atmospheric Data</a></div></td>
+<td>Chang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18877">2607.18877</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28851.html">Towards a Foundation Model for the Martian Atmosphere</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="remote-sensing-360d.html">remote-sensing</a></div></td>

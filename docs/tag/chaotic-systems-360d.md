@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Charles Bokor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08571.html">Manifold-adapted radial basis functions for reduced-order modelling of chaotic flows</a></div></td>

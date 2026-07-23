@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18403.html">Towards a universal model for spin-orbit coupled Wannier Hamiltonians</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Alexander C. Tyner</td>
+<td><a href="http://arxiv.org/abs/2607.18403">2607.18403</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13107.html">DeepCormack: Fermi surface tomography using model-based data-driven algorithms</a></div></td>
 <td>Georg F. B. Lovric et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24332.html">Enhancing quantum-classical configuration interaction methods using a neural-network classifier</a></div></td>
 <td>Severino Zeni et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24332">2606.24332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23379.html">Impurity-Preserved Density Matrix Embedding Theory for Local Electronic Excitations</a></div></td>
-<td>Teng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23379">2606.23379</a></td>
 </tr>
 </tbody></table>

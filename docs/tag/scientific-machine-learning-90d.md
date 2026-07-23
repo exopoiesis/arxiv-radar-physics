@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19926.html">Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning</a></div></td>
+<td>Yasmine Marani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19926">2607.19926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Tianyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20321">2607.20321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Peiyu Zang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16906.html">Neural operator preconditioning from mixed dataset for the Helmholtz equations: Application to transcranial ultrasound</a></div></td>
+<td>Yanfei Xiang</td>
+<td><a href="http://arxiv.org/abs/2607.16906">2607.16906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10546.html">LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
@@ -296,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21556.html">Artificial Intelligence for Food Innovation</a></div></td>
 <td>Bianca Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21556">2509.21556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21233.html">Assessing Emulator Design and Training for Modal Aerosol Microphysics Parameterizations in E3SMv2</a></div><div class="paper-tags"><a href="atmospheric-physics-90d.html">atmospheric-physics</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Shady E. Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21233">2604.21233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22087.html">JetSCI: A Hybrid JAX-PETSc Framework for Scalable Differentiable Simulation</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Alberto Cattaneo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22087">2604.22087</a></td>
 </tr>
 </tbody></table>

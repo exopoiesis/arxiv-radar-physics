@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20378.html">PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Amirhossein Sadr et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20378">2607.20378</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="hamiltonian-learning-30d.html">hamiltonian-learning</a></div></td>
 <td>Jesús Jiménez-Rodríguez et al.</td>
@@ -152,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25169.html">Laplace--Fisher Gate Identities for Optimal Matrix-Gated Blended Score Estimation</a></div></td>
 <td>Alois Duston et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25169">2606.25169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23838.html">The Degeneracy Distillery</a></div></td>
-<td>T. Lucas Makinen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23838">2606.23838</a></td>
 </tr>
 </tbody></table>

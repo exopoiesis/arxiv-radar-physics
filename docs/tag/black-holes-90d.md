@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23625.html">Physics informed operator learning of parameter dependent spectra</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Haohao Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23625">2604.23625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22021.html">Data-Driven Acceleration of Eccentricity Reduction for Binary Black Hole Simulations</a></div></td>
-<td>Vittoria Tommasini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22021">2604.22021</a></td>
 </tr>
 </tbody></table>

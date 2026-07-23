@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20378.html">PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Amirhossein Sadr et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20378">2607.20378</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
@@ -578,17 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22557.html">Are Natural-Domain Foundation Models Effective for Accelerated Cardiac MRI Reconstruction?</a></div></td>
 <td>Anam Hashmi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22557">2604.22557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13970.html">Frequentist Coverage of Bayes Posteriors in Nonlinear Inverse Problems with Gaussian Priors</a></div></td>
-<td>Youngsoo Baek et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13970">2407.13970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21431.html">JAX-BEM: Gradient-Based Acoustic Shape Optimisation via a Differentiable Boundary Element Method</a></div></td>
-<td>James Hipperson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21431">2604.21431</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,36 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Ziyan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19690">2607.19690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20378.html">PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
+<td>Amirhossein Sadr et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20378">2607.20378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17723.html">A domain decomposition online-learning-enhanced nonlinear elimination preconditioner</a></div></td>
+<td>Pai Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17723">2607.17723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18043.html">Adaptive Mamba Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Zeyuan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18043">2607.18043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="les-7d.html">les</a></div></td>
+<td>Priyesh Kakka et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17376">2607.17376</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14665.html">A new strategy for physics-informed neural networks based on hierarchical collocation point refinement</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Minjae Choi et al.</td>
@@ -38,35 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
 <td>Adarsh Pashikanti et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Tianchi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13566">2607.13566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13866.html">Evaluation of State-of-the-Art Deep Learning Architectures for Aerodynamical Predictions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Jan Scherz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13866">2607.13866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14233.html">LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Nilay Anurag et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14233">2607.14233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14392.html">Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a> · <a href="variational-quantum-algorithms-7d.html">variational-quantum-algorithms</a></div></td>
-<td>Priyabrata Senapati et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14392">2607.14392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14394.html">DRIFT: Direct Reduced Fourier Transforms for Distributed Spectral Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Sana Taghipour Anvari et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14394">2607.14394</a></td>
 </tr>
 </tbody></table>

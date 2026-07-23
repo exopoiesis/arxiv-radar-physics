@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19750.html">Machine Can Automatically Discover Parametric Functions to Model HEP Data</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
+<td>Ho Fung Tsoi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19750">2607.19750</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>David Krongauz et al.</td>
@@ -1184,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06496.html">Machine Learning Unveils the Power Law of Finite-Volume Energy Shifts</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Wei-Jie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2503.06496">2503.06496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16972.html">Exploring Nonlinear System with Machine Learning: Chua and Lorenz Circuits Analyzed</a></div></td>
-<td>Zhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16972">2408.16972</a></td>
 </tr>
 </tbody></table>

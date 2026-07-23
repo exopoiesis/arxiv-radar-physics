@@ -16,15 +16,15 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18877.html">Physics-Informed Super-Resolution of Atmospheric Data</a></div></td>
+<td>Chang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18877">2607.18877</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28851.html">Towards a Foundation Model for the Martian Atmosphere</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Sujit Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28851">2605.28851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21233.html">Assessing Emulator Design and Training for Modal Aerosol Microphysics Parameterizations in E3SMv2</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Shady E. Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21233">2604.21233</a></td>
 </tr>
 </tbody></table>

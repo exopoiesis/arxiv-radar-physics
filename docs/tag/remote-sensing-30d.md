@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
+<td>Philipp Vaeth et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17661">2607.17661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16671.html">Foundation-Assisted Active Learning for Object Detection Annotation</a></div></td>
+<td>Jinchang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16671">2607.16671</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15639.html">BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating</a></div></td>
 <td>Gaurav Sharma et al.</td>
@@ -200,17 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26416.html">Methane-Plume Segmentation From Hyperspectral Satellite Imagery Via Multimodal Deep Learning</a></div></td>
 <td>Brayan Quintero et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26416">2606.26416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23356.html">Changing Modalities: Adapting Remote Sensing Models to New Satellites and Sensors</a></div></td>
-<td>Tim G. Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23356">2606.23356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23615.html">Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark</a></div></td>
-<td>Nathan Senyard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23615">2606.23615</a></td>
 </tr>
 </tbody></table>

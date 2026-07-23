@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">557 papers</span>
+  <span class="paper-count">558 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
+<td>Philipp Vaeth et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17661">2607.17661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16671.html">Foundation-Assisted Active Learning for Object Detection Annotation</a></div></td>
+<td>Jinchang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16671">2607.16671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15639.html">BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating</a></div></td>
@@ -3350,11 +3362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20809.html">SCANet: Split Coordinate Attention Network for Building Footprint Extraction</a></div></td>
 <td>Chunshi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20809">2507.20809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20259.html">L-MCAT: Unpaired Multimodal Transformer with Contrastive Attention for Label-Efficient Satellite Image Classification</a></div></td>
-<td>Mitul Goswami et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20259">2507.20259</a></td>
 </tr>
 </tbody></table>

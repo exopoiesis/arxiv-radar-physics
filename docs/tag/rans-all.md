@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20199.html">A formal log(Re)-cost framework for the engineering turbulence problem</a></div></td>
+<td>Jiaqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20199">2607.20199</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07020.html">Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence</a></div></td>

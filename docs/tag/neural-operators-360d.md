@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">397 papers</span>
+  <span class="paper-count">399 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18043.html">Adaptive Mamba Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Zeyuan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18043">2607.18043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17318.html">FEVessel: Mesh-Independent Analysis of 3D Pressure Vessels with the Label-Free Pretrained Finite Element Method</a></div></td>
+<td>Yipin Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17318">2607.17318</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15857.html">Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators</a></div></td>
@@ -68,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Himanshu Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19388.html">Neural Operator Surrogates for Two-Dimensional Neutron Flux Estimation</a></div></td>
+<td>Japan K. Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19388">2607.19388</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -2390,11 +2408,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21269.html">Numerical PDE solvers outperform neural PDE solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Patrick Chatain et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21269">2507.21269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23745.html">Syno: Structured Synthesis for Neural Operators</a></div></td>
-<td>Yongqi Zhuo et al.</td>
-<td><a href="http://arxiv.org/abs/2410.23745">2410.23745</a></td>
 </tr>
 </tbody></table>

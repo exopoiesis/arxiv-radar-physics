@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Ao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01696.html">Structure-Preserving Reduced-Order Modeling via Low-Rank Transport Signatures</a></div></td>
 <td>Jiajia Yu et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11745.html">Data-driven oscillator model for multi-frequency turbulent flows</a></div></td>
 <td>Youngjae Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11745">2604.11745</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01493.html">OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pde-learning-90d.html">pde-learning</a></div></td>
-<td>Zhuoyuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01493">2602.01493</a></td>
 </tr>
 </tbody></table>

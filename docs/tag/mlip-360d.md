@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20077.html">From MLIPs to Microstructure: A High-Throughput Computational Framework to Design Spinodal Alloys in High-Dimensional Composition Spaces via Analytic Derivatives of CALPHAD Model Predictions</a></div></td>
+<td>Courtney Kunselman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20077">2607.20077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Timo Reents et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -860,11 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="force-fields-360d.html">force-fields</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Vahe Gharakhanyan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20118.html">Iterative Pretraining Framework for Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Taoyong Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20118">2507.20118</a></td>
 </tr>
 </tbody></table>

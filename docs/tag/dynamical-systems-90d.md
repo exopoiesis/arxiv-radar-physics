@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
+<td>Moritz Lampert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18977">2607.18977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19302.html">Real-time optimal control with shallow recurrent decoder networks</a></div><div class="paper-tags"><a href="flow-control-90d.html">flow-control</a> · <a href="rom-90d.html">rom</a></div></td>
+<td>Matteo Tomasetto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19302">2607.19302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19628.html">HypEMBER: Hypernetwork-based Ensemble for Robust Policy Learning of Parametrized Dynamical Systems</a></div></td>
+<td>Nicolò Botteghi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19628">2607.19628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Charles Bokor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Ao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18433.html">Intelligence from Learnable Novelty</a></div></td>
+<td>Yanbo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18433">2607.18433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div></td>
@@ -56,6 +92,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
 <td>Yiran Xing et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12351">2607.12351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16313.html">Generalist AI Control: Towards Multi-purpose Adaptive Algorithms</a></div></td>
+<td>Klinsmann Agyei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16313">2607.16313</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-10</td>
@@ -110,6 +152,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
 <td>Igor Mezić et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19387.html">Scale-Aware Learning of Chaotic Dynamics on Unstructured Meshes via Binned Spectral Losses</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Kanad Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19387">2607.19387</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -794,17 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23269.html">WSINDy for Model Predictive Control with Applications to Fusion, Drones, and Chaos</a></div></td>
 <td>Cristian López et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23269">2604.23269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23470.html">Spectral analysis of the Koopman operator as a framework for recovering Hamiltonian parameters in open quantum systems</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Jorge E. Pérez-García et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23470">2511.23470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21825.html">On the algebra of Koopman eigenfunctions and on some of their infinities</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Zahra Monfared et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21825">2604.21825</a></td>
 </tr>
 </tbody></table>

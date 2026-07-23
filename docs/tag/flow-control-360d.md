@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flow-control — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <a href="flow-control-90d.html">90d</a> <strong>360d</strong> <a href="flow-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19302.html">Real-time optimal control with shallow recurrent decoder networks</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="rom-360d.html">rom</a></div></td>
+<td>Matteo Tomasetto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19302">2607.19302</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18186.html">Kolmogorov Regression for Robust Diffusion Policies</a></div></td>

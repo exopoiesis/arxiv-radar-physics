@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17488.html">Surrogate models for type II supernovae: Probing low-energy explosions and interaction-free regimes</a></div></td>
+<td>Zhengyang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17488">2607.17488</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18124.html">Quantifying the Information Gain from Future High-Precision Radius Measurements for Identifying Twin Neutron Stars</a></div></td>
+<td>Bao-An Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18124">2607.18124</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18441.html">Detection of cosmic strings by gravitational wave lensing. Predictions for Einstein Telescope</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
+<td>Jakub Szyndler et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18441">2607.18441</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17034.html">Imprints of Higgs-portal fermionic dark matter on neutron-star tidal deformability and the mass-radius slope</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
+<td>Monmoy Molla et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17034">2607.17034</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13629.html">Advanced Techniques in Stability Analysis of Trans-Neptunian Objects</a></div></td>
@@ -104,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26164.html">\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation</a></div></td>
 <td>Ira Wolfson</td>
 <td><a href="http://arxiv.org/abs/2606.26164">2606.26164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22813.html">Active Inference as the Test-Time Scaling Law for Physical AI Agents</a></div></td>
-<td>Omar Hashash et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22813">2606.22813</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
-<td>C. Namuroy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
 </tr>
 </tbody></table>

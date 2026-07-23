@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Ziyan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19690">2607.19690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Nathanael Tepakbong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Peiyu Zang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18402.html">Warped Numerical Calabi-Yau Metrics</a></div></td>
+<td>Severin Lüst et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18402">2607.18402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
@@ -44,23 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15087.html">Split Complex-Valued Physics-Informed Neural Networks for Forward and Inverse Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Biswanath Barman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13467.html">Physics-Informed Residual Deep Learning for Constitutive Modeling of Hot Deformation and Dynamic Recrystallization in a Mo-Rich $α+β$ Titanium Alloy</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Prashil S. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13467">2607.13467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Tianchi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13566">2607.13566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14233.html">LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Nilay Anurag et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14233">2607.14233</a></td>
 </tr>
 </tbody></table>

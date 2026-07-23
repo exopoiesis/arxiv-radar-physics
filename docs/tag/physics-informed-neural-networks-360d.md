@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">629 papers</span>
+  <span class="paper-count">633 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Ziyan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19690">2607.19690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Nathanael Tepakbong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Peiyu Zang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18402.html">Warped Numerical Calabi-Yau Metrics</a></div></td>
+<td>Severin Lüst et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18402">2607.18402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
@@ -194,6 +218,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Yuanshuo Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19377.html">Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19377">2607.19377</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -3782,11 +3812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21350.html">DEM-NeRF: A Neuro-Symbolic Method for Scientific Discovery through Physics-Informed Simulation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Wenkai Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21350">2507.21350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16906.html">Higher order Jacobi method for solving system of linear equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Nithin Kumar Goona et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16906">2505.16906</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17297.html">Multi-Granularity Conformal Prediction for Reliable Neural-Operator Automotive Aerodynamic Surrogates</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
+<td>Chundong Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17297">2607.17297</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15077.html">An Introduction to Sparse Identification of Nonlinear Dynamics for Engineering Applications</a></div></td>
@@ -74,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04450.html">A Deep Learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC</a></div></td>
 <td>Alessandro Longhi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04450">2607.04450</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19387.html">Scale-Aware Learning of Chaotic Dynamics on Unstructured Meshes via Binned Spectral Losses</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Kanad Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19387">2607.19387</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>

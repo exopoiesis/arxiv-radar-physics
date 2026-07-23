@@ -5,9 +5,9 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-07-22._
+_Updated 2026-07-23._
 
-**19700** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**19800** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,183 +15,183 @@ _Updated 2026-07-22._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Sodtavilan Odonchimed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06470.html">Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials</a></div></td>
+<td>Houssem Rezgui et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06470">2607.06470</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Xu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15560">2607.15560</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18012.html">Physics-Informed Neural Networks for Optimal Beam Shaping in Flat Optics</a></div></td>
+<td>Rafael de la Fuente Herrezuelo</td>
+<td><a href="http://arxiv.org/abs/2607.18012">2607.18012</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15573.html">Morphological Bias: How Ellipticals and Spirals Trace the Cosmic Web Differently</a></div></td>
-<td>Paula S. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15573">2607.15573</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Ziyan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19690">2607.19690</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15638.html">Identifying and Distinguishing Quenching Galaxies with Spatially Resolved Star Formation in Mock CASTOR and NGRST Observations</a></div></td>
-<td>Cameron Lawlor-Forsyth et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15638">2607.15638</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19750.html">Machine Can Automatically Discover Parametric Functions to Model HEP Data</a></div><div class="paper-tags"><a href="tag/hep-30d.html">hep</a> · <a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Ho Fung Tsoi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19750">2607.19750</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15639.html">BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Gaurav Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15639">2607.15639</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19808.html">From Dark Matter to Galaxies: Halo-Free Mock Generation via Conditional Point-Cloud Diffusion</a></div><div class="paper-tags"><a href="tag/dark-matter-30d.html">dark-matter</a></div></td>
+<td>Kana Moriwaki et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19808">2607.19808</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15693.html">Toward a mechanistic understanding of inference in visual cortex and diffusion models</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Zeyu Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15693">2607.15693</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19827.html">Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Gabriele Franchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19827">2607.19827</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15702.html">A Statistical Formulation Gap for Nonlinear Multiscale Physics-Informed Learning</a></div></td>
-<td>Ronald Katende</td>
-<td><a href="http://arxiv.org/abs/2607.15702">2607.15702</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19926.html">Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Yasmine Marani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19926">2607.19926</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15719.html">Explainable AI for Solar Flare Prediction: Quantitative Magnetic Field Analysis of Model-Focused Regions</a></div></td>
-<td>Z. Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15719">2607.15719</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19977.html">Rem3Di: Learning smooth, chiral 3D molecular descriptors from atomistic foundation models</a></div></td>
+<td>Steffen Wedig et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19977">2607.19977</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15751.html">Trainable Spline Representations for Physics-Informed Learning</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Giovanni Canali et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15751">2607.15751</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20060.html">Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>P. E. Trevisanutto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20060">2607.20060</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15815.html">The Fourier Wall: Why Public Tabular Datasets Refuse Quantum Advantage, and a Certified Recipe for Where It Lives</a></div><div class="paper-tags"><a href="tag/qml-30d.html">qml</a></div></td>
-<td>Javier Mancilla et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15815">2607.15815</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20077.html">From MLIPs to Microstructure: A High-Throughput Computational Framework to Design Spinodal Alloys in High-Dimensional Composition Spaces via Analytic Derivatives of CALPHAD Model Predictions</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Courtney Kunselman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20077">2607.20077</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15850.html">Standard Reconstruction Shifts the Optimal Input Scale for CNN-Based Density-Field Reconstruction</a></div></td>
-<td>Koichiro Nakashima et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15850">2607.15850</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20199.html">A formal log(Re)-cost framework for the engineering turbulence problem</a></div><div class="paper-tags"><a href="tag/rans-30d.html">rans</a></div></td>
+<td>Jiaqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20199">2607.20199</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15857.html">Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
-<td>Ameir Shaa et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15857">2607.15857</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20224.html">Bayesian finite element regression for vascular flow reconstruction with quantified uncertainty</a></div></td>
+<td>Cem Gormezano et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20224">2607.20224</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15907.html">A Semiparametric Framework for Stochastic Fundamental Diagram Modeling</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Pengnan Chi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15907">2607.15907</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20225.html">DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems</a></div><div class="paper-tags"><a href="tag/variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
+<td>Seongmin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20225">2607.20225</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15913.html">GW Microlensing: Degeneracy with Unlensed Precessing and Non-Spinning Gravitational-Wave Signals</a></div><div class="paper-tags"><a href="tag/ligo-30d.html">ligo</a></div></td>
-<td>Disha Hegde et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15913">2607.15913</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/hep-30d.html">hep</a> · <a href="tag/high-energy-physics-30d.html">high-energy-physics</a> · <a href="tag/qml-30d.html">qml</a> · <a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Ivan Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15942.html">More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Stefan Maria Ailuro et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15942">2607.15942</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Tianyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20321">2607.20321</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div></td>
-<td> SciForge Team et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20346.html">IteraSim RAG: A Multi-Stage Retrieval-Augmented Agentic Back-End for OpenFOAM-Based Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Pratyush Kumar</td>
+<td><a href="http://arxiv.org/abs/2607.20346">2607.20346</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="tag/hamiltonian-learning-30d.html">hamiltonian-learning</a> · <a href="tag/inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Jesús Jiménez-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16047">2607.16047</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20378.html">PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs</a></div><div class="paper-tags"><a href="tag/inverse-problems-30d.html">inverse-problems</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Amirhossein Sadr et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20378">2607.20378</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16080.html">Physics-Based Deep Spatiotemporal Hyperlocal Radar Nowcasting with a Multi-Variable U-Net for High-Resolution Precipitation Forecasting</a></div><div class="paper-tags"><a href="tag/data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Akshay Sunil et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16080">2607.16080</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div></td>
+<td>Prathami Divakar Kamath et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16129.html">Nonadiabatic excited-state dynamics with quantum Monte Carlo-trained machine learning: azomethane as a stringent test</a></div><div class="paper-tags"><a href="tag/force-fields-30d.html">force-fields</a></div></td>
-<td>Alfonso Annarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16129">2607.16129</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18877.html">Physics-Informed Super-Resolution of Atmospheric Data</a></div><div class="paper-tags"><a href="tag/atmospheric-physics-30d.html">atmospheric-physics</a></div></td>
+<td>Chang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18877">2607.18877</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16144.html">Learning Standard Model structure from LHC data with Riemannian flow matching</a></div></td>
-<td>Midori Kato et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16144">2607.16144</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18965.html">Variational meta-learning inference for low dimensional neural system identification</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Matteo Rufolo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18965">2607.18965</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16160.html">SEP-PRISM Data: A multi-source dataset for solar energetic particle forecasting</a></div><div class="paper-tags"><a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Yian Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16160">2607.16160</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Moritz Lampert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18977">2607.18977</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19032.html">IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Lei Hu</td>
+<td><a href="http://arxiv.org/abs/2607.19032">2607.19032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Nathanael Tepakbong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19175.html">Identifying and Determining Atmospheric Parameters of BHB Stars Based on LAMOST DR11</a></div></td>
+<td>Xiao-Long Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19175">2607.19175</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="tag/machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Mouyang Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19302.html">Real-time optimal control with shallow recurrent decoder networks</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/flow-control-30d.html">flow-control</a> · <a href="tag/rom-30d.html">rom</a></div></td>
 <td>Matteo Tomasetto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16177">2607.16177</a></td>
+<td><a href="http://arxiv.org/abs/2607.19302">2607.19302</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13220.html">Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Sutanay Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13220">2607.13220</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19304.html">Three-Dimensional Dust Distribution in the Jovian System from Juno/Waves Observations: Insights into the Halo Ring and Magnetospheric Dust</a></div></td>
+<td>Yuqi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19304">2607.19304</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="tag/force-fields-30d.html">force-fields</a></div></td>
-<td>Sheng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14486">2607.14486</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19319.html">Dark matter searches with a 13 meV threshold superconducting sensor array</a></div><div class="paper-tags"><a href="tag/dark-matter-30d.html">dark-matter</a></div></td>
+<td>Christopher Albert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19319">2607.19319</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14519.html">State-Dependent Metric Projection Neural Network for Variational Inequalities</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Mohammed Alshahrani</td>
-<td><a href="http://arxiv.org/abs/2607.14519">2607.14519</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19323.html">Towards anomaly detection searches for new physics signatures including Higgs bosons with weakly supervised machine learning</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Chi Lung Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19323">2607.19323</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14563.html">Probabilistic Physics-Informed Neural Networks for Estimating Heterogeneous Elastic Properties from Low-Resolution and Noisy Displacement Data</a></div></td>
-<td>Tatthapong Srikitrungruang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14563">2607.14563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14619.html">Machine Learning for Complex Instrument Design and Optimization</a></div></td>
-<td>Barry C. Barish et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14619">2607.14619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14665.html">A new strategy for physics-informed neural networks based on hierarchical collocation point refinement</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Minjae Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14665">2607.14665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14678.html">Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites</a></div></td>
-<td>Ju-Young Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14678">2607.14678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14836.html">Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation</a></div></td>
-<td>Emanuele Colonna et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14836">2607.14836</a></td>
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19444.html">Marine Engine Fault Dataset: Open-Access Data under Controlled Reference and Fault Scenario Conditions</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Ahmad BahooToroody et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19444">2607.19444</a></td>
 </tr>
 </tbody></table>

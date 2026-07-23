@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20199.html">A formal log(Re)-cost framework for the engineering turbulence problem</a></div></td>
+<td>Jiaqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20199">2607.20199</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07020.html">Learning Turbulence Closures with Physics-Informed Neural Networks for the Rayleigh-Taylor Transition to Turbulence</a></div></td>
 <td>Paul Creusy et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Shuai Li</td>
 <td><a href="http://arxiv.org/abs/2606.29628">2606.29628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>C. Namuroy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
 </tr>
 </tbody></table>

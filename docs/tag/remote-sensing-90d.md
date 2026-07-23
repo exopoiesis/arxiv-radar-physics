@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
+<td>Philipp Vaeth et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17661">2607.17661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16671.html">Foundation-Assisted Active Learning for Object Detection Annotation</a></div></td>
+<td>Jinchang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16671">2607.16671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15639.html">BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating</a></div></td>
@@ -704,23 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23709.html">ZID-Net: Zero-Inference Diffusion Prior Decoupling Network for Single Image Dehazing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Xinheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23709">2604.23709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18264.html">SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors</a></div></td>
-<td>Ruijie Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18264">2511.18264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21435.html">UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery</a></div></td>
-<td>Jingfang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21435">2604.21435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21801.html">SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery</a></div></td>
-<td>Safouane El Ghazouali et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21801">2604.21801</a></td>
 </tr>
 </tbody></table>

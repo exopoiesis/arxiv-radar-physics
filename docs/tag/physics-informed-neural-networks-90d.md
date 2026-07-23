@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ziyan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19690">2607.19690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Nathanael Tepakbong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Peiyu Zang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18402.html">Warped Numerical Calabi-Yau Metrics</a></div></td>
+<td>Severin Lüst et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18402">2607.18402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15560.html">Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -194,6 +218,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01020.html">The PICNN-Assisted Physics-Preserving Scheme for Thermodynamically Consistent Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Yuanshuo Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01020">2607.01020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19377.html">Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Duc Tien Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19377">2607.19377</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -866,23 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22414.html">Computational Control of Nonlinear Partial Differential Equations Using Machine Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Maximilian Kurbanov et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22414">2604.22414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21411.html">A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Mohammad Mahdi Abedi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21411">2604.21411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21761.html">Transferable Physics-Informed Representations via Closed-Form Head Adaptation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jian Cheng Wong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21761">2604.21761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22862.html">Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Srinivasan T. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22862">2604.22862</a></td>
 </tr>
 </tbody></table>

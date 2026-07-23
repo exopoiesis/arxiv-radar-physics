@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div></td>
+<td>Mouyang Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Timo Reents et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18403.html">Towards a universal model for spin-orbit coupled Wannier Hamiltonians</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Alexander C. Tyner</td>
+<td><a href="http://arxiv.org/abs/2607.18403">2607.18403</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10664.html">Edge Cluster Expansion with Radial Rotary Attention for Interatomic Potentials</a></div></td>
@@ -980,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21297.html">Heterogeneous Ensemble Enables a Universal Uncertainty Metric for Atomistic Foundation Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Kai Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21297">2507.21297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20118.html">Iterative Pretraining Framework for Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Taoyong Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20118">2507.20118</a></td>
 </tr>
 </tbody></table>

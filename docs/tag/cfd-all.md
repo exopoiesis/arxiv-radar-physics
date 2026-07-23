@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">322 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Tianyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20321">2607.20321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20346.html">IteraSim RAG: A Multi-Stage Retrieval-Augmented Agentic Back-End for OpenFOAM-Based Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
+<td>Pratyush Kumar</td>
+<td><a href="http://arxiv.org/abs/2607.20346">2607.20346</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17297.html">Multi-Granularity Conformal Prediction for Reliable Neural-Operator Automotive Aerodynamic Surrogates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Chundong Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17297">2607.17297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17357.html">Differentiable Hybrid Neural-CFD Modelling of Wall-Bounded Turbulence: Coupled Learning of Subgrid-Scale and Wall Closures</a></div></td>
+<td>Xiantao Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17357">2607.17357</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11576.html">Physics-Informed Neural Networks for the High-Resolution Reconstruction of Flow Measurement Indicators in Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="pinns-all.html">pinns</a></div></td>

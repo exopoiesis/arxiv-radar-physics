@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Priyesh Kakka et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17376">2607.17376</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09316.html">Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire&#x27;s Complete Works</a></div></td>
 <td>Miguel Arana-Catania et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03738.html">Improve Retinal Artery/Vein Classification via Channel Couplin</a></div></td>
 <td>Shuang Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03738">2508.03738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14144.html">Recursive KalmanNet: Analyse des capacités de généralisation d&#x27;un réseau de neurones récurrent guidé par un filtre de Kalman</a></div></td>
-<td>Cyril Falcon et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14144">2507.14144</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Ivan Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17554.html">Lie-Group Mode Connectivity in Quantum Machine Learning from a Dynamical Lie Algebra Perspective</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Hiroshi Ohno</td>
+<td><a href="http://arxiv.org/abs/2607.17554">2607.17554</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15815.html">The Fourier Wall: Why Public Tabular Datasets Refuse Quantum Advantage, and a Certified Recipe for Where It Lives</a></div></td>
@@ -218,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06873.html">Entanglement and Classical Simulability in Quantum Extreme Learning Machines</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>A. De Lorenzis et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06873">2509.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06086.html">From Membership-Privacy Leakage to Quantum Machine Unlearning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Junjian Su et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06086">2509.06086</a></td>
 </tr>
 </tbody></table>

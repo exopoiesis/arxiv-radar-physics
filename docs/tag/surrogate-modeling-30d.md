@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17297.html">Multi-Granularity Conformal Prediction for Reliable Neural-Operator Automotive Aerodynamic Surrogates</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Chundong Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17297">2607.17297</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15077.html">An Introduction to Sparse Identification of Nonlinear Dynamics for Engineering Applications</a></div></td>
@@ -76,9 +82,9 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.04450">2607.04450</a></td>
 </tr>
 <tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23411.html">Quantum Convolutional Neural Networks for Groundwater Heat Plume Prediction: A Surrogate Modeling Approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Danyal Maheshwari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23411">2606.23411</a></td>
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19387.html">Scale-Aware Learning of Chaotic Dynamics on Unstructured Meshes via Binned Spectral Losses</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Kanad Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19387">2607.19387</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
+<td>Moritz Lampert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18977">2607.18977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19302.html">Real-time optimal control with shallow recurrent decoder networks</a></div><div class="paper-tags"><a href="flow-control-30d.html">flow-control</a> · <a href="rom-30d.html">rom</a></div></td>
+<td>Matteo Tomasetto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19302">2607.19302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19628.html">HypEMBER: Hypernetwork-based Ensemble for Robust Policy Learning of Parametrized Dynamical Systems</a></div></td>
+<td>Nicolò Botteghi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19628">2607.19628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Charles Bokor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Ao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18433.html">Intelligence from Learnable Novelty</a></div></td>
+<td>Yanbo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18433">2607.18433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div></td>
@@ -56,6 +92,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
 <td>Yiran Xing et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12351">2607.12351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16313.html">Generalist AI Control: Towards Multi-purpose Adaptive Algorithms</a></div></td>
+<td>Klinsmann Agyei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16313">2607.16313</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-10</td>
@@ -112,6 +154,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19387.html">Scale-Aware Learning of Chaotic Dynamics on Unstructured Meshes via Binned Spectral Losses</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Kanad Sen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19387">2607.19387</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00286.html">Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings</a></div></td>
 <td>Riley Acker et al.</td>
@@ -164,29 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25039.html">LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search</a></div></td>
 <td>Nikhil Abhyankar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25039">2606.25039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22969.html">Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction</a></div></td>
-<td>Georg Trede et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22969">2606.22969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Kanishk Awadhiya</td>
-<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23341.html">Partial Observation of Linear Systems with the Mori-Zwanzig Formalism</a></div></td>
-<td>Fan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23341">2606.23341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Liam K Magargal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
 </tr>
 </tbody></table>

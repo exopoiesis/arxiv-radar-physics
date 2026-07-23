@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Charles Bokor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08571.html">Manifold-adapted radial basis functions for reduced-order modelling of chaotic flows</a></div></td>
 <td>Miguel Pérez Cuadrado et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11428.html">Diagnosing Failure Modes of Neural Operators Across Diverse PDE Families</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Lennon Shikhman</td>
 <td><a href="http://arxiv.org/abs/2601.11428">2601.11428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21180.html">Uncertainty-Aware Spatiotemporal Super-Resolution Data Assimilation with Diffusion Models</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Aditya Sai Pranith Ayapilla et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21180">2604.21180</a></td>
 </tr>
 </tbody></table>

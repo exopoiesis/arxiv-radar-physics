@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,17 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27294.html">Generative Models on Analog Hardware with Dynamics</a></div></td>
 <td>Yu-Neng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27294">2606.27294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24953.html">How Complexity Contributes to Learning Opacity in Machine Learning</a></div></td>
-<td>Joachim Stein et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24953">2606.24953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25039.html">LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search</a></div></td>
-<td>Nikhil Abhyankar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25039">2606.25039</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,17 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06339.html">Enhancing Gravitational Lens Study with Deep Learning: A Study on Effects of Dropout Regularization</a></div><div class="paper-tags"><a href="strong-lensing-90d.html">strong-lensing</a></div></td>
 <td>Juan J. Ancona-Flores et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06339">2603.06339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01677.html">Machine Learning in the 2HDM2S model for Dark Matter</a></div></td>
-<td>Rafael Boto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01677">2509.01677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Andrea Addazi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23743.html">Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System</a></div><div class="paper-tags"><a href="time-series-prediction-90d.html">time-series-prediction</a></div></td>
 <td>Tushar Pandey</td>
 <td><a href="http://arxiv.org/abs/2604.23743">2604.23743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06873.html">Entanglement and Classical Simulability in Quantum Extreme Learning Machines</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>A. De Lorenzis et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06873">2509.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22903.html">On the Complementarity of Quantum and Classical Features: Adaptive Hybrid Quantum-Classical Feature Fusion for Breast Cancer Classification</a></div></td>
-<td>Yasmin Rodrigues Sobrinho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22903">2604.22903</a></td>
 </tr>
 </tbody></table>

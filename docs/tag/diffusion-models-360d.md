@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3674,17 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21816.html">Control Copy-Paste: Controllable Diffusion-Based Augmentation Method for Remote Sensing Few-Shot Object Detection</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Yanxing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21816">2507.21816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20478.html">Conditional Diffusion Models for Global Precipitation Map Inpainting</a></div></td>
-<td>Daiko Kishikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20478">2507.20478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09140.html">RadioMamba: Breaking the Accuracy-Efficiency Trade-off in Radio Map Construction via a Hybrid Mamba-UNet</a></div></td>
-<td>Honggang Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09140">2508.09140</a></td>
 </tr>
 </tbody></table>

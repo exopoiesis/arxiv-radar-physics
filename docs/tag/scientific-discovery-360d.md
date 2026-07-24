@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3080,23 +3080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23276.html">How Far Are AI Scientists from Changing the World?</a></div></td>
 <td>Qiujie Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23276">2507.23276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09069.html">On the Robustness of Global Feature Effect Explanations</a></div></td>
-<td>Hubert Baniecki et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09069">2406.09069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03655.html">Geometric Representation Condition Improves Equivariant Molecule Generation</a></div></td>
-<td>Zian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03655">2410.03655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13940.html">DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13940">2505.13940</a></td>
 </tr>
 </tbody></table>

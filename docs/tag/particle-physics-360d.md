@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,11 +638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06496.html">Machine Learning Unveils the Power Law of Finite-Volume Energy Shifts</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Wei-Jie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2503.06496">2503.06496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09296.html">Enhancing generalization in high energy physics using white-box adversarial attacks</a></div></td>
-<td>Franck Rothen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09296">2411.09296</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">633 papers</span>
+  <span class="paper-count">631 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3800,17 +3800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21800.html">Physics-Informed Neural Networks with Dynamical Boundary Constraints</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Andrés Martínez-Esteban et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21800">2507.21800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20929.html">Breaking the Precision Ceiling in Physics-Informed Neural Networks: A Hybrid Fourier-Neural Architecture for Ultra-High Accuracy</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wei Shan Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20929">2507.20929</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21350.html">DEM-NeRF: A Neuro-Symbolic Method for Scientific Discovery through Physics-Informed Simulation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Wenkai Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21350">2507.21350</a></td>
 </tr>
 </tbody></table>

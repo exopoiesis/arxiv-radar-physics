@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10908.html">Data-driven global ocean model resolving ocean-atmosphere coupling dynamics</a></div></td>
 <td>Jeong-Hwan Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10908">2508.10908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00898.html">Benefits of Feature Extraction and Temporal Sequence Analysis for Video Frame Prediction: An Evaluation of Hybrid Deep Learning Models</a></div></td>
-<td>Jose M. Sánchez Velázquez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00898">2508.00898</a></td>
 </tr>
 </tbody></table>

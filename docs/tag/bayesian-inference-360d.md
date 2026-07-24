@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22288.html">Bayesian inference and jet quenching</a></div></td>
 <td>Raymond Ehlers</td>
 <td><a href="http://arxiv.org/abs/2507.22288">2507.22288</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20555.html">Information Field Theory with JAX infers Air Shower Electric Currents from Antenna Signal Traces</a></div></td>
-<td>Maximilian Straub et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20555">2507.20555</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20991.html">Debiasing inference in large-scale structure with non-flat volume measures</a></div></td>
-<td>Alexander Reeves et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20991">2507.20991</a></td>
 </tr>
 </tbody></table>

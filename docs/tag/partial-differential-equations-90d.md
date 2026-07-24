@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,17 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24143.html">Linear-Nonlinear Fusion Neural Operator for Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Heng Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24143">2603.24143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22208.html">Finite Expression Method with TranNet-based Function Learning for High-Dimensional Partial Differential Equations</a></div></td>
-<td>Phuoc-Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22208">2604.22208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22414.html">Computational Control of Nonlinear Partial Differential Equations Using Machine Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Maximilian Kurbanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22414">2604.22414</a></td>
 </tr>
 </tbody></table>

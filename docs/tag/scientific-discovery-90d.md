@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,29 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16922.html">ClimAgent: LLM as Agents for Autonomous Open-ended Climate Science Analysis</a></div></td>
 <td>Hao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16922">2604.16922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03963.html">Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Zewen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03963">2508.03963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25111.html">SEVerA: Verified Synthesis of Self-Evolving Agents</a></div></td>
-<td>Debangshu Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25111">2603.25111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22748.html">Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond</a></div></td>
-<td>Meng Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22748">2604.22748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23072.html">Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis</a></div></td>
-<td>Junyan Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23072">2604.23072</a></td>
 </tr>
 </tbody></table>

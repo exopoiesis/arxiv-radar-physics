@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,11 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15582.html">Fine-tuning foundation models of materials interatomic potentials with frozen transfer learning</a></div></td>
 <td>Mariia Radova et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15582">2502.15582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20592.html">PhaseNAS: Language-Model Driven Architecture Search with Dynamic Phase Adaptation</a></div></td>
-<td>Fei Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20592">2507.20592</a></td>
 </tr>
 </tbody></table>

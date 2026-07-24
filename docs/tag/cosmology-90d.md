@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,29 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07651.html">Cosmology with one galaxy: An analytic formula relating $Ω_{\rm m}$ with galaxy properties</a></div><div class="paper-tags"><a href="galaxy-formation-90d.html">galaxy-formation</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Kito Liao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07651">2602.07651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20363.html">The Pristine HeII Emitter near GN-z11: Constraining the Mass Distribution of the First Stars</a></div></td>
-<td>Elka Rusta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20363">2603.20363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22462.html">Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Andrea Addazi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22462">2604.22462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22703.html">Reionization, UV Luminosity and 21$\,$cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses</a></div></td>
-<td>Gaétan Facchinetti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22703">2604.22703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22928.html">Quantitative modelling of type Ia supernovae spectral time series III: Implications for type Ia supernovae standardisation in cosmology</a></div></td>
-<td>M. R. Magee</td>
-<td><a href="http://arxiv.org/abs/2604.22928">2604.22928</a></td>
 </tr>
 </tbody></table>

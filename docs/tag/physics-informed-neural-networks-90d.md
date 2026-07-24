@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,17 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23528.html">When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Sifan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23528">2604.23528</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07765.html">Solving Nonlinear PDEs with Sparse Radial Basis Function Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Zihan Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07765">2505.07765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22414.html">Computational Control of Nonlinear Partial Differential Equations Using Machine Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Maximilian Kurbanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22414">2604.22414</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">710 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4262,17 +4262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23280.html">Data-Driven Stochastic Control via Non-i.i.d. Trajectories: Foundations and Guarantees</a></div></td>
 <td>Abolfazl Lavaei</td>
 <td><a href="http://arxiv.org/abs/2507.23280">2507.23280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01297.html">Receding Hamiltonian-Informed Optimal Neural Control and State Estimation for Closed-Loop Dynamical Systems</a></div></td>
-<td>Josue N. Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01297">2411.01297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22256.html">Spatiodynamic inference using vision-based generative modelling</a></div></td>
-<td>Jun Won Park et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22256">2507.22256</a></td>
 </tr>
 </tbody></table>

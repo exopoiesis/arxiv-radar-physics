@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Amirhossein Nouranizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18043.html">Adaptive Mamba Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Zeyuan Song et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17318.html">FEVessel: Mesh-Independent Analysis of 3D Pressure Vessels with the Label-Free Pretrained Finite Element Method</a></div></td>
 <td>Yipin Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17318">2607.17318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15857.html">Surrogate modeling of drift-reduced Braginskii turbulence with resistivity-conditioned Koopman neural operators</a></div></td>
-<td>Ameir Shaa et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15857">2607.15857</a></td>
 </tr>
 </tbody></table>

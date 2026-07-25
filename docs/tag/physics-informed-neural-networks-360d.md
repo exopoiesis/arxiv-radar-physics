@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Amirhossein Nouranizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21352.html">Double screening in the training dynamics of variational physics-informed neural networks for heterogeneous coupled parabolic systems</a></div></td>
+<td>Ali Ouattara Kouma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21352">2607.21352</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ziyan Chen et al.</td>
@@ -3788,17 +3800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22678.html">A holomorphic Kolmogorov-Arnold network framework for solving elliptic problems on arbitrary 2D domains</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Matteo Calafà et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22678">2507.22678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21749.html">Improving Neural Network Training using Dynamic Learning Rate Schedule for PINNs and Image Classification</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>D. Veerababu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21749">2507.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21800.html">Physics-Informed Neural Networks with Dynamical Boundary Constraints</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Andrés Martínez-Esteban et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21800">2507.21800</a></td>
 </tr>
 </tbody></table>

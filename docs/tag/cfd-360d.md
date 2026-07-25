@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1226,23 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22817.html">Wall Shear Stress Estimation in Abdominal Aortic Aneurysms: Towards Generalisable Neural Surrogate Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Patryk Rygiel et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22817">2507.22817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21651.html">Characterizing Intraventricular Flow Patterns via Modal Decomposition Techniques in Idealized Left Ventricle Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Eneko Lazpita et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21651">2507.21651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21684.html">diffSPH: Differentiable Smoothed Particle Hydrodynamics for Adjoint Optimization and Machine Learning</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Rene Winchenbach et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21684">2507.21684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21716.html">Efficient Reduced Order Modeling Based on HODMD to Predict Intraventricular Flow Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Eneko Lazpita et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21716">2507.21716</a></td>
 </tr>
 </tbody></table>

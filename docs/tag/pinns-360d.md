@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">622 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3746,17 +3746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22678.html">A holomorphic Kolmogorov-Arnold network framework for solving elliptic problems on arbitrary 2D domains</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Matteo Calafà et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22678">2507.22678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21749.html">Improving Neural Network Training using Dynamic Learning Rate Schedule for PINNs and Image Classification</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>D. Veerababu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21749">2507.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21800.html">Physics-Informed Neural Networks with Dynamical Boundary Constraints</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Andrés Martínez-Esteban et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21800">2507.21800</a></td>
 </tr>
 </tbody></table>

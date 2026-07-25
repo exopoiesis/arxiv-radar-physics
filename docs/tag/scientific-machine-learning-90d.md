@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Amirhossein Nouranizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19926.html">Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning</a></div></td>
 <td>Yasmine Marani et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23811.html">Attention Is Not All You Need for Diffraction</a></div></td>
 <td>Elizabeth J. Baggett et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23811">2604.23811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21556.html">Artificial Intelligence for Food Innovation</a></div></td>
-<td>Bianca Datta et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21556">2509.21556</a></td>
 </tr>
 </tbody></table>

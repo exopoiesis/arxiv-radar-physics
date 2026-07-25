@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Ivan Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20686.html">Enhancing Attack Detection Capabilities in BACnet/IP Networks Using Machine-Learning Models</a></div></td>
+<td>Derek Manzella et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20686">2607.20686</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-21</td>

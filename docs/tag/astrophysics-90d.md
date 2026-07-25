@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26114.html">Charge diffusion and modulation transfer function in a Nancy Grace Roman Space Telescope detector</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Emily Macbeth et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26114">2604.26114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23236.html">The functional form of galaxy and halo luminosity and mass functions</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Amelia Ford et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23236">2604.23236</a></td>
 </tr>
 </tbody></table>

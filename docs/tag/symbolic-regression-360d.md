@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,11 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16528.html">ADAM-SINDy: An Efficient Optimization Framework for Parameterized Nonlinear Dynamical System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Siva Viknesh et al.</td>
 <td><a href="http://arxiv.org/abs/2410.16528">2410.16528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06496.html">Machine Learning Unveils the Power Law of Finite-Volume Energy Shifts</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Wei-Jie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06496">2503.06496</a></td>
 </tr>
 </tbody></table>

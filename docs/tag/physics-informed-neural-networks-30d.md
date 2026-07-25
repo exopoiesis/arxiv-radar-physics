@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Amirhossein Nouranizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21352.html">Double screening in the training dynamics of variational physics-informed neural networks for heterogeneous coupled parabolic systems</a></div></td>
+<td>Ali Ouattara Kouma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21352">2607.21352</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Ziyan Chen et al.</td>
@@ -254,17 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Deepak Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25793.html">Monte Carlo physics-informed neural networks for inverse multiscale heat conduction problems via the phonon Boltzmann transport equation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Qingyi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25793">2606.25793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26013.html">G-PINNs: Gaussian-based spatially weighted formulation for PINNs: 1D low-viscous Burgers</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Kheir-eddine Otmani et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26013">2606.26013</a></td>
 </tr>
 </tbody></table>

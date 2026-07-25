@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19329.html">Gravitational-Wave Sky Mapping with Pulsar Timing Arrays: The Full Earth-Pulsar Response and Fundamental Resolution Limits</a></div></td>
+<td>S. A. Andrianov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19329">2607.19329</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18441.html">Detection of cosmic strings by gravitational wave lensing. Predictions for Einstein Telescope</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Jakub Szyndler et al.</td>
@@ -452,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09493.html">Gravitational wave distance estimation using intrinsic signal properties: dark sirens as distance indicators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Trisha V et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09493">2508.09493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17402.html">Mapping Parameter Correlations in Spinning Binary Black Hole Mergers</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Karen Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17402">2502.17402</a></td>
 </tr>
 </tbody></table>

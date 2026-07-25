@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,11 +752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06506.html">Hybrid Approaches for Black Hole Spin Estimation: From Classical Spectroscopy to Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Stella Menziltsidou</td>
 <td><a href="http://arxiv.org/abs/2508.06506">2508.06506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03819.html">Exploring the evolution of gravitational-wave emitters with efficient emulation: Constraining the origins of binary black holes using normalising flows</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Storm Colloms et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03819">2503.03819</a></td>
 </tr>
 </tbody></table>

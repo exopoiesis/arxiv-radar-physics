@@ -40,6 +40,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.18043">2607.18043</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19425.html">Waves 2026 Book of Abstracts</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Lise-Marie Imbert-Gerard et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19425">2607.19425</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="les-90d.html">les</a></div></td>
 <td>Priyesh Kakka et al.</td>
@@ -1010,11 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23528.html">When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Sifan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23528">2604.23528</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24143.html">Linear-Nonlinear Fusion Neural Operator for Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Heng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24143">2603.24143</a></td>
 </tr>
 </tbody></table>

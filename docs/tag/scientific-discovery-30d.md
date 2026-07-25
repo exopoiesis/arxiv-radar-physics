@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18564.html">HALO: Interactive Co-abductive Reasoning in Scientific Hypothesis Generation</a></div></td>
+<td>Youngseung Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18564">2607.18564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19336.html">Agents in the Wild: Where Research Meets Deployment</a></div></td>
+<td>Grace Hui Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19336">2607.19336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20557.html">Monkey King Bang: A Unified Scientific Multimodal Foundation Model</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Hesen Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20557">2607.20557</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13220.html">Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science</a></div></td>
 <td>Sutanay Choudhury et al.</td>
@@ -194,23 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26728.html">Scientific discovery as meta-optimization: a combinatorial optimization case study</a></div></td>
 <td>Yuan-Hang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26728">2606.26728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08532.html">DN-Hypo-Pipeline: An AI-Driven Workflow for Generating Hypotheses using Large Language Models and Scientific Explanations</a></div></td>
-<td>Lei Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08532">2606.08532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25532.html">Agentic evolution of physically constrained foundation models</a></div></td>
-<td>Jiangwei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25532">2606.25532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26359.html">Accelerating Returns and the Qualitative Engine for Science</a></div></td>
-<td>Guojun Liao</td>
-<td><a href="http://arxiv.org/abs/2606.26359">2606.26359</a></td>
 </tr>
 </tbody></table>

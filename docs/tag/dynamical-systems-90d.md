@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,23 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23716.html">Information-Theoretic Measures in AI: A Practical Decision Guide</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Nikolaos Al. Papadopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23716">2604.23716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07368.html">Semi-Supervised Model-Free Bayesian State Estimation from Compressed Measurements</a></div></td>
-<td>Anubhab Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07368">2407.07368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17477.html">Variational Grey-Box Dynamics Matching</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Gurjeet Sangra Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17477">2602.17477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23269.html">WSINDy for Model Predictive Control with Applications to Fusion, Drones, and Chaos</a></div></td>
-<td>Cristian López et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23269">2604.23269</a></td>
 </tr>
 </tbody></table>

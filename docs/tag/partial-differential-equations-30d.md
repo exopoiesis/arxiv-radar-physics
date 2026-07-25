@@ -40,6 +40,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.18043">2607.18043</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19425.html">Waves 2026 Book of Abstracts</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Lise-Marie Imbert-Gerard et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19425">2607.19425</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
 <td>Priyesh Kakka et al.</td>
@@ -272,11 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27459.html">Operator Learning for Cubic Nonlinear Schrödinger Equation on Periodic Domains</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Emmanuel E. Oguadimma et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27459">2606.27459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25323.html">Physics-Informed Neural Networks for the Time-Domain Maxwell Equations with Split-Field Perfectly Matched Layers</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Xiaodong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25323">2606.25323</a></td>
 </tr>
 </tbody></table>

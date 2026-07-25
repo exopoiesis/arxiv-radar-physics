@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">522 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21409.html">Cautious optimism for deep parameterized quantum circuits</a></div></td>
+<td>Marie Kempkes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21409">2607.21409</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a> · <a href="qml-360d.html">qml</a></div></td>
@@ -3128,23 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23346.html">Transfer entropy and O-information to detect grokking in tensor network multi-class classification problems</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Domenico Pomarico et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23346">2507.23346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14089.html">Quantum enhanced stratification of Breast Cancer: exploring quantum expressivity for real omics data</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Valeria Repetto et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14089">2409.14089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03086.html">Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Salvatore Sinno et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03086">2502.03086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22054.html">Pitfalls when tackling the exponential concentration of parameterized quantum models</a></div></td>
-<td>Reyhaneh Aghaei Saem et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22054">2507.22054</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21050.html">HyperImageNet: A Large-Scale High-Spatial Resolution Hyperspectral Imagery Classification Benchmark</a></div></td>
+<td>Chuguang Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21050">2607.21050</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
 <td>Philipp Vaeth et al.</td>
@@ -3344,11 +3350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10403.html">Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks</a></div></td>
 <td>Yan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.10403">2504.10403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21816.html">Control Copy-Paste: Controllable Diffusion-Based Augmentation Method for Remote Sensing Few-Shot Object Detection</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Yanxing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21816">2507.21816</a></td>
 </tr>
 </tbody></table>

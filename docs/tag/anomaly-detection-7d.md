@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20686.html">Enhancing Attack Detection Capabilities in BACnet/IP Networks Using Machine-Learning Models</a></div></td>
+<td>Derek Manzella et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20686">2607.20686</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19032.html">IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion</a></div></td>
 <td>Lei Hu</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18479.html">Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection</a></div><div class="paper-tags"><a href="normalizing-flows-7d.html">normalizing-flows</a></div></td>
 <td>Dorianis M. Perez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18479">2607.18479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
-<td>Sodtavilan Odonchimed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
 </tr>
 </tbody></table>

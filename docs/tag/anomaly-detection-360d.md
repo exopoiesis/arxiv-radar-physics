@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20686.html">Enhancing Attack Detection Capabilities in BACnet/IP Networks Using Machine-Learning Models</a></div></td>
+<td>Derek Manzella et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20686">2607.20686</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19032.html">IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion</a></div></td>
 <td>Lei Hu</td>
@@ -1964,11 +1970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00063.html">Anomaly detection with spiking neural networks for LHC physics</a></div></td>
 <td>Barry M. Dillon et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00063">2508.00063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10091.html">G$^{2}$SF-MIAD: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection</a></div></td>
-<td>Chengyu Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10091">2503.10091</a></td>
 </tr>
 </tbody></table>

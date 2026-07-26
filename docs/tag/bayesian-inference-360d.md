@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,11 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00657.html">Joint inference for gravitational wave signals and glitches using a data-informed glitch model</a></div></td>
 <td>Ann-Kristin Malz et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00657">2505.00657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10608.html">Hierarchical Bayesian inference for uncertainty quantification of thermal grease rheology</a></div></td>
-<td>Pranay P. Nagrani et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10608">2503.10608</a></td>
 </tr>
 </tbody></table>

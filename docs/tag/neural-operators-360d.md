@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2402,11 +2402,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23662.html">Modeling turbulent and self-gravitating fluids with Fourier neural operators</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Keith Poletti et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23662">2507.23662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05177.html">Coarse Graining with Neural Operators for Simulating Chaotic Systems</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Chuwei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05177">2408.05177</a></td>
 </tr>
 </tbody></table>

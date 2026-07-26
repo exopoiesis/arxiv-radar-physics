@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,41 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24575.html">Diffusion Model as a Generalist Segmentation Learner</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Haoxiao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24575">2604.24575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21107.html">Doloris: Dual Conditional Diffusion Implicit Bridges with Sparsity Masking Strategy for Unpaired Single-Cell Perturbation Estimation</a></div></td>
-<td>Changxi Chi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21107">2506.21107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13312.html">EL3DD: Extended Latent 3D Diffusion for Language Conditioned Multitask Manipulation</a></div></td>
-<td>Jonas Bode et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13312">2511.13312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23658.html">FlowPlace: Flow Matching for Chip Placement</a></div></td>
-<td>Peng Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23658">2604.23658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23709.html">ZID-Net: Zero-Inference Diffusion Prior Decoupling Network for Single Image Dehazing</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Xinheng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23709">2604.23709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23806.html">Symmetric Equilibrium Propagation for Thermodynamic Diffusion Training</a></div></td>
-<td>Aditi De</td>
-<td><a href="http://arxiv.org/abs/2604.23806">2604.23806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23867.html">Learning Interpretable PDE Representations for Generative Reconstructions with Structured Sparsity</a></div></td>
-<td>Valerie Tsao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23867">2604.23867</a></td>
 </tr>
 </tbody></table>

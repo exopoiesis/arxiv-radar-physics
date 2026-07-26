@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qaoa — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <a href="qaoa-90d.html">90d</a> <strong>360d</strong> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11109.html">Agent-Q: Fine-Tuning Large Language Models for Quantum Circuit Generation and Optimization</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="vqe-360d.html">vqe</a></div></td>
 <td>Linus Jern et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11109">2504.11109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00027.html">Quantum Semi-Random Forests for Qubit-Efficient Recommender Systems</a></div></td>
-<td>Azadeh Alavi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00027">2508.00027</a></td>
 </tr>
 </tbody></table>

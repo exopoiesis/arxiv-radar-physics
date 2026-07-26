@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">184 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1118,17 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23693.html">CFDagent: A Language-Guided, Zero-Shot Multi-Agent System for Complex Flow Simulation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Zhaoyue Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23693">2507.23693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22294.html">Towards Experiment Execution in Support of Community Benchmark Workflows for HPC</a></div><div class="paper-tags"><a href="earthquake-prediction-360d.html">earthquake-prediction</a></div></td>
-<td>Gregor von Laszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22294">2507.22294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22817.html">Wall Shear Stress Estimation in Abdominal Aortic Aneurysms: Towards Generalisable Neural Surrogate Models</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Patryk Rygiel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22817">2507.22817</a></td>
 </tr>
 </tbody></table>

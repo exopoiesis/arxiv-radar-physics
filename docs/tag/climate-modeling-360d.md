@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03845.html">Operational convection-permitting COSMO/ICON ensemble predictions at observation sites (CIENS)</a></div></td>
 <td>Sebastian Lerch et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03845">2508.03845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05177.html">Coarse Graining with Neural Operators for Simulating Chaotic Systems</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Chuwei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05177">2408.05177</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06474.html">Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere</a></div></td>
-<td>Noah D. Brenowitz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06474">2505.06474</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3320,17 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23692.html">High-resolution eikonal imaging and uncertainty quantification of the Kilauea caldera</a></div></td>
 <td>Angela F. Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23692">2507.23692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22493.html">LVM-GP: Uncertainty-Aware PDE Solver via coupling latent variable model and Gaussian process</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xiaodong Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22493">2507.22493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22969.html">Fantômas Unconfined: global QCD fits with Bézier parameterizations</a></div></td>
-<td>Lucas Kotz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22969">2507.22969</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -650,17 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23931.html">Do Quantum Transformers Help? A Systematic VQC Architecture Comparison on Tabular Benchmarks</a></div></td>
 <td>Chi-Sheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23931">2604.23931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11367.html">Maritime object classification with SAR imagery using quantum kernel methods</a></div></td>
-<td>John Tanner et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11367">2512.11367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23743.html">Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System</a></div><div class="paper-tags"><a href="time-series-prediction-90d.html">time-series-prediction</a></div></td>
-<td>Tushar Pandey</td>
-<td><a href="http://arxiv.org/abs/2604.23743">2604.23743</a></td>
 </tr>
 </tbody></table>

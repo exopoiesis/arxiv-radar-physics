@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00985.html">Dynamical Dark Energy Implies a Coupled Dark Sector: Insights from DESI DR2 via a Data-Driven Approach</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Changyu You et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00985">2504.00985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23019.html">Capturing star formation activity from compressed photometric images of galaxies</a></div></td>
-<td>Kyuseok Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23019">2507.23019</a></td>
 </tr>
 </tbody></table>

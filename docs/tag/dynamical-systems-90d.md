@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,17 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25904.html">Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics</a></div></td>
 <td>Andre Herz et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25904">2604.25904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23650.html">On Tikhonov Regularization for Direct and Indirect Data-Driven LQR Control</a></div></td>
-<td>Shuyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23650">2604.23650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23716.html">Information-Theoretic Measures in AI: A Practical Decision Guide</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Nikolaos Al. Papadopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23716">2604.23716</a></td>
 </tr>
 </tbody></table>

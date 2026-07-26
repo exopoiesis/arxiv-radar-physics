@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,17 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24526.html">Tests of scalar polarizations with multi-messenger events</a></div></td>
 <td>Sk Md Adil Imam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24526">2604.24526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23527.html">Using Statistical Mechanics to Improve Real-World Bayesian Inference: A New Method Combining Tempered Posteriors and Wang-Landau Sampling</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Alfred C. K. Farris</td>
-<td><a href="http://arxiv.org/abs/2604.23527">2604.23527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23821.html">Accelerating Quantum Materials Characterization: Hybrid Active Learning for Autonomous Spin Wave Spectroscopy</a></div></td>
-<td>William Ratcliff</td>
-<td><a href="http://arxiv.org/abs/2604.23821">2604.23821</a></td>
 </tr>
 </tbody></table>

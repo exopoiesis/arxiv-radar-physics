@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,17 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00645.html">SmartFlow: A CFD-solver-agnostic deep reinforcement learning framework for computational fluid dynamics on HPC platforms</a></div><div class="paper-tags"><a href="flow-control-360d.html">flow-control</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Maochao Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00645">2508.00645</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23693.html">CFDagent: A Language-Guided, Zero-Shot Multi-Agent System for Complex Flow Simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Zhaoyue Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23693">2507.23693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06520.html">Optimization of Flip-Landing Trajectories for Starship based on a Deep Learned Simulator</a></div></td>
-<td>Liwei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06520">2508.06520</a></td>
 </tr>
 </tbody></table>

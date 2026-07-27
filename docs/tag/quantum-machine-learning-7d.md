@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="qaoa-7d.html">qaoa</a> · <a href="variational-quantum-algorithms-7d.html">variational-quantum-algorithms</a> · <a href="vqe-7d.html">vqe</a></div></td>
 <td>Ahatesham Bhuiyan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18126">2607.18126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17327.html">Interpreting Quantum Learning Models via Stochastic Processes</a></div></td>
-<td>Johannes Fankhauser et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17327">2607.17327</a></td>
 </tr>
 </tbody></table>

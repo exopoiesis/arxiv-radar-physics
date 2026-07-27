@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">811 papers</span>
+  <span class="paper-count">808 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4862,23 +4862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00628.html">Separated-Variable Spectral Neural Networks: A Physics-Informed Learning Approach for High-Frequency PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Xiong Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00628">2508.00628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13811.html">A Lightweight Optimization Framework for Estimating 3D Brain Tumor Infiltration</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jonas Weidner et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13811">2412.13811</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23662.html">Modeling turbulent and self-gravitating fluids with Fourier neural operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Keith Poletti et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23662">2507.23662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02717.html">DD-DeepONet: Domain decomposition and DeepONet for solving partial differential equations in three application scenarios</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Bo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02717">2508.02717</a></td>
 </tr>
 </tbody></table>

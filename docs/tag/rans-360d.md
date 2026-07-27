@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11603.html">Realizability-Informed Machine Learning for Turbulence Anisotropy Mappings</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Ryley McConkey et al.</td>
 <td><a href="http://arxiv.org/abs/2406.11603">2406.11603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23443.html">Adjoint-Based Aerodynamic Shape Optimization with a Manifold Constraint Learned by Diffusion Models</a></div></td>
-<td>Long Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23443">2507.23443</a></td>
 </tr>
 </tbody></table>

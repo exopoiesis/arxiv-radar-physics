@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,17 +596,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26092.html">Sensitivity of binary pulsar timing to spin-0 and spin-1 ultralight dark matter</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Federico Huxhagen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26092">2604.26092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24330.html">Pre-localization of Massive Black Hole Binaries in the Millihertz Band</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Xue-Ting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24330">2604.24330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24526.html">Tests of scalar polarizations with multi-messenger events</a></div></td>
-<td>Sk Md Adil Imam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24526">2604.24526</a></td>
 </tr>
 </tbody></table>

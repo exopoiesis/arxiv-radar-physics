@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27158.html">Hybrid Fourier Neural Operator-Lattice Boltzmann Method</a></div></td>
 <td>Alexandra Junk et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27158">2604.27158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18491.html">Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="rans-90d.html">rans</a></div></td>
-<td>Nicholas Thumiger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18491">2604.18491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24225.html">Multilevel radial basis function surrogates for noise-robust DSMC-CFD coupling</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Arshad Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24225">2604.24225</a></td>
 </tr>
 </tbody></table>

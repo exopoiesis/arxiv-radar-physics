@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">708 papers</span>
+  <span class="paper-count">706 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4250,17 +4250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00325.html">PnP-DA: Towards Principled Plug-and-Play Integration of Variational Data Assimilation and Generative Models</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Yongquan Qu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00325">2508.00325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16325.html">Tailored Forecasting from Short Time Series via Meta-learning</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Declan A. Norton et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16325">2501.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23280.html">Data-Driven Stochastic Control via Non-i.i.d. Trajectories: Foundations and Guarantees</a></div></td>
-<td>Abolfazl Lavaei</td>
-<td><a href="http://arxiv.org/abs/2507.23280">2507.23280</a></td>
 </tr>
 </tbody></table>

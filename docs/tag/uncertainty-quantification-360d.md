@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3314,11 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00588.html">Output-recurrent gated state space model for multiphase flows modeling and uncertainty quantification of exhaust vehicles</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
 <td>Ruilin Chen</td>
 <td><a href="http://arxiv.org/abs/2508.00588">2508.00588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23692.html">High-resolution eikonal imaging and uncertainty quantification of the Kilauea caldera</a></div></td>
-<td>Angela F. Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23692">2507.23692</a></td>
 </tr>
 </tbody></table>

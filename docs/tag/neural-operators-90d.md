@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25181.html">Shearlet Neural Operators for Anisotropic-Shock-Dominated and Multi-scale parametric partial differential equations</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Fabio Pereira dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25181">2604.25181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11428.html">Diagnosing Failure Modes of Neural Operators Across Diverse PDE Families</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Lennon Shikhman</td>
-<td><a href="http://arxiv.org/abs/2601.11428">2601.11428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23937.html">Multi-scale Dynamic Wake Modeling of Floating Offshore Wind Turbines via Fourier Neural Operators and Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Guodan Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23937">2604.23937</a></td>
 </tr>
 </tbody></table>

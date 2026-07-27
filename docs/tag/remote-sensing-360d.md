@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">555 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3344,11 +3344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00627.html">IAMAP: Unlocking Deep Learning in QGIS for non-coders and limited computing resources</a></div></td>
 <td>Paul Tresson et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00627">2508.00627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10403.html">Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks</a></div></td>
-<td>Yan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10403">2504.10403</a></td>
 </tr>
 </tbody></table>

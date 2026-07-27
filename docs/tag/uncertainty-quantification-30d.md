@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Zirui Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28287.html">Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks</a></div></td>
-<td>Phong Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28287">2606.28287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="astrophysics-30d.html">astrophysics</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-30d.html">climate-modeling</a> · <a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Christian Munoz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
 </tr>
 </tbody></table>

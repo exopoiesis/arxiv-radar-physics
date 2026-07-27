@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05723.html">Simulating Fokker-Planck equations via mean field control of score-based normalizing flows</a></div></td>
 <td>Mo Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05723">2506.05723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16325.html">Tailored Forecasting from Short Time Series via Meta-learning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Declan A. Norton et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16325">2501.16325</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23753.html">On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement</a></div></td>
+<td>Baptiste Mathevon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23753">2607.23753</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19750.html">Machine Can Automatically Discover Parametric Functions to Model HEP Data</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
 <td>Ho Fung Tsoi et al.</td>
@@ -254,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15453.html">CosmoGen: A genetic algorithm framework for the exploration of dark energy dynamics</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>D. Castelão et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15453">2509.15453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09772.html">Physics-Informed Symbolic Regression for Elasticity Modeling in Cardiac Digital Twins</a></div></td>
-<td>Sophia Ohnemus et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09772">2508.09772</a></td>
 </tr>
 </tbody></table>

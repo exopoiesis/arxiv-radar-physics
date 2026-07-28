@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30244.html">Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation</a></div></td>
 <td>Kun Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30244">2606.30244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28922.html">Cross-Sensor SAR Data Generation Using Diffusion Models and Feature Migration</a></div></td>
-<td>Xuanting Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28922">2606.28922</a></td>
 </tr>
 </tbody></table>

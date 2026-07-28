@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23683.html">Qutrit-Based Neural Quantum Kernels for Classification Tasks</a></div></td>
+<td>Camila Cristiano-Romero et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23683">2607.23683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
+<td>Peiyong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22831.html">New class of exactly flat topological bands - compact localised states protected by local graph topology</a></div></td>
+<td>Tamaghna Hazra</td>
+<td><a href="http://arxiv.org/abs/2607.22831">2607.22831</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21409.html">Cautious optimism for deep parameterized quantum circuits</a></div></td>
@@ -620,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Md Aminur Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19461.html">Iterative Quantum Feature Maps</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
-<td>Nasa Matsumoto et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19461">2506.19461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25613.html">One Coordinate at a Time: Convergence Guarantees for Rotosolve in Variational Quantum Algorithms</a></div></td>
-<td>Sayantan Pramanik et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25613">2604.25613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25631.html">Local tensor-train surrogates for quantum learning models</a></div></td>
-<td>Sreeraj Rajindran Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25631">2604.25631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26110.html">A Comprehensive Analysis of Accuracy and Robustness in Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26110">2604.26110</a></td>
 </tr>
 </tbody></table>

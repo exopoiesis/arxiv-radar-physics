@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22468.html">Learning to Prepare Molecular Ground States with Transformer Models</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Alex Koziell-Pipe et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22468">2607.22468</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="qaoa-30d.html">qaoa</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Ahatesham Bhuiyan et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09761.html">SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Akshaya Ajith et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09761">2607.09761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28742.html">MetaMorphQ: Physics-Based Metamorphic Testing of Variational Quantum Circuits</a></div></td>
-<td>Ngoc Nhi Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28742">2606.28742</a></td>
 </tr>
 </tbody></table>

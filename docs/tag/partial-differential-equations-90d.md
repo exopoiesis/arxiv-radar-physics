@@ -16,6 +16,36 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23466.html">Extending Fourier Neural Operators for Modeling Parameterized and Coupled PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23466">2607.23466</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23192.html">Data-Driven Diffusion Processes on Differential Forms via the Projected Ambient Connection Laplacian</a></div></td>
+<td>Alvaro Almeida Gomez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23192">2607.23192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23202.html">jaxdae: A JAX-native Differentiable Solver for Differential-Algebraic Equations in Coupled Multi-physics</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Chengyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23202">2607.23202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06237.html">ResiPhy-MDNF: A Residual-Based Physics-Aware Multilevel Discrete Neural Field Framework for PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Zheng Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06237">2607.06237</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21932.html">Generalized Neural Operator for Parametric and Boundary-Value Problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ruoyan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21932">2607.21932</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19690.html">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Ziyan Chen et al.</td>
@@ -962,35 +992,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26999.html">Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Beomchul Park et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26999">2604.26999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25147.html">Encoded Forward Backward Stochastic Neural Network for High-Dimensional Backward Stochastic Differential Equations and Parabolic Partial Differential Equations</a></div></td>
-<td>Zhao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25147">2604.25147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25181.html">Shearlet Neural Operators for Anisotropic-Shock-Dominated and Multi-scale parametric partial differential equations</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Fabio Pereira dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25181">2604.25181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25502.html">A Discrete-Time Random Feature Method for Nonlinear Evolution Equations with Implicit-Explicit Runge--Kutta Time Stepping</a></div></td>
-<td>Haoran Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25502">2604.25502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25606.html">C-PINN: A neural network framework based on the Cordès condition for solving linear and fully nonlinear equations in non-divergence form and its applications</a></div></td>
-<td>Bingcheng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25606">2604.25606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25825.html">A Quantum Spectral Framework for Solving PDEs</a></div></td>
-<td>Chih-Kang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25825">2604.25825</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21919.html">Quantum multi-label k-nearest neighbor</a></div></td>
+<td>Yilin Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21919">2607.21919</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="hep-30d.html">hep</a> · <a href="high-energy-physics-30d.html">high-energy-physics</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Ivan Ge et al.</td>
@@ -104,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29293.html">Private training in quantum machine learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Tigran Sedrakyan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29293">2606.29293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28655.html">Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Aspen Erlandsson Brisebois et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28655">2606.28655</a></td>
 </tr>
 </tbody></table>

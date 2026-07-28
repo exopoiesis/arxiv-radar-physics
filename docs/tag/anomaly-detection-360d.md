@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23197.html">Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical Systems</a></div></td>
+<td>Youngseok Hwang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23197">2607.23197</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19827.html">Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards</a></div></td>
 <td>Gabriele Franchini et al.</td>
@@ -1958,11 +1964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02130.html">The Complexity of Extreme Climate Events on the New Zealand&#x27;s Kiwifruit Industry</a></div></td>
 <td>Boyuan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02130">2508.02130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17112.html">Integrating Generative AI with Network Digital Twins for Enhanced Network Operations</a></div></td>
-<td>Kassi Muhammad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17112">2406.17112</a></td>
 </tr>
 </tbody></table>

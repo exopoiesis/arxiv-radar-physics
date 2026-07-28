@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22375.html">IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation</a></div></td>
+<td>Varun Gumma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22375">2607.22375</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18564.html">HALO: Interactive Co-abductive Reasoning in Scientific Hypothesis Generation</a></div></td>
 <td>Youngseung Jeon et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29331.html">Sample Complexity of Scientific Discovery: PAC Learnability of Compositional Function Trees</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Şuayp Talha Kocabay et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29331">2606.29331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29100.html">Toward Exascale AI for Science: A Scalable AI Skill for Autonomous Microkinetics Discovery</a></div></td>
-<td>Ken-ichi Nomura et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29100">2606.29100</a></td>
 </tr>
 </tbody></table>

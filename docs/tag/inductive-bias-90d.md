@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Peiyong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20060.html">Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus</a></div></td>
 <td>P. E. Trevisanutto et al.</td>
@@ -362,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23818.html">L2RU: a Structured State Space Model with prescribed L2-bound</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Leonardo Massai et al.</td>
 <td><a href="http://arxiv.org/abs/2503.23818">2503.23818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25181.html">Shearlet Neural Operators for Anisotropic-Shock-Dominated and Multi-scale parametric partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Fabio Pereira dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25181">2604.25181</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22812.html">Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Alex Ostridge et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22812">2607.22812</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21689.html">Light Antinuclei Coalescence: Femtoscopic Constraints via Neural-Flow Surrogates</a></div></td>
+<td>M. Korwieser et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21689">2607.21689</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19808.html">From Dark Matter to Galaxies: Halo-Free Mock Generation via Conditional Point-Cloud Diffusion</a></div></td>
@@ -284,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15453.html">CosmoGen: A genetic algorithm framework for the exploration of dark energy dynamics</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>D. Castelão et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15453">2509.15453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26092.html">Sensitivity of binary pulsar timing to spin-0 and spin-1 ultralight dark matter</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Federico Huxhagen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26092">2604.26092</a></td>
 </tr>
 </tbody></table>

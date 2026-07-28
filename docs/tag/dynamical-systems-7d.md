@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Nikolaos Kollias et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23558.html">Topological Feature Extraction of Scanty Time Series Data: A Data-Driven Approach for Dynamic State Change Detection</a></div></td>
+<td>B. Rishab Antosh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23558">2607.23558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
+<td>David Oexle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
@@ -32,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19628.html">HypEMBER: Hypernetwork-based Ensemble for Robust Policy Learning of Parametrized Dynamical Systems</a></div></td>
 <td>Nicolò Botteghi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19628">2607.19628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a> · <a href="koopman-operator-7d.html">koopman-operator</a></div></td>
-<td>Charles Bokor et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-7d.html">reduced-order-modeling</a></div></td>
-<td>Ao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18433.html">Intelligence from Learnable Novelty</a></div></td>
-<td>Yanbo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18433">2607.18433</a></td>
 </tr>
 </tbody></table>

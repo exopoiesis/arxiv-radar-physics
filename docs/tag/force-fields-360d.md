@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22903.html">From Local Structure to Thermodynamics and Transport of Water with Machine Learning Force Fields</a></div></td>
+<td>Andreas Kretschmer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22903">2607.22903</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16129.html">Nonadiabatic excited-state dynamics with quantum Monte Carlo-trained machine learning: azomethane as a stringent test</a></div></td>
 <td>Alfonso Annarelli et al.</td>
@@ -614,11 +620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Vahe Gharakhanyan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06462.html">Efficient Long-Range Machine Learning Force Fields for Liquid and Materials Properties</a></div></td>
-<td>John L. Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06462">2505.06462</a></td>
 </tr>
 </tbody></table>

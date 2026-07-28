@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23219.html">An Ontology for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Daniel Hernández et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23219">2607.23219</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div></td>
@@ -278,17 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21850.html">OptiMat Alloys: a FAIR, living database of multi-principal element alloys enabled by a conversational agent</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Yang Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21850">2604.21850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04015.html">Atomistic Machine Learning with Irreducible Cartesian Natural Tensors</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
-<td>Qun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04015">2510.04015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26143.html">Mixture of Experts Framework in Machine Learning Interatomic Potentials for Atomistic Simulations</a></div></td>
-<td>Gabriel de Miranda Nascimento et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26143">2604.26143</a></td>
 </tr>
 </tbody></table>

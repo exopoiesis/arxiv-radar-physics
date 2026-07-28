@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Nikolaos Kollias et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23558.html">Topological Feature Extraction of Scanty Time Series Data: A Data-Driven Approach for Dynamic State Change Detection</a></div></td>
+<td>B. Rishab Antosh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23558">2607.23558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>David Oexle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
 <td>Moritz Lampert et al.</td>
@@ -788,29 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27052.html">Man, Machine, and Mathematics</a></div></td>
 <td>Akshunna S. Dogra</td>
 <td><a href="http://arxiv.org/abs/2604.27052">2604.27052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21101.html">A Hybridizable Neural Time Integrator for Stable Autoregressive Forecasting</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Brooks Kinch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21101">2604.21101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25572.html">Dictionary learning for Kernel EDMD</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Erik Lien Bolager et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25572">2604.25572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25655.html">Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yuhe Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25655">2604.25655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25904.html">Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics</a></div></td>
-<td>Andre Herz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25904">2604.25904</a></td>
 </tr>
 </tbody></table>

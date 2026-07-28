@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23466.html">Extending Fourier Neural Operators for Modeling Parameterized and Coupled PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23466">2607.23466</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21932.html">Generalized Neural Operator for Parametric and Boundary-Value Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ruoyan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21932">2607.21932</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
@@ -764,17 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26745.html">Robust Model-Based Iteration for Passive Gamma Emission Tomography</a></div></td>
 <td>Tommi Heikkilä et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26745">2604.26745</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19347.html">Neural operators for solving nonlinear inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Otmar Scherzer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19347">2508.19347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25181.html">Shearlet Neural Operators for Anisotropic-Shock-Dominated and Multi-scale parametric partial differential equations</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Fabio Pereira dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25181">2604.25181</a></td>
 </tr>
 </tbody></table>

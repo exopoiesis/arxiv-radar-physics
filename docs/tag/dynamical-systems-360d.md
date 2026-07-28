@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">706 papers</span>
+  <span class="paper-count">709 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Nikolaos Kollias et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23558.html">Topological Feature Extraction of Scanty Time Series Data: A Data-Driven Approach for Dynamic State Change Detection</a></div></td>
+<td>B. Rishab Antosh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23558">2607.23558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>David Oexle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
@@ -4244,11 +4268,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01519.html">The Vanishing Gradient Problem for Stiff Neural Differential Equations</a></div><div class="paper-tags"><a href="neural-differential-equations-360d.html">neural-differential-equations</a></div></td>
 <td>Colby Fronk et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01519">2508.01519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00325.html">PnP-DA: Towards Principled Plug-and-Play Integration of Variational Data Assimilation and Generative Models</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Yongquan Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00325">2508.00325</a></td>
 </tr>
 </tbody></table>

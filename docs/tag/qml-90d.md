@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21919.html">Quantum multi-label k-nearest neighbor</a></div></td>
+<td>Yilin Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21919">2607.21919</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Ivan Ge et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Md Aminur Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26110.html">A Comprehensive Analysis of Accuracy and Robustness in Quantum Neural Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ban Q. Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26110">2604.26110</a></td>
 </tr>
 </tbody></table>

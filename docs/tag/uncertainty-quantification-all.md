@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">861 papers</span>
+  <span class="paper-count">864 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23008.html">Nesterov acceleration in optimizing over probability measures</a></div></td>
+<td>Jiaqi Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23008">2607.23008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23202.html">jaxdae: A JAX-native Differentiable Solver for Differential-Algebraic Equations in Coupled Multi-physics</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Chengyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23202">2607.23202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22330.html">A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative Noise</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Nicolas Goeman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22330">2607.22330</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21373.html">3D Uncertainty Quantification for the Photo-Acoustic Tomography</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>

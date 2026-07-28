@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
+<td>Michael Candon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22402">2607.22402</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Tianyu Li et al.</td>
@@ -1202,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01549.html">CGCCE-Net:Change-Guided Cross Correlation Enhancement Network for Remote Sensing Building Change Detection</a></div></td>
 <td>ChengMing Wang</td>
 <td><a href="http://arxiv.org/abs/2508.01549">2508.01549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00645.html">SmartFlow: A CFD-solver-agnostic deep reinforcement learning framework for computational fluid dynamics on HPC platforms</a></div><div class="paper-tags"><a href="flow-control-360d.html">flow-control</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Maochao Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00645">2508.00645</a></td>
 </tr>
 </tbody></table>

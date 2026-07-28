@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22468.html">Learning to Prepare Molecular Ground States with Transformer Models</a></div><div class="paper-tags"><a href="vqe-360d.html">vqe</a></div></td>
+<td>Alex Koziell-Pipe et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22468">2607.22468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21779.html">Graph-Theoretic Neural Network Fragmentation with Covariant Direct Molecular Force Learning: Enabling Coupled-Cluster Accuracy AIMD for Fluxional Systems</a></div></td>
+<td>Xiao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21779">2607.21779</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18403.html">Towards a universal model for spin-orbit coupled Wannier Hamiltonians</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
@@ -698,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Jonathan Schmidt et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00290.html">High-fidelity electronic structure and properties of InSb: $G_0W_0$ and Bayesian-optimized hybrid functionals and DFT+$U$ approaches</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00290">2508.00290</a></td>
 </tr>
 </tbody></table>

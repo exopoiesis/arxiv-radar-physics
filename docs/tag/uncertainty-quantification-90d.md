@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23008.html">Nesterov acceleration in optimizing over probability measures</a></div></td>
+<td>Jiaqi Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23008">2607.23008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23202.html">jaxdae: A JAX-native Differentiable Solver for Differential-Algebraic Equations in Coupled Multi-physics</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Chengyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23202">2607.23202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22330.html">A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative Noise</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Nicolas Goeman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22330">2607.22330</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21373.html">3D Uncertainty Quantification for the Photo-Acoustic Tomography</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Babak Maboudi Afkham et al.</td>
@@ -752,23 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26673.html">Laplace Approximation for Bayesian Tensor Network Kernel Machines</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Albert Saiapin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26673">2604.26673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25172.html">Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska</a></div></td>
-<td>Douglas Brinkerhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25172">2604.25172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25416.html">Biased Dreams: Limitations to Epistemic Uncertainty Quantification in Latent Space Models</a></div></td>
-<td>Julia Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25416">2604.25416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25489.html">Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information</a></div></td>
-<td>Ritz Ann Aguilar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25489">2604.25489</a></td>
 </tr>
 </tbody></table>

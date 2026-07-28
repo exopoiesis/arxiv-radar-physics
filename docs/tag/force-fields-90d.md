@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>force-fields — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <strong>90d</strong> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22903.html">From Local Structure to Thermodynamics and Transport of Water with Machine Learning Force Fields</a></div></td>
+<td>Andreas Kretschmer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22903">2607.22903</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16129.html">Nonadiabatic excited-state dynamics with quantum Monte Carlo-trained machine learning: azomethane as a stringent test</a></div></td>

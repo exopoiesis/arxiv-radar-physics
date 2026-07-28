@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">611 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22241.html">AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment</a></div></td>
+<td>Ziyao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22241">2607.22241</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21091.html">Design and Optimization of Metasurfaces for Silicon Photonics: PhD Thesis</a></div></td>
 <td>Mathys Le Grand</td>
 <td><a href="http://arxiv.org/abs/2607.21091">2607.21091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21854.html">Anomalous-diffusion synthesis of non-Gaussian reservoir anomalies for time-lapse seismic inversion</a></div><div class="paper-tags"><a href="seismic-inversion-360d.html">seismic-inversion</a></div></td>
+<td>Anderson Mateus de Sousa Nogueira et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21854">2607.21854</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>
@@ -3662,23 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01230.html">Point-wise Diffusion Models for Physical Systems with Shape Variations: Application to Spatio-temporal and Large-scale system</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Jiyong Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01230">2508.01230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00250.html">Jet Image Generation in High Energy Physics Using Diffusion Models</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
-<td>Victor D. Martinez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00250">2508.00250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00427.html">Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting</a></div></td>
-<td>Seunggeun Chi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00427">2508.00427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00782.html">SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation</a></div></td>
-<td>Kien T. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00782">2508.00782</a></td>
 </tr>
 </tbody></table>

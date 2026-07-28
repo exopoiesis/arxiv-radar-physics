@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22375.html">IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation</a></div></td>
+<td>Varun Gumma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22375">2607.22375</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18564.html">HALO: Interactive Co-abductive Reasoning in Scientific Hypothesis Generation</a></div></td>
@@ -3086,17 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01746.html">Bayes-Entropy Collaborative Driven Agents for Research Hypotheses Generation and Optimization</a></div></td>
 <td>Shiyang Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01746">2508.01746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18348.html">Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team</a></div></td>
-<td>Weilun Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18348">2506.18348</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23276.html">How Far Are AI Scientists from Changing the World?</a></div></td>
-<td>Qiujie Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23276">2507.23276</a></td>
 </tr>
 </tbody></table>

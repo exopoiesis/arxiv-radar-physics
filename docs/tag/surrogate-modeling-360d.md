@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09596.html">Design of Experiments for Emulations: A Selective Review from a Modeling Perspective</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Xinwei Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09596">2505.09596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10684.html">Deep Operator Networks for Bayesian Parameter Estimation in PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Amogh Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10684">2501.10684</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06280.html">Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Yuanzhe Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06280">2506.06280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12327.html">Learning Plasma Dynamics and Robust Rampdown Trajectories with Predict-First Experiments at TCV</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Allen M. Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12327">2502.12327</a></td>
 </tr>
 </tbody></table>

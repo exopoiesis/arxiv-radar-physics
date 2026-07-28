@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">628 papers</span>
+  <span class="paper-count">633 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23437.html">Neural Representation of Minimal Surfaces</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Jiayin Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23437">2607.23437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Nikolaos Kollias et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23186.html">Stochastic Dynamics of the Two-Dimensional Low-to-High Transition System Driven by Multiplicative Noise</a></div></td>
+<td>Yongzhi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23186">2607.23186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Martín D. Jiménez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23276">2607.23276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21932.html">Generalized Neural Operator for Parametric and Boundary-Value Problems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Ruoyan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21932">2607.21932</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22215.html">Latent PDE mapping for efficient physics-informed learning across geometries with limited data</a></div></td>
+<td>Ingvild Askim Adde et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22215">2607.22215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22327.html">Physics-Informed Neural Network for Modeling the Dynamic Behavior of Grid-Forming Converters</a></div></td>
+<td>Hussein Jaffal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22327">2607.22327</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
@@ -26,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21352.html">Double screening in the training dynamics of variational physics-informed neural networks for heterogeneous coupled parabolic systems</a></div></td>
 <td>Ali Ouattara Kouma et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21352">2607.21352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21753.html">Parametric Neural r-Adaptivity for Isogeometric Analysis via Residual Minimization</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Elías Caru et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21753">2607.21753</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>
@@ -104,6 +152,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12567.html">Forked Physics-Informed Neural Networks for Non-Markovian Open Quantum Dynamics and Control</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Zhao-Wei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12567">2607.12567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22685.html">PINN-Based Framework for Soliton Solutions of Gross Pitaevskii and Nonlinear Schrodinger Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>P. S. Vinayagam et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22685">2607.22685</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-13</td>
@@ -3758,29 +3812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01463.html">Extended Interface Physics-Informed Neural Networks Method for Moving Interface Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ran Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01463">2508.01463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02827.html">Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Xianliang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02827">2407.02827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10684.html">Deep Operator Networks for Bayesian Parameter Estimation in PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Amogh Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10684">2501.10684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02202.html">Hybrid Quantum Physics-informed Neural Network: Towards Efficient Learning of High-speed Flows</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Fong Yew Leong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02202">2503.02202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00628.html">Separated-Variable Spectral Neural Networks: A Physics-Informed Learning Approach for High-Frequency PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xiong Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00628">2508.00628</a></td>
 </tr>
 </tbody></table>

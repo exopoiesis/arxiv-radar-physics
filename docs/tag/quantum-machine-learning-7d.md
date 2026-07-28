@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23683.html">Qutrit-Based Neural Quantum Kernels for Classification Tasks</a></div></td>
+<td>Camila Cristiano-Romero et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23683">2607.23683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
+<td>Peiyong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22831.html">New class of exactly flat topological bands - compact localised states protected by local graph topology</a></div></td>
+<td>Tamaghna Hazra</td>
+<td><a href="http://arxiv.org/abs/2607.22831">2607.22831</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21409.html">Cautious optimism for deep parameterized quantum circuits</a></div></td>
 <td>Marie Kempkes et al.</td>
@@ -32,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19506.html">Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design</a></div></td>
 <td>Krishna Bhatia et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19506">2607.19506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17554.html">Lie-Group Mode Connectivity in Quantum Machine Learning from a Dynamical Lie Algebra Perspective</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Hiroshi Ohno</td>
-<td><a href="http://arxiv.org/abs/2607.17554">2607.17554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17705.html">Image Classification on IBM Quantum Computers</a></div></td>
-<td>Junghoon Justin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17705">2607.17705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="qaoa-7d.html">qaoa</a> · <a href="variational-quantum-algorithms-7d.html">variational-quantum-algorithms</a> · <a href="vqe-7d.html">vqe</a></div></td>
-<td>Ahatesham Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18126">2607.18126</a></td>
 </tr>
 </tbody></table>

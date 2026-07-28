@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1129 papers</span>
+  <span class="paper-count">1133 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Nikolaos Kollias et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23558.html">Topological Feature Extraction of Scanty Time Series Data: A Data-Driven Approach for Dynamic State Change Detection</a></div></td>
+<td>B. Rishab Antosh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23558">2607.23558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>David Oexle et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>

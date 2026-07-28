@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22812.html">Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy</a></div><div class="paper-tags"><a href="dark-matter-7d.html">dark-matter</a></div></td>
+<td>Alex Ostridge et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22812">2607.22812</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20721.html">Probing the baryonic--dark matter connection in galaxy clusters using X-rays with gated recurrent unit neural networks</a></div></td>
 <td>Asif Iqbal et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20721">2607.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16059.html">OpenCosmo: Community Portal and Analysis Framework for Flagship Cosmological Simulations</a></div><div class="paper-tags"><a href="cosmological-simulations-7d.html">cosmological-simulations</a></div></td>
-<td>Patrick R. Wells et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16059">2607.16059</a></td>
 </tr>
 </tbody></table>

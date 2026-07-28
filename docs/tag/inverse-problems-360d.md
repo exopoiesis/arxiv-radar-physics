@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Martín D. Jiménez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23276">2607.23276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06237.html">ResiPhy-MDNF: A Residual-Based Physics-Aware Multilevel Discrete Neural Field Framework for PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Zheng Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06237">2607.06237</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22330.html">A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative Noise</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Nicolas Goeman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22330">2607.22330</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
@@ -2450,11 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01314.html">Physics-Informed Neural Network Approaches for Sparse Data Flow Reconstruction of Unsteady Flow Around Complex Geometries</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Vamsi Sai Krishna Malineni et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01314">2508.01314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10684.html">Deep Operator Networks for Bayesian Parameter Estimation in PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Amogh Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10684">2501.10684</a></td>
 </tr>
 </tbody></table>

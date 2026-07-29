@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Yunzhe Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29440.html">Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Zirui Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29440">2606.29440</a></td>
 </tr>
 </tbody></table>

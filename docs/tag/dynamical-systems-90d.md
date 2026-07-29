@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,35 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28107.html">Neural Aided Kalman Filtering for UAV State Estimation in Degraded Sensing Environments</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Akhil Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2604.28107">2604.28107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23818.html">L2RU: a Structured State Space Model with prescribed L2-bound</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Leonardo Massai et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23818">2503.23818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26242.html">Recurrence-Based Nonlinear Vocal Dynamics as Digital Biomarkers for Depression Detection from Conversational Speech</a></div></td>
-<td>Himadri S Samanta</td>
-<td><a href="http://arxiv.org/abs/2604.26242">2604.26242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26682.html">Model-Free Dynamic Mode Adaptive Control for Data-Driven Control Synthesis</a></div></td>
-<td>Parham Oveissi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26682">2604.26682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26933.html">Data-driven discovery of polynomial ODEs with provably bounded solutions</a></div></td>
-<td>Albert Alcalde et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26933">2604.26933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27052.html">Man, Machine, and Mathematics</a></div></td>
-<td>Akshunna S. Dogra</td>
-<td><a href="http://arxiv.org/abs/2604.27052">2604.27052</a></td>
 </tr>
 </tbody></table>

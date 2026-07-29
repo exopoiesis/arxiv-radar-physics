@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Ali Shibli et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11817.html">QMC-Net: Data-Aware Quantum Representations for Remote Sensing Image Classification</a></div></td>
-<td>Md Aminur Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11817">2604.11817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26478.html">Cross-Domain Transfer of Hyperspectral Foundation Models</a></div></td>
-<td>Nick Theisen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26478">2604.26478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26774.html">MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification</a></div></td>
-<td>Zuzheng Kuang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26774">2604.26774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27206.html">HQ-UNet: A Hybrid Quantum-Classical U-Net with a Quantum Bottleneck for Remote Sensing Image Segmentation</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Md Aminur Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27206">2604.27206</a></td>
 </tr>
 </tbody></table>

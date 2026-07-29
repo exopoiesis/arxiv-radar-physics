@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>les — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <strong>90d</strong> <a href="les-360d.html">360d</a> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10028.html">Neural-ISAM: A hybrid in-situ machine learning approach for complex manifold-based combustion models in LES of turbulent flames</a></div></td>
 <td>S. Trevor Fush et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10028">2605.10028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26621.html">Large-eddy simulation nets (LESnets) based on physics-informed neural operator for wall-bounded turbulence</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Sunan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26621">2604.26621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26776.html">Conditional diffusion denoising probabilistic model for super-resolution of atmospheric boundary layer large eddy simulation</a></div></td>
-<td>Omar Sallam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26776">2604.26776</a></td>
 </tr>
 </tbody></table>

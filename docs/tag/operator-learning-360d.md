@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03839.html">VAE-DNN: Energy-Efficient Trainable-by-Parts Surrogate Model For Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yifei Zong et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03839">2508.03839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01211.html">Multi-Operator Few-Shot Learning for Generalization Across PDE Families</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Yile Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01211">2508.01211</a></td>
 </tr>
 </tbody></table>

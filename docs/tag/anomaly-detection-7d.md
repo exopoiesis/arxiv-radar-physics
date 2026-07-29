@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>anomaly-detection — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,23 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20686.html">Enhancing Attack Detection Capabilities in BACnet/IP Networks Using Machine-Learning Models</a></div></td>
 <td>Derek Manzella et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20686">2607.20686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19032.html">IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion</a></div></td>
-<td>Lei Hu</td>
-<td><a href="http://arxiv.org/abs/2607.19032">2607.19032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19323.html">Towards anomaly detection searches for new physics signatures including Higgs bosons with weakly supervised machine learning</a></div></td>
-<td>Chi Lung Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19323">2607.19323</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19444.html">Marine Engine Fault Dataset: Open-Access Data under Controlled Reference and Fault Scenario Conditions</a></div></td>
-<td>Ahmad BahooToroody et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19444">2607.19444</a></td>
 </tr>
 </tbody></table>

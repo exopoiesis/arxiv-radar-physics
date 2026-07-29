@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">610 papers</span>
+  <span class="paper-count">608 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3662,17 +3662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01589.html">Censored Sampling for Topology Design: Guiding Diffusion with Human Preferences</a></div></td>
 <td>Euihyun Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01589">2508.01589</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01194.html">Energy-dependent anisotropy of cosmic-ray muons: A twelve-year study with IceCube Neutrino Observatory</a></div></td>
-<td>Nabin Upadhya Dhakal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01194">2508.01194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01230.html">Point-wise Diffusion Models for Physical Systems with Shape Variations: Application to Spatio-temporal and Large-scale system</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Jiyong Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01230">2508.01230</a></td>
 </tr>
 </tbody></table>

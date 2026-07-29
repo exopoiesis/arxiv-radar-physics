@@ -8,11 +8,11 @@
   total: 1373
   group: dynamical-systems
 - name: quantum-machine-learning
-  count: 39
+  count: 38
   total: 922
   group: quantum-physics
 - name: pinns
-  count: 38
+  count: 37
   total: 987
   group: scientific-machine-learning
 - name: diffusion-models
@@ -23,22 +23,22 @@
   count: 31
   total: 1133
   group: dynamical-systems
-- name: scientific-discovery
-  count: 29
-  total: 715
-  group: generative-models
 - name: inverse-problems
-  count: 28
+  count: 27
   total: 661
-  group: generative-models
-- name: uncertainty-quantification
-  count: 28
-  total: 864
   group: generative-models
 - name: remote-sensing
   count: 27
   total: 1032
   group: climate
+- name: scientific-discovery
+  count: 27
+  total: 715
+  group: generative-models
+- name: uncertainty-quantification
+  count: 27
+  total: 864
+  group: generative-models
 - name: anomaly-detection
   count: 26
   total: 514
@@ -52,19 +52,19 @@
   total: 356
   group: astrophysics
 - name: neural-operators
-  count: 19
-  total: 577
-  group: scientific-machine-learning
-- name: operator-learning
   count: 18
-  total: 408
+  total: 577
   group: scientific-machine-learning
 - name: materials-discovery
   count: 17
   total: 370
   group: materials-science
+- name: operator-learning
+  count: 15
+  total: 408
+  group: scientific-machine-learning
 - name: qml
-  count: 16
+  count: 15
   total: 340
   group: quantum-physics
 - name: cfd
@@ -75,22 +75,18 @@
   count: 14
   total: 226
   group: scientific-machine-learning
-- name: scientific-machine-learning
-  count: 14
-  total: 310
-  group: scientific-machine-learning
-- name: computational-fluid-dynamics
-  count: 13
-  total: 303
-  group: fluid-dynamics
 - name: mlip
   count: 13
   total: 201
   group: materials-science
-- name: deeponet
-  count: 12
-  total: 244
+- name: scientific-machine-learning
+  count: 13
+  total: 310
   group: scientific-machine-learning
+- name: computational-fluid-dynamics
+  count: 12
+  total: 303
+  group: fluid-dynamics
 - name: machine-learning-interatomic-potentials
   count: 12
   total: 230
@@ -99,14 +95,18 @@
   count: 12
   total: 235
   group: dynamical-systems
-- name: symbolic-regression
-  count: 12
-  total: 291
-  group: generative-models
 - name: cosmology
   count: 11
   total: 322
   group: astrophysics
+- name: deeponet
+  count: 11
+  total: 244
+  group: scientific-machine-learning
+- name: symbolic-regression
+  count: 11
+  total: 291
+  group: generative-models
 - name: weather-forecasting
   count: 10
   total: 309
@@ -163,10 +163,6 @@
   count: 5
   total: 276
   group: materials-science
-- name: rans
-  count: 5
-  total: 124
-  group: fluid-dynamics
 - name: equation-discovery
   count: 4
   total: 61
@@ -183,6 +179,10 @@
   count: 4
   total: 54
   group: quantum-physics
+- name: rans
+  count: 4
+  total: 124
+  group: fluid-dynamics
 - name: rom
   count: 4
   total: 90

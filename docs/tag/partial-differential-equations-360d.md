@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">811 papers</span>
+  <span class="paper-count">809 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4868,17 +4868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02166.html">Physics-informed Fourier Basis Neural Network for Fluid Mechanics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Chao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02166">2508.02166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01211.html">Multi-Operator Few-Shot Learning for Generalization Across PDE Families</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Yile Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01211">2508.01211</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01463.html">Extended Interface Physics-Informed Neural Networks Method for Moving Interface Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01463">2508.01463</a></td>
 </tr>
 </tbody></table>

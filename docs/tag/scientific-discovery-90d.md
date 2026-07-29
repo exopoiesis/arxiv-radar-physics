@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,17 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27297.html">Machine Collective Intelligence for Explainable Scientific Discovery</a></div></td>
 <td>Gyoung S. Na et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27297">2604.27297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26645.html">SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data</a></div><div class="paper-tags"><a href="ai4science-90d.html">ai4science</a></div></td>
-<td>Dianyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26645">2604.26645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27092.html">End-to-end autonomous scientific discovery on a real optical platform</a></div></td>
-<td>Shuxing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27092">2604.27092</a></td>
 </tr>
 </tbody></table>

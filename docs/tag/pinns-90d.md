@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28180.html">An adaptive wavelet-based PINN for problems with localized high-magnitude source</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Himanshu Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2604.28180">2604.28180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08081.html">Simulating non-Markovian open quantum dynamics by exploiting physics-informed neural network</a></div></td>
-<td>Long Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08081">2603.08081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26999.html">Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Beomchul Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26999">2604.26999</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">622 papers</span>
+  <span class="paper-count">620 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3734,17 +3734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03421.html">A matrix preconditioning framework for physics-informed neural networks based on adjoint method</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jiahao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03421">2508.03421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01314.html">Physics-Informed Neural Network Approaches for Sparse Data Flow Reconstruction of Unsteady Flow Around Complex Geometries</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Vamsi Sai Krishna Malineni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01314">2508.01314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01463.html">Extended Interface Physics-Informed Neural Networks Method for Moving Interface Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01463">2508.01463</a></td>
 </tr>
 </tbody></table>

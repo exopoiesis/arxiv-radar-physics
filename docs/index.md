@@ -5,7 +5,7 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-07-28._
+_Updated 2026-07-29._
 
 **19931** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 

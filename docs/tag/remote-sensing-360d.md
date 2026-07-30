@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25815.html">Freq-RemoteVAR: Next-Frequency Autoregressive Modeling for Remote Sensing Change Detection</a></div></td>
+<td>Luqi Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25815">2607.25815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25153.html">OpenPVMapper: A Multi-source, Nationwide Database of Rooftop Photovoltaic Systems in France</a></div></td>
+<td>Gabiel Kasmi</td>
+<td><a href="http://arxiv.org/abs/2607.25153">2607.25153</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21050.html">HyperImageNet: A Large-Scale High-Spatial Resolution Hyperspectral Imagery Classification Benchmark</a></div></td>
 <td>Chuguang Zeng et al.</td>
@@ -3320,17 +3332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02871.html">Evaluation and Analysis of Deep Neural Transformers and Convolutional Neural Networks on Modern Remote Sensing Datasets</a></div></td>
 <td>J. Alex Hurt et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02871">2508.02871</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01555.html">MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection</a></div></td>
-<td>Chengming Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01555">2508.01555</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01731.html">SpectralX: Parameter-efficient Domain Generalization for Spectral Remote Sensing Foundation Models</a></div></td>
-<td>Yuxiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01731">2508.01731</a></td>
 </tr>
 </tbody></table>

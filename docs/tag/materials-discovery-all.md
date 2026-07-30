@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">370 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26296.html">Thermodynamics-Informed Machine Learning for Energy Materials Discovery</a></div></td>
+<td>Pol Benítez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26296">2607.26296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24274.html">Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design</a></div></td>
+<td>Peng Wang</td>
+<td><a href="http://arxiv.org/abs/2607.24274">2607.24274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25039.html">Citrine Informatics: Chemical &amp; Materials Development Platform</a></div></td>
+<td>Maxwell C. Venetos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25039">2607.25039</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div></td>
+<td>Ruijie Su et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25321">2607.25321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Farzana Yasmin Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22241.html">AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment</a></div></td>
@@ -680,29 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00788.html">Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Adam Arthur et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00788">2605.00788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20549.html">Sample-efficient evidence estimation of score based priors for model selection</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20549">2602.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27443.html">ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Gabe Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27443">2604.27443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Ali Shibli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28169.html">PhyCo: Learning Controllable Physical Priors for Generative Motion</a></div></td>
-<td>Sriram Narayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.28169">2604.28169</a></td>
 </tr>
 </tbody></table>

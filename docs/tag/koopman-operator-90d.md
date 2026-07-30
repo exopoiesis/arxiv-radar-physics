@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>koopman-operator — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <strong>90d</strong> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25086.html">On residual bounds, backward shadowing stability of the Extended Dynamic Mode Decomposition solution to the eigenvalue problem for the Koopman operator</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Zlatko Drmač</td>
+<td><a href="http://arxiv.org/abs/2607.25086">2607.25086</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>

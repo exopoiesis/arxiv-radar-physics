@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1133 papers</span>
+  <span class="paper-count">1135 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24420.html">Frequency-Based Reservoir computing</a></div></td>
+<td>Arthur S Powanwe</td>
+<td><a href="http://arxiv.org/abs/2607.24420">2607.24420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25086.html">On residual bounds, backward shadowing stability of the Extended Dynamic Mode Decomposition solution to the eigenvalue problem for the Koopman operator</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>Zlatko Drmač</td>
+<td><a href="http://arxiv.org/abs/2607.25086">2607.25086</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>

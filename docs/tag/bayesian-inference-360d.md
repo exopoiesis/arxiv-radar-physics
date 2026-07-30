@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">445 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26480.html">Feedback stabilization of multi-qubit Hamiltonian parameters enabled by single-shot measurement-based sequential Monte Carlo</a></div></td>
+<td>Hyeongyu Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26480">2607.26480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Minal Chhabra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24412">2607.24412</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23485.html">Simultaneous Color Glass Condensate fit to deep inelastic scattering and forward hadron production at HERA, RHIC, and the LHC</a></div></td>

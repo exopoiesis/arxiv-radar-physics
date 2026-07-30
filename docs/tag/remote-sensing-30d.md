@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25815.html">Freq-RemoteVAR: Next-Frequency Autoregressive Modeling for Remote Sensing Change Detection</a></div></td>
+<td>Luqi Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25815">2607.25815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25153.html">OpenPVMapper: A Multi-source, Nationwide Database of Rooftop Photovoltaic Systems in France</a></div></td>
+<td>Gabiel Kasmi</td>
+<td><a href="http://arxiv.org/abs/2607.25153">2607.25153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21050.html">HyperImageNet: A Large-Scale High-Spatial Resolution Hyperspectral Imagery Classification Benchmark</a></div></td>
@@ -158,23 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div></td>
 <td>Dianyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>
-<td>Zhuocheng Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29664">2606.29664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29849.html">Hessian sparsity-constrained self-supervised network for near-infrared single-photon single-pixel imaging</a></div></td>
-<td>Yao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29849">2606.29849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30244.html">Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30244">2606.30244</a></td>
 </tr>
 </tbody></table>

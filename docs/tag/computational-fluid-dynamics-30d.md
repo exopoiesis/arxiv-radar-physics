@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
+<td>Xiaozhu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24860">2607.24860</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Tianyu Li et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04495.html">U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="les-30d.html">les</a></div></td>
 <td>Shixiong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04495">2607.04495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Wenbo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
 </tr>
 </tbody></table>

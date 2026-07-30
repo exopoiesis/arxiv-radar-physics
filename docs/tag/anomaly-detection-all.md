@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">515 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25500.html">String theory mathematics and matrix data analysis</a></div></td>
+<td>Sanjaye Ramgoolam</td>
+<td><a href="http://arxiv.org/abs/2607.25500">2607.25500</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23197.html">Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical Systems</a></div></td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24513.html">Physics Transformer: Tailoring Transformer for General PDE Prediction</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Guoze Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24513">2607.24513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Farzana Yasmin Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Xiaozhu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24860">2607.24860</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
@@ -92,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02746.html">CodeJeNN: A simple C++ neural network generator for physics applications</a></div></td>
 <td>Jay Arcities et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02746">2607.02746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Wenbo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
 </tr>
 </tbody></table>

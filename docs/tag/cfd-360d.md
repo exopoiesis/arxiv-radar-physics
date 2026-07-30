@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24513.html">Physics Transformer: Tailoring Transformer for General PDE Prediction</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Guoze Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24513">2607.24513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Farzana Yasmin Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
+<td>Xiaozhu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24860">2607.24860</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
@@ -1202,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03370.html">A Closed-Loop Multi-Agent Framework for Aerodynamics-Aware Automotive Styling Design</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Xinyu Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03370">2508.03370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01549.html">CGCCE-Net:Change-Guided Cross Correlation Enhancement Network for Remote Sensing Building Change Detection</a></div></td>
-<td>ChengMing Wang</td>
-<td><a href="http://arxiv.org/abs/2508.01549">2508.01549</a></td>
 </tr>
 </tbody></table>

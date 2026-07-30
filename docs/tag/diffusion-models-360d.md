@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">608 papers</span>
+  <span class="paper-count">609 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div></td>
+<td>Ruijie Su et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25321">2607.25321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Farzana Yasmin Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22241.html">AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment</a></div></td>
@@ -3656,11 +3668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12049.html">TACO: Taming Diffusion for in-the-wild Video Amodal Completion</a></div></td>
 <td>Ruijie Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12049">2503.12049</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01589.html">Censored Sampling for Topology Design: Guiding Diffusion with Human Preferences</a></div></td>
-<td>Euihyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01589">2508.01589</a></td>
 </tr>
 </tbody></table>

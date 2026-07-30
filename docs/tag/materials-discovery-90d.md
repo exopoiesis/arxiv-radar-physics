@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26296.html">Thermodynamics-Informed Machine Learning for Energy Materials Discovery</a></div></td>
+<td>Pol Benítez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26296">2607.26296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24274.html">Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design</a></div></td>
+<td>Peng Wang</td>
+<td><a href="http://arxiv.org/abs/2607.24274">2607.24274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25039.html">Citrine Informatics: Chemical &amp; Materials Development Platform</a></div></td>
+<td>Maxwell C. Venetos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25039">2607.25039</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>
@@ -314,17 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00313.html">Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships</a></div></td>
 <td>Guillaume Lambard</td>
 <td><a href="http://arxiv.org/abs/2605.00313">2605.00313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27636.html">Generative structure search for efficient and diverse discovery of molecular and crystal structures</a></div></td>
-<td>Yifang Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27636">2604.27636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27810.html">Hyper-Dimensional Fingerprints as Molecular Representations</a></div></td>
-<td>Jonas Teufel et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27810">2604.27810</a></td>
 </tr>
 </tbody></table>

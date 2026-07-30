@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25815.html">Freq-RemoteVAR: Next-Frequency Autoregressive Modeling for Remote Sensing Change Detection</a></div></td>
+<td>Luqi Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25815">2607.25815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25153.html">OpenPVMapper: A Multi-source, Nationwide Database of Rooftop Photovoltaic Systems in France</a></div></td>
+<td>Gabiel Kasmi</td>
+<td><a href="http://arxiv.org/abs/2607.25153">2607.25153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21050.html">HyperImageNet: A Large-Scale High-Spatial Resolution Hyperspectral Imagery Classification Benchmark</a></div></td>
@@ -602,41 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21783.html">SHARP: Spectrum-aware Highly-dynamic Adaptation for Resolution Promotion in Remote Sensing Synthesis</a></div></td>
 <td>Bingxuan Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21783">2603.21783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08156.html">LandSegmenter: Towards a Flexible Foundation Model for Land Use and Land Cover Mapping</a></div></td>
-<td>Chenying Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08156">2511.08156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12652.html">CBEN -- A Multimodal Machine Learning Dataset for Cloud Robust Remote Sensing Image Understanding</a></div></td>
-<td>Marco Stricker et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12652">2602.12652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04306.html">HighFM: Towards a Foundation Model for Learning Representations from High-Frequency Earth Observation Data</a></div></td>
-<td>Stella Girtsou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04306">2604.04306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27606.html">ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data</a></div></td>
-<td>Al Zadid Sultan Bin Habib et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27606">2604.27606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27704.html">A generalised pre-training strategy for deep learning networks in semantic segmentation of remotely sensed images</a></div></td>
-<td>Yuan Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27704">2604.27704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27889.html">Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Ali Shibli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27889">2604.27889</a></td>
 </tr>
 </tbody></table>

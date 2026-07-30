@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24726.html">Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Justin Sirignano et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24726">2607.24726</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22811.html">From Hybrid Mechanistic--Data-Driven Modeling Toward Neuro-Symbolic AI: What, Why, and How</a></div></td>
 <td>Moein E. Samadi et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00233.html">Differentiable Autoencoding Neural Operator for Interpretable and Integrable Latent Space Modeling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Siva Viknesh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00233">2510.00233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23946.html">Learning subgrid interfacial area in two-phase flows with regime-dependent inductive biases</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Anirban Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23946">2604.23946</a></td>
 </tr>
 </tbody></table>

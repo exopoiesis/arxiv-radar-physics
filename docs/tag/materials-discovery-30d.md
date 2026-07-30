@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26296.html">Thermodynamics-Informed Machine Learning for Energy Materials Discovery</a></div></td>
+<td>Pol Benítez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26296">2607.26296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24274.html">Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design</a></div></td>
+<td>Peng Wang</td>
+<td><a href="http://arxiv.org/abs/2607.24274">2607.24274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25039.html">Citrine Informatics: Chemical &amp; Materials Development Platform</a></div></td>
+<td>Maxwell C. Venetos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25039">2607.25039</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>
@@ -110,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01004.html">Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm</a></div></td>
 <td>Ling Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01004">2607.01004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div></td>
-<td>Shaobo Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
 </tr>
 </tbody></table>

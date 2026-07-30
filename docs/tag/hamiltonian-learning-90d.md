@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25795.html">Efficient Lindbladian Learning from Constant-Time Pauli Responses</a></div></td>
+<td>Jiaxing Song et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25795">2607.25795</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Jesús Jiménez-Rodríguez et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11205.html">Meta-learning Structure-Preserving Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Cheng Jing et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11205">2508.11205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27838.html">Heisenberg-limited Hamiltonian learning without short-time control</a></div></td>
-<td>Myeongjin Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27838">2604.27838</a></td>
 </tr>
 </tbody></table>

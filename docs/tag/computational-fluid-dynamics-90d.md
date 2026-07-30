@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Xiaozhu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24860">2607.24860</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20321.html">Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Tianyu Li et al.</td>
@@ -278,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00462.html">Adaptation of AI-accelerated CFD Simulations to the IPU platform</a></div></td>
 <td>P. Rosciszewski et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00462">2605.00462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27431.html">A Study on the Performance of Distributed Training of Data-driven CFD Simulations</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Sergio Iserte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27431">2604.27431</a></td>
 </tr>
 </tbody></table>

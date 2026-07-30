@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26749.html">Image Recognition via Vaisman--Neifeld&#x27;s Geometry</a></div></td>
+<td>N. C. Combe et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26749">2607.26749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26951.html">A Spectral-Domain Pseudo-Inverse Construction Method for Unitary Diagonalizable Linear Inverse Problems</a></div></td>
+<td>Shengchang Chen</td>
+<td><a href="http://arxiv.org/abs/2607.26951">2607.26951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -578,23 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01463.html">A Neural Latent Dynamics Approach for Solving Inverse Problems in Cardiac Electrophysiology</a></div></td>
 <td>Edoardo Centofanti et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01463">2605.01463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03478.html">PhotIQA: A photoacoustic image data set with image quality ratings</a></div></td>
-<td>Anna Breger et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03478">2507.03478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20549.html">Sample-efficient evidence estimation of score based priors for model selection</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Frederic Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20549">2602.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.28154.html">Mapping data sensitivities in global QCD analysis with linear response and influence functions</a></div></td>
-<td>Richard Whitehill</td>
-<td><a href="http://arxiv.org/abs/2604.28154">2604.28154</a></td>
 </tr>
 </tbody></table>

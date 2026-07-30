@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26749.html">Image Recognition via Vaisman--Neifeld&#x27;s Geometry</a></div></td>
+<td>N. C. Combe et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26749">2607.26749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26951.html">A Spectral-Domain Pseudo-Inverse Construction Method for Unitary Diagonalizable Linear Inverse Problems</a></div></td>
+<td>Shengchang Chen</td>
+<td><a href="http://arxiv.org/abs/2607.26951">2607.26951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
@@ -170,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01176.html">High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="hep-30d.html">hep</a></div></td>
 <td>Yu Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01176">2607.01176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30230.html">A Distributionally Robust Framework for Learned Reconstructions in Inverse Problems</a></div></td>
-<td>Floor van Maarschalkerwaart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30230">2606.30230</a></td>
 </tr>
 </tbody></table>

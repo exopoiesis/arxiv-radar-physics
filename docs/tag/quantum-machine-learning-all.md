@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-machine-learning — all</h1>
-  <span class="paper-count">922 papers</span>
+  <span class="paper-count">923 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23996.html">Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors</a></div><div class="paper-tags"><a href="quantum-error-correction-all.html">quantum-error-correction</a></div></td>
+<td>Shengwang Du</td>
+<td><a href="http://arxiv.org/abs/2607.23996">2607.23996</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23683.html">Qutrit-Based Neural Quantum Kernels for Classification Tasks</a></div></td>

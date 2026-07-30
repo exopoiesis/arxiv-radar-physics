@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25500.html">String theory mathematics and matrix data analysis</a></div></td>
+<td>Sanjaye Ramgoolam</td>
+<td><a href="http://arxiv.org/abs/2607.25500">2607.25500</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23197.html">Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical Systems</a></div></td>
 <td>Youngseok Hwang et al.</td>
@@ -164,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01305.html">Generative AI and Federated Learning for Intrusion Detection Systems: A Survey</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Jiefei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01305">2607.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30009.html">Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</a></div></td>
-<td>Bochen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30009">2606.30009</a></td>
 </tr>
 </tbody></table>

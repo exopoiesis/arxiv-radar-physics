@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>detector-simulation — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <a href="detector-simulation-90d.html">90d</a> <strong>360d</strong> <a href="detector-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25935.html">Probing the limits on anomalous quartic gauge couplings via $ZZγ$ production in the $\ell\ellννγ$ channel at FCC-hh</a></div></td>
+<td>A. Yilmaz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25935">2607.25935</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15361.html">Mitigating Detector Ageing Effects with Graph-Based Multi-Modal Track Reconstruction at Belle II</a></div></td>

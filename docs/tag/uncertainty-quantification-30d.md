@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26781.html">Recent Progress in Ab-Initio Nuclear Theory for Precision Physics Searches in Muonic Atoms and Superallowed $β$ Decays</a></div></td>
+<td>Simone Salvatore Li Muli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26781">2607.26781</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23008.html">Nesterov acceleration in optimizing over probability measures</a></div></td>
 <td>Jiaqi Tang et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Tianhao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Yunzhe Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
 </tr>
 </tbody></table>

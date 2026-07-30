@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rans — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <strong>90d</strong> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24256.html">ML-based Predictive Models for Power Consumption in Virtualised O-RANs</a></div></td>
+<td>Rishu Raj et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24256">2607.24256</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25048.html">Optimal, Data-Driven Wall Models for Efficient Large Eddy Simulations of Metastable von Kármán Flows</a></div><div class="paper-tags"><a href="les-90d.html">les</a></div></td>
+<td>Quentin Malé et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25048">2607.25048</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20199.html">A formal log(Re)-cost framework for the engineering turbulence problem</a></div></td>
@@ -122,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00593.html">Inductive Latent Context Persistence: Closing the Post-Handover Cold Start in 6G Radio Access Networks</a></div></td>
 <td>Anubhab Banerjee et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00593">2605.00593</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27680.html">To stall-cell or not to stall-cell: Variational data assimilation of 3D mean flow past a stalled airfoil</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Uttam Cadambi Padmanaban et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27680">2604.27680</a></td>
 </tr>
 </tbody></table>

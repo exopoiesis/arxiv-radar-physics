@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24256.html">ML-based Predictive Models for Power Consumption in Virtualised O-RANs</a></div></td>
+<td>Rishu Raj et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24256">2607.24256</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25048.html">Optimal, Data-Driven Wall Models for Efficient Large Eddy Simulations of Metastable von Kármán Flows</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
+<td>Quentin Malé et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25048">2607.25048</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20199.html">A formal log(Re)-cost framework for the engineering turbulence problem</a></div></td>
@@ -470,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09197.html">MX-AI: Agentic Observability and Control Platform for Open and AI-RAN</a></div></td>
 <td>Ilias Chatzistefanidis et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09197">2508.09197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11603.html">Realizability-Informed Machine Learning for Turbulence Anisotropy Mappings</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Ryley McConkey et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11603">2406.11603</a></td>
 </tr>
 </tbody></table>

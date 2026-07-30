@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Minal Chhabra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24412">2607.24412</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22812.html">Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Alex Ostridge et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00980.html">Coverage is not enough: Frequentist tests of simulation-based inference for primordial non-Gaussianity</a></div></td>
 <td>Toka Alokda et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00980">2605.00980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10451.html">Low-Energy Nuclear Recoil Calibration of XENONnT with a $^{88}$YBe Photoneutron Source</a></div></td>
-<td>XENON Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10451">2412.10451</a></td>
 </tr>
 </tbody></table>

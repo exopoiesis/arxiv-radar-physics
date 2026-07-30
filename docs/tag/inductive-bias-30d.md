@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26850.html">Rotational equivariance and locality in data-driven subgrid-scale closures</a></div></td>
+<td>Ryley McConkey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26850">2607.26850</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Peiyong Wang et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Xin-Yang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30183.html">DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling</a></div></td>
-<td>Mingke Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30183">2606.30183</a></td>
 </tr>
 </tbody></table>

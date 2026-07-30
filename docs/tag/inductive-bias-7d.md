@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26850.html">Rotational equivariance and locality in data-driven subgrid-scale closures</a></div></td>
+<td>Ryley McConkey et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26850">2607.26850</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
 <td>Peiyong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20060.html">Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus</a></div></td>
-<td>P. E. Trevisanutto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20060">2607.20060</a></td>
 </tr>
 </tbody></table>

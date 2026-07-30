@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
+<td>Minal Chhabra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24412">2607.24412</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22812.html">Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
 <td>Alex Ostridge et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21689.html">Light Antinuclei Coalescence: Femtoscopic Constraints via Neural-Flow Surrogates</a></div></td>
 <td>M. Korwieser et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21689">2607.21689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19808.html">From Dark Matter to Galaxies: Halo-Free Mock Generation via Conditional Point-Cloud Diffusion</a></div></td>
-<td>Kana Moriwaki et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19808">2607.19808</a></td>
 </tr>
 </tbody></table>

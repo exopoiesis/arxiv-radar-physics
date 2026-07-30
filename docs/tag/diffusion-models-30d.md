@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div></td>
+<td>Ruijie Su et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25321">2607.25321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
+<td>Farzana Yasmin Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22241.html">AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment</a></div></td>
 <td>Ziyao Huang et al.</td>
@@ -188,17 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01305.html">Generative AI and Federated Learning for Intrusion Detection Systems: A Survey</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
 <td>Jiefei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01305">2607.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29843.html">Gappy Reconstruction of Bubbly Flows by Guided Diffusion Models</a></div></td>
-<td>Hridey Narula et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29843">2606.29843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30012.html">SkelEM: Training-Signal Decoupling of Skeleton and Diffusion for Self-supervised Axial Super-Resolution in Volume Microscopy</a></div></td>
-<td>Bohao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30012">2606.30012</a></td>
 </tr>
 </tbody></table>

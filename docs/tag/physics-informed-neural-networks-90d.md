@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Mikel M. Iparraguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24572.html">Tikhonov-Regularized Physics-Informed Neural Networks for Terminal-State Distributed Optimal Control of Parabolic Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -938,17 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01634.html">Chebyshev-Augmented One-Shot Transfer Learning for PINNs on Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Yiqi Rao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01634">2605.01634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00385.html">PILIR: Physics-Informed Local Implicit Representation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jianfeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00385">2605.00385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06688.html">American Options Pricing under Heston Model via Curriculum Learning in Coupled PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Rohan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06688">2605.06688</a></td>
 </tr>
 </tbody></table>

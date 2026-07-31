@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">512 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div></td>
+<td>Tianyou Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28079">2607.28079</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22375.html">IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation</a></div></td>
@@ -3074,17 +3080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03173.html">Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions</a></div></td>
 <td>Jingxuan Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03173">2508.03173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02209.html">Balancing Information Accuracy and Response Timeliness in Networked LLMs</a></div></td>
-<td>Yigit Turkmen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02209">2508.02209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02789.html">Cognitive Loop via In-Situ Optimization: Self-Adaptive Reasoning for Science</a></div></td>
-<td>Newman Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02789">2508.02789</a></td>
 </tr>
 </tbody></table>

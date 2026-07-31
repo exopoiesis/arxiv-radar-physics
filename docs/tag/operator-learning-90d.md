@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27867.html">Orca: Neural Operators for Causal Reasoning in Continuous Time</a></div></td>
+<td>Gerrit Großmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27867">2607.27867</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23069.html">Geometry-aware LegONet for PDE Learning on Arbitrary Domains</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a></div></td>
 <td>Jiahao Zhang et al.</td>
@@ -464,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08170.html">Quantitative Sobolev Approximation Bounds for Neural Operators with Empirical Validation on Burgers Equation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Nicole Hao</td>
 <td><a href="http://arxiv.org/abs/2605.08170">2605.08170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Purav Matlia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
 </tr>
 </tbody></table>

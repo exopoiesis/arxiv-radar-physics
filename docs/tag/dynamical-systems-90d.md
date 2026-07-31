@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
+<td>Behrad Samari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27908">2607.27908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28220.html">Weather Emulators at the Frontier of Heat Extremes Predictability</a></div></td>
+<td>Cas Decancq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28220">2607.28220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27196.html">From Classification to Regression: Using a Fruitfly to Solve Equations</a></div></td>
+<td>Shady E. Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27196">2607.27196</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24420.html">Frequency-Based Reservoir computing</a></div></td>
@@ -758,29 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11205.html">Meta-learning Structure-Preserving Dynamics</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
 <td>Cheng Jing et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11205">2508.11205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04299.html">Dynamics-Encoded Deep Learning for Robust System Identification and Parameter Estimation</a></div></td>
-<td>Caitlin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2410.04299">2410.04299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01946.html">Characterizing control between interacting subsystems with deep Jacobian estimation</a></div></td>
-<td>Adam J. Eisen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01946">2507.01946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Purav Matlia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02936.html">A Universal Space of Brain Dynamics for Unveiling Cognitive Transitions and Individual Differences</a></div></td>
-<td>Ronghua Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02936">2605.02936</a></td>
 </tr>
 </tbody></table>

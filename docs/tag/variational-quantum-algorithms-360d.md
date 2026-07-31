@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27262.html">LLM-Guided Initialization for Accelerated Hybrid Quantum-Classical Medical Image Classification</a></div></td>
+<td>Riza Alaudin Syah et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27262">2607.27262</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21544.html">The trainability of photonic quantum circuits</a></div></td>
 <td>Alexander Makarovskiy et al.</td>
@@ -404,11 +410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05063.html">Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Nikhil Kumar Rajput et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05063">2508.05063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02369.html">Designing lattice proteins with variational quantum algorithms</a></div></td>
-<td>Hanna Linn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02369">2508.02369</a></td>
 </tr>
 </tbody></table>

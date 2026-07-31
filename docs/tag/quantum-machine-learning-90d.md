@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="quantum-circuit-learning-90d.html">quantum-circuit-learning</a></div></td>
+<td>Kohei Numata et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27841">2607.27841</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23996.html">Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors</a></div><div class="paper-tags"><a href="quantum-error-correction-90d.html">quantum-error-correction</a></div></td>
@@ -602,17 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div></td>
 <td>King Yiu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Purav Matlia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00747.html">Quantum Interval Bound Propagation for Certified Training of Quantum Neural Networks</a></div></td>
-<td>Emma Andrews et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00747">2605.00747</a></td>
 </tr>
 </tbody></table>

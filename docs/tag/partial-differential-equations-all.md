@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1378 papers</span>
+  <span class="paper-count">1380 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27728.html">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling</a></div></td>
+<td>Phonepaserth Sisaykeo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27728">2607.27728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Mikel M. Iparraguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24572.html">Tikhonov-Regularized Physics-Informed Neural Networks for Terminal-State Distributed Optimal Control of Parabolic Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">517 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-circuit-learning-360d.html">quantum-circuit-learning</a></div></td>
+<td>Kohei Numata et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27841">2607.27841</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23996.html">Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors</a></div><div class="paper-tags"><a href="quantum-error-correction-360d.html">quantum-error-correction</a></div></td>
@@ -3110,35 +3116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03850.html">Building Student Understanding of Quantum Information Science and Engineering through Projects on Applications to Medical Technologies</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Jessica L. Rosenberg et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03850">2508.03850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02832.html">LCQNN: Linear Combination of Quantum Neural Networks</a></div></td>
-<td>Hongshun Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02832">2507.02832</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00768.html">Evaluating Angle and Amplitude Encoding Strategies for Variational Quantum Machine Learning: their impact on model&#x27;s accuracy</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Antonio Tudisco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00768">2508.00768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02054.html">Enhancement of Quantum Semi-Supervised Learning via Improved Laplacian and Poisson Methods</a></div></td>
-<td>Hamed Gholipour et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02054">2508.02054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02407.html">Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Xinyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02407">2508.02407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02422.html">Superior resilience to poisoning and amenability to unlearning in quantum machine learning</a></div></td>
-<td>Yu-Qin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02422">2508.02422</a></td>
 </tr>
 </tbody></table>

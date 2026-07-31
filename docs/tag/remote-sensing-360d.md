@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3326,11 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03920.html">Deep learning framework for crater detection and identification on the Moon and Mars</a></div></td>
 <td>Yihan Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03920">2508.03920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02871.html">Evaluation and Analysis of Deep Neural Transformers and Convolutional Neural Networks on Modern Remote Sensing Datasets</a></div></td>
-<td>J. Alex Hurt et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02871">2508.02871</a></td>
 </tr>
 </tbody></table>

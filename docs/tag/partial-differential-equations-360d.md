@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27728.html">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling</a></div></td>
+<td>Phonepaserth Sisaykeo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27728">2607.27728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Mikel M. Iparraguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24572.html">Tikhonov-Regularized Physics-Informed Neural Networks for Terminal-State Distributed Optimal Control of Parabolic Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
@@ -4892,11 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03839.html">VAE-DNN: Energy-Efficient Trainable-by-Parts Surrogate Model For Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Yifei Zong et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03839">2508.03839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02166.html">Physics-informed Fourier Basis Neural Network for Fluid Mechanics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Chao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02166">2508.02166</a></td>
 </tr>
 </tbody></table>

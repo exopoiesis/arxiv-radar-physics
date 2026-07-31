@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">709 papers</span>
+  <span class="paper-count">711 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
+<td>Behrad Samari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27908">2607.27908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28220.html">Weather Emulators at the Frontier of Heat Extremes Predictability</a></div></td>
+<td>Cas Decancq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28220">2607.28220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27196.html">From Classification to Regression: Using a Fruitfly to Solve Equations</a></div></td>
+<td>Shady E. Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27196">2607.27196</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24420.html">Frequency-Based Reservoir computing</a></div></td>
@@ -4262,11 +4280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04401.html">Why are LLMs&#x27; abilities emergent?</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Vladimír Havlík</td>
 <td><a href="http://arxiv.org/abs/2508.04401">2508.04401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02616.html">DeepKoopFormer: A Koopman Enhanced Transformer Based Architecture for Time Series Forecasting</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Ali Forootani et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02616">2508.02616</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1106,11 +1106,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04806.html">Electrodeless Magnetohydrodynamic Local Force Generator for Aerocapture</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a> · <a href="mhd-360d.html">mhd</a></div></td>
 <td>Bernard Parent et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04806">2508.04806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02166.html">Physics-informed Fourier Basis Neural Network for Fluid Mechanics</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Chao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02166">2508.02166</a></td>
 </tr>
 </tbody></table>

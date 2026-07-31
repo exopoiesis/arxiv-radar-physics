@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27251.html">Recursive transformers for semiconductor thermo-mechanical reliability</a></div></td>
+<td>Kart-leong Lim</td>
+<td><a href="http://arxiv.org/abs/2607.27251">2607.27251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17297.html">Multi-Granularity Conformal Prediction for Reliable Neural-Operator Automotive Aerodynamic Surrogates</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Chundong Jia et al.</td>
@@ -998,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06070.html">Real-time physics-informed reconstruction of transient fields using sensor guidance and higher-order time differentiation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Hong-Kyun Noh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06070">2508.06070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09596.html">Design of Experiments for Emulations: A Selective Review from a Modeling Perspective</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Xinwei Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09596">2505.09596</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="quantum-circuit-learning-360d.html">quantum-circuit-learning</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Kohei Numata et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27841">2607.27841</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23461.html">Molecular dynamics with a first-principles-validated universal machine-learning potential reveals dynamic elementary processes of growth-related adspecies on GaN(0001)</a></div></td>
@@ -878,17 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03405.html">Model Accuracy and Data Heterogeneity Shape Uncertainty Quantification in Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Fei Shuang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03405">2508.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Arslan Mazitov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14118">2503.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="force-fields-360d.html">force-fields</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
 </tr>
 </tbody></table>

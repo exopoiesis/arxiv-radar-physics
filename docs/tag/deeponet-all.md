@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">245 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27188.html">Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Lennon J. Shikhman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27188">2607.27188</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25790.html">SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics</a></div></td>

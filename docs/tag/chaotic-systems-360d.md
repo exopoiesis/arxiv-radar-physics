@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27805.html">Chaos in reason: How chain-of-thought LLMs can look for an answer</a></div></td>
+<td>Gregorio Jaca et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27805">2607.27805</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Charles Bokor et al.</td>
@@ -380,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08729.html">Real-time forecasting of chaotic dynamics from sparse data and autoencoders</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
 <td>Elise Özalp et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08729">2508.08729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05723.html">Simulating Fokker-Planck equations via mean field control of score-based normalizing flows</a></div></td>
-<td>Mo Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05723">2506.05723</a></td>
 </tr>
 </tbody></table>

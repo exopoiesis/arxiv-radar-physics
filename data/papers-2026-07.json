@@ -22773,5 +22773,491 @@
    "Generative Models & Discovery"
   ],
   "updated": "2026-07-29"
+ },
+ "2607.27188": {
+  "abstract": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth densities for latent evaluation, while a chronological NIFTY benchmark tests only held-out market prices. A two-component lognormal mixture has the lowest aggregate price, $L^1$, Wasserstein, and fixed-tail errors on the synthetic benchmark. Learned operators retain narrower strengths: DeepONet reduces 1% quantile and variance error by 39.0% and 34.6% relative to the mixture, and a quote transformer reduces $L^1$ by 16.4% on the structurally misspecified Merton family. A numerical conditioning analysis explains why these rankings can differ: after enforcing mass and forward constraints, 95 of 126 pricing directions are numerically null, and two densities separated by $L^1 = 0.061$ produce identical prices on the covered strikes. On 524 held-out NIFTY calls, validation-selected test-time adaptation reduces DeepONet RMSE by 28.3%, but per-expiry mixture and SVI fits remain much more accurate. The evidence supports target-dependent inductive bias, not a universal winner.",
+  "authors": [
+   "Lennon J. Shikhman",
+   "Michael Galarnyk",
+   "Aadi Dash",
+   "Nicholas A. Welsh"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-fin.CP",
+   "q-fin.PR",
+   "q-fin.ST"
+  ],
+  "comment": "7 pages, 4 figures, 2 tables. Submitted to the 7th ACM International Conference on AI in Finance (ICAIF 2026)",
+  "first_author": "Lennon J. Shikhman",
+  "pdf_url": "http://arxiv.org/pdf/2607.27188",
+  "primary_category": "cs.LG",
+  "published": "2026-07-29",
+  "tags": [
+   "deeponet",
+   "inductive-bias"
+  ],
+  "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27196": {
+  "abstract": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning nonlinear input-output relationships by replacing complex global surrogate models with a finite library of representative local patterns. Since scientific data often occupy limited and recurring regions of the input space, we generate predictions by measuring similarities between a query and stored patterns, then combining their associated responses through weighted reconstruction. We apply this approach to nonlinear dynamical systems, data-driven regression, and physics-informed learning using suitable embeddings and similarity measures. For dynamical systems, our offline-online workflow extracts patterns from data or governing equations during the offline phase, while online prediction requires only similarity evaluation and response aggregation. This structure helps us reduce computational and memory demands while providing explicit control over the trade-off among accuracy, storage, and inference cost.",
+  "authors": [
+   "Shady E. Ahmed",
+   "Panos Stinis"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Shady E. Ahmed",
+  "pdf_url": "http://arxiv.org/pdf/2607.27196",
+  "primary_category": "cs.LG",
+  "published": "2026-07-29",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27251": {
+  "abstract": "Transformer-based surrogate models are increasingly used to replace expensive first-principles simulation in engineering design. But conventional transformer architectures are often over parameterized for the small, low-dimensional datasets typical of engineering design spaces, where large simulation data is expensive to generate. Under these conditions, excess parameter capacity leads to overfitting rather than improved accuracy, while also incurring unnecessary memory and compute overhead. This motivates a shift towards architectures that focus on additional compute rather than additional learnable parameters. This paper presents a hardware-aware evaluation of three recursive transformer paradigms for surrogate thermo-mechanical analysis of advanced packages: a)Tiny Recursive Model, b) our proposed Depth Recursive transformer, c) and a simple recursive transformer. We systematically compare their predictive performance (Recall, Mean Reciprocal Rank), parameter count, computational complexity (FLOPs), providing practical design guidelines for selecting recursive transformer architectures under resource-constrained scenarios. We validate this principle on two low-dimensional engineering prediction tasks: 1) thermo-mechanical reliability analysis of advanced semiconductor packages, where stress and warpage from thermal cycling must be evaluated repeatedly across a design-of-experiments sweep under costly finite element analysis (FEA). 2) Laplace PDE iterative numerical solver for capacitance field. Overall, recursive weight-sharing transformers provide an effective and generalizable trade-off between prediction accuracy, parameter efficiency, and computational cost for small data engineering surrogate modeling.",
+  "authors": [
+   "Kart-leong Lim"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kart-leong Lim",
+  "pdf_url": "http://arxiv.org/pdf/2607.27251",
+  "primary_category": "cs.LG",
+  "published": "2026-07-28",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "Recursive transformers for semiconductor thermo-mechanical reliability",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.27262": {
+  "abstract": "Variational quantum algorithms often encounter barren plateaus, where cost gradients decay rapidly with increasing circuit depth, undermining the trainability of parameterized quantum circuits. This paper evaluates AdaInit (Adaptive Initialization), proposed by Zhuang and Cunningham, which uses large language models to propose initial parameters for quantum neural networks. We study a simplified single-query AdaInit variant paired with GPU-accelerated simulation in NVIDIA CUDA-Q and apply it to binary classification on the DMR-IR mammography dataset. AdaInit delivers 14.6 times higher gradient variance at initialization than random initialization (0.0095 vs. 0.0006), producing 160 times faster convergence (1.1s vs. 176 s) while maintaining the same classification accuracy of 61.4 percent. We provide theoretical analysis grounded in the geometry of parameterized circuit landscapes and show empirically that LLM-guided initialization places the optimizer in trainable regions of parameter space. Beyond performance, our results indicate that a single LLM query can yield informative parameters without iterative refinement, suggesting a low-overhead path to improved trainability. The findings validate AdaInit in a medical imaging setting and demonstrate its compatibility with GPU-accelerated quantum backends for practical speedups.",
+  "authors": [
+   "Riza Alaudin Syah",
+   "Irwan Alnarus Kautsar",
+   "Haza Nuzly Bin Abdull Hamed"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI",
+   "cs.ET",
+   "cs.LG"
+  ],
+  "comment": "Presented at IAICT 2026, Bali, Indonesia",
+  "first_author": "Riza Alaudin Syah",
+  "pdf_url": "http://arxiv.org/pdf/2607.27262",
+  "primary_category": "quant-ph",
+  "published": "2026-07-29",
+  "tags": [
+   "variational-quantum-algorithms"
+  ],
+  "title": "LLM-Guided Initialization for Accelerated Hybrid Quantum-Classical Medical Image Classification",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27349": {
+  "abstract": "In this paper, we introduce a meshless physics-informed neural network based computational framework for solving two-dimensional electromagnetic wave scattering in inhomogeneous media. The framework embeds frequency-domain Maxwell equations and radiation boundary conditions directly into the neural network loss function, enabling accurate prediction of scattered fields for both transverse magnetic (TM) and transverse electric (TE) polarizations across various dielectric configurations. Application of the method to single-cylinder, concentric multilayer cylindrical shells, three arbitrarily arranged cylinders, and composite irregular structures demonstrates that for the TM polarization, all relative $L^{2}$ errors mostly remain at particularly low levels of $\\le0.1$. For the TE polarization, sharp variations of the dielectric properties of scatterers lead to singularities in the governing equations, which result in decreased accuracy of the method. This challenge is overcome by introducing at dielectric boundaries a hyperbolic-tangent smoothing function. This procedure significantly improves the accuracy of the method, with the corresponding results closely matching the predictions of the finite-difference time-domain method. This framework exhibits stable convergence behavior across all of the investigated configurations, thus confirming its robustness and scalability to complex electromagnetic scattering problems.",
+  "authors": [
+   "Zheng-Yu Huang",
+   "Yu Tian",
+   "Jing-Wen Zhang",
+   "Nicolae C. Panoiu"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.comp-ph"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "Zheng-Yu Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.27349",
+  "primary_category": "physics.optics",
+  "published": "2026-07-29",
+  "tags": [],
+  "title": "Physics-Informed Neural Networks for 2D Plane Wave Scattering in Arbitrary Dielectric Structures",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27433": {
+  "abstract": "We develop two parametric data-driven reduced models: a physics-informed neural network (PINN) and a non-intrusive tensorial reduced-order model (TROM), and apply both approaches to the parametrized one-dimensional shallow-water dam-break problem. Both reduced models do not require time integration and learn a direct solution map from space, time, and dam-break parameters to the physical state. We present a detailed comparison for out-of-sample and extrapolated parameter values. In addition, we demonstrate that it is essential to introduce shock-aware collocation to improve the robustness of the PINN model.",
+  "authors": [
+   "Anton Myshak",
+   "Md Rezwan Bin Mizan",
+   "Ilya Timofeyev"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.LG",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Anton Myshak",
+  "pdf_url": "http://arxiv.org/pdf/2607.27433",
+  "primary_category": "math.NA",
+  "published": "2026-07-29",
+  "tags": [],
+  "title": "Comparison of a Parametric Physics-Informed Neural Network and a Tensorial Reduced-Order Model for the Shallow-Water Dam-Break Problem",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27603": {
+  "abstract": "Gluon saturation limits the growth of parton densities at small Bjorken-$x$ and is expected to be most pronounced in heavy nuclei. Yet quantitative extractions of the nuclear gluon dipole amplitude have long relied on parametrized initial conditions, introducing uncontrolled model dependence that obscures genuine nuclear effects. We introduce a physics-informed neural-network framework that embeds the collinearly improved Balitsky-Kovchegov evolution equation directly into the training objective, allowing the impact-parameter-averaged dipole amplitude to be determined from data without assuming a functional form for its initial condition. Applying this framework to forward-hadron nuclear-modification-factor and coherent $J/ψ$ photoproduction data, we extract the $^{208}$Pb dipole amplitude at $x_0=0.01$ with QCD evolution and momentum-space positivity enforced throughout training. The evolved amplitude reproduces the measured cross sections across the available kinematic range and yields a saturation-scale ratio $Q_{s0,\\mathrm{Pb}}^2/Q_{s0,p}^2 = 3.17^{+0.17}_{-0.10}$, consistent with simple geometric scaling. The extracted Pb initial condition is well described by a McLerran-Venugopalan-type form, in contrast to the proton, reflecting the higher color-charge density of a large nucleus. Using the same amplitude, we predict the rapidity dependence of the transverse-momentum ratio in $pp$, $p$Pb, and Pb$p$ collisions, finding agreement with recent LHCb measurements at low multiplicity without any system-dependent parameters. This work provides the first unbiased, data-driven determination of nuclear structure in the saturation regime and establishes a general strategy for embedding nonlinear evolution equations into machine-learning extractions of dynamically constrained observables.",
+  "authors": [
+   "Si-Wei Dai",
+   "Haowu Duan",
+   "Long-Gang Pang",
+   "Guang-You Qin",
+   "Shu-Yi Wei",
+   "Han-Zhong Zhang",
+   "Wenbin Zhao"
+  ],
+  "categories": [
+   "hep-ph",
+   "nucl-ex",
+   "nucl-th"
+  ],
+  "comment": null,
+  "first_author": "Si-Wei Dai",
+  "pdf_url": "http://arxiv.org/pdf/2607.27603",
+  "primary_category": "hep-ph",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27645": {
+  "abstract": "Wavelength selection is one of the important preprocessing methods in near-infrared spectroscopy to improve prediction accuracy and interpretability of spectral data. We formulate wavelength-region selection for sugar content estimation as a binary black-box optimization problem and propose a method based on Bayesian optimization. The proposed method constructs a sparse quadratic surrogate model and sequentially extracts interested wavelength regions by Thompson sampling. Minimizing an acquisition function is performed as a quadratic unconstrained binary optimization problem by simulated or quantum annealing. Experiments show that the proposed method improves the prediction accuracy of partial least squares regression and yields more consistent wavelength regions than genetic-algorithm-based selection and simulated annealing. Under one-bit local perturbations, the selected wavelength regions show minimal fluctuations in root mean square errors between observed and predicted values of a validation set. This local stability suggests that our method converges to a smoother error landscape and avoids isolated overfitted solutions. These results indicate that combinatorial Bayesian optimization is a useful framework for robust feature selection in spectroscopic prediction tasks.",
+  "authors": [
+   "Mitsunobu Kanebako",
+   "Ami S. Koshikawa",
+   "Masaru Hitomi",
+   "Takuro Tanaka",
+   "Mahito Chiba",
+   "Maiko Mori",
+   "Masayuki Ohzeki"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mitsunobu Kanebako",
+  "pdf_url": "http://arxiv.org/pdf/2607.27645",
+  "primary_category": "stat.ML",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Robust Wavelength Selection for Partial Least Squares Sugar Content Estimation Using Combinatorial Bayesian Optimization",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27681": {
+  "abstract": "Transient-stability assessment determines whether a power system can recover after a disturbance and is therefore essential to preventing generator trips and cascading outages. A key metric is the critical clearing time (CCT), which specifies the maximum time available to clear a fault before synchronism is lost. Reliable CCT estimation is challenging because complicated fault-clearing dynamics require repeated simulations over many fault severities and clearing times. We propose an event-structured physics-informed neural network (ES-PINN) that aligns its representation with the pre-fault, fault-on, and post-clearing swing dynamics and enforces exact state chaining across event interfaces. A smooth trajectory-induced stability margin defines a differentiable approximation of the CCT boundary, enabling accurate boundary extraction, local sensitivity analysis, and optional direct CCT prediction through a distilled readout. We further prove a local residual-to-trajectory-to-CCT error estimate, in which exact event chaining eliminates separate state-interface defect terms. Experiments on IEEE 9-, 14-, and 30-bus systems show that ES-PINN consistently improves held-out trajectory and stability-boundary accuracy over matched neural-surrogate baselines across mechanical and electrical contingencies with multiple clearing configurations. Additional full-network DAE validation, multi-fault experiments, and runtime analyses further demonstrate the effectiveness and computational efficiency of the proposed framework.",
+  "authors": [
+   "Baoli Hao",
+   "Chenxi Hu",
+   "Ming Zhong",
+   "Ren Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Baoli Hao",
+  "pdf_url": "http://arxiv.org/pdf/2607.27681",
+  "primary_category": "cs.LG",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing Boundaries",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27728": {
+  "abstract": "A numerical framework is proposed for identifying governing partial differential equations (PDEs) from observational data by establishing a link between observation-driven and equation-driven Koopman operators in a common Chebyshev spectral domain. In contrast to data-driven approaches such as dynamic mode decomposition (DMD), which approximate Koopman operators without explicitly relating them to differential operators, the proposed framework constructs finite-dimensional Koopman operators using Chebyshev spectral representations, thereby enabling direct comparison between data-derived dynamics and candidate governing PDEs. A unified observation model together with a least-squares coefficient recovery formulation is introduced to recover Chebyshev spectral coefficients from observations obtained on arbitrary sampling grids. This provides a numerically consistent interface between practical observations and Chebyshev-based Koopman analysis. Numerical experiments under direct Chebyshev, uniform, and irregular sampling configurations demonstrate that the proposed framework accurately identifies the governing PDE from observations. An observation-density study shows that reliable PDE identification is consistently achieved once sufficient independent observations are available for stable coefficient recovery, providing a practical guideline.",
+  "authors": [
+   "Phonepaserth Sisaykeo",
+   "Shogo Muramatsu"
+  ],
+  "categories": [
+   "math.NA",
+   "eess.SP"
+  ],
+  "comment": "Submitted to IEEE Transactions on Signal Processing",
+  "first_author": "Phonepaserth Sisaykeo",
+  "pdf_url": "http://arxiv.org/pdf/2607.27728",
+  "primary_category": "math.NA",
+  "published": "2026-07-30",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27750": {
+  "abstract": "Radio telescope arrays are constrained by the number of antennas and baseline distribution, resulting in incomplete spatial-frequency sampling, limited image resolution, and blurring, distortion, and loss of small-scale structures caused by coupling between the primary and synthesized beams. Existing general-purpose model-driven methods remove observational effects sequentially and may accumulate errors, but cannot directly address limited imaging resolution, while data-driven methods lack explicit physical constraints. We propose PhySR, an end-to-end physics-informed neural network that combines a U-Net backbone, dynamic cascaded upsampling, a multiscale feature residual module, and a differentiable physical forward model incorporating the primary beam response, PSF convolution, and scale mapping. PhySR directly reconstructs high-resolution images from low-resolution dirty images without high-resolution labels while maintaining observation-domain consistency. Experiments on simulated SKA-Mid data show that, for 4x super-resolution, PhySR achieves a PSNR of 44.65 dB, an SSIM of 0.9940, and an RMSE of 0.0065. Compared with existing general-purpose methods, PSNR and SSIM improve by approximately 13.23 dB and 0.3760, respectively. Compared with mainstream deep learning models, PSNR and SSIM improve by 6.50 dB and 0.0682, while RMSE decreases by 0.0069. PhySR also remains stable for 2x and 8x super-resolution and achieves low observation-domain consistency errors, demonstrating advantages in coupling-effect removal, small-scale structure recovery, and physical consistency.",
+  "authors": [
+   "Hongkun Yang",
+   "Li Zhang",
+   "Ming Zhang",
+   "Yong-Feng Huang"
+  ],
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "comment": "20 pages, 14 figures, and 6 tables. Submitted to Astronomy & Astrophysics",
+  "first_author": "Hongkun Yang",
+  "pdf_url": "http://arxiv.org/pdf/2607.27750",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "PhySR: Physics-Informed Neural Network for Super-Resolution Reconstruction in Radio Synthesis Imaging",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27805": {
+  "abstract": "Large Language Models (LLMs) have achieved remarkable performance across a wide range of tasks, yet their internal dynamics remain poorly understood. In this work, we apply the tools of nonlinear dynamics and chaos theory to LLMs. By analyzing both text and hidden state trajectories, we demonstrate that LLMs exhibit hallmark signatures of chaos, including strong sensitivity to initial conditions, manifested as intermittent, jump-like divergence of nearby trajectories combined with bounded evolution, with consistent results across different distance metrics. An exact Jacobian analysis of the Transformer's sub-blocks shows that self-attention and the feed-forward network expand and propagate perturbations, while normalization and residual connections counteract this expansion and promote stability. Recurrence plots show structural similarities between LLMs and canonical chaotic systems such as the Lorenz attractor, while dimension analysis reveals fractal structures in the hidden state space, particularly pronounced in the last layers. We propose that the nonlinear coupling induced by attention mechanisms plays a key role in driving this chaotic behavior.",
+  "authors": [
+   "Gregorio Jaca",
+   "Kristóf Benedek",
+   "János Török"
+  ],
+  "categories": [
+   "nlin.CD",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "16 pages 17 figures",
+  "first_author": "Gregorio Jaca",
+  "pdf_url": "http://arxiv.org/pdf/2607.27805",
+  "primary_category": "nlin.CD",
+  "published": "2026-07-30",
+  "tags": [
+   "chaotic-systems"
+  ],
+  "title": "Chaos in reason: How chain-of-thought LLMs can look for an answer",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27841": {
+  "abstract": "This study applied quantum circuit learning, a commonly used hybrid quantum-classical machine learning algorithm, to a machine learning interatomic potential (MLIP) for predicting the energies of molecules in molecular datasets. We retrained the ANI model using the quantum transfer learning architecture [Mari et al., Quantum, 4:340, 2020] and evaluated numerical accuracy with a quantum circuit simulator. The evaluation confirmed that inserting a quantum circuit into the classical neural network of the MLIP yielded slightly higher accuracy than the fully classical neural network under certain conditions. In particular, the model incorporating a quantum circuit was more effective when the pretraining model had room for improvement in accuracy. These findings may contribute to advancing the application of quantum machine learning for MLIPs.",
+  "authors": [
+   "Kohei Numata",
+   "Wataru Mizukami",
+   "Kosuke Mitarai",
+   "Keisuke Fujii",
+   "Yutaka Imamura"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "15 pages, 7 figures",
+  "first_author": "Kohei Numata",
+  "pdf_url": "http://arxiv.org/pdf/2607.27841",
+  "primary_category": "quant-ph",
+  "published": "2026-07-30",
+  "tags": [
+   "mlip",
+   "quantum-circuit-learning",
+   "quantum-machine-learning"
+  ],
+  "title": "Quantum machine learning interatomic potential: Application of variational quantum algorithm",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27867": {
+  "abstract": "Structural causal models are the standard language for reasoning about interventions and counterfactuals, but they describe static variables, typically measured once, and usually forbid cyclic dependencies. Many systems we care about, such as patients, climates, and economies, instead evolve continuously in time, are observed at irregular time points, and contain feedback loops. We argue that neural operator learning provides a natural foundation for causal reasoning in this setting, and propose Orca, a framework in which each node of the causal graph is a function of time and each mechanism is a learned map between function spaces. We extend existing neural operator architectures to express causal mechanisms: a mechanism computes the function value of a node from its parent nodes by taking several parent functions as input, respects the arrow of time, and treats latent exogenous noise as a function that can be inferred and reused for counterfactuals. We formalize the model class and demonstrate counterfactual reasoning on synthetic continuous-time examples. Code is available at https://github.com/gerritgr/orca",
+  "authors": [
+   "Gerrit Großmann",
+   "David A. Selby",
+   "Sebastian J. Vollmer"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Gerrit Großmann",
+  "pdf_url": "http://arxiv.org/pdf/2607.27867",
+  "primary_category": "cs.AI",
+  "published": "2026-07-30",
+  "tags": [
+   "operator-learning"
+  ],
+  "title": "Orca: Neural Operators for Causal Reasoning in Continuous Time",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27901": {
+  "abstract": "We present a physics-informed, data-free neural solver for partial differential equations, built on a graph neural network architecture that utilises message passing. By relying on the weak form of the problem, we use gradients of finite-element shape functions (which are therefore polynomials) rather than automatic differentiation operators to compute the residuals of the equation from the displacements predicted by the network itself. Our approach generalises to previously unseen load cases and geometries, achieving easily convergence errors in the residuals of less than 1% and being capable of scaling up to models of considerable size and arbitrary geometries.   To ensure compliance with the laws of physics and provide guarantees regarding the inference, it is possible to use the residual itself as an error indicator for the inference, and thus perform a refinement at the testing stage if the residual tolerance set in advance by the user is not met. Examples are provided to demonstrate the performance of the proposed method. This results in a method that avoids the costly process of obtaining, curating and storing high-fidelity synthetic data for training the neural network. Whilst this is not unique to our method, it is the first time it has been combined with a geometric machine learning technique capable of providing the necessary geometric bias to overcome the well-known difficulties of physics-informed neural networks.",
+  "authors": [
+   "Mikel M. Iparraguirre",
+   "Iciar Alfaro",
+   "David Gonzalez",
+   "Elias Cueto"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Mikel M. Iparraguirre",
+  "pdf_url": "http://arxiv.org/pdf/2607.27901",
+  "primary_category": "cs.CE",
+  "published": "2026-07-30",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks"
+  ],
+  "title": "Data-free neural PDE solvers based on Graph Neural Networks and weak forms",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27908": {
+  "abstract": "Data-driven approaches with formal guarantees have recently emerged as a powerful means for the verification and controller synthesis of complex dynamical systems. Interest in these methods is rapidly growing, as system models are often unavailable in practice, and challenges such as nonlinear behavior, uncertainty, and the curse of dimensionality typically render accurate modeling infeasible. These difficulties motivate leveraging limited data collected from the system while still providing formal guarantees on its overall behavior. The community has therefore proposed a few hundred articles on the development of data-driven frameworks that enable the formal verification and synthesis of dynamical systems without explicit models, addressing complex specifications beyond stability. Despite this rapid growth, existing results remain scattered and lack a coherent organization, limiting a clear understanding of their principles, distinctions, and practical potential. This survey fills this gap by providing a comprehensive overview of these data-driven methods for both deterministic and stochastic dynamical systems. We structure the literature around three main methodological pillars in formal methods: (in)finite-abstraction-based techniques, functional certificate approaches, such as control barrier certificates, and compositional methods. For each of these approaches, we classify the resulting data-driven guarantees into three main categories: (i) statistical guarantees grounded in probably approximately correct and scenario-based frameworks, (ii) guarantees derived from Lipschitz continuity, and (iii) guarantees exploiting structural properties. While the literature on deterministic systems is considerably richer, we also devote particular attention to the stochastic counterpart, highlighting the inherent differences and challenges that arise compared to the deterministic case.",
+  "authors": [
+   "Behrad Samari",
+   "Alessandro Abate",
+   "Antoine Girard",
+   "Majid Zamani",
+   "Amy Nejati",
+   "Abolfazl Lavaei"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "The proposal for this survey paper has been accepted at Automatica",
+  "first_author": "Behrad Samari",
+  "pdf_url": "http://arxiv.org/pdf/2607.27908",
+  "primary_category": "eess.SY",
+  "published": "2026-07-30",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "Data-Driven Formal Methods for Complex Dynamical Systems: A Survey",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28079": {
+  "abstract": "Chemical property prediction plays a critical role in accelerating scientific discovery in chemistry, materials science, and drug development. However, existing benchmarks often suffer from limited task diversity, fragmented datasets, and inconsistent evaluation protocols, making it challenging to systematically assess the reliability and generalization of AI models. In this work, we introduce Chem World, a comprehensive benchmark for chemical property prediction that integrates 17 diverse chemical datasets with over 800,000 molecular samples, covering various properties including density, electrical conductivity, solubility, and other molecular characteristics. Chem World provides a unified platform for evaluating AI models across multiple property prediction tasks. Furthermore, we propose Mixture-PINN, a physics-informed neural network based prediction framework that incorporates chemical prior knowledge into data-driven learning, improving the accuracy, robustness, and reliability of chemical property prediction. Extensive experiments on Chem World demonstrate the effectiveness of our approach compared with existing methods. By combining large-scale standardized evaluation with physics-informed learning, Chem World establishes a foundation for developing trustworthy AI systems for computational chemistry and advancing AI-driven scientific discovery.",
+  "authors": [
+   "Tianyou Bai",
+   "Huan Wang",
+   "Mingchen Gao",
+   "Fangyue Lin",
+   "Pinze Ren",
+   "Zhenlin Zhao",
+   "Siming Dong"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Tianyou Bai",
+  "pdf_url": "http://arxiv.org/pdf/2607.28079",
+  "primary_category": "cs.LG",
+  "published": "2026-07-30",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28185": {
+  "abstract": "Oversmoothing is a fundamental limitation of deep graph neural networks (GNNs), where repeated message passing causes node representations to become increasingly similar, eventually collapsing toward a low-dimensional subspace. This phenomenon limits the effective depth of message-passing architectures and motivates the search for mechanisms that preserve representation diversity. In this paper, we study a recurrent graph neural network in which independent Gaussian noise is injected after every propagation step and analyze the resulting architecture as a stochastic dynamical system. Under a standard global contraction assumption on the deterministic update, we prove that the hidden representations form a geometrically ergodic Markov chain admitting a unique invariant probability measure. Our main theoretical result establishes an explicit positive lower bound on the expected stationary Dirichlet energy, proportional to both the noise variance and the spectral gap of the underlying graph. Consequently, the stationary representations cannot collapse onto the constant manifold, providing a rigorous guarantee that asymptotic oversmoothing is prevented in the sense of non-vanishing Dirichlet energy. Our analysis reveals persistent stochastic perturbations as a fundamentally different mechanism for combating oversmoothing, complementing existing deterministic approaches based on residual connections, normalization, and graph rewiring. Finally, numerical experiments on both linear and nonlinear recurrent graph neural networks closely match the theoretical predictions, illustrating the emergence of a stationary distribution and the predicted dependence of the limiting Dirichlet energy on the noise intensity.",
+  "authors": [
+   "Mostafa Haghir Chehreghani"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.IT"
+  ],
+  "comment": null,
+  "first_author": "Mostafa Haghir Chehreghani",
+  "pdf_url": "http://arxiv.org/pdf/2607.28185",
+  "primary_category": "cs.LG",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Persistent Gaussian Perturbations Prevent Oversmoothing in Recurrent Graph Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28220": {
+  "abstract": "Atmospheric predictability declines rapidly beyond the next ten days, such that forecasts at longer lead times primarily convey large-scale trends rather than specific states. Yet in a warming world, improving early warnings of extreme heat is an increasingly critical challenge. Here we evaluate six state-of-the-art deep learning weather emulators - Pangu-Weather, FuXi, ArchesWeather, AIFS, GraphCast and Aurora - alongside leading dynamical systems and statistical baselines in forecasting global near-surface temperature and extreme heat at lead times of 10-15 days. We find that several emulators rival or even surpass physics-based forecasts in deterministic temperature skill, but do so at the cost of reduced spectral fidelity, in a process widely known as blurring. While all models show some degree of predictive skill for extreme heat, most emulators under-represent peak intensities, and IFS recall is greater than that of any of the emulators. These results highlight both the emerging potential of AI to enhance extended range temperature prediction, and the remaining challenges in delivering reliable, actionable early warnings in a changing climate.",
+  "authors": [
+   "Cas Decancq",
+   "Thomas Mortier",
+   "Jessica Keune",
+   "Diego G. Miralles"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": "Main: 34 pages, 5 figures. Supplementary: 29 pages, 21 figures, 11 tables",
+  "first_author": "Cas Decancq",
+  "pdf_url": "http://arxiv.org/pdf/2607.28220",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-07-30",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "Weather Emulators at the Frontier of Heat Extremes Predictability",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-07-30"
  }
 }

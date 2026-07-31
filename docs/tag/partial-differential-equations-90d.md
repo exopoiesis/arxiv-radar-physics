@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27728.html">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling</a></div></td>
+<td>Phonepaserth Sisaykeo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27728">2607.27728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Mikel M. Iparraguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24572.html">Tikhonov-Regularized Physics-Informed Neural Networks for Terminal-State Distributed Optimal Control of Parabolic Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -974,29 +986,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01542.html">Mesh Based Simulations with Spatial and Temporal awareness</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Paul Garnier et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01542">2605.01542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19182.html">Thin Plate Spline Surface Reconstruction via the Method of Matched Sections</a></div></td>
-<td>Igor Orynyak et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19182">2602.19182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00308.html">Adaptive anisotropic composite quadratures for residual minimisation in neural PDE approximations</a></div></td>
-<td>Santiago Badia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00308">2605.00308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00330.html">Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Purav Matlia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00330">2605.00330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00385.html">PILIR: Physics-Informed Local Implicit Representation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jianfeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00385">2605.00385</a></td>
 </tr>
 </tbody></table>

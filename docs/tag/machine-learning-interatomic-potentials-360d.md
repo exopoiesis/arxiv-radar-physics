@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,17 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03405.html">Model Accuracy and Data Heterogeneity Shape Uncertainty Quantification in Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Fei Shuang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03405">2508.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="force-fields-360d.html">force-fields</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02651.html">Open Molecular Crystals 2025 (OMC25) Dataset and Models</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02651">2508.02651</a></td>
 </tr>
 </tbody></table>

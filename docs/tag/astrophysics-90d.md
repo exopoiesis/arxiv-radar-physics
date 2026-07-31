@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03442.html">High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Julia Dima et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03442">2605.03442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01004.html">Neural Posterior Estimation for UHECR source inference from 3D propagation simulations</a></div></td>
-<td>Nadine Bourriche et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01004">2605.01004</a></td>
 </tr>
 </tbody></table>

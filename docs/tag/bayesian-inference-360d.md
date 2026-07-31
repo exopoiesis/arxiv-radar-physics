@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,11 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04407.html">A novel approach for air shower profile reconstruction with dense radio antenna arrays using Information Field Theory</a></div></td>
 <td>K. Watanabe et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04407">2508.04407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06266.html">Constraining the [CII] luminosity function from the power spectrum of line-intensity maps at redshift 3.6</a></div></td>
-<td>Elena Marcuzzo et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06266">2504.06266</a></td>
 </tr>
 </tbody></table>

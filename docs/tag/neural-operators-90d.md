@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,23 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08170.html">Quantitative Sobolev Approximation Bounds for Neural Operators with Empirical Validation on Burgers Equation</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Nicole Hao</td>
 <td><a href="http://arxiv.org/abs/2605.08170">2605.08170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00233.html">Differentiable Autoencoding Neural Operator for Interpretable and Integrable Latent Space Modeling</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Siva Viknesh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00233">2510.00233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00509.html">An approach to encode divergence-free stress fields in neural approximations based on stress potentials</a></div></td>
-<td>Mohammad S. Khorrami et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00509">2605.00509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00820.html">HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs</a></div></td>
-<td>Jinpai Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00820">2605.00820</a></td>
 </tr>
 </tbody></table>

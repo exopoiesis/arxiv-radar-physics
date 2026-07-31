@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3296,29 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03472.html">Inversion of Magnetotelluric Data using Bayesian Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Dhruv Poddar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03472">2508.03472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06092.html">Greedy Emulators for Nuclear Two-Body Scattering</a></div></td>
-<td>J. M. Maldonado et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06092">2504.06092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09596.html">Design of Experiments for Emulations: A Selective Review from a Modeling Perspective</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Xinwei Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09596">2505.09596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02765.html">The Architecture of Trust: A Framework for AI-Augmented Real Estate Valuation in the Era of Structured Data</a></div></td>
-<td>Petteri Teikari et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02765">2508.02765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02925.html">Goal-Oriented Adaptive Finite Element Multilevel Quasi-{M}onte {C}arlo</a></div></td>
-<td>Joakim Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02925">2508.02925</a></td>
 </tr>
 </tbody></table>

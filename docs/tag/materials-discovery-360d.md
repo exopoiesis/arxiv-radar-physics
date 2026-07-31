@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">253 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,17 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div></td>
 <td>Albertus Denny Handoko et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03278">2508.03278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08998.html">CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks</a></div></td>
-<td>Krit Tangsongcharoen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08998">2501.08998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02956.html">Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning</a></div></td>
-<td>Alireza Ghafarollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02956">2508.02956</a></td>
 </tr>
 </tbody></table>

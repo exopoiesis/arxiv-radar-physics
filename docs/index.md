@@ -5,15 +5,93 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-07-30._
+_Updated 2026-07-31._
 
-**20007** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**20026** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27603.html">Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate</a></div></td>
+<td>Si-Wei Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27603">2607.27603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27645.html">Robust Wavelength Selection for Partial Least Squares Sugar Content Estimation Using Combinatorial Bayesian Optimization</a></div></td>
+<td>Mitsunobu Kanebako et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27645">2607.27645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27681.html">Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing Boundaries</a></div></td>
+<td>Baoli Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27681">2607.27681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27728.html">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Phonepaserth Sisaykeo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27728">2607.27728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27750.html">PhySR: Physics-Informed Neural Network for Super-Resolution Reconstruction in Radio Synthesis Imaging</a></div></td>
+<td>Hongkun Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27750">2607.27750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27805.html">Chaos in reason: How chain-of-thought LLMs can look for an answer</a></div><div class="paper-tags"><a href="tag/chaotic-systems-30d.html">chaotic-systems</a></div></td>
+<td>Gregorio Jaca et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27805">2607.27805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/quantum-circuit-learning-30d.html">quantum-circuit-learning</a> · <a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Kohei Numata et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27841">2607.27841</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27867.html">Orca: Neural Operators for Causal Reasoning in Continuous Time</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Gerrit Großmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27867">2607.27867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Mikel M. Iparraguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Behrad Samari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27908">2607.27908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Tianyou Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28079">2607.28079</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.28185.html">Persistent Gaussian Perturbations Prevent Oversmoothing in Recurrent Graph Neural Networks</a></div></td>
+<td>Mostafa Haghir Chehreghani</td>
+<td><a href="http://arxiv.org/abs/2607.28185">2607.28185</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.28220.html">Weather Emulators at the Frontier of Heat Extremes Predictability</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Cas Decancq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28220">2607.28220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24572.html">Tikhonov-Regularized Physics-Informed Neural Networks for Terminal-State Distributed Optimal Control of Parabolic Partial Differential Equations</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
@@ -115,83 +193,5 @@ _Updated 2026-07-30._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26965.html">Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN</a></div></td>
 <td>Ying Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26965">2607.26965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27062.html">PIKS: Universal Physics-Informed Kernel Methods</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Joachim Bona-Pellissier et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27062">2607.27062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27093.html">A New Paradigm for 3D Turbomachinery Design: Generative Diffusion Model Based Framework with Direct Geometry Encoding</a></div></td>
-<td>Yingfan Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27093">2607.27093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24185.html">6G: From Connectivity Infrastructure to Guaranteed Digital Services</a></div></td>
-<td>David Soldani et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24185">2607.24185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25174.html">Machine-Learning-Based Waveform Discrimination in the Front-End Electronics of the Belle II Central Drift Chamber for Cross-Talk Noise Reduction</a></div></td>
-<td>Yun-Tsung Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25174">2607.25174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25265.html">Bayesian Variational Method for Precision Few-Body Calculations</a></div><div class="paper-tags"><a href="tag/quantum-many-body-systems-30d.html">quantum-many-body-systems</a></div></td>
-<td>Shigeyoshi Aoyama</td>
-<td><a href="http://arxiv.org/abs/2607.25265">2607.25265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25282.html">Normalizing Flows to Reconstruct Pseudo-PDFs</a></div></td>
-<td>Yamil Cahuana Medrano et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25282">2607.25282</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Ruijie Su et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25321">2607.25321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25330.html">Physics-Informed Neural Operator for Warm-Starting Background-Decomposed and Preconditioned PSFD: Enabling Scalable 3-D EUV Mask Simulation</a></div></td>
-<td>Doyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25330">2607.25330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25476.html">The afterglow of gamma-ray burst - supernova connections</a></div></td>
-<td>Marco Muccino et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25476">2607.25476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25500.html">String theory mathematics and matrix data analysis</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Sanjaye Ramgoolam</td>
-<td><a href="http://arxiv.org/abs/2607.25500">2607.25500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25608.html">Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Pinki Khatun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25608">2607.25608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25652.html">Transformer Atomic Cluster Expansion: TRACE</a></div></td>
-<td>Paramvir Ahlawat</td>
-<td><a href="http://arxiv.org/abs/2607.25652">2607.25652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25668.html">A Physics-Informed Neural Operator for Thermal Ranking of Low-Cost Wall Materials in Hot-Dry Climates</a></div></td>
-<td>Muhammad Akbar Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25668">2607.25668</a></td>
 </tr>
 </tbody></table>

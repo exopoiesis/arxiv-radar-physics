@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ligo — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <strong>90d</strong> <a href="ligo-360d.html">360d</a> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11280.html">Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Tousif Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11280">2605.11280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00391.html">Training a neural network to rapidly identify candidate gravitational-wave events in the lower mass gap</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
-<td>Nayyer Raza et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00391">2605.00391</a></td>
 </tr>
 </tbody></table>

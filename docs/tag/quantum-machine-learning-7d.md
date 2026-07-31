@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="quantum-circuit-learning-7d.html">quantum-circuit-learning</a></div></td>
+<td>Kohei Numata et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27841">2607.27841</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23996.html">Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors</a></div><div class="paper-tags"><a href="quantum-error-correction-7d.html">quantum-error-correction</a></div></td>
 <td>Shengwang Du</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22831.html">New class of exactly flat topological bands - compact localised states protected by local graph topology</a></div></td>
 <td>Tamaghna Hazra</td>
 <td><a href="http://arxiv.org/abs/2607.22831">2607.22831</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21409.html">Cautious optimism for deep parameterized quantum circuits</a></div></td>
-<td>Marie Kempkes et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21409">2607.21409</a></td>
 </tr>
 </tbody></table>

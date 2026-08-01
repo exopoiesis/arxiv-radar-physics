@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">815 papers</span>
+  <span class="paper-count">813 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4892,17 +4892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04882.html">Hilbert Neural Operator: Operator Learning in the Analytic Signal Domain</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Saman Pordanesh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04882">2508.04882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03421.html">A matrix preconditioning framework for physics-informed neural networks based on adjoint method</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jiahao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03421">2508.03421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03839.html">VAE-DNN: Energy-Efficient Trainable-by-Parts Surrogate Model For Parametric Partial Differential Equations</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Yifei Zong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03839">2508.03839</a></td>
 </tr>
 </tbody></table>

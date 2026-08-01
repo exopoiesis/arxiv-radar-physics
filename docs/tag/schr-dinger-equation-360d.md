@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,17 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04453.html">Deep learning for the semi-classical limit of the Schrödinger equation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Jizu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04453">2509.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11762.html">A parameterized Wasserstein Hamiltonian flow approach for solving the Schrödinger equation</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11762">2505.11762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02570.html">Neural Scaling Laws Surpass Chemical Accuracy for the Many-Electron Schrödinger Equation</a></div></td>
-<td>Du Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02570">2508.02570</a></td>
 </tr>
 </tbody></table>

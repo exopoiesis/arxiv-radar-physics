@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,23 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01851.html">Beyond Data-Physics Consistency: A Cross-Correlated Physics-Informed Neural Network for Robust Inverse Scattering</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Shilong Sun</td>
 <td><a href="http://arxiv.org/abs/2605.01851">2605.01851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01172.html">A Theory of Generalization in Deep Learning</a></div></td>
-<td>Elon Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01172">2605.01172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01305.html">Alikhanov-XfPINNs: Adaptive Physics-Informed Learning for Nonlinear Fractional PDEs on Nonuniform Meshes</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Himanshu Kumar Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01305">2605.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01634.html">Chebyshev-Augmented One-Shot Transfer Learning for PINNs on Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Yiqi Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01634">2605.01634</a></td>
 </tr>
 </tbody></table>

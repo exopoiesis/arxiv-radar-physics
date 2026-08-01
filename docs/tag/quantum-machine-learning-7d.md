@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23683.html">Qutrit-Based Neural Quantum Kernels for Classification Tasks</a></div></td>
 <td>Camila Cristiano-Romero et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23683">2607.23683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
-<td>Peiyong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22831.html">New class of exactly flat topological bands - compact localised states protected by local graph topology</a></div></td>
-<td>Tamaghna Hazra</td>
-<td><a href="http://arxiv.org/abs/2607.22831">2607.22831</a></td>
 </tr>
 </tbody></table>

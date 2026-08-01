@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">410 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2456,23 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05793.html">On the Choice of Subspace for the Quasi-minimal Residual Method for Linear Inverse Problems</a></div></td>
 <td>Moshen Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05793">2508.05793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03326.html">Estimation of Hemodynamic Parameters via Physics Informed Neural Networks including Hematocrit Dependent Rheology</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Moises Sierpe et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03326">2508.03326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03421.html">A matrix preconditioning framework for physics-informed neural networks based on adjoint method</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jiahao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03421">2508.03421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03472.html">Inversion of Magnetotelluric Data using Bayesian Neural Networks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Dhruv Poddar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03472">2508.03472</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,35 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02726.html">Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Phil-Alexander Hofmann et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02726">2607.02726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00460.html">A Multi-Resolution Finite-Volume Inspired Deep Learning Framework for Spatiotemporal Dynamics Prediction</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
-<td>Xin-Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00460">2607.00460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00669.html">Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
-<td>G. Li Causi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00669">2607.00669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01128.html">GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Meenakshi Krishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01128">2607.01128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tianhao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19377.html">Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Duc Tien Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19377">2607.19377</a></td>
 </tr>
 </tbody></table>

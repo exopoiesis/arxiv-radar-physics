@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">324 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1934,29 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04845.html">Multi-Stage Knowledge-Distilled VGAE and GAT for Robust Controller-Area-Network Intrusion Detection</a></div></td>
 <td>Robert Frenken et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04845">2508.04845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03170.html">Quantum Spectral Reasoning: A Non-Neural Architecture for Interpretable Machine Learning</a></div></td>
-<td>Andrew Kiruluta</td>
-<td><a href="http://arxiv.org/abs/2508.03170">2508.03170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03291.html">Investigation on deep learning-based galaxy image translation models</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Hengxin Ruan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03291">2508.03291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03436.html">AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence</a></div></td>
-<td>Davide Gabrielli et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03436">2508.03436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03539.html">Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection</a></div></td>
-<td>Long Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03539">2508.03539</a></td>
 </tr>
 </tbody></table>

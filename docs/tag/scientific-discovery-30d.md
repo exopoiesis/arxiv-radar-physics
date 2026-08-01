@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01639.html">Autonomous discovery of traffic laws with AI traffic scientists</a></div></td>
 <td>Xingyuan Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01639">2607.01639</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01131.html">Autonomous Scientific Discovery via Iterative Meta-Reflection</a></div></td>
-<td>Bingchen Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01131">2607.01131</a></td>
 </tr>
 </tbody></table>

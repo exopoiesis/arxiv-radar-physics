@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3278,23 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04885.html">Uncertainty Quantification for Surface Ozone Emulators using Deep Learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Kelsey Doerksen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04885">2508.04885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09868.html">Machine-learned trends in mirror configurations in the Large Plasma Device</a></div></td>
-<td>Phil Travis et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09868">2503.09868</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03405.html">Model Accuracy and Data Heterogeneity Shape Uncertainty Quantification in Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03405">2508.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03472.html">Inversion of Magnetotelluric Data using Bayesian Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Dhruv Poddar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03472">2508.03472</a></td>
 </tr>
 </tbody></table>

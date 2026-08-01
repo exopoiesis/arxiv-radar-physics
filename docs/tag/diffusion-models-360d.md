@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">607 papers</span>
+  <span class="paper-count">604 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3638,23 +3638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04318.html">Turbulent Injection assisted by Diffusion Models for Scale Resolving Simulations</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
 <td>Margaux Boxho et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04318">2508.04318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11801.html">Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control</a></div></td>
-<td>Xiaoyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11801">2503.11801</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14569.html">Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance</a></div></td>
-<td>Liya Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14569">2503.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03370.html">A Closed-Loop Multi-Agent Framework for Aerodynamics-Aware Automotive Styling Design</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Xinyu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03370">2508.03370</a></td>
 </tr>
 </tbody></table>

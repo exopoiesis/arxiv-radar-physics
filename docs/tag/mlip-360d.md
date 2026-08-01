@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06628.html">TorchSim: An efficient atomistic simulation engine in PyTorch</a></div></td>
 <td>Orion Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06628">2508.06628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03405.html">Model Accuracy and Data Heterogeneity Shape Uncertainty Quantification in Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03405">2508.03405</a></td>
 </tr>
 </tbody></table>

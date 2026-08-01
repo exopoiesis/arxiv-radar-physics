@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">272 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1646,29 +1646,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19957.html">Neural Network Representations of Multiphase Equations of State</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
 <td>George A. Kevrekidis et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19957">2406.19957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13190.html">A programmable wafer-scale chiroptical heterostructure of twisted aligned carbon nanotubes and phase change materials</a></div></td>
-<td>Jichao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13190">2406.13190</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07247.html">Dynamical Mean-Field Theory of Self-Attention Neural Networks</a></div></td>
-<td>Ángel Poc-López et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07247">2406.07247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10978.html">Building Artificial Intelligence with Creative Agency and Self-hood</a></div></td>
-<td>Liane Gabora et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10978">2407.10978</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05295.html">Information Geometry of Evolution of Neural Network Parameters While Training</a></div></td>
-<td>Abhiram Anand Thiruthummal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05295">2406.05295</a></td>
 </tr>
 </tbody></table>

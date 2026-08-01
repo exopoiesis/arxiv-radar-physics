@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ligo — all</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,23 +860,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02334.html">$\textit{Kilonova Seekers}$: the GOTO project for real-time citizen science in time-domain astrophysics</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
 <td>T. L. Killestein et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02334">2406.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00205.html">LVK constraints on PBHs from stochastic gravitational wave background searches</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="black-holes-all.html">black-holes</a></div></td>
-<td>Alba Romero-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00205">2407.00205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06324.html">Navigating Unknowns: Deep Learning Robustness for Gravitational Wave Signal Reconstruction</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Chayan Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06324">2406.06324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01318.html">Advancements in Glitch Subtraction Systems for Enhancing Gravitational Wave Data Analysis: A Brief Review</a></div></td>
-<td>Mohammad Abu Thaher Chowdhury</td>
-<td><a href="http://arxiv.org/abs/2406.01318">2406.01318</a></td>
 </tr>
 </tbody></table>

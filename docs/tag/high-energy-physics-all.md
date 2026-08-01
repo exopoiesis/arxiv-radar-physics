@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>high-energy-physics — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <a href="high-energy-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06638.html">Particle Multi-Axis Transformer for Jet Tagging</a></div><div class="paper-tags"><a href="jet-tagging-all.html">jet-tagging</a></div></td>
 <td>Muhammad Usman et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06638">2406.06638</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03233.html">Generative Diffusion Models for Fast Simulations of Particle Collisions at CERN</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Mikołaj Kita et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03233">2406.03233</a></td>
 </tr>
 </tbody></table>

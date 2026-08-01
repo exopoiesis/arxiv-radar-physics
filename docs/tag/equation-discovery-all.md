@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>equation-discovery — all</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <a href="equation-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13704.html">Discovering governing equation in structural dynamics from acceleration-only measurements</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Calvin Alvares et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13704">2407.13704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03818.html">Amortized Equation Discovery in Hybrid Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Yongtuo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03818">2406.03818</a></td>
 </tr>
 </tbody></table>

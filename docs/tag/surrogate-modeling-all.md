@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">236 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,23 +1412,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09312.html">Agnostic Active Learning of Single Index Models with Linear Sample Complexity</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Aarshvi Gajjar et al.</td>
 <td><a href="http://arxiv.org/abs/2405.09312">2405.09312</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07758.html">High-Precision Surrogate Modeling for Uncertainty Quantification in Complex Slurry Flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Marwane Elkarii et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07758">2406.07758</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04519.html">Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages</a></div></td>
-<td>Eirini Katsidoniotaki et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04519">2406.04519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12898.html">A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation</a></div><div class="paper-tags"><a href="fast-simulation-all.html">fast-simulation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Farzana Yasmin Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12898">2406.12898</a></td>
 </tr>
 </tbody></table>

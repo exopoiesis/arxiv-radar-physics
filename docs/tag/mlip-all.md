@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,17 +1214,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12525.html">Efficient ensemble uncertainty estimation in Gaussian Processes Regression</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Mads-Peter Verner Christiansen et al.</td>
 <td><a href="http://arxiv.org/abs/2407.12525">2407.12525</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19462.html">Strong atomic reconstruction in twisted bilayers of highly flexible InSe: Machine-Learned Interatomic Potential and continuum model approaches</a></div></td>
-<td>Samuel J. Magorrian et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19462">2406.19462</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15491.html">Vibrational Entropy and Free Energy of Solid Lithium using Covariance of Atomic Displacements Enabled by Machine Learning</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Mgcini Keith Phuthi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15491">2406.15491</a></td>
 </tr>
 </tbody></table>

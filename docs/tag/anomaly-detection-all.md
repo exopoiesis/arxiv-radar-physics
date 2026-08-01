@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3056,53 +3056,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01905.html">Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning</a></div></td>
 <td>Jiawei Zhan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01905">2407.01905</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00544.html">Infrared Computer Vision for Utility-Scale Photovoltaic Array Inspection</a></div></td>
-<td>David F. Ramirez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00544">2407.00544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00140.html">ModeConv: A Novel Convolution for Distinguishing Anomalous and Normal Structural Behavior</a></div></td>
-<td>Melanie Schaller et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00140">2407.00140</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18941.html">CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation</a></div></td>
-<td>Zuo Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18941">2406.18941</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17172.html">Robust Zero Trust Architecture: Joint Blockchain based Federated learning and Anomaly Detection based Framework</a></div></td>
-<td>Shiva Raj Pokhrel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17172">2406.17172</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15638.html">Root Cause Analysis of Anomalies in 5G RAN Using Graph Neural Network and Transformer</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
-<td>Antor Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15638">2406.15638</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12438.html">Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis</a></div></td>
-<td>Prashanth Krishnamurthy et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12438">2406.12438</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02263.html">M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising</a></div></td>
-<td>Chengjie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02263">2406.02263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00452.html">Towards a Unified Framework of Clustering-based Anomaly Detection</a></div></td>
-<td>Zeyu Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00452">2406.00452</a></td>
 </tr>
 </tbody></table>

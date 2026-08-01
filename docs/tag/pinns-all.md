@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">995 papers</span>
+  <span class="paper-count">981 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5900,89 +5900,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01088.html">Physics-Informed Holomorphic Neural Networks (PIHNNs): Solving Linear Elasticity Problems</a></div></td>
 <td>Matteo Calafà et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01088">2407.01088</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03472.html">Solving Differential Equations using Physics-Informed Deep Equilibrium Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Bruno Machado Pacheco et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03472">2406.03472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15810.html">Evaluating Joule heating influence on heat transfer and entropy generation in MHD channel flow: A parametric study and ill-posed problem solution using PINNs</a></div><div class="paper-tags"><a href="mhd-all.html">mhd</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Ehsan Ghaderi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15810">2406.15810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14808.html">On the estimation rate of Bayesian PINN for inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Yi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14808">2406.14808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02561.html">Understanding the Difficulty of Solving Cauchy Problems with PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Tao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02561">2405.02561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11119.html">Identification of Physical Properties in Acoustic Tubes Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Kazuya Yokota et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11119">2406.11119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11676.html">Score-fPINN: Fractional Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck-Levy Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Zheyuan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11676">2406.11676</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11708.html">Tackling the Curse of Dimensionality in Fractional and Tempered Fractional PDEs with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Zheyuan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11708">2406.11708</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01680.html">Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Nima Hosseini Dashtbayaz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01680">2405.01680</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04626.html">Adaptive Interface-PINNs (AdaI-PINNs): An Efficient Physics-informed Neural Networks Framework for Interface Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sumanta Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04626">2406.04626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05290.html">Extremization to Fine Tune Physics Informed Neural Networks for Solving Boundary Value Problems</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Abhiram Anand Thiruthummal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05290">2406.05290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04380.html">Physics-Informed Neural Networks for the Numerical Modeling of Steady-State and Transient Electromagnetic Problems with Discontinuous Media</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Michel Nohra et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04380">2406.04380</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09496.html">Physics-Informed Neural Network based inverse framework for time-fractional differential equations for rheology</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sukirt Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09496">2407.09496</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02917.html">A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Khemraj Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02917">2406.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03494.html">Solving Poisson Equations using Neural Walk-on-Spheres</a></div></td>
-<td>Hong Chul Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03494">2406.03494</a></td>
 </tr>
 </tbody></table>

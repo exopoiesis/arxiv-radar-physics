@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1454,41 +1454,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05477.html">Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Anran Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05477">2407.05477</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14715.html">An Advanced Physics-Informed Neural Operator for Comprehensive Design Optimization of Highly-Nonlinear Systems: An Aerospace Composites Processing Case Study</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Milad Ramezankhani et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14715">2406.14715</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10920.html">Hamilton-Jacobi Based Policy-Iteration via Deep Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Jae Yong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10920">2406.10920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02917.html">A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Khemraj Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02917">2406.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02173.html">Learning the Hodgkin-Huxley Model with Operator Learning Techniques</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Edoardo Centofanti et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02173">2406.02173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02298.html">Solving Partial Differential Equations in Different Domains by Operator Learning method Based on Boundary Integral Equations</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Bin Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02298">2406.02298</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03407.html">Physics and geometry informed neural operator network with application to acoustic scattering</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Siddharth Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03407">2406.03407</a></td>
 </tr>
 </tbody></table>

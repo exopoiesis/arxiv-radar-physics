@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">180 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1094,23 +1094,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07376.html">Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
 <td>Cristiano Fanelli et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07376">2407.07376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18274.html">Euclid preparation. Sensitivity to non-standard particle dark matter model</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18274">2406.18274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12898.html">A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation</a></div><div class="paper-tags"><a href="fast-simulation-all.html">fast-simulation</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Farzana Yasmin Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12898">2406.12898</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03096.html">Learning to see R-parity violating scalar top decays</a></div><div class="paper-tags"><a href="event-classification-all.html">event-classification</a></div></td>
-<td>Gerrit Bickendorf et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03096">2406.03096</a></td>
 </tr>
 </tbody></table>

@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 20026 papers across 26 months.
+**Total corpus:** 19684 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,11 +16,10 @@
     <li><a href=#astrophysics--cosmology>Astrophysics & Cosmology</a> (50)</li>
     <li><a href=#climate-weather--geophysics>Climate, Weather & Geophysics</a> (50)</li>
     <li><a href=#generative-models--discovery>Generative Models & Discovery</a> (50)</li>
-    <li><a href=#viaauthor-whitelistfourier-neural-operators>via:author-whitelist:Fourier neural operators</a> (40)</li>
-    <li><a href=#viaauthor-whitelistpinns-deeponet>via:author-whitelist:PINNs, DeepONet</a> (50)</li>
-    <li><a href=#viaauthor-whitelistextreme-events-dynamical-systems>via:author-whitelist:extreme events, dynamical systems</a> (7)</li>
     <li><a href=#viaauthor-whitelistkoopman-operator-theory>via:author-whitelist:Koopman operator theory</a> (3)</li>
+    <li><a href=#viaauthor-whitelistfourier-neural-operators>via:author-whitelist:Fourier neural operators</a> (37)</li>
     <li><a href=#viaauthor-whitelistpinns-co-author>via:author-whitelist:PINNs co-author</a> (8)</li>
+    <li><a href=#viaauthor-whitelistpinns-deeponet>via:author-whitelist:PINNs, DeepONet</a> (50)</li>
     <li><a href=#viaauthor-whitelistequivariant-ml-generative-models>via:author-whitelist:equivariant ML, generative models</a> (12)</li>
     <li><a href=#viaauthor-whitelistgeometric-deep-learning>via:author-whitelist:geometric deep learning</a> (15)</li>
     <li><a href=#viaauthor-whitelistsindy-data-driven-dynamics>via:author-whitelist:SINDy, data-driven dynamics</a> (23)</li>
@@ -30,6 +29,7 @@
     <li><a href=#viaauthor-whitelistneural-operators>via:author-whitelist:neural operators</a> (11)</li>
     <li><a href=#viaauthor-whiteliste3nn-equivariant-tensor-networks>via:author-whitelist:e3nn, equivariant tensor networks</a> (12)</li>
     <li><a href=#viaauthor-whitelistneural-operators-pde-learning>via:author-whitelist:neural operators, PDE learning</a> (20)</li>
+    <li><a href=#viaauthor-whitelistextreme-events-dynamical-systems>via:author-whitelist:extreme events, dynamical systems</a> (5)</li>
     <li><a href=#viaauthor-whitelistneural-operators-multi-scale>via:author-whitelist:neural operators, multi-scale</a> (8)</li>
     <li><a href=#viaauthor-whitelistgraph-networks-for-physics-simulation>via:author-whitelist:graph networks for physics simulation</a> (19)</li>
     <li><a href=#viaauthor-whitelistequivariant-neural-networks>via:author-whitelist:equivariant neural networks</a> (2)</li>
@@ -549,6 +549,16 @@
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
+## via:author-whitelist:Koopman operator theory
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-11-07**|**An overview of Koopman-based control: From error bounds to closed-loop guarantees**|Robin Strässer et al.|[2509.02839](http://arxiv.org/abs/2509.02839)|[md](abstracts/2509.02839.md)|
+|**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
+|**2024-07-08**|**Limits and Powers of Koopman Learning**|Matthew J. Colbrook et al.|[2407.06312](http://arxiv.org/abs/2407.06312)|[md](abstracts/2407.06312.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
 ## via:author-whitelist:Fourier neural operators
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -590,9 +600,21 @@
 |**2024-11-01**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et al.|[2403.12553](http://arxiv.org/abs/2403.12553)|[md](abstracts/2403.12553.md)|
 |**2024-09-30**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et al.|[2409.10584](http://arxiv.org/abs/2409.10584)|[md](abstracts/2409.10584.md)|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et al.|[2407.07873](http://arxiv.org/abs/2407.07873)|[md](abstracts/2407.07873.md)|
-|**2024-06-08**|**Neural Operators with Localized Integral and Differential Kernels**|Miguel Liu-Schiaffini et al.|[2402.16845](http://arxiv.org/abs/2402.16845)|[md](abstracts/2402.16845.md)|
-|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et al.|[2406.03494](http://arxiv.org/abs/2406.03494)|[md](abstracts/2406.03494.md)|
-|**2024-06-02**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et al.|[2401.11037](http://arxiv.org/abs/2401.11037)|[md](abstracts/2401.11037.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
+## via:author-whitelist:PINNs co-author
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu et al.|[2604.12170](http://arxiv.org/abs/2604.12170)|[md](abstracts/2604.12170.md)|
+|**2026-04-01**|**PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics**|Sukirt Thakur et al.|[2601.17192](http://arxiv.org/abs/2601.17192)|[md](abstracts/2601.17192.md)|
+|**2026-01-23**|**Data-Efficient Physics-Informed Learning to Model Synchro-Waveform Dynamics of Grid-Integrated Inverter-Based Resources**|Shivanshu Tripathi et al.|[2601.17154](http://arxiv.org/abs/2601.17154)|[md](abstracts/2601.17154.md)|
+|**2026-01-23**|**NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations**|Maedeh Makki et al.|[2601.17207](http://arxiv.org/abs/2601.17207)|[md](abstracts/2601.17207.md)|
+|**2026-01-20**|**Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion**|R. Sharma et al.|[2506.20537](http://arxiv.org/abs/2506.20537)|[md](abstracts/2506.20537.md)|
+|**2025-04-12**|**ELPINN: Eulerian Lagrangian Physics-Informed Neural Network**|Sukirt Thakur et al.|[2504.09053](http://arxiv.org/abs/2504.09053)|[md](abstracts/2504.09053.md)|
+|**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
+|**2024-07-15**|**Physics-Informed Machine Learning for Smart Additive Manufacturing**|Rahul Sharma et al.|[2407.10761](http://arxiv.org/abs/2407.10761)|[md](abstracts/2407.10761.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
@@ -650,45 +672,6 @@
 |**2025-01-21**|**Scalable Bayesian Physics-Informed Kolmogorov-Arnold Networks**|Zhiwei Gao et al.|[2501.08501](http://arxiv.org/abs/2501.08501)|[md](abstracts/2501.08501.md)|
 |**2025-01-02**|**Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach**|Qian Zhang et al.|[2501.08339](http://arxiv.org/abs/2501.08339)|[md](abstracts/2501.08339.md)|
 |**2024-12-21**|**KKANs: Kurkova-Kolmogorov-Arnold Networks and Their Learning Dynamics**|Juan Diego Toscano et al.|[2412.16738](http://arxiv.org/abs/2412.16738)|[md](abstracts/2412.16738.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:extreme events, dynamical systems
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-03-11**|**Dynamics-Informed Deep Learning for Predicting Extreme Events**|Eirini Katsidoniotaki et al.|[2603.10777](http://arxiv.org/abs/2603.10777)|[md](abstracts/2603.10777.md)|
-|**2025-12-13**|**Learning Dissipative Chaotic Dynamics with Boundedness Guarantees**|Sunbochen Tang et al.|[2410.00976](http://arxiv.org/abs/2410.00976)|[md](abstracts/2410.00976.md)|
-|**2025-10-22**|**Extreme Event Aware ($η$-) Learning**|Kai Chang et al.|[2510.19161](http://arxiv.org/abs/2510.19161)|[md](abstracts/2510.19161.md)|
-|**2025-08-21**|**GEN2: A Generative Prediction-Correction Framework for Long-time Emulations of Spatially-Resolved Climate Extremes**|Mengze Wang et al.|[2508.15196](http://arxiv.org/abs/2508.15196)|[md](abstracts/2508.15196.md)|
-|**2024-11-22**|**A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data**|Benedikt Barthel Sorensen et al.|[2408.02688](http://arxiv.org/abs/2408.02688)|[md](abstracts/2408.02688.md)|
-|**2024-06-17**|**Active search for Bifurcations**|Yorgos M. Psarellis et al.|[2406.11141](http://arxiv.org/abs/2406.11141)|[md](abstracts/2406.11141.md)|
-|**2024-06-10**|**Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages**|Eirini Katsidoniotaki et al.|[2406.04519](http://arxiv.org/abs/2406.04519)|[md](abstracts/2406.04519.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:Koopman operator theory
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-11-07**|**An overview of Koopman-based control: From error bounds to closed-loop guarantees**|Robin Strässer et al.|[2509.02839](http://arxiv.org/abs/2509.02839)|[md](abstracts/2509.02839.md)|
-|**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
-|**2024-07-08**|**Limits and Powers of Koopman Learning**|Matthew J. Colbrook et al.|[2407.06312](http://arxiv.org/abs/2407.06312)|[md](abstracts/2407.06312.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:PINNs co-author
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu et al.|[2604.12170](http://arxiv.org/abs/2604.12170)|[md](abstracts/2604.12170.md)|
-|**2026-04-01**|**PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics**|Sukirt Thakur et al.|[2601.17192](http://arxiv.org/abs/2601.17192)|[md](abstracts/2601.17192.md)|
-|**2026-01-23**|**Data-Efficient Physics-Informed Learning to Model Synchro-Waveform Dynamics of Grid-Integrated Inverter-Based Resources**|Shivanshu Tripathi et al.|[2601.17154](http://arxiv.org/abs/2601.17154)|[md](abstracts/2601.17154.md)|
-|**2026-01-23**|**NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations**|Maedeh Makki et al.|[2601.17207](http://arxiv.org/abs/2601.17207)|[md](abstracts/2601.17207.md)|
-|**2026-01-20**|**Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion**|R. Sharma et al.|[2506.20537](http://arxiv.org/abs/2506.20537)|[md](abstracts/2506.20537.md)|
-|**2025-04-12**|**ELPINN: Eulerian Lagrangian Physics-Informed Neural Network**|Sukirt Thakur et al.|[2504.09053](http://arxiv.org/abs/2504.09053)|[md](abstracts/2504.09053.md)|
-|**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
-|**2024-07-15**|**Physics-Informed Machine Learning for Smart Additive Manufacturing**|Rahul Sharma et al.|[2407.10761](http://arxiv.org/abs/2407.10761)|[md](abstracts/2407.10761.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
@@ -916,6 +899,18 @@
 |**2024-12-26**|**Overlapping Schwarz Preconditioners for Randomized Neural Networks with Domain Decomposition**|Yong Shang et al.|[2412.19207](http://arxiv.org/abs/2412.19207)|[md](abstracts/2412.19207.md)|
 |**2024-11-05**|**FUSE: Fast Unified Simulation and Estimation for PDEs**|Levi E. Lingsch et al.|[2405.14558](http://arxiv.org/abs/2405.14558)|[md](abstracts/2405.14558.md)|
 |**2024-11-05**|**Poseidon: Efficient Foundation Models for PDEs**|Maximilian Herde et al.|[2405.19101](http://arxiv.org/abs/2405.19101)|[md](abstracts/2405.19101.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
+## via:author-whitelist:extreme events, dynamical systems
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-03-11**|**Dynamics-Informed Deep Learning for Predicting Extreme Events**|Eirini Katsidoniotaki et al.|[2603.10777](http://arxiv.org/abs/2603.10777)|[md](abstracts/2603.10777.md)|
+|**2025-12-13**|**Learning Dissipative Chaotic Dynamics with Boundedness Guarantees**|Sunbochen Tang et al.|[2410.00976](http://arxiv.org/abs/2410.00976)|[md](abstracts/2410.00976.md)|
+|**2025-10-22**|**Extreme Event Aware ($η$-) Learning**|Kai Chang et al.|[2510.19161](http://arxiv.org/abs/2510.19161)|[md](abstracts/2510.19161.md)|
+|**2025-08-21**|**GEN2: A Generative Prediction-Correction Framework for Long-time Emulations of Spatially-Resolved Climate Extremes**|Mengze Wang et al.|[2508.15196](http://arxiv.org/abs/2508.15196)|[md](abstracts/2508.15196.md)|
+|**2024-11-22**|**A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data**|Benedikt Barthel Sorensen et al.|[2408.02688](http://arxiv.org/abs/2408.02688)|[md](abstracts/2408.02688.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 

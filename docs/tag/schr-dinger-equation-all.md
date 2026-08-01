@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>schr-dinger-equation — all</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,11 +572,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00975.html">Data-driven approximations of topological insulator systems</a></div></td>
 <td>Justin T. Cole et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00975">2407.00975</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01222.html">Symmetry enforced solution of the many-body Schrödinger equation with deep neural network</a></div></td>
-<td>Zhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01222">2406.01222</a></td>
 </tr>
 </tbody></table>

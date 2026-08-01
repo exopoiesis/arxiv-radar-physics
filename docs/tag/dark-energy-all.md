@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,23 +1208,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17292.html">Population-level Dark Energy Constraints from Strong Gravitational Lensing using Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
 <td>Sreevani Jarugula et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17292">2407.17292</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16730.html">Convolutional neural network for Lyman break galaxies classification and redshift regression in DESI (Dark Energy Spectroscopic Instrument)</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
-<td>Julien Taran</td>
-<td><a href="http://arxiv.org/abs/2406.16730">2406.16730</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11949.html">A Fast-cadenced Search for Gamma-Ray Burst Orphan Afterglows with the Deeper, Wider, Faster Programme</a></div></td>
-<td>James Freeburn et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11949">2405.11949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04529.html">Towards Precision Photometric Type Ia Supernova Cosmology with Machine Learning</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
-<td>Helen Qu</td>
-<td><a href="http://arxiv.org/abs/2406.04529">2406.04529</a></td>
 </tr>
 </tbody></table>

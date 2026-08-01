@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — all</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <a href="variational-quantum-algorithms-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,17 +614,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17248.html">MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework</a></div><div class="paper-tags"><a href="qaoa-all.html">qaoa</a> · <a href="vqe-all.html">vqe</a></div></td>
 <td>Xusheng Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17248">2406.17248</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14627.html">Bayesian Optimization Priors for Efficient Variational Quantum Algorithms</a></div></td>
-<td>Farshud Sorourifar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14627">2406.14627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04715.html">$i$Trust: Trust-Region Optimisation with Ising Machines</a></div></td>
-<td>Sayantan Pramanik et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04715">2407.04715</a></td>
 </tr>
 </tbody></table>

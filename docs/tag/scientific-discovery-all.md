@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">716 papers</span>
+  <span class="paper-count">707 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4256,59 +4256,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01791.html">μ-Bench: A Vision-Language Benchmark for Microscopy Understanding</a></div></td>
 <td>Alejandro Lozano et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01791">2407.01791</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19522.html">Reliable edge machine learning hardware for scientific applications</a></div></td>
-<td>Tommaso Baldi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19522">2406.19522</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18626.html">An LLM-based Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery</a></div></td>
-<td>Oskar Wysocki et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18626">2406.18626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17812.html">Scalable Artificial Intelligence for Science: Perspectives, Methods and Exemplars</a></div></td>
-<td>Wesley Brewer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17812">2406.17812</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16956.html">Data-Driven Computing Methods for Nonlinear Physics Systems with Geometric Constraints</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Yunjin Tong</td>
-<td><a href="http://arxiv.org/abs/2406.16956">2406.16956</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01391.html">Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery</a></div></td>
-<td>Zechang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01391">2406.01391</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09263.html">Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers</a></div></td>
-<td>Izumi Takahara et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09263">2406.09263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06459.html">How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06459">2406.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06585.html">Expressive Symbolic Regression for Interpretable Models of Discrete-Time Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Adarsh Iyer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06585">2406.06585</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01147.html">Why Tabular Foundation Models Should Be a Research Priority</a></div></td>
-<td>Boris van Breugel et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01147">2405.01147</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">577 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3446,35 +3446,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16740.html">Learning the boundary-to-domain mapping using Lifting Product Fourier Neural Operators for partial differential equations</a></div></td>
 <td>Aditya Kashi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.16740">2406.16740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17810.html">PIC2O-Sim: A Physics-Inspired Causality-Aware Dynamic Convolutional Neural Operator for Ultra-Fast Photonic Device FDTD Simulation</a></div></td>
-<td>Pingchuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17810">2406.17810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02351.html">Towards General Neural Surrogate Solvers with Specialized Neural Accelerators</a></div></td>
-<td>Chenkai Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02351">2405.02351</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16845.html">Neural Operators with Localized Integral and Differential Kernels</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Miguel Liu-Schiaffini et al.</td>
-<td><a href="http://arxiv.org/abs/2402.16845">2402.16845</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.11037.html">Equivariant Graph Neural Operator for Modeling 3D Dynamics</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Minkai Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2401.11037">2401.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02597.html">CoNO: Complex Neural Operator for Continous Dynamical Physical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Karn Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02597">2406.02597</a></td>
 </tr>
 </tbody></table>

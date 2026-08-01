@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,29 +746,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05197.html">A Generalized Transformer-based Radio Link Failure Prediction Framework in 5G RANs</a></div></td>
 <td>Kazi Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05197">2407.05197</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16057.html">A machine learning approach to predict near-optimal meshes for turbulent compressible flow simulations</a></div></td>
-<td>Sergi Sanchez-Gamero et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16057">2406.16057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15638.html">Root Cause Analysis of Anomalies in 5G RAN Using Graph Neural Network and Transformer</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
-<td>Antor Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15638">2406.15638</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08950.html">Discovery of knowledge of wall-bounded turbulence via symbolic regression</a></div><div class="paper-tags"><a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>ZhongXin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08950">2406.08950</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06128.html">Federated Machine Reasoning for Resource Provisioning in 6G O-RAN</a></div></td>
-<td>Swastika Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06128">2406.06128</a></td>
 </tr>
 </tbody></table>

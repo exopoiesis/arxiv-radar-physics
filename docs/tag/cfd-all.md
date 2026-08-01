@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">330 papers</span>
+  <span class="paper-count">325 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1964,35 +1964,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05580.html">$\mathrm{E^{2}CFD}$: Towards Effective and Efficient Cost Function Design for Safe Reinforcement Learning via Large Language Model</a></div></td>
 <td>Zepeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05580">2407.05580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20047.html">Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Xiantao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.20047">2406.20047</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02519.html">Anvil: An integration of artificial intelligence, sampling techniques, and a combined CAD-CFD tool</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Harsh Vardhan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02519">2407.02519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07758.html">High-Precision Surrogate Modeling for Uncertainty Quantification in Complex Slurry Flows</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Marwane Elkarii et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07758">2406.07758</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04501.html">FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
-<td>Max Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04501">2406.04501</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Daniela de Oliveira Maionchi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
 </tr>
 </tbody></table>

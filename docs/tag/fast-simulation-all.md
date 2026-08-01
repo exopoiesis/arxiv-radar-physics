@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>fast-simulation — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="fast-simulation-7d.html">7d</a> <a href="fast-simulation-30d.html">30d</a> <a href="fast-simulation-90d.html">90d</a> <a href="fast-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16704.html">Applying generative neural networks for fast simulations of the ALICE (CERN) experiment</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Maksymilian Wojnar</td>
 <td><a href="http://arxiv.org/abs/2407.16704">2407.16704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12898.html">A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Farzana Yasmin Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12898">2406.12898</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — all</h1>
-  <span class="paper-count">230 papers</span>
+  <span class="paper-count">229 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1388,11 +1388,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Yair Litman et al.</td>
 <td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15491.html">Vibrational Entropy and Free Energy of Solid Lithium using Covariance of Atomic Displacements Enabled by Machine Learning</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
-<td>Mgcini Keith Phuthi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15491">2406.15491</a></td>
 </tr>
 </tbody></table>

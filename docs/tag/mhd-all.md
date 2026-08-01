@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mhd — all</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,17 +422,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17627.html">What makes a steady flow to favour kinematic magnetic field generation: A statistical analysis</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Francisco Stefano de Almeida et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17627">2407.17627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15810.html">Evaluating Joule heating influence on heat transfer and entropy generation in MHD channel flow: A parametric study and ill-posed problem solution using PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Ehsan Ghaderi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15810">2406.15810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13090.html">Magnetohydrodynamic simulation of the 2012-July-12 CME Event With the Fluxrope-G3DMHD Model</a></div></td>
-<td>Chin-Chun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13090">2406.13090</a></td>
 </tr>
 </tbody></table>

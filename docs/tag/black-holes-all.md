@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>black-holes — all</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,23 +896,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06781.html">Inferring the spin distribution of binary black holes using deep learning</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Li Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06781">2407.06781</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00205.html">LVK constraints on PBHs from stochastic gravitational wave background searches</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Alba Romero-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00205">2407.00205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14658.html">Growth of high redshift supermassive black holes from heavy seeds in the BRAHMA cosmological simulations: Implications of overmassive black holes</a></div><div class="paper-tags"><a href="cosmological-simulations-all.html">cosmological-simulations</a></div></td>
-<td>Aklant K Bhowmick et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14658">2406.14658</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03257.html">The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Wei-Hua Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03257">2406.03257</a></td>
 </tr>
 </tbody></table>

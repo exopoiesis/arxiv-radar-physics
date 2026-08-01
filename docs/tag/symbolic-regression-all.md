@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">287 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1736,35 +1736,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08553.html">Calibrating global behaviour of equation of state by combining nuclear and astrophysics inputs in a machine learning approach</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Sk Md Adil Imam et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08553">2407.08553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14844.html">DN-CL: Deep Symbolic Regression against Noise via Contrastive Learning</a></div></td>
-<td>Jingyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14844">2406.14844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00065.html">A Personalised Learning Tool for Physics Undergraduate Students Built On a Large Language Model for Symbolic Regression</a></div></td>
-<td>Yufan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00065">2407.00065</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08950.html">Discovery of knowledge of wall-bounded turbulence via symbolic regression</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
-<td>ZhongXin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08950">2406.08950</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09620.html">Applying Machine Learning to Elucidate Ultrafast Demagnetization Dynamics in Ni and Ni80Fe20</a></div></td>
-<td>Hasan Ahmadian Baghbaderani et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09620">2406.09620</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00695.html">Discovering an interpretable mathematical expression for a full wind-turbine wake with artificial intelligence enhanced symbolic regression</a></div></td>
-<td>Ding Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00695">2406.00695</a></td>
 </tr>
 </tbody></table>

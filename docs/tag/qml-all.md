@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qml — all</h1>
-  <span class="paper-count">340 papers</span>
+  <span class="paper-count">338 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2042,17 +2042,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01001.html">Flood Prediction Using Classical and Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
 <td>Marek Grzesiak et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01001">2407.01001</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14236.html">NAC-QFL: Noise Aware Clustered Quantum Federated Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Himanshu Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14236">2406.14236</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01095.html">Application of ZX-calculus to Quantum Architecture Search</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Tom Ewen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01095">2406.01095</a></td>
 </tr>
 </tbody></table>

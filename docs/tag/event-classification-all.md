@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>event-classification — all</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <a href="event-classification-90d.html">90d</a> <a href="event-classification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14859.html">Enhancing High-Energy Particle Physics Collision Analysis through Graph Data Attribution Techniques</a></div></td>
 <td>A. Verdone et al.</td>
 <td><a href="http://arxiv.org/abs/2407.14859">2407.14859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03096.html">Learning to see R-parity violating scalar top decays</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Gerrit Bickendorf et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03096">2406.03096</a></td>
 </tr>
 </tbody></table>

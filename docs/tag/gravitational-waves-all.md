@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gravitational-waves — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <a href="gravitational-waves-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,17 +794,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07820.html">New Gravitational Wave Discoveries Enabled by Machine Learning</a></div></td>
 <td>Alexandra E. Koloniari et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07820">2407.07820</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06324.html">Navigating Unknowns: Deep Learning Robustness for Gravitational Wave Signal Reconstruction</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Chayan Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06324">2406.06324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03257.html">The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="black-holes-all.html">black-holes</a></div></td>
-<td>Wei-Hua Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03257">2406.03257</a></td>
 </tr>
 </tbody></table>

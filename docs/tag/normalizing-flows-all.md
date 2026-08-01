@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>normalizing-flows — all</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <a href="normalizing-flows-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,23 +926,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07376.html">Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Cristiano Fanelli et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07376">2407.07376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13074.html">PIPPIN: Generating variable length full events from partons</a></div><div class="paper-tags"><a href="detector-simulation-all.html">detector-simulation</a></div></td>
-<td>Guillaume Quétant et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13074">2406.13074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01913.html">Generating Synthetic Net Load Data with Physics-informed Diffusion Model</a></div></td>
-<td>Shaorong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01913">2406.01913</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02451.html">Quantum states from normalizing flows</a></div></td>
-<td>Scott Lawrence et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02451">2406.02451</a></td>
 </tr>
 </tbody></table>

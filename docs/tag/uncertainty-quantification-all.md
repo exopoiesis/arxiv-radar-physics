@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">865 papers</span>
+  <span class="paper-count">849 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5108,101 +5108,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01015.html">Bayesian Entropy Neural Networks for Physics-Aware Prediction</a></div></td>
 <td>Rahul Rathnakumar et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01015">2407.01015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00761.html">Improving the performance of Stein variational inference through extreme sparsification of physically-constrained neural network models</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Govinda Anantha Padmanabha et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00761">2407.00761</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19591.html">Mathematical modelling and uncertainty quantification for analysis of biphasic coral reef recovery patterns</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>David J. Warne et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19591">2406.19591</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18860.html">A Thermo-Electro-Mechanical Model for Long-Term Reliability of Aging Transmission Lines</a></div></td>
-<td>Eduardo A. Barros De Moraes et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18860">2406.18860</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10327.html">WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction</a></div></td>
-<td>Ziyi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10327">2405.10327</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14838.html">Bayesian neural networks for predicting uncertainty in full-field material response</a></div></td>
-<td>George D. Pasparakis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14838">2406.14838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15650.html">Machine Learning Materials Properties with Accurate Predictions, Uncertainty Estimates, Domain Guidance, and Persistent Online Accessibility</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Ryan Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15650">2406.15650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11141.html">Active search for Bifurcations</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Yorgos M. Psarellis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11141">2406.11141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11809.html">Physics-Constrained Learning for PDE Systems with Uncertainty Quantified Port-Hamiltonian Models</a></div></td>
-<td>Kaiyuan Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11809">2406.11809</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10117.html">Trustworthy Artificial Intelligence in the Context of Metrology</a></div></td>
-<td>Tameem Adel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10117">2406.10117</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08853.html">Assessment of Uncertainty Quantification in Universal Differential Equations</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Nina Schmid et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08853">2406.08853</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07344.html">Characterizing GPROF Regional Bias Using Radar-Derived Hydrometeor Information</a></div></td>
-<td>Eric Goldenstern et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07344">2406.07344</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07758.html">High-Precision Surrogate Modeling for Uncertainty Quantification in Complex Slurry Flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Marwane Elkarii et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07758">2406.07758</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03224.html">Exponentially Stable Projector-based Control of Lagrangian Systems with Gaussian Processes</a></div></td>
-<td>Giulio Evangelisti et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03224">2406.03224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02204.html">The Deep Latent Space Particle Filter for Real-Time Data Assimilation with Uncertainty Quantification</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Nikolaj T. Mücke et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02204">2406.02204</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01728.html">Predictive Model and Optimization of Micromixers Geometry using Gaussian Process with Uncertainty Quantification and Genetic Algorithm</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Daniela de Oliveira Maionchi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01728">2406.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00889.html">Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model</a></div></td>
-<td>Clement Etienam et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00889">2406.00889</a></td>
 </tr>
 </tbody></table>

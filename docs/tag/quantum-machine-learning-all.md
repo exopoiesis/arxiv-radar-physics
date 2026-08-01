@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-machine-learning — all</h1>
-  <span class="paper-count">924 papers</span>
+  <span class="paper-count">913 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5492,71 +5492,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01001.html">Flood Prediction Using Classical and Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
 <td>Marek Grzesiak et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01001">2407.01001</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00444.html">Physics-informed neural network for quantum control of NMR registers</a></div></td>
-<td>Priya Batra et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00444">2407.00444</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14236.html">NAC-QFL: Noise Aware Clustered Quantum Federated Learning</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Himanshu Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14236">2406.14236</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14285.html">A Survey of Methods for Mitigating Barren Plateaus for Parameterized Quantum Circuits</a></div></td>
-<td>Michelle Gelman</td>
-<td><a href="http://arxiv.org/abs/2406.14285">2406.14285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14607.html">Quantum Extreme Learning of molecular potential energy surfaces and force fields</a></div></td>
-<td>Gabriele Lo Monaco et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14607">2406.14607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13812.html">Single-shot quantum machine learning</a></div></td>
-<td>Erik Recio-Armengol et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13812">2406.13812</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01335.html">Statistics-Informed Parameterized Quantum Circuit via Maximum Entropy Principle for Data Science and Finance</a></div></td>
-<td>Xi-Ning Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01335">2406.01335</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06666.html">Quantum Machine Learning With Canonical Variables</a></div></td>
-<td>Jesús Fuentes</td>
-<td><a href="http://arxiv.org/abs/2406.06666">2406.06666</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04305.html">Quixer: A Quantum Transformer Model</a></div></td>
-<td>Nikhil Khatri et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04305">2406.04305</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04418.html">Geometric Quantum Machine Learning with Horizontal Quantum Gates</a></div></td>
-<td>Roeland Wiersema et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04418">2406.04418</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01095.html">Application of ZX-calculus to Quantum Architecture Search</a></div><div class="paper-tags"><a href="qml-all.html">qml</a></div></td>
-<td>Tom Ewen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01095">2406.01095</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01948.html">Can Entanglement-enhanced Quantum Kernels Improve Data Classification?</a></div></td>
-<td>Anand Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01948">2406.01948</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">683 papers</span>
+  <span class="paper-count">673 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4052,65 +4052,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01949.html">Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering: Methods, Simulation, and Inference</a></div></td>
 <td>Mark Baum et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01949">2407.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00686.html">Exploring the Evolution of Nonlinear Electrodynamics in the Universe: A Dynamical Systems Approach</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Ricardo García-Salcedo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00686">2407.00686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18905.html">Bayesian inference: More than Bayes&#x27;s theorem</a></div></td>
-<td>Thomas J. Loredo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18905">2406.18905</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19591.html">Mathematical modelling and uncertainty quantification for analysis of biphasic coral reef recovery patterns</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>David J. Warne et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19591">2406.19591</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20044.html">Electrostatics-based particle sampling and approximate inference</a></div></td>
-<td>Yongchao Huang</td>
-<td><a href="http://arxiv.org/abs/2406.20044">2406.20044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00205.html">LVK constraints on PBHs from stochastic gravitational wave background searches</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Alba Romero-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00205">2407.00205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19420.html">A Bayesian Framework to Investigate Radiation Reaction in Strong Fields</a></div></td>
-<td>E. E. Los et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19420">2406.19420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04166.html">Photometric Classification of Stars Around the Milky Way&#x27;s Central Black Hole: I. Central Parsec</a></div></td>
-<td>E. Gallego-Cano et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04166">2406.04166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04859.html">Stochastic full waveform inversion with deep generative prior for uncertainty quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Yuke Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04859">2406.04859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03154.html">Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation</a></div></td>
-<td>Marvin Schmitt et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03154">2406.03154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03257.html">The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Wei-Hua Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03257">2406.03257</a></td>
 </tr>
 </tbody></table>

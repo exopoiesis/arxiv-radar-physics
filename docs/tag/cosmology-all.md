@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmology — all</h1>
-  <span class="paper-count">325 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1934,35 +1934,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02699.html">Alcock-Paczyński effect on void-finding: Implications for void-galaxy cross-correlation modelling</a></div></td>
 <td>Slađana Radinović et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02699">2407.02699</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18274.html">Euclid preparation. Sensitivity to non-standard particle dark matter model</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18274">2406.18274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16730.html">Convolutional neural network for Lyman break galaxies classification and redshift regression in DESI (Dark Energy Spectroscopic Instrument)</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Julien Taran</td>
-<td><a href="http://arxiv.org/abs/2406.16730">2406.16730</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03810.html">Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
-<td>Kai L. Polsterer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03810">2406.03810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04529.html">Towards Precision Photometric Type Ia Supernova Cosmology with Machine Learning</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Helen Qu</td>
-<td><a href="http://arxiv.org/abs/2406.04529">2406.04529</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01527.html">Modelling the redshift-space cluster-galaxy correlation function on Mpc scales with emulation of the pairwise velocity distribution</a></div></td>
-<td>Andrew Robertson et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01527">2406.01527</a></td>
 </tr>
 </tbody></table>

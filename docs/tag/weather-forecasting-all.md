@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,53 +1826,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14527.html">ArchesWeather: An efficient AI weather forecasting model at 1.5° resolution</a></div></td>
 <td>Guillaume Couairon et al.</td>
 <td><a href="http://arxiv.org/abs/2405.14527">2405.14527</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19615.html">VarteX: Enhancing Weather Forecast through Distributed Variable Representation</a></div></td>
-<td>Ayumu Ueyama et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19615">2406.19615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20080.html">AI for Extreme Event Modeling and Understanding: Methodologies and Challenges</a></div></td>
-<td>Gustau Camps-Valls et al.</td>
-<td><a href="http://arxiv.org/abs/2406.20080">2406.20080</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01598.html">Long-Term Prediction Accuracy Improvement of Data-Driven Medium-Range Global Weather Forecast</a></div></td>
-<td>Yifan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01598">2407.01598</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15076.html">Neural Incremental Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Matthieu Blanke et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15076">2406.15076</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13559.html">Solarcast-ML: Per Node GraphCast Extension for Solar Energy Production</a></div></td>
-<td>Cale Colony et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13559">2406.13559</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04678.html">ACE Metric: Advection and Convection Evaluation for Accurate Weather Forecasting</a></div></td>
-<td>Doyi Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04678">2406.04678</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01645.html">FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Kun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01645">2406.01645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00390.html">AI-based data assimilation: Learning the functional of analysis estimation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Jan D. Keller et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00390">2406.00390</a></td>
 </tr>
 </tbody></table>

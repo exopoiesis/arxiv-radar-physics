@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">311 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,47 +1838,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09312.html">Agnostic Active Learning of Single Index Models with Linear Sample Complexity</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Aarshvi Gajjar et al.</td>
 <td><a href="http://arxiv.org/abs/2405.09312">2405.09312</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00761.html">Improving the performance of Stein variational inference through extreme sparsification of physically-constrained neural network models</a></div><div class="paper-tags"><a href="sciml-all.html">sciml</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Govinda Anantha Padmanabha et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00761">2407.00761</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02519.html">Anvil: An integration of artificial intelligence, sampling techniques, and a combined CAD-CFD tool</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Harsh Vardhan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02519">2407.02519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08853.html">Assessment of Uncertainty Quantification in Universal Differential Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Nina Schmid et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08853">2406.08853</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06489.html">Probing out-of-distribution generalization in machine learning for materials</a></div></td>
-<td>Kangming Li et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06489">2406.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05470.html">RandONet: Shallow-Networks with Random Projections for learning linear and nonlinear operators</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Gianluca Fabiani et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05470">2406.05470</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05020.html">Scaling up Probabilistic PDE Simulators with Structured Volumetric Information</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Tim Weiland et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05020">2406.05020</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02597.html">CoNO: Complex Neural Operator for Continous Dynamical Physical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Karn Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02597">2406.02597</a></td>
 </tr>
 </tbody></table>

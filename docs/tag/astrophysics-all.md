@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">220 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1334,35 +1334,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19957.html">Neural Network Representations of Multiphase Equations of State</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>George A. Kevrekidis et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19957">2406.19957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19385.html">A Machine Learning Method for Monte Carlo Calculations of Radiative Processes</a></div></td>
-<td>William Charles et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19385">2406.19385</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17502.html">A Hybrid Approach to Event Reconstruction for Atmospheric Cherenkov Telescopes Combining Machine Learning and Likelihood Fitting</a></div></td>
-<td>Georg Schwefer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17502">2406.17502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10771.html">Predicting Exoplanetary Features with a Residual Model for Uniform and Gaussian Distributions</a></div></td>
-<td>Andrew Sweet</td>
-<td><a href="http://arxiv.org/abs/2406.10771">2406.10771</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06324.html">Navigating Unknowns: Deep Learning Robustness for Gravitational Wave Signal Reconstruction</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Chayan Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06324">2406.06324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03810.html">Spherinator and HiPSter: Representation Learning for Unbiased Knowledge Discovery from Simulations</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
-<td>Kai L. Polsterer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03810">2406.03810</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure-prediction — all</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="crystal-structure-prediction-7d.html">7d</a> <a href="crystal-structure-prediction-30d.html">30d</a> <a href="crystal-structure-prediction-90d.html">90d</a> <a href="crystal-structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,17 +404,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01641.html">A method for the automatic generation of a minimal basis set of structural templates for material phase-space exploration</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Caja Annweiler et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01641">2410.01641</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00733.html">CSPBench: a benchmark and critical evaluation of Crystal Structure Prediction</a></div></td>
-<td>Lai Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00733">2407.00733</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14443.html">Thin Film Synthesis, Structural Analysis, and Magnetic Properties of Novel Ternary Transition Metal Nitride MnCoN2</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Sita Dugu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14443">2406.14443</a></td>
 </tr>
 </tbody></table>

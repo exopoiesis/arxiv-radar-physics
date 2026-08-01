@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>navier-stokes-equations — all</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <a href="navier-stokes-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,17 +908,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12293.html">Multi evolutional deep neural networks (Multi-EDNN)</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Hadden Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2407.12293">2407.12293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05290.html">Extremization to Fine Tune Physics Informed Neural Networks for Solving Boundary Value Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Abhiram Anand Thiruthummal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05290">2406.05290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04501.html">FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Max Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04501">2406.04501</a></td>
 </tr>
 </tbody></table>

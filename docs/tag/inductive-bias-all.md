@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,35 +1352,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03266.html">Do Quantum Neural Networks have Simplicity Bias?</a></div></td>
 <td>Jessica Pointing</td>
 <td><a href="http://arxiv.org/abs/2407.03266">2407.03266</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11993.html">Delay Embedding Theory of Neural Sequence Models</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Mitchell Ostrow et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11993">2406.11993</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07775.html">Self-attention-based non-linear basis transformations for compact latent space modelling of dynamic optical fibre transmission matrices</a></div></td>
-<td>Yijie Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07775">2406.07775</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06150.html">Physics-Informed Bayesian Optimization of Variational Quantum Circuits</a></div><div class="paper-tags"><a href="vqe-all.html">vqe</a></div></td>
-<td>Kim A. Nicoli et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06150">2406.06150</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03856.html">Multidimensional Quantum Generative Modeling by Quantum Hartley Transform</a></div></td>
-<td>Hsin-Yu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03856">2406.03856</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06611.html">Building Hybrid B-Spline And Neural Network Operators</a></div></td>
-<td>Raffaele Romagnoli et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06611">2406.06611</a></td>
 </tr>
 </tbody></table>

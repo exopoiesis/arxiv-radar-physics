@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">357 papers</span>
+  <span class="paper-count">349 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2108,53 +2108,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15850.html">Deep learning insights into non-universality in the halo mass function</a></div></td>
 <td>Ningyuan Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2405.15850">2405.15850</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00133.html">Calculation of crystal defects induced in CaWO$_{4}$ by 100 eV displacement cascades using a linear Machine Learning interatomic potential</a></div></td>
-<td>Gabrielle Soum-Sidikov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00133">2407.00133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00166.html">Constraints on the in-situ and ex-situ stellar masses in nearby galaxies with Artificial Intelligence</a></div></td>
-<td>Eirini Angeloudi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00166">2407.00166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18274.html">Euclid preparation. Sensitivity to non-standard particle dark matter model</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18274">2406.18274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07512.html">COMAP Pathfinder -- Season 2 results III. Implications for cosmic molecular gas content at &quot;Cosmic Half-past Eleven&quot;</a></div></td>
-<td>D. T. Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07512">2406.07512</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07439.html">Search for photons above 10$^{18}$ eV by simultaneously measuring the atmospheric depth and the muon content of air showers at the Pierre Auger Observatory</a></div></td>
-<td>The Pierre Auger Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07439">2406.07439</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07605.html">Unveiling the (in)consistencies among the galaxy stellar mass function, star formation histories, satellite abundances and intracluster light from a semi-empirical perspective</a></div></td>
-<td>Hao Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07605">2406.07605</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03990.html">Galactic center GeV excess and classification of Fermi-LAT sources with machine learning</a></div></td>
-<td>Dmitry V. Malyshev</td>
-<td><a href="http://arxiv.org/abs/2406.03990">2406.03990</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01672.html">Baryonification extended to thermal Sunyaev Zeldovich</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
-<td>Giovanni Aricò et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01672">2406.01672</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reduced-order-modeling — all</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <a href="reduced-order-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,11 +398,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00337.html">Physics-informed active learning with simultaneous weak-form latent space dynamics identification</a></div><div class="paper-tags"><a href="plasma-physics-all.html">plasma-physics</a></div></td>
 <td>Xiaolong He et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00337">2407.00337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02615.html">A hybrid numerical methodology coupling Reduced Order Modeling and Graph Neural Networks for non-parametric geometries: applications to structural dynamics problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="rom-all.html">rom</a></div></td>
-<td>Victor Matray et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02615">2406.02615</a></td>
 </tr>
 </tbody></table>

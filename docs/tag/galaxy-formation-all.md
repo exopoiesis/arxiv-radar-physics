@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>galaxy-formation — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <a href="galaxy-formation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,23 +464,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14599.html">Pumping Iron: How turbulent metal diffusion impacts multiphase galactic outflows</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Ulrich P. Steinwandel et al.</td>
 <td><a href="http://arxiv.org/abs/2407.14599">2407.14599</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00838.html">Inferring intrahalo light from stellar kinematics -- A deep learning approach</a></div></td>
-<td>I. Marini et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00838">2407.00838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07842.html">Ground-based image deconvolution with Swin Transformer UNet</a></div></td>
-<td>Utsav Akhaury et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07842">2405.07842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01672.html">Baryonification extended to thermal Sunyaev Zeldovich</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Giovanni Aricò et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01672">2406.01672</a></td>
 </tr>
 </tbody></table>

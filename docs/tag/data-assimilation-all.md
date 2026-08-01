@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>data-assimilation — all</h1>
-  <span class="paper-count">248 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,41 +1466,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08222.html">PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
 <td>Xing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08222">2407.08222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16955.html">SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale</a></div></td>
-<td>Jason Stock et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16955">2406.16955</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19154.html">Advancing operational PM2.5 forecasting with dual deep neural networks (D-DNet)</a></div></td>
-<td>Shengjuan Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19154">2406.19154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15076.html">Neural Incremental Data Assimilation</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Matthieu Blanke et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15076">2406.15076</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02204.html">The Deep Latent Space Particle Filter for Real-Time Data Assimilation with Uncertainty Quantification</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Nikolaj T. Mücke et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02204">2406.02204</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01645.html">FNP: Fourier Neural Processes for Arbitrary-Resolution Data Assimilation</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Kun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01645">2406.01645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00390.html">AI-based data assimilation: Learning the functional of analysis estimation</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Jan D. Keller et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00390">2406.00390</a></td>
 </tr>
 </tbody></table>

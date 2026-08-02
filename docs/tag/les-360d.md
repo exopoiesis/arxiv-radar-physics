@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15539.html">Reduced Subgrid Scale Terms in Three-Dimensional Turbulence</a></div><div class="paper-tags"><a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
 <td>Rik Hoekstra et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15539">2507.15539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04318.html">Turbulent Injection assisted by Diffusion Models for Scale Resolving Simulations</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Margaux Boxho et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04318">2508.04318</a></td>
 </tr>
 </tbody></table>

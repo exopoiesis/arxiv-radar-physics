@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">398 papers</span>
+  <span class="paper-count">396 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2390,17 +2390,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08087.html">Fast and Generalizable parameter-embedded Neural Operators for Lithium-Ion Battery Simulation</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Amir Ali Panahi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08087">2508.08087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04463.html">GFocal: A Global-Focal Neural Operator for Solving PDEs on Arbitrary Geometries</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Fangzhi Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04463">2508.04463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04882.html">Hilbert Neural Operator: Operator Learning in the Analytic Signal Domain</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Saman Pordanesh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04882">2508.04882</a></td>
 </tr>
 </tbody></table>

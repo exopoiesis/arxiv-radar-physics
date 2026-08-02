@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">813 papers</span>
+  <span class="paper-count">811 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4880,17 +4880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00004.html">Carleman Linearization of Differential-Algebraic Equations Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Marcos A. Hernandez-Ortega et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00004">2509.00004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04463.html">GFocal: A Global-Focal Neural Operator for Solving PDEs on Arbitrary Geometries</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Fangzhi Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04463">2508.04463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04882.html">Hilbert Neural Operator: Operator Learning in the Analytic Signal Domain</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Saman Pordanesh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04882">2508.04882</a></td>
 </tr>
 </tbody></table>

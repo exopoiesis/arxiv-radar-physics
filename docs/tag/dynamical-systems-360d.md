@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">711 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4262,23 +4262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00004.html">Carleman Linearization of Differential-Algebraic Equations Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Marcos A. Hernandez-Ortega et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00004">2509.00004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05797.html">Data-Driven Reconstruction and Characterization of Stochastic Dynamics via Dynamical Mode Decomposition</a></div></td>
-<td>Adva Baratz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05797">2507.05797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04301.html">Extreme Event Precursor Prediction in Turbulent Dynamical Systems via CNN-Augmented Recurrence Analysis</a></div></td>
-<td>Rahul Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04301">2508.04301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04401.html">Why are LLMs&#x27; abilities emergent?</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Vladimír Havlík</td>
-<td><a href="http://arxiv.org/abs/2508.04401">2508.04401</a></td>
 </tr>
 </tbody></table>

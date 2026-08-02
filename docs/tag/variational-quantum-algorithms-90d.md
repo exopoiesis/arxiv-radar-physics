@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04945.html">Beyond Gates: Pulse Level Quantum Fourier Models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Melvin Strobl et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04945">2605.04945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02066.html">Accelerating Noisy Variational Quantum Algorithms with Physics-Informed Denoising Networks</a></div></td>
-<td>Jie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02066">2605.02066</a></td>
 </tr>
 </tbody></table>

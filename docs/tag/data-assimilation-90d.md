@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06337.html">Earth-o1: A Grid-free Observation-native Atmospheric World Model</a></div></td>
 <td>Junchao Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06337">2605.06337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25157.html">A Continuous-Time Ensemble Kalman-Bucy Smoother for Causal Inference and Model Discovery</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Zhang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25157">2604.25157</a></td>
 </tr>
 </tbody></table>

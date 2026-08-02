@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10876.html">Accelerating cosmological inference of interacting dark energy with neural emulators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Karim Carrion</td>
 <td><a href="http://arxiv.org/abs/2508.10876">2508.10876</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08586.html">CSST Strong Lensing Preparation: Fast Modeling of Galaxy-Galaxy Strong Lenses in the Big Data Era</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Xiaoyue Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08586">2503.08586</a></td>
 </tr>
 </tbody></table>

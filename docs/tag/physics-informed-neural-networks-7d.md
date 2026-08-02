@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23880.html">Physics-Informed Neural Networks for Predicting Nitrous Oxide Flux</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Freddy Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23880">2607.23880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23186.html">Stochastic Dynamics of the Two-Dimensional Low-to-High Transition System Driven by Multiplicative Noise</a></div></td>
-<td>Yongzhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23186">2607.23186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Martín D. Jiménez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23276">2607.23276</a></td>
 </tr>
 </tbody></table>

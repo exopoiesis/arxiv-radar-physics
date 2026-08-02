@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">604 papers</span>
+  <span class="paper-count">602 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3626,17 +3626,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05624.html">Latent Space Diffusion for Topology Optimization</a></div></td>
 <td>Aaron Lutheran et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05624">2508.05624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04154.html">Non-Equilibrium Dynamics and First-Passage Properties of Stochastic Processes: From Brownian Motion to Active Particles</a></div></td>
-<td>Mathis Guéneau</td>
-<td><a href="http://arxiv.org/abs/2508.04154">2508.04154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04318.html">Turbulent Injection assisted by Diffusion Models for Scale Resolving Simulations</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Margaux Boxho et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04318">2508.04318</a></td>
 </tr>
 </tbody></table>

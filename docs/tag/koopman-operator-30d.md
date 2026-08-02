@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>koopman-operator — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <strong>30d</strong> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Charles Bokor et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01819.html">Koopman operator theory: fundamentals, control, and applications</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Igor Mezić et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01819">2607.01819</a></td>
 </tr>
 </tbody></table>

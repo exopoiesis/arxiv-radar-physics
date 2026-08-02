@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12479.html">Data-driven control of a magnetohydrodynamic flow</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Adam Uchytil et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12479">2507.12479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04806.html">Electrodeless Magnetohydrodynamic Local Force Generator for Aerocapture</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a></div></td>
-<td>Bernard Parent et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04806">2508.04806</a></td>
 </tr>
 </tbody></table>

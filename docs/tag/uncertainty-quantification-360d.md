@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3266,17 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05421.html">LLM-based Multi-Agent Copilot for Quantum Sensor</a></div></td>
 <td>Rong Sha et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05421">2508.05421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08804.html">Modern approach to muonic x-ray spectroscopy demonstrated through the measurement of stable Cl radii</a></div></td>
-<td>K. A. Beyer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08804">2506.08804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04885.html">Uncertainty Quantification for Surface Ozone Emulators using Deep Learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Kelsey Doerksen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04885">2508.04885</a></td>
 </tr>
 </tbody></table>

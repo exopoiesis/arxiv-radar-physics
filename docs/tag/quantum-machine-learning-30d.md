@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03250.html">Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</a></div></td>
 <td>Miriam Backens</td>
 <td><a href="http://arxiv.org/abs/2607.03250">2607.03250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01943.html">Hybrid quantum-classical neural network for sentiment analysis</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Giacomo Cappiello et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01943">2607.01943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02135.html">Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="qml-30d.html">qml</a></div></td>
-<td>Donovan Slabbert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02135">2607.02135</a></td>
 </tr>
 </tbody></table>

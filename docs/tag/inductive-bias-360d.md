@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">180 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1094,11 +1094,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10629.html">Energy-Based Models for Predicting Mutational Effects on Proteins</a></div></td>
 <td>Patrick Soga et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10629">2508.10629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04882.html">Hilbert Neural Operator: Operator Learning in the Analytic Signal Domain</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Saman Pordanesh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04882">2508.04882</a></td>
 </tr>
 </tbody></table>

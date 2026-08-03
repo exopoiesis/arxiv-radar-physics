@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,41 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08196.html">Survey on Disaster Management Datasets for Remote Sensing Based Emergency Applications</a></div></td>
 <td>Alain P. Ndigande et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08196">2605.08196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23566.html">Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Luigi Sigillo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23566">2506.23566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02184.html">RAFNet: Region-Aware Fusion Network for Pansharpening</a></div></td>
-<td>Jianing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02184">2605.02184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02198.html">SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Ce Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02198">2605.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02283.html">Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM</a></div></td>
-<td>Hyobin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02283">2605.02283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03175.html">DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery</a></div></td>
-<td>Ryan Faulkenberry et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03175">2605.03175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10958.html">Multi-Fidelity Emulation of Atmospheric Correction Coefficients with Physics-Guided Kolmogorov-Arnold Networks</a></div></td>
-<td>Md Abdullah Al Mazid et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10958">2605.10958</a></td>
 </tr>
 </tbody></table>

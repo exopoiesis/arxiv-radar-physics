@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3254,17 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06456.html">Comparative study of ensemble-based uncertainty quantification methods for neural network interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Yonatan Kurniawan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06456">2508.06456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04588.html">A Comprehensive Framework for Uncertainty Quantification of Voxel-wise Supervised Models in IVIM MRI</a></div></td>
-<td>Nicola Casali et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04588">2508.04588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05421.html">LLM-based Multi-Agent Copilot for Quantum Sensor</a></div></td>
-<td>Rong Sha et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05421">2508.05421</a></td>
 </tr>
 </tbody></table>

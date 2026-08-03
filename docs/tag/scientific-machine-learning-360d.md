@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,11 +1286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06502.html">PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations</a></div></td>
 <td>Md Rakibul Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06502">2505.06502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05831.html">Optimal Linear Baseline Models for Scientific Machine Learning</a></div></td>
-<td>Alexander DeLise et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05831">2508.05831</a></td>
 </tr>
 </tbody></table>

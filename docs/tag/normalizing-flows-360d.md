@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00632.html">Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Kangning Diao et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00632">2505.00632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05744.html">Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
-<td>Aizhan Akhmetzhanova et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05744">2508.05744</a></td>
 </tr>
 </tbody></table>

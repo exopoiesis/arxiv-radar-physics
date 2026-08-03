@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,23 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03760.html">GeoSAM-Lite: A Lightweight Foundation Model for Onboard Remote Sensing Segmentation</a></div></td>
 <td>Yongcong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03760">2607.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03298.html">A harmonised dataset for Earth system foundation models</a></div></td>
-<td>Carlos Rodriguez-Pardo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03298">2607.03298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03320.html">LBTCap: A Lightweight Bilateral Transformer for Real-Time Remote Sensing Image Change Captioning</a></div></td>
-<td>Licheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03320">2607.03320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03644.html">Moonstone: A Multimodal Foundation Model and Benchmark for Lunar Remote Sensing</a></div></td>
-<td>Ayush Prasad et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03644">2607.03644</a></td>
 </tr>
 </tbody></table>

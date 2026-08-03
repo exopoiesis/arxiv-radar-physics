@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,23 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03542.html">Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Diego Marcondes</td>
 <td><a href="http://arxiv.org/abs/2605.03542">2605.03542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20086.html">Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Tiangang Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20086">2502.20086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02352.html">Geometric Quantum Physics Informed Neural Network</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Wai-Hong Tam et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02352">2605.02352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02597.html">Isotropic Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Michael F. Staddon</td>
-<td><a href="http://arxiv.org/abs/2605.02597">2605.02597</a></td>
 </tr>
 </tbody></table>

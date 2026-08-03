@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">623 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3752,11 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10708.html">Exploration of Hepatitis B Virus Infection Dynamics through Physics-Informed Deep Learning Approach</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Bikram Das et al.</td>
 <td><a href="http://arxiv.org/abs/2503.10708">2503.10708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07700.html">Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Adrian Celaya et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07700">2501.07700</a></td>
 </tr>
 </tbody></table>

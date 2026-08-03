@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00959.html">Enhancing material behavior discovery using embedding-oriented Physically-Guided Neural Networks with Internal Variables</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
 <td>Rubén Muñoz-Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00959">2508.00959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07700.html">Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Adrian Celaya et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07700">2501.07700</a></td>
 </tr>
 </tbody></table>

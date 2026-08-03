@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3092,17 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06131.html">Enhancing the Scalability of Classical Surrogates for Real-World Quantum Machine Learning Applications</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Philip Anton Hernicht et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06131">2508.06131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05063.html">Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Nikhil Kumar Rajput et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05063">2508.05063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05169.html">Hybrid quantum tensor networks for aeroelastic applications</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>M. Lautaro Hickmann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05169">2508.05169</a></td>
 </tr>
 </tbody></table>

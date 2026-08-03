@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23940.html">Variational Boosting for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Pavlos Protopapas et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23940">2607.23940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23437.html">Neural Representation of Minimal Surfaces</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Jiayin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23437">2607.23437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23501.html">Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Nikolaos Kollias et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23501">2607.23501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23880.html">Physics-Informed Neural Networks for Predicting Nitrous Oxide Flux</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Freddy Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23880">2607.23880</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>astrophysics — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <strong>30d</strong> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05252.html">FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Weichen Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05252">2607.05252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02931.html">VERITAS: Towards a General-Purpose Replication Tool for Scientific Research</a></div></td>
-<td>Haokun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02931">2607.02931</a></td>
 </tr>
 </tbody></table>

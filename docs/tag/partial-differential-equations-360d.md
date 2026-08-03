@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">811 papers</span>
+  <span class="paper-count">808 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4862,23 +4862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06487.html">Weak approximation of stochastic differential equations with sticky boundary conditions</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Akash Sharma</td>
 <td><a href="http://arxiv.org/abs/2508.06487">2508.06487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07700.html">Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Adrian Celaya et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07700">2501.07700</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10273.html">A Structure-Preserving Framework for Solving Parabolic Partial Differential Equations with Neural Networks</a></div></td>
-<td>Gaohang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10273">2504.10273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00004.html">Carleman Linearization of Differential-Algebraic Equations Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Marcos A. Hernandez-Ortega et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00004">2509.00004</a></td>
 </tr>
 </tbody></table>

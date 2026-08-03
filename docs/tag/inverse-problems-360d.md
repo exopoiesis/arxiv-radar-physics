@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,17 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08215.html">A probabilistic approach to spectral analysis of Cauchy-type inverse problems: Convergence and stability analysis</a></div></td>
 <td>Iulian Cîmpean et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08215">2508.08215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07700.html">Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Adrian Celaya et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07700">2501.07700</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05793.html">On the Choice of Subspace for the Quasi-minimal Residual Method for Linear Inverse Problems</a></div></td>
-<td>Moshen Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05793">2508.05793</a></td>
 </tr>
 </tbody></table>

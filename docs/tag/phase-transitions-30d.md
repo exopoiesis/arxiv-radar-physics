@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00516.html">Machine Learning Compatible CALPHAD-type Optimization from Phase Equilibria by Auto-differentiation</a></div></td>
+<td>Wenhao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00516">2608.00516</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16481.html">Representation-Dependent Machine Learning of the Isotropic-Nematic Transition in the Lebwohl-Lasher Model</a></div></td>
 <td>Maninder Kaur et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04915.html">How Hard Is Quantum Advantage? A Cloud Microphysics Stress Test for Variational Quantum Models</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Felix Herbort et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04915">2607.04915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03703.html">Explainable Reinforcement Learning for Adaptive Traffic Signal Control</a></div></td>
-<td>Dickens Kwesiga et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03703">2607.03703</a></td>
 </tr>
 </tbody></table>

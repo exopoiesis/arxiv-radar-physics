@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,11 +620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10034.html">Jet Image Tagging Using Deep Learning: An Ensemble Model</a></div></td>
 <td>Juvenal Bassa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10034">2508.10034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08183.html">Converting sWeights to Probabilities with Density Ratios</a></div></td>
-<td>D. I. Glazier et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08183">2409.08183</a></td>
 </tr>
 </tbody></table>

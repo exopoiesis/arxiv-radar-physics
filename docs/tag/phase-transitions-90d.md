@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00516.html">Machine Learning Compatible CALPHAD-type Optimization from Phase Equilibria by Auto-differentiation</a></div></td>
+<td>Wenhao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00516">2608.00516</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16481.html">Representation-Dependent Machine Learning of the Isotropic-Nematic Transition in the Lebwohl-Lasher Model</a></div></td>
 <td>Maninder Kaur et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div></td>
-<td>Truong Xuan Khanh</td>
-<td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
 </tr>
 </tbody></table>

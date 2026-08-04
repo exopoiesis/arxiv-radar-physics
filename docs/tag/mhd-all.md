@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mhd — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00675.html">Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors</a></div><div class="paper-tags"><a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a></div></td>
+<td>Alexander Scheinker</td>
+<td><a href="http://arxiv.org/abs/2608.00675">2608.00675</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17361.html">Extreme Ultraviolet Microflashes at Plume Bases: A Candidate for Powering the Corona and Solar Wind?</a></div></td>

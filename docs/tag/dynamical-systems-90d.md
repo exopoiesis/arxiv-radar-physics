@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00852.html">HyperODE: Zero-Shot Surrogate for Simulation and Inference of Dynamical Systems</a></div></td>
+<td>Ajitesh Srivastava</td>
+<td><a href="http://arxiv.org/abs/2608.00852">2608.00852</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
@@ -722,23 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04917.html">Koopman Identification of Nonlinear Systems via Reservoir Liftings</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
 <td>Weibin Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04917">2605.04917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03511.html">Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Zhao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03511">2605.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04337.html">Symbolic Regression via Neural Networks</a></div></td>
-<td>Nibodh Boddupalli et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04337">2605.04337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08176.html">Physics-Modeled Neural Networks</a></div></td>
-<td>Raul Felipe-Sosa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08176">2605.08176</a></td>
 </tr>
 </tbody></table>

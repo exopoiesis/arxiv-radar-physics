@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00934.html">Unified remnant models for aligned-spin, precessing, and eccentric binary black hole mergers</a></div></td>
+<td>Tousif Islam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00934">2608.00934</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25672.html">AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>

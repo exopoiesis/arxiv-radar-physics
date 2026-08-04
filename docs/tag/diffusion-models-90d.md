@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01029.html">Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots</a></div></td>
+<td>Kento Kawaharazuka et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01029">2608.01029</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div></td>
@@ -626,29 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Yifan F. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03497.html">GRIFDIR: Graph Resolution-Invariant FEM Diffusion Models in Function Spaces over Irregular Domains</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>James Rowbottom et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03497">2605.03497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03573.html">Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a> · <a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
-<td>Jian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03573">2605.03573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03802.html">Towards accurate extreme event likelihoods from diffusion model climate emulators</a></div></td>
-<td>Peter Manshausen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03802">2605.03802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04291.html">Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion</a></div></td>
-<td>Tarun Kathuria et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04291">2605.04291</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">706 papers</span>
+  <span class="paper-count">705 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00852.html">HyperODE: Zero-Shot Surrogate for Simulation and Inference of Dynamical Systems</a></div></td>
+<td>Ajitesh Srivastava</td>
+<td><a href="http://arxiv.org/abs/2608.00852">2608.00852</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
@@ -4238,17 +4244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07471.html">Modeling bias in decision-making attractor networks</a></div></td>
 <td>Safaan Sadiq</td>
 <td><a href="http://arxiv.org/abs/2508.07471">2508.07471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13392.html">Continuous-time Data-driven Barrier Certificate Synthesis</a></div></td>
-<td>Luke Rickard et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13392">2503.13392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20402.html">Equilibrium Propagation for Dissipative Dynamics</a></div></td>
-<td>Marc Berneman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20402">2506.20402</a></td>
 </tr>
 </tbody></table>

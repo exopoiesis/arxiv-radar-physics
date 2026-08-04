@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10478.html">The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network</a></div></td>
 <td>Oluwaseyi Giwa et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10478">2509.10478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09197.html">MX-AI: Agentic Observability and Control Platform for Open and AI-RAN</a></div></td>
-<td>Ilias Chatzistefanidis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09197">2508.09197</a></td>
 </tr>
 </tbody></table>

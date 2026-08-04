@@ -1,0 +1,471 @@
+{
+ "2608.00379": {
+  "abstract": "Explicit magnetic core loss equations with simple expressions and physical interpretability are significant tools in the design of high-frequency power magnetics. Traditional fits to empirical data like the Steinmetz Equation (SE) often struggle with accuracy, whereas modern machine learning approaches improve precision but deviate from physics. To fill this gap, this paper proposes a Learnable Symbolic Sparse Identification (LSSI) framework for data-driven equation discovery. Specifically, LSSI reformulates magnetic core loss equations for sinusoidal drives as a symbolic regression problem derived directly from experimental data. Building upon the SE, an expanded library of candidate functions are introduced and a sparse identification framework is implemented to select the dominant ones. More importantly, crucial parameters like exponents and coefficients of candidate functions are treated as learnable ones, simultaneously achieving equation simplicity and high expressiveness of the underlying fractional power laws. Experimental results demonstrate that LSSI achieves superior accuracy with a state-of-the-art $\\mathbf{R^2}$ of $\\mathbf{0.9999}$ and a MAPE of $\\mathbf{1.04\\%}$ through a highly compact explicit equation containing only $\\mathbf{4}$ active terms. Furthermore, it drastically reduces the parameter count from $\\mathbf{4417}$ in neural network methods to $\\mathbf{15}$, showcasing exceptional compactness and efficiency. The LSSI framework thus provides a physically transparent and highly accurate solution suitable for complex modern magnetic characterization and design.",
+  "authors": [
+   "Haoyu Wang",
+   "Jialin Zheng",
+   "Yihao Wu",
+   "Ziyang Xu",
+   "Alex Hanson"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Haoyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.00379",
+  "primary_category": "eess.SY",
+  "published": "2026-08-01",
+  "tags": [
+   "equation-discovery",
+   "symbolic-regression"
+  ],
+  "title": "Discovering Explicit Magnetic Core Loss Equations via Learnable Symbolic Sparse Identification",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00400": {
+  "abstract": "Nonlocal partial differential equations arise in many applications but are often difficult to model and learn because of the presence of nonlocal operators. We present a flow-map learning (FML) framework for modeling unknown nonlocal PDEs directly from solution data. Rather than learning or approximating the underlying nonlocal operators, the proposed approach learns the finite-time evolution operator in either modal or nodal space. Two complementary formulations are developed for spectral and grid-based solution representations. Numerical experiments on one- and two-dimensional fractional diffusion and wave equations demonstrate accurate and stable long-time prediction using only short observation windows. The proposed approach provides an effective data-driven framework for learning unknown nonlocal dynamics without explicit evaluation of nonlocal operators.",
+  "authors": [
+   "Zhongshu Xu",
+   "Ying Li",
+   "Yanzhi Zhang",
+   "Dongbin Xiu"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.DS",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Zhongshu Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.00400",
+  "primary_category": "cs.LG",
+  "published": "2026-08-01",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Modeling Unknown Nonlocal PDE Systems via Flow Map Learning",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00461": {
+  "abstract": "The Jiangmen Underground Neutrino Observatory (JUNO) reconstructs each event's vertex and energy with OMILREC, a maximum-likelihood fit that scans all $17{,}612$ large photomultiplier tubes (LPMTs) in every Minuit function evaluation, about $470$ times per event. This inner loop dominates the reconstruction CPU cost. Profiling shows that the production algorithm is latency-bound, sustaining only $9.9%$ of scalar floating-point peak because of virtual-function dispatch, ROOT-histogram pointer chasing, and repeated computation. We apply staged \\emph{equivalence-preserving} optimizations: flattened data layouts, vectorizable geometry, hoisting of Minuit-invariant work, per-event precomputation, fit-phase loop splitting and indexing, and reduced-precision fast paths. Each stage is checked against a frozen reference from the unmodified code. The optimized implementation achieves single-thread speedups of $8.06\\times$ ($1524.8 \\rightarrow 189.2$~ms/event) on an Intel Xeon Platinum~8358P and $5.22\\times$ ($705.1 \\rightarrow 134.9$~ms/event) on an AMD~EPYC~9654, increasing to $8.6\\times$ ($177.7$~ms/event) after further optimization. The likelihood remains bit-identical through the first seven releases and later agrees within a relative drift of $1.3\\times10^{-14}$, below the $10^{-13}$ contract. For typical events, reconstructed vertex and energy agree with the baseline within $4$~mm and $7$~keV; a few boundary cases reach different valid minima owing to an improved minimizer seed. An eight-metric physics-acceptance test also passes on about $861{,}000$ $^{68}$Ge calibration events. Developed with assistance from an AI coding agent operating under these verification gates, this workflow offers a transferable template for accelerating likelihood-based reconstruction in large neutrino and collider detectors without changing physics output.",
+  "authors": [
+   "Guangbao Sun",
+   "Qishan Liu",
+   "Wenjie Wu",
+   "Jun Cao",
+   "Xuefeng Ding",
+   "Wenxing Fang",
+   "Wuming Luo",
+   "Liangjian Wen",
+   "Zeyuan Yu",
+   "Xiang Zhou"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "hep-ex"
+  ],
+  "comment": "7 pages, 1 figure",
+  "first_author": "Guangbao Sun",
+  "pdf_url": "http://arxiv.org/pdf/2608.00461",
+  "primary_category": "physics.ins-det",
+  "published": "2026-08-01",
+  "tags": [],
+  "title": "An eightfold equivalence-preserving speedup of the JUNO OMILREC vertex and energy reconstruction",
+  "topics": [
+   "Particle & High Energy Physics"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00492": {
+  "abstract": "Predictive coding offers a powerful theory of cortical computation, but corresponding scalable algorithmic implementations for artificial intelligence have remained elusive. This paper introduces the Bayesian reflex, a computational framework that directly instantiates predictive coding through three pillars: belief maintenance via hierarchical generative models, sequential Bayesian updating via prediction-error minimization, and uncertainty-driven action via active inference. We show that recent breakthroughs---ellipsoidal decomposition for exact $i.i.d.$ sampling, recursive Gaussian processes for deep hierarchical inference, and derivative-aware Bayesian optimization---provide the missing algorithmic ingredients. The resulting framework enables mathematically principled, scalable, and brain-inspired continual learning, perception, and decision-making. We illustrate its versatility through applications ranging from climate model evaluation to prime number discovery, offering a blueprint for truly adaptive artificial intelligence.",
+  "authors": [
+   "Sourabh Bhattacharya"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "From the Bayesian Brain to Artificial Intelligence",
+  "first_author": "Sourabh Bhattacharya",
+  "pdf_url": "http://arxiv.org/pdf/2608.00492",
+  "primary_category": "cs.AI",
+  "published": "2026-08-01",
+  "tags": [],
+  "title": "The Bayesian Reflex: A Predictive Coding Engine for Artificial Intelligence",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00516": {
+  "abstract": "To accurately determine phase boundaries and phase transitions, thermodynamic models that describe free energies of phases often have to be optimized based on experimentally observed phase equilibria. While different approaches exist for thermodynamic optimizations, these approaches are often implemented in ways that are not compatible with machine learning workflows that requires differentiable calculation of loss function. In this work, we derive a phase equilibrium loss function based on thermodynamic potentials that can be efficiently evaluated and enable gradient based optimization by auto-differentiation in the PyTorch package. By minimizing this loss function, general thermodynamic model parameters can be optimized with respect to experimental phase equilibria data. Using thermodynamic models in the CALculation of PHAse Diagram (CALPHAD) framework, We illustrate successful and efficient optimization in different systems including ternary ones with more than 100 parameters. As the loss function is defined independently of the details of the thermodynamic models, it can be used to optimize machine learning thermodynamic models in general. In particular, we demonstrate a top-down optimization of atomistic potential from target phase equilibria.",
+  "authors": [
+   "Wenhao Zhang",
+   "Jean-Claude Crivello",
+   "Yusuke Matsuoka",
+   "Toshiyuki Koyama",
+   "Taichi Abe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Wenhao Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.00516",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-01",
+  "tags": [
+   "phase-transitions"
+  ],
+  "title": "Machine Learning Compatible CALPHAD-type Optimization from Phase Equilibria by Auto-differentiation",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00529": {
+  "abstract": "Integration and sampling in high dimensions are among central challenges in modern science and technology, underlying applications ranging from quantum many-body physics to Bayesian inference and artificial intelligence. Although conventional Monte Carlo methods are formally scalable, their efficiency deteriorates rapidly in the presence of strong correlations or sharp features in high-dimensional configuration space. Here we introduce a new framework, termed the Schr\"odinger Generator, for integration and sampling based on the explicit optimization of coordinate transformations. The method decomposes the total Jacobian into two complementary components, including an adaptive map that minimizes estimator variance by learning the marginal structure in each dimension, and a normalizing-flow-based transformation that captures non-factorizable correlations in the target distribution. A final resampling step guarantees unbiased sampling even when the learned transformation is imperfect. We demonstrate stable and scalable performance for nuclear quantum many-body states in dimensions exceeding 600. Short-range correlations among nucleons in finite nucleus are faithfully reproduced. The framework offers a physically transparent approach to high-dimensional stochastic integration and sampling, opening new possibilities for simulations of complex quantum systems.",
+  "authors": [
+   "Lin-Jing Jiang",
+   "Fu Ma",
+   "Pei Li",
+   "Kai-Jia Sun",
+   "Guo-Liang Ma",
+   "Yu-Gang Ma"
+  ],
+  "categories": [
+   "nucl-th",
+   "quant-ph"
+  ],
+  "comment": "10 pages, 5 figures",
+  "first_author": "Lin-Jing Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2608.00529",
+  "primary_category": "nucl-th",
+  "published": "2026-08-01",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "Schrödinger Generator for High-Dimensional Integration and Sampling on Quantum Many-Body States",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00537": {
+  "abstract": "Latent Flow Models have revolutionized compressed-space image synthesis, yet their application to high-fidelity inverse problems remains bottlenecked. In this paper, we trace this dilemma to a fundamental geometric limitation of pre-trained autoencoders, which we term \\emph{First-Order Manifold Blindness}. Severe decoder compression (e.g., retaining only $\\sim\\!2\\%$ of the original degrees of freedom) produces a rank-deficient Jacobian, rendering high-frequency measurement residuals in its orthogonal complement invisible to latent gradients even when the decoder can represent the target image. To overcome this bottleneck, we propose Hybrid-Domain Posterior Sampling (HDPS), a decoupled inference framework that disentangles physical measurement consistency from semantic prior modeling. HDPS diverges into the pixel space, leveraging Langevin dynamics to absorb precise orthogonal measurement gradients, and subsequently projects these structural corrections back onto the generative manifold. An optimization-based latent alignment is introduced to filter pixel-space artifacts while avoiding the semantic drift of direct encoding. Extensive experiments on diverse inverse problems demonstrate that HDPS establishes a new state-of-the-art, successfully recovering the high-frequency structural precision that latent-only solvers inherently discard. The code is available at \\href{https://github.com/74587887/HDPS}{https://github.com/74587887/HDPS}.",
+  "authors": [
+   "Hongjie Wu",
+   "Yiping Xie",
+   "Jiancheng Lv"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted to ACM Multimedia 2026",
+  "first_author": "Hongjie Wu",
+  "pdf_url": "http://arxiv.org/pdf/2608.00537",
+  "primary_category": "cs.CV",
+  "published": "2026-08-01",
+  "tags": [
+   "inverse-problems"
+  ],
+  "title": "Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00571": {
+  "abstract": "Learning solution operators for differential equations is a central problem in scientific machine learning. However, many neural operator methods optimize prediction accuracy without explicitly enforcing the geometric structure of the dynamics. Structure-preserving models such as SympNets and Symplectic Neural Flows address this issue for conservative Hamiltonian systems by preserving the symplectic form. In dissipative Hamiltonian systems with conformal symplectic structure, however, the symplectic form evolves according to a conformal factor determined by the dissipation. We propose CoSynFlow, a conformal symplectic neural flow for learning continuous-time solution maps of dissipative Hamiltonian dynamics. CoSynFlow composes symplectic shear maps with explicit conformal scaling, preserving the conformal symplectic structure by construction. By conditioning it on a finite-dimensional Hamiltonian descriptor and the dissipation parameter, a single trained model predicts solution maps for unseen systems without retraining. CoSynFlow keeps the structure error at machine precision, attains the lowest long-horizon error, and admits physics-informed training.",
+  "authors": [
+   "Baige Xu",
+   "Takaharu Yaguchi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Baige Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.00571",
+  "primary_category": "cs.LG",
+  "published": "2026-08-01",
+  "tags": [
+   "scientific-machine-learning"
+  ],
+  "title": "CoSynFlow: Conformal Symplectic Neural Flows for Cross-System Prediction of Dissipative Hamiltonian Dynamics",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00673": {
+  "abstract": "In the field of solid dynamics, knowing the corresponding modal basis of the system is capital, in order to improve design with respect to a desired dynamical behavior, such as avoiding natural frequencies at specific values or designing mechanical systems that can account for desired frequency spectrum. However, the determination of the modal basis involve the resolution of an eigenvalue problem, which can be expensive to perform for large systems, especially when dealing with a optimization of a parametric system design. In the present work, we propose to determine the parametrization of modal basis by considering an advanced Deep Learning technique based on the Rank Reduction AutoEncoder (RRAE). The RRAE is based on an autoencoder whose latent space is constrained through a truncated Singular Value Decomposition (SVD) approximation. This formulation enables the latent space to capture the dominant features of the data efficiently. As a result, the autoencoder is guided toward learning the underlying physical behavior represented across the dataset, mitigating overfitting and spurious predictions. The main idea consists of identifying a reduced parameter space using the RRAE for the first eigenvector, while the remaining modes are subsequently reconstructed through neural networks that take the same reduced parameter space as input, thereby coupling all modes in a nonlinear parametric framework. The proposed architecture is validated through the parametrization of the modal basis in 1D and 2D problems.",
+  "authors": [
+   "Sebastian Rodriguez",
+   "Sergio Torregrosa",
+   "Alicia Cordero",
+   "Juan R. Torregrosa",
+   "Mustapha Ziane",
+   "Francisco Chinesta"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Sebastian Rodriguez",
+  "pdf_url": "http://arxiv.org/pdf/2608.00673",
+  "primary_category": "cs.CE",
+  "published": "2026-08-01",
+  "tags": [],
+  "title": "A plausible Parametrization of Modal Basis for Dynamical Systems Analysis",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00675": {
+  "abstract": "Autoregressive models accumulate error over long rollouts, yet at deployment there is no ground truth to measure it against. We train a single conditional latent diffusion model that steps a dynamical system forward or backward in time via a direction flag, and show that this bidirectionality supplies a measurement-free test-time error signal: rolling forward $i$ steps and then backward $i$ steps must return the model to its start, so the round-trip discrepancy $\\mathcal{C}_i$ is a self-supervised proxy for the unobservable rollout error: no ensembles, no held-out data, no governing equations, for one extra rollout. We validate on compressible magnetohydrodynamics (MHD), an astrophysical turbulent radiative mixing layer, and natural face videos (CelebV-HQ). On held-out MHD trajectories, $\\mathcal{C}_i$ ranks rollout error (Spearman $0.91$-$0.98$ at fixed depth; $0.69 \\pm 0.16$ within trajectories), and a simple calibrator fit on training rollouts predicts its magnitude to within $1.14\\times$ ($68\\%$) and $1.29\\times$ ($95\\%$) with near-nominal coverage - one nat beyond a depth-only predictor, transferring to all six decoded physical fields. The same signal flags the out-of-distribution Orszag-Tang vortex (AUROC $0.98$; $1.0$ by depth $10$) exactly where sampling-dispersion baselines invert, and it cuts incurred error by $15\\%$ at $80\\%$ coverage - three times the depth-only baseline. Bidirectional training comes at negative cost, beating direction specialists in both directions, and the backward direction doubles as a fast inverse solver. On LE-PDE-UQ's turbulent Navier-Stokes benchmark, a single bidirectional model reaches accuracy within $1.3\\times$ of their ten-model ensemble at a tenth of the training cost, with the best training-free pixel-level calibration. Round-trip consistency turns reversibility into a practical trust signal for generative models.",
+  "authors": [
+   "Alexander Scheinker"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.comp-ph",
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Alexander Scheinker",
+  "pdf_url": "http://arxiv.org/pdf/2608.00675",
+  "primary_category": "stat.ML",
+  "published": "2026-08-01",
+  "tags": [
+   "magnetohydrodynamics",
+   "mhd"
+  ],
+  "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+  "topics": [
+   "Astrophysics & Cosmology",
+   "Dynamical Systems & PDE Learning",
+   "Fluid Dynamics & Plasma Physics",
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00723": {
+  "abstract": "We investigate traveling fronts in a lossy nonlinear transmission line. By prescribing a hyperbolic-tangent profile with dimensionless width $m$, we solve the inverse problem of determining the voltage--charge relation for which this profile is an exact solution. The exact relation is expressed in terms of the Gauss hypergeometric function. We also construct an approximate solution by assuming a cubic voltage--charge relation and replacing the resulting quadratic damping function with its optimal linear least-squares approximation. This construction determines the cubic coefficients and yields a modified governing equation that admits the prescribed profile as an exact solution. In both constructions, physical admissibility selects a shock front. In the broad-front limit, the approximate normalized force agrees with the exact result through order $m^{-2}$; numerical comparisons show that the agreement remains good even outside the asymptotic region of large $m$. Finally, a characteristic analysis of the original partial differential equations distinguishes compressive shocks from noncompressive kinks without recourse to the mechanical analogy.",
+  "authors": [
+   "Eugene Kogan"
+  ],
+  "categories": [
+   "nlin.PS"
+  ],
+  "comment": "pdfLaTeX, 7+epsilon pages, 5 Figures",
+  "first_author": "Eugene Kogan",
+  "pdf_url": "http://arxiv.org/pdf/2608.00723",
+  "primary_category": "nlin.PS",
+  "published": "2026-08-01",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Hyperbolic-Tangent Shocks in a Lossy Nonlinear Transmission Line",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00760": {
+  "abstract": "Gradient-based Bayesian inference methods require efficient access to Jacobian and adjoint-Jacobian operators of high-dimensional forward models. While multigrid solvers provide near-optimal complexity for elliptic partial differential equations, they are rarely available in forms compatible with automatic differentiation (AD). We develop a differentiable multigrid solver for steady-state diffusion-absorption problems and derive its adjoint operations analytically through the full multigrid hierarchy. The resulting solver, DMGS, is implemented in C++ and interfaced with JAX to provide efficient Jacobian-vector and vector-Jacobian products for variational inference in the NIFTy framework. We validate the approach on a 3D inverse problem involving diffuse radiative transfer in tissue, reconstructing an effective radiative source from Monte Carlo-simulated data. The reconstruction reproduces the data at a reduced chi-squared of 1.1 and generalizes to 32 independent validation datasets. Benchmarks against a JAX-native multigrid implementation show comparable runtimes and consistently lower peak memory for the hand-derived adjoint, with modest reverse-mode overhead. These results establish differentiable multigrid solvers as practical building blocks for variational inference in PDE-constrained problems.",
+  "authors": [
+   "Andrés Ramírez",
+   "Philipp Haim",
+   "David Föger",
+   "Torsten A. Enßlin",
+   "Philipp Frank",
+   "Philipp Gschwandtner",
+   "Dominik Jüstel",
+   "Philipp Mertsch",
+   "Vo Hong Minh Phan",
+   "Laurin Söding",
+   "Hanieh Zandinejad",
+   "Ralf Kissmann"
+  ],
+  "categories": [
+   "math.NA",
+   "physics.med-ph",
+   "stat.CO"
+  ],
+  "comment": "18 pages, 13 figures, 1 table",
+  "first_author": "Andrés Ramírez",
+  "pdf_url": "http://arxiv.org/pdf/2608.00760",
+  "primary_category": "math.NA",
+  "published": "2026-08-01",
+  "tags": [
+   "bayesian-inference",
+   "partial-differential-equations"
+  ],
+  "title": "Variational Inference Using a Differentiable Multigrid Linear Solver",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00850": {
+  "abstract": "Physics-informed neural networks (PINNs) have emerged as a versatile approach for solving nonlinear partial differential equations (PDEs), yet achieving high accuracy efficiently using these techniques remains challenging for high-dimensional or multiscale systems. Here, we present a hybrid quantum-classical framework that enhances Quantum PINNs (QPINNs) through adaptive collocation point sampling and loss-aware attention mechanisms. By dynamically prioritizing points in regions with large PDE residuals or steep solution gradients, our method mitigates the spectral bias inherent in conventional PINNs. Current Quantum Physics-Informed Neural Networks are commonly assumed to be limited by the expressive power of quantum circuits. In our work, we observed that, across diverse differential equations, optimization - not only expressivity - can be an important bottleneck. Furthermore, a trainable loss-weighting scheme balances contributions from physics residuals, boundary conditions, and data fidelity during training. Integrating these strategies with quantum computing techniques (including variational quantum circuits and quantum gradient estimation) can yield at least a 60% improvement in solution accuracy under specific regimes for benchmark fluid flows and reaction-diffusion systems. Finally, we argue that merely increasing model expressivity is insufficient for resolving complex PDEs via QPINNs, as they remain constrained by the structural optimization limitations of classical PINNs. This framework provides a scalable pathway for quantum-enhanced scientific machine learning, bridging physics-based modeling with emerging quantum computational capabilities.",
+  "authors": [
+   "Fabio Pereira dos Santos",
+   "Renato Portugal",
+   "Júlio de Castro Vargas Fernandes",
+   "Lucas Timotheo Sanches"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Fabio Pereira dos Santos",
+  "pdf_url": "http://arxiv.org/pdf/2608.00850",
+  "primary_category": "cs.LG",
+  "published": "2026-08-01",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns",
+   "scientific-machine-learning"
+  ],
+  "title": "Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00852": {
+  "abstract": "Understanding and controlling complex dynamical systems often requires executing thousands of numerical simulations across vast parametric landscapes, which is time-consuming. Machine learning surrogates significantly accelerate simulation by predicting state trajectories across different initializations and parameter values. However, surrogate models are specialized to one simulation model. Modifying the underlying differential equations - e.g., adding a physiological state or altering an epidemiological contact network - renders trained models obsolete and forces computationally expensive retraining from scratch. We introduce HyperODE, a surrogate capable of operating across an entire class of approximately mass-conserving compartmental models without retraining. By mapping the structure of ordinary differential equations (ODEs) into directed hypergraphs, HyperODE decouples the functional form of system interactions from the neural network architecture. HyperODE takes a compartmental model in the form of an ODE with an arbitrary parameter distribution defined through quantiles and transforms it into a hypergraph. It outputs the distribution of the trajectories for all the states in the original ODE in the form of quantiles. We then use this surrogate to build an encoder that takes a noisy trajectory and outputs a distribution over the parameters of the original ODE, thus calibrating the model in a single pass. On families and system sizes never seen in training, HyperODE produces calibrated quantile bands in a single forward pass, with weighted-interval score and coverage on par with specialized surrogates for each structure. For inverse inference, HyperODE produces calibration from noisy state trajectories in a few milliseconds with a single shared encoder, competitive with existing methods. HyperODE extends zero-shot to ODEs that break mass conservation and to external forcing.",
+  "authors": [
+   "Ajitesh Srivastava"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "13 pages, 14 figures",
+  "first_author": "Ajitesh Srivastava",
+  "pdf_url": "http://arxiv.org/pdf/2608.00852",
+  "primary_category": "cs.LG",
+  "published": "2026-08-01",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "HyperODE: Zero-Shot Surrogate for Simulation and Inference of Dynamical Systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00856": {
+  "abstract": "The dispersion of reactive solutes in shear flows is governed by the interplay between advective stretching, transverse diffusion, and boundary exchange kinetics. While classical analytical methods and grid-based numerical solvers have extensively characterised these transport mechanisms, accurately resolving the spatiotemporal evolution of solute plumes in asymmetric reactive environments remains computationally demanding. In this study, we introduce a physics-informed neural network (PINN) framework to simulate two-dimensional wall-reactive solute dispersion in canonical shear flows (Couette, Poiseuille, and Couette-Poiseuille) bounded by absorbing walls. By embedding the governing convection-diffusion equation and Robin boundary conditions into a unified loss function, the mesh-free PINN reconstructs the spatiotemporal concentration field. The network predictions are validated against an alternating-direction implicit (ADI) finite-difference benchmark, showing close agreement across non-reactive, symmetric, and asymmetric reactive regimes. The computations are carried out at $\\mathrm{Pe}=10$ for impermeable walls, symmetric absorption $(β_1,β_2)=(1,1)$, and tenfold asymmetric wall-reactivity contrasts $(β_1,β_2)=(0.2,2)$ and (2,0.2). Leveraging the differentiable nature of the trained PINN, we extract wall-resolved transport diagnostics, including the apparent axial dispersion coefficient, cumulative wall-removal dynamics, and localised uptake fluxes. The results show that the imposed shear profile governs the streamwise organisation of reactive uptake, while unequal wall reactivities induce transverse asymmetry that modifies the macroscopic spreading rate. Overall, this framework establishes PINNs as an interpretable mesh-free tool for analysing boundary-coupled reactive transport in shear flows.",
+  "authors": [
+   "Nanda Poddar",
+   "Subham Dhar"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math-ph",
+   "physics.comp-ph",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Nanda Poddar",
+  "pdf_url": "http://arxiv.org/pdf/2608.00856",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-01",
+  "tags": [
+   "pinns"
+  ],
+  "title": "Physics-informed neural networks for two-dimensional wall-reactive solute dispersion in canonical shear flows",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00879": {
+  "abstract": "Leaf Area Index (LAI) is a fundamental biophysical variable governing land-atmosphere interactions; however, LAI forecasting at high spatial resolution remains an unsolved challenge. While recent machine learning approaches have demonstrated LAI estimation at point or regional scales, none provides a gridded, meteorology-driven prognostic forecast suitable for subseasonal land surface and climate modeling applications. Here we present a sequence-to-sequence Convolutional LSTM (ConvLSTM) framework that generates daily 1-km LAI forecasts up to 30 days ahead, driven by historical LAI sequences and daily meteorological forcing including temperature and precipitation. Trained and evaluated over the South-Central United States -- a region of strong climate gradients and diverse vegetation -- the model achieves a domain-averaged RMSE of 0.36 at a 30-day lead time, more than a third lower than the persistence baseline. Forecast skill remains robust across seasons, geographic distributions, and plant functional types, including forests, grasslands, shrublands, and croplands. To our knowledge, this is the first demonstration of skillful LAI forecasting at a 30-day horizon at 1-km resolution.",
+  "authors": [
+   "Zhixing Ruan",
+   "Lixin Lu"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zhixing Ruan",
+  "pdf_url": "http://arxiv.org/pdf/2608.00879",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-01",
+  "tags": [
+   "climate-modeling"
+  ],
+  "title": "A Sequence-to-Sequence ConvLSTM Approach for Leaf Area Index Forecasting over the South-Central United States",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00934": {
+  "abstract": "Using approximately $5000$ numerical-relativity (NR) simulations spanning mass ratios up to $q=128$ and $1200$ black-hole-perturbation-theory (BHPT) simulations extending to $q=1000$, we present fully analytic models for the remnant properties of quasi-circular binary black hole mergers. The models gwModelRemS (for final mass, final spin, peak luminosity, and recoil kick) and gwModelRemP (for final mass, final spin, and peak luminosity) describe nonprecessing and precessing binaries, respectively. Our approach combines analytic insights from post-Newtonian theory and point-particle limits with a data-driven fitting framework which also includes validation-guided AI-agent-assisted optimization. The resulting fits outperform existing analytic models and achieve accuracies comparable to data-driven models within their domains of validity. We also construct gwModelRemP\\_flow, a normalizing-flow model for recoil kicks from precessing binaries, marginalized over the in-plane spin orientations. This model additionally utilizes an enlarged low-fidelity training set, beyond the available NR and BHPT simulations, constructed through a waveform-based data-augmentation procedure. We also include simple eccentric extensions through leading-order dependence on eccentricity and orbital anomaly. The models span the equal-mass to extreme-mass-ratio regimes and are publicly available through the gwModels package for applications in gravitational-wave astronomy, astrophysical population studies, and cosmology.",
+  "authors": [
+   "Tousif Islam",
+   "Digvijay Wadekar",
+   "Gaurav Khanna"
+  ],
+  "categories": [
+   "gr-qc",
+   "astro-ph.HE"
+  ],
+  "comment": "Models are available through https://github.com/tousifislam/gwModels/",
+  "first_author": "Tousif Islam",
+  "pdf_url": "http://arxiv.org/pdf/2608.00934",
+  "primary_category": "gr-qc",
+  "published": "2026-08-02",
+  "tags": [
+   "cosmology"
+  ],
+  "title": "Unified remnant models for aligned-spin, precessing, and eccentric binary black hole mergers",
+  "topics": [
+   "Astrophysics & Cosmology",
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-02"
+ },
+ "2608.01029": {
+  "abstract": "Musculoskeletal robots require an internal body schema that remains consistent under a wide range of physical state changes, including abnormalities such as muscle rupture and actuator jamming. Conventional approaches based on autoencoders or variational autoencoders learn average behaviors by projecting sensor and actuator signals into a low-dimensional latent space; however, exploration within the latent space alone has limited capability to handle out-of-distribution or abnormal states that are not included in the training data. To address this limitation, this study proposes a diffusion-based framework for body schema learning in musculoskeletal robots. Unlike generative models that operate through low-dimensional latent spaces, diffusion models can directly and iteratively estimate physically consistent sensor and actuator values in the high-dimensional space through a denoising process, even under partial observations and constraints, without requiring retraining. By formulating body schema adaptation as a gradient-guided denoising process, the proposed method enables adaptive estimation of appropriate muscle lengths and muscle tensions even under abnormal conditions such as muscle rupture and actuator jamming. The validity of the proposed framework is verified through simulation experiments using a musculoskeletal robot model.",
+  "authors": [
+   "Kento Kawaharazuka",
+   "Shuhei Ikemoto"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Accepted to IEEE Robotics and Automation Letters (RA-L), website - https://haraduka.github.io/muscle-diffusion/",
+  "first_author": "Kento Kawaharazuka",
+  "pdf_url": "http://arxiv.org/pdf/2608.01029",
+  "primary_category": "cs.RO",
+  "published": "2026-08-02",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-08-02"
+ }
+}

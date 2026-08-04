@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">601 papers</span>
+  <span class="paper-count">600 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01029.html">Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots</a></div></td>
+<td>Kento Kawaharazuka et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01029">2608.01029</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25321.html">Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision</a></div></td>
@@ -3608,17 +3614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06834.html">A Score-based Diffusion Model Approach for Adaptive Learning of Stochastic Partial Differential Equation Solutions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Toan Huynh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06834">2508.06834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05950.html">A 3DGS-Diffusion Self-Supervised Framework for Normal Estimation from a Single Image</a></div></td>
-<td>Yanxing Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05950">2508.05950</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06487.html">Weak approximation of stochastic differential equations with sticky boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Akash Sharma</td>
-<td><a href="http://arxiv.org/abs/2508.06487">2508.06487</a></td>
 </tr>
 </tbody></table>

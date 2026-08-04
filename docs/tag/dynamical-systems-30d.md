@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00852.html">HyperODE: Zero-Shot Surrogate for Simulation and Inference of Dynamical Systems</a></div></td>
+<td>Ajitesh Srivastava</td>
+<td><a href="http://arxiv.org/abs/2608.00852">2608.00852</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
 <td>Behrad Samari et al.</td>
@@ -188,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04493.html">Beyond DSA: Conjugacy-based Comparison of Dynamical Systems</a></div></td>
 <td>Prakhar Godara et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04493">2607.04493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03713.html">Learning Robust Control Lyapunov Functions through Lipschitz Neural Networks</a></div></td>
-<td>Shiqing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03713">2607.03713</a></td>
 </tr>
 </tbody></table>

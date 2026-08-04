@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">512 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3086,11 +3086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07948.html">Frequency-Domain Analysis of Time-Dependent Multiomic Data in Progressive Neurodegenerative Diseases: A Proposed Quantum-Classical Hybrid Approach with Quaternionic Extensions</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="vqe-360d.html">vqe</a></div></td>
 <td>John D. Mayfield</td>
 <td><a href="http://arxiv.org/abs/2508.07948">2508.07948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06131.html">Enhancing the Scalability of Classical Surrogates for Real-World Quantum Machine Learning Applications</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Philip Anton Hernicht et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06131">2508.06131</a></td>
 </tr>
 </tbody></table>

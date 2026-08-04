@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00529.html">Schrödinger Generator for High-Dimensional Integration and Sampling on Quantum Many-Body States</a></div></td>
+<td>Lin-Jing Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00529">2608.00529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00760.html">Variational Inference Using a Differentiable Multigrid Linear Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Andrés Ramírez et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00760">2608.00760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26480.html">Feedback stabilization of multi-qubit Hamiltonian parameters enabled by single-shot measurement-based sequential Monte Carlo</a></div></td>
@@ -2660,11 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06852.html">An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Shuo Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06852">2508.06852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00525.html">Improving sampling by modifying the effective diffusion</a></div></td>
-<td>Tony Lelièvre et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00525">2410.00525</a></td>
 </tr>
 </tbody></table>

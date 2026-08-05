@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01850.html">Physics-Informed Neural Networks for Complex Eigenfrequency Identification and Mode Structure Reconstruction of the Ground-State ITG Branch</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Dengdi Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01850">2608.01850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Junjie Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00850.html">Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Fabio Pereira dos Santos et al.</td>
@@ -866,17 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06281.html">INEUS: Iterative Neural Solver for High-Dimensional PIDEs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Jean-Loup Dupret et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06281">2605.06281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04502.html">Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Isabela M. Yepes et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04502">2605.04502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04708.html">Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems</a></div></td>
-<td>Miloš Babić et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04708">2605.04708</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01217.html">Amortizing the Calibration Triple: A Projection-Consistent Neural Operator for Local-Stochastic Volatility</a></div></td>
+<td>Xiaozhen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01217">2608.01217</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27188.html">Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a></div></td>
 <td>Lennon J. Shikhman et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05134.html">PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Akshat Jani et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05134">2607.05134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04407.html">Quadrature-Aware Complex-Linear Neural Operator for Boundary-to-Field Prediction in Resonant Acoustics</a></div></td>
-<td>Muhammad Idrees Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04407">2607.04407</a></td>
 </tr>
 </tbody></table>

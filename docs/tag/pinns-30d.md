@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01850.html">Physics-Informed Neural Networks for Complex Eigenfrequency Identification and Mode Structure Reconstruction of the Ground-State ITG Branch</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Dengdi Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01850">2608.01850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Junjie Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00850.html">Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Fabio Pereira dos Santos et al.</td>
@@ -236,17 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05271.html">Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Qian Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05271">2607.05271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04285.html">Domain decomposition methods with Physics-informed neural networks for elliptic equations on manifolds</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Yufang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04285">2607.04285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04288.html">Mass weighting algorithm optimizes Fourier-based physics-informed neural network in adhesive contact mechanics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Yunong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04288">2607.04288</a></td>
 </tr>
 </tbody></table>

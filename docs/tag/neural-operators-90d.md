@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02036.html">Convex Neural Energy Elements: Monolithic Finite-Element Assembly of Geometry-Parameterized Neural Operators with Stability and Error Guarantees</a></div></td>
+<td>Hongyue Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02036">2608.02036</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23466.html">Extending Fourier Neural Operators for Modeling Parameterized and Coupled PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -716,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06873.html">One Operator for Many Densities: Amortized Approximation of Conditioning by Neural Operators</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Panos Tsimpos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06873">2605.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04832.html">Replay-Based Continual Learning for Physics-Informed Neural Operators</a></div></td>
-<td>Yizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04832">2605.04832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05488.html">A Robust Foundation Model for Conservation Laws: Injecting Context into Flux Neural Operators via Recurrent Vision Transformers</a></div></td>
-<td>Taeyoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05488">2605.05488</a></td>
 </tr>
 </tbody></table>

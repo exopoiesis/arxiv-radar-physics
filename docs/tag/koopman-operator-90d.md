@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>koopman-operator — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <strong>90d</strong> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02661.html">Beyond Invariant Dictionary: Data-Driven Koopman Spectral Recovery with Filtered Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Siji Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02661">2608.02661</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25086.html">On residual bounds, backward shadowing stability of the Extended Dynamic Mode Decomposition solution to the eigenvalue problem for the Koopman operator</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
@@ -92,17 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06199.html">Data-driven reconstruction of band dispersion and quantum geometry via Koopman dynamical mode decomposition</a></div></td>
 <td>Yiming Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06199">2605.06199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04917.html">Koopman Identification of Nonlinear Systems via Reservoir Liftings</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Weibin Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04917">2605.04917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05134.html">Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction</a></div></td>
-<td>Dan Wilson et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05134">2605.05134</a></td>
 </tr>
 </tbody></table>

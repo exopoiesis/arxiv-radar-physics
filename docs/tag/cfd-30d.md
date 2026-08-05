@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,23 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09763.html">Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design</a></div></td>
 <td>Wenhao Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09763">2607.09763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04491.html">Generalizable turbulence closures across bluff-body shapes by PINN-based solver-agnostic training</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04491">2607.04491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04495.html">U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="les-30d.html">les</a></div></td>
-<td>Shixiong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04495">2607.04495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06587.html">CoFINN: Conservation Flux Informed Neural Networks for Physics Problems Governed by Conservation Laws</a></div></td>
-<td>Adnan Harun Doğan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06587">2607.06587</a></td>
 </tr>
 </tbody></table>

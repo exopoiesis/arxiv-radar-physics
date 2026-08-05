@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">810 papers</span>
+  <span class="paper-count">809 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03360.html">Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Edgar Jaber et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03360">2608.03360</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00400.html">Modeling Unknown Nonlocal PDE Systems via Flow Map Learning</a></div></td>
@@ -4862,17 +4868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07994.html">Prediction error certification for PINNs: Theory, computation, and application to Stokes flow</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Birgit Hillebrecht et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07994">2508.07994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17230.html">MMET: A Multi-Input and Multi-Scale Transformer for Efficient PDEs Solving</a></div></td>
-<td>Yichen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17230">2506.17230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06834.html">A Score-based Diffusion Model Approach for Adaptive Learning of Stochastic Partial Differential Equation Solutions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06834">2508.06834</a></td>
 </tr>
 </tbody></table>

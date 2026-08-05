@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">707 papers</span>
+  <span class="paper-count">709 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02775.html">Towards a new paradigm of scientific discovery with socialized artificial intelligence</a></div></td>
+<td>Xinjie Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02775">2608.02775</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02662.html">Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers</a></div></td>
+<td>Farbod Faraji et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02662">2608.02662</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div></td>

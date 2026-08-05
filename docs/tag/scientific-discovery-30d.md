@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02775.html">Towards a new paradigm of scientific discovery with socialized artificial intelligence</a></div></td>
+<td>Xinjie Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02775">2608.02775</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02662.html">Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers</a></div></td>
+<td>Farbod Faraji et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02662">2608.02662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div></td>
 <td>Tianyou Bai et al.</td>
@@ -134,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05682.html">FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents</a></div></td>
 <td>Yufeng Wang</td>
 <td><a href="http://arxiv.org/abs/2607.05682">2607.05682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04108.html">Dictionaries, Not Darwin: Set-Level Selection Beats LLM Evolution in Scientific Equation Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
-<td>Pan Li</td>
-<td><a href="http://arxiv.org/abs/2607.04108">2607.04108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04293.html">CausalGame: Benchmarking Causal Thinking of LLM Agents in Games</a></div></td>
-<td>Zhenhao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04293">2607.04293</a></td>
 </tr>
 </tbody></table>

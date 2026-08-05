@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03438.html">Modelisation of chaotic systems with a latent Stochastic Differential Equation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="rom-90d.html">rom</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Ismaël Zighed et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03438">2608.03438</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00571.html">CoSynFlow: Conformal Symplectic Neural Flows for Cross-System Prediction of Dissipative Hamiltonian Dynamics</a></div></td>
 <td>Baige Xu et al.</td>
@@ -302,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06740.html">Geometric Kolmogorov--Arnold Network (GeoKAN)</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Abhijit Sen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06740">2605.06740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08232.html">Hierarchical Multi-Fidelity Learning for Predicting Three-Dimensional Flame Wrinkling and Turbulent Burning Velocity</a></div></td>
-<td>Saghar Zolfaghari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08232">2605.08232</a></td>
 </tr>
 </tbody></table>

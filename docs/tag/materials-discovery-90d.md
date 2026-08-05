@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02858.html">Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Dibakar Datta</td>
+<td><a href="http://arxiv.org/abs/2608.02858">2608.02858</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26296.html">Thermodynamics-Informed Machine Learning for Energy Materials Discovery</a></div></td>

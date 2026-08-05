@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02775.html">Towards a new paradigm of scientific discovery with socialized artificial intelligence</a></div></td>
+<td>Xinjie Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02775">2608.02775</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02662.html">Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers</a></div></td>
+<td>Farbod Faraji et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02662">2608.02662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div></td>
 <td>Tianyou Bai et al.</td>
@@ -644,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06772.html">When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning</a></div></td>
 <td>Vasilis Niarchos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06772">2605.06772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04375.html">Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery</a></div></td>
-<td>Zhenning Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04375">2605.04375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04922.html">Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation</a></div></td>
-<td>Jiangwen Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04922">2605.04922</a></td>
 </tr>
 </tbody></table>

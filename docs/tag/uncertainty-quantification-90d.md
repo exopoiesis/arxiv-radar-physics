@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03155.html">POMDPs for Autonomous Science Exploration</a></div></td>
+<td>Daniel Guirguis et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03155">2608.03155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03360.html">Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Edgar Jaber et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03360">2608.03360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03438.html">Modelisation of chaotic systems with a latent Stochastic Differential Equation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="rom-90d.html">rom</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Ismaël Zighed et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03438">2608.03438</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01439.html">Random Inverse Problems with Structural and Probabilistic Ambiguities</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Wolfgang Hoegele</td>
+<td><a href="http://arxiv.org/abs/2608.01439">2608.01439</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26781.html">Recent Progress in Ab-Initio Nuclear Theory for Precision Physics Searches in Muonic Atoms and Superallowed $β$ Decays</a></div></td>
@@ -716,11 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06916.html">Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Fan Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06916">2605.06916</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04997.html">DualTCN: A Physics-Constrained Temporal Convolutional Network for 2 Time-Domain Marine CSEM Inversion</a></div></td>
-<td>Khaled Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04997">2605.04997</a></td>
 </tr>
 </tbody></table>

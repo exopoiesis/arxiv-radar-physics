@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02049.html">Adaptive Reconstruction of Bosonic Quantum States</a></div></td>
+<td>Vasilisa Usova et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02049">2608.02049</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02808.html">The Indian Pulsar Timing Array Data Release 2: III. Search for a Stochastic Gravitational Wave Background</a></div></td>
+<td>Hemanga Tahbildar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02808">2608.02808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01261.html">A Bayesian Weakest-Link Framework for Joint Estimation of Material Strength and Stress Profile</a></div></td>
+<td>Shiyu He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01261">2608.01261</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00529.html">Schrödinger Generator for High-Dimensional Integration and Sampling on Quantum Many-Body States</a></div></td>
 <td>Lin-Jing Jiang et al.</td>
@@ -2654,23 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08762.html">Bio-Inspired Artificial Neural Networks based on Predictive Coding</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Davide Casnici et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08762">2508.08762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06792.html">A test statistic, $h^*$, for outlier analysis</a></div></td>
-<td>Johan F. Hoorn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06792">2508.06792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06834.html">A Score-based Diffusion Model Approach for Adaptive Learning of Stochastic Partial Differential Equation Solutions</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06834">2508.06834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06852.html">An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Shuo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06852">2508.06852</a></td>
 </tr>
 </tbody></table>

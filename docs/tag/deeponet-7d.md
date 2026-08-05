@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01217.html">Amortizing the Calibration Triple: A Projection-Consistent Neural Operator for Local-Stochastic Volatility</a></div></td>
+<td>Xiaozhen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01217">2608.01217</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27188.html">Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
 <td>Lennon J. Shikhman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.27188">2607.27188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25790.html">SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics</a></div></td>
-<td>Shivani Saini et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25790">2607.25790</a></td>
 </tr>
 </tbody></table>

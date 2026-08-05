@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">600 papers</span>
+  <span class="paper-count">599 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
+<td>Seonmi Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03198">2608.03198</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01029.html">Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots</a></div></td>
@@ -3602,17 +3608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08330.html">On Irreversibility and Stochastic Systems: Part One</a></div></td>
 <td>Giorgio Picci</td>
 <td><a href="http://arxiv.org/abs/2508.08330">2508.08330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15981.html">MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models</a></div></td>
-<td>Michael Birsak et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15981">2501.15981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06834.html">A Score-based Diffusion Model Approach for Adaptive Learning of Stochastic Partial Differential Equation Solutions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Toan Huynh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06834">2508.06834</a></td>
 </tr>
 </tbody></table>

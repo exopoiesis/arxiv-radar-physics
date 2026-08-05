@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25865.html">OmniQEC: discovering practical quantum error-correcting codes by an AI scientist</a></div></td>
-<td>Ge Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25865">2607.25865</a></td>
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01939.html">Oraqle: An Empirical Analysis of Qubit Readout and Discriminators in Quantum Error Correction</a></div></td>
+<td>Emmanouil Giortamis et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01939">2608.01939</a></td>
 </tr>
 </tbody></table>

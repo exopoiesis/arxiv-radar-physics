@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03360.html">Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Edgar Jaber et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03360">2608.03360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00400.html">Modeling Unknown Nonlocal PDE Systems via Flow Map Learning</a></div></td>
 <td>Zhongshu Xu et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26490.html">EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Peng Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26490">2607.26490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25608.html">Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Pinki Khatun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25608">2607.25608</a></td>
 </tr>
 </tbody></table>

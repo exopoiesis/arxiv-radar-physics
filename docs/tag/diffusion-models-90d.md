@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
+<td>Seonmi Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03198">2608.03198</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01029.html">Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots</a></div></td>
 <td>Kento Kawaharazuka et al.</td>
@@ -626,11 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
 <td>Weiqing Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04830.html">Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Yifan F. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04830">2605.04830</a></td>
 </tr>
 </tbody></table>

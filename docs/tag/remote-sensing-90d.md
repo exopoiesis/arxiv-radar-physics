@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02322.html">Global-Scale Self-Supervised Spatiotemporal Learning for NDVI Time-Series Reconstruction</a></div></td>
+<td>Ang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02322">2608.02322</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25815.html">Freq-RemoteVAR: Next-Frequency Autoregressive Modeling for Remote Sensing Change Detection</a></div></td>
@@ -542,17 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05590.html">Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing</a></div></td>
 <td>Anh Vu Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05590">2605.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04388.html">Hyperspectral Anomaly Detection Using Einstein Fuzzy Computing and Quantum Neural Network</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Chia-Hsiang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04388">2605.04388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04565.html">Delay-Aware Large-Small Model Collaboration over LEO Satellite Networks</a></div></td>
-<td>Mingyu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04565">2605.04565</a></td>
 </tr>
 </tbody></table>

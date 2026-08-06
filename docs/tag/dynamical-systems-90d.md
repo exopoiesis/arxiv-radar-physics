@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,29 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16351.html">PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Sangyoon Bae et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16351">2605.16351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05838.html">MDN: Parallelizing Stepwise Momentum for Delta Linear Attention</a></div></td>
-<td>Yulong Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05838">2605.05838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06000.html">Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Kevin Slote et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06000">2605.06000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06246.html">Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Jan-Hendrik Ewering et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06246">2605.06246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06315.html">End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems</a></div></td>
-<td>Carles Balsells-Rodas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06315">2605.06315</a></td>
 </tr>
 </tbody></table>

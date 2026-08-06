@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08087.html">Fast and Generalizable parameter-embedded Neural Operators for Lithium-Ion Battery Simulation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Amir Ali Panahi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08087">2508.08087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07440.html">Unsupervised operator learning approach for dissipative equations via Onsager principle</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Zhipeng Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07440">2508.07440</a></td>
 </tr>
 </tbody></table>

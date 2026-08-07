@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,17 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10241.html">Extending the Entropic Potential of Events for Uncertainty Quantification and Decision-Making in Artificial Intelligence</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Mark Zilberman</td>
 <td><a href="http://arxiv.org/abs/2508.10241">2508.10241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11055.html">Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection</a></div></td>
-<td>Alireza Salehi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11055">2504.11055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08492.html">Momentum Point-Perplexity Mechanics in Large Language Models</a></div></td>
-<td>Lorenzo Tomaz et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08492">2508.08492</a></td>
 </tr>
 </tbody></table>

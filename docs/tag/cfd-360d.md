@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16891.html">Quantifying Out-of-Training Uncertainty of Neural-Network based Turbulence Closures</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Cody Grogan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16891">2508.16891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07633.html">Modeling Dynamic Gas-Liquid Interfaces in Underwater Explosions Using Interval-Constrained Physics-Informed Neural Networks</a></div></td>
-<td>Fulin Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07633">2508.07633</a></td>
 </tr>
 </tbody></table>

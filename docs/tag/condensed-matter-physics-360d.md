@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <strong>360d</strong> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20482.html">Mineral Detection of Neutrinos and Dark Matter 2025 Proceedings</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Shigenobu Hirose et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20482">2508.20482</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07652.html">Estimating classical mutual information between quantum subsystems with neural networks</a></div></td>
-<td>D. A. Konyshev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07652">2508.07652</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">710 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4262,17 +4262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08762.html">Bio-Inspired Artificial Neural Networks based on Predictive Coding</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Davide Casnici et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08762">2508.08762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16528.html">ADAM-SINDy: An Efficient Optimization Framework for Parameterized Nonlinear Dynamical System Identification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Siva Viknesh et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16528">2410.16528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07581.html">When and how can inexact generative models still sample from the data manifold?</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nisha Chandramoorthy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07581">2508.07581</a></td>
 </tr>
 </tbody></table>

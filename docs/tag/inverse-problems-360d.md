@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2450,11 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09347.html">Distributional Sensitivity Analysis: Enabling Differentiability in Sample-Based Inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Pi-Yueh Chuang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09347">2508.09347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08215.html">A probabilistic approach to spectral analysis of Cauchy-type inverse problems: Convergence and stability analysis</a></div></td>
-<td>Iulian Cîmpean et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08215">2508.08215</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05724.html">A Graph-Based Framework for Exploring Mathematical Patterns in Physics: A Proof of Concept</a></div></td>
 <td>Massimiliano Romiti</td>
 <td><a href="http://arxiv.org/abs/2508.05724">2508.05724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08254.html">Learning an Implicit Physics Model for Image-based Fluid Simulation</a></div></td>
-<td>Emily Yue-Ting Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08254">2508.08254</a></td>
 </tr>
 </tbody></table>

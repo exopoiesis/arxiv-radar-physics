@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,23 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12593.html">Physics-informed deep operator network for traffic state estimation</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Zhihao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12593">2508.12593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11383.html">Time Marching Neural Operator FE Coupling: AI Accelerated Physics Modeling</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Wei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11383">2504.11383</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08002.html">A Physics-informed Deep Operator for Real-Time Freeway Traffic State Estimation</a></div></td>
-<td>Hongxin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08002">2508.08002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08087.html">Fast and Generalizable parameter-embedded Neural Operators for Lithium-Ion Battery Simulation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Amir Ali Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08087">2508.08087</a></td>
 </tr>
 </tbody></table>

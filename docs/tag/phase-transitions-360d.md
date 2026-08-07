@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15841.html">A Review of Developmental Interpretability in Large Language Models</a></div></td>
 <td>Ihor Kendiukhov</td>
 <td><a href="http://arxiv.org/abs/2508.15841">2508.15841</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07531.html">Parametrization of Symmetry in Data</a></div></td>
-<td>Jian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07531">2508.07531</a></td>
 </tr>
 </tbody></table>

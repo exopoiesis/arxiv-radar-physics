@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">215 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05702.html">SEAM: Global consistency beyond local accuracy in scientific machine learning</a></div></td>
+<td>Gnankan Landry Regis N&#x27;guessan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05702">2608.05702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05862.html">NestyNet. I. Physics Functions Are Hard to Fit with Neural Networks: A Framework for Accurate Surrogates and Analytic Derivatives</a></div></td>
+<td>Rodrigo Ibata et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05862">2608.05862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04393.html">When Proxy Prediction Becomes Equation Reconstruction: Diagnostics and Residual Learning for Factor-Derived Proxy Supervision</a></div></td>
+<td>Chayan Lahiri et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04393">2608.04393</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04942.html">CheMLFlow: An Open-Source Platform for Cheminformatics and Materials Informatics Applications</a></div></td>
+<td>Brendan Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04942">2608.04942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03438.html">Modelisation of chaotic systems with a latent Stochastic Differential Equation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="rom-360d.html">rom</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -1298,11 +1322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05977.html">LinguaFluid: Language Guided Fluid Control via Semantic Rewards in Reinforcement Learning</a></div></td>
 <td>Aoming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05977">2508.05977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06502.html">PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations</a></div></td>
-<td>Md Rakibul Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06502">2505.06502</a></td>
 </tr>
 </tbody></table>

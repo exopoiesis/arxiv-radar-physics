@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04840.html">Towards a satellite image manipulation and deepfake localization benchmark dataset</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Jacob Arndt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04840">2608.04840</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
@@ -140,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
 <td>Zixin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
-<td>Ziyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07072.html">An Hybrid Quantum-Classical Diffusion Model for Image Generation</a></div></td>
-<td>Qipeng Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07072">2607.07072</a></td>
 </tr>
 </tbody></table>

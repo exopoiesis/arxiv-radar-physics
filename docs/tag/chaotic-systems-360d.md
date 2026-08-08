@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01532.html">Incorporating Coupling Knowledge into Echo State Networks for Learning Spatiotemporally Chaotic Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Kuei-Jan Chu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.01532">2504.01532</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08729.html">Real-time forecasting of chaotic dynamics from sparse data and autoencoders</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Elise Özalp et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08729">2508.08729</a></td>
 </tr>
 </tbody></table>

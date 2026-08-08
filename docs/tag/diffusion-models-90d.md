@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04840.html">Towards a satellite image manipulation and deepfake localization benchmark dataset</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
+<td>Jacob Arndt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04840">2608.04840</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
 <td>Seonmi Park et al.</td>
@@ -608,11 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09771.html">Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning</a></div></td>
 <td>Ziquan Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09771">2605.09771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08804.html">Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion</a></div></td>
-<td>Jianhui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08804">2605.08804</a></td>
 </tr>
 </tbody></table>

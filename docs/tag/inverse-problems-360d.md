@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">406 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05839.html">A neural operator view on U-Nets for inverse imaging problems</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Alexander Auras et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05839">2608.05839</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06155.html">Verifiable Regularity Criterion for Conditional Expectation Operators and Conditional Mean Embeddings with Applications to Nonparametric Regression, Bayesian Inverse Problems, and Koopman Operators</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Maximiliano Hertel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06155">2608.06155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03996.html">Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a></div></td>
+<td>Konstantinos Alexopoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03996">2608.03996</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01439.html">Random Inverse Problems with Structural and Probabilistic Ambiguities</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -2438,17 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15409.html">PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhanhong Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15409">2507.15409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09137.html">Robust optimal design of large-scale Bayesian nonlinear inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Abhijit Chowdhary et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09137">2409.09137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09347.html">Distributional Sensitivity Analysis: Enabling Differentiability in Sample-Based Inference</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Pi-Yueh Chuang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09347">2508.09347</a></td>
 </tr>
 </tbody></table>

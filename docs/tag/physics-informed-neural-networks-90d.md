@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05559.html">A Recentered-Domain Yau-Yau Filter for Target Tracking</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Lei Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05559">2608.05559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05892.html">Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yulun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05892">2608.05892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04778.html">Continual-Learning Physics-Informed Neural Networks for Parameterized Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Xujia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04778">2608.04778</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04206.html">From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Chenhao Si et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04206">2608.04206</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01850.html">Physics-Informed Neural Networks for Complex Eigenfrequency Identification and Mode Structure Reconstruction of the Ground-State ITG Branch</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
@@ -812,23 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09707.html">Adaptive Data Harvesting for Efficient Neural Network Learning with Universal Constraints</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Siteng Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09707">2605.09707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08672.html">Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yuxuan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08672">2605.08672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11001.html">Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Xiaofeng Liu</td>
-<td><a href="http://arxiv.org/abs/2605.11001">2605.11001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12544.html">Dual-Correction Physics-Informed Neural Networks for Hemodynamic Reconstruction from Sparse Data</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Jingtai Song et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12544">2605.12544</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03975.html">Mono-X Signal Characterization from Two-component Dark Matter Using a Convolutional Neural Network</a></div></td>
+<td>Max Fusté Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03975">2608.03975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Minal Chhabra et al.</td>
@@ -260,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11077.html">The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Jiamu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11077">2605.11077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08970.html">Reionisation time field reconstruction from 21-cm Maps: Investigating predictor coherence in WDM cosmology</a></div></td>
-<td>Julien Hiegel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08970">2605.08970</a></td>
 </tr>
 </tbody></table>

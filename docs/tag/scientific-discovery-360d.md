@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">508 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Wenxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04872">2608.04872</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05605.html">Enhancing Anomaly Resilience in Research Networks: A Large-Scale Forecasting Benchmark for Dynamic Security Baselining</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Mohammad Arafath Uddin Shariff et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05605">2608.05605</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02775.html">Towards a new paradigm of scientific discovery with socialized artificial intelligence</a></div></td>
@@ -3056,11 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16613.html">What are the limits to biomedical research acceleration through general-purpose AI?</a></div></td>
 <td>Konstantin Hebenstreit et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16613">2508.16613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10051.html">An Intelligent Infrastructure as a Foundation for Modern Science</a></div></td>
-<td>Satrajit S. Ghosh</td>
-<td><a href="http://arxiv.org/abs/2508.10051">2508.10051</a></td>
 </tr>
 </tbody></table>

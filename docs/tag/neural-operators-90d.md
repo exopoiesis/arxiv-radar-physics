@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04708.html">Benchmarking Multi-fidelity Neural Operators on Complex PDE Problems with Non-trivial Fidelity Differences</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a> · <a href="rans-90d.html">rans</a></div></td>
+<td>Ghifari Adam Faza et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04708">2608.04708</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05198.html">The Mathematics of Volatility Surfaces</a></div></td>
+<td>Miquel Noguer i Alonso</td>
+<td><a href="http://arxiv.org/abs/2608.05198">2608.05198</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02036.html">Convex Neural Energy Elements: Monolithic Finite-Element Assembly of Geometry-Parameterized Neural Operators with Stability and Error Guarantees</a></div></td>
@@ -626,35 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10451.html">Don&#x27;t Fix the Basis -- Learn It: Spectral Representation with Adaptive Basis Learning for PDEs</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a></div></td>
 <td>Xuxiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10451">2605.10451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08915.html">Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Hanru Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08915">2605.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08938.html">Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators</a></div></td>
-<td>Ali Baheri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08938">2605.08938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09096.html">Bridging Spectral Operator Learning and U-Net Hierarchies: SpectraNet for Stable Autoregressive PDE Surrogates</a></div></td>
-<td>Enrique Hernández Noguera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09096">2605.09096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09189.html">Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World</a></div></td>
-<td>Christopher M. Bryant et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09189">2605.09189</a></td>
 </tr>
 </tbody></table>

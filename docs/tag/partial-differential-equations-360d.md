@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05554.html">A Label-Free Physics-to-Data Acceleration Framework for Parametric Time-Dependent PDEs with Latent-Space Differential-Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Hongjiang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05554">2608.05554</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05892.html">Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Yulun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05892">2608.05892</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03360.html">Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Edgar Jaber et al.</td>
@@ -4832,17 +4844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09627.html">Physics- and geometry-aware spatio-spectral graph neural operator for time-independent and time-dependent PDEs</a></div></td>
 <td>Subhankar Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09627">2508.09627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09137.html">Robust optimal design of large-scale Bayesian nonlinear inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Abhijit Chowdhary et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09137">2409.09137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08729.html">Real-time forecasting of chaotic dynamics from sparse data and autoencoders</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="data-assimilation-360d.html">data-assimilation</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Elise Özalp et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08729">2508.08729</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04840.html">Towards a satellite image manipulation and deepfake localization benchmark dataset</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Jacob Arndt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04840">2608.04840</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
 <td>Seonmi Park et al.</td>
@@ -3578,11 +3584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09903.html">Hybrid Quantum-Classical Latent Diffusion Models for Medical Image Generation</a></div></td>
 <td>Kübra Yeter-Aydeniz et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09903">2508.09903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16819.html">Fast, Accurate Manifold Denoising by Tunneling Riemannian Optimization</a></div></td>
-<td>Shiyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16819">2502.16819</a></td>
 </tr>
 </tbody></table>

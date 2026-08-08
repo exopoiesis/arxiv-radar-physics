@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04806.html">An Exchange-Correlation Functional for Fast and Accurate Modeling of Ferroelectric Perovskites</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Owain T. Beynon et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04806">2608.04806</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27841.html">Quantum machine learning interatomic potential: Application of variational quantum algorithm</a></div><div class="paper-tags"><a href="quantum-circuit-learning-360d.html">quantum-circuit-learning</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>

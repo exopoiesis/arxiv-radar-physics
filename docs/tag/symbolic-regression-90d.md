@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Wenxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04872">2608.04872</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div></td>
+<td>Roberto Aliaga Medina et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Seyed Morteza Hosseini</td>
+<td><a href="http://arxiv.org/abs/2608.04107">2608.04107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04291.html">Electron correlation in semiconductors and insulators via symbolic regression</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Nick Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04291">2608.04291</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00379.html">Discovering Explicit Magnetic Core Loss Equations via Learnable Symbolic Sparse Identification</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
@@ -236,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09696.html">Discovery of Nonlinear Dynamics with Automated Basis Function Generation</a></div></td>
 <td>Mohammad Amin Basiri et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09696">2605.09696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08872.html">Data-driven Symbolic Closure for Turbulence Modeling in the Lattice Boltzmann Framework</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
-<td>Yujie Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08872">2605.08872</a></td>
 </tr>
 </tbody></table>

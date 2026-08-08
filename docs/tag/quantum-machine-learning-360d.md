@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3092,11 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15462.html">CTRQNets &amp; LQNets: Continuous Time Recurrent and Liquid Quantum Neural Networks</a></div></td>
 <td>Alejandro Antonio Mayorga et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15462">2408.15462</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14906.html">Collaborative Filtering using Variational Quantum Hopfield Associative Memory</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Amir Kermanshahani et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14906">2508.14906</a></td>
 </tr>
 </tbody></table>

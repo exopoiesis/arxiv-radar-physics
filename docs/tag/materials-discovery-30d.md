@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div></td>
+<td>Ridha Eddhib et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05957">2608.05957</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div></td>
+<td>Alexandros Ntagiantas et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02858.html">Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
@@ -98,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08518.html">PhononScore: a phonon-aware scoring function for dynamical stability</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08518">2607.08518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07604.html">Human and LLM Collaboration for Accelerated Materials Synthesis and Discovery</a></div></td>
-<td>Gregory Bassen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07604">2607.07604</a></td>
 </tr>
 </tbody></table>

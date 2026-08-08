@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="particle-physics-30d.html">particle-physics</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Johannes Buchner</td>
+<td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04005.html">Cosmology in the Einstein Telescope era: comparing traditional and simulation-based methods for population inference</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Giovanni Antinozzi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04005">2608.04005</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02505.html">Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation</a></div></td>
 <td>Michael Farmer</td>
@@ -86,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08562.html">XShooter DESI Lens Program: Sample characterization</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
 <td>Eric Jullo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08562">2607.08562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06959.html">KAN-LSTM-Transformer Neural Networks, MFV and Cosmological Parameters</a></div></td>
-<td>Jiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06959">2607.06959</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Zhijian Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
 </tr>
 </tbody></table>

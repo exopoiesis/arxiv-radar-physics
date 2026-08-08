@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Wenxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04872">2608.04872</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05605.html">Enhancing Anomaly Resilience in Research Networks: A Large-Scale Forecasting Benchmark for Dynamic Security Baselining</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
+<td>Mohammad Arafath Uddin Shariff et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05605">2608.05605</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02775.html">Towards a new paradigm of scientific discovery with socialized artificial intelligence</a></div></td>
@@ -596,23 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11328.html">Epistemic Uncertainty for Test-Time Discovery</a></div></td>
 <td>Kainat Riaz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11328">2605.11328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08941.html">MDGYM: Benchmarking AI Agents on Molecular Simulations</a></div></td>
-<td>Vinay Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08941">2605.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08956.html">Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery</a></div></td>
-<td>Harshit Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08956">2605.08956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12542.html">Earth Science Foundation Models: From Perception to Reasoning and Discovery</a></div></td>
-<td>Xiangyu Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12542">2605.12542</a></td>
 </tr>
 </tbody></table>

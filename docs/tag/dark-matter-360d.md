@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03975.html">Mono-X Signal Characterization from Two-component Dark Matter Using a Convolutional Neural Network</a></div></td>
+<td>Max Fusté Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03975">2608.03975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Minal Chhabra et al.</td>
@@ -1298,11 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10876.html">Accelerating cosmological inference of interacting dark energy with neural emulators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Karim Carrion</td>
 <td><a href="http://arxiv.org/abs/2508.10876">2508.10876</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09363.html">Resurrecting the Salmon: Rethinking Mechanistic Interpretability with Domain-Specific Sparse Autoencoders</a></div></td>
-<td>Charles O&#x27;Neill et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09363">2508.09363</a></td>
 </tr>
 </tbody></table>

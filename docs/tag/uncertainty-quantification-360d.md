@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">541 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04817.html">A Knowledge-Centric Communication For Autonomous Cislunar Networks</a></div></td>
+<td>Afan Ali et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04817">2608.04817</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05230.html">Quality Diversity for Reliable Data Driven Time-Use Optimization</a></div></td>
+<td>Aneta Neumann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05230">2608.05230</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03155.html">POMDPs for Autonomous Science Exploration</a></div></td>
@@ -3254,11 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10241.html">Extending the Entropic Potential of Events for Uncertainty Quantification and Decision-Making in Artificial Intelligence</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Mark Zilberman</td>
 <td><a href="http://arxiv.org/abs/2508.10241">2508.10241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09347.html">Distributional Sensitivity Analysis: Enabling Differentiability in Sample-Based Inference</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Pi-Yueh Chuang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09347">2508.09347</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Seyed Morteza Hosseini</td>
+<td><a href="http://arxiv.org/abs/2608.04107">2608.04107</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22011.html">Revealing Four Subpopulations of Binary Black-Hole Mergers with the Fifth Gravitational-Wave Transient Catalog</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>

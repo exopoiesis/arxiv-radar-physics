@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetohydrodynamics — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="magnetohydrodynamics-7d.html">7d</a> <a href="magnetohydrodynamics-30d.html">30d</a> <a href="magnetohydrodynamics-90d.html">90d</a> <strong>360d</strong> <a href="magnetohydrodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04564.html">Uncertainties in Physics-informed Inverse Problems: The Hidden Risk in Scientific AI</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yoh-ichi Mototake et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04564">2511.04564</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06506.html">Hybrid Approaches for Black Hole Spin Estimation: From Classical Spectroscopy to Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Stella Menziltsidou</td>
-<td><a href="http://arxiv.org/abs/2508.06506">2508.06506</a></td>
 </tr>
 </tbody></table>

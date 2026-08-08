@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div></td>
+<td>Sam Levang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06241">2608.06241</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05054.html">MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres</a></div></td>
+<td>M. L. Carroll et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05054">2608.05054</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24109.html">Earthquake Aftershock Forecasting using Conditional Generative Models</a></div></td>
 <td>Weiqiang Zhu</td>
@@ -1010,17 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00015.html">MedFormer: a data-driven model for forecasting the Mediterranean Sea</a></div></td>
 <td>Italo Epicoco et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00015">2509.00015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17028.html">Democracy of AI Numerical Weather Models: An Example of Global Forecasting with FourCastNetv2 Made by a University Research Lab Using GPU</a></div></td>
-<td>Iman Khadir et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17028">2504.17028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19822.html">Mjölnir: A Deep Learning Parametrization Framework for Global Lightning Flash Density</a></div></td>
-<td>Minjong Cheon</td>
-<td><a href="http://arxiv.org/abs/2504.19822">2504.19822</a></td>
 </tr>
 </tbody></table>

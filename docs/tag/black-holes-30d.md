@@ -16,15 +16,15 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Seyed Morteza Hosseini</td>
+<td><a href="http://arxiv.org/abs/2608.04107">2608.04107</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22011.html">Revealing Four Subpopulations of Binary Black-Hole Mergers with the Fifth Gravitational-Wave Transient Catalog</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a></div></td>
 <td>Nir Guttman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22011">2607.22011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07418.html">Neural-Spectral Discovery of Rotating Black Holes Beyond General Relativity</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Felipe Agurto-Sepúlveda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07418">2607.07418</a></td>
 </tr>
 </tbody></table>

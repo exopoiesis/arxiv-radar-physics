@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Wenxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04872">2608.04872</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div></td>
+<td>Roberto Aliaga Medina et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
+<td>Seyed Morteza Hosseini</td>
+<td><a href="http://arxiv.org/abs/2608.04107">2608.04107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04291.html">Electron correlation in semiconductors and insulators via symbolic regression</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Nick Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04291">2608.04291</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00379.html">Discovering Explicit Magnetic Core Loss Equations via Learnable Symbolic Sparse Identification</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
@@ -68,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08150.html">DeepPySR -- A Symbolic Regression Framework with Dynamic Pruning, Pareto Selection, and Hierarchical Composition for Real-World Scientific Discovery</a></div></td>
 <td>Fuling Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08150">2607.08150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07246.html">Skin friction prediction for attached flows based on two-dimensional inviscid solutions</a></div></td>
-<td>Mingkun Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07246">2607.07246</a></td>
 </tr>
 </tbody></table>

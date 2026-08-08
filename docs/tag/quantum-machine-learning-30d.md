@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08350.html">Grokking and epoch-wise double descent in quantum neural networks</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Daniel Pranjić et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08350">2607.08350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07927.html">Invariance Audits for Quantum Kernels and Variational Rewinding: A Real-to-Hermitian Taxonomy of Projector, Flag, Anchor, and Density Geometry</a></div></td>
-<td>Azadeh Alavi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07927">2607.07927</a></td>
 </tr>
 </tbody></table>

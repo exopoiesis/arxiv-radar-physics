@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>koopman-operator — all</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06155.html">Verifiable Regularity Criterion for Conditional Expectation Operators and Conditional Mean Embeddings with Applications to Nonparametric Regression, Bayesian Inverse Problems, and Koopman Operators</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Maximiliano Hertel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06155">2608.06155</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02661.html">Beyond Invariant Dictionary: Data-Driven Koopman Spectral Recovery with Filtered Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>

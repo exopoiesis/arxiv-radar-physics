@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">708 papers</span>
+  <span class="paper-count">706 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06155.html">Verifiable Regularity Criterion for Conditional Expectation Operators and Conditional Mean Embeddings with Applications to Nonparametric Regression, Bayesian Inverse Problems, and Koopman Operators</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Maximiliano Hertel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06155">2608.06155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04471.html">Beyond Linear Dynamics: Neural Bilinear Dynamical Models for Time Series Forecasting</a></div></td>
+<td>Mengzhou Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04471">2608.04471</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03438.html">Modelisation of chaotic systems with a latent Stochastic Differential Equation</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -4238,29 +4250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02218.html">Reservoir Computing with Evolved Critical Neural Cellular Automata</a></div></td>
 <td>Sidney Pontes-Filho et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02218">2508.02218</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05510.html">Data-Driven Certificate Synthesis</a></div></td>
-<td>Luke Rickard et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05510">2502.05510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17316.html">Statistical machine learning tools for probabilistic closures of turbulence models</a></div></td>
-<td>Julia Domingues Lemos et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17316">2502.17316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04209.html">To Judge or not to Judge: Using LLM Judgements for Advertiser Keyphrase Relevance at eBay</a></div></td>
-<td>Soumik Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04209">2505.04209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08762.html">Bio-Inspired Artificial Neural Networks based on Predictive Coding</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Davide Casnici et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08762">2508.08762</a></td>
 </tr>
 </tbody></table>

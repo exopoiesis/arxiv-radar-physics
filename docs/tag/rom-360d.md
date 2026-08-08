@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.03438">2608.03438</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03996.html">Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Konstantinos Alexopoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03996">2608.03996</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Michael Candon et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11542.html">Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Nicole Aretz et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11542">2508.11542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08729.html">Real-time forecasting of chaotic dynamics from sparse data and autoencoders</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Elise Özalp et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08729">2508.08729</a></td>
 </tr>
 </tbody></table>

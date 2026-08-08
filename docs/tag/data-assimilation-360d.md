@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Dibyajyoti Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02135.html">Cardiovascular Digital Twins from Physics Based to Data Driven Approaches</a></div></td>
 <td>Emmanuel Lwele et al.</td>
@@ -866,11 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22071.html">Ocean-E2E: Hybrid Physics-Based and Data-Driven Global Forecasting of Extreme Marine Heatwaves with End-to-End Neural Assimilation</a></div></td>
 <td>Ruiqi Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22071">2505.22071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08729.html">Real-time forecasting of chaotic dynamics from sparse data and autoencoders</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Elise Özalp et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08729">2508.08729</a></td>
 </tr>
 </tbody></table>

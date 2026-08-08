@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05554.html">A Label-Free Physics-to-Data Acceleration Framework for Parametric Time-Dependent PDEs with Latent-Space Differential-Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Hongjiang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05554">2608.05554</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05839.html">A neural operator view on U-Nets for inverse imaging problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Alexander Auras et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05839">2608.05839</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01839.html">tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins</a></div></td>
 <td>Minjee Seo et al.</td>
@@ -428,17 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09643.html">Kernel Learning of PDE Solution Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Jianyu Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09643">2605.09643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08843.html">M$^3$: Reframing Training Measures for Discretized Physical Simulations</a></div></td>
-<td>Yuan Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08843">2605.08843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09016.html">CATO: Charted Attention for Neural PDE Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Chun-Wun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09016">2605.09016</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,17 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00297.html">GWSkyNet-Multi II: an updated machine learning model for rapid classification of gravitational-wave events</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Nayyer Raza et al.</td>
 <td><a href="http://arxiv.org/abs/2502.00297">2502.00297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14827.html">RADAR-Radio Afterglow Detection and AI-driven Response: A Federated Framework for Gravitational Wave Event Follow-Up</a></div></td>
-<td>Parth Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14827">2507.14827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09493.html">Gravitational wave distance estimation using intrinsic signal properties: dark sirens as distance indicators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Trisha V et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09493">2508.09493</a></td>
 </tr>
 </tbody></table>

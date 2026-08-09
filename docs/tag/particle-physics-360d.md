@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,11 +614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12939.html">Simulation-Based Inference: A Practical Guide</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Michael Deistler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12939">2508.12939</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14087.html">FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics</a></div></td>
-<td>David Park et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14087">2508.14087</a></td>
 </tr>
 </tbody></table>

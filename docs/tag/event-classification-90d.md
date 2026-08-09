@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>event-classification — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <strong>90d</strong> <a href="event-classification-360d.html">360d</a> <a href="event-classification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24748.html">Deep Learning-Enabled Prediction of Geoeffective CMEs Using SOHO and SDO Observations</a></div></td>
 <td>Zhaoxin Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24748">2605.24748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11033.html">TokaMind for Power Grid: Cross-Domain Transfer from Fusion Plasma</a></div></td>
-<td>JC Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11033">2605.11033</a></td>
 </tr>
 </tbody></table>

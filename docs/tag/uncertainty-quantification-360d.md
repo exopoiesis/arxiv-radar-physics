@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3254,17 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07446.html">KACQ-DCNN: Uncertainty-Aware Interpretable Kolmogorov-Arnold Classical-Quantum Dual-Channel Neural Network for Heart Disease Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Md Abrar Jahin et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07446">2410.07446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08291.html">Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference</a></div></td>
-<td>Joshua R. Tempelman et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08291">2508.08291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10241.html">Extending the Entropic Potential of Events for Uncertainty Quantification and Decision-Making in Artificial Intelligence</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Mark Zilberman</td>
-<td><a href="http://arxiv.org/abs/2508.10241">2508.10241</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">446 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,23 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09600.html">Accelerating the time-domain LISA response model with central finite differences and hybridization techniques</a></div></td>
 <td>Jorge Valencia et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09600">2505.09600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05603.html">Bayesian inference of neutron star crust properties using an ab initio-benchmarked meta-model</a></div></td>
-<td>S. Burrello et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05603">2506.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09493.html">Gravitational wave distance estimation using intrinsic signal properties: dark sirens as distance indicators</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Trisha V et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09493">2508.09493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10241.html">Extending the Entropic Potential of Events for Uncertainty Quantification and Decision-Making in Artificial Intelligence</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Mark Zilberman</td>
-<td><a href="http://arxiv.org/abs/2508.10241">2508.10241</a></td>
 </tr>
 </tbody></table>

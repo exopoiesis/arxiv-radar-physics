@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2450,11 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00007.html">DiffTopo: Solver in the Loop for Inverse Topography via Condition Diffusion Generation</a></div></td>
 <td>Aoming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00007">2509.00007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15409.html">PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhanhong Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15409">2507.15409</a></td>
 </tr>
 </tbody></table>

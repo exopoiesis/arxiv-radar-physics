@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">805 papers</span>
+  <span class="paper-count">802 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4826,23 +4826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04516.html">Physics-informed Kolmogorov-Arnold Network with Chebyshev Polynomials for Fluid Mechanics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Chunyu Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2411.04516">2411.04516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15409.html">PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Zhanhong Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15409">2507.15409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09529.html">DeepWKB: Learning WKB Expansions of Invariant Distributions for Stochastic Systems</a></div></td>
-<td>Yao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09529">2508.09529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09627.html">Physics- and geometry-aware spatio-spectral graph neural operator for time-independent and time-dependent PDEs</a></div></td>
-<td>Subhankar Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09627">2508.09627</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3314,23 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01460.html">GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution</a></div></td>
 <td>Qiwei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01460">2501.01460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08447.html">SpectralEarth: Training Hyperspectral Foundation Models at Scale</a></div></td>
-<td>Nassim Ait Ali Braham et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08447">2408.08447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09453.html">HyperKD: Distilling Cross-Spectral Knowledge in Masked Autoencoders via Inverse Domain Shift with Spatial-Aware Masking and Specialized Loss</a></div></td>
-<td>Abdul Matin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09453">2508.09453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09555.html">Topological Invariant-Based Iris Identification via Digital Homology and Machine Learning</a></div></td>
-<td>Ahmet Öztel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09555">2508.09555</a></td>
 </tr>
 </tbody></table>

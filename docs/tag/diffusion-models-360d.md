@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">595 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,17 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div></td>
 <td>Chenru Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01516.html">On Irreversibility and Stochastic Systems; Part Two</a></div></td>
-<td>Giorgio Picci</td>
-<td><a href="http://arxiv.org/abs/2411.01516">2411.01516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09903.html">Hybrid Quantum-Classical Latent Diffusion Models for Medical Image Generation</a></div></td>
-<td>Kübra Yeter-Aydeniz et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09903">2508.09903</a></td>
 </tr>
 </tbody></table>

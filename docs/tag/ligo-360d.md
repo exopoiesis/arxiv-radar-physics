@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00297.html">GWSkyNet-Multi II: an updated machine learning model for rapid classification of gravitational-wave events</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Nayyer Raza et al.</td>
 <td><a href="http://arxiv.org/abs/2502.00297">2502.00297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09493.html">Gravitational wave distance estimation using intrinsic signal properties: dark sirens as distance indicators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Trisha V et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09493">2508.09493</a></td>
 </tr>
 </tbody></table>

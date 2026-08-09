@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">397 papers</span>
+  <span class="paper-count">396 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2390,11 +2390,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11119.html">Are Fourier Neural Operators Really Faster for Time-Domain Wave Propagation?</a></div></td>
 <td>Dimitri Voytan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11119">2508.11119</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15409.html">PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhanhong Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15409">2507.15409</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,17 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13892.html">A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Nahid Binandeh Dehaghani et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13892">2605.13892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09975.html">Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Hoyeol Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09975">2605.09975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10136.html">Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Bum Jun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
 </tr>
 </tbody></table>

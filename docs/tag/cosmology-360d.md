@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,17 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11752.html">The Wrath of KAN: Enabling Fast, Accurate, and Transparent Emulation of the Global 21 cm Cosmology Signal</a></div></td>
 <td>J. Dorigo Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11752">2508.11752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10758.html">Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets</a></div></td>
-<td>Nicolas Lapautre et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10758">2508.10758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10876.html">Accelerating cosmological inference of interacting dark energy with neural emulators</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Karim Carrion</td>
-<td><a href="http://arxiv.org/abs/2508.10876">2508.10876</a></td>
 </tr>
 </tbody></table>

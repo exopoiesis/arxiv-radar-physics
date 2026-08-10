@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,23 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12085.html">A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography</a></div></td>
 <td>Tatiana A. Bubba et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12085">2605.12085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10076.html">A Stability Benchmark of Generative Regularizers for Inverse Problems</a></div></td>
-<td>Alexander Denker et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10076">2605.10076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10136.html">Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Bum Jun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10136">2605.10136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11117.html">GRAFT-ATHENA: Self-Improving Agentic Teams for Autonomous Discovery and Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Juan Diego Toscano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11117">2605.11117</a></td>
 </tr>
 </tbody></table>

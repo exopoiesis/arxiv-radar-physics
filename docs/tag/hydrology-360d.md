@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrology — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <strong>360d</strong> <a href="hydrology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17515.html">GateTS: Versatile and Efficient Forecasting via Attention-Inspired routed Mixture-of-Experts</a></div></td>
 <td>Kyrylo Yemets et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17515">2508.17515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10649.html">Geospatial Diffusion for Land Cover Imperviousness Change Forecasting</a></div></td>
-<td>Debvrat Varshney et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10649">2508.10649</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,23 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12064.html">TAR: Text Semantic Assisted Cross-modal Image Registration Framework for Optical and SAR Images</a></div></td>
 <td>Zhuoyu Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12064">2605.12064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10184.html">Developing a foundation model for high-resolution remote sensing data of the Netherlands</a></div></td>
-<td>Paul Vermeeren et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10184">2605.10184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10772.html">Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition</a></div></td>
-<td>David F. Ramirez et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10772">2605.10772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10789.html">Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction</a></div></td>
-<td>Quanyun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10789">2605.10789</a></td>
 </tr>
 </tbody></table>

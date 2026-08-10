@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Christoph Brunken et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Jonathan Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
 </tr>
 </tbody></table>

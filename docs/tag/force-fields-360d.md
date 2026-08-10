@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,17 +602,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Christoph Brunken et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06113.html">Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques</a></div></td>
-<td>E. Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06113">2504.06113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10505.html">FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential</a></div></td>
-<td>Hanwen Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10505">2508.10505</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,33 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-08-09._
+_Updated 2026-08-10._
 
-**19822** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**19826** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06944.html">Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a> · <a href="tag/gravitational-waves-30d.html">gravitational-waves</a></div></td>
+<td>Sara Manzini et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06944">2608.06944</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06954.html">Discovery of the $λ$ Bootis phenomenon in an early B-type star</a></div></td>
+<td>J. Olbermann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06954">2608.06954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06957.html">Probing dark matter through charged Higgs pair production at future multi-TeV muon colliders: A machine-learning analysis</a></div><div class="paper-tags"><a href="tag/dark-matter-30d.html">dark-matter</a></div></td>
+<td>Khiem Hong Phan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06957">2608.06957</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a> · <a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-08-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div><div class="paper-tags"><a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Sam Levang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06241">2608.06241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06274.html">NestyNet. II. Coherent Function-Space Posteriors from Scientific Neural Surrogates (or How to Avoid Expensive MCMC)</a></div></td>
-<td>Rodrigo Ibata et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06274">2608.06274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04338.html">GPU-Resident CUDA Acceleration for OCUDU 5G PHY and O-RAN Fronthaul: Architecture and Preliminary Performance</a></div></td>
-<td>Matthew Pennybacker et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04338">2608.04338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04393.html">When Proxy Prediction Becomes Equation Reconstruction: Diagnostics and Residual Learning for Factor-Derived Proxy Supervision</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Chayan Lahiri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04393">2608.04393</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06957.html">Probing dark matter through charged Higgs pair production at future multi-TeV muon colliders: A machine-learning analysis</a></div></td>
+<td>Khiem Hong Phan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06957">2608.06957</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03975.html">Mono-X Signal Characterization from Two-component Dark Matter Using a Convolutional Neural Network</a></div></td>
 <td>Max Fusté Costa et al.</td>
@@ -1298,11 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14624.html">The revolution in strong lensing discoveries from Euclid</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Natalie E. P. Lines et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14624">2508.14624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10876.html">Accelerating cosmological inference of interacting dark energy with neural emulators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Karim Carrion</td>
-<td><a href="http://arxiv.org/abs/2508.10876">2508.10876</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>high-energy-physics — all</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <a href="high-energy-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06518.html">Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="event-classification-all.html">event-classification</a></div></td>
+<td>A. Núñez Selin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06518">2608.06518</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="hep-all.html">hep</a> · <a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>

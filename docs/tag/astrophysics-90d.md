@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06518.html">Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors</a></div><div class="paper-tags"><a href="event-classification-90d.html">event-classification</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a></div></td>
+<td>A. Núñez Selin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06518">2608.06518</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04005.html">Cosmology in the Einstein Telescope era: comparing traditional and simulation-based methods for population inference</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Giovanni Antinozzi et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Leander Thiele</td>
-<td><a href="http://arxiv.org/abs/2605.10719">2605.10719</a></td>
 </tr>
 </tbody></table>

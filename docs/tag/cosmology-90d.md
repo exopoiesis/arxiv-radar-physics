@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,23 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13334.html">LLM-Based Persuasion Enables Guardrail Override in Frontier LLMs</a></div></td>
 <td>Rodrigo Nogueira et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13334">2605.13334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10105.html">Application of Machine Learning to 21 cm Cosmology</a></div></td>
-<td>Hayato Shimabukuro</td>
-<td><a href="http://arxiv.org/abs/2605.10105">2605.10105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10719.html">Machine Learning Techniques for Astrophysics and Cosmology: Simulation-Based Inference</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
-<td>Leander Thiele</td>
-<td><a href="http://arxiv.org/abs/2605.10719">2605.10719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10928.html">Mitigating residual foregrounds and systematic errors in SKA1-Low AA* EoR observations via Bayesian Gaussian Process Regression</a></div></td>
-<td>Samit Kumar Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10928">2605.10928</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06944.html">Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a></div></td>
+<td>Sara Manzini et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06944">2608.06944</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
 <td>Dibyajyoti Chakraborty et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02808.html">The Indian Pulsar Timing Array Data Release 2: III. Search for a Stochastic Gravitational Wave Background</a></div></td>
 <td>Hemanga Tahbildar et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02808">2608.02808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01261.html">A Bayesian Weakest-Link Framework for Joint Estimation of Material Strength and Stress Profile</a></div></td>
-<td>Shiyu He et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01261">2608.01261</a></td>
 </tr>
 </tbody></table>

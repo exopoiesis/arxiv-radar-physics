@@ -3653,5 +3653,102 @@
    "Astrophysics & Cosmology"
   ],
   "updated": "2026-08-06"
+ },
+ "2608.06518": {
+  "abstract": "Water Cherenkov Detectors (WCDs) are a robust technology widely used in astrophysics, high energy physics, and recently nuclear security applications. They detect high energy interactions through the Cherenkov light emitted by charged particles traveling faster than the speed of light in water.   In this work, we demonstrate the feasibility of gamma-neutron discrimination in WCDs using a combined methodology that integrates statistical analysis with machine learning techniques. The experimental setup employs different shielding configurations to isolate gamma and neutron contributions from a \\textsuperscript{241}AmBe source, while \\textsuperscript{60}Co and \\textsuperscript{137}Cs sources are used to establish a signal to energy calibration.   A statistical analysis based on a $3σ$ significance criterion is used to define energy thresholds, enabling a linear relationship between the measured charge spectrum and the deposited energy. Building on this calibration, pulse shape information is further exploited through machine learning methods to improve event classification. An ensemble model based on a soft-voting strategy combining a Bagging classifier, CatBoost, and a Multilayer Perceptron was trained on detector signals acquired under different shielding conditions, achieving an accuracy of 0.816 and an area under the Receiver Operating Characteristic (ROC) curve.   The combined approach demonstrates that statistical thresholding provides a physically grounded discrimination baseline across the full energy range, while machine learning enhances classification performance at higher energies by leveraging pulse level information. This integrated strategy improves radiation identification capabilities in water Cherenkov detectors, with potential applications in nuclear security and radiation detection.",
+  "authors": [
+   "A. Núñez Selin",
+   "C. Sarmiento Cano",
+   "H. Asorey",
+   "I. Sidelnik"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "hep-ex"
+  ],
+  "comment": null,
+  "first_author": "A. Núñez Selin",
+  "pdf_url": "http://arxiv.org/pdf/2608.06518",
+  "primary_category": "physics.ins-det",
+  "published": "2026-08-06",
+  "tags": [
+   "astrophysics",
+   "event-classification",
+   "high-energy-physics"
+  ],
+  "title": "Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06944": {
+  "abstract": "Pulsar timing array (PTA) experiments are searching for gravitational waves (GWs) in the nanohertz band. The primary GW sources targeted by PTAs include populations of inspiralling supermassive black hole binaries (SMBHBs) in the local Universe, some of which may emit detectable continuous gravitational-wave (CGW) signals. In this paper, we focus on the detection strategy for individual binaries on eccentric orbits. Using simulated datasets based on the EPTA DR2new configuration, we perform injection-recovery studies across the parameter space. We demonstrate that individual component masses can be measured when an eccentric SMBHB is detected at high GW frequencies. We further show a correlation between the CGW signal and the stochastic gravitational-wave background (SGWB) at low frequencies, which makes CGW identification challenging. Finally, the developed software is GPU-compatible, enabling efficient Bayesian inference. This work lays the groundwork for future applications to real PTA data.",
+  "authors": [
+   "Sara Manzini",
+   "Stanislav Babak"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": null,
+  "first_author": "Sara Manzini",
+  "pdf_url": "http://arxiv.org/pdf/2608.06944",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-08-07",
+  "tags": [
+   "bayesian-inference",
+   "gravitational-waves"
+  ],
+  "title": "Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06954": {
+  "abstract": "Chemically peculiar A-type stars of the $λ$ Boo class are characterised by depletions of refractory elements and normal volatile species. Their formation channel(s) have not yet been fully established, but they provide insight into star-disc-planet interactions during star formation, star-planet interactions in later system evolution, or interactions between stars and the interstellar medium. We report the first detection of the $λ$ Boo phenomenon in a massive early B-type star, HD 37356, a member of Ori OB1c. We analysed a high-quality spectrum using a hybrid non-LTE model-atmosphere technique. We determined atmospheric parameters and elemental abundances using neural networks to emulate synthetic spectra, coupled with a Markov chain Monte Carlo algorithm. We also derived the fundamental parameters of the star using Gaia data and stellar evolution models. HD 37356 closely resembles the Morgan-Keenan standard $γ$ Peg, closely agreeing in spectral signatures except for the lines of refractory elements, which are systematically weaker. The quantitative analysis yields similar stellar parameters. The abundances of volatile elements are compatible with cosmic standard abundances, while refractory species are depleted by 0.25 to 0.45dex. In particular, the lower iron abundance explains the different pulsational behaviour of HD 37356 compared to $γ$ Peg. Of the different formation channels for $λ$ Boo stars, only the accretion of gas depleted in refractory elements from the circumstellar disc during star formation appears to be feasible in this case. This scenario requires HD 37356 to be a true slow rotator in order to prevent the abundance pattern from being erased by internal mixing processes such as meridional circulation.",
+  "authors": [
+   "J. Olbermann",
+   "P. Aschenbrenner",
+   "N. Przybilla"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "6+3 pages, 6 figures, published in Astronomy & Astrophysics",
+  "first_author": "J. Olbermann",
+  "pdf_url": "http://arxiv.org/pdf/2608.06954",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-08-07",
+  "tags": [],
+  "title": "Discovery of the $λ$ Bootis phenomenon in an early B-type star",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06957": {
+  "abstract": "Probing dark matter (DM) via charged Higgs pair production at future multi-TeV muon colliders is investigated within the Inert Doublet Model (IDM). The viable parameter space of the IDM is first updated by incorporating theoretical constraints and current experimental data. Based on the allowed parameter space, we evaluate DM relic density and compare the results with the latest constraints from direct DM detection experiments. The resulting parameter points consistent with all DM constraints are subsequently employed to study charged Higgs pair production at future multi-TeV muon colliders, including the subsequent decays of the charged Higgs bosons into Standard Model (SM) particles in association with DM candidate. In particular, we study the following production processes: $μ^- μ^+ \\to ν_μ \\barν_μ H^{\\pm} H^{\\mp} \\to \\ell^+ \\ell^- + ν_μ \\barν_μ ν_{\\ell} \\barν_{\\ell} HH$, $μ^- μ^+ \\to ν_μ \\barν_μ H^{\\pm} H^{\\mp} \\to \\ell^\\pm + 2\\,\\text{jets} + ν_μ \\barν_μ ν_{\\ell} HH$ and $μ^- μ^+ \\to ν_μ \\barν_μ H^{\\pm} H^{\\mp} \\to 4\\,\\text{jets} + ν_μ \\barν_μ HH$ for $\\ell =e, μ$. The signal significance is evaluated against the corresponding SM backgrounds using both cut-based and machine-learning (ML) approaches. We find that ML framework substantially enhances the sensitivity to the signal processes compared with the conventional cut-based analysis. Furthermore, our results indicate that the DM signals through charged Higgs pair production can be indirectly probed with a statistical significance exceeding $5σ$ for several viable benchmark points at future multi-TeV muon colliders.",
+  "authors": [
+   "Khiem Hong Phan",
+   "Quang Hoang-Minh Pham"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "28 pages, 6 Figures, 13 Tables of data",
+  "first_author": "Khiem Hong Phan",
+  "pdf_url": "http://arxiv.org/pdf/2608.06957",
+  "primary_category": "hep-ph",
+  "published": "2026-08-07",
+  "tags": [
+   "dark-matter"
+  ],
+  "title": "Probing dark matter through charged Higgs pair production at future multi-TeV muon colliders: A machine-learning analysis",
+  "topics": [
+   "Astrophysics & Cosmology"
+  ],
+  "updated": "2026-08-07"
  }
 }

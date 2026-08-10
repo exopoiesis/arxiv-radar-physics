@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,17 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12597.html">The critical slowing down in diffusion models</a></div></td>
 <td>Luca Maria Del Bono et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12597">2605.12597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10439.html">Filtering Memorization from Parameter-Space in Diffusion Models</a></div></td>
-<td>Yu Zhe et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10439">2605.10439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10642.html">Composing diffusion priors with explicit physical context via generative Gibbs sampling</a></div></td>
-<td>Weizhou Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10642">2605.10642</a></td>
 </tr>
 </tbody></table>

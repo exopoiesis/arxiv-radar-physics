@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,35 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27408.html">Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Chanyoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27408">2605.27408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09975.html">Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Hoyeol Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09975">2605.09975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10154.html">Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Xiaoxiao Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10154">2605.10154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10277.html">Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Koichi Taniguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10277">2605.10277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10383.html">Multifidelity Gaussian process regression for solving nonlinear partial differential equations</a></div></td>
-<td>Fatima-Zahrae El-Boukkouri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10383">2605.10383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10586.html">CausalGS: Learning Physical Causality of 3D Dynamic Scenes with Gaussian Representations</a></div></td>
-<td>Nengbo Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10586">2605.10586</a></td>
 </tr>
 </tbody></table>

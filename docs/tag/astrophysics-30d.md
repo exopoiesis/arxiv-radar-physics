@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06518.html">Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors</a></div><div class="paper-tags"><a href="event-classification-30d.html">event-classification</a> · <a href="high-energy-physics-30d.html">high-energy-physics</a></div></td>
+<td>A. Núñez Selin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06518">2608.06518</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04005.html">Cosmology in the Einstein Telescope era: comparing traditional and simulation-based methods for population inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Giovanni Antinozzi et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11417.html">Generative AI in Higher Education Laboratory Learning: A Qualitative Case Study of Epistemic Scaffolding and Assessment Boundaries</a></div></td>
 <td>Matteo Tuveri et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11417">2607.11417</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a> · <a href="inductive-bias-30d.html">inductive-bias</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Gaia Grosso et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,17 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Eduardo Ochoa Rivera et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12668">2605.12668</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10249.html">Diffeomorphic registration distances for Bayesian calibration of infinite-dimensional computer models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Paul Lartaud et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10249">2605.10249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10378.html">Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation</a></div></td>
-<td>Manuel Haußmann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10378">2605.10378</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hep — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <strong>30d</strong> <a href="hep-90d.html">90d</a> <a href="hep-360d.html">360d</a> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="high-energy-physics-30d.html">high-energy-physics</a> · <a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Ivan Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09195.html">Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Izumi Takahara et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09195">2607.09195</a></td>
 </tr>
 </tbody></table>

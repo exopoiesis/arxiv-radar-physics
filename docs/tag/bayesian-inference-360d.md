@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06944.html">Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
+<td>Sara Manzini et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06944">2608.06944</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Dibyajyoti Chakraborty et al.</td>
@@ -2666,11 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01219.html">Estimating the gravitational wave background anisotropy: a Bayesian approach boosted by cross-correlation angular power spectrum</a></div></td>
 <td>Chi Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2412.01219">2412.01219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09600.html">Accelerating the time-domain LISA response model with central finite differences and hybridization techniques</a></div></td>
-<td>Jorge Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09600">2505.09600</a></td>
 </tr>
 </tbody></table>

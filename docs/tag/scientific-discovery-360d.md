@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">508 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3056,11 +3056,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11779.html">A Multi-Task Evaluation of LLMs&#x27; Processing of Academic Text Input</a></div></td>
 <td>Tianyi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11779">2508.11779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10308.html">ReviewRL: Towards Automated Scientific Review with RL</a></div></td>
-<td>Sihang Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10308">2508.10308</a></td>
 </tr>
 </tbody></table>

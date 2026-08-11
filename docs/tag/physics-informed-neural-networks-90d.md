@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13260.html">Unified generalization analysis for physics informed neural networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Yuka Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13260">2605.13260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08877.html">Non-Uniqueness of Solutions in Neural Variational Methods</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Andreas Langer</td>
-<td><a href="http://arxiv.org/abs/2605.08877">2605.08877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13892.html">A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Nahid Binandeh Dehaghani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13892">2605.13892</a></td>
 </tr>
 </tbody></table>

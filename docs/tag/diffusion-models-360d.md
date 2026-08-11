@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3554,23 +3554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12155.html">A Systematic Particle Filter for Estimating Time-Varying Parameters in Advection-Diffusion Equations with Source Terms</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Andrea Arnold</td>
 <td><a href="http://arxiv.org/abs/2508.12155">2508.12155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02834.html">Learning from B Cell Evolution: Adaptive Multi-Expert Diffusion for Antibody Design via Online Optimization</a></div></td>
-<td>Hanqi Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02834">2508.02834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11528.html">Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Juhi Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11528">2508.11528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div></td>
-<td>Chenru Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flow-control — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <a href="flow-control-90d.html">90d</a> <strong>360d</strong> <a href="flow-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09110.html">SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning</a></div></td>
 <td>Nicholas Zolman et al.</td>
 <td><a href="http://arxiv.org/abs/2403.09110">2403.09110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05577.html">Model Predictive and Reinforcement Learning Methods for Active Flow Control of an Airfoil with Dual-point Excitation of Plasma Actuators</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>AmirHossein Ghaemi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05577">2502.05577</a></td>
 </tr>
 </tbody></table>

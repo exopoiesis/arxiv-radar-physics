@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">638 papers</span>
+  <span class="paper-count">637 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3836,11 +3836,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12032.html">Cosmology-informed Neural Networks to infer dark energy equation-of-state</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Anshul Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12032">2508.12032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11546.html">Highly efficient nuclear population transfer through physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Jing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11546">2508.11546</a></td>
 </tr>
 </tbody></table>

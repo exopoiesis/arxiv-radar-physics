@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,11 +596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17673.html">Twist-angle transferable continuum model and second flat Chern band in twisted MoTe2 and WSe2</a></div></td>
 <td>Xiao-Wei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17673">2508.17673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Christoph Brunken et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
 </tr>
 </tbody></table>

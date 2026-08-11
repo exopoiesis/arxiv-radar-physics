@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">316 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1910,17 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10729.html">On-device Anomaly Detection in Conveyor Belt Operations</a></div></td>
 <td>Luciano S. Martinez-Rau et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10729">2411.10729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01118.html">Variational Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</a></div></td>
-<td>Alexander Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01118">2411.01118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11528.html">Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Juhi Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11528">2508.11528</a></td>
 </tr>
 </tbody></table>

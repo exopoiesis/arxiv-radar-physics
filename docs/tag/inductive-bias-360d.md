@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">180 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1094,11 +1094,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12580.html">ChemKANs for Combustion Chemistry Modeling and Acceleration</a></div></td>
 <td>Benjamin C. Koenig et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12580">2504.12580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01532.html">Incorporating Coupling Knowledge into Echo State Networks for Learning Spatiotemporally Chaotic Dynamics</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Kuei-Jan Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01532">2504.01532</a></td>
 </tr>
 </tbody></table>

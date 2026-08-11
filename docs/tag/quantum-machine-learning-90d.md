@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,17 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13979.html">Winning Lottery Tickets in Neural Networks via a Quantum-Inspired Classical Algorithm</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Natsuto Isogai et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13979">2605.13979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11557.html">Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability</a></div></td>
-<td>Chon-Fai Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11557">2605.11557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18821.html">Quantum Adversarial Machine Learning: From Classical Adaptations to Quantum-Native Methods</a></div></td>
-<td>Roozbeh Razavi-Far et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18821">2605.18821</a></td>
 </tr>
 </tbody></table>

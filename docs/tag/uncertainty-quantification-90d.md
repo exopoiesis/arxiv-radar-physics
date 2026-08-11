@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -650,23 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13088.html">Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes</a></div></td>
 <td>Julien Martinelli et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13088">2605.13088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Mehmet Ali Ferah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12007.html">A geometry-aligned multi-fidelity framework for uncertainty quantification of wildfire spread</a></div></td>
-<td>Konstantinos Vogiatzoglou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12007">2605.12007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12668.html">Online Conformal Prediction: Enforcing monotonicity via Online Optimization</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Eduardo Ochoa Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12668">2605.12668</a></td>
 </tr>
 </tbody></table>

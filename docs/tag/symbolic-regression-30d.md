@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10546.html">LLM-PDESR: Robust PDE Discovery via Subdomain Weighted Residuals and LLM-Guided Symbolic Hypothesis Generation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Jinyang Du et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10546">2607.10546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10127.html">GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Xuanzhou Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10127">2607.10127</a></td>
 </tr>
 </tbody></table>

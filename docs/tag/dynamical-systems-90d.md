@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,23 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14489.html">A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures</a></div></td>
 <td>Sergio Vanegas et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14489">2605.14489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11460.html">Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Mehmet Ali Ferah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11460">2605.11460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12683.html">Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction</a></div></td>
-<td>Florian Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12683">2605.12683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12785.html">Identifying the nonlinear string dynamics with port-Hamiltonian neural networks</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
-<td>Maximino Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12785">2605.12785</a></td>
 </tr>
 </tbody></table>

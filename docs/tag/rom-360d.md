@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00013.html">Reduced order modeling of the unsteady pressure on turbine rotor blades using deep learning</a></div></td>
 <td>Dominique Joachim et al.</td>
 <td><a href="http://arxiv.org/abs/2503.00013">2503.00013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11911.html">Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Yongsheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11911">2508.11911</a></td>
 </tr>
 </tbody></table>

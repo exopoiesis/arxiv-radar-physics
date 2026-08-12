@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <strong>30d</strong> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18403.html">Towards a universal model for spin-orbit coupled Wannier Hamiltonians</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Alexander C. Tyner</td>
 <td><a href="http://arxiv.org/abs/2607.18403">2607.18403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10664.html">Edge Cluster Expansion with Radial Rotary Attention for Interatomic Potentials</a></div></td>
-<td>Zemin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10664">2607.10664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a></div></td>
-<td>Jan Eckwert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>astrophysics — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06518.html">Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors</a></div><div class="paper-tags"><a href="event-classification-7d.html">event-classification</a> · <a href="high-energy-physics-7d.html">high-energy-physics</a></div></td>
 <td>A. Núñez Selin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06518">2608.06518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04005.html">Cosmology in the Einstein Telescope era: comparing traditional and simulation-based methods for population inference</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="cosmology-7d.html">cosmology</a></div></td>
-<td>Giovanni Antinozzi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04005">2608.04005</a></td>
 </tr>
 </tbody></table>

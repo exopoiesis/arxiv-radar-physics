@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">800 papers</span>
+  <span class="paper-count">798 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4802,17 +4802,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13216.html">Strategies for training point distributions in physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Santosh Humagain et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13216">2508.13216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00318.html">Sub-Sequential Physics-Informed Learning with State Space Model</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Chenhui Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00318">2502.00318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12155.html">A Systematic Particle Filter for Estimating Time-Varying Parameters in Advection-Diffusion Equations with Source Terms</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Andrea Arnold</td>
-<td><a href="http://arxiv.org/abs/2508.12155">2508.12155</a></td>
 </tr>
 </tbody></table>

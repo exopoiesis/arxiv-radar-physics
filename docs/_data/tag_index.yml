@@ -4,7 +4,7 @@
   total: 1030
   group: scientific-machine-learning
 - name: partial-differential-equations
-  count: 38
+  count: 37
   total: 1364
   group: dynamical-systems
 - name: pinns
@@ -16,43 +16,43 @@
   total: 1122
   group: dynamical-systems
 - name: quantum-machine-learning
-  count: 29
+  count: 28
   total: 916
   group: quantum-physics
-- name: bayesian-inference
-  count: 25
-  total: 683
-  group: generative-models
 - name: uncertainty-quantification
   count: 25
   total: 855
   group: generative-models
+- name: bayesian-inference
+  count: 24
+  total: 683
+  group: generative-models
 - name: inverse-problems
-  count: 21
+  count: 20
   total: 655
   group: generative-models
 - name: anomaly-detection
-  count: 19
+  count: 18
   total: 510
   group: particle
 - name: diffusion-models
-  count: 18
-  total: 981
-  group: generative-models
-- name: scientific-discovery
   count: 17
-  total: 711
+  total: 981
   group: generative-models
 - name: dark-matter
   count: 16
   total: 351
   group: astrophysics
-- name: remote-sensing
+- name: scientific-discovery
   count: 16
+  total: 711
+  group: generative-models
+- name: remote-sensing
+  count: 15
   total: 1015
   group: climate
 - name: scientific-machine-learning
-  count: 16
+  count: 15
   total: 311
   group: scientific-machine-learning
 - name: materials-discovery
@@ -71,10 +71,6 @@
   count: 11
   total: 324
   group: astrophysics
-- name: symbolic-regression
-  count: 11
-  total: 292
-  group: generative-models
 - name: cfd
   count: 10
   total: 326
@@ -83,14 +79,14 @@
   count: 10
   total: 299
   group: fluid-dynamics
-- name: operator-learning
-  count: 10
-  total: 406
-  group: scientific-machine-learning
 - name: qml
   count: 10
   total: 340
   group: quantum-physics
+- name: symbolic-regression
+  count: 10
+  total: 292
+  group: generative-models
 - name: inductive-bias
   count: 9
   total: 225
@@ -99,22 +95,22 @@
   count: 9
   total: 201
   group: materials-science
+- name: operator-learning
+  count: 9
+  total: 406
+  group: scientific-machine-learning
 - name: electronic-structure
   count: 8
   total: 195
-  group: materials-science
-- name: force-fields
-  count: 8
-  total: 172
-  group: materials-science
-- name: machine-learning-interatomic-potentials
-  count: 8
-  total: 231
   group: materials-science
 - name: astrophysics
   count: 7
   total: 223
   group: astrophysics
+- name: force-fields
+  count: 7
+  total: 172
+  group: materials-science
 - name: rans
   count: 7
   total: 126
@@ -123,6 +119,10 @@
   count: 6
   total: 244
   group: climate
+- name: machine-learning-interatomic-potentials
+  count: 6
+  total: 231
+  group: materials-science
 - name: surrogate-modeling
   count: 6
   total: 233

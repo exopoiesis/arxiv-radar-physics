@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14107.html">SuryaBench: Benchmark Dataset for Advancing Machine Learning in Heliophysics and Space Weather Prediction</a></div></td>
 <td>Sujit Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14107">2508.14107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12198.html">Exploring Multimodal AI Reasoning for Meteorological Forecasting from Skew-T Diagrams</a></div></td>
-<td>ChangJae Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12198">2508.12198</a></td>
 </tr>
 </tbody></table>

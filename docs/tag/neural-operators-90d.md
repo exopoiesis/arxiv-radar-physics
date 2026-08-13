@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -560,29 +560,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15881.html">Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems</a></div></td>
 <td>Yeang Makara et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15881">2605.15881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Alan John Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14546.html">Discovering Physical Directions in Weight Space: Composing Neural PDE Experts</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Pengkai Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14546">2605.14546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15179.html">Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Ellwil Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15179">2605.15179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15407.html">Amortized Energy-Based Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="seismic-inversion-90d.html">seismic-inversion</a></div></td>
-<td>Hojjat Kaveh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15407">2605.15407</a></td>
 </tr>
 </tbody></table>

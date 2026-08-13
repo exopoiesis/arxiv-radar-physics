@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16594.html">fPINN-DeepONet: A Physics-Informed Operator Learning Framework for Multi-term Time-fractional Mixed Diffusion-wave Equations</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Binghang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16594">2605.16594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14332.html">PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Alan John Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14332">2605.14332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15285.html">Universal Approximation of Nonlinear Operators and Their Derivatives</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Filippo de Feo</td>
-<td><a href="http://arxiv.org/abs/2605.15285">2605.15285</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13371.html">RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery</a></div><div class="paper-tags"><a href="climate-modeling-30d.html">climate-modeling</a></div></td>
 <td>Tessa Cannon et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13371">2607.13371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12905.html">A new model for runaway electron transport based on chaotic Hamiltonian systems</a></div></td>
-<td>Dániel Jánosi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12905">2607.12905</a></td>
 </tr>
 </tbody></table>

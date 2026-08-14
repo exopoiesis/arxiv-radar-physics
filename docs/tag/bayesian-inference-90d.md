@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17608.html">Bayesian-Monte Carlo Schedule Updating for Construction Digital Twins: A Probabilistic Framework for Dynamic Project Forecasting</a></div></td>
 <td>Atena Khoshkonesh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17608">2605.17608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22848.html">From Simulation to Discovery: AI Enabled Probabilistic Emulation of Mechanistic Crop Systems</a></div></td>
-<td>Mojdeh Saadati et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22848">2605.22848</a></td>
 </tr>
 </tbody></table>

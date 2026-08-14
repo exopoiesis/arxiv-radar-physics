@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div></td>
-<td>Sam Levang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06241">2608.06241</a></td>
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09286.html">VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting</a></div></td>
+<td>Zhisheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09286">2608.09286</a></td>
 </tr>
 </tbody></table>

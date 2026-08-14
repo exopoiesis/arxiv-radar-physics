@@ -3750,5 +3750,535 @@
    "Astrophysics & Cosmology"
   ],
   "updated": "2026-08-07"
+ },
+ "2608.07801": {
+  "abstract": "Precision nitrogen (N) management (PNM) for cotton requires in-season monitoring of crop growth parameters and N status indicators to decide fertilizer timing, placement, and application rates for optimal canopy development and yield. This study developed remote sensing and machine learning-based methods to estimate cotton dry biomass weight (DBW), plant N uptake (PNU), plant N concentration (PNC), critical N dilution (Nc), and nitrogen nutrition index (NNI) to support PNM. To achieve this, a three-year field-based N-management study was conducted and unmanned aerial vehicle (UAV)-based multispectral images were acquired between early vegetative growth and flowering stages, critical for fertilizer applications. Spatiotemporally consistent spectral and morphological plant features, including plant height (PH) and fractional canopy cover (FCC), provided reliable model training inputs. DBW, PNU, and PNC estimates from simple regression using vegetation indices (VIs), multiple linear regression (MLR) combining VIs, PH, and FCC, and decision-tree models, random forest regression (RFR) and extreme gradient boosting (XGB), combining spectral reflectance, PH, and FCC were evaluated using trial-held-out (THO) and leave-one-year-out (LOYO) validation methods. The best validation accuracies were from RFRTHO (R2 = 0.88 and MAPE = 23.14% for DBW; R2 = 0.84 and MAPE = 20.61% for PNU; R2 = 0.85 and MAPE = 7.82% for PNC) and XGBTHO (R2 = 0.87 and MAPE = 21.91% for DBW; R2 = 0.81 and MAPE = 21.40% for PNU; R2 = 0.86 and MAPE = 7.66% for PNC). Nc was calculated from model estimated DBW and PNC for high-yielding, medium-to-tall cotton varieties grown in the Texas Coastal Plains and validated using ground-truth biomass measurements. NNI derived from XGBTHO outputs performed marginally better than NNI from RFRTHO in identifying N-deficient plots and multi-level N-stress categorization.",
+  "authors": [
+   "Vaishali Swaminathan",
+   "Nithya Rajan",
+   "J Alex Thomasson",
+   "Amrit Shrestha",
+   "Karem Meza Capcha",
+   "Robert Hardin",
+   "Pramod Pokhrel"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Vaishali Swaminathan",
+  "pdf_url": "http://arxiv.org/pdf/2608.07801",
+  "primary_category": "eess.IV",
+  "published": "2026-08-07",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Integrating spectral and morphological plant features with decision-tree models for early-season cotton biomass and nitrogen status estimation from multi-year UAV data",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07982": {
+  "abstract": "Vision foundation models (VFMs) such as DINO are pretrained for single-image representation, whereas remote sensing change detection requires reasoning over a bi-temporal pair. Existing VFM-based methods usually encode the two images independently and compare them only afterward, leaving the VFM backbone unaware of cross-temporal relations. To bridge this mismatch, we present AdaDINO, a pair-aware in-backbone adaptation framework that equips a frozen DINO encoder with bi-temporal interaction for efficient change detection. Its core component, Change-aware Gated Local Adaptation (CGLA), couples the two streams after selected frozen blocks and injects a shared temporal residual into them with opposite signs, enhancing genuine change responses while preserving the pair midpoint. Batch-Shared Chunk Selection (BSCS) further reduces feed-forward network (FFN) computation by retaining a batch-shared subset of channel chunks that can be executed as a compact dense FFN. A CGLA-Prior-Guided Refinement (CPGR) decoder reuses encoder-side change responses for coarse-to-fine prediction. Experiments on four remote sensing change detection benchmarks show that AdaDINO achieves competitive or superior performance against VFM-based baselines, with the largest gain on the category-agnostic SYSU-CD dataset. With 62.5% of the FFN hidden width removed, AdaDINO still achieves an F1 score of 85.29% on SYSU-CD while delivering a 1.41$\\times$ throughput speedup. The code will be released.",
+  "authors": [
+   "Xu Zhang",
+   "Xinqing Li",
+   "Jianpeng Xie",
+   "Zeshuai Zhu",
+   "Xin He",
+   "Yun Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Xu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.07982",
+  "primary_category": "cs.CV",
+  "published": "2026-08-08",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.09286": {
+  "abstract": "Global medium-range weather forecasting requires modeling structured yet state-dependent interactions among heterogeneous atmospheric fields. Existing data-driven models largely learn these interactions implicitly, whereas equation-level physical constraints may inherit approximation and model-form biases. We present VeinCast, a physics-guided dynamic field graph and graph-conditioned fusion framework that jointly forecasts 69 surface and upper-air fields. Within each local window, its Physics-Guided Dynamic Field Graph combines predefined atmospheric relations with state-dependent Top-K residual edges and adapts Earth-window attention using the resulting graph context. Graph-Conditioned Latent Fusion further employs graph context and source-node centrality to guide field-to-latent aggregation, while bounded feedback preserves field-specific information. On the $1.5^\\circ$ ERA5 benchmark, VeinCast demonstrates competitive forecasting performance across all 69 meteorological fields at lead times of up to 14 days, compared with representative global weather forecasting models including FuXi, Pangu-Weather, GraphCast, FengWu, and ARROW. Ablations confirm that the two modules provide complementary gains, demonstrating the effectiveness of relational-level physical guidance for data-driven weather forecasting.",
+  "authors": [
+   "Zhisheng Chen",
+   "Jinhan Li",
+   "Yuxuan Li",
+   "Yuan Gao",
+   "Hao Wu",
+   "Zheng Lu",
+   "Jinlong Du",
+   "Kun Wang",
+   "Bo An"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhisheng Chen",
+  "pdf_url": "http://arxiv.org/pdf/2608.09286",
+  "primary_category": "cs.LG",
+  "published": "2026-08-10",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.09683": {
+  "abstract": "Probabilistic coastal hazard assessments require accurate characterization of tropical cyclone (TC) parameters, yet datasets often contain missing records for the radius of maximum winds (Rmax), a key variable in Joint Probability Method analyses. This study evaluates data-driven approaches for Rmax imputation, including one-dimensional Convolutional Neural Networks (1DCNNs), Long Short-Term Memory (LSTM) networks, and conventional machine learning models. We examine physics-informed input augmentation, temporal modeling, and transfer learning using synthetic RAFT and STORM datasets for pre-training and observational IBTrACS data for fine-tuning. Including the radius of 34-knot winds (R34) substantially improves performance across all model types. Temporal models achieve higher average correlations than non-temporal models despite using approximately an order of magnitude fewer samples, indicating better preservation of relative Rmax variability across storms. This advantage is more pronounced when R34 is unavailable, suggesting temporal information can partially compensate for missing storm-size predictors. Transfer learning does not improve performance, likely because synthetic datasets have lower and less variable Rmax distributions than IBTrACS. These findings demonstrate the potential of temporal deep learning for reconstructing incomplete TC records and highlight the importance of physics-informed inputs, observational data availability, and distributional consistency in coastal hazard assessment.",
+  "authors": [
+   "Swastik Agrawal",
+   "Nishkal Hundia",
+   "Ziyue Liu",
+   "Michelle Bensi"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Swastik Agrawal",
+  "pdf_url": "http://arxiv.org/pdf/2608.09683",
+  "primary_category": "cs.LG",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "Deep Learning Imputation of Missing Radius of Maximum Winds (Rmax) Values in Tropical Cyclone Best-Track Data",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.10003": {
+  "abstract": "Yellowfin tuna (Thunnus albacares) is an economically important pelagic species in the Indian Ocean, but its monthly catch variability is difficult to predict because reported catch is influenced by ocean productivity, thermal habitat, monsoon seasonality, fishing-ground characteristics, and fleet behavior. This study develops a remote sensing-based statistical and machine learning stacked ensemble for modeling monthly yellowfin tuna catch across five fishing grounds in the western equatorial Indian Ocean during 2003-2024. Monthly fishery records were integrated with satellite-derived chlorophyll-a concentration (CHL) and sea surface temperature (SST). Linear mixed models (LMMs) and a generalized additive mixed model (GAMM) were used to represent interpretable current and lagged environmental effects, while Random Forest models captured nonlinear interactions among lagged, rolling, seasonal, anomaly, and spatial predictors. Expanding-window validation over the pre-COVID evaluation period from 2008 to 2019 was used to reduce temporal leakage. Among the individual models, the GAMM achieved the best log-scale performance, with an R-squared value of 0.137 and an RMSE of 1.284, while RF-E6 achieved the lowest RMSE on the kilogram scale. The nonnegative Ridge stacked ensemble improved the log-scale R-squared value to 0.177, with an RMSE of 1.254 and an MAE of 1.000. These results show that satellite-derived CHL and SST contain useful but incomplete predictive information for monthly catch modeling.",
+  "authors": [
+   "Avishka Wijepala",
+   "Sharukshan Niranjan",
+   "Lisitha Abeysekara",
+   "Pasindu Weerasinghe"
+  ],
+  "categories": [
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Avishka Wijepala",
+  "pdf_url": "http://arxiv.org/pdf/2608.10003",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-07",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Remote Sensing-Based Hybrid Statistical and Machine Learning Ensemble Modeling of Yellowfin Tuna Catch in the Western Equatorial Indian Ocean",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.10014": {
+  "abstract": "Tumor progression is an inherently multiphysical phenomenon in which interstitial fluid dynamics, biochemical transport, and cellular mechanics interact across multiple spatiotemporal scales. Classical mesh-based solvers, although accurate, impose prohibitive computational costs for the repeated evaluations demanded by inverse parameter identification and future patient-specific predictive pipelines. In this work we introduce a Physics-Informed Neural Network (PINN) framework for a tractable chemo-fluidic continuum model of tumor growth that couples an advection-diffusion-reaction (ADR) equation for the tumor volume fraction with a quasi-static Darcy pressure equation for the interstitial fluid pressure. By intentionally decoupling the solid-mechanical equilibrium, we obtain a three-equation system whose gradient structure is stable under automatic differentiation, enabling robust deep-learning optimization. The network simultaneously learns both state variables from physics constraints alone (forward problem) and recovers hidden transport parameters from sparse, noisy synthetic measurements (Data-Assimilation PINN, DA-PINN, inverse problem). We verify the forward solver against a high-resolution finite-difference (FD) reference, achieving a mean absolute error below 0.002. For the inverse problem, starting from an initial permeability estimate of 0.08 (a factor of 4x above the true value of 0.02) with only 5% spatially sparse observations corrupted by 5% Gaussian noise, the DA-PINN recovers the permeability with a relative error below 5%. These results demonstrate that physics-informed deep learning constitutes a viable, computationally efficient route to multiphysics oncology modeling and lays the mathematical groundwork for future integration into clinical data assimilation pipelines.",
+  "authors": [
+   "Celia Taboada",
+   "Pedro Navas",
+   "Miguel Molinos"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Celia Taboada",
+  "pdf_url": "http://arxiv.org/pdf/2608.10014",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-08",
+  "tags": [
+   "data-assimilation"
+  ],
+  "title": "A Physics-Informed Neural Network Approach to Multiphysics Continuum Modeling of Cancer Growth via Chemo-fluid Coupling",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.10022": {
+  "abstract": "The large-scale oceanic and atmospheric forecasts provided by global climate models typically lack sufficient resolution to accurately capture the response of the coastal ocean to atmospheric forcing and coastal circulation that drive fine-scale SST variability. Dynamical downscaling is computationally prohibitive, when applied to extensive coastlines, predictive ensembles, or long time periods. Therefore, this work presents a statistical downscaling of sea surface temperature (SST) from the seasonal coupled ocean-atmosphere forecast system (ACCESS-S2) using machine learning techniques. This study proposes a novel deep learning framework that uses a U-Net to generate an initial high-resolution SST estimate, which is subsequently refined using a residual corrective approach. The target SST fields are derived from the Regional Ocean Modeling System (ROMS). This two step approach called Residual Corrective Neural Network (RCNN) progressively refines initial U-Net predictions by incorporating dynamically scaled residuals at each step, enabling accurate capture of broad patterns and fine-grained features such as eddies and fronts. We also introduce a custom loss-assisted RCNN variant to improve performance during extreme events, which may be absent from training data due to climate-driven shifts in SST extremes. The framework efficiently downscales SST along the west coast of Australia. A 2011 marine heatwave case study shows that the RCNN improves ACCESS-S2 SST predictions by increasing horizontal resolution from 25 km to 2 km, enabling identification of fine-scale anomalies unresolved in the ACCESS-S2 dataset. This balance between computational efficiency and accuracy supports applications in coastal impact assessment and marine ecosystem studies.",
+  "authors": [
+   "Onkar Jadhav",
+   "Tim French",
+   "Ivica Janekovic",
+   "Nicole L. Jones",
+   "Matthew Rayson"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Onkar Jadhav",
+  "pdf_url": "http://arxiv.org/pdf/2608.10022",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-09",
+  "tags": [],
+  "title": "Deep Learning-Based Statistical Downscaling of Sea Surface Temperature Using a Residual Corrective Neural Network",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-09"
+ },
+ "2608.10277": {
+  "abstract": "We present a stochastic coupled emulator of E3SM version 3, built on the SamudrACE framework, which couples an atmosphere emulator (ACE2) with a full-depth ocean emulator (Samudra). We replace the deterministic atmosphere emulator with its stochastic counterpart, ACE2S, and fine-tune the coupled system with a probabilistic objective, so that the atmosphere acts as a source of internal variability for the ocean. Trained on 105 years of a pre-industrial control simulation and evaluated on an independent 400 years, the emulator reproduces E3SMv3's mean climate state with biases much smaller than existing model-to-observation differences. Relative to a deterministic baseline, stochastic training maintains internal variability across timescales, most notably in the ENSO power spectrum, eddy-rich SST anomalies, and sea ice variability in the marginal ice zone. The emulator captures daily precipitation accurately up to the 99.99th percentile, but underestimates the rarest tropical extremes. These results show that stochastic coupled emulators can reproduce long-timescale variability with high fidelity, while extrapolation to unseen extremes remains a key challenge.",
+  "authors": [
+   "Elynn Wu",
+   "James P. C. Duncan",
+   "Troy Arcomano",
+   "Jeremy McGibbon",
+   "Oliver Watt-Meyer",
+   "Christopher S. Bretherton",
+   "Naser Mahfouz",
+   "Claudia Tebaldi",
+   "Luke Van Roekel",
+   "Andrew Roberts",
+   "Wuyin Lin",
+   "Finn Rebassoo",
+   "Jean-Christophe Golaz",
+   "Peter M. Caldwell"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Elynn Wu",
+  "pdf_url": "http://arxiv.org/pdf/2608.10277",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "Stochastic Emulation of a Fully Coupled Preindustrial E3SMv3 Simulation",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.10399": {
+  "abstract": "Many air quality models indicate that rapid reductions in nitrogen oxides (NOx), without comparable controls on volatile organic compounds, have worsened summertime ozone pollution in urban China, producing a short-term strong ozone penalty. Other models, however, simulate the opposite response, suggesting that cutting down NOx has already helped mitigate ozone pollution. This contradiction obscures understanding of atmospheric chemistry and weakens guidance on control policy design. Here, we reconcile this disagreement and reveal the underestimated benefits of NOx emission reductions using a machine learning framework integrated with an observational constraint. We first constrain ozone responses under a 30% NOx reduction, comparable to the magnitude of NOx emission declines across major Chinese city clusters between 2015 and 2023. The constrained results indicate that ozone decreases prevail across urban China, with only small increases mainly in July 2015. This challenges the widespread ozone worsening that many models predict. We then extend the constraint across 10-60% NOx reductions, establishing its use for rapid ozone sensitivity diagnosis without exhaustive scenario modeling. This diagnosis shows that sustained NOx control increasingly favored ozone mitigation during 2015-2023, benefiting a growing share of China's population. These results underscore that continued NOx reductions can deliver larger ozone mitigation benefits than many models suggest.",
+  "authors": [
+   "Xiang Weng",
+   "Xiao Lu",
+   "Jiawei Li",
+   "Grant Forster",
+   "Jessica Chapman",
+   "Beckie George",
+   "Yunbo Lu",
+   "Guowen He",
+   "Haofan Wang",
+   "Jingcheng Lai",
+   "Peer Nowack"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiang Weng",
+  "pdf_url": "http://arxiv.org/pdf/2608.10399",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-11",
+  "tags": [],
+  "title": "Observational Evidence Revises Presumed Large Ozone Worsening from Nitrogen Oxides Cuts",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.10426": {
+  "abstract": "Open-vocabulary remote sensing segmentation has recently emerged as a promising paradigm that enables pixel-level recognition of arbitrary categories specified by natural language, including classes unseen during training. However, geospatial domain shifts caused by heterogeneous regions, spatial resolutions, and acquisition platforms weaken visual-text matching and limit cross-dataset generalization. Recent attempts have begun to incorporate auxiliary vision foundation models (VFMs), typically coupling their features with text embeddings as additional matching evidence. However, this strategy may introduce inconsistent matching signals while leaving the structure-sensitive representations of VFMs insufficiently exploited. We therefore propose GeoSeg-OV, which decouples auxiliary VFM features from visual-text matching and repurposes them as structural guidance for cost aggregation and decoding. GeoSeg-OV constructs an orientation-robust cost volume from multi-rotation CLIP features, while a frozen VFM extracts multi-scale structure-sensitive features in parallel. We propose Structure-Guided Aggregation (SGA), which integrates cost tokens and CLIP semantic guidance with VFM-derived pairwise structural biases for coherent spatial propagation, followed by text-conditioned class-wise reasoning. We further introduce Cost-Aware Decoding (CAD) to adaptively refine and fuse multi-scale semantic and structural guidance based on the current decoder context. On the global High-Resolution Land Cover (HRLC) benchmark spanning seven datasets across six continents, GeoSeg-OV outperforms the state-of-the-art by +2.5 and +2.7 average mIoU under two training settings. A large-scale zero-shot case study further demonstrates its generalization across geographic domains and category systems without target-domain annotations or retraining.",
+  "authors": [
+   "Ruizhong Liu",
+   "Tingzhang Luo",
+   "Zaiyan Zhang",
+   "Jundong Chen",
+   "Hongruixuan Chen",
+   "Shaoguang Huang",
+   "Hongyan Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Code and benchmark: https://github.com/zzaiyan/GeoSeg-OV",
+  "first_author": "Ruizhong Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.10426",
+  "primary_category": "cs.CV",
+  "published": "2026-08-11",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "GeoSeg-OV: Bridging Geospatial Gaps with Structural Guidance for Open-Vocabulary Remote Sensing Segmentation",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.10801": {
+  "abstract": "Spatio-temporal PV data are essential for understanding adoption processes in off-grid regions, yet such data remain largely unavailable. Automated segmentation of remote sensing (RS) imagery offers a promising solution; yet, residential PV systems remain challenging targets because of their small size and sparse distribution, resulting in severe target-background imbalance. Vision-language foundation models (FMs) provide a data-efficient paradigm through prompt-based semantic and spatial guidance, but the relative contribution of different prompt types remains unclear. We systematically evaluate SAM3 for small-scale PV segmentation in RS imagery by comparing textual, geometric, and hybrid prompting, under varying supervision levels, training strategies, spatial resolutions, and imaging conditions. Multi-temporal aerial imagery from a large off-grid rural region serves as a study site, with findings validated across three additional datasets. Prompting strategy emerged as the dominant factor governing model behavior. Textual prompting consistently produced the lowest performance and showed the greatest sensitivity to supervision and imaging conditions. In contrast, spatial guidance substantially improved both segmentation accuracy and robustness. Hybrid prompting achieved the highest accuracy and stability, indicating that semantic and spatial guidance provide complementary information. Most performance gains were achieved with only a few hundred annotated samples, demonstrating strong data efficiency. Transfer learning had limited overall impact, with only modest improvements observed for textual prompting under limited supervision. Overall, our findings establish prompting strategy as a key determinant of SAM3 adaptation, robustness, and generalization, highlighting the potential of promptable FMs for scalable PV mapping in data-constrained off-grid regions.",
+  "authors": [
+   "Roni Blushtein-Livnon",
+   "Tal Svoray",
+   "Osher Rafaeli",
+   "Michael Dorman",
+   "Itay Fischhendler",
+   "Havazelet Yahel",
+   "Emir Galilee"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Roni Blushtein-Livnon",
+  "pdf_url": "http://arxiv.org/pdf/2608.10801",
+  "primary_category": "cs.CV",
+  "published": "2026-08-11",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Evaluating Semantic and Spatial Guidance for Foundation Model Segmentation of Small-Scale PV in Remote Sensing Imagery",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11064": {
+  "abstract": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concerns arise regarding the decision-making process of its models, mainly due to deep neural networks outperforming their peers at the cost of ambiguity in feature extraction and prediction. Consequently, in critical domains such as remote sensing, where high-resolution imagery must be analyzed using black-box models, the lack of transparency limits trust in these models and, thus, their adoption. In light of this reality, explaining and understanding the complex decision-making process of AI models has become essential. Explainable AI (XAI) aims to bridge this gap by providing insights into how and why certain decisions are made. While significant progress has been achieved in explaining image classification tasks, image segmentation still offers considerable room for improvement. In this context, this paper proposes an entropy-centric XAI method for semantic segmentation. Moreover, a new XAI evaluation methodology is proposed to efficiently measure the relevance of the regions highlighted by the proposed XAI method. Experimental results demonstrate the superiority of the proposed XAI method compared with recently adapted XAI methods for semantic segmentation.",
+  "authors": [
+   "Ali Saleh",
+   "Abdul Karim Gizzini",
+   "Mohamad Ghassany",
+   "Ali J. Ghandour"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Ali Saleh",
+  "pdf_url": "http://arxiv.org/pdf/2608.11064",
+  "primary_category": "cs.CV",
+  "published": "2026-08-11",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11142": {
+  "abstract": "Agricultural monitoring faces unique challenges, arising from the landscape's complex temporal, phenological, and climate dynamics, yet monitoring them is critical for ensuring food security. Synthetic Aperture Radar (SAR) satellites offer all-weather day-night imaging capability supporting key monitoring tasks including crop type mapping, yield prediction and phenological event detection. Existing multimodal remote sensing foundation models including TerraMind and CopernicusFM learn SAR representations by grounding them in optical imagery using joint encoding and contrastive learning techniques, while SAR-specific foundation models such as SAR-JEPA, SARMAE, and SAR-W-MixMAE primarily focus on target detection, flood mapping, and land cover classification applications. Recent work has introduced phenology inspired temporal pretext tasks with optical imagery which has shown strong performance on agricultural downstream tasks. In this work, we propose the first self-supervised learning pipeline focused on using only SAR intensity imagery for agricultural applications. We improve the temporal pretext tasks through masking and curriculum learning to enhance the pretraining pipeline's ability to capture phenological features from SAR. On the SICKLE benchmark, our final model achieves 84.9% IoU on crop type mapping, outperforming optical baselines (by 15.3 pt) and existing SAR baselines (by 2.2 pt), demonstrating the effectiveness of our proposed pipeline for pretraining SAR intensity encoders for agricultural monitoring.",
+  "authors": [
+   "Moti Rattan Gupta",
+   "Anupam Sobti"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Moti Rattan Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2608.11142",
+  "primary_category": "cs.CV",
+  "published": "2026-08-11",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11545": {
+  "abstract": "While AI has shown remarkable promise in atmospheric and meteorological forecasting, accurately simulating other components of the Earth system with AI remains an active frontier. We present DLESyM-Ocean, a Deep Learning Earth System Model that simulates global present-day sea ice and upper ocean conditions. Unlike conventional probabilistic models optimized via diffusion objectives or losses such as continuous-ranked probability score, DLESyM-Ocean is trained using a patch energy score loss. When driven by atmospheric forcing, DLESyM-Ocean produces a well-calibrated, spatially coherent, and skillful ensemble of sea ice and upper ocean conditions with minimal bias relative to reanalysis products. DLESyM-Ocean is stable when autoregressively run for multi-year simulations and produces a climatology and variability with minimal bias compared with reanalysis. We evaluate case studies including a recent sea ice extreme, a severe marine heatwave, the 2023 El Niño transition, and the 2023 spike in global mean temperature. In all of these case studies, DLESyM-Ocean produces realistic surface and subsurface trajectories and ample ensemble diversity in response to common atmospheric forcing, suggestive of learned autoregressive ocean dynamics. When coupled with other Earth system components, such as the atmosphere, the computational efficiency of DLESyM-Ocean makes it a promising tool for subseasonal to seasonal forecasting.",
+  "authors": [
+   "Zachary I Espinosa",
+   "Nathaniel Cresswell-Clay",
+   "William Yik",
+   "Cecilia M. Bitz",
+   "Edward Blanchard-Wrigglesworth",
+   "Peter Harrington",
+   "David Pruitt",
+   "Michael S. Pritchard",
+   "Dale R. Durran"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "35 pages, 21 figures",
+  "first_author": "Zachary I Espinosa",
+  "pdf_url": "http://arxiv.org/pdf/2608.11545",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "DLESyM-Ocean: A Deep Learning Probabilistic Global Model for Simulating Present-Day Upper Ocean and Sea Ice",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.11748": {
+  "abstract": "Hyperspectral pansharpening aims to reconstruct a high resolution hyperspectral (HRHS) image from a panchromatic (PAN) image and a low resolution hyperspectral (LRHS) image while preserving both spatial details and spectral fidelity. Recent diffusion based methods exploit pretrained image priors by generating a low dimensional representation and subsequently mapping it to the hyperspectral domain. However, the observed panchromatic and hyperspectral images are typically imposed only through external reconstruction objectives, limiting their direct interaction with the diffusion prior. To address this issue, we propose dual-modality image-prompted diffusion model (DIDM) for zero shot hyperspectral pansharpening. DIDM encodes the low resolution hyperspectral and panchromatic observations into spectral and spatial prompt tokens, respectively, and injects them into intermediate features of a frozen remote sensing diffusion model through cross attention, allowing complementary spectral and spatial information to directly guide diffusion feature evolution. In addition, we introduce a panchromatic guided weighted pixel aware total variation regularizer that combines low resolution hyperspectral degradation fidelity and panchromatic response fidelity with gradient adaptive structural regularization, thereby preserving structural discontinuities while suppressing spurious variations in homogeneous regions. Extensive experiments on Pavia, Chikusei, and Houston under reduced resolution protocols show that DIDM achieves the best performance across all evaluated metrics, while full resolution evaluation on FR1 yields the highest HQNR among the compared methods. These results demonstrate that internal dual modality prompting and panchromatic guided structural regularization provide an effective balance between spatial detail enhancement and spectral preservation.",
+  "authors": [
+   "Pengwei Xie",
+   "Fei Zhu",
+   "Jiajun Li",
+   "Xiangyuan Liu",
+   "Xiangyuan Liu",
+   "Kangqing Shen",
+   "Gemine Vivone"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Pengwei Xie",
+  "pdf_url": "http://arxiv.org/pdf/2608.11748",
+  "primary_category": "cs.CV",
+  "published": "2026-08-12",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12001": {
+  "abstract": "Rapid urbanization in Dhaka District, Bangladesh has triggered substantial alterations in land use and environmental conditions, necessitating systematic monitoring for informed urban planning and ecological sustainability. This study employs remote sensing data and machine learning techniques to analyze spatiotemporal changes in land cover and vegetation dynamics between 2019 and 2024. High-resolution satellite imagery from Sentinel-2 MSI and Landsat 8 was utilized to classify land cover types and compute spectral indices including the Normalized Difference Vegetation Index (NDVI), Normalized Difference Built-up Index (NDBI), and Normalized Difference Water Index (NDWI). A supervised machine learning approach incorporating Decision Tree, K-Nearest Neighbors (KNN), and Random Forest classifiers was applied using labeled geospatial training points within Google Earth Engine. Accuracy assessments were conducted using confusion matrices and kappa statistics. Results indicate a 59.5% increase in urban built-up areas and a significant decline in vegetation (-8.46%) and water bodies (-7.77%) over the five-year period. Land conversion from vegetated and aquatic areas to urban infrastructure was identified as a dominant trend. Among the models, Random Forest demonstrated the highest classification accuracy. These findings underscore the growing environmental pressures driven by unregulated urban expansion in Dhaka. The study highlights the potential of remote sensing and machine learning tools in providing timely, actionable data to support sustainable urban development, land-use regulation, and ecosystem conservation policies.",
+  "authors": [
+   "Muhammad Masud Tarek",
+   "Md. Alamgir Hossain",
+   "Md. Samiul Islam",
+   "Muntasir Hasan Kanchan"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "16 Pages, 8 Figures, 9 Tables",
+  "first_author": "Muhammad Masud Tarek",
+  "pdf_url": "http://arxiv.org/pdf/2608.12001",
+  "primary_category": "cs.LG",
+  "published": "2026-08-12",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Remote Sensing and Machine Learning-Based Analysis of Land Use and Vegetation Change in Dhaka District, Bangladesh",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12271": {
+  "abstract": "Global weather reanalyses and forecasts resolve the evolving atmospheric state on coarse grids, but site-specific applications require predictions at arbitrary locations where near-surface conditions also depend on unresolved terrain and land-surface properties. Existing probabilistic downscalers address this gap using hand-crafted topographic descriptors. We ask instead whether Earth observation foundation models can provide transferable sub-grid surface representations for probabilistic weather downscaling.   We augment a convolutional conditional neural process that downscales coarse ERA5 reanalysis fields at ~25 km resolution with a learned local surface descriptor, obtained by compressing a patch of TESSERA embeddings at 10 m resolution. Although these embeddings summarise surface conditions over annual timescales, they improve downscaling of instantaneous 2 m temperature and 10 m wind speed by encoding persistent surface properties that capture a location's departure from the coarse-grid atmospheric state. Across five climatically diverse regions, the embedding improves point and probabilistic skill at stations held out in both space and time, overall improving CRPS skill by 11.5% for 2 m temperature and 6.2% for 10 m wind speed. We further analyse how its contribution differs by variable, finding that topography explains more of temperature's sub-grid structure, while TESSERA provides additional surface information for wind speed.   These improvements persist when the coarse input is changed from ERA5 to forecasts from the Aurora AI forecasting model, and when predicting at newly deployed stations with no regional history. To our knowledge, this is the first evidence that long-timescale Earth-observation embeddings can support short-timescale weather downscaling where sub-grid departures are systematically structured by persistent surface properties.",
+  "authors": [
+   "Pedro Sousa",
+   "Will Tebbutt",
+   "Sadiq Jaffer",
+   "Robin Young",
+   "Anil Madhavapeddy",
+   "Richard E. Turner"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "39 pages, 12 figures, 6 tables",
+  "first_author": "Pedro Sousa",
+  "pdf_url": "http://arxiv.org/pdf/2608.12271",
+  "primary_category": "cs.LG",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12300": {
+  "abstract": "We cast general imaging as multiparameter quantum estimation of band-limited spatial-frequency amplitudes. For separable (single-copy) measurements, we compute precision limits using semidefinite programming to evaluate the Nagaoka-Hayashi Cramér-Rao bound. We then introduce an architecture for a measurement apparatus based on diffractive optical neural networks and photon counting that saturates this bound. Extending the framework to arbitrary objects and many amplitudes, we show image reconstructions in which our architecture recovers fine features at the quantum limit, outperforming direct imaging. Together, these results open a scalable route to saturating multiparameter quantum limits in superresolution microscopy, telescopy, and remote sensing.",
+  "authors": [
+   "Aakash Warke",
+   "Aonan Zhang",
+   "A. I. Lvovsky"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Aakash Warke",
+  "pdf_url": "http://arxiv.org/pdf/2608.12300",
+  "primary_category": "quant-ph",
+  "published": "2026-08-12",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Quantum-limited imaging using diffractive optical neural networks",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12685": {
+  "abstract": "An ``Attention Residual U-Net'' method is described for probabilistic quantitative precipitation forecasting (PQPF) that predicts the hourly probability of no precipitation plus the distribution of positive precipitation from a weighted mixture of two Gamma distributions. The neural network is trained on patches of numerical weather prediction (NWP) hourly precipitation from The Weather Company's convection-permitting GRAF (Global high-Resolution Atmospheric Forecasting) model along with terrain information and column-average relative humidity from the National Oceanic and Atmospheric Administration's (NOAA's) Global Forecast System (GFS). The target data are NOAA's Multi-Radar, Multi-Sensor (MRMS) gauge-corrected, quality controlled radar data sampled to the same grid as the GRAF data. The network outputs distributional parameters for each model grid point. Training uses negative log-likelihood as a proper scoring rule, with climatological initialization for stable convergence. Inference is performed as a single forward pass over the contiguous United States (CONUS) domain, with edge-replication padding to satisfy the network's spatial-divisibility requirement. The subsequent forecasts are spatially detailed, highly reliable, and skillful with respect to climatology and a simpler reference forecast method. The method is particularly useful for estimating probabilities in regions with large terrain variation.",
+  "authors": [
+   "Thomas M Hamill"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Thomas M Hamill",
+  "pdf_url": "http://arxiv.org/pdf/2608.12685",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-13",
+  "tags": [],
+  "title": "High-resolution Calibrated Probabilistic Hourly Precipitation from a Deterministic Forecast",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.12988": {
+  "abstract": "Satellite precipitation products such as IMERG exhibit biases that vary with terrain, season, and precipitation regime, leaving the applicability boundaries of machine learning correction unclear. This study proposes the Terrain-Moisture-Intensity (TMI) framework, centered on mechanism purity, extending the correction problem from purely algorithmic optimization to physical consistency diagnosis. A proof-of-concept study in Hunan Province employs IMERG V07, SRTM DEM, and ERA5 variables (tcwv, u10, v10). Ablation results indicate that, under the conditions of this study, terrain-moisture relationships are predominantly additive: RF-Full yields merely +0.001 R^2 gain over LR-Full, while bias rises to 1.282 mm d^-1; MAE decreases by approximately 14%, reflecting a trade-off between tail-fitting improvement and mean shift. SHAP diagnostics identify three categories of boundaries. Spatially, Central Hunan exhibits significant degradation (R^2=0.133) despite strong variable activation, consistent with mechanism fragmentation induced by mixed terrain. Temporally, u10 undergoes directional reversal between summer and spring (+0.096 to -0.156), presenting \"silent failure.\" Extreme precipitation (>=50 mm d^-1) approximates a mechanism saturation frontier rather than isolated out-of-distribution samples, with DEM showing the largest relative amplification in SHAP disorder (+150%). The results demonstrate that machine learning correction performance is primarily constrained by mechanism purity. A pre-registered cross-regional test (Hunan, Guangxi, Guangdong) confirms this screening capability out of sample: a priori coherence proxies predict correction efficiency with a mean absolute error of 2.6 percentage points, while the transfer-versus-retraining contrast separates mechanism mismatch (coastal Guangdong) from portability (Guangxi), establishing the framework as a validated applicability screen.",
+  "authors": [
+   "Yi Xu"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "physics.data-an"
+  ],
+  "comment": "44 pages, 8 figures, 5 tables; supplementary material included (8 tables, 2 figures)",
+  "first_author": "Yi Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.12988",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-08-13",
+  "tags": [],
+  "title": "Machine learning correction of satellite precipitation is governed by mechanism purity, not algorithmic complexity: a proof-of-concept study in Hunan, China, with pre-registered cross-regional validation",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-08-13"
  }
 }

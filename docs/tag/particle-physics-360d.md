@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,11 +608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14293.html">Search for a Heavy-philic W&#x27; Boson using Proton-Proton Collisions at Center-of-Mass Energy of 13 TeV Using the ATLAS Detector</a></div></td>
 <td>Jason Peter Gombas</td>
 <td><a href="http://arxiv.org/abs/2508.14293">2508.14293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12939.html">Simulation-Based Inference: A Practical Guide</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Michael Deistler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12939">2508.12939</a></td>
 </tr>
 </tbody></table>

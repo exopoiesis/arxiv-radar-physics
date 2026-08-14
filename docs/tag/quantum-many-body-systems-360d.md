@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <strong>360d</strong> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13455.html">Autoregressive Typical Thermal States</a></div></td>
 <td>Tarun Advaith Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13455">2508.13455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12724.html">Adaptive-basis sample-based neural diagonalization for quantum many-body systems</a></div></td>
-<td>Simone Cantori et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12724">2508.12724</a></td>
 </tr>
 </tbody></table>

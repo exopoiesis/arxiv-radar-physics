@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09286.html">VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting</a></div></td>
+<td>Zhisheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09286">2608.09286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div></td>
 <td>Sam Levang et al.</td>
@@ -1004,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15724.html">Numerical models outperform AI weather forecasts of record-breaking extremes</a></div></td>
 <td>Zhongwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15724">2508.15724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14107.html">SuryaBench: Benchmark Dataset for Advancing Machine Learning in Heliophysics and Space Weather Prediction</a></div></td>
-<td>Sujit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14107">2508.14107</a></td>
 </tr>
 </tbody></table>

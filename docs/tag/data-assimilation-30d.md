@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10014.html">A Physics-Informed Neural Network Approach to Multiphysics Continuum Modeling of Cancer Growth via Chemo-fluid Coupling</a></div></td>
+<td>Celia Taboada et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10014">2608.10014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Dibyajyoti Chakraborty et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16080.html">Physics-Based Deep Spatiotemporal Hyperlocal Radar Nowcasting with a Multi-Variable U-Net for High-Resolution Precipitation Forecasting</a></div></td>
 <td>Akshay Sunil et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16080">2607.16080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12975.html">Ensemble Controlled-Flow Filtering for Implicit Data Assimilation</a></div></td>
-<td>Zhuoyuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12975">2607.12975</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18311.html">A neural network for estimating compact binary coalescence parameters of gravitational-wave events in real time</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Sushant Sharma Chaudhary et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18311">2505.18311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00297.html">GWSkyNet-Multi II: an updated machine learning model for rapid classification of gravitational-wave events</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Nayyer Raza et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00297">2502.00297</a></td>
 </tr>
 </tbody></table>

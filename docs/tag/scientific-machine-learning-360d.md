@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16767.html">Walk-on-Interfaces: A Monte Carlo Estimator for an Elliptic Interface Problem with Nonhomogeneous Flux Jump Conditions and a Neumann Boundary Condition</a></div></td>
 <td>Xinwen Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16767">2508.16767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06280.html">Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
-<td>Yuanzhe Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06280">2506.06280</a></td>
 </tr>
 </tbody></table>

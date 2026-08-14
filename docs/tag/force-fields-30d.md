@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>force-fields — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <strong>30d</strong> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20551.html">SenCos-GEM: SENet-Calibrated and Law-of-Cosines-Constrained Geometry-Enhanced Molecular Representation for Property Prediction</a></div></td>
 <td>Tianming Han et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20551">2607.20551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13261.html">Aromatic Molecule Solvation in Liquid Water with Coupled Cluster Accuracy: The Balance of Pi-Interactions and Hydrophobicity</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Nore Stolte et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13261">2607.13261</a></td>
 </tr>
 </tbody></table>

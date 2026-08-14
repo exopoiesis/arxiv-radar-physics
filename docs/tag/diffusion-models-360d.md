@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3536,17 +3536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13890.html">Diffusion-Driven High-Dimensional Variable Selection</a></div></td>
 <td>Minjie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13890">2508.13890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13747.html">Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions</a></div></td>
-<td>Xinwei Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13747">2502.13747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16643.html">From Classical Probabilistic Latent Variable Models to Modern Generative AI: A Unified Perspective</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Tianhua Chen</td>
-<td><a href="http://arxiv.org/abs/2508.16643">2508.16643</a></td>
 </tr>
 </tbody></table>

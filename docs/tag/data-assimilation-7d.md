@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10014.html">A Physics-Informed Neural Network Approach to Multiphysics Continuum Modeling of Cancer Growth via Chemo-fluid Coupling</a></div></td>
+<td>Celia Taboada et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10014">2608.10014</a></td>
 </tr>
 </tbody></table>

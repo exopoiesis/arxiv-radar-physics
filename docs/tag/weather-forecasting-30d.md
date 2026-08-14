@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09286.html">VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting</a></div></td>
+<td>Zhisheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09286">2608.09286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div></td>
 <td>Sam Levang et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20557.html">Monkey King Bang: A Unified Scientific Multimodal Foundation Model</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Hesen Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20557">2607.20557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Ingmar Posner et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12474">2607.12474</a></td>
 </tr>
 </tbody></table>

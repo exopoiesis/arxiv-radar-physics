@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2432,17 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15381.html">Numerical Analysis of Unsupervised Learning Approaches for Parameter Identification in PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Siyu Cen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15381">2508.15381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06549.html">Good Things Come in Pairs: Paired Autoencoders for Inverse Problems</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06549">2505.06549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13088.html">Seeing the Many: Exploring Parameter Distributions Conditioned on Features in Surrogates</a></div></td>
-<td>Xiaohan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13088">2508.13088</a></td>
 </tr>
 </tbody></table>

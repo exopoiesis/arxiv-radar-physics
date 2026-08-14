@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09286.html">VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting</a></div></td>
+<td>Zhisheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09286">2608.09286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06241.html">Timestep-Conditioned Transformers for Global Weather Forecasting</a></div></td>
 <td>Sam Levang et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17369.html">The Deep Learning-Based Dual-Branch Multimodal Fusion Model for Solar Flare Prediction</a></div></td>
 <td>Limin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17369">2605.17369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15752.html">Forecasting megaelectron-volt electron flux in the Earth&#x27;s outer radiation belt using supervised machine learning algorithms and a timeseries foundation model</a></div></td>
-<td>Rungployphan Kieokaew et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15752">2605.15752</a></td>
 </tr>
 </tbody></table>

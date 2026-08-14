@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>David Krongauz et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12351.html">Residual-Certified Adaptive Tracking of Solution Manifolds in Parametric Dynamical Systems</a></div></td>
-<td>Yiran Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12351">2607.12351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16313.html">Generalist AI Control: Towards Multi-purpose Adaptive Algorithms</a></div></td>
-<td>Klinsmann Agyei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16313">2607.16313</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-differential-equations — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="neural-differential-equations-7d.html">7d</a> <a href="neural-differential-equations-30d.html">30d</a> <a href="neural-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="neural-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13044.html">Identifiability-aware neural ordinary differential equations for parsimonious and reliable dynamic modelling</a></div></td>
+<td>Núria Campo-Manzanares et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13044">2608.13044</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08165.html">Predicting blood clot growth from sparse post-onset measurements with latent neural differential equations</a></div></td>
+<td>Lennon J. Shikhman et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08165">2608.08165</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05718.html">Learning Stable Controlled Dynamical Systems via Input-Contraction Neural Differential Models</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>

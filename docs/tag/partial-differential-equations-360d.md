@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">795 papers</span>
+  <span class="paper-count">808 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11831.html">Kernel Methods for Learning Operators with Multiple Inputs and Outputs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Adrien Weihs et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11831">2608.11831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11937.html">Distillation of Foundation Models for Time-dependent PDEs</a></div></td>
+<td>Daniel Musekamp et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11937">2608.11937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Zhipeng Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10389.html">Efficient Weak-Entropy PINN for Solving Hyperbolic Conservation Laws</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Qi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10389">2608.10389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11019.html">DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Hengbo Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11019">2608.11019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09071.html">Two-Step MV-DeepONet: Probabilistic Operator Learning for Uncertainty Propagation Driven by Random Input Fields</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Yupei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09071">2608.09071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09494.html">Walk-on-Spheres Monte Carlo and deep neural network approximations of elliptic PDEs with drift and killing</a></div></td>
+<td>Konrad Kleinberg et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09494">2608.09494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09764.html">MoNo: Multiscale Optimal Transport Neural Operator for Solving PDEs on General Geometries</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Zijiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09764">2608.09764</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08658.html">Mass Lumping and Numerical Quadrature for Approximation of Fractional Elliptic Differential Equations Driven by Gaussian White Noise</a></div></td>
+<td>Kelvin J. R. Almeida-Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08658">2608.08658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08782.html">Quantum-Classical Physics-Informed Kolmogorov-Arnold Networks for Solving Fuzzy Differential Equations</a></div></td>
+<td>Xiang Rao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08782">2608.08782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08134.html">Rational neural networks for tracking complex singularities of nonlinear PDEs</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
+<td>Nadiia Derevianko et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08134">2608.08134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06660.html">CT-PIKAN: Coordinate-Transformed Physics-Informed Kolmogorov-Arnold Network with Autograd-Based Metric Evaluation for Solving PDEs in Curvilinear Domains</a></div></td>
+<td>Mohammad E. Heravifard et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06660">2608.06660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06894.html">From Points to Edges: Edge-Conditioned Spectral Operators for Physics-Sensitive PDE Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Zhentao Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06894">2608.06894</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05554.html">A Label-Free Physics-to-Data Acceleration Framework for Parametric Time-Dependent PDEs with Latent-Space Differential-Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>

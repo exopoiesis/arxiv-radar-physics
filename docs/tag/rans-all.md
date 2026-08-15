@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13490.html">DD-RNO: A Domain-Decomposed Routed Neural Operator for Airfoil Flow Prediction</a></div></td>
+<td>T. A. Mehta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13490">2608.13490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08608.html">ADEx-FNO: A Unified Ambient-Domain Framework for Fourier Neural Operators on Varying Geometries</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="neural-operators-all.html">neural-operators</a></div></td>
+<td>Roberto Nuca et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08608">2608.08608</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04708.html">Benchmarking Multi-fidelity Neural Operators on Complex PDE Problems with Non-trivial Fidelity Differences</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="les-all.html">les</a> · <a href="neural-operators-all.html">neural-operators</a></div></td>

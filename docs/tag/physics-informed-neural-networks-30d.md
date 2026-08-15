@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Zhipeng Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10389.html">Efficient Weak-Entropy PINN for Solving Hyperbolic Conservation Laws</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Qi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10389">2608.10389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11020.html">Derivative Computation in PINNs: Automatic Differentiation, Finite Differences and Beyond</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Maciej J. Mikulski et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11020">2608.11020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11282.html">Physics-Informed Implicit Neural Representations for Improved Myocardial Perfusion MRI Quantification</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Christos Tsepas et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11282">2608.11282</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11480.html">Forward Trajectory Steering for Hamilton-Jacobi Reachability Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Sungje Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11480">2608.11480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09483.html">Hierarchical rank-evolving representation for physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Ruoyang Su et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09483">2608.09483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08785.html">Robust Fault Detection and Classification in Power Systems via Physics-Informed and Data-Driven Learning</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Biswash Basnet et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08785">2608.08785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08846.html">Solving Einstein&#x27;s Vacuum Equations with Physics-Informed Neural Networks: Boundary Conditions and Domain Decomposition</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Elly Bayona et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08846">2608.08846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08114.html">Finite basis physics-informed neural networks with hard constraints for viscous fluid flow in highly perforated domains</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Jeeeun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08114">2608.08114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08322.html">Eikonal Regularisation in Physics-Informed Neural Networks for Three-Dimensional Level-Set Advection: Transferability of Two-Dimensional Design Principles</a></div></td>
+<td>Muhammad Akbar Khan</td>
+<td><a href="http://arxiv.org/abs/2608.08322">2608.08322</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05559.html">A Recentered-Domain Yau-Yau Filter for Target Tracking</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
@@ -38,6 +98,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04206.html">From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Chenhao Si et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04206">2608.04206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09981.html">Optimizing Parameterized Physics-Informed Neural Networks to Solve Multilayered Static Linear Elastic PDEs</a></div></td>
+<td>Joseph Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09981">2608.09981</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
@@ -218,23 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15087.html">Split Complex-Valued Physics-Informed Neural Networks for Forward and Inverse Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Biswanath Barman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13467.html">Physics-Informed Residual Deep Learning for Constitutive Modeling of Hot Deformation and Dynamic Recrystallization in a Mo-Rich $α+β$ Titanium Alloy</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Prashil S. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13467">2607.13467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13566.html">Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Tianchi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13566">2607.13566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14233.html">LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Nilay Anurag et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14233">2607.14233</a></td>
 </tr>
 </tbody></table>

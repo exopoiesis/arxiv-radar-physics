@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11679.html">AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection</a></div></td>
+<td>Touseef Hasan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11679">2608.11679</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11330.html">Robust Quantum Machine Learning for Collider Event Selection under Detector Variability</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Christopher Brown et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11330">2608.11330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06876.html">FedVAR: Prototype-Aligned Federated Framework for Video Anomaly Recognition</a></div></td>
+<td>Ghani Haider et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06876">2608.06876</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05605.html">Enhancing Anomaly Resilience in Research Networks: A Large-Scale Forecasting Benchmark for Dynamic Security Baselining</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>

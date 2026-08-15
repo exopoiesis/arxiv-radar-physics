@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12801.html">Julia for CFD: A Critical Survey of Ecosystem, Performance, and Composability</a></div></td>
+<td>Tianbai Xiao</td>
+<td><a href="http://arxiv.org/abs/2608.12801">2608.12801</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13260.html">Virtual Temperature Sensors in Power Transformers Using Neural Ordinary Differential Equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Berk Hadzhamolla et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13260">2608.13260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08608.html">ADEx-FNO: A Unified Ambient-Domain Framework for Fourier Neural Operators on Varying Geometries</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="rans-30d.html">rans</a></div></td>
+<td>Roberto Nuca et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08608">2608.08608</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04708.html">Benchmarking Multi-fidelity Neural Operators on Complex PDE Problems with Non-trivial Fidelity Differences</a></div><div class="paper-tags"><a href="les-30d.html">les</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="rans-30d.html">rans</a></div></td>

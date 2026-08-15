@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10766.html">Rule of Thumb: Explaining Artificial Intelligence Systems using Partial Information</a></div></td>
+<td>Kaivalya Rawal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10766">2608.10766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13505.html">Intern-S2-Preview: Scientific Agentic Foundation Model</a></div></td>
+<td>Lei Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13505">2608.13505</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13558.html">OmniScientist: An Omni-Modal Omni-Discipline AI Scientist</a></div></td>
+<td>Bobo Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13558">2608.13558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10427.html">Causality Sum Rules in Conventional Scattering Matrices</a></div></td>
+<td>Ning Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10427">2608.10427</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09303.html">SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry</a></div></td>
+<td>Laura Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09303">2608.09303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06931.html">Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</a></div></td>
+<td>Taolin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06931">2608.06931</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
@@ -74,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13220.html">Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science</a></div></td>
 <td>Sutanay Choudhury et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13220">2607.13220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>David Krongauz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14178.html">ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System</a></div></td>
-<td>Yutong He et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14178">2607.14178</a></td>
 </tr>
 </tbody></table>

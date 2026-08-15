@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2608.11020">
+<h1 class="abstract-title">Derivative Computation in PINNs: Automatic Differentiation, Finite Differences and Beyond</h1>
+<p class="abstract-authors">Maciej J. Mikulski, Tadeusz Uhl</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2608.11020" rel="nofollow noopener">arXiv:2608.11020</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2026-08-11</span></p>
+<div class="abstract-body">We systematically investigate finite-difference (FD) derivative computation in Physics-Informed Neural Networks (PINNs) as an alternative to automatic differentiation (AD). On three benchmark PDEs we show that, with a properly calibrated step size, FD matches AD in accuracy on every problem while running faster across the full tested batch-size range and using substantially less GPU memory, and that a stochastic variant we propose outperforms AD on a stationary problem. We further show that for neural architectures with inter-sample dependencies (e.g. BatchNorm, self-attention) the standard PyTorch autograd idiom is silently incorrect; the correct per-sample alternative is computationally infeasible at PINN-relevant batch sizes, while FD provides a forward-only approximation that is empirically an order of magnitude closer to the true per-sample derivative.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Scientific Machine Learning &amp; PINNs</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> <a href="../tag/pinns-30d.html">pinns</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG, math.NA, physics.comp-ph</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2608.11020" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2608.11020" rel="nofollow noopener">PDF</a></p>
+</article>

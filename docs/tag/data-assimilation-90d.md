@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.10014">2608.10014</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07469.html">Efficient three-dimensional variational data assimilation of multi-plane PIV data</a></div></td>
+<td>Uttam Cadambi Padmanaban et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07469">2608.07469</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
 <td>Dibyajyoti Chakraborty et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Luca Saverio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28851.html">Towards a Foundation Model for the Martian Atmosphere</a></div><div class="paper-tags"><a href="atmospheric-physics-90d.html">atmospheric-physics</a> · <a href="remote-sensing-90d.html">remote-sensing</a></div></td>
-<td>Sujit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28851">2605.28851</a></td>
 </tr>
 </tbody></table>

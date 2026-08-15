@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08007.html">Implicit Likelihood Inference and $z$-Binned Reconstruction of Dark Energy $w(z)$</a></div></td>
+<td>Ke Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08007">2608.08007</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11813.html">Breaking the Dark Sector Degeneracy with Nonparametric Expansion--Growth Reconstruction</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>

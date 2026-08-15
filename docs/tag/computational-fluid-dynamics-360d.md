@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13260.html">Virtual Temperature Sensors in Power Transformers Using Neural Ordinary Differential Equations</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Berk Hadzhamolla et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13260">2608.13260</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Xiaozhu Lin et al.</td>
@@ -1076,11 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16916.html">The compressible Neural Particle Method for Simulating Compressible Viscous Fluid Flows</a></div></td>
 <td>Masato Shibukawa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16916">2508.16916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13867.html">OpenLB-UQ: An Uncertainty Quantification Framework for Incompressible Fluid Flow Simulations</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Mingliang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13867">2508.13867</a></td>
 </tr>
 </tbody></table>

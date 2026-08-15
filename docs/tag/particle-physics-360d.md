@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09531.html">The Living Guide of Machine Learning for Particle Physics</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
+<td>Claudius Krause et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09531">2608.09531</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Johannes Buchner</td>
@@ -602,11 +608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20991.html">ExpertSim: Fast Particle Detector Simulation Using Mixture-of-Generative-Experts</a></div></td>
 <td>Patryk Będkowski et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20991">2508.20991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14293.html">Search for a Heavy-philic W&#x27; Boson using Proton-Proton Collisions at Center-of-Mass Energy of 13 TeV Using the ATLAS Detector</a></div></td>
-<td>Jason Peter Gombas</td>
-<td><a href="http://arxiv.org/abs/2508.14293">2508.14293</a></td>
 </tr>
 </tbody></table>

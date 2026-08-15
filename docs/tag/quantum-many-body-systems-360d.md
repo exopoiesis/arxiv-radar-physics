@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09496.html">Autoregressive Projective Quantum Monte Carlo: From a Hermitian to a Non-Hermitian Perspective</a></div></td>
+<td>Lavoisier Wah et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09496">2608.09496</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25265.html">Bayesian Variational Method for Precision Few-Body Calculations</a></div></td>
 <td>Shigeyoshi Aoyama</td>
@@ -284,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20711.html">Hamiltonian Learning of Triplon Excitations in an Artificial Nanoscale Molecular Quantum Magnet</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Rouven Koch et al.</td>
 <td><a href="http://arxiv.org/abs/2504.20711">2504.20711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13455.html">Autoregressive Typical Thermal States</a></div></td>
-<td>Tarun Advaith Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13455">2508.13455</a></td>
 </tr>
 </tbody></table>

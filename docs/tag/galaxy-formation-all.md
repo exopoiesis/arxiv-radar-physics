@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>galaxy-formation — all</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <a href="galaxy-formation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09566.html">Searching for low-surface-brightness galaxies with compact neural networks A parameter-efficient approach to first-pass selection of diffuse galaxy in HSC-SSP imaging</a></div></td>
+<td>Günther K. Heemann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09566">2608.09566</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13151.html">Evaluating the flexibility of the MillenniumTNG galaxy formation model with multi-zoom re-simulations</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a></div></td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,90 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Sagi Meir et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13123">2608.13123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11613.html">A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Mingtao Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11613">2608.11613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12479.html">Identifying changing partial differential equations using Sampled Local WeakIdent</a></div></td>
+<td>Wenbo Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12479">2608.12479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12496.html">Adaptable Fingerprinting with Nonlinear Shrinkage for Climate Change Detection and Attribution under Variance Heterogeneity</a></div></td>
+<td>Haoran Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12496">2608.12496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12603.html">Hierarchical Bayesian Calibration with Bayesian Committee Machine</a></div></td>
+<td>Sebastian Heinekamp et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12603">2608.12603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12624.html">Structure-preserving uncertainty quantification for GENERIC dynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Zequn He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12624">2608.12624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08422.html">Population-Level Generative Modeling for Ranking Data</a></div></td>
+<td>Zhaoyang Shi</td>
+<td><a href="http://arxiv.org/abs/2608.08422">2608.08422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10350.html">Observation geometry for uncertainty-aware Hamiltonian inference and experimental design in quantum magnets</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Roy Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10350">2608.10350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09071.html">Two-Step MV-DeepONet: Probabilistic Operator Learning for Uncertainty Propagation Driven by Random Input Fields</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Yupei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09071">2608.09071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09202.html">CRUISE: Vision-Language Model-Guided Uncertainty-Aware Cross-Modal Sensor Fusion for Robust Autonomous Driving</a></div></td>
+<td>Junyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09202">2608.09202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09678.html">A Gaussian Process framework for constraining the nuclear equation of state from microscopic calculations with correlated uncertainties</a></div></td>
+<td>Y. G. Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09678">2608.09678</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09903.html">From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping</a></div><div class="paper-tags"><a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
+<td>Hsuan-Cheng Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09903">2608.09903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08398.html">Estimating Uncertainty in Galaxy Morphology Classification</a></div></td>
+<td>Kai Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08398">2608.08398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08495.html">Bayesian Localization and Uncertainty Quantification of Trace Species in Two-Dimensional SIMS Imaging</a></div></td>
+<td>Mengchi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08495">2608.08495</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04817.html">A Knowledge-Centric Communication For Autonomous Cislunar Networks</a></div></td>
@@ -122,23 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15907.html">A Semiparametric Framework for Stochastic Fundamental Diagram Modeling</a></div></td>
 <td>Pengnan Chi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15907">2607.15907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Leonard Moracchini et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13827.html">Inherent interpretability provides inherent value in quantum machine learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Kaitlin Gili et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13827">2607.13827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14392.html">Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Priyabrata Senapati et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14392">2607.14392</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oceanography — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="oceanography-7d.html">7d</a> <a href="oceanography-30d.html">30d</a> <a href="oceanography-90d.html">90d</a> <strong>360d</strong> <a href="oceanography-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13113.html">Spatiotemporally Resolved Measurements of CO2 Distribution at the Air-Water Interface Using Tunable Diode Laser Spectroscopy</a></div></td>
 <td>Dongfang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13113">2509.13113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13636.html">LUNDIsim: model meshes for flow simulation and scientific data compression benchmarks</a></div></td>
-<td>Laurent Duval et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13636">2508.13636</a></td>
 </tr>
 </tbody></table>

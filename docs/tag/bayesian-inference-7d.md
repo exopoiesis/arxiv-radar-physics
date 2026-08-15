@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,9 +16,33 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06944.html">Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a></div></td>
-<td>Sara Manzini et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06944">2608.06944</a></td>
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12940.html">Newtrinos.jl: A Julia Package for Global Analysis of Neutrino Data</a></div></td>
+<td>Philipp Eller et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12940">2608.12940</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12309.html">A contiguity approach to replica symmetric marginals</a></div></td>
+<td>Ernesto Mordecki et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12309">2608.12309</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12640.html">Interpretable Causal Discovery via Causal-Effect Constraints</a></div></td>
+<td>Cixuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12640">2608.12640</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10350.html">Observation geometry for uncertainty-aware Hamiltonian inference and experimental design in quantum magnets</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Roy Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10350">2608.10350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08156.html">A Hybrid Nested Harness for Decoupling Structure and Parameters in LLM-Driven Optimization</a></div></td>
+<td>Víctor Gallego</td>
+<td><a href="http://arxiv.org/abs/2608.08156">2608.08156</a></td>
 </tr>
 </tbody></table>

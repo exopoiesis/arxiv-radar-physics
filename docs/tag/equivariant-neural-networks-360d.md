@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equivariant-neural-networks — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="equivariant-neural-networks-7d.html">7d</a> <a href="equivariant-neural-networks-30d.html">30d</a> <a href="equivariant-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="equivariant-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12010.html">Reducing Symmetry Increase in Equivariant Neural Networks</a></div></td>
+<td>Ning Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12010">2608.12010</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>

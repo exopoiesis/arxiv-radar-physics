@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09926.html">Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning</a></div></td>
+<td>Haodong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09926">2608.09926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10162.html">MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text</a></div></td>
+<td>Ananya Bal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10162">2608.10162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Marylou Gabrié</td>
+<td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04840.html">Towards a satellite image manipulation and deepfake localization benchmark dataset</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
@@ -536,11 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17546.html">Accelerating Redshift-Conditioned Galaxy Image Synthesis with One-step Generative Modeling</a></div></td>
 <td>Tianyue Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17546">2605.17546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16751.html">Spatial curvature in Unimodular Gravity</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Gilberto Aguilar-Pérez et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16751">2605.16751</a></td>
 </tr>
 </tbody></table>

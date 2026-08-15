@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07981.html">Distilling Physical Priors into Streaming World Models</a></div></td>
+<td>Liangliang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07981">2608.07981</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08088.html">Machine Learning Framework for Magnetic Candidate Discovery in Cerium-Based Compounds</a></div></td>
+<td>Joshua A. Torres et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08088">2608.08088</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06203.html">Beyond Electrons: Radiative Thermal Computing and Neural Networks at the Near-Field Limit</a></div></td>
 <td>Hexiang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06203">2608.06203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06597.html">Cascading Through the Hierarchy: Regularizer-Induced Feature Detection as Phase Transitions in Deep Linear Neural Networks</a></div></td>
+<td>Björn Ladewig et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06597">2608.06597</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-01</td>
@@ -1028,17 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15230.html">Robust and Efficient Quantum Reservoir Computing with Discrete Time Crystal</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Da Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15230">2508.15230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12837.html">Learning In-context n-grams with Transformers: Sub-n-grams Are Near-stationary Points</a></div></td>
-<td>Aditya Varre et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12837">2508.12837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15841.html">A Review of Developmental Interpretability in Large Language Models</a></div></td>
-<td>Ihor Kendiukhov</td>
-<td><a href="http://arxiv.org/abs/2508.15841">2508.15841</a></td>
 </tr>
 </tbody></table>

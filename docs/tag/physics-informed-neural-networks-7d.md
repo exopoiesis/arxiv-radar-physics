@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08846.html">Solving Einstein&#x27;s Vacuum Equations with Physics-Informed Neural Networks: Boundary Conditions and Domain Decomposition</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Elly Bayona et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08846">2608.08846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08114.html">Finite basis physics-informed neural networks with hard constraints for viscous fluid flow in highly perforated domains</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Jeeeun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08114">2608.08114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08322.html">Eikonal Regularisation in Physics-Informed Neural Networks for Three-Dimensional Level-Set Advection: Transferability of Two-Dimensional Design Principles</a></div></td>
-<td>Muhammad Akbar Khan</td>
-<td><a href="http://arxiv.org/abs/2608.08322">2608.08322</a></td>
 </tr>
 </tbody></table>

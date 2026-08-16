@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,29 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
 <td>Priyesh Kakka et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17376">2607.17376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14665.html">A new strategy for physics-informed neural networks based on hierarchical collocation point refinement</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Minjae Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14665">2607.14665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14855.html">Subgrid-Scale Parameterization in Burgers&#x27; Equation Using Structure-Preserving Neural Networks and Entropy Variables</a></div></td>
-<td>Aijaz Nazir et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14855">2607.14855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15087.html">Split Complex-Valued Physics-Informed Neural Networks for Forward and Inverse Nonlinear PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Biswanath Barman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15087">2607.15087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15492.html">Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation</a></div></td>
-<td>Adarsh Pashikanti et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15492">2607.15492</a></td>
 </tr>
 </tbody></table>

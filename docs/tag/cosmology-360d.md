@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,11 +1178,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15899.html">CIGaRS I: Combined simulation-based inference from SNae Ia and host photometry</a></div></td>
 <td>Konstantin Karchev et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15899">2508.15899</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14624.html">The revolution in strong lensing discoveries from Euclid</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Natalie E. P. Lines et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14624">2508.14624</a></td>
 </tr>
 </tbody></table>

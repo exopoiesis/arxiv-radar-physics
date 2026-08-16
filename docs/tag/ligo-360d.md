@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19311.html">Identification of Strongly Lensed Gravitational Wave Events Using Squeeze-and-Excitation Multilayer Perceptron Data-efficient Image Transformer</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Dejiang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19311">2508.19311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18311.html">A neural network for estimating compact binary coalescence parameters of gravitational-wave events in real time</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Sushant Sharma Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18311">2505.18311</a></td>
 </tr>
 </tbody></table>

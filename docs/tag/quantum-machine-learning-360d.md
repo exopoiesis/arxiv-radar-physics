@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3074,29 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15230.html">Robust and Efficient Quantum Reservoir Computing with Discrete Time Crystal</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Da Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15230">2508.15230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10934.html">Detection states of ions in a Paul trap via conventional and quantum machine learning algorithms</a></div></td>
-<td>Ilia Khomchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10934">2412.10934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14470.html">Preparation of Hamming-Weight-Preserving Quantum States with Log-Depth Quantum Circuits</a></div></td>
-<td>Yu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14470">2508.14470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14844.html">Multimodal Quantum Vision Transformer for Enzyme Commission Classification from Biochemical Representations</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Murat Isik et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14844">2508.14844</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14955.html">Quantum Long Short-term Memory with Differentiable Architecture Search</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
-<td>Samuel Yen-Chi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14955">2508.14955</a></td>
 </tr>
 </tbody></table>

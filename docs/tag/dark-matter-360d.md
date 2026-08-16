@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">215 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03812.html">Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Tri Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03812">2503.03812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14624.html">The revolution in strong lensing discoveries from Euclid</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Natalie E. P. Lines et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14624">2508.14624</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">701 papers</span>
+  <span class="paper-count">699 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4208,17 +4208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15451.html">A Solvable Molecular Switch Model for Stable Temporal Information Processing</a></div></td>
 <td>H. I. Nurdin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15451">2508.15451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21234.html">Data-Efficient System Identification via Lipschitz Neural Networks</a></div></td>
-<td>Shiqing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21234">2410.21234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15128.html">Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction</a></div></td>
-<td>Sridhar Mahadevan</td>
-<td><a href="http://arxiv.org/abs/2508.15128">2508.15128</a></td>
 </tr>
 </tbody></table>

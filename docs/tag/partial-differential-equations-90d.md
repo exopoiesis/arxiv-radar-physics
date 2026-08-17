@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,17 +860,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Luca Saverio et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18566.html">HJ-Gauss: A Monte-Carlo HJ Reachability Scheme</a></div></td>
-<td>Lekan Molu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18566">2605.18566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19057.html">Magnetohydrodynamics Simulations</a></div><div class="paper-tags"><a href="magnetohydrodynamics-90d.html">magnetohydrodynamics</a> · <a href="mhd-90d.html">mhd</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>E. A. Huerta</td>
-<td><a href="http://arxiv.org/abs/2605.19057">2605.19057</a></td>
 </tr>
 </tbody></table>

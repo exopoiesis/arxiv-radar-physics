@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,17 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14807.html">Source-Guided Flow Matching</a></div></td>
 <td>Zifan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14807">2508.14807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07008.html">Deep regularization networks for inverse problems with noisy operators</a></div></td>
-<td>Fatemeh Pourahmadian et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07008">2506.07008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15381.html">Numerical Analysis of Unsupervised Learning Approaches for Parameter Identification in PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Siyu Cen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15381">2508.15381</a></td>
 </tr>
 </tbody></table>

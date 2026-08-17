@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,17 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22862.html">Constraining Black Hole Parameters in Non-Commutative Geometry using Machine Learning</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
 <td>Maryem Jemri</td>
 <td><a href="http://arxiv.org/abs/2605.22862">2605.22862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18218.html">Photometric classification of quasars from DES and photo-$z$ estimation with Machine Learning</a></div></td>
-<td>Pablo Motta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18218">2605.18218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18959.html">Hyrax: An Extensible Framework for Rapid ML Experimentation and Unsupervised Discovery in the Era of Rubin, Roman, and Euclid</a></div></td>
-<td>Aritra Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18959">2605.18959</a></td>
 </tr>
 </tbody></table>

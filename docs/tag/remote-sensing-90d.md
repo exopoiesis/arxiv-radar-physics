@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,17 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24003.html">Remote sensing data imputation using deep learning for multispectral imagery</a></div></td>
 <td>Shuang Liua et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24003">2605.24003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17792.html">HydroAgent: Closing the Gap Between Frontier LLMs and Human Experts in Hydrologic Model Calibration via Simulator-Grounded RL</a></div></td>
-<td>Zhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17792">2605.17792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17980.html">Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution</a></div></td>
-<td>Bin Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17980">2605.17980</a></td>
 </tr>
 </tbody></table>

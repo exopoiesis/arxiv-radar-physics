@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09764.html">MoNo: Multiscale Optimal Transport Neural Operator for Solving PDEs on General Geometries</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Zijiang Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09764">2608.09764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08658.html">Mass Lumping and Numerical Quadrature for Approximation of Fractional Elliptic Differential Equations Driven by Gaussian White Noise</a></div></td>
-<td>Kelvin J. R. Almeida-Sousa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08658">2608.08658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08782.html">Quantum-Classical Physics-Informed Kolmogorov-Arnold Networks for Solving Fuzzy Differential Equations</a></div></td>
-<td>Xiang Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08782">2608.08782</a></td>
 </tr>
 </tbody></table>

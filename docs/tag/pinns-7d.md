@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09483.html">Hierarchical rank-evolving representation for physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Ruoyang Su et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09483">2608.09483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08785.html">Robust Fault Detection and Classification in Power Systems via Physics-Informed and Data-Driven Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Biswash Basnet et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08785">2608.08785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08846.html">Solving Einstein&#x27;s Vacuum Equations with Physics-Informed Neural Networks: Boundary Conditions and Domain Decomposition</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Elly Bayona et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08846">2608.08846</a></td>
 </tr>
 </tbody></table>

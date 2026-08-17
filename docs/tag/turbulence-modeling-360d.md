@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>turbulence-modeling — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="turbulence-modeling-7d.html">7d</a> <a href="turbulence-modeling-30d.html">30d</a> <a href="turbulence-modeling-90d.html">90d</a> <strong>360d</strong> <a href="turbulence-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01091.html">Physics-Informed Machine Learning Approach in Augmenting RANS Models Using DNS Data and DeepInsight Method on FDA Nozzle</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Hossein Geshani et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01091">2510.01091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08656.html">Interpretable data-driven turbulence modeling for separated flows using symbolic regression with unit constraints</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Boqian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08656">2405.08656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15420.html">An Uncertainty Visualization Framework for Large-Scale Cardiovascular Flow Simulations: A Case Study on Aortic Stenosis</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15420">2508.15420</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">446 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,17 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16399.html">Constraints on the extreme mass-ratio inspiral population from LISA data</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Shashwat Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16399">2508.16399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10633.html">Missing data imputation using a truncated Gaussian infinite factor model with application to metabolomics data</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Kate Finucane et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10633">2410.10633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15345.html">Bayesian Inference and Learning in Nonlinear Dynamical Systems: A Framework for Incorporating Explicit and Implicit Prior Knowledge</a></div></td>
-<td>Björn Volkmann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15345">2508.15345</a></td>
 </tr>
 </tbody></table>

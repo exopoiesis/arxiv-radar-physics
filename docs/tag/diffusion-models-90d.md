@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,17 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
 <td>Shikang Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21042">2605.21042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18101.html">SENSE: Satellite-based ENergy Synthesis for Sustainable Environment</a></div></td>
-<td>Kailai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18101">2605.18101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
-<td>Stefaan Simon Pierre Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
 </tr>
 </tbody></table>

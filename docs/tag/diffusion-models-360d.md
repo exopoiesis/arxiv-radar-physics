@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14083.html">Information-Calibrated Quantum Diffusion: Aligning Forward Noise with Reverse Recoverability</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Qipeng Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14083">2608.14083</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14308.html">Information Spreading in Diffusion Models from Effective Field Theory</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Navonil Neogi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14308">2608.14308</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09926.html">Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning</a></div></td>
@@ -3530,11 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16990.html">Score Matching on Large Geometric Graphs for Cosmology Generation</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Diana-Alexandra Onutu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16990">2508.16990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16521.html">Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation</a></div><div class="paper-tags"><a href="equivariant-neural-networks-360d.html">equivariant-neural-networks</a></div></td>
-<td>Zhijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16521">2508.16521</a></td>
 </tr>
 </tbody></table>

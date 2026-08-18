@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1131 papers</span>
+  <span class="paper-count">1133 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
+<td>Giacomo Bocchese et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14019">2608.14019</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13373.html">Data-driven linear analysis of dynamical systems via nonlinearity-subtracted dynamic mode decomposition</a></div></td>
 <td>Benjamin Herrmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13373">2608.13373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13614.html">A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
+<td>Muhammad Jalil Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13614">2608.13614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-11</td>

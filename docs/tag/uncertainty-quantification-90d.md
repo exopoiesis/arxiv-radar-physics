@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13848.html">Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy</a></div></td>
+<td>Samuel Klein et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13848">2608.13848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="rom-90d.html">rom</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
@@ -644,29 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23101.html">Mode-Shape Expansion Using Physics-Constrained Gaussian Process Regression</a></div></td>
 <td>Farid Ghahari</td>
 <td><a href="http://arxiv.org/abs/2605.23101">2605.23101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19366.html">Accurate, Efficient, and Explainable Deep Learning Approaches for Environmental Science Problems</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Jimeng Shi</td>
-<td><a href="http://arxiv.org/abs/2605.19366">2605.19366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-90d.html">mlip</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20539.html">OpenSeisML: Open Large-Scale Real Seismic and well-log Dataset for Generative AI</a></div><div class="paper-tags"><a href="seismic-inversion-90d.html">seismic-inversion</a></div></td>
-<td>Ipsita Bhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20539">2605.20539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24009.html">Improving Ensemble CAPE Forecasts with a Diffusion Model Incorporating Aerosol Information</a></div></td>
-<td>Zachary James et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24009">2605.24009</a></td>
 </tr>
 </tbody></table>

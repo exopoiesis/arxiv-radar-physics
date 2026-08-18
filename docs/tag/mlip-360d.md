@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14153.html">Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy-Force Metric</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Barbara Sumić et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14153">2608.14153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13355.html">Evaluating Electrostatic Embedding MLIP/MM for Relative Binding Free Energy Calculations</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
@@ -860,17 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19674.html">Atomistic insights into hydrogen migration in IGZO from machine-learning interatomic potential: linking atomic diffusion to device performance</a></div></td>
 <td>Hyunsung Cho et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19674">2508.19674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div></td>
-<td>Circe Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16425.html">Global properties of the energy landscape: a testing and training arena for machine learned potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Vlad Cărare et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16425">2508.16425</a></td>
 </tr>
 </tbody></table>

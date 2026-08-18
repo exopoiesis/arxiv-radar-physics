@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">806 papers</span>
+  <span class="paper-count">805 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="rom-360d.html">rom</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11831.html">Kernel Methods for Learning Operators with Multiple Inputs and Outputs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
@@ -4838,17 +4844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14745.html">Explainable Prediction of the Mechanical Properties of Composites with CNNs</a></div></td>
 <td>Varun Raaghav et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14745">2505.14745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16235.html">PIANO: Physics Informed Autoregressive Network</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Mayank Nagda et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16235">2508.16235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16702.html">A novel auxiliary equation neural networks method for exactly explicit solutions of nonlinear partial differential equations</a></div></td>
-<td>Shanhao Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16702">2508.16702</a></td>
 </tr>
 </tbody></table>

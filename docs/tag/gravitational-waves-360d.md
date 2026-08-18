@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00348.html">Unlocking New Paths for Science with Extreme-Mass-Ratio Inspirals: Machine Learning-Enhanced MCMC for Accurate Parameter Inversion</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00348">2508.00348</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16399.html">Constraints on the extreme mass-ratio inspiral population from LISA data</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Shashwat Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16399">2508.16399</a></td>
 </tr>
 </tbody></table>

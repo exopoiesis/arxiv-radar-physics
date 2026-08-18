@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14120.html">From Fixed Grids to Moving Particles:A Transferable Latent Operator for Fluid Dynamics</a></div></td>
+<td>Meng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14120">2608.14120</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Zhipeng Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09764.html">MoNo: Multiscale Optimal Transport Neural Operator for Solving PDEs on General Geometries</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Zijiang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09764">2608.09764</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14120.html">From Fixed Grids to Moving Particles:A Transferable Latent Operator for Fluid Dynamics</a></div></td>
+<td>Meng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14120">2608.14120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
@@ -530,17 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Alicja Polanska et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Ha Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Hugo Melchers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
 </tr>
 </tbody></table>

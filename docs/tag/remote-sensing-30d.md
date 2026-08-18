@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14281.html">Learning to Forecast Crop Growth from Earth Observation Data</a></div></td>
+<td>Dominik Senti et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14281">2608.14281</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11748.html">Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening</a></div></td>
 <td>Pengwei Xie et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
 <td>Philipp Vaeth et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17661">2607.17661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16671.html">Foundation-Assisted Active Learning for Object Detection Annotation</a></div></td>
-<td>Jinchang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16671">2607.16671</a></td>
 </tr>
 </tbody></table>

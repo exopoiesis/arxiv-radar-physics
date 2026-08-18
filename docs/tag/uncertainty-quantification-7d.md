@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13848.html">Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy</a></div></td>
+<td>Samuel Klein et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13848">2608.13848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="rom-7d.html">rom</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
@@ -62,29 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10350.html">Observation geometry for uncertainty-aware Hamiltonian inference and experimental design in quantum magnets</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
 <td>Roy Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10350">2608.10350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09071.html">Two-Step MV-DeepONet: Probabilistic Operator Learning for Uncertainty Propagation Driven by Random Input Fields</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Yupei Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09071">2608.09071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09202.html">CRUISE: Vision-Language Model-Guided Uncertainty-Aware Cross-Modal Sensor Fusion for Robust Autonomous Driving</a></div></td>
-<td>Junyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09202">2608.09202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09678.html">A Gaussian Process framework for constraining the nuclear equation of state from microscopic calculations with correlated uncertainties</a></div></td>
-<td>Y. G. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09678">2608.09678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09903.html">From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping</a></div><div class="paper-tags"><a href="schr-dinger-equation-7d.html">schr-dinger-equation</a></div></td>
-<td>Hsuan-Cheng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09903">2608.09903</a></td>
 </tr>
 </tbody></table>

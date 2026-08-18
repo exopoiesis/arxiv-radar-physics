@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">278 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14208.html">Foundation Neural Effective Hamiltonian for Strongly Correlated Quantum Materials</a></div></td>
+<td>Lixing Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14208">2608.14208</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Juno Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07981.html">Distilling Physical Priors into Streaming World Models</a></div></td>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14354.html">ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond</a></div></td>
+<td>Mingming Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14354">2608.14354</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10766.html">Rule of Thumb: Explaining Artificial Intelligence Systems using Partial Information</a></div></td>
 <td>Kaivalya Rawal et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10427.html">Causality Sum Rules in Conventional Scattering Matrices</a></div></td>
 <td>Ning Han et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10427">2608.10427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09303.html">SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry</a></div></td>
-<td>Laura Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09303">2608.09303</a></td>
 </tr>
 </tbody></table>

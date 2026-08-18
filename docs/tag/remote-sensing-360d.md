@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">558 papers</span>
+  <span class="paper-count">556 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14281.html">Learning to Forecast Crop Growth from Earth Observation Data</a></div></td>
+<td>Dominik Senti et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14281">2608.14281</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11748.html">Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening</a></div></td>
@@ -3344,23 +3350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15565.html">Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification</a></div></td>
 <td>Junhao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15565">2506.15565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19258.html">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a></div></td>
-<td>Hui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19258">2503.19258</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16272.html">IRSAMap:Towards Large-Scale, High-Resolution Land Cover Map Vectorization</a></div></td>
-<td>Yu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16272">2508.16272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16282.html">Robust Small Methane Plume Segmentation in Satellite Imagery</a></div></td>
-<td>Khai Duc Minh Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16282">2508.16282</a></td>
 </tr>
 </tbody></table>

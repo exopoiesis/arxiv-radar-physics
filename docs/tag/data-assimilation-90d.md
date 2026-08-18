@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13614.html">A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Muhammad Jalil Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13614">2608.13614</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10014.html">A Physics-Informed Neural Network Approach to Multiphysics Continuum Modeling of Cancer Growth via Chemo-fluid Coupling</a></div></td>
 <td>Celia Taboada et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24945.html">RealBench: Benchmarking Data-Driven Numerical Weather Forecasting Under Operational Conditions and Extreme Event Challenges</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Ruize Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24945">2605.24945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
-<td>Luca Saverio et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
 </tr>
 </tbody></table>

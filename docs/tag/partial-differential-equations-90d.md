@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="rom-90d.html">rom</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11831.html">Kernel Methods for Learning Operators with Multiple Inputs and Outputs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
@@ -824,41 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Alicja Polanska et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jianan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19263">2605.19263</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19536.html">A Dual Physics-Informed Kolmogorov-Arnold Neural Network Framework for Continuum Topology Optimization</a></div></td>
-<td>Junyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19536">2605.19536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Ha Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Hugo Melchers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>O. Kounchev et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28858.html">An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
-<td>Luca Saverio et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28858">2605.28858</a></td>
 </tr>
 </tbody></table>

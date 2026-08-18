@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13827.html">HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks</a></div></td>
+<td>SiHun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13827">2608.13827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07859.html">Adaptive KappaSharp: Condition-Number Shaping for Preferential Bayesian Optimization</a></div></td>
 <td>Ketong Shao et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23037.html">Open Multimodal Datasets and Open-Source Software for Data-Driven Modeling of Multiphase Transport and Thermal Systems</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Christy Dunlap et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23037">2605.23037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19565.html">HiLiftAeroML: High-Fidelity Computational Fluid Dynamics Dataset for High-Lift Aircraft Aerodynamics</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a> · <a href="rans-90d.html">rans</a></div></td>
-<td>Neil Ashton et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19565">2605.19565</a></td>
 </tr>
 </tbody></table>

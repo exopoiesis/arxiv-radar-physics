@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14247.html">Particle tracking with physics-informed deep learning methods</a></div></td>
+<td>Matthias Remta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14247">2608.14247</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13629.html">Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>Oscar L. Cruz-Gonzalez et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13629">2608.13629</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09071.html">Two-Step MV-DeepONet: Probabilistic Operator Learning for Uncertainty Propagation Driven by Random Input Fields</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Yupei Nie et al.</td>
@@ -236,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22724.html">Multiple Neural Operators Achieve Near-Optimal Rates for Multi-Task Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Adrien Weihs et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22724">2605.22724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19823.html">Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Ha Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19823">2605.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19867.html">When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Hugo Melchers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19867">2605.19867</a></td>
 </tr>
 </tbody></table>

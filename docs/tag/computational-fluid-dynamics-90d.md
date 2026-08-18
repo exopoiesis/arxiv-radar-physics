@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.13260">2608.13260</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13629.html">Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>Oscar L. Cruz-Gonzalez et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13629">2608.13629</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Xiaozhu Lin et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20763.html">ShapeBench: A Scalable Benchmark and Diagnostic Suite for Standardized Evaluation in Aerodynamic Shape Optimization</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Shaghayegh Fazliani et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20763">2605.20763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20532.html">Hybrid Edge-HPC Systems for Low-Latency Data-Driven Inference</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Liubov Kurafeeva et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20532">2605.20532</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14153.html">Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy-Force Metric</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Barbara Sumić et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14153">2608.14153</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13355.html">Evaluating Electrostatic Embedding MLIP/MM for Relative Binding Free Energy Calculations</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Stephen E. Farr et al.</td>
@@ -194,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Ali Ramlaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
 </tr>
 </tbody></table>

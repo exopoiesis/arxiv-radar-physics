@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
+<td>Giacomo Bocchese et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14019">2608.14019</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13373.html">Data-driven linear analysis of dynamical systems via nonlinearity-subtracted dynamic mode decomposition</a></div></td>
 <td>Benjamin Herrmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13373">2608.13373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13614.html">A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Muhammad Jalil Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13614">2608.13614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-11</td>
@@ -692,17 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21488.html">Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning</a></div></td>
 <td>Benhao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21488">2605.21488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19483.html">Adynamical systems view of training generativemodels and the memorization phenomenon</a></div></td>
-<td>Siva Athreya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19483">2605.19483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20028.html">Training-Free Bayesian Filtering with Generative Emulators</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>Thomas Savary et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20028">2605.20028</a></td>
 </tr>
 </tbody></table>

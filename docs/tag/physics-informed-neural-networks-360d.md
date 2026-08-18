@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">641 papers</span>
+  <span class="paper-count">638 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3842,23 +3842,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17902.html">Spectral-Prior Guided Multistage Physics-Informed Neural Networks for Highly Accurate PDE Solutions</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Yuzhen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17902">2508.17902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14252.html">Hybrid Adaptive Modeling in Process Monitoring: Leveraging Sequence Encoders and Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Mouad Elaarabi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14252">2505.14252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16032.html">A Hybrid Discontinuous Galerkin Neural Network Method for Solving Hyperbolic Conservation Laws with Temporal Progressive Learning</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Yan Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16032">2508.16032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16235.html">PIANO: Physics Informed Autoregressive Network</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Mayank Nagda et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16235">2508.16235</a></td>
 </tr>
 </tbody></table>

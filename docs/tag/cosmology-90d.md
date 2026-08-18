@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21310.html">Contrastive self-supervised convolutional autoencoder for core-collapse supernova gravitational-wave detection</a></div></td>
 <td>Tian-Yang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21310">2605.21310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20386.html">Music of Changing Lines: Toward a Culturally Situated Approach to the I-Ching</a></div></td>
-<td>Ling Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20386">2605.20386</a></td>
 </tr>
 </tbody></table>

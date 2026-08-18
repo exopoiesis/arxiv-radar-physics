@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,35 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="pinns-90d.html">pinns</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Joseph Nyangon</td>
 <td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18618.html">Stochastic Penalty-Barrier Methods for Constrained Machine Learning</a></div></td>
-<td>Adam Bosák et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18618">2605.18618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19263.html">From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Jianan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19263">2605.19263</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19564.html">A Spline-based Physics-Informed Numerical Scheme: Accurate Smooth Solutions for Differential Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Ayman Mourad et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19564">2605.19564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19856.html">StableGrad: Backward Scale Control without Batch Normalization</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Jose I. Mestre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19856">2605.19856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20283.html">Fast algorithms for interpolation with clamped $L$-splines of order four</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>O. Kounchev et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20283">2605.20283</a></td>
 </tr>
 </tbody></table>

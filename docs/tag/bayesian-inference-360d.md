@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13971.html">Interval Estimation of the Common Shape Parameter and Coefficient of Variation of Several Weibull Populations under Progressive Censoring</a></div></td>
+<td>Bankitdor M. Nongrum et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13971">2608.13971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14423.html">How X-rays heat the IGM in different 21-cm simulation codes: a comparison between Licorice and Beorn</a></div></td>
+<td>Romain Meriot et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14423">2608.14423</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12940.html">Newtrinos.jl: A Julia Package for Global Analysis of Neutrino Data</a></div></td>
@@ -2660,23 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18160.html">Shocks and complex chemodynamics in the metal-poor starburst galaxy CGCG 007-025 revealed through high-resolution echelle spectroscopy</a></div></td>
 <td>Macarena G. del Valle-Espinosa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18160">2508.18160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.14599.html">Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA</a></div></td>
-<td>Vincent Eberle et al.</td>
-<td><a href="http://arxiv.org/abs/2410.14599">2410.14599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16349.html">Identification of Nonlinear Damping of Transverse Loop Oscillations by KHI-induced Turbulence</a></div></td>
-<td>Sihui Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16349">2508.16349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16399.html">Constraints on the extreme mass-ratio inspiral population from LISA data</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Shashwat Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16399">2508.16399</a></td>
 </tr>
 </tbody></table>

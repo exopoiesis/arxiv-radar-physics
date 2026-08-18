@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03438.html">Modelisation of chaotic systems with a latent Stochastic Differential Equation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ismaël Zighed et al.</td>
@@ -308,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21165.html">Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Natalia L. Rubio et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21165">2508.21165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00013.html">Reduced order modeling of the unsteady pressure on turbine rotor blades using deep learning</a></div></td>
-<td>Dominique Joachim et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00013">2503.00013</a></td>
 </tr>
 </tbody></table>

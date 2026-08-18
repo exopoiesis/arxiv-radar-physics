@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Juno Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13826.html">SPEAR: Structure Property Explainability with Attention Regularization</a></div></td>
+<td>Aditya Raghavan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13826">2608.13826</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06680.html">Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>

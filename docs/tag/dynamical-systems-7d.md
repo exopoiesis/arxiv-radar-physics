@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
+<td>Giacomo Bocchese et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14019">2608.14019</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13373.html">Data-driven linear analysis of dynamical systems via nonlinearity-subtracted dynamic mode decomposition</a></div></td>
 <td>Benjamin Herrmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13373">2608.13373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13614.html">A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
+<td>Muhammad Jalil Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13614">2608.13614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-11</td>
@@ -56,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11480.html">Forward Trajectory Steering for Hamilton-Jacobi Reachability Analysis</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Sungje Park et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11480">2608.11480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09030.html">Closing the loop in learning with missing data</a></div></td>
-<td>Dimitrios Pylorof et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09030">2608.09030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10235.html">A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-7d.html">hamiltonian-neural-networks</a></div></td>
-<td>Lenick Kemunto Nyabuto et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10235">2608.10235</a></td>
 </tr>
 </tbody></table>

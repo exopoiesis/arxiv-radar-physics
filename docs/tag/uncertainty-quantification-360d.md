@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13848.html">Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy</a></div></td>
+<td>Samuel Klein et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13848">2608.13848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
+<td>Olga Mula et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
@@ -3284,11 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16891.html">Quantifying Out-of-Training Uncertainty of Neural-Network based Turbulence Closures</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Cody Grogan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16891">2508.16891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16518.html">Uncertainty Quantification and Propagation for ACORN, a geometric deep learning tracking pipeline for HEP experiments</a></div></td>
-<td>Lukas Péron et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16518">2508.16518</a></td>
 </tr>
 </tbody></table>

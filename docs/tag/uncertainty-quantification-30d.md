@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16654.html">Galaxy Morphology Classification: Uncertainty Modeling and Out of Distribution Detection</a></div></td>
+<td>Prem Prakash et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16654">2608.16654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15362.html">Prediction Inference of Time Series with Standard ReLU Deep Neural Networks</a></div></td>
+<td>Kejin Wu</td>
+<td><a href="http://arxiv.org/abs/2608.15362">2608.15362</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13848.html">Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="rom-30d.html">rom</a></div></td>
 <td>Olga Mula et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14328">2608.14328</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Leonardo dos Santos Vitoria et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14853">2608.14853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>

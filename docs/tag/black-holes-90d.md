@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16517.html">Metric Reconstruction from Timelike Entanglement Entropy</a></div></td>
+<td>Hao Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16517">2608.16517</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
@@ -80,17 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23083.html">A Strongly Parametrized Mass Ratio Model for the Stable Mass Transfer Channel: a Case Study of the $10 \, \rm{M}_{\odot}$ Peak</a></div></td>
 <td>Jaxen Godfrey et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23083">2605.23083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21593.html">Predicting intermediate-mass black hole formation in star clusters with machine learning</a></div></td>
-<td>Konstantinos Kritos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21593">2605.21593</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21640.html">Gravitational Wave Hyperbolic Catalog: Reanalyzing High-Mass Gravitational Wave Signals Using Hyperbolic Waveforms</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Jacob Lange et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21640">2605.21640</a></td>
 </tr>
 </tbody></table>

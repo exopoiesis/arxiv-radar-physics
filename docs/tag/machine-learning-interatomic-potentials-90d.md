@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16418.html">ChemReporter: A Framework for Curating and Exporting Large-Scale Chemical Datasets for MLIP Training</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Marie Bluntzer et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16418">2608.16418</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14153.html">Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy-Force Metric</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Barbara Sumić et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22698.html">Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Christoph Brunken et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22698">2605.22698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
 </tr>
 </tbody></table>

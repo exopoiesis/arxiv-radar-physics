@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16084.html">Eigenanalysis framework for autoregressive neural emulators of multi-scale chaotic dynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Conrad Ainslie et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16084">2608.16084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07109.html">Learning a quantitative criterion for distinguishing chaos from noise</a></div></td>
 <td>Jaesung Choi et al.</td>
@@ -80,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24047.html">EMMA: Extracting Multiple physical parameters from Multimodal Data</a></div></td>
 <td>Farhat Shaikh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24047">2605.24047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21118.html">Image Encryption via Data-Identified Discrete Chaotic Maps</a></div></td>
-<td>Wenyuan Lia et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21118">2605.21118</a></td>
 </tr>
 </tbody></table>

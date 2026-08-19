@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15187.html">MiNO: Cotangent-bundle propagator learning for PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Gnankan Landry Regis N&#x27;guessan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15187">2608.15187</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14328.html">Reduced Order Modeling and Applications to Inverse State Estimation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="rom-30d.html">rom</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Olga Mula et al.</td>
@@ -242,11 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19425.html">Waves 2026 Book of Abstracts</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Lise-Marie Imbert-Gerard et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19425">2607.19425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17376.html">Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
-<td>Priyesh Kakka et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17376">2607.17376</a></td>
 </tr>
 </tbody></table>

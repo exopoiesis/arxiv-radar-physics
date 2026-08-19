@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15408.html">FAST-DeepONet: Factor-Augmented Branch Representations for High-Dimensional PDE Inputs in the Small-Sample Regime</a></div></td>
+<td>Jiyong Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15408">2608.15408</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14247.html">Particle tracking with physics-informed deep learning methods</a></div></td>

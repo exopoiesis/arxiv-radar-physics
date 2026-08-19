@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16494.html">Graph Machine Learning: An Opportunity for Power Systems</a></div></td>
+<td>Martin Sadric et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16494">2608.16494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15715.html">Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning</a></div></td>
+<td>Priyanshi Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15715">2608.15715</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14308.html">Information Spreading in Diffusion Models from Effective Field Theory</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Navonil Neogi et al.</td>
@@ -272,17 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25949.html">Small Models, Strong Priors: Architectural Inductive Bias for Parameter-Efficient Neural PDE Solvers</a></div></td>
 <td>Shyam Sankaran et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25949">2605.25949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21348.html">Data-Efficient Neural Operator Training via Physics-Based Active Learning</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Alicja Polanska et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21348">2605.21348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21483.html">Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction</a></div></td>
-<td>Tilman Tröster et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21483">2605.21483</a></td>
 </tr>
 </tbody></table>

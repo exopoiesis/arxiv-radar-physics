@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">696 papers</span>
+  <span class="paper-count">698 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15198.html">Identifying parameter couplings and uncertainties of mixed-noise stochastic systems via full-covariance Gaussian mixture network</a></div></td>
+<td>Xiaolong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15198">2608.15198</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13373.html">Data-driven linear analysis of dynamical systems via nonlinearity-subtracted dynamic mode decomposition</a></div></td>
 <td>Benjamin Herrmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13373">2608.13373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14743.html">Generative Learning of Separatrices</a></div></td>
+<td>Ellis R. Crabtree et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14743">2608.14743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>

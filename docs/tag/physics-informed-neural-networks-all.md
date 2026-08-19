@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — all</h1>
-  <span class="paper-count">1041 papers</span>
+  <span class="paper-count">1044 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16475.html">A Two-Stage Learning PINN Approach for Solving the Inverse Problem of the 1D Porous Medium Equation</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Noura Al Helwani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16475">2608.16475</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15187.html">MiNO: Cotangent-bundle propagator learning for PDEs</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Gnankan Landry Regis N&#x27;guessan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15187">2608.15187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15373.html">Beyond Field Accuracy: Two-Axis Diagnosis of Inverse-PINN Parameter Error</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Yifan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15373">2608.15373</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>

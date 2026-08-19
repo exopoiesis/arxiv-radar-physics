@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15669.html">Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search</a></div></td>
+<td>Zhongwei Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15669">2608.15669</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14354.html">ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond</a></div></td>
 <td>Mingming Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14354">2608.14354</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14791.html">CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs</a></div></td>
+<td>Moein Salimi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14791">2608.14791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14905.html">How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks</a></div></td>
+<td>Yanlin Fei et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14905">2608.14905</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -38,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13558.html">OmniScientist: An Omni-Modal Omni-Discipline AI Scientist</a></div></td>
 <td>Bobo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13558">2608.13558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10427.html">Causality Sum Rules in Conventional Scattering Matrices</a></div></td>
-<td>Ning Han et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10427">2608.10427</a></td>
 </tr>
 </tbody></table>

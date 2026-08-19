@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16159.html">Digital Twin Degradation: Detecting Cyber Physical Attacks via Temporal Inconsistencies</a></div></td>
+<td>Konstantinos E. Kampourakis et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16159">2608.16159</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14186.html">Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary</a></div></td>
 <td>Junichiro Niimi</td>
@@ -1910,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14503.html">Artificial Intelligence-Based Multiscale Temporal Modeling for Anomaly Detection in Cloud Services</a></div></td>
 <td>Lian Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14503">2508.14503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00042.html">ARTPS: Depth-Enhanced Hybrid Anomaly Detection and Learnable Curiosity Score for Autonomous Rover Target Prioritization</a></div></td>
-<td>Poyraz Baydemir</td>
-<td><a href="http://arxiv.org/abs/2509.00042">2509.00042</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1160,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06309.html">AI-Driven Reconstruction of Large-Scale Structure from Combined Photometric and Spectroscopic Surveys</a></div></td>
 <td>Wenying Du et al.</td>
 <td><a href="http://arxiv.org/abs/2504.06309">2504.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16990.html">Score Matching on Large Geometric Graphs for Cosmology Generation</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Diana-Alexandra Onutu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16990">2508.16990</a></td>
 </tr>
 </tbody></table>

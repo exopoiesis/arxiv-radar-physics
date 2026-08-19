@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20346.html">IteraSim RAG: A Multi-Stage Retrieval-Augmented Agentic Back-End for OpenFOAM-Based Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Pratyush Kumar</td>
 <td><a href="http://arxiv.org/abs/2607.20346">2607.20346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17297.html">Multi-Granularity Conformal Prediction for Reliable Neural-Operator Automotive Aerodynamic Surrogates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Chundong Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17297">2607.17297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17357.html">Differentiable Hybrid Neural-CFD Modelling of Wall-Bounded Turbulence: Coupled Learning of Subgrid-Scale and Wall Closures</a></div></td>
-<td>Xiantao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17357">2607.17357</a></td>
 </tr>
 </tbody></table>

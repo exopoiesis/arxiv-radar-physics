@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16113.html">First-Principles Prediction of Phonon-Mediated Infrared Optical Properties of WO$_3$ Polymorphs</a></div></td>
+<td>Sreerag Sundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16113">2608.16113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16644.html">Data-driven discovery and rapid, direct synthesis of MXenes</a></div></td>
+<td>Ali Saffar Shamshirgar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16644">2608.16644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div></td>
+<td>Dinh-Khiet Le et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15928.html">Synthesizing like a chemist: an iterative, feedback-driven loop for materials discovery</a></div></td>
+<td>Fang Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15928">2608.15928</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
@@ -260,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24455.html">Multi-Source Domain Transfer Learning for Accurate Property Prediction in Two-Dimensional Materials</a></div></td>
 <td>Huiyang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24455">2605.24455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div></td>
-<td>D. -M. Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
 </tr>
 </tbody></table>

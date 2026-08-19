@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14906.html">Optimal Watermark Localization in Mixed-Source Large Language Model Texts</a></div></td>
+<td>Jose H. Blanchet et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14906">2608.14906</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07981.html">Distilling Physical Priors into Streaming World Models</a></div></td>
 <td>Liangliang Zhao et al.</td>
@@ -1040,11 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17688.html">A Unsupervised Framework for Identifying Diverse Quantum Phase Transitions Using Classical Shadow Tomography</a></div></td>
 <td>Chi-Ting Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17688">2508.17688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09949.html">Unsupervised classification of disordered patterns in an oppositely charged colloidal system</a></div></td>
-<td>Yoshitaka Miyahara et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09949">2412.09949</a></td>
 </tr>
 </tbody></table>

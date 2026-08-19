@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,17 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22362.html">Constraining Spatial Curvature with Priors from Swampland Conjectures</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Simran Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22362">2605.22362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21594.html">Exploring the SMEFT landscape: Bayesian Model Selection for indirect discovery</a></div></td>
-<td>Luca Mantani</td>
-<td><a href="http://arxiv.org/abs/2605.21594">2605.21594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21599.html">JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S</a></div></td>
-<td>Qiao Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21599">2605.21599</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Juno Nam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14906.html">Optimal Watermark Localization in Mixed-Source Large Language Model Texts</a></div></td>
+<td>Jose H. Blanchet et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14906">2608.14906</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-08</td>
@@ -170,17 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27300.html">Deterministic Mapping of Topological Phases via Autoregressive Exogenous Neural Networks</a></div></td>
 <td>Graciana Puentes</td>
 <td><a href="http://arxiv.org/abs/2605.27300">2605.27300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div></td>
-<td>Souvik Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21722.html">MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics</a></div></td>
-<td>Xiaochen Du et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21722">2605.21722</a></td>
 </tr>
 </tbody></table>

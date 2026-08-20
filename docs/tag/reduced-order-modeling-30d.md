@@ -16,15 +16,15 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17131.html">Reduced-Order Physics-Informed Neural Network with Adaptive Basis Refinement for Structural Identification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="rom-30d.html">rom</a></div></td>
+<td>Rui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17131">2608.17131</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03996.html">Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="rom-30d.html">rom</a></div></td>
 <td>Konstantinos Alexopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03996">2608.03996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Ao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
 </tr>
 </tbody></table>

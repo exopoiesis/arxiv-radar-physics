@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,23 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14281.html">Learning to Forecast Crop Growth from Earth Observation Data</a></div></td>
 <td>Dominik Senti et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14281">2608.14281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11748.html">Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening</a></div></td>
-<td>Pengwei Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11748">2608.11748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12001.html">Remote Sensing and Machine Learning-Based Analysis of Land Use and Vegetation Change in Dhaka District, Bangladesh</a></div></td>
-<td>Muhammad Masud Tarek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12001">2608.12001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12300.html">Quantum-limited imaging using diffractive optical neural networks</a></div></td>
-<td>Aakash Warke et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12300">2608.12300</a></td>
 </tr>
 </tbody></table>

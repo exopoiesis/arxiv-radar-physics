@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16475.html">A Two-Stage Learning PINN Approach for Solving the Inverse Problem of the 1D Porous Medium Equation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Noura Al Helwani et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16475">2608.16475</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17117.html">Physics-informed Reinforcement Learning for Stochastic Reach-Avoid Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Hikaru Hoshino et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17117">2608.17117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17131.html">Reduced-Order Physics-Informed Neural Network with Adaptive Basis Refinement for Structural Identification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="rom-30d.html">rom</a></div></td>
+<td>Rui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17131">2608.17131</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-15</td>
@@ -218,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Nathanael Tepakbong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Peiyu Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17698.html">Fault detection on manifolds of nonlinear dynamical systems with dual autoencoders</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Bulut Kuşkonmaz et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17698">2608.17698</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17117.html">Physics-informed Reinforcement Learning for Stochastic Reach-Avoid Analysis</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Hikaru Hoshino et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17117">2608.17117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15198.html">Identifying parameter couplings and uncertainties of mixed-noise stochastic systems via full-covariance Gaussian mixture network</a></div></td>
@@ -218,23 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19628.html">HypEMBER: Hypernetwork-based Ensemble for Robust Policy Learning of Parametrized Dynamical Systems</a></div></td>
 <td>Nicolò Botteghi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19628">2607.19628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17990.html">fSRD: Fuzzy Spectral Region Decomposition -- Automated Multi Operator Koopman Representations via an Adaptive Spectral Learning Architecture</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Charles Bokor et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17990">2607.17990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18133.html">Physics-Guided Spectral Parametric Reduced-Order Modeling for Transient Prediction of Controlled Dynamical Systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
-<td>Ao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18133">2607.18133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18433.html">Intelligence from Learnable Novelty</a></div></td>
-<td>Yanbo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18433">2607.18433</a></td>
 </tr>
 </tbody></table>

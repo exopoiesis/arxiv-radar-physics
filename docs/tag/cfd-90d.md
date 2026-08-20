@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17825.html">Towards Rapid Prototyping of Spray Injectors: A Regime-Agnostic Neural Operator Surrogate for Gas-Liquid Interface Evolution</a></div></td>
+<td>Paolo Guida et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17825">2608.17825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17894.html">A Residual Learning Approach for Unsteady Aerodynamic Load Prediction</a></div></td>
+<td>Divya Sanghi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17894">2608.17894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12801.html">Julia for CFD: A Critical Survey of Ecosystem, Performance, and Composability</a></div></td>
 <td>Tianbai Xiao</td>
@@ -278,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24150.html">Divergence-aware adaptive prediction framework for accelerating CFD simulations of unsteady flows</a></div></td>
 <td>Xiangrui Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24150">2605.24150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22009.html">SDFStent: Real-time interactive virtual stenting via SDF deformation fields</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Bohan J. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22009">2605.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23037.html">Open Multimodal Datasets and Open-Source Software for Data-Driven Modeling of Multiphase Transport and Thermal Systems</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Christy Dunlap et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23037">2605.23037</a></td>
 </tr>
 </tbody></table>

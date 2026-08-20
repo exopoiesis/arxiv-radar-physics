@@ -22,6 +22,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.16475">2608.16475</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17117.html">Physics-informed Reinforcement Learning for Stochastic Reach-Avoid Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Hikaru Hoshino et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17117">2608.17117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17131.html">Reduced-Order Physics-Informed Neural Network with Adaptive Basis Refinement for Structural Identification</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="rom-30d.html">rom</a></div></td>
+<td>Rui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17131">2608.17131</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15187.html">MiNO: Cotangent-bundle propagator learning for PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Gnankan Landry Regis N&#x27;guessan et al.</td>
@@ -260,17 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19167.html">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Nathanael Tepakbong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19167">2607.19167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Peiyu Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18402.html">Warped Numerical Calabi-Yau Metrics</a></div></td>
-<td>Severin Lüst et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18402">2607.18402</a></td>
 </tr>
 </tbody></table>

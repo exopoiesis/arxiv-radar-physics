@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16475.html">A Two-Stage Learning PINN Approach for Solving the Inverse Problem of the 1D Porous Medium Equation</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Noura Al Helwani et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16475">2608.16475</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17117.html">Physics-informed Reinforcement Learning for Stochastic Reach-Avoid Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Hikaru Hoshino et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17117">2608.17117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17131.html">Reduced-Order Physics-Informed Neural Network with Adaptive Basis Refinement for Structural Identification</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
+<td>Rui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17131">2608.17131</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-15</td>
@@ -818,11 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24278.html">Fourier Feature Pyramids for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Brandon Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24278">2605.24278</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21903.html">Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="pinns-90d.html">pinns</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Joseph Nyangon</td>
-<td><a href="http://arxiv.org/abs/2605.21903">2605.21903</a></td>
 </tr>
 </tbody></table>

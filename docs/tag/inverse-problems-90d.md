@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17344.html">Inductively Scalable, Single-Step Neural Surrogates for Wave-Scattering Inverse Problems</a></div></td>
+<td>Charles Dove et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17344">2608.17344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17457.html">Generative artificial intelligence for reconstructing neutron-star matter</a></div></td>
+<td>Julia Yu. Panteleeva et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17457">2608.17457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18004.html">Composing Flow-Matching Energies with Known Physics: Generation, OOD Detection, and Inversion on PDE Fields</a></div></td>
+<td>Yixuan Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18004">2608.18004</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16475.html">A Two-Stage Learning PINN Approach for Solving the Inverse Problem of the 1D Porous Medium Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -26,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16871.html">Biophysics-informed deep operator learning for inverse problems with application to electrophysiological source reconstruction</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Eardi Lila et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16871">2608.16871</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17131.html">Reduced-Order Physics-Informed Neural Network with Adaptive Basis Refinement for Structural Identification</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
+<td>Rui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17131">2608.17131</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-14</td>
@@ -56,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13633.html">Unknown Unknowns: Model Misspecification in Machine Learning for Physics</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Juan Cruz-Martinez et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13633">2608.13633</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16941.html">A formal correspondence between Bayesian inference problems and the Heisenberg representation</a></div></td>
+<td>C. Abugattas Chacoff</td>
+<td><a href="http://arxiv.org/abs/2608.16941">2608.16941</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-06</td>
@@ -470,17 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24274.html">A lift for input-convex neural network training</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Ali Siahkoohi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24274">2605.24274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22338.html">Physics-Informed Generative Solver: Bridging Data-Driven Priors and Conservation Laws for Stable Spatiotemporal Field Reconstruction</a></div></td>
-<td>Ziyuan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22338">2605.22338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22891.html">Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems</a></div><div class="paper-tags"><a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Mads H. Baattrup et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22891">2605.22891</a></td>
 </tr>
 </tbody></table>

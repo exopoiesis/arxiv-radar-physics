@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17828.html">Symbolic Regression for Interpretable Emulation of Proton Collective Flow in Intermediate-Energy Heavy-Ion Collisions</a></div></td>
+<td>Nicholas Cox et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17828">2608.17828</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16876.html">AutoSR: Automatic Symbolic Regression by Searching Research States</a></div></td>
 <td>Kejia Zhang et al.</td>
@@ -1226,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18173.html">Unveiling the Actual Performance of Neural-based Models for Equation Discovery on Graph Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Riccardo Cappi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18173">2508.18173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17380.html">Mimicking the Physicist&#x27;s Eye:A VLM-centric Approach for Physics Formula Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Jiaqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17380">2508.17380</a></td>
 </tr>
 </tbody></table>

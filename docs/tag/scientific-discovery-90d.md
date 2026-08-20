@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17270.html">Do LLMs Know a Good Hypothesis When They See One? Logit-Based Energy Scoring Outperforms Prompted LLM-as-Judge for Scientific Hypothesis Ranking</a></div></td>
+<td>Swati Rajwal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17270">2608.17270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17970.html">Quo Vadis? Scientific Discovery in the Age of Artificial Intelligence</a></div></td>
+<td>Petr O. Jedlicka</td>
+<td><a href="http://arxiv.org/abs/2608.17970">2608.17970</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15669.html">Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search</a></div></td>
 <td>Zhongwei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15669">2608.15669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16951.html">The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method</a></div></td>
+<td>Travis Smith</td>
+<td><a href="http://arxiv.org/abs/2608.16951">2608.16951</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-14</td>
@@ -518,29 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29184.html">Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Evgeny S. Saveliev et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29184">2605.29184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22054.html">LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Zhuo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22054">2605.22054</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div></td>
-<td>Yuxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22681.html">Forecasting Scientific Progress with Artificial Intelligence</a></div></td>
-<td>Sean Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22681">2605.22681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24043.html">LLM-AutoSciLab: Closed-Loop Scientific Discovery via Active Experimentation with LLMs</a></div></td>
-<td>Sanchit Kabra et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24043">2605.24043</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11330.html">Robust Quantum Machine Learning for Collider Event Selection under Detector Variability</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
 <td>Christopher Brown et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11330">2608.11330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18148.html">Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs</a></div></td>
+<td>Junfeng Chen</td>
+<td><a href="http://arxiv.org/abs/2608.18148">2608.18148</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-10</td>

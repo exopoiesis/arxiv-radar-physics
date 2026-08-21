@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,17 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00653.html">IndiaWeatherBench: A Dataset and Benchmark for Data-Driven Regional Weather Forecasting over India</a></div></td>
 <td>Tung Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00653">2509.00653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12938.html">Local Off-Grid Weather Forecasting with Multi-Modal Earth Observation Data</a></div></td>
-<td>Qidong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12938">2410.12938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18486.html">Huracan: A skillful end-to-end data-driven system for ensemble data assimilation and weather prediction</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Zekun Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18486">2508.18486</a></td>
 </tr>
 </tbody></table>

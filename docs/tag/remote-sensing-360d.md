@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">558 papers</span>
+  <span class="paper-count">556 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3350,17 +3350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18958.html">The point is the mask: scaling coral reef segmentation with weak supervision</a></div></td>
 <td>Matteo Contini et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18958">2508.18958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21878.html">Machine learning assisted speckle and OAM spectrum analysis for enhanced turbulence characterisation</a></div></td>
-<td>Wenjie Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21878">2505.21878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18067.html">Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images</a></div></td>
-<td>Kaiyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18067">2508.18067</a></td>
 </tr>
 </tbody></table>

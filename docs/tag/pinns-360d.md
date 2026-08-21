@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18974.html">Modeling of an ODE-constrained optimization problem describing tumor dynamics, and numerical approximation via sequential physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Juan J. Forero-Hernández et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18974">2608.18974</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16475.html">A Two-Stage Learning PINN Approach for Solving the Inverse Problem of the 1D Porous Medium Equation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Noura Al Helwani et al.</td>
@@ -3776,11 +3782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19052.html">Automated discovery of finite volume schemes using Graph Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Paul Garnier et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19052">2508.19052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17902.html">Spectral-Prior Guided Multistage Physics-Informed Neural Networks for Highly Accurate PDE Solutions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yuzhen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17902">2508.17902</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18962.html">Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Jacob L. Tutt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18962">2608.18962</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="particle-physics-360d.html">particle-physics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Johannes Buchner</td>
@@ -1154,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19311.html">Identification of Strongly Lensed Gravitational Wave Events Using Squeeze-and-Excitation Multilayer Perceptron Data-efficient Image Transformer</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Dejiang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19311">2508.19311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06309.html">AI-Driven Reconstruction of Large-Scale Structure from Combined Photometric and Spectroscopic Surveys</a></div></td>
-<td>Wenying Du et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06309">2504.06309</a></td>
 </tr>
 </tbody></table>

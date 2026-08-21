@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18341.html">Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring</a></div></td>
+<td>Steven C. Nesbit et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18341">2608.18341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16159.html">Digital Twin Degradation: Detecting Cyber Physical Attacks via Temporal Inconsistencies</a></div></td>
 <td>Konstantinos E. Kampourakis et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14186.html">Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary</a></div></td>
 <td>Junichiro Niimi</td>
 <td><a href="http://arxiv.org/abs/2608.14186">2608.14186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13652.html">Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments</a></div><div class="paper-tags"><a href="collider-physics-7d.html">collider-physics</a></div></td>
-<td>Haoyi Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13652">2608.13652</a></td>
 </tr>
 </tbody></table>

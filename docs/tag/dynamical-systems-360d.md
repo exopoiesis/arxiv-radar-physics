@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">699 papers</span>
+  <span class="paper-count">698 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
+<td>Mark Kozdoba et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18918">2608.18918</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17698.html">Fault detection on manifolds of nonlinear dynamical systems with dual autoencoders</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
@@ -4196,17 +4202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18954.html">On the Generalisation of Koopman Representations for Chaotic System Control</a></div></td>
 <td>Kyriakos Hjikakou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18954">2508.18954</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01191.html">Data-Driven Yet Formal Policy Synthesis for Stochastic Nonlinear Dynamical Systems</a></div></td>
-<td>Mahdi Nazeri et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01191">2501.01191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18173.html">Unveiling the Actual Performance of Neural-based Models for Equation Discovery on Graph Dynamical Systems</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Riccardo Cappi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18173">2508.18173</a></td>
 </tr>
 </tbody></table>

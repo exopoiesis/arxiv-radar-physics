@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qaoa — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <strong>90d</strong> <a href="qaoa-360d.html">360d</a> <a href="qaoa-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07727.html">Benchmarking Quantum Algorithmic Resilience for CVaR Portfolio Optimization: The Expressibility-Coherence Trade-off</a></div></td>
 <td>Prashik N. Somkuwar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07727">2606.07727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23138.html">Classical State Preparation for Variational Quantum Algorithms via Reinforcement Learning</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a> · <a href="vqe-90d.html">vqe</a></div></td>
-<td>Gino Kwun et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23138">2605.23138</a></td>
 </tr>
 </tbody></table>

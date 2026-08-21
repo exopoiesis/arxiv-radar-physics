@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">512 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17970.html">Quo Vadis? Scientific Discovery in the Age of Artificial Intelligence</a></div></td>
 <td>Petr O. Jedlicka</td>
 <td><a href="http://arxiv.org/abs/2608.17970">2608.17970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18279.html">A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design</a></div></td>
+<td>Huanshu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18279">2608.18279</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-16</td>
@@ -3068,23 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19383.html">Aleks: AI powered Multi Agent System for Autonomous Scientific Discovery via Data-Driven Approaches in Plant Science</a></div></td>
 <td>Daoyuan Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19383">2508.19383</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17661.html">Spacer: Towards Engineered Scientific Inspiration</a></div></td>
-<td>Minhyeong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17661">2508.17661</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17692.html">LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios</a></div></td>
-<td>Bingxi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17692">2508.17692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18173.html">Unveiling the Actual Performance of Neural-based Models for Equation Discovery on Graph Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Riccardo Cappi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18173">2508.18173</a></td>
 </tr>
 </tbody></table>

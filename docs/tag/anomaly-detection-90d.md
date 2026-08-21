@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18341.html">Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring</a></div></td>
+<td>Steven C. Nesbit et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18341">2608.18341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16159.html">Digital Twin Degradation: Detecting Cyber Physical Attacks via Temporal Inconsistencies</a></div></td>
 <td>Konstantinos E. Kampourakis et al.</td>
@@ -386,11 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25135.html">ASTRO: Adaptive Spatio-Temporal Reinforcement Optimization for GNN Powered Anomly Detection in Cyber Physical Systems</a></div></td>
 <td>Rai Ali Yar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25135">2605.25135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23850.html">Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Ali Zahir et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23850">2605.23850</a></td>
 </tr>
 </tbody></table>

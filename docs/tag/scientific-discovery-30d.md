@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.17970">2608.17970</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18279.html">A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design</a></div></td>
+<td>Huanshu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18279">2608.18279</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15669.html">Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search</a></div></td>
 <td>Zhongwei Yu et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18564.html">HALO: Interactive Co-abductive Reasoning in Scientific Hypothesis Generation</a></div></td>
 <td>Youngseung Jeon et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18564">2607.18564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19336.html">Agents in the Wild: Where Research Meets Deployment</a></div></td>
-<td>Grace Hui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19336">2607.19336</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,17 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19351.html">The mass of the Milky Way from outer halo stars measured by DESI DR1</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Gustavo E. Medina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19351">2508.19351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10244.html">DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Chi Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10244">2501.10244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18160.html">Shocks and complex chemodynamics in the metal-poor starburst galaxy CGCG 007-025 revealed through high-resolution echelle spectroscopy</a></div></td>
-<td>Macarena G. del Valle-Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18160">2508.18160</a></td>
 </tr>
 </tbody></table>

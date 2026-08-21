@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18962.html">Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jacob L. Tutt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18962">2608.18962</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Johannes Buchner</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="dark-matter-90d.html">dark-matter</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23839.html">cloelib: A Flexible Python Library for Computing Cosmological Observables in the Euclid Era</a></div></td>
-<td>Marco Bonici et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23839">2605.23839</a></td>
 </tr>
 </tbody></table>

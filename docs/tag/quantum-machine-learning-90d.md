@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
+<td>Natacha Kuete Meli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19043">2608.19043</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15601.html">Quantum Models with Multi-Stage Training for Compositional Concept Generalization</a></div></td>
@@ -26,6 +32,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15617.html">Benchmarking Quantum Machine Learning for Power-System Attack Detection: Evaluation Choices Decide the Outcome Before the Models Do</a></div></td>
 <td>Md Rezwanul Islam</td>
 <td><a href="http://arxiv.org/abs/2608.15617">2608.15617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18155.html">How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Syeda Anshrah Gillani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18155">2608.18155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18152.html">Qkabrine: A Joint Architecture, Encoding, and Hyperparameter Search Framework for Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Eric Jagwara</td>
+<td><a href="http://arxiv.org/abs/2608.18152">2608.18152</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-11</td>
@@ -494,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24324.html">A Matched Spectral Benchmark of Quantum Inspired Feature Maps</a></div></td>
 <td>Toheeb Ogunade et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24324">2605.24324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24252.html">Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale</a></div></td>
-<td>Mackenson Polché et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24252">2605.24252</a></td>
 </tr>
 </tbody></table>

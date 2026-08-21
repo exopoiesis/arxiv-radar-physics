@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02697.html">Machine Learning-based Quantum Error Mitigation for Variational Algorithms</a></div><div class="paper-tags"><a href="vqe-90d.html">vqe</a></div></td>
 <td>Nikita Korolev et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02697">2606.02697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23138.html">Classical State Preparation for Variational Quantum Algorithms via Reinforcement Learning</a></div><div class="paper-tags"><a href="qaoa-90d.html">qaoa</a> · <a href="vqe-90d.html">vqe</a></div></td>
-<td>Gino Kwun et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23138">2605.23138</a></td>
 </tr>
 </tbody></table>

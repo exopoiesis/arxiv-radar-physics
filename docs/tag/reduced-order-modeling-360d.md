@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13333.html">Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling</a></div></td>
 <td>Ludovico T. Giorgini et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13333">2504.13333</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00959.html">Enhancing material behavior discovery using embedding-oriented Physically-Guided Neural Networks with Internal Variables</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
-<td>Rubén Muñoz-Sierra et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00959">2508.00959</a></td>
 </tr>
 </tbody></table>

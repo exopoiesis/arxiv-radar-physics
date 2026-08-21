@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,23 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06597.html">Phase Transitions between Accuracy Regimes in L2 regularized Deep Neural Networks</a></div></td>
 <td>Ibrahim Talha Ersoy et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06597">2505.06597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10244.html">DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Chi Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10244">2501.10244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17632.html">Simulating monitoring-induced topological phase transitions with small systems</a></div></td>
-<td>Rui Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17632">2508.17632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17688.html">A Unsupervised Framework for Identifying Diverse Quantum Phase Transitions Using Classical Shadow Tomography</a></div></td>
-<td>Chi-Ting Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17688">2508.17688</a></td>
 </tr>
 </tbody></table>

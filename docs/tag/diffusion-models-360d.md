@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.17796">2608.17796</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18373.html">Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation</a></div></td>
+<td>Bin Ahn</td>
+<td><a href="http://arxiv.org/abs/2608.18373">2608.18373</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14083.html">Information-Calibrated Quantum Diffusion: Aligning Forward Noise with Reverse Recoverability</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Qipeng Qian et al.</td>
@@ -3536,11 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04831.html">Steerable Scene Generation with Post Training and Inference-Time Search</a></div></td>
 <td>Nicholas Pfaff et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04831">2505.04831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17689.html">On the Edge of Memorization in Diffusion Models</a></div></td>
-<td>Sam Buchanan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17689">2508.17689</a></td>
 </tr>
 </tbody></table>

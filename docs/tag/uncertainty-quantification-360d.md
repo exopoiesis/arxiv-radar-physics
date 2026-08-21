@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">550 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18962.html">Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Jacob L. Tutt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18962">2608.18962</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17250.html">Adaptive surrogate modeling for high-dimensional spatio-temporal output</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -3290,29 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19144.html">VPPE: Application of Scaled Vecchia Approximations to Parallel Partial Emulation</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a></div></td>
 <td>Josh Seidman et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19144">2508.19144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10561.html">Early Failure Detection in Autonomous Surgical Soft-Tissue Manipulation via Uncertainty Quantification</a></div></td>
-<td>Jordan Thompson et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10561">2501.10561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16316.html">QUEENS: An Open-Source Python Framework for Solver-Independent Analyses of Large-Scale Computational Models</a></div></td>
-<td>Jonas Biehler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16316">2508.16316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18202.html">Uncertain data assimilation for urban wind flow simulations with OpenLB-UQ</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Mingliang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18202">2508.18202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18490.html">Bayesian Covariance Uncertainty for Adaptive Pilot-Sampling Termination in Multi-fidelity Uncertainty Quantification</a></div></td>
-<td>Thomas E. Coons et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18490">2508.18490</a></td>
 </tr>
 </tbody></table>

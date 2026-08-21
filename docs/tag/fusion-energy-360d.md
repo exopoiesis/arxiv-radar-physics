@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fusion-energy — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="fusion-energy-7d.html">7d</a> <a href="fusion-energy-30d.html">30d</a> <a href="fusion-energy-90d.html">90d</a> <strong>360d</strong> <a href="fusion-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12945.html">FusionMAE: large-scale pretrained model to optimize and simplify diagnostic and control of fusion plasma</a></div></td>
 <td>Zongyu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12945">2509.12945</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18412.html">Controlling instability in the Vlasov-Poisson system through moment-based optimization</a></div></td>
-<td>Jingcheng Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18412">2508.18412</a></td>
 </tr>
 </tbody></table>

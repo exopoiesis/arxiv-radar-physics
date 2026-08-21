@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.17796">2608.17796</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18373.html">Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation</a></div></td>
+<td>Bin Ahn</td>
+<td><a href="http://arxiv.org/abs/2608.18373">2608.18373</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14083.html">Information-Calibrated Quantum Diffusion: Aligning Forward Noise with Reverse Recoverability</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Qipeng Qian et al.</td>
@@ -518,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24630.html">DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion</a></div></td>
 <td>Adam Lee</td>
 <td><a href="http://arxiv.org/abs/2605.24630">2605.24630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23878.html">LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation</a></div></td>
-<td>Bo Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23878">2605.23878</a></td>
 </tr>
 </tbody></table>

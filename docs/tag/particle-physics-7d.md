@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13633.html">Unknown Unknowns: Model Misspecification in Machine Learning for Physics</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Juan Cruz-Martinez et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13633">2608.13633</a></td>
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18219.html">Probing the electroweak structure of nuclei with rare atoms and molecules</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-7d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Silviu-Marian Udrescu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18219">2608.18219</a></td>
 </tr>
 </tbody></table>

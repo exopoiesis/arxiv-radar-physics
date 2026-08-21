@@ -46,6 +46,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.11330">2608.11330</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18148.html">Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs</a></div></td>
+<td>Junfeng Chen</td>
+<td><a href="http://arxiv.org/abs/2608.18148">2608.18148</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10047.html">Physics-Informed Machine Learning in Prognostics and Health Management: A Systematic Literature Review</a></div></td>
 <td>Christopher Braun et al.</td>
@@ -1136,11 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06871.html">Learning spatially structured open quantum dynamics with regional-attention transformers</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Dounan Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06871">2509.06871</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12580.html">ChemKANs for Combustion Chemistry Modeling and Acceleration</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12580">2504.12580</a></td>
 </tr>
 </tbody></table>

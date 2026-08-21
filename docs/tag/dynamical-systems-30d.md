@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
+<td>Mark Kozdoba et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18918">2608.18918</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17698.html">Fault detection on manifolds of nonlinear dynamical systems with dual autoencoders</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
@@ -212,23 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>David Oexle et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18977.html">Single-Snapshot Inference of Network Couplings from Universal Dynamics at Relative Equilibrium</a></div></td>
-<td>Moritz Lampert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18977">2607.18977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19302.html">Real-time optimal control with shallow recurrent decoder networks</a></div><div class="paper-tags"><a href="flow-control-30d.html">flow-control</a> · <a href="rom-30d.html">rom</a></div></td>
-<td>Matteo Tomasetto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19302">2607.19302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19628.html">HypEMBER: Hypernetwork-based Ensemble for Robust Policy Learning of Parametrized Dynamical Systems</a></div></td>
-<td>Nicolò Botteghi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19628">2607.19628</a></td>
 </tr>
 </tbody></table>

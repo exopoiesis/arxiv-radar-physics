@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19154.html">Inferring the Dark from the Observable: Estimating Halo Masses Using Galaxy Properties</a></div></td>
+<td>Alice Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19154">2608.19154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17828.html">Symbolic Regression for Interpretable Emulation of Proton Collective Flow in Intermediate-Energy Heavy-Ion Collisions</a></div></td>
@@ -1220,17 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19052.html">Automated discovery of finite volume schemes using Graph Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Paul Garnier et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19052">2508.19052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01862.html">Modeling the Optical Properties of Biological Structures using Symbolic Regression</a></div></td>
-<td>Julian Sierra-Velez et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01862">2506.01862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18173.html">Unveiling the Actual Performance of Neural-based Models for Equation Discovery on Graph Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Riccardo Cappi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18173">2508.18173</a></td>
 </tr>
 </tbody></table>

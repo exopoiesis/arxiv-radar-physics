@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19789.html">TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs</a></div><div class="paper-tags"><a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
+<td>Michal A. Sterzel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19789">2608.19789</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18901.html">Quantum Tensor Network Learning with DMRG</a></div></td>
 <td>Gustav J L Jäger et al.</td>
@@ -368,11 +374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20711.html">Hamiltonian Learning of Triplon Excitations in an Artificial Nanoscale Molecular Quantum Magnet</a></div><div class="paper-tags"><a href="quantum-many-body-systems-360d.html">quantum-many-body-systems</a></div></td>
 <td>Rouven Koch et al.</td>
 <td><a href="http://arxiv.org/abs/2504.20711">2504.20711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19409.html">Numerical Optimization for Tensor Disentanglement</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Julia Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19409">2508.19409</a></td>
 </tr>
 </tbody></table>

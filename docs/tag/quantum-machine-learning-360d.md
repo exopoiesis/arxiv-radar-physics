@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Hedwig Keller et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20076">2608.20076</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
@@ -3068,29 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20310.html">Differentially Private Federated Quantum Learning via Quantum Noise</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Atit Pokharel et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20310">2508.20310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05535.html">Harnessing Quantum Dynamics for Robust and Scalable Quantum Extreme Learning Machines</a></div></td>
-<td>Payal D. Solanki et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05535">2503.05535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19327.html">Quantum Entanglement as Super-Confounding: From Bell&#x27;s Theorem to Robust Machine Learning</a></div></td>
-<td>Pilsung Kang</td>
-<td><a href="http://arxiv.org/abs/2508.19327">2508.19327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19381.html">Towards Quantum Machine Learning for Malicious Code Analysis</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Jesus Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19381">2508.19381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19437.html">Is data-efficient learning feasible with quantum models?</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Alona Sakhnenko et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19437">2508.19437</a></td>
 </tr>
 </tbody></table>

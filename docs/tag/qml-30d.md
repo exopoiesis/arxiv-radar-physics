@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Hedwig Keller et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20076">2608.20076</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18155.html">How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Syeda Anshrah Gillani et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21919.html">Quantum multi-label k-nearest neighbor</a></div></td>
 <td>Yilin Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21919">2607.21919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="hep-30d.html">hep</a> · <a href="high-energy-physics-30d.html">high-energy-physics</a> · <a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Ivan Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
 </tr>
 </tbody></table>

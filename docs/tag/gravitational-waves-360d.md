@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19406.html">Bayesian Forecasts on Cosmic Superstring Searches with LISA</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Satyabrata Datta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19406">2608.19406</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06944.html">Parameter Estimation for Eccentric Supermassive Black Hole Binaries with Pulsar Timing Arrays</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Sara Manzini et al.</td>
@@ -446,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04538.html">Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Ao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04538">2509.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00348.html">Unlocking New Paths for Science with Extreme-Mass-Ratio Inspirals: Machine Learning-Enhanced MCMC for Accurate Parameter Inversion</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00348">2508.00348</a></td>
 </tr>
 </tbody></table>

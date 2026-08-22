@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div></td>
 <td>Can Polat et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25866.html">UNATE: UNsupervised ATomic Embedding for crystal structures property prediction</a></div></td>
 <td>Laura Solà-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25866">2605.25866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24455.html">Multi-Source Domain Transfer Learning for Accurate Property Prediction in Two-Dimensional Materials</a></div></td>
-<td>Huiyang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24455">2605.24455</a></td>
 </tr>
 </tbody></table>

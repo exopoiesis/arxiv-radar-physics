@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19306.html">Quantum Gaussian processes for prediction of channel observations</a></div></td>
+<td>Jonas Jäger et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19306">2608.19306</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17750.html">On the Expressive Power of the Transverse-Field Ising Model for Graph Learning</a></div></td>
 <td>Mehdi Djellabi et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Peiyong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20060.html">Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus</a></div></td>
-<td>P. E. Trevisanutto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20060">2607.20060</a></td>
 </tr>
 </tbody></table>

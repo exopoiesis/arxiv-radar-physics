@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Hedwig Keller et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20076">2608.20076</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
 <td>Natacha Kuete Meli et al.</td>
@@ -506,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25066.html">QML-PipeGuard: Drift-Aware Behavioral Fingerprinting for Quantum Machine Learning Pipeline Integrity</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Esra Yeniaras</td>
 <td><a href="http://arxiv.org/abs/2605.25066">2605.25066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24324.html">A Matched Spectral Benchmark of Quantum Inspired Feature Maps</a></div></td>
-<td>Toheeb Ogunade et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24324">2605.24324</a></td>
 </tr>
 </tbody></table>

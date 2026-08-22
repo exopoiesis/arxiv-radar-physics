@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19785.html">Learning piecewise-smooth dynamical systems</a></div></td>
+<td>Davide Murari et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19785">2608.19785</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
 <td>Mark Kozdoba et al.</td>
@@ -4196,11 +4202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00209.html">Mamba State-Space Models Are Lyapunov-Stable Learners</a></div></td>
 <td>John T. Halloran et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00209">2406.00209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18954.html">On the Generalisation of Koopman Representations for Chaotic System Control</a></div></td>
-<td>Kyriakos Hjikakou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18954">2508.18954</a></td>
 </tr>
 </tbody></table>

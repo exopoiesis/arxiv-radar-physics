@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
+<td>Hedwig Keller et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20076">2608.20076</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
 <td>Natacha Kuete Meli et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21409.html">Cautious optimism for deep parameterized quantum circuits</a></div></td>
 <td>Marie Kempkes et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21409">2607.21409</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a> · <a href="hep-30d.html">hep</a> · <a href="high-energy-physics-30d.html">high-energy-physics</a> · <a href="qml-30d.html">qml</a></div></td>
-<td>Ivan Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
 </tr>
 </tbody></table>

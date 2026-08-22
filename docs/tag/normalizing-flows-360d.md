@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19912.html">Distilling Normalizing Flows for Real-Time Anomaly Detection at the LHC</a></div></td>
+<td>Tara P. A. Tahseen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19912">2608.19912</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12795.html">Fine-tuned Normalizing Flows for ALICE Zero Degree Calorimeter Fast Simulation</a></div><div class="paper-tags"><a href="detector-simulation-360d.html">detector-simulation</a></div></td>
 <td>Emilia Majerz et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05657.html">Emulating compact binary population synthesis simulations with uncertainty quantification and model comparison using Bayesian normalizing flows</a></div></td>
 <td>Anarya Ray</td>
 <td><a href="http://arxiv.org/abs/2506.05657">2506.05657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00348.html">Unlocking New Paths for Science with Extreme-Mass-Ratio Inspirals: Machine Learning-Enhanced MCMC for Accurate Parameter Inversion</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00348">2508.00348</a></td>
 </tr>
 </tbody></table>

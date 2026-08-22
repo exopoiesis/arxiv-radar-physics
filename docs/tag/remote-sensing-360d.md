@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3326,29 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02171.html">DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging</a></div></td>
 <td>Mohamed Youssef et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02171">2502.02171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22675.html">MergeSAM: Unsupervised change detection of remote sensing images based on the Segment Anything Model</a></div></td>
-<td>Meiqi Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22675">2507.22675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11167.html">VFM-Guided Semi-Supervised Detection Transformer under Source-Free Constraints for Remote Sensing Object Detection</a></div></td>
-<td>Jianhong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11167">2508.11167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18693.html">Feature-Space Planes Searcher: A Universal Domain Adaptation Framework for Interpretability and Computational Efficiency</a></div></td>
-<td>Zhitong Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18693">2508.18693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18958.html">The point is the mask: scaling coral reef segmentation with weak supervision</a></div></td>
-<td>Matteo Contini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18958">2508.18958</a></td>
 </tr>
 </tbody></table>

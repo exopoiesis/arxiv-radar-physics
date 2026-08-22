@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>time-series-prediction — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="time-series-prediction-7d.html">7d</a> <a href="time-series-prediction-30d.html">30d</a> <a href="time-series-prediction-90d.html">90d</a> <strong>360d</strong> <a href="time-series-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00266.html">X-TRACK: Physics-Aware xLSTM for Realistic Vehicle Trajectory Prediction</a></div></td>
 <td>Aanchal Rajesh Chugh et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00266">2511.00266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15539.html">Reduced Subgrid Scale Terms in Three-Dimensional Turbulence</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
-<td>Rik Hoekstra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15539">2507.15539</a></td>
 </tr>
 </tbody></table>

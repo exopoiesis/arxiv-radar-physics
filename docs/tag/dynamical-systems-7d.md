@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19785.html">Learning piecewise-smooth dynamical systems</a></div></td>
+<td>Davide Murari et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19785">2608.19785</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
 <td>Mark Kozdoba et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15198.html">Identifying parameter couplings and uncertainties of mixed-noise stochastic systems via full-covariance Gaussian mixture network</a></div></td>
 <td>Xiaolong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15198">2608.15198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
-<td>Giacomo Bocchese et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14019">2608.14019</a></td>
 </tr>
 </tbody></table>

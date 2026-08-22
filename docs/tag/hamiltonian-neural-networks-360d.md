@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19688.html">Learning Deterministic and Stochastic Forced Hamiltonian Systems</a></div></td>
+<td>Benedikt Brantner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19688">2608.19688</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10235.html">A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Lenick Kemunto Nyabuto et al.</td>
@@ -146,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06674.html">Port-Hamiltonian Neural Networks: From Theory to Simulation of Interconnected Stochastic Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Luca Di Persio et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06674">2509.06674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19410.html">Kolmogorov-Arnold Representation for Symplectic Learning: Advancing Hamiltonian Neural Networks</a></div></td>
-<td>Zongyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19410">2508.19410</a></td>
 </tr>
 </tbody></table>

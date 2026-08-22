@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div></td>
 <td>Can Polat et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div></td>
 <td>Hongqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21660.html">Generative and multimodal AI for materials prediction and design: Progress, challenges, and perspectives</a></div></td>
-<td>Xianyuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21660">2607.21660</a></td>
 </tr>
 </tbody></table>

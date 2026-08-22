@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07868.html">Wind farm layout optimization using a novel machine learning approach</a></div></td>
 <td>Mehrshad Gholami Anjiraki et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07868">2509.07868</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15539.html">Reduced Subgrid Scale Terms in Three-Dimensional Turbulence</a></div><div class="paper-tags"><a href="time-series-prediction-360d.html">time-series-prediction</a></div></td>
-<td>Rik Hoekstra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15539">2507.15539</a></td>
 </tr>
 </tbody></table>

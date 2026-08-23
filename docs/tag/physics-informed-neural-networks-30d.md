@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,23 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22327.html">Physics-Informed Neural Network for Modeling the Dynamic Behavior of Grid-Forming Converters</a></div></td>
 <td>Hussein Jaffal et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22327">2607.22327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Amirhossein Nouranizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21352.html">Double screening in the training dynamics of variational physics-informed neural networks for heterogeneous coupled parabolic systems</a></div></td>
-<td>Ali Ouattara Kouma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21352">2607.21352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21753.html">Parametric Neural r-Adaptivity for Isogeometric Analysis via Residual Minimization</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Elías Caru et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21753">2607.21753</a></td>
 </tr>
 </tbody></table>

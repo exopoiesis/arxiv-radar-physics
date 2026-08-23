@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">552 papers</span>
+  <span class="paper-count">549 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3308,23 +3308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20954.html">Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Amir Jmal et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20954">2508.20954</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03141.html">Machine Learning for Asymptomatic Ratoon Stunting Disease Detection With Freely Available Satellite Based Multispectral Imaging</a></div></td>
-<td>Ethan Kane Waters et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03141">2410.03141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19930.html">On Domain-Adaptive Post-Training for Multimodal Large Language Models</a></div></td>
-<td>Daixuan Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19930">2411.19930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02171.html">DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging</a></div></td>
-<td>Mohamed Youssef et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02171">2502.02171</a></td>
 </tr>
 </tbody></table>

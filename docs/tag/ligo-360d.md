@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05283.html">Robustness of Sensitivity Evaluations for Gravitational Wave Detection Algorithms</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Alexandra E. Koloniari et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05283">2509.05283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19772.html">Using normal to find abnormal: AI-based anomaly detection in gravitational wave data</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Yi-Yang Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19772">2508.19772</a></td>
 </tr>
 </tbody></table>

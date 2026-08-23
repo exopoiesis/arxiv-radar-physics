@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,17 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21484.html">Data-driven Discovery of Digital Twins in Biomedical Research</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Clémence Métayer et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21484">2508.21484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19487.html">Data-Efficient Symbolic Regression via Foundation Model Distillation</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Wangyang Ying et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19487">2508.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19672.html">$\mathcal{C}^1$-approximation with rational functions and rational neural networks</a></div></td>
-<td>Erion Morina et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19672">2508.19672</a></td>
 </tr>
 </tbody></table>

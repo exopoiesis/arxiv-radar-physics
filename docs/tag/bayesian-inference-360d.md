@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,17 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00534.html">Quantum Phase Space Tomography for Electromagnetic Biomaterial Imaging</a></div></td>
 <td>Alessandro Settimi</td>
 <td><a href="http://arxiv.org/abs/2509.00534">2509.00534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19961.html">Constraining Ricci-Cubic Holographic Dark Energy from observational data using the MCMC sampling and enhanced Machine learning analysis</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Aritra Sanyal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19961">2508.19961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20162.html">Prospects for EMRI/MBH parameter estimation using Quasi-Periodic Eruption timings: short-timescale analysis</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Joheen Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20162">2508.20162</a></td>
 </tr>
 </tbody></table>

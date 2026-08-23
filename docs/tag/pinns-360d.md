@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">627 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3758,23 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21571.html">Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Bangti Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21571">2508.21571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12116.html">Efficient PINNs via Multi-Head Unimodular Regularization of the Solutions Space</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Pedro Tarancón-Álvarez et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12116">2501.12116</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19561.html">Energy-Equidistributed Moving Sampling Physics-informed Neural Networks for Solving Conservative Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Qinjiao Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19561">2508.19561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19719.html">Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Shinsei Eyama et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19719">2508.19719</a></td>
 </tr>
 </tbody></table>

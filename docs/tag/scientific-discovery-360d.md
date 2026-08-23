@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3050,23 +3050,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21620.html">Introduction to the Analysis of Probabilistic Decision-Making Algorithms</a></div></td>
 <td>Agustinus Kristiadi</td>
 <td><a href="http://arxiv.org/abs/2508.21620">2508.21620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19487.html">Data-Efficient Symbolic Regression via Foundation Model Distillation</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Wangyang Ying et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19487">2508.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20254.html">Beyond Optimization: Exploring Novelty Discovery in Autonomous Experiments</a></div></td>
-<td>Ralph Bulanadi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20254">2508.20254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00098.html">Operating advanced scientific instruments with AI agents that learn on the job</a></div></td>
-<td>Aikaterini Vriza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00098">2509.00098</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04030.html">Design of the wavy wall in a partially heated channel using CFD simulations and human-assisted Bayesian optimization</a></div></td>
 <td>Piotr Kamiński et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04030">2509.04030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10478.html">The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network</a></div></td>
-<td>Oluwaseyi Giwa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10478">2509.10478</a></td>
 </tr>
 </tbody></table>

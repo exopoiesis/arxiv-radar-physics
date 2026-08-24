@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,11 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21728.html">AI-powered full-data set search for new physics in ultraperipheral and diffractive events</a></div></td>
 <td>Simone Ragoni et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21728">2508.21728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20954.html">Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Amir Jmal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20954">2508.20954</a></td>
 </tr>
 </tbody></table>

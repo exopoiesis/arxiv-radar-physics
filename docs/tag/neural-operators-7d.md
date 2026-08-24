@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>John C Schotland et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15588.html">A General-purpose Solver of Fourier Neural Swarm Operator Towards Accurate and Efficient Mechanical Modeling of Ultra Large Composite Materials</a></div></td>
-<td>Lekun Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15588">2608.15588</a></td>
 </tr>
 </tbody></table>

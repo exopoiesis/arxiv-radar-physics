@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">807 papers</span>
+  <span class="paper-count">805 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4844,17 +4844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00204.html">WoSNN: Stochastic Solver for PDEs with Machine Learning</a></div></td>
 <td>Silei Song et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00204">2509.00204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20650.html">Self-Composing Neural Operators with Depth and Accuracy Scaling via Adaptive Train-and-Unroll Approach</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Juncai He et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20650">2508.20650</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20886.html">Polynomial Chaos Expansion for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Himanshu Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20886">2508.20886</a></td>
 </tr>
 </tbody></table>

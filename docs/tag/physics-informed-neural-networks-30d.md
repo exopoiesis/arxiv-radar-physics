@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Martín D. Jiménez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23276">2607.23276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21932.html">Generalized Neural Operator for Parametric and Boundary-Value Problems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Ruoyan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21932">2607.21932</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22215.html">Latent PDE mapping for efficient physics-informed learning across geometries with limited data</a></div></td>
-<td>Ingvild Askim Adde et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22215">2607.22215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22327.html">Physics-Informed Neural Network for Modeling the Dynamic Behavior of Grid-Forming Converters</a></div></td>
-<td>Hussein Jaffal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22327">2607.22327</a></td>
 </tr>
 </tbody></table>

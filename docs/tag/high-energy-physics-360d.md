@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>high-energy-physics — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <strong>360d</strong> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14578.html">Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
 <td>Laura Boggia et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14578">2506.14578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20482.html">Mineral Detection of Neutrinos and Dark Matter 2025 Proceedings</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Shigenobu Hirose et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20482">2508.20482</a></td>
 </tr>
 </tbody></table>

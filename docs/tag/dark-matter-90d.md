@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,17 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Gourab Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26209.html">How galaxies acquire their stellar mass at high redshift: High star formation efficiencies and the relative roles of dust and initial mass function</a></div></td>
-<td>Hao Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26209">2605.26209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26210.html">Field-level multi-tracers simulation-based inference of cosmological parameters from 3D maps</a></div></td>
-<td>Giulio Scelfo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26210">2605.26210</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">508 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,35 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21504.html">Digital quantum simulation of many-body systems: Making the most of intermediate-scale, noisy quantum computers</a></div></td>
 <td>Alexander Miessen</td>
 <td><a href="http://arxiv.org/abs/2508.21504">2508.21504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04844.html">Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Alberto Marchisio et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04844">2412.04844</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19394.html">Quantum-Classical Hybrid Molecular Autoencoder for Advancing Classical Decoding</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Afrar Jahin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19394">2508.19394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20868.html">Fourier Fingerprints of Ansatzes in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Melvin Strobl et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20868">2508.20868</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21252.html">Quantum Machine Learning for Optimizing Entanglement Distribution in Quantum Sensor Circuits</a></div></td>
-<td>Laxmisha Ashok Attisara et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21252">2508.21252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21253.html">Reinforcement Learning for Optimizing Large Qubit Array based Quantum Sensor Circuits</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Laxmisha Ashok Attisara et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21253">2508.21253</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">584 papers</span>
+  <span class="paper-count">582 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3506,17 +3506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12212.html">PowerGrow: Feasible Co-Growth of Structures and Dynamics for Power Grid Synthesis</a></div></td>
 <td>Xinyu He et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12212">2509.12212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22677.html">DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness</a></div></td>
-<td>Ruining Li et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22677">2503.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20612.html">Physics Informed Generative Models for Magnetic Field Images</a></div></td>
-<td>Aye Phyu Phyu Aung et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20612">2508.20612</a></td>
 </tr>
 </tbody></table>

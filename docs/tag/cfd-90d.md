@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,23 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27725.html">CFDTwin: An open-source GUI and Python toolkit for POD-NN surrogate modeling of ANSYS Fluent simulations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Daniel Curl et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27725">2605.27725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25679.html">Transformer-based Neural Operators for 3D Wind Field Prediction over Complex Mountainous Terrain</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Yujia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25679">2605.25679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26059.html">Accelerating Bayesian inverse design in computational fluid dynamics using neural operators</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Bipin Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26059">2605.26059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26388.html">MARUT: An Exascale-Ready, GPU-Accelerated High-Order CFD Framework with AMR for High-Speed Flows and Finite-Rate Chemistry</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Trishit Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26388">2605.26388</a></td>
 </tr>
 </tbody></table>

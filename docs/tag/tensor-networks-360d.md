@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03911.html">Explaining Anomalies with Tensor Networks</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Hans Hohenfeld et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03911">2505.03911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21253.html">Reinforcement Learning for Optimizing Large Qubit Array based Quantum Sensor Circuits</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Laxmisha Ashok Attisara et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21253">2508.21253</a></td>
 </tr>
 </tbody></table>

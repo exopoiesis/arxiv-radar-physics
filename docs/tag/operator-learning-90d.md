@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27758.html">High-Fidelity Industrial Crash Dynamics Prediction via Geometry-Aware Operator Learning with Memory-Efficient Low-Rank Attention</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
 <td>Deepak Akhare et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27758">2605.27758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25633.html">Exponential mixing properties of nonlinear functional autoregressive models</a></div></td>
-<td>Shuntarou Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25633">2605.25633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25867.html">CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Pietro Zanotta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25867">2605.25867</a></td>
 </tr>
 </tbody></table>

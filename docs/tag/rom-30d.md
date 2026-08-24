@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rom — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <strong>30d</strong> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03996.html">Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Konstantinos Alexopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03996">2608.03996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Michael Candon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22402">2607.22402</a></td>
 </tr>
 </tbody></table>

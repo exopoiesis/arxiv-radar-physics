@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3278,23 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10484.html">Calibrating a Finite-strain Phase-field Model of Fracture for Bonded Granular Materials with Uncertainty Quantification</a></div></td>
 <td>Abigail C. Schmid et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10484">2509.10484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15352.html">Semiparametric Bernstein-von Mises Phenomenon via Isotonized Posterior in Wicksell&#x27;s problem</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Francesco Gili et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15352">2502.15352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20886.html">Polynomial Chaos Expansion for Operator Learning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Himanshu Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20886">2508.20886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21165.html">Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
-<td>Natalia L. Rubio et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21165">2508.21165</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21234.html">Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)</a></div></td>
+<td>Victorita Dolean et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21234">2608.21234</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19615.html">Evo-GTransNet for Parabolic PDEs: A Fixed-Feature Galerkin Method of Lines with Quadrature-Mass Orthonormalization</a></div></td>
 <td>Lili Ju et al.</td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19632.html">Complementary, Not Cumulative: Interaction Effects in Physics-Informed Neural Networks for Navier-Stokes Vortex Shedding</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Devesh Shah</td>
 <td><a href="http://arxiv.org/abs/2608.19632">2608.19632</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20477.html">STCO: Conditional Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Xingxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20477">2608.20477</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -146,6 +158,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03360.html">Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Edgar Jaber et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03360">2608.03360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20404.html">Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20404">2608.20404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-01</td>
@@ -4826,23 +4844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00957.html">Deep Tangent Bundle (DTB) method: a Deep Neural Network approach to compute solutions of PDES</a></div></td>
 <td>Hao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00957">2509.00957</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21571.html">Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Bangti Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21571">2508.21571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21684.html">A Dual Ensemble Kalman Filter Approach to Robust Control of Nonlinear Systems: An Application to Partial Differential Equations</a></div></td>
-<td>Anant A. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21684">2508.21684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00204.html">WoSNN: Stochastic Solver for PDEs with Machine Learning</a></div></td>
-<td>Silei Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00204">2509.00204</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20985.html">Resolving positive semi-definiteness in physics-informed kernels for scientific machine learning</a></div></td>
+<td>J. Moser et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20985">2608.20985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20184.html">PEtab SciML: an exchange format for specifying and training dynamic scientific machine learning models</a></div><div class="paper-tags"><a href="sciml-7d.html">sciml</a></div></td>
 <td>Sebastian Persson et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20184">2608.20184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16084.html">Eigenanalysis framework for autoregressive neural emulators of multi-scale chaotic dynamics</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
-<td>Conrad Ainslie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16084">2608.16084</a></td>
 </tr>
 </tbody></table>

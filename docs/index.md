@@ -5,15 +5,141 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-08-24._
+_Updated 2026-08-25._
 
-**20179** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**20208** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20666.html">Amplifying the imaging power of digital sky surveys with space telescopes data and generative AI</a></div></td>
+<td>Sai Teja Erukude et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20666">2608.20666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20684.html">Power-law-anchored residual learning for H-mode energy confinement time in tokamaks: interpolation and parameter-defined extrapolation</a></div></td>
+<td>Zhaokun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20684">2608.20684</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20686.html">CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery</a></div><div class="paper-tags"><a href="tag/particle-physics-30d.html">particle-physics</a> · <a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
+<td>Piyush Jha et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20686">2608.20686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20834.html">Advantage-level Aggregation Reinforcement Learning for X-point Target Magnetic Configuration Control in an EXL-50U Experiment-Calibrated Simulation Environment</a></div></td>
+<td>Siqi Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20834">2608.20834</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20902.html">Systematic and accurate anharmonic formation free energies of metastable defects via a constrained Bayesian Adaptive Biasing Force framework</a></div></td>
+<td>Clovis Lapointe et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20902">2608.20902</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20935.html">An Imaging-Informed Reaction-Diffusion Model of Infarct Growth</a></div></td>
+<td>Muhammad Hussnain Abbas et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20935">2608.20935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20985.html">Resolving positive semi-definiteness in physics-informed kernels for scientific machine learning</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>J. Moser et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20985">2608.20985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20994.html">Scalable photoexcitation-induced molecular dynamics with machine-learned Hamiltonians</a></div><div class="paper-tags"><a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Leyu Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20994">2608.20994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20998.html">Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir Computing</a></div></td>
+<td>Sara Malacarne et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20998">2608.20998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21051.html">NestyNet. III. Symbolic Regression from Analytic Neural Surrogates</a></div><div class="paper-tags"><a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Rodrigo Ibata et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21051">2608.21051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21070.html">TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics</a></div><div class="paper-tags"><a href="tag/force-fields-30d.html">force-fields</a></div></td>
+<td>Yuhao Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21070">2608.21070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21092.html">Techno-Economic Analysis of Repurposing Abandoned Oil Wells for Geothermal Energy Extraction Using Physics-Informed Neural Networks</a></div></td>
+<td>Hung-Yu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21092">2608.21092</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21127.html">BMPV black holes in higher-derivative supergravity</a></div></td>
+<td>Yide Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21127">2608.21127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21129.html">Transit Searches for Habitable-Zone Exoplanets with Artificial Intelligence</a></div></td>
+<td>Qingtian Liu</td>
+<td><a href="http://arxiv.org/abs/2608.21129">2608.21129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21173.html">A Fourier Neural Operator for Accelerated Discretization-Invariant Solutions of the Radiative Transfer Equation</a></div></td>
+<td>Daniel Carne</td>
+<td><a href="http://arxiv.org/abs/2608.21173">2608.21173</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21234.html">Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Victorita Dolean et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21234">2608.21234</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21253.html">Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a></div><div class="paper-tags"><a href="tag/dark-matter-30d.html">dark-matter</a></div></td>
+<td>Leo W. H. Fung et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21253">2608.21253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21309.html">Tomographic Limits of the Petz Recovery Map</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
+<td>Peter Sidajaya et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21309">2608.21309</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21321.html">Hypothesis testing between quantum ensembles</a></div><div class="paper-tags"><a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Jian Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21321">2608.21321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21327.html">On-Detector Machine Learning for Beam-Induced Background Rejection at a 10 TeV Muon Collider</a></div><div class="paper-tags"><a href="tag/particle-physics-30d.html">particle-physics</a></div></td>
+<td>Daniel Abadjiev et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21327">2608.21327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21332.html">Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation</a></div></td>
+<td>David P. Stonko</td>
+<td><a href="http://arxiv.org/abs/2608.21332">2608.21332</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19528.html">Physics-Based versus Data-Driven Classification of Single-Photon Quantum Emitters from Sparse Autocorrelation Data</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
@@ -67,131 +193,5 @@ _Updated 2026-08-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19789.html">TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs</a></div><div class="paper-tags"><a href="tag/quantum-many-body-systems-30d.html">quantum-many-body-systems</a> · <a href="tag/tensor-networks-30d.html">tensor-networks</a></div></td>
 <td>Michal A. Sterzel et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19789">2608.19789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19912.html">Distilling Normalizing Flows for Real-Time Anomaly Detection at the LHC</a></div><div class="paper-tags"><a href="tag/normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Tara P. A. Tahseen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19912">2608.19912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Yuxuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20001.html">Bayesian inference and retrodiction for faithful states on von Neumann algebras</a></div><div class="paper-tags"><a href="tag/bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Pradyut Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20001">2608.20001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20016.html">Emergence of cooperation: A reputation-modulated reinforcement learning</a></div></td>
-<td>Chenyang Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20016">2608.20016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="tag/qml-30d.html">qml</a> · <a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Hedwig Keller et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20076">2608.20076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20089.html">Backstepping-Guided Reinforcement Learning for Wide-Range Saint-Venant Canal Regulation</a></div><div class="paper-tags"><a href="tag/deeponet-30d.html">deeponet</a></div></td>
-<td>Chenchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20089">2608.20089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20184.html">PEtab SciML: an exchange format for specifying and training dynamic scientific machine learning models</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/sciml-30d.html">sciml</a></div></td>
-<td>Sebastian Persson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20184">2608.20184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20244.html">Extraction of DVCS amplitudes off the nucleon</a></div><div class="paper-tags"><a href="tag/lattice-qcd-30d.html">lattice-qcd</a></div></td>
-<td>C. Mezrag et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20244">2608.20244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20260.html">From Kriging to Spatial AI: Fifty Years of Spatial Statistics for Complex Dependent Data</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Montserrat Fuentes et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20260">2608.20260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20311.html">Imaging the vacuum fluctuations of a quantum field</a></div></td>
-<td>Yansheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20311">2608.20311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18431.html">Process Optimization Under Uncertainty for Improving the Bond Quality of Polymer Filaments in Fused Filament Fabrication</a></div></td>
-<td>Berkcan Kapusuzoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18431">2608.18431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18481.html">Time-dependent Evolution of Proton Spectra in Supernova Remnants and Their Contribution to Galactic Cosmic Rays</a></div></td>
-<td>Jun-Yu Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18481">2608.18481</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18495.html">Physics-Unrolled Neural Operator for Wireless Field Modeling</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
-<td>Rafid Umayer Murshed et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18495">2608.18495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18522.html">GCNO: Gramian Chebyshev Neural Operator for Physics-Based Compression of Wireless Channels</a></div></td>
-<td>Rafid Umayer Murshed et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18522">2608.18522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18570.html">Learning Topological Features of $\widehat Z$-invariants</a></div></td>
-<td>Brandon Robinson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18570">2608.18570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18641.html">Physics-informed neural network for inverse modeling of granular flows</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Bing Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18641">2608.18641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18714">2608.18714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18851.html">Multi-stage neural operator learning with application for convolutions</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
-<td>Zhiping Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18851">2608.18851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18901.html">Quantum Tensor Network Learning with DMRG</a></div><div class="paper-tags"><a href="tag/tensor-networks-30d.html">tensor-networks</a></div></td>
-<td>Gustav J L Jäger et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18901">2608.18901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18903.html">A FEM-Based Surrogate Modelling and Optimization Framework for Physics-Constrained Electromagnetic Coil Design</a></div></td>
-<td>Yucheng Liu</td>
-<td><a href="http://arxiv.org/abs/2608.18903">2608.18903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Mark Kozdoba et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18918">2608.18918</a></td>
 </tr>
 </tbody></table>

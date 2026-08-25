@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.19785">2608.19785</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20483.html">Uncertainty propagation in auto-regressive random neural network models</a></div></td>
+<td>Janice Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20483">2608.20483</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
 <td>Mark Kozdoba et al.</td>
@@ -4196,11 +4202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05371.html">BayesianFitForecast: A User-Friendly R Toolbox for Parameter Estimation and Forecasting with Ordinary Differential Equations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Hamed Karami et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05371">2411.05371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00209.html">Mamba State-Space Models Are Lyapunov-Stable Learners</a></div></td>
-<td>John T. Halloran et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00209">2406.00209</a></td>
 </tr>
 </tbody></table>

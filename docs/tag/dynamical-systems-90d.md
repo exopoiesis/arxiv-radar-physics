@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19785.html">Learning piecewise-smooth dynamical systems</a></div></td>
 <td>Davide Murari et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19785">2608.19785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20483.html">Uncertainty propagation in auto-regressive random neural network models</a></div></td>
+<td>Janice Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20483">2608.20483</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -662,23 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
 <td>Luca Sosta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28452">2605.28452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26619.html">PIDM-DP: Physics-Informed Diffusion with Dormand-Prince Integration for Chaotic System Identification and State Reconstruction across Multiple Dynamical Regimes</a></div></td>
-<td>Shailendra Dabral</td>
-<td><a href="http://arxiv.org/abs/2605.26619">2605.26619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26881.html">Robust ensemble Kalman filtering under observation noise misspecification via diffusion score matching</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Hans Reimann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26881">2605.26881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27290.html">Linear Recurrent Neural Networks as Time-Delay Embeddings</a></div></td>
-<td>Fisher Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27290">2605.27290</a></td>
 </tr>
 </tbody></table>

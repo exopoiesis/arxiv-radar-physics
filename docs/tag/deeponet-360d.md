@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20089.html">Backstepping-Guided Reinforcement Learning for Wide-Range Saint-Venant Canal Regulation</a></div></td>
 <td>Chenchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20089">2608.20089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20439.html">Wrong-Physics Backdoors in Neural PDE Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Hanbing Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20439">2608.20439</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-18</td>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21051.html">NestyNet. III. Symbolic Regression from Analytic Neural Surrogates</a></div></td>
+<td>Rodrigo Ibata et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21051">2608.21051</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19154.html">Inferring the Dark from the Observable: Estimating Halo Masses Using Galaxy Properties</a></div></td>
 <td>Alice Chen et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17828.html">Symbolic Regression for Interpretable Emulation of Proton Collective Flow in Intermediate-Energy Heavy-Ion Collisions</a></div></td>
 <td>Nicholas Cox et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17828">2608.17828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16876.html">AutoSR: Automatic Symbolic Regression by Searching Research States</a></div></td>
-<td>Kejia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16876">2608.16876</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">311 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,23 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21471.html">LUMIR: an LLM-Driven Unified Agent Framework for Multi-task Infrared Spectroscopy Reasoning</a></div></td>
 <td>Zujie Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21471">2507.21471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04969.html">Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing</a></div></td>
-<td>Chanh Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04969">2507.04969</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21273.html">CALM: A Framework for Continuous, Adaptive, and LLM-Mediated Anomaly Detection in Time-Series Streams</a></div></td>
-<td>Ashok Devireddy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21273">2508.21273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21728.html">AI-powered full-data set search for new physics in ultraperipheral and diffractive events</a></div></td>
-<td>Simone Ragoni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21728">2508.21728</a></td>
 </tr>
 </tbody></table>

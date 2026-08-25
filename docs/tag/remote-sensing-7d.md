@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16681.html">Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank</a></div></td>
-<td>Shanwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16681">2608.16681</a></td>
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20540.html">GOES-East full-disk AI nowcasting of cloud evolution in observation space</a></div></td>
+<td>Dhamma Kimpara et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20540">2608.20540</a></td>
 </tr>
 </tbody></table>

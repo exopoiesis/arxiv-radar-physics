@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">503 papers</span>
+  <span class="paper-count">502 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21321.html">Hypothesis testing between quantum ensembles</a></div></td>
+<td>Jian Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21321">2608.21321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
@@ -3020,17 +3026,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00637.html">Quantum Circuits for Quantum Convolutions: A Quantum Convolutional Autoencoder</a></div></td>
 <td>Javier Orduz et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00637">2509.00637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21366.html">CircuitHunt: Automated Quantum Circuit Screening for Superior Credit-Card Fraud Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Nouhaila Innan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21366">2508.21366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21504.html">Digital quantum simulation of many-body systems: Making the most of intermediate-scale, noisy quantum computers</a></div></td>
-<td>Alexander Miessen</td>
-<td><a href="http://arxiv.org/abs/2508.21504">2508.21504</a></td>
 </tr>
 </tbody></table>

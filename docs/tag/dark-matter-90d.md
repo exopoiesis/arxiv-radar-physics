@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21253.html">Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a></div></td>
+<td>Leo W. H. Fung et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21253">2608.21253</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06957.html">Probing dark matter through charged Higgs pair production at future multi-TeV muon colliders: A machine-learning analysis</a></div></td>
 <td>Khiem Hong Phan et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29876.html">Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
 <td>Colton R. Feathers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29876">2605.29876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27357.html">Gaussian Process Reconstruction of Cosmological Parameters with Gravitational Wave Sirens using Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>Gourab Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27357">2605.27357</a></td>
 </tr>
 </tbody></table>

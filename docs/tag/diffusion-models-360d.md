@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">582 papers</span>
+  <span class="paper-count">579 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3488,23 +3488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02607.html">Towards Digital Twins for Optimal Radioembolization</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Nisanth Kumar Panneerselvam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02607">2509.02607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18850.html">Equivariant Hypergraph Diffusion for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a></div></td>
-<td>Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18850">2501.18850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21375.html">Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation</a></div></td>
-<td>Anuj Pasricha et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21375">2508.21375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12212.html">PowerGrow: Feasible Co-Growth of Structures and Dynamics for Power Grid Synthesis</a></div></td>
-<td>Xinyu He et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12212">2509.12212</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div></td>
+<td>Chen Yuntong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div></td>
 <td>Can Polat et al.</td>
@@ -1544,11 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05351.html">Self-Driving Laboratory Optimizes the Lower Critical Solution Temperature of Thermoresponsive Polymers</a></div></td>
 <td>Guoyue Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05351">2509.05351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21281.html">Rigid muffin-tin approximation in plane-wave codes for fast modeling of phonon-mediated superconductors</a></div></td>
-<td>Danylo Radevych et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21281">2508.21281</a></td>
 </tr>
 </tbody></table>

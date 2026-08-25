@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2608.19785">2608.19785</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20483.html">Uncertainty propagation in auto-regressive random neural network models</a></div></td>
+<td>Janice Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20483">2608.20483</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18918.html">Score the Algebra, Not the Span: Dimension Reduction for Transfer Operator Models of Dynamical Systems</a></div></td>
 <td>Mark Kozdoba et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17698.html">Fault detection on manifolds of nonlinear dynamical systems with dual autoencoders</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
 <td>Bulut Kuşkonmaz et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17698">2608.17698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17117.html">Physics-informed Reinforcement Learning for Stochastic Reach-Avoid Analysis</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Hikaru Hoshino et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17117">2608.17117</a></td>
 </tr>
 </tbody></table>

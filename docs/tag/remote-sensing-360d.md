@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">548 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20540.html">GOES-East full-disk AI nowcasting of cloud evolution in observation space</a></div></td>
+<td>Dhamma Kimpara et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20540">2608.20540</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16681.html">Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank</a></div></td>
@@ -3290,17 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00396.html">DAOVI: Distortion-Aware Omnidirectional Video Inpainting</a></div></td>
 <td>Ryosuke Seshimo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00396">2509.00396</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21472.html">Adversarial Patch Attack for Ship Detection via Localized Augmentation</a></div></td>
-<td>Chun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21472">2508.21472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21570.html">OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories</a></div></td>
-<td>Bo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21570">2508.21570</a></td>
 </tr>
 </tbody></table>

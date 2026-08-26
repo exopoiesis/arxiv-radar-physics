@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">622 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22426.html">On the extreme eigenvalues of the Gram Matrix in Physics-Informed Neural Networks for the Poisson Equation</a></div></td>
+<td>Bangti Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22426">2608.22426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22493.html">A Jin--Xin Relaxation Gradual Convergence Method for Conservation-Law PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Emmanuel Lorin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22493">2608.22493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21683.html">Inverted model selection in physics-informed neural networks: when a lower residual selects a worse solution</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Rabiu Musah</td>
+<td><a href="http://arxiv.org/abs/2608.21683">2608.21683</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19632.html">Complementary, Not Cumulative: Interaction Effects in Physics-Informed Neural Networks for Navier-Stokes Vortex Shedding</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -3740,11 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01234.html">RAMS: Residual-based adversarial-gradient moving sample method for scientific machine learning in solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Weihang Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01234">2509.01234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02607.html">Towards Digital Twins for Optimal Radioembolization</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="diffusion-models-360d.html">diffusion-models</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Nisanth Kumar Panneerselvam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02607">2509.02607</a></td>
 </tr>
 </tbody></table>

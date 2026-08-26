@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.21309">2608.21309</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21549.html">Probabilistic inference of surface parameters for Monin-Obukhov similarity theory</a></div></td>
+<td>Ethan YoungIn Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21549">2608.21549</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19528.html">Physics-Based versus Data-Driven Classification of Single-Photon Quantum Emitters from Sparse Autocorrelation Data</a></div></td>
 <td>Nhat Minh Nguyen et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24412.html">Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
 <td>Minal Chhabra et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24412">2607.24412</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23485.html">Simultaneous Color Glass Condensate fit to deep inelastic scattering and forward hadron production at HERA, RHIC, and the LHC</a></div></td>
-<td>Piotr Korcyl et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23485">2607.23485</a></td>
 </tr>
 </tbody></table>

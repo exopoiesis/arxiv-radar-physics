@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22782.html">Neural Operator based Multi-Field Reconstruction of Inner Solar Boundary State</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Vignesh Kumar Pandian Sathia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22782">2608.22782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23458.html">Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission</a></div></td>
+<td>Nikki Grens et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23458">2608.23458</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20985.html">Resolving positive semi-definiteness in physics-informed kernels for scientific machine learning</a></div></td>
 <td>J. Moser et al.</td>
@@ -314,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Maciej Paszyński et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27968.html">Adapting Automotive Aerodynamics Surrogates to New Vehicle Families via Transfer Learning</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Seunghwan Keum et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27968">2605.27968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29153.html">Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Yuxin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29153">2605.29153</a></td>
 </tr>
 </tbody></table>

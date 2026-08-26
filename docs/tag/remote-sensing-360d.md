@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21754.html">Fidelity-Diversity-Consistency (FDC): Data Pruning for Remote Sensing Change Detection</a></div></td>
+<td>Dongyao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21754">2608.21754</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20540.html">GOES-East full-disk AI nowcasting of cloud evolution in observation space</a></div></td>
 <td>Dhamma Kimpara et al.</td>
@@ -3290,11 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00835.html">Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed loss</a></div></td>
 <td>Jongwook Si et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00835">2509.00835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00396.html">DAOVI: Distortion-Aware Omnidirectional Video Inpainting</a></div></td>
-<td>Ryosuke Seshimo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00396">2509.00396</a></td>
 </tr>
 </tbody></table>

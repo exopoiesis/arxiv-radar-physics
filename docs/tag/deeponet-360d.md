@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21683.html">Inverted model selection in physics-informed neural networks: when a lower residual selects a worse solution</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Rabiu Musah</td>
+<td><a href="http://arxiv.org/abs/2608.21683">2608.21683</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19658.html">Rationally Enriched Chebyshev Trunk Bases for DeepONet Surrogates of High Péclet Entrance Transport</a></div></td>
 <td>Mingeun Choi et al.</td>
@@ -932,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01679.html">Efficient Transformer-Inspired Variants of Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhi-Feng Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01679">2509.01679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00604.html">I-FENN with DeepONets: accelerating simulations in coupled multiphysics problems</a></div></td>
-<td>Fouad M. Amin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00604">2509.00604</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23070.html">From Generation to Simulation: How Far Are World Models from Being True Simulators?</a></div></td>
+<td>Tong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23070">2608.23070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23188.html">An improved view of cosmic-ray transport and the galactic outflow in NGC 253</a></div></td>
+<td>Shengtao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23188">2608.23188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21700.html">Scalable quantum simulation of continuous-time generative models via tensor networks</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
+<td>Nathan X. Kodama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21700">2608.21700</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17796.html">Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models</a></div></td>
@@ -476,17 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02661.html">Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Yunlong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02661">2606.02661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
-<td>Corentin Guigot et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28900.html">Spectral Guidance for Flexible and Efficient Control of Diffusion Models</a></div></td>
-<td>Gabriel Moreira et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28900">2605.28900</a></td>
 </tr>
 </tbody></table>

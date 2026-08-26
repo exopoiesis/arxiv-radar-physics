@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1005 papers</span>
+  <span class="paper-count">1008 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22426.html">On the extreme eigenvalues of the Gram Matrix in Physics-Informed Neural Networks for the Poisson Equation</a></div></td>
+<td>Bangti Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22426">2608.22426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22493.html">A Jin--Xin Relaxation Gradual Convergence Method for Conservation-Law PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Emmanuel Lorin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22493">2608.22493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21683.html">Inverted model selection in physics-informed neural networks: when a lower residual selects a worse solution</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Rabiu Musah</td>
+<td><a href="http://arxiv.org/abs/2608.21683">2608.21683</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19632.html">Complementary, Not Cumulative: Interaction Effects in Physics-Informed Neural Networks for Navier-Stokes Vortex Shedding</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>

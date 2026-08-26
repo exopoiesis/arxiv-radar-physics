@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23297.html">ADDA: a Modular Framework for Representing, Simulating and Assimilating Dynamics with End-to-end Differentiability</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Anthony Frion et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23297">2608.23297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22277.html">DAW: Dynamics-Aware Weighting for Deep Learning Forecasts of Chaotic Systems</a></div></td>
+<td>Zhou Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22277">2608.22277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22324.html">Gaussian process learning with flow map refinement for parameter estimation in dynamical systems</a></div></td>
+<td>Yue Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22324">2608.22324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22112.html">Symbolic Neural ODEs: Learning interpretable models from time-series data</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
+<td>Nibodh Boddupalli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22112">2608.22112</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19785.html">Learning piecewise-smooth dynamical systems</a></div></td>
@@ -662,11 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>James Rudd-Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30160">2605.30160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28452.html">Physics-constrained identification of graph-based thermal networks for spacecraft digital twins</a></div></td>
-<td>Luca Sosta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28452">2605.28452</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">501 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3020,11 +3020,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01008.html">Quantum-based QoE Optimization in Advanced Cellular Networks: Integration and Cloud Gaming Use Case</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Fatma Chaouech et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01008">2509.01008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00637.html">Quantum Circuits for Quantum Convolutions: A Quantum Convolutional Autoencoder</a></div></td>
-<td>Javier Orduz et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00637">2509.00637</a></td>
 </tr>
 </tbody></table>

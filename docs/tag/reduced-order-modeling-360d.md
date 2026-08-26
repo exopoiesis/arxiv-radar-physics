@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16535.html">Data-Driven Reduced-Order Modeling of Phase Mixing Dynamics from Particle Kinetic Simulation</a></div></td>
 <td>Darian Figuera-Michal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16535">2509.16535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19448.html">Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods</a></div></td>
-<td>Ludovico Theo Giorgini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19448">2508.19448</a></td>
 </tr>
 </tbody></table>

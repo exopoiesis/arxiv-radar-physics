@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22789.html">GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing</a></div></td>
+<td>Sosmita Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22789">2608.22789</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21629.html">ChequeMark: An Ensemble Machine Learning Framework for After-Hours Business Deposit Fraud Detection</a></div></td>
+<td>Ann Youduo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21629">2608.21629</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18341.html">Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring</a></div></td>
 <td>Steven C. Nesbit et al.</td>
@@ -368,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01925.html">QoEReasoner: An Agentic Reasoning Framework for Automated and Explainable QoE Diagnosis in RANs</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
 <td>Qizhe Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01925">2606.01925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27942.html">Quantum principal component analysis without eigenvector recovery</a></div></td>
-<td>Yewei Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27942">2605.27942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27992.html">Patched-DeltaNet: Token-Level Event-Driven Memory for Linear-Time Anomaly Detection</a></div></td>
-<td>Tae-Gyun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27992">2605.27992</a></td>
 </tr>
 </tbody></table>

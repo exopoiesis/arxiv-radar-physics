@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23025.html">A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems</a></div></td>
+<td>Ahmad Salmanogli</td>
+<td><a href="http://arxiv.org/abs/2608.23025">2608.23025</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15528.html">Global precision bounds and success-probability guarantees in quantum parameter learning</a></div></td>

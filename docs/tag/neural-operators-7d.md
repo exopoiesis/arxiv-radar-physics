@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22782.html">Neural Operator based Multi-Field Reconstruction of Inner Solar Boundary State</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Vignesh Kumar Pandian Sathia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22782">2608.22782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22026.html">One-Step Evolution for Long-Time Extrapolation: An Error-Bound-Informed and Prior-Guided Neural Residual Framework for Autonomous PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Maqun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22026">2608.22026</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20439.html">Wrong-Physics Backdoors in Neural PDE Operators</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
 <td>Hanbing Liang et al.</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18495.html">Physics-Unrolled Neural Operator for Wireless Field Modeling</a></div></td>
 <td>Rafid Umayer Murshed et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18495">2608.18495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17342.html">MoFE: A Novel Mixture-of-Experts Framework with Fourier Neural Operators for Cryptocurrency Forecasting</a></div></td>
-<td>Bowen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17342">2608.17342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>John C Schotland et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
 </tr>
 </tbody></table>

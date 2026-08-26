@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2608.21309">2608.21309</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21549.html">Probabilistic inference of surface parameters for Monin-Obukhov similarity theory</a></div></td>
+<td>Ethan YoungIn Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21549">2608.21549</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19528.html">Physics-Based versus Data-Driven Classification of Single-Photon Quantum Emitters from Sparse Autocorrelation Data</a></div></td>
 <td>Nhat Minh Nguyen et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19406.html">Bayesian Forecasts on Cosmic Superstring Searches with LISA</a></div><div class="paper-tags"><a href="gravitational-waves-7d.html">gravitational-waves</a></div></td>
 <td>Satyabrata Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19406">2608.19406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Milad Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17591">2608.17591</a></td>
 </tr>
 </tbody></table>

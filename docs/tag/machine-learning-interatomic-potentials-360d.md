@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21695.html">Comparative Assessment of Thermal Transport Theories: Dual-Channel Mechanism Dictates Heat Transport in Ultralow-$κ$ Materials</a></div></td>
+<td>Soham Mandal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21695">2608.21695</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21624.html">Vibrational, structural, and chemical fingerprints of ion diffusion in crystalline solids</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Gavin Winter et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21624">2608.21624</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20596.html">Machine Learning Guided Discovery of Corundum High Entropy Oxides</a></div></td>
@@ -944,11 +956,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13744.html">Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations</a></div></td>
 <td>Jorge Suárez-Recio et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13744">2505.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00498.html">&quot;One defect, one potential&quot; strategy for accurate machine learning prediction of defect phonons</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Junjie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00498">2509.00498</a></td>
 </tr>
 </tbody></table>

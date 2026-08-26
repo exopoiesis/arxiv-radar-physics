@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23022.html">Neural Boltzmann Equations</a></div></td>
+<td>Jonas Spinner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23022">2608.23022</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13652.html">Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
 <td>Haoyi Jia et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11157.html">DarkAgents</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Michele Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11157">2606.11157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28940.html">Neural Scaling Laws for Jet Generation</a></div></td>
-<td>Oz Amram et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28940">2605.28940</a></td>
 </tr>
 </tbody></table>

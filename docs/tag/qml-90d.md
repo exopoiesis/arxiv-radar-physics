@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23934.html">QML for Quantum Sensing under Measurement-Induced Information Loss</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Sounak Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23934">2608.23934</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Hedwig Keller et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05387.html">Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Vincenzo Sammartino</td>
 <td><a href="http://arxiv.org/abs/2606.05387">2606.05387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29877.html">Verifying Adversarial Robustness in Quantum Machine Learning: from theory to physical validation via a software tool</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Ji Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29877">2605.29877</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div></td>
+<td>Shuo Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25392.html">Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning</a></div></td>
+<td>Wei-Jian Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25392">2608.25392</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23381.html">FUCrIMODo: structure recovery from atomistic descriptors via multi-stage genetic algorithms</a></div></td>
 <td>Louis Boehm et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23381">2608.23381</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23631.html">TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery</a></div></td>
+<td>Kang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23631">2608.23631</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-20</td>
@@ -284,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Anand Babu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div></td>
-<td>Yeyong Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29555">2605.29555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Rushikesh Pawar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
 </tr>
 </tbody></table>

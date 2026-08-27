@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22782.html">Neural Operator based Multi-Field Reconstruction of Inner Solar Boundary State</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Vignesh Kumar Pandian Sathia et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00850.html">Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Fabio Pereira dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00850">2608.00850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24726.html">Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Justin Sirignano et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24726">2607.24726</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25160.html">ROMNet: a hybrid reduced order modeling and machine learning approach to waveform inversion</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Liliana Borcea et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25160">2608.25160</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22787.html">Generative Design of Liquid-Cooling Channels for Thermal Management of 2.5D and 3D Integrated Advanced Packaging</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Michael Acquah et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13063.html">A Quadratic Order Reduction -- Gaussian Process Ordinary Differential Equation framework for the inference of Large Continuous Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Guglielmo Padula et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13063">2606.13063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30277.html">Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Minseo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30277">2605.30277</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25327.html">Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Jinyuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25327">2608.25327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25443.html">Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Qin Hang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25443">2608.25443</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25564.html">Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Ahmad Ishaque Karimi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25564">2608.25564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Jiuyun Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Shubham Rai</td>
+<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22404.html">Error Propagation Theory for Variational Non-Markovian Open Quantum Dynamics</a></div></td>
@@ -806,17 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01622.html">An alternating learning-based collocation method for solving inverse elliptic problems</a></div></td>
 <td>Zhizhong Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01622">2606.01622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29688.html">A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Qihong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29688">2605.29688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30272.html">IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Maciej Paszyński et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30272">2605.30272</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.23025">2608.23025</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23707.html">Hamiltonian Learning at Scale</a></div></td>
+<td>Nathan Johnson et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23707">2608.23707</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15528.html">Global precision bounds and success-probability guarantees in quantum parameter learning</a></div></td>
 <td>Federico Belliardo et al.</td>
@@ -230,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07937.html">Improved Hamiltonian learning and sparsity testing through Bell sampling</a></div></td>
 <td>Savar D. Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07937">2509.07937</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00825.html">Optimal Quantum Likelihood Estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Alon Levi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00825">2509.00825</a></td>
 </tr>
 </tbody></table>

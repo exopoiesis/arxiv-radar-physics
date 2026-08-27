@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>tensor-networks — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19789.html">TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs</a></div><div class="paper-tags"><a href="quantum-many-body-systems-7d.html">quantum-many-body-systems</a></div></td>
 <td>Michal A. Sterzel et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19789">2608.19789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18901.html">Quantum Tensor Network Learning with DMRG</a></div></td>
-<td>Gustav J L Jäger et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18901">2608.18901</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23934.html">QML for Quantum Sensing under Measurement-Induced Information Loss</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Sounak Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23934">2608.23934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24229.html">A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning</a></div></td>
+<td>Ziyu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24229">2608.24229</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21321.html">Hypothesis testing between quantum ensembles</a></div></td>
 <td>Jian Yao et al.</td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
 <td>Natacha Kuete Meli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19043">2608.19043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24923.html">Comment on &#x27;Supervised quantum machine learning models are kernel methods&#x27;</a></div></td>
+<td>Rajiv Krishnakumar</td>
+<td><a href="http://arxiv.org/abs/2608.24923">2608.24923</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-16</td>
@@ -3002,23 +3020,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01422.html">Exploring Quantum Machine Learning for Weather Forecasting</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Maria Heloísa F. da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01422">2509.01422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12655.html">LArTPC hit-based topology classification with quantum machine learning and symmetry</a></div></td>
-<td>Callum Duffy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12655">2503.12655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00854.html">Assessing the Advantages and Limitations of Quantum Neural Networks in Regression Tasks</a></div></td>
-<td>Gubio G. de Limaa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00854">2509.00854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01008.html">Quantum-based QoE Optimization in Advanced Cellular Networks: Integration and Cloud Gaming Use Case</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Fatma Chaouech et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01008">2509.01008</a></td>
 </tr>
 </tbody></table>

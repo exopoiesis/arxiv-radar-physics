@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">807 papers</span>
+  <span class="paper-count">813 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,58 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="sciml-360d.html">sciml</a></div></td>
+<td>Nicholas Mueller</td>
+<td><a href="http://arxiv.org/abs/2608.24265">2608.24265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24547.html">From Numerical Simulators of PDEs to Neural Emulators and Back</a></div></td>
+<td>Felix Koehler</td>
+<td><a href="http://arxiv.org/abs/2608.24547">2608.24547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24733.html">Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction</a></div></td>
+<td>Xuejian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24733">2608.24733</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Julie Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Jiuyun Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25084.html">The Frame Kernel Method for Multiscale Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Branden Frieden et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25084">2608.25084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23546.html">Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Xiaoyang Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23546">2608.23546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Shubham Rai</td>
+<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-22</td>
@@ -4844,17 +4892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01679.html">Efficient Transformer-Inspired Variants of Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Zhi-Feng Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01679">2509.01679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00903.html">Learning with Mandelbrot and Julia</a></div></td>
-<td>V. R. Tjahjono et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00903">2509.00903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00957.html">Deep Tangent Bundle (DTB) method: a Deep Neural Network approach to compute solutions of PDES</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00957">2509.00957</a></td>
 </tr>
 </tbody></table>

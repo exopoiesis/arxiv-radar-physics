@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23934.html">QML for Quantum Sensing under Measurement-Induced Information Loss</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Sounak Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23934">2608.23934</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20076.html">Shadow models of a quantum model for cloud cover and the influence of finite sampling noise</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hedwig Keller et al.</td>
@@ -1052,11 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01812.html">Quantum Machine Learning for UAV Swarm Intrusion Detection</a></div></td>
 <td>Kuan-Cheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01812">2509.01812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01008.html">Quantum-based QoE Optimization in Advanced Cellular Networks: Integration and Cloud Gaming Use Case</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Fatma Chaouech et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01008">2509.01008</a></td>
 </tr>
 </tbody></table>

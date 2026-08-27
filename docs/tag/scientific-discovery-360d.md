@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">508 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3056,11 +3056,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02276.html">Rewarding Explainability in Drug Repurposing with Knowledge Graphs</a></div></td>
 <td>Susana Nunes et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02276">2509.02276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00987.html">Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation</a></div></td>
-<td>Adib Bazgir et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00987">2509.00987</a></td>
 </tr>
 </tbody></table>

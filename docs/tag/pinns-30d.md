@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25327.html">Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Jinyuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25327">2608.25327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25443.html">Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Qin Hang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25443">2608.25443</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25564.html">Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Ahmad Ishaque Karimi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25564">2608.25564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Jiuyun Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Shubham Rai</td>
+<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22426.html">On the extreme eigenvalues of the Gram Matrix in Physics-Informed Neural Networks for the Poisson Equation</a></div></td>
@@ -206,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25608.html">Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Pinki Khatun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.25608">2607.25608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23940.html">Variational Boosting for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Pavlos Protopapas et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23940">2607.23940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24726.html">Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Justin Sirignano et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24726">2607.24726</a></td>
 </tr>
 </tbody></table>

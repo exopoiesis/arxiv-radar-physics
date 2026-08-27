@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Mahamat Hamdan Nassouradine et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25709">2608.25709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24386.html">Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning</a></div><div class="paper-tags"><a href="equivariant-neural-networks-90d.html">equivariant-neural-networks</a></div></td>
+<td>Ruihan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24386">2608.24386</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Julie Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22205.html">Voxel-wise Bayesian Estimation for Multi-Population Positronium Lifetime Imaging</a></div></td>
@@ -638,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02886.html">Scalable Uncertainty Quantification for Extreme Weather Forecasting via Empirical Neural Tangent Kernels</a></div></td>
 <td>Jose Marie Antonio Miñoza et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02886">2606.02886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29976.html">Evaluating Skill and Stability of ArchesWeather and ArchesWeatherGen under Multi-Decadal Climate Simulations</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Renu Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29976">2605.29976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30042.html">Learning to Choose: An Empowerment-Guided Multi-Agent System with semantic communication for Adaptive Method Selection</a></div></td>
-<td>Geremy Loachamín-Suntaxi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30042">2605.30042</a></td>
 </tr>
 </tbody></table>

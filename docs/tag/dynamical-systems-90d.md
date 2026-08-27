@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,11 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03679.html">From Well-Posed Inversion to Learning Design: Physics- Informed Neural Estimation for Autonomic Regulation</a></div></td>
 <td>Sara Nour Sadoun et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03679">2606.03679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30160.html">On Distributional Reinforcement Learning in Chaotic Dynamical Systems</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
-<td>James Rudd-Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30160">2605.30160</a></td>
 </tr>
 </tbody></table>

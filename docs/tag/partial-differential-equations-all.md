@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>partial-differential-equations — all</h1>
-  <span class="paper-count">1388 papers</span>
+  <span class="paper-count">1396 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,58 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="sciml-all.html">sciml</a></div></td>
+<td>Nicholas Mueller</td>
+<td><a href="http://arxiv.org/abs/2608.24265">2608.24265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24547.html">From Numerical Simulators of PDEs to Neural Emulators and Back</a></div></td>
+<td>Felix Koehler</td>
+<td><a href="http://arxiv.org/abs/2608.24547">2608.24547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24733.html">Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction</a></div></td>
+<td>Xuejian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24733">2608.24733</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Julie Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Jiuyun Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25084.html">The Frame Kernel Method for Multiscale Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Branden Frieden et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25084">2608.25084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23546.html">Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
 <td>Xiaoyang Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23546">2608.23546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Shubham Rai</td>
+<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-22</td>

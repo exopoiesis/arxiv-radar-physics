@@ -15565,5 +15565,1017 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-08-24"
+ },
+ "2608.23631": {
+  "abstract": "Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidates and their scores, so they know which materials succeeded but not which executable edits caused useful property changes. This makes local refinement difficult when objectives compete and an edit that improves one property may damage another. We propose TRACE, a transition-aware residual control framework that treats evaluated edits as the basic unit of feedback. TRACE records each local refinement as a parent-edit-child transition with observed property deltas, aggregates transition evidence to estimate reusable edit effects, and ranks future edits by their predicted ability to reduce the current candidate's remaining constraint violations while avoiding damage to already satisfied objectives. In a controlled same-backbone comparison, TRACE improves over LLEMA, the state-of-the-art LLM-agent baseline, raising macro-average hit rate from 18.13\\% to 25.96\\%.",
+  "authors": [
+   "Kang Zhou",
+   "Yujia Tong",
+   "Yong Tao",
+   "Jingling Yuan"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kang Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2608.23631",
+  "primary_category": "cs.AI",
+  "published": "2026-08-23",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-08-23"
+ },
+ "2608.23707": {
+  "abstract": "Learning a quantum system's Hamiltonian is crucial for understanding and controlling its dynamics and has recently become a topic of widespread interest. To understand the learning protocol's error tolerances, i.e. its stability in the presence of inevitable errors, this work utilizes tensor network techniques to emulate Hamiltonian learning workflows at scale and with noise. Specifically, we employed a Hamiltonian learning technique based on approximate stationary states which are constructed using matrix product tools. We provide analytic bounds on the Hamiltonian learning estimation errors and perform numerical simulations that highlight learning error's stability under two families of errors. Using our workflow, we are able to scale up the protocol and learn mixed-field Ising model Hamiltonians of an $N=300$ site spin chain. By simulating the protocol at large scale, and empirically studying its practical limitations, our analysis of how errors affect the Hamiltonian learning process provides valuable lessons for future experiments. We conclude by discussing the avenues our work opens as well as future work that can support Hamiltonian learning experiments.",
+  "authors": [
+   "Nathan Johnson",
+   "Eugene Dumitrescu"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.other"
+  ],
+  "comment": "7 pages, 3 figures, comments welcome",
+  "first_author": "Nathan Johnson",
+  "pdf_url": "http://arxiv.org/pdf/2608.23707",
+  "primary_category": "quant-ph",
+  "published": "2026-08-24",
+  "tags": [
+   "hamiltonian-learning"
+  ],
+  "title": "Hamiltonian Learning at Scale",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23895": {
+  "abstract": "Kohn--Sham density functional theory (DFT) underpins electronic-structure simulations, but repeated orbital diagonalizations lead to cubic scaling, restricting quantum calculations to modest scales only. Eliminating these auxiliary orbitals while retaining Kohn--Sham accuracy is the central goal of orbital-free DFT, but both analytical and machine-learning methods have so far fallen short. Prior learning approaches either try to learn the variational kinetic-energy functionals, which are ill-conditioned, or directly predict the ground state, which extrapolate poorly to larger systems. Instead, we identify the Kohn--Sham map as the right learning target for orbital-free DFT. It maps a Kohn--Sham potential directly to the corresponding density and noninteracting kinetic energy, quantities otherwise obtained through an orbital diagonalization. Focusing on the density component in this work, a domain-invariant $\\mathrm{SE}(3)$-equivariant Fourier neural operator learns to predict it from the potential as input on real-space grids, enabling stable quasi-linear scaling SCFs. Trained jointly on 8,504 molecules and solids, a single model generalizes to out-of-distribution organic molecules, insulators, and metals. For the first time, the same method converges SCFs across these systems without explicitly constructing Kohn--Sham orbitals, while reproducing densities, electronic spectra, and structural observables at Kohn--Sham DFT accuracy. Linear-scaling SCFs additionally allow converging magnesium dislocation densities containing up to 82,500 valence electrons on a single GPU.",
+  "authors": [
+   "Danish Khan",
+   "Maurice D. Hanisch",
+   "Nikolai Argatoff",
+   "Evan Xie",
+   "Sandeep Sharma",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Danish Khan",
+  "pdf_url": "http://arxiv.org/pdf/2608.23895",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-24",
+  "tags": [],
+  "title": "Learning the Kohn-Sham map with neural operators for quasi-linear scaling density functional theory",
+  "topics": [
+   "Materials Science & Condensed Matter",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23934": {
+  "abstract": "Nitrogen-vacancy (NV) centers in diamond can serve as highly sensitive solid-state quantum sensors for high-sensitivity magnetometry. However, in the noisy intermediate-scale quantum (NISQ) era, extracting reliable information from noisy, finite-shot, and measurement-limited sensing data remains a considerable challenge. Whereas, quantum machine learning (QML) offers a potential path to improve parameter estimation by learning nonlinear relationships between quantum-sensing data and the underlying physical signal. In this work, we investigate the role of QML in magnetic-field estimation within an NV center-inspired magnetometry setting. We formulated magnetic field sensing as a supervised regression task. We compared the performance of several classical machine learning models trained on measurement-based classical data with that of quantum kernel-based models trained on pre-measurement coherent quantum states. Our objective is to isolate the impact of measurement-induced information loss and therefore provide a theoretical upper bound on the sensing performance. The upper bound is achievable only when coherent quantum information is directly available to the learning model. Our results show that QML-based sensing performance improves significantly with coherent quantum-state information, and not much with changes in model complexity or learning paradigm. This observation underscores the importance of learning pipelines that tightly integrate quantum sensors and QML models to enhance magnetic field sensing under realistic constraints.",
+  "authors": [
+   "Sounak Bhowmik",
+   "Himanshu Thapliyal"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sounak Bhowmik",
+  "pdf_url": "http://arxiv.org/pdf/2608.23934",
+  "primary_category": "quant-ph",
+  "published": "2026-08-25",
+  "tags": [
+   "qml",
+   "quantum-machine-learning"
+  ],
+  "title": "QML for Quantum Sensing under Measurement-Induced Information Loss",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.23976": {
+  "abstract": "A new approach to tokamak magnetic control enabling high-precision plasma shaping and novel real-time adaptability is experimentally demonstrated on the Tokamak a Configuration Variable (TCV). The method is motivated by the insight that, under appropriate assumptions, a real-time inverse Grad-Shafranov solver approximates an optimal control policy for plasma boundary regulation. Building on this, a control architecture is developed in which classical controllers enforce operational constraints while a fast surrogate model provides a real-time inverse mapping from the desired plasma boundary to Poloidal Field Coil currents. Experimental results on TCV demonstrate improved plasma shaping with respect to the standard discharge preparation procedure --- albeit without explicit real-time shape feedback --- while enabling flexible response to asynchronous events. It is shown that a single network provides satisfactory performance across a range of plasma magnetic configurations. Real-time adaptivity is demonstrated in simulation, and partially in experiment, through adaptive strike point motion and early termination in response to a real-time trigger. These results suggest a viable path toward magnetic control architectures that reduce reliance on dense diagnostic coverage while maintaining high-accuracy plasma shaping, with potential relevance for future fusion power plant operation.",
+  "authors": [
+   "Allen M. Wang",
+   "Adriano Mele",
+   "Cosmas Heiß",
+   "Cristian Galperti",
+   "Zander Keith",
+   "Alessandro Pau",
+   "Antoine Merle",
+   "Olivier Sauter",
+   "Daniel Gonzalez Castiñeiras",
+   "Francesco Carpanese",
+   "Federico Felici",
+   "Mark Dan Boyer",
+   "Cristina Rea",
+   "TCV Team",
+   "EUROfusion Tokamak Exploitation Team"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Allen M. Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.23976",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-08-25",
+  "tags": [],
+  "title": "An Inverse Grad-Shafranov Neural Network Approach to Tokamak Magnetic Control",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.23987": {
+  "abstract": "Virtual sensing enables digital twins and safety-critical systems to reconstruct and forecast spatial-temporal physics in real time. However, conventional computational and data-driven methods often face challenges in generalization, latency, and energy efficiency for edge deployment. Neural operators offer a promising alternative but remain reliant on power-intensive hardware. Spiking neurons and neuromorphic computing can improve efficiency, yet surrogate-gradient training and multi-step spiking introduce convergence and latency challenges. We propose the Sparse-Activation-ReLU (SAR) layer, a single-step alternative that promotes activation sparsity without surrogate-gradient training while remaining compatible with event-based computing. Within a trunk-based NOMAD architecture, SAR achieves over a fivefold improvement in the combined Latency-Error-Energy (LEE) metric compared with Variable Spiking Neuron (VSN) and Leaky Integrate-and-Fire (LIF) implementations. We further analyze spiking entropy and feature usage and introduce synthetic knowledge distillation, reducing the LEE score by more than twofold. Finally, we improve VSN through a ReLU-based spiking loss and graph-neighbor thresholding. On the Heat Exchanger dataset, these approaches reduce L2 error by more than twofold and nearly sevenfold, respectively, while reducing spiking and spatial aggregation. Overall, the work presented is a step towards energy-efficient virtual sensing by providing an alternative framework that can be positioned towards neuromorphic or other edge device integration that can be a gold standard to compare latency, energy, and error performance for future efficient designs that are sparsity or brain-inspired spiking based.",
+  "authors": [
+   "William Howes",
+   "Farid Ahmed",
+   "Syed Bahauddin Alam"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "37 pages, 14 tables, 7 figures",
+  "first_author": "William Howes",
+  "pdf_url": "http://arxiv.org/pdf/2608.23987",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24049": {
+  "abstract": "Neural operators provide efficient surrogates for spatiotemporal PDE systems, but purely data-driven formulations often accumulate substantial errors during long-horizon autoregressive prediction and may fail to exploit available governing-equation structure. Existing approaches incorporate physics primarily through residual-based training objectives or PDE-specific architectural constraints, which can introduce optimization difficulties or limit architectural generality. In this work, we introduce a representation-level approach to physics integration in which a feed-forward Gaussian splatting (FFGS) representation serves as a continuous interface between discretized solution fields and governing operators. The FFGS representation reconstructs the state as a continuous Gaussian field with closed-form spatial derivatives, allowing available physical PDE operators to be integrated directly within the learned evolution map without introducing a physics-residual loss. We evaluate the framework across two- and three-dimensional PDE systems, including advection, diffusion, nonlinear self-advection, and reaction dynamics. Over long-horizon autoregressive rollouts, the proposed framework reduces relative $\\ell_2$ error by $1.5\\times$--$2.2\\times$ compared with the strongest purely data-driven baseline across the benchmark suite, while consistently improving spectral fidelity. The framework also remains effective when the governing equations are partially known, demonstrating robustness to incomplete physics. These results demonstrate that continuous field representations can provide a practical interface for incorporating known physical structure into generic neural-operator surrogates.",
+  "authors": [
+   "Jihao Zhang",
+   "Junyi Guo",
+   "Jian-Xun Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jihao Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.24049",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Physics-Integrated Operator Learning via Gaussian Splatting Representations",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24056": {
+  "abstract": "Generative and predictive artificial intelligence models are increasingly used to generate geometry and to predict physical fields and scalar quantities in engineering design and simulation. Yet these models are typically evaluated in isolation, on academic datasets at unconstrained scales, with inconsistent metrics and procedures. We present PhysicsBench, a unified benchmark and leaderboard that evaluates generative and predictive models under one standardized procedure. PhysicsBench spans seven generation and prediction tasks across 1D, 2D, and 3D domains and ranks 66 models on nine datasets, comprising industrial-scale CAD/CFD/FEA simulations and public references, expanded into 28 configurations. One procedure and ranking apply to both families, each ranked within its own tasks. Evaluation spans realistic, limited data scales from S to XL rather than the unlimited training sets common in academic benchmarks. A common metric suite captures geometric fidelity with distributional distances, physical-field and scalar accuracy, and engineering-specific field- and shape-validity. BenchRank debiases correlated metrics and ranks by PageRank over a head-to-head dominance graph, so every reported quality metric is also ranked, with computational cost in a separate efficiency view. Across tasks, an architecture's large-scale academic standing weakly predicts its small-data ranking. The top model changes with data scale in six of the seven tasks, and no model leads more than one task. PhysicsBench turns \"state-of-the-art\" from a self-reported claim into an openly published foundation for model selection.",
+  "authors": [
+   "Sang Won Lee",
+   "Hyogu Jeong",
+   "Namwoo Kang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": "40 pages, 12 figures, 8 tables. Leaderboard: https://leaderboard.narnia.ai | Data: https://github.com/Narnialabs/leaderboard",
+  "first_author": "Sang Won Lee",
+  "pdf_url": "http://arxiv.org/pdf/2608.24056",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "cfd"
+  ],
+  "title": "PhysicsBench: A Unified Leaderboard for Generative and Predictive Models in Engineering Design and Simulation",
+  "topics": [
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24205": {
+  "abstract": "With the rise of scientific machine learning, physics-informed neural networks (PINNs) have been extensively applied to a wide range of problems. Nevertheless, most theoretical analyses of PINNs remain confined to linear equations, and a substantial gap persists between PINNs and classical numerical analysis for nonlinear problems. To address this issue, we propose a robust training framework for PINNs solving nonlinear partial differential equations, together with a rigorous error analysis. Specifically, for the $p$-Laplace equation, we introduce a novel loss formulation that combines a dual residual loss measured in $W^{-1,p'}$ with a boundary loss measured in a fractional Sobolev norm $W^{1-\\frac{1}{p},p}$. This formulation is designed to accommodate the limited regularity of weak solutions and enables us to establish rigorous \\textit{a priori} and \\textit{a posteriori} error estimates. Moreover, the proposed framework and its analysis are extended to a parametric setting in which the exponent, the source term, and the boundary condition may all vary with the parameters. Finally, we present numerical experiments that substantiate our theoretical findings.",
+  "authors": [
+   "Kyueon Choi",
+   "Seungchan Ko",
+   "Dohyun Kwon"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Kyueon Choi",
+  "pdf_url": "http://arxiv.org/pdf/2608.24205",
+  "primary_category": "math.NA",
+  "published": "2026-08-25",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns",
+   "scientific-machine-learning"
+  ],
+  "title": "Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24229": {
+  "abstract": "Quantum noise is expected to degrade quantum machine learning by driving circuits away from their noiseless implementations. Yet recent studies show moderate noise can reduce testing error, a behavior unexplained by weak-noise perturbative error accumulation or strong-noise trainability collapse. Here we develop a statistical learning theory connecting microscopic noise processes to macroscopic learning performance. At its heart is a noise-order purity parameter, derived from a surrogate model analysis, that predicts the noise-induced reduction in model complexity and the consequent reduction in the generalization gap. Noise simultaneously increases prediction bias. Their competition explains the intermediate-noise regime left open between these limits. It produces a finite-noise optimum whose location depends on the learning setup and can disappear in the large-sample limit. Numerical experiments validate these predictions. Noise programming can move a model towards this optimum. These results make the non-monotonic effect of noise predictable and provide a route to harness it.",
+  "authors": [
+   "Ziyu Zhang",
+   "Zikang Jia",
+   "Xiaosong Li",
+   "Yulong Dong"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG"
+  ],
+  "comment": "36 pages, 11 figures",
+  "first_author": "Ziyu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.24229",
+  "primary_category": "quant-ph",
+  "published": "2026-08-25",
+  "tags": [
+   "quantum-machine-learning"
+  ],
+  "title": "A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24264": {
+  "abstract": "Mathematical elasticity has a long history and a huge body of literature. Surprisingly, at its heart elasticity exhibits a rich and transparent structure that, to our knowledge, is rarely presented in an explicit and unified form. Using standard tools from functional analysis, this article reveals four orthogonal decompositions of Hilbert spaces that characterize the static equilibrium of an elastic body at small deformations, universally for arbitrary spatial dimension, arbitrary boundary conditions, and classical as well as data-driven formulations. Regarding data-driven continuum mechanics, it highlights the intrinsic structure that remains unchanged when constitutive laws are replaced by material data sets.",
+  "authors": [
+   "Cristian G. Gebhardt",
+   "Johannes Lankeit",
+   "Marc C. Steinbach"
+  ],
+  "categories": [
+   "math.AP",
+   "math-ph",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Cristian G. Gebhardt",
+  "pdf_url": "http://arxiv.org/pdf/2608.24264",
+  "primary_category": "math.AP",
+  "published": "2026-08-25",
+  "tags": [],
+  "title": "Intrinsic Structure of Elasticity in Hilbert Space",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24265": {
+  "abstract": "Data assimilation (DA) and inverse modelling are indispensable tools for combining physics-based models with observations, yet the software that implements them is often fragmented: sequential (Kalman and particle) filters and variational (3D/4D-Var) estimators are typically developed as separate codebases, each tied to a specific class of forward model - for example, simple time-marching schemes for ordinary differential equations (ODEs), or full finite element (FE) discretisations of partial differential equations (PDEs). In this work, we present Opal.jl, a Julia package that overcomes this fragmentation by providing a unified environment for a wide range of DA methods and forward model backends, all accessible behind a single high-level interface. Starting from a handful of basic methods, complex inference tools can be built by composing them with advanced capabilities, such as covariance localisation/inflation, online noise covariance estimation, bias-aware correction, and kriging-based calibration of reduced-order surrogates. The package integrates natively with the SciML ecosystem for ODE-governed systems, and with Gridap/GridapROMs for both full-order and reduced-order discretisations of PDEs. Notably, the API is designed to allow a reduced-order surrogate to replace a full-order solver with no change to the code, even at the driver level. We demonstrate the library on a Lorenz-63 benchmark, on a Van der Pol oscillator problem with biased observations, on a turbulent Navier-Stokes flow past a square cavity, where the unknown Reynolds number is inferred from sparse velocity and pressure measurements, and finally on a heat equation using a reduced-order surrogate instead of a more standard full-order model.",
+  "authors": [
+   "Nicholas Mueller"
+  ],
+  "categories": [
+   "cs.MS"
+  ],
+  "comment": "23 pages, 24 figures",
+  "first_author": "Nicholas Mueller",
+  "pdf_url": "http://arxiv.org/pdf/2608.24265",
+  "primary_category": "cs.MS",
+  "published": "2026-08-25",
+  "tags": [
+   "data-assimilation",
+   "partial-differential-equations",
+   "sciml"
+  ],
+  "title": "Opal.jl: a comprehensive, composable framework for data assimilation in Julia",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.24386": {
+  "abstract": "Tensor-valued prediction is fundamental to geometric deep learning, yet uncertainty quantification (UQ) for such outputs remains an open challenge. While E(3)-equivariant neural networks excel at point estimates, they lack rigorous confidence measures. We focus on symmetric rank-2 tensor prediction, where the target has six Kelvin--Mandel coordinates and full uncertainty is represented by a $6\\times6$ covariance matrix. We introduce a framework for E(3)-equivariant UQ, modeling the full predictive distribution where both mean and covariance preserve rotational symmetry. Our approach decomposes the covariance into irreducible representations $\\mathrm{Sym}^2(ρ_c) \\cong 2\\times(l=0) \\oplus 2\\times(l=2) \\oplus 1\\times(l=4)$. By mapping from the flat Lie algebra $\\mathfrak{sym}(6)$ to the curved SPD manifold via matrix exponentiation, we strictly ensure positive-definite covariances while maintaining exact equivariance. Furthermore, we formulate a Log-Euclidean Equivariant Scoring Objective (LE-ESO)---a robust surrogate loss based on the Multivariate Laplace distribution---providing robustness to heavy-tailed errors and stable optimization. Validation on ModelNet40 inertia tensors and Materials Project dielectric tensors demonstrates that our method achieves competitive performance and provides physically consistent, symmetry-preserving uncertainty estimates with useful risk and OOD sensitivity.",
+  "authors": [
+   "Ruihan Liu",
+   "Yu Ji",
+   "Jianbo Yu",
+   "Shifu Yan",
+   "Qingchao Jiang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "Accepted to ICML 2026",
+  "first_author": "Ruihan Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.24386",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "equivariant-neural-networks",
+   "uncertainty-quantification"
+  ],
+  "title": "Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning",
+  "topics": [
+   "Fluid Dynamics & Plasma Physics",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24426": {
+  "abstract": "Learning operators from sequentially collected data arises in adaptive experimental design, Bayesian optimization, and dynamical-system modelling, where observations may be dependent, and future inputs or sensing operators may depend on preceding data. We derive time-uniform self-normalized concentration bounds for stochastic processes in Hilbert spaces with vector-valued noise. We use these bounds to obtain regression-error guarantees for linear operators, including targets outside the Hilbert estimation space, and for nonlinear parametric operators trained with strongly convex losses and regularizers. Our results allow possibly infinite-dimensional inputs and outputs without independence or mixing assumptions, providing a major step towards convergence guarantees for adaptive operator learning and learning from stochastic dynamical data.",
+  "authors": [
+   "Rafael Oliveira"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": "Under review. Work in progress",
+  "first_author": "Rafael Oliveira",
+  "pdf_url": "http://arxiv.org/pdf/2608.24426",
+  "primary_category": "stat.ML",
+  "published": "2026-08-25",
+  "tags": [
+   "operator-learning"
+  ],
+  "title": "Sequential operator learning under dependent data",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24547": {
+  "abstract": "Simulation is central to modern engineering and science, but the cost of numerical solvers for partial differential equations (PDEs) remains a bottleneck whenever fast or many-query evaluations are required. Neural emulators trained on solver-generated data promise significant speedups, yet they are usually framed as opaque alternatives to the very methods that produce their training signal. This thesis argues the two paradigms are more alike than different: neural architectures mirror classical discretizations, their errors are amenable to the same spectral analysis, and insight flows profitably in both directions. We approach the relationship by disentangling the multiple roles a solver plays in the emulator learning pipeline. Mode-wise Fourier analysis then provides a common language in which solver errors, architectural inductive biases, and training objectives can all be read off simultaneously. Taken together, this allows synthesizing three contributions. (1) APEBench, a comprehensive benchmarking suite for autoregressive neural emulators of PDEs that uses fast differentiable pseudo-spectral solvers in JAX. (2) Progressively Refined Differentiable Physics, an investigation of the effect of unconverged solvers on surrogate training. (3) Neural Emulator Superiority, an analysis of the influence of numerical errors and architectural inductive biases.",
+  "authors": [
+   "Felix Koehler"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Felix Koehler",
+  "pdf_url": "http://arxiv.org/pdf/2608.24547",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "From Numerical Simulators of PDEs to Neural Emulators and Back",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24699": {
+  "abstract": "This paper presents a neural operator-based approach for the output feedback boundary stabilization of reaction diffusion PDEs. The classical output feedback backstepping design requires solving control and observer kernel equations for each reaction coefficient. To avoid computing these kernel functions, the output feedback control law is reformulated as a causal boundary operator that maps the reaction coefficient and the boundary measurement to the boundary control input. A hybrid DeepONet-LSTM neural operator is proposed to approximate this causal operator, where DeepONet encodes the spatial coefficient and LSTM captures the temporal dependence of the measurement history. We analyze the Lipschitz continuity of the boundary operator and prove the closed-loop practical stability with the learned controller. A modified loss is also introduced to improve the temporal regularity of the learned boundary input. Numerical results illustrate that the proposed neural operator controller effectively stabilizes the system.",
+  "authors": [
+   "Jing Zhang",
+   "Jie Qi",
+   "Linglong Jiang"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Jing Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.24699",
+  "primary_category": "eess.SY",
+  "published": "2026-08-25",
+  "tags": [
+   "deeponet"
+  ],
+  "title": "DeepONet-LSTM Neural Operator for Output Feedback Control of Reaction Diffusion PDEs",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24700": {
+  "abstract": "When a network has learned a function with a known symmetry, can that symmetry be moved through the parametrisation---is there a motion in parameter space realising the group action in function space? We formulate this as a lifting problem for the realisation map $Φ:θ\\mapsto f_θ$, and show that a smooth parameter-space action exists only if the tangent space to the function's symmetry orbit lies within the image of $\\mathrm dΦ_θ$, whose columns are the \\emph{functional sensitivities} of individual parameters. This condition is also sufficient for pointwise first-order lifting. Relaxing it in least squares yields two local parameter directions: one following the symmetry orbit, one descending towards the equivariant subspace, with residuals measuring what the parametrisation cannot reach. On a rotationally invariant classifier we find these directions induce their predicted function-space motion, but only locally: recomputed directions track the orbit and reduce the equivariance defect, while directions held fixed depart from both after training. The same holds for Hamiltonian neural networks trained on a rotationally symmetric potential, even though the architecture does not explicitly enforce the symmetry.",
+  "authors": [
+   "Alan Muriithi",
+   "Vedanta Thapar",
+   "Torben Berndt"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Alan Muriithi",
+  "pdf_url": "http://arxiv.org/pdf/2608.24700",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "hamiltonian-neural-networks"
+  ],
+  "title": "Parameter-Level Attribution of Symmetry in Trained Networks Though Parameter-Wise Functional Sensitivity",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24733": {
+  "abstract": "In multiscale modeling of ferroelectrics, combining atomistic simulation with continuum-scale phase-field models (PFM) remains a fundamental challenge. A key difficulty lies in faithfully capturing discrete atomic-level information within a continuum modeling framework, while accurately representing material behavior at the mesoscale. In this paper, a Physics-Informed Neural Network (PINN) driven by molecular dynamics (MD) data is used. The loss function of the network consists of a supervised term that fits the discrete spatial polarization distributions obtained from MD simulations of systems containing domain walls, and a physics-based term that incorporates the residuals of partial differential equations (PDEs) of steady-state PFM. To ensure stable and balanced training among the different loss components, adaptive gradient normalization (GradNorm) is used to dynamically adjust the task weights. By minimizing the total loss, the model not only reconstructs the polarization field along with the associated strain, stress, and energy landscape at the continuum scale, but also identifies critical physical parameters of the phase-field model, including the characteristic energy density, characteristic length factor, gradient energy anisotropy factor, and Landau polynomial coefficients. By using the PINN-predicted physical parameters in COMSOL Multiphysics to solve the corresponding PDEs within a finite element framework, we demonstrate that these parameters enable accurate reproduction of the ferroelectric domain structure and the associated material response, including stress/strain distributions and energy landscape. This framework provides an effective methodology for establishing multiscale connections between atomistic and continuum descriptions, and holds the potential to infer underlying physical properties directly from polarization distributions for a wide range of materials.",
+  "authors": [
+   "Xuejian Wang",
+   "Frank Wendler",
+   "Hikaru Auzuma",
+   "Michael Zaiser",
+   "Shuji Ogata",
+   "Ryo Kobayashi",
+   "Lei Zeng",
+   "Xingchen Tan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xuejian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.24733",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-25",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24785": {
+  "abstract": "In this work, we investigate rapid prediction of the dominant $n{=}0$ vertical instability growth rate in C-Mod and SPARC equilibria, where nonrigid free boundary response models are too slow for control cycle use. Using a Physics Attention Transformer trained on MEQ-FGE-L labels, we predict both the scalar growth rate and the associated two dimensional perturbed toroidal current density. We find mean absolute errors of 5.4~s$^{-1}$ on held out C-Mod equilibria and 12.7~s$^{-1}$ on synthetic SPARC cases, with spatial eigenfunction errors near 5\\%. We also compared PAT with operator based ML models : FNO2D and DeepONet, where we found PAT predicts a much lower normalised growth rate error and improved spatial reconstruction. These results indicate that PAT can reproduce MEQ-FGE-L outputs at control relevant latency and could support future studies of growth rate headroom monitoring and proximity aware shape control.",
+  "authors": [
+   "Arunav Kumar",
+   "Cesar Clauser",
+   "Theodore Golfinopoulos",
+   "Cristina Rea",
+   "Francesco Capersene",
+   "Dan Boyer",
+   "SPARC Team",
+   "Alcator C-Mod Team"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "math-ph",
+   "stat.ML"
+  ],
+  "comment": "19 pages, 12 figures",
+  "first_author": "Arunav Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2608.24785",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-08-25",
+  "tags": [
+   "deeponet"
+  ],
+  "title": "Physics Attention Transformer Surrogate for Rapid Vertical Instability Growth Rate Prediction: Alcator C-Mod to SPARC",
+  "topics": [
+   "Fluid Dynamics & Plasma Physics",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24833": {
+  "abstract": "Rapid data assimilation is required for real-time prediction and control in digital twins. For many physical systems, the data assimilation task requires the solution of a physics-constrained inverse problem, which is often computationally intractable in real time using traditional physics solvers. This work presents a reduced-basis neural operator approach to enable real-time inverse problem solutions in the digital twin setting. Our approach specifically targets the large class of problems with spatiotemporal dynamics governed by partial differential equations (PDEs) that are parameterized nonlinearly with respect to model parameters $m$, and linearly with respect to inversion parameters $q$. Based on this physical structure, our neural operator approximates the nonlinear map from the model parameters $m$ to the parameter-to-observable operator $\\mathcal{F}(m)$ in a reduced subspace. Since the output of the neural operator is the parameter-to-observable operator itself (manifested as a matrix), we refer to this approach as NEural Matrix Operator (NEMO). With NEMO, for new given $m$, we enable a closed-form inverse problem solution for $q$ in a reduced subspace. We apply NEMO in two real-world applications: contaminant transport initial condition identification, and hypersonic vehicle load identification. We show that NEMO delivers high quality inverse problem solutions for data assimilation in real time, with over three orders of magnitude speedup compared to constructing the reduced operator with the PDE solver. Further, NEMO demonstrates comparable inverse performance to a state-of-the-art multiple-input neural operator, while reducing online computational complexity by over an order of magnitude and providing real-time uncertainty quantification.",
+  "authors": [
+   "Julie Pham",
+   "Thomas O'Leary-Roseberry",
+   "Omar Ghattas",
+   "Karen Willcox"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Julie Pham",
+  "pdf_url": "http://arxiv.org/pdf/2608.24833",
+  "primary_category": "math.NA",
+  "published": "2026-08-25",
+  "tags": [
+   "data-assimilation",
+   "partial-differential-equations",
+   "uncertainty-quantification"
+  ],
+  "title": "Real-time inverse solutions via neural matrix operators",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24923": {
+  "abstract": "We identify a few small errors in the proof of Theorem 1 in M. Schuld, 'Supervised quantum machine learning models are kernel methods' (arXiv:2101.11020v2), Appendix A. These do not affect the validity of the theorem, but do matter if one wants to use the appendix to explicitly compute the Fourier coefficients of a quantum kernel. We give the corrected derivation, and additionally show that the paper's worked cosine-kernel example contains a second, unrelated error that happens to cancel the first, thereby coincidentally yielding the correct result.",
+  "authors": [
+   "Rajiv Krishnakumar"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "Comment on arXiv:2101.11020v2",
+  "first_author": "Rajiv Krishnakumar",
+  "pdf_url": "http://arxiv.org/pdf/2608.24923",
+  "primary_category": "quant-ph",
+  "published": "2026-08-18",
+  "tags": [
+   "quantum-machine-learning"
+  ],
+  "title": "Comment on 'Supervised quantum machine learning models are kernel methods'",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.24940": {
+  "abstract": "Partial differential equations (PDEs) often have high-frequency and multi-scale features that neural networks struggle to approximate. Physics-Informed Neural Networks (PINNs) build the governing equations directly into training, but suffer from spectral bias: they learn low-frequency components faster than high-frequency ones. Techniques such as Fourier feature embeddings and sinusoidal activations address this, but most studies assume they help across the board without checking which spectral regimes actually benefit. We introduce a dual-branch, spectrally-gated architecture (DBSG-PINN) that splits low- and high-frequency components into separate subnetworks joined by an adaptive gate, and use it to run a partially controlled ablation of frequency decomposition and spectral routing. We test this on five one-dimensional benchmark PDEs, ranging from smooth, single-scale problems to oscillatory, multi-scale ones. Frequency decomposition helps most on the spectrally complex benchmarks, cutting relative $L_2$ error by up to $59.2\\%$ on a multimodal wave problem, but gives little benefit on smoother PDEs. On one benchmark (1D Wave), it performs substantially worse than a simpler fixed-combination variant. The gate's benefit scales with how spectrally rich the target solution is: the full model's advantage over the ablations is largest on multi-scale benchmarks and smallest (or negative) on single-scale ones, consistent with the gate exploiting frequency structure rather than acting as noise,though we do not directly visualize or quantify its spatial activations in this study. All results come from a single training seed across five 1D benchmarks, so we present this as an exploratory study meant to raise questions rather than answer them, and outline the additional seeds and benchmarks needed to test whether the pattern holds.",
+  "authors": [
+   "Shubham Rai"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Shubham Rai",
+  "pdf_url": "http://arxiv.org/pdf/2608.24940",
+  "primary_category": "cs.LG",
+  "published": "2026-08-24",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.24970": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) have emerged as an important class of numerical methods for solving partial differential equations (PDEs). However, during the late-stage optimization process, further parameter updates often yield diminishing accuracy improvements while increasing computational costs. To address this issue, this paper proposes a Physics-Informed Error Field Learning (PIEFL) framework for PINNs. Unlike conventional approaches that continuously approximate the solution field using a single network, PIEFL introduces an auxiliary error network after the primary network achieves satisfactory accuracy and shifts the learning objective from the solution field to the error field. By deriving error control equations under physical constraints, the error network learns the discrepancy between the current approximation and the exact solution, and the learned error correction is combined with the primary prediction to improve solution accuracy. The proposed framework avoids continuous optimization of the entire solution space and focuses computational resources on correcting existing prediction errors. Moreover, PIEFL requires no modification to the primary network architecture, making it compatible with existing PINN models and applicable as a general post-training optimization strategy. Numerical experiments on representative PDEs demonstrate that PIEFL achieves higher solution accuracy under the same computational budget, validating its effectiveness in improving the performance of PINNs.",
+  "authors": [
+   "Jiuyun Sun",
+   "Yong Zhang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jiuyun Sun",
+  "pdf_url": "http://arxiv.org/pdf/2608.24970",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "partial-differential-equations",
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.25084": {
+  "abstract": "We present a natively multiscale operator learning method for the surrogate modeling of (numerical solvers for) multiscale partial differential equations (PDEs). The primary novelty of our method lies in a novel multiscale kernel frame function approximation technique. Leveraging this new kernel frame technique, we cast the operator learning problem as one of learning frame coefficients of output functions as a function of frame coefficients of input functions. The generalization step then automatically allows for a multiscale decomposition of the output functions. Our method is applicable to both tensor-product grids and point clouds. We present interpolation proofs, error estimates, and numerical convergence rates for our frame approximation. We the demonstrate the applicability of our method for the surrogate modeling of inherently multiscale PDEs. The new multiscale frame kernel method is significantly more accurate than popular neural operators on challenging problems from the literature, while simultaneously admitting an a posteriori multiscale decomposition upon generalization.",
+  "authors": [
+   "Branden Frieden",
+   "Ryan Whitehead",
+   "M. Keith Ballard",
+   "Robert M. Kirby",
+   "Varun Shankar"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Branden Frieden",
+  "pdf_url": "http://arxiv.org/pdf/2608.25084",
+  "primary_category": "cs.LG",
+  "published": "2026-08-25",
+  "tags": [
+   "neural-operators",
+   "operator-learning",
+   "partial-differential-equations",
+   "surrogate-modeling"
+  ],
+  "title": "The Frame Kernel Method for Multiscale Operator Learning",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.25160": {
+  "abstract": "Waveform inversion seeks to estimate the wave speed of a heterogeneous, inaccessible medium, from time-resolved measurements of the waves at user controlled sensors. We consider this inverse problem for acoustic waves and an active array of source/receiver sensors that emit probing signals and measure the generated pressure waves. The forward map, from the wave speed to the measurements, is nonlinear and oscillatory. The oscillations cause cycle skipping, the main impediment to using the standard, nonlinear least-squares data fitting formulation, known as full waveform inversion (FWI). A recently introduced alternative waveform inversion approach computes from the measurements an algebraic surrogate of the wave operator, a reduced order model (ROM) matrix, which is then used to estimate the wave speed. The mapping from the measurements to the ROM is nonlinear, but well understood. It is computed efficiently, in a non-iterative manner. The nonlinear mapping from the ROM to the wave speed is less understood, and its approximation involves time-consuming optimization. Our goal in this paper is to use a neural network to map the ROM matrix to a nearby one, that has a simpler and explicit dependence on the wave speed. This simplifies and reduces the computational cost of the ROM-based waveform inversion. We introduce the methodology, called ROMNet, and test it with numerical simulations, using two training data sets: The first set consists of random media with variations of the wave speed modeled by a superposition of Gaussians with random amplitudes and standard deviations. The second is the publicly available GeoFWI dataset introduced for benchmarking FWI using deep learning. We compare the performance of ROMNet with the direct ROM-based inversion and with two representative deep learning approaches to FWI: ``Fourier-DeepONet\" and ``InversionNet\".",
+  "authors": [
+   "Liliana Borcea",
+   "Alexander Mamonov",
+   "Kui Ren",
+   "Haizhao Yang",
+   "Chugang Yi"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.LG",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Liliana Borcea",
+  "pdf_url": "http://arxiv.org/pdf/2608.25160",
+  "primary_category": "math.NA",
+  "published": "2026-08-25",
+  "tags": [
+   "deeponet",
+   "rom"
+  ],
+  "title": "ROMNet: a hybrid reduced order modeling and machine learning approach to waveform inversion",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.25270": {
+  "abstract": "We present an accelerated materials discovery framework that combines diffusion-based crystal structure generation with hierarchical screening to identify new rare-earth--transition-metal magnets simultaneously achieving high magnetization and thermodynamic stability. Using this workflow, we systematically explored over 3000 binary (R-T) and ternary (R-T-T$'$) compositions spanning R~$\\in \\{\\text{Y, Sm}\\}$, T~$\\in \\{\\text{Fe, Co, Ni}\\}$, and T$' \\in \\{\\text{Ti, V, Cr, Mn, Cu, Zn}\\}$, and filtered approximately 240{,}000 generated crystal structures through machine-learning interatomic potential prescreening and spin-polarized density functional theory validation. We identify 300+ low-energy magnetic candidates within 0.1~eV/atom above the convex hull at the DFT level, including 5 thermodynamically stable phases. The highest saturation magnetization reaches ${\\sim}1.8$~T in Fe-rich binary and ternary phases (SmFe$_{12}$, YFe$_{12}$, YFe$_{18}$Ti and Sm$_2$Fe$_{16}$Mn). Symmetry analysis reveals that the majority of ternary candidates are subgroup derivatives of known binary prototypes through Wyckoff site splitting that accommodates T$'$ substitution. Site-resolved magnetic moment analysis further shows that Mn aligns ferromagnetically with the Fe sublattice with minimal magnetization loss, whereas Cr couples antiferromagnetically, providing systematic guidance for dopant selection. These findings demonstrate a generalizable strategy for targeted magnetic materials discovery and suggest that extending generative searches to larger unit cells ($>$20 atoms) with higher Fe fractions is a promising route toward stable phases with saturation magnetization exceeding 1.8~T.",
+  "authors": [
+   "Shuo Tao",
+   "Osman Goni Ridwan",
+   "Liqin Ke",
+   "Qiang Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Shuo Tao",
+  "pdf_url": "http://arxiv.org/pdf/2608.25270",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25327": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) frequently fail on stiff or advection-dominated PDEs, and two recent accounts offer competing remedies: switching from FP32 to FP64 to repair an L-BFGS stopping artifact, or replacing the MLP with a state-space-model (SSM) backbone plus sub-sequence alignment to counter architectural simplicity bias. We test both under matched, seed-paired controls in a pre-registered 144-run study spanning convection, reaction, and wave, plus an independent 85-run convection/wave study; success is relative $\\ell_2$ error below $0.05$. The two remedies act on disjoint regime-and-seed slices: neither substitutes for the other. On hard convection ($β{=}50$), alignment recovers 2/5 seeds in FP32 and 3/5 in FP64, where the unaligned SSM succeeds on 0/5 seeds at either precision and the vanilla MLP moves only from 0/5 to 1/5 across the precision switch---the recoveries trace to the alignment objective, not the backbone. On reaction the backbone alone already succeeds on 3/5--4/5 seeds, so each remedy covers a regime the other does not. Responses are also seed-specific: the same precision switch flips individual seeds in opposite directions and, on wave, lowers median error with no statistically significant success gain. Tightening the inner L-BFGS tolerance in an independent repeated-step runner likewise lowers median error at a large runtime cost, with success counts unchanged. Precision, stopping, backbone, and alignment must therefore be evaluated jointly and reported per seed.",
+  "authors": [
+   "Jinyuan Zhang",
+   "Peng He",
+   "He Hu",
+   "Yin Yuan",
+   "ShengShuo Jiao"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "11 pages, 5 figures, 6 tables; appendix with full proofs included",
+  "first_author": "Jinyuan Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.25327",
+  "primary_category": "cs.LG",
+  "published": "2026-08-26",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25392": {
+  "abstract": "Synthesis planning for inorganic materials requires predicting both synthesizability and viable routes by linking microscopic thermodynamic stability with macroscopic synthesis methods, precursors, and processing conditions. Here, we develop an interpretable Physics-Informed Retrieval-Augmented Generation Language Model (PIRAG-LM) for end-to-end inorganic crystal synthesis planning. We construct a material-centered Structured Synthesis Knowledge Base (SSKB) containing route-level records for 13,820 experimentally synthesized inorganic crystals. PIRAG-LM retrieves historical precedents using chemical, structural, and thermodynamic similarity, then employs a structured LLM reasoning module to propose routes, precursors, and processing conditions and assess thermodynamic feasibility, kinetics, and accessibility. It achieves 91.4% accuracy in synthesis-method prediction, compared with 72.1% for the LLM alone, and generalizes to materials reported after the knowledge cutoff. Because the framework relies on retrieval rather than parametric memorization, its performance can be improved by expanding the SSKB without retraining the language model. Guided by PIRAG-LM, we experimentally synthesize five new compounds: BaMo0.3In0.7O2.95, BaNb0.4In0.6O2.9, Hg[B(CN)4]2, CoCo(CN)6, and SrNb2Fe2(PO4)6, via solid-state and solution routes. These results demonstrate an interpretable machine-learning approach that helps bridge computational materials discovery and experimental realization.",
+  "authors": [
+   "Wei-Jian Jiang",
+   "Ye-Nan Sha",
+   "Hui Guo",
+   "Jie Chen",
+   "Yu-Cai Liang",
+   "Ke Zhou",
+   "Qi-Long Gao",
+   "Dong-Lin Han",
+   "Xin-Gao Gong",
+   "Wan-Jian Yin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Wei-Jian Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2608.25392",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning",
+  "topics": [
+   "Materials Science & Condensed Matter"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25443": {
+  "abstract": "Efficient determination of the effective multiplication factor (keff) is an important computational task in reactor core neutronics analysis. Physics-informed neural networks (PINNs) incorporate neutron diffusion equations and boundary conditions into network training to efficiently determine the neutron flux distribution and keff. To further improve the efficiency of keff calculations using PINNs, a Joint Initialization Physics-Informed Neural Network (JI-PINN) is proposed in this work. In this method, a low-resolution approximate solution to the K-eigenvalue problem is used to construct a joint initial state for the flux network parameters and keff, and both are then jointly optimized under physical constraints. The proposed method was validated on a two-dimensional two-group two-material case, the IAEA 2D benchmark, a two-dimensional two-group four-material case, and a three-dimensional single-group case. For these test cases, the total computational time was reduced by 25.4%, 38.2%, 49.4%, and 28.9%, respectively, while comparable solution accuracy was maintained. The occurrence of anomalous results associated with marked deviations of keff from the reference value was also reduced. The proposed method provides a more efficient and robust initialization strategy for solving neutron diffusion K-eigenvalue problem with PINNs.",
+  "authors": [
+   "Qin Hang",
+   "Yangdi Yi",
+   "Jiayi Li",
+   "Xu Wang",
+   "Heng Zhang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Qin Hang",
+  "pdf_url": "http://arxiv.org/pdf/2608.25443",
+  "primary_category": "cs.LG",
+  "published": "2026-08-26",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25511": {
+  "abstract": "The idea that information processing is optimised near the boundary between order and chaos has emerged as a recurring principle across neuroscience, complex systems, and machine learning. Here we test this hypothesis in quantum many-body systems, numerically simulating two-dimensional Ising networks of up to $N=20$ spins, operated as quantum reservoirs for time-series forecasting. Using out-of-time-order correlators (OTOCs), we locate the onset of information scrambling as the input strength is swept, separating regimes where information is frozen and scrambled across the whole reservoir state. We show that prediction precision peaks at the onset of scrambling, along with the number of computational-basis states that the reservoir actively populates. We then show that prediction precision grows as a power law $\\sim N^α$ in the reservoir size, superextensively $(α>1)$ at the onset of scrambling and only sublinearly $(α<1)$ in either neighbouring regime. Finally, we show that scrambling enhances the nonlinear components of the reservoir memory while reducing its linear capacity. At the onset, the total memory capacity grows superextensively, provided that the necessary ``forgetting'' mechanism is supplied by a collective relaxation channel. These results consolidate the role of information scrambling in learning systems, turning it from an operating point into a scaling law for the performance of quantum reservoirs.",
+  "authors": [
+   "Jonas Freiheit",
+   "Francesco Campaioli"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "15 pages, 8 figures",
+  "first_author": "Jonas Freiheit",
+  "pdf_url": "http://arxiv.org/pdf/2608.25511",
+  "primary_category": "quant-ph",
+  "published": "2026-08-26",
+  "tags": [
+   "quantum-many-body-systems"
+  ],
+  "title": "Superextensive learning in quantum reservoirs at the onset of information scrambling",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25564": {
+  "abstract": "Physics-informed neural networks (PINNs) often rely on over-parameterized models to optimize coupled solution and differential-residual objectives, leaving unclear how much capacity is necessary and what pruning should preserve. We study foresight pruning at initialization for sparse PirateNet PDE solvers. Standard neural tangent kernel spectrum-aware pruning (NTK-SAP) aims to preserve output-side training dynamics but may overlook parameters whose main influence arises through derivatives in the governing equations. We introduce physics-informed spectrum-aware pruning (PI-SAP), which assigns saliency using sensitivity of the PDE residual. Experiments on the Gray-Scott equations, complex Ginzburg-Landau equation, Burgers' equation, and linear convection equation show that PI-SAP more consistently preserves Gray-Scott residual fidelity and is competitive under aggressive sparsity. However, no criterion is uniformly optimal across equations or sparsity levels. Small-batch PINN-NTK diagnostics further show that residual fidelity, solution accuracy, and kernel conditioning are distinct objectives, motivating pruning methods that explicitly balance solution-side and residual-side training dynamics during optimization.",
+  "authors": [
+   "Ahmad Ishaque Karimi",
+   "Uvini Balasuriya Mudiyanselage",
+   "Kookjin Lee"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "7 pages, 1 figure, 6 Tables. Submitted to the AI4S 2026 Workshop, Scientific Machine Learning track",
+  "first_author": "Ahmad Ishaque Karimi",
+  "pdf_url": "http://arxiv.org/pdf/2608.25564",
+  "primary_category": "cs.LG",
+  "published": "2026-08-26",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25709": {
+  "abstract": "We address the simultaneous prediction of multiple high-dimensional physical fields governed by linear equality constraints, a setting that arises in many real-world applications in physics machine learning. Gaussian process (GP) regression is a widely used surrogate modeling approach due to its effectiveness in small-sample regimes and its ability to provide uncertainty quantification. However, applying GP models in this setting raises two major challenges: the high dimensionality of the discretized output fields and the enforcement of the physical constraint in predictions. For the latter, a common strategy consists in deducing one output from the others via the constraint relation. Through a benchmark, we show that this deductive approach is sensitive to the arbitrary choice of which output to deduce, affecting both predictive accuracy and uncertainty quantification. Consequently, there is a need for an approach that treats all fields symmetrically while strictly respecting the underlying physics. Motivated by these limitations, we propose a robust framework for jointly modeling constrained multi-field data. Our approach first leverages a specific PCA procedure for multi-field data, coined row-wise PCA, which has the interesting property of preserving the constraint in the latent space. Since standard PCA strategies for multi-field data do not preserve such constraints, we investigate theoretically the optimality of the row-wise choice. In a second step, we consider a linearly-constrained multi-output GP approach based on a specific kernel parametrization which is trained on the latent space of row-wise PCA. The proposed framework is validated on a population dynamics problem and on an industrial CFD application, which involves the prediction of Reynolds stress tensor components under the incompressibility constraint.",
+  "authors": [
+   "Mahamat Hamdan Nassouradine",
+   "Clément Gauchy",
+   "Pierre-Emmanuel Angeli",
+   "Sébastien da Veiga"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mahamat Hamdan Nassouradine",
+  "pdf_url": "http://arxiv.org/pdf/2608.25709",
+  "primary_category": "stat.ML",
+  "published": "2026-08-26",
+  "tags": [
+   "cfd",
+   "surrogate-modeling",
+   "uncertainty-quantification"
+  ],
+  "title": "Multi-output Gaussian process prediction of physical fields under linear equality constraints",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25744": {
+  "abstract": "Neural operators applied to transient-dynamics PDEs with strong discontinuities exhibit autoregressive instability: in concrete-penetration stress-field prediction, the wavelet neural operator (WNO) diverges in autoregressive rollout, while MeshGraphNets collapse to zero predictions. WNO's instability stems from the lack of a structural constraint on the spectral radius of its propagation operator; the Fourier neural operator (FNO) is stable in these measurements but only emergently, not by construction. We propose a constitutive Markov physics-informed neural operator (MPNO) modeling one-step evolution as a Markov (row-stochastic) propagation operator. Physics-coupled edge weights (acoustic-impedance harmonic mean, contact area, and traction amplitude) encode material-interface constitutive information into a nonnegative symmetric adjacency matrix W; after normalizing the graph Laplacian L = D - W by lambda_max, the propagator P = I - alpha*L~ is constructively constrained to spectral radius rho(P) <= 1, suppressing exponential amplification of autoregressive errors. Stability is thus a designable architectural property, not an optimized loss objective. On three PDEs (Burgers and two-dimensional transverse-section concrete penetration), MPNO rolls out stably with bounded error on all test seeds at 100/135/165 m/s; the single-step relative L2 error is 0.7304 +/- 0.0008, better than WNO and comparable to FNO at about one quarter of FNO's parameters. The edge-weight formula transfers across scenarios by replacing material-property variables. With about 20K parameters, MPNO delivers roughly 10^5x inference speedup over LS-DYNA.",
+  "authors": [
+   "Wenpu Du",
+   "Peng Zhou",
+   "Yunlong Xia",
+   "Sinuo Xin",
+   "Congcong Zhang",
+   "Boyang Zhang",
+   "Yi Zhang",
+   "Wenzheng Xu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "10 figures,6 table",
+  "first_author": "Wenpu Du",
+  "pdf_url": "http://arxiv.org/pdf/2608.25744",
+  "primary_category": "cs.LG",
+  "published": "2026-08-26",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "A Constitutive Markov Physics-Informed Neural Operator (MPNO) for Autoregressive Stability in Transient Dynamics",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25818": {
+  "abstract": "Satellite-to-radar (S2R) retrieval refers to estimating ground-based radar precipitation from geostationary satellite observations, enabling precipitation monitoring in regions with limited radar coverage. While recent generative flow matching models have greatly advanced retrieval quality, they face a critical trade-off: pixel-space formulations suffer from the prohibitive computational costs of attention-based U-Net velocity networks, whereas latent-space modeling often sacrifices fine precipitation details or struggles with sparse targets. To address this dilemma, we propose WaveOp-LiteFM, a lightweight neural operator flow matching framework for S2R retrieval. Our approach introduces a novel velocity backbone built upon the spectral-local-wavelet (SLW) block, enabling efficient and stable flow matching in pixel space. Specifically, the SLW block disentangles precipitation features into three distinct frequency regimes: (i) the spectral branch captures large-scale stratiform organization; (ii) the local branch models short-range interactions; and (iii) the wavelet branch enhances sharp structures while suppressing noisy high-frequency responses. Building on this design, an input-adaptive gating mechanism dynamically fuses features from the three functional branches. Furthermore, a skip gate efficiently reintegrates encoder features through additive fusion within the decoder, avoiding the costly channel concatenation used in conventional U-Net architectures. Experiments on the SEVIR and Southeast China datasets show that WaveOp-LiteFM achieves state-of-the-art retrieval performance while substantially reducing computational costs. Beyond benchmark evaluation, large-area inference over China, including a recent Typhoon Bavi case, demonstrates that WaveOp-LiteFM maintains reliable retrieval quality in large-scale real-world scenarios.",
+  "authors": [
+   "Chunlei Shi",
+   "Yecheng Zhang",
+   "Yufeng Zhu",
+   "Dan Niu",
+   "Yichao Dong",
+   "Yongchao Feng",
+   "Junming Hou"
+  ],
+  "categories": [
+   "cs.MM"
+  ],
+  "comment": "17 pages, 16 figures",
+  "first_author": "Chunlei Shi",
+  "pdf_url": "http://arxiv.org/pdf/2608.25818",
+  "primary_category": "cs.MM",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "WaveOp-LiteFM: Lightweight Neural-Operator Flow Matching for Satellite-to-Radar Precipitation Retrieval",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25879": {
+  "abstract": "Stable prediction of unsteady flows requires accurate multiscale spatial representation and robust temporal propagation. We introduce the Compensated Koopman U-shaped Neural Operator (CoKo-UNO), which combines a U-shaped spectral backbone with Koopman-dominated latent propagation. Finite-dimensional Koopman truncation produces a state-dependent residual that is repeatedly reinjected during autoregressive rollout. CoKo-UNO models this residual with a selective state-space model (SSM), a principled input-dependent compensation mechanism, together with resolution-adaptive compensatory skip connections and an overlapping-warmup rollout strategy. \\NEW{Across four benchmark problems, CoKo-UNO achieves the lowest mean rollout error among all compared methods. Its largest gain is a $76.76\\%$ reduction relative to the strongest baseline, while requiring about $41.40\\%$ of RNO's training time.} These results show that explicit residual compensation improves stable autoregressive prediction of unsteady flows.",
+  "authors": [
+   "Tangying Lv",
+   "Yuanjun Dai",
+   "Zhenxu Sun"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "43 Pages, 12 Figures",
+  "first_author": "Tangying Lv",
+  "pdf_url": "http://arxiv.org/pdf/2608.25879",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "A Compensated Koopman Neural Operator with Selective State-Space Dynamics for Unsteady Flows",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25945": {
+  "abstract": "Gyrokinetic (GK) stability strongly influences the performance of high-confinement-mode pedestals in spherical tokamak plasmas. High-fidelity gyrokinetic codes such as GENE can model microinstability-driven transport, but the computational cost limits their routine use in integrated pedestal modeling workflows. Instead, present workflows often rely on reduced transport assumptions, such as the ballooning-critical pedestal model used in EPED. This work investigates machine-learning surrogate models for local linear gyrokinetic simulations in a MAST-U-relevant pedestal parameter space, with the aim of providing faster gyrokinetic-based inputs to reduced pedestal models. A sampling workflow is developed in which pedestal profile parameters are varied within experimentally motivated bounds and used to generate physically self-consistent Grad-Shafranov equilibria. This reduces the dimensionality of the data-generation problem compared with sampling local gyrokinetic inputs directly, while maintaining physically plausible combinations of plasma profiles, geometry, and local stability parameters. The surrogate models are trained to predict linear growth rates, real frequencies, and diffusivity-ratio transport fingerprints from local linear GENE simulations. A multi-head multilayer perceptron accurately reproduces the growth rate, while the diffusivity ratios and real frequency exhibit more clustered, regime-dependent behavior. A multi-head classification-regression model using frequency-based regime classes reduces the mean absolute error for these clustered targets and better captures sharp transitions associated with changes in the underlying instability regime, although errors near mode-transition regions remain a limitation.",
+  "authors": [
+   "Anna Niemelä",
+   "Daniel Jordan",
+   "Aaro Järvinen",
+   "Amanda Bruncrona",
+   "Adam Kit",
+   "Lorenzo Frassinetti",
+   "David Hatch",
+   "Leonhard Leppin",
+   "Samuli Saarelma",
+   "the MAST Upgrade team",
+   "EUROfusion Tokamak Exploitation team"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Anna Niemelä",
+  "pdf_url": "http://arxiv.org/pdf/2608.25945",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "Machine learning methods for modelling local, linear gyrokinetic simulations of MAST-U pedestal turbulence",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26016": {
+  "abstract": "Self-driving laboratories (SDLs) are transforming materials research by closing the loop among synthesis, characterization, data analysis and experimental decision making. Bayesian optimization (BO) is a decision engine for these loops because it can select experiments from scarce and noisy data while balancing exploitation and exploration. Yet real materials campaigns often depart from the standard black-box setting, involving failed or missing experiments, noise and drift, mixed variables, constraints, multiple objectives, variable cost and fidelity, transfer from historical data, batch or asynchronous operation, and prior physics knowledge. This review presents BO for materials SDLs through the lens of these practical challenges. We summarize Gaussian-process-based BO and the formulation of materials goals as quantitative objectives, then discuss major choices in surrogate modelling and acquisition. Particular emphasis is placed on physics-informed Bayesian optimization (PIBO), in which domain knowledge enters through representations, priors, kernels, acquisition functions, and constraints. We survey achievements enabled by BO and related active-learning approaches across semiconductors, catalysis, chemical reactions, batteries, alloys, functional materials and quantum materials, highlighting advances beyond parameter optimization, including new materials and synthesis routes, improved functional performance, and reusable scientific knowledge. We conclude by outlining open problems for BO-driven materials SDLs, including nonstationarity, multimodal observations, adaptive problem formulation, and scientific reasoning by humans, large language models and research agents. Addressing these challenges may advance SDLs beyond efficient optimization toward interpretable and knowledge-generating experimentation.",
+  "authors": [
+   "Yuki K. Wakabayashi",
+   "Takuma Otsuka"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yuki K. Wakabayashi",
+  "pdf_url": "http://arxiv.org/pdf/2608.26016",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26064": {
+  "abstract": "Highly resolved computational fluid dynamics (CFD) simulations are essential for design but too expensive for dense design-space sampling. This chapter presents an AI-driven CFD workflow that combines scalar-response modeling and reduced-order dynamics using jet-in-cross-flow examples. A reacting hydrogen jet-in-cross-flow study is first used to train a multilayer perceptron (MLP) mapping injector spacing to unburnt hydrogen throughput, wall heat transfer, and bulk temperature concentration, with shape-preserving interpolation as a baseline. The CFD samples show a non-monotonic spacing response, and the MLP identifies an intermediate-to-wide favorable region near eight jet diameters. Leave-one-sample-out validation shows strong dependence on the predicted quantity: the bulk temperature concentration is robust, while heat transfer and unburnt hydrogen throughput are substantially harder to predict. Sparse Identification of Nonlinear Dynamics (SINDy) is then used as a reduced-order modeling framework for field-derived Reynolds-stress statistics. The parametric SINDy model provides compact field-level predictions at simulated and out-of-sample spacings, though its aggregate spacing-mean Reynolds-stress error is $6.7\\%$ higher than the POD-basis reconstruction because of degradation at selected cases. The broader conclusion is that AI-driven CFD is not a single-model prescription: MLPs are effective for fast scalar responses, while POD--SINDy is better suited when transient reduced dynamics and field-derived statistics are central to the question.",
+  "authors": [
+   "Kaku E. Eduku",
+   "Pavel P. Popov",
+   "Gustaaf Jacobs"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "18 pages, 4 figures. Book chapter manuscript. Companion Python/JAX software available at https://github.com/KjayJunIOR/parametric-sindy-jax-gridsearch",
+  "first_author": "Kaku E. Eduku",
+  "pdf_url": "http://arxiv.org/pdf/2608.26064",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-26",
+  "tags": [
+   "cfd",
+   "computational-fluid-dynamics",
+   "reduced-order-modeling"
+  ],
+  "title": "Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Fluid Dynamics & Plasma Physics"
+  ],
+  "updated": "2026-08-26"
  }
 }

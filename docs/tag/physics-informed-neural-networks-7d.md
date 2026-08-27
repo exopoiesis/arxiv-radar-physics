@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25327.html">Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Jinyuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25327">2608.25327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25443.html">Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Qin Hang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25443">2608.25443</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25564.html">Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Ahmad Ishaque Karimi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25564">2608.25564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
+<td>Kyueon Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Jiuyun Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Shubham Rai</td>
+<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22404.html">Error Propagation Theory for Variational Non-Markovian Open Quantum Dynamics</a></div></td>
@@ -44,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19774.html">Kerr Quasinormal Modes without Variable Separation: A Two-Dimensional Hyperboloidal Teukolsky Solver with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Antonio Ferrer-Sánchez et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19774">2608.19774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18974.html">Modeling of an ODE-constrained optimization problem describing tumor dynamics, and numerical approximation via sequential physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Juan J. Forero-Hernández et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18974">2608.18974</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>koopman-operator — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <strong>30d</strong> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02661.html">Beyond Invariant Dictionary: Data-Driven Koopman Spectral Recovery with Filtered Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Siji Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02661">2608.02661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25086.html">On residual bounds, backward shadowing stability of the Extended Dynamic Mode Decomposition solution to the eigenvalue problem for the Koopman operator</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Zlatko Drmač</td>
-<td><a href="http://arxiv.org/abs/2607.25086">2607.25086</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,17 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04061.html">TNet: Terrace Convolutional Decoder Network for Remote Sensing Image Semantic Segmentation</a></div></td>
 <td>Chengqian Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04061">2508.04061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00677.html">CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification</a></div></td>
-<td>Qingyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00677">2509.00677</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00835.html">Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed loss</a></div></td>
-<td>Jongwook Si et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00835">2509.00835</a></td>
 </tr>
 </tbody></table>

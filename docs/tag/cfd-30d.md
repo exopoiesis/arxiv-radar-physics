@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Mahamat Hamdan Nassouradine et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25709">2608.25709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Kaku E. Eduku et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24056.html">PhysicsBench: A Unified Leaderboard for Generative and Predictive Models in Engineering Design and Simulation</a></div></td>
+<td>Sang Won Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24056">2608.24056</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22787.html">Generative Design of Liquid-Cooling Channels for Thermal Management of 2.5D and 3D Integrated Advanced Packaging</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
@@ -80,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04708.html">Benchmarking Multi-fidelity Neural Operators on Complex PDE Problems with Non-trivial Fidelity Differences</a></div><div class="paper-tags"><a href="les-30d.html">les</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="rans-30d.html">rans</a></div></td>
 <td>Ghifari Adam Faza et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04708">2608.04708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24513.html">Physics Transformer: Tailoring Transformer for General PDE Prediction</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Guoze Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24513">2607.24513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25060.html">Lantern: Conflict-Aware Gradient Blending for Physics-Guided Diffusion Models in Calorimeter Simulation</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Farzana Yasmin Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25060">2607.25060</a></td>
 </tr>
 </tbody></table>

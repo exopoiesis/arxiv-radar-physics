@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,17 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11951.html">Quantum Data Encoding and Variational Algorithms: A Framework for Hybrid Quantum Classical Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Bhavna Bose et al.</td>
 <td><a href="http://arxiv.org/abs/2502.11951">2502.11951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01422.html">Exploring Quantum Machine Learning for Weather Forecasting</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Maria Heloísa F. da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01422">2509.01422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01812.html">Quantum Machine Learning for UAV Swarm Intrusion Detection</a></div></td>
-<td>Kuan-Cheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01812">2509.01812</a></td>
 </tr>
 </tbody></table>

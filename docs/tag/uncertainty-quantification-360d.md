@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3278,17 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02282.html">Exploring accuracy and uncertainty quantification in physics-informed neural networks for inferring microbial community dynamics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Pedro Fontanarrosa et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02282">2509.02282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21484.html">Data-driven Discovery of Digital Twins in Biomedical Research</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Clémence Métayer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21484">2508.21484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01072.html">DRetNet: A Novel Deep Learning Framework for Diabetic Retinopathy Diagnosis</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Idowu Paul Okuwobi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01072">2509.01072</a></td>
 </tr>
 </tbody></table>

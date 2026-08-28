@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,11 +1358,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05787.html">Vector-based loss functions for turbulent flow field inpainting</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Samuel J. Baker et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05787">2509.05787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01234.html">RAMS: Residual-based adversarial-gradient moving sample method for scientific machine learning in solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Weihang Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01234">2509.01234</a></td>
 </tr>
 </tbody></table>

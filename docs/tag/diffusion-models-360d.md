@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3494,11 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04513.html">Fidelity-preserving enhancement of ptychography with foundational text-to-image models</a></div></td>
 <td>Ming Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04513">2509.04513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.24083.html">Controlled Latent Diffusion Models for 3D Porous Media Reconstruction</a></div></td>
-<td>Danilo Naiff et al.</td>
-<td><a href="http://arxiv.org/abs/2503.24083">2503.24083</a></td>
 </tr>
 </tbody></table>

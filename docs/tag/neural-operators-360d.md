@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,23 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04623.html">Split Conformal Prediction in the Function Space with Neural Operators</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>David Millard et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04623">2509.04623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10352.html">History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials</a></div></td>
-<td>Binyao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10352">2506.10352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01234.html">RAMS: Residual-based adversarial-gradient moving sample method for scientific machine learning in solving partial differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Weihang Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01234">2509.01234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01416.html">Accelerating PDE Solvers with Equation-Recast Neural Operator Preconditioning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Qiyun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01416">2509.01416</a></td>
 </tr>
 </tbody></table>

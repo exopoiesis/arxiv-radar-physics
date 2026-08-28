@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>astrophysics — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <strong>30d</strong> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04005.html">Cosmology in the Einstein Telescope era: comparing traditional and simulation-based methods for population inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Giovanni Antinozzi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04005">2608.04005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25672.html">AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Anamaria Hell et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25672">2607.25672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25881.html">AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Jia Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25881">2607.25881</a></td>
 </tr>
 </tbody></table>

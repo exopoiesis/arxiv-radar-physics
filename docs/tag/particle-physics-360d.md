@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,11 +620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01664.html">A generalized statistical model for fits to parton distributions</a></div></td>
 <td>Mengshi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01664">2406.01664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01397.html">Double Descent and Overparameterization in Particle Physics Data</a></div></td>
-<td>Matthias Vigl et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01397">2509.01397</a></td>
 </tr>
 </tbody></table>

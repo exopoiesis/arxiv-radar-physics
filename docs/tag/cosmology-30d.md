@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,23 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00934.html">Unified remnant models for aligned-spin, precessing, and eccentric binary black hole mergers</a></div></td>
 <td>Tousif Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00934">2608.00934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25672.html">AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
-<td>Anamaria Hell et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25672">2607.25672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25703.html">Simulation-based tension quantification of the cosmic dipole</a></div></td>
-<td>Mali Land-Strykowski et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25703">2607.25703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25881.html">AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
-<td>Jia Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25881">2607.25881</a></td>
 </tr>
 </tbody></table>

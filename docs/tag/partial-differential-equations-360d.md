@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">813 papers</span>
+  <span class="paper-count">808 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4862,35 +4862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03590.html">SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts outperforming numerical weather prediction across the USA</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Mingliang Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03590">2508.03590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06331.html">Mask-PINNs: Mitigating Internal Covariate Shift in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Feilong Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06331">2505.06331</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14085.html">Parameter-Aware Ensemble SINDy for Interpretable Symbolic SGS Closure</a></div></td>
-<td>Hanseul Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14085">2508.14085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01234.html">RAMS: Residual-based adversarial-gradient moving sample method for scientific machine learning in solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Weihang Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01234">2509.01234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01416.html">Accelerating PDE Solvers with Equation-Recast Neural Operator Preconditioning</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Qiyun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01416">2509.01416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01679.html">Efficient Transformer-Inspired Variants of Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Zhi-Feng Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01679">2509.01679</a></td>
 </tr>
 </tbody></table>

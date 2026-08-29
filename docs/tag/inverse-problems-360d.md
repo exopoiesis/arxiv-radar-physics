@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Yuehao Song et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26549">2608.26549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26657.html">Heat equations in spectral Barron spaces</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Mourad Choulli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26657">2608.26657</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27028.html">A quantum-assisted framework for PDE-based Bayesian inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Dong An et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27028">2608.27028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27080.html">Active Diffusion-Based Inference for Ill-Posed Inverse Problems under Incomplete Priors</a></div></td>
+<td>Jitao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27080">2608.27080</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26268.html">Bosonic Encodings for Hermite-Galerkin Discretizations of High-Dimensional PDEs and Bayesian Inverse Problems</a></div></td>
+<td>Alice Barthe</td>
+<td><a href="http://arxiv.org/abs/2608.26268">2608.26268</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22504.html">When Does AI for PDEs Yield Scientific Evidence?</a></div></td>
@@ -2474,11 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04402.html">Learning neural representations for X-ray ptychography reconstruction with unknown probes</a></div></td>
 <td>Tingyou Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04402">2509.04402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07058.html">A residual weighted physics informed neural network for forward and inverse problems of reaction diffusion equations</a></div></td>
-<td>K. Murari et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07058">2504.07058</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">507 papers</span>
+  <span class="paper-count">512 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26519.html">Report of the 2026 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science</a></div></td>
+<td>Lois Curfman McInnes et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26519">2608.26519</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26701.html">Accelerating Scientific Research with Gemini in the Real-World</a></div></td>
+<td>Samuel Schmidgall et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26701">2608.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23875.html">AI Finds A Way</a></div></td>
+<td>Aaron Dharna et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23875">2608.23875</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25660.html">Think-Probe-Respond: Improving Large Language Models as Judges of Research Idea Novelty</a></div></td>
+<td>Tim Schopf et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25660">2608.25660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25770.html">HypoForge: A Self-Improving Multi-Agent Framework for Automated Hypothesis Generation and Testing via Scientific Skill Learning</a></div></td>
+<td>Ziqing Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25770">2608.25770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25116.html">GRAPE: Gradient Refinement and Progress-Aware Exploitation for Query-Efficient High-Dimensional Bayesian Optimization</a></div></td>
+<td>Richard Cornelius Suwandi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25116">2608.25116</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09855.html">The Greatness of Science Cannot Be Planned: Agentic Auto-Research is Fuzz Testing</a></div></td>
@@ -3050,11 +3086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03036.html">Knowledge Integration for Physics-informed Symbolic Regression Using Pre-trained Large Language Models</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Bilge Taskin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03036">2509.03036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02276.html">Rewarding Explainability in Drug Repurposing with Knowledge Graphs</a></div></td>
-<td>Susana Nunes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02276">2509.02276</a></td>
 </tr>
 </tbody></table>

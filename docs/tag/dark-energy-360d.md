@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01596.html">Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline</a></div></td>
 <td>Dylan Green et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01596">2505.01596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17204.html">STag II: Classification of Serendipitous Supernovae Observed by Galaxy Redshift Surveys</a></div></td>
-<td>W. Davison et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17204">2406.17204</a></td>
 </tr>
 </tbody></table>

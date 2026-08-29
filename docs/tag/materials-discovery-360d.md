@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">258 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1562,17 +1562,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03547.html">Combining feature-based approaches with graph neural networks and symbolic regression for synergistic performance and interpretability</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Rogério Almeida Gouvêa et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03547">2509.03547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02723.html">Generative AI for Crystal Structures: A Review</a></div></td>
-<td>Pierre-Paul De Breuck et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02723">2509.02723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05351.html">Self-Driving Laboratory Optimizes the Lower Critical Solution Temperature of Thermoresponsive Polymers</a></div></td>
-<td>Guoyue Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05351">2509.05351</a></td>
 </tr>
 </tbody></table>

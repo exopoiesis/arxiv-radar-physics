@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">700 papers</span>
+  <span class="paper-count">701 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Gurjeet Sangra Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26943.html">Data-driven Koopman mode approximation: A neural power iteration algorithm</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Guillaume O. Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26943">2608.26943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27182.html">TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Tommaso Bendinelli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27182">2608.27182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Xiaoxiao Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27259">2608.27259</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23297.html">ADDA: a Modular Framework for Representing, Simulating and Assimilating Dynamics with End-to-end Differentiability</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
@@ -4196,23 +4220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10514.html">A Differential Manifold Perspective and Universality Analysis of Continuous Attractors in Artificial Neural Networks</a></div></td>
 <td>Shaoxin Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10514">2509.10514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15427.html">Direct comparison of stochastic driven nonlinear dynamical systems for combinatorial optimization</a></div></td>
-<td>Junpeng Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15427">2503.15427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15543.html">Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics</a></div></td>
-<td>Mahdi Nazeri et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15543">2508.15543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02073.html">Inference in Spreading Processes with Neural-Network Priors</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Davide Ghio et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02073">2509.02073</a></td>
 </tr>
 </tbody></table>

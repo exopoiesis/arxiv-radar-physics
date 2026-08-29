@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>particle-physics — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <strong>30d</strong> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26090.html">Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders</a></div></td>
+<td>Raphaël Bonnet-Guerrini et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26090">2608.26090</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Wyatt A. Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20686.html">CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>

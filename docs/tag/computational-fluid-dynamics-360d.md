@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26811.html">A review of simulation, measurement techniques, and development in chip thermal design</a></div></td>
+<td>Junnian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26811">2608.26811</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Kaku E. Eduku et al.</td>
@@ -1058,11 +1064,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04651.html">Sensitivity-Driven Adaptive Surrogate Modeling for Simulation and Optimization of Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Jonathan R. Cangelosi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04651">2509.04651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01963.html">Computational Fluid Dynamics Optimization of F1 Front Wing using Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Naval Shah</td>
-<td><a href="http://arxiv.org/abs/2509.01963">2509.01963</a></td>
 </tr>
 </tbody></table>

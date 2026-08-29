@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26972.html">Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters</a></div></td>
+<td>Yirui Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26972">2608.26972</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23934.html">QML for Quantum Sensing under Measurement-Induced Information Loss</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
 <td>Sounak Bhowmik et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24229.html">A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning</a></div></td>
 <td>Ziyu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24229">2608.24229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21321.html">Hypothesis testing between quantum ensembles</a></div></td>
-<td>Jian Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21321">2608.21321</a></td>
 </tr>
 </tbody></table>

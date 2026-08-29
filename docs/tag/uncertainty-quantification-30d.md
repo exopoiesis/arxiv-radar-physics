@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Hiep V. Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26594">2608.26594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26912.html">TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression</a></div></td>
+<td>Youyuan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26912">2608.26912</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27077.html">Learning Transverse Momentum Distributions from Raw Scattering Events via Conditional Diffusion</a></div></td>
+<td>Jitao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27077">2608.27077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Mingcan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
@@ -32,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Julie Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a></div></td>
+<td>Wyatt A. Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-23</td>
@@ -218,11 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01439.html">Random Inverse Problems with Structural and Probabilistic Ambiguities</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Wolfgang Hoegele</td>
 <td><a href="http://arxiv.org/abs/2608.01439">2608.01439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26781.html">Recent Progress in Ab-Initio Nuclear Theory for Precision Physics Searches in Muonic Atoms and Superallowed $β$ Decays</a></div></td>
-<td>Simone Salvatore Li Muli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26781">2607.26781</a></td>
 </tr>
 </tbody></table>

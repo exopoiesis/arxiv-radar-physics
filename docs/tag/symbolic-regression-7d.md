@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21051.html">NestyNet. III. Symbolic Regression from Analytic Neural Surrogates</a></div></td>
-<td>Rodrigo Ibata et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21051">2608.21051</a></td>
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26276.html">$\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
+<td>Manvi Chauhan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26276">2608.26276</a></td>
 </tr>
 </tbody></table>

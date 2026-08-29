@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21253.html">Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a></div></td>
-<td>Leo W. H. Fung et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21253">2608.21253</a></td>
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24717.html">Searches for new phenomena in final states with leptons and jets using the ATLAS detector</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a> · <a href="physics-beyond-the-standard-model-7d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Roy Schimmel Brener</td>
+<td><a href="http://arxiv.org/abs/2608.24717">2608.24717</a></td>
 </tr>
 </tbody></table>

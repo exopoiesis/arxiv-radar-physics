@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26219.html">TRACE: Retrospective Streaming Generation of Physical Fields under Sparse Structured Sensing</a></div></td>
+<td>Xinyu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26219">2608.26219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24407.html">Volatile depletion in rocky planets as a chemical fingerprint of hybrid accretion</a></div></td>
+<td>Haiyang S. Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24407">2608.24407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25107.html">ADoNIS: A Differentiable generatOr of Neutrino Interaction Samples</a></div></td>
+<td>César Jesús-Valls</td>
+<td><a href="http://arxiv.org/abs/2608.25107">2608.25107</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21309.html">Tomographic Limits of the Petz Recovery Map</a></div></td>
@@ -2636,29 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03069.html">The equation of state for neutron stars with speed of sound constraints via Bayesian inference</a></div></td>
 <td>Xieyuan Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03069">2509.03069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19171.html">GPU-Accelerated Parallel Selected Inversion for Structured Matrices Using sTiles</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Esmail Abdul Fattah et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19171">2504.19171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01942.html">Efficient Bayesian Sampling with Langevin Birth-Death Dynamics</a></div></td>
-<td>Alex Leviyev et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01942">2509.01942</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02003.html">Bouncy particle sampler with infinite exchanging parallel tempering</a></div></td>
-<td>Yohei Saito et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02003">2509.02003</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02047.html">Detection of a Higher Harmonic Quasi-normal Mode in the Ringdown Signal of GW231123</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Hai-Tian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02047">2509.02047</a></td>
 </tr>
 </tbody></table>

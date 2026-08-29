@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>atmospheric-physics — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="atmospheric-physics-7d.html">7d</a> <a href="atmospheric-physics-30d.html">30d</a> <a href="atmospheric-physics-90d.html">90d</a> <strong>360d</strong> <a href="atmospheric-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05374.html">A Synthetic-to-Real Dehazing Method based on Domain Unification</a></div></td>
 <td>Zhiqiang Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05374">2509.05374</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03590.html">SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts outperforming numerical weather prediction across the USA</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Mingliang Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03590">2508.03590</a></td>
 </tr>
 </tbody></table>

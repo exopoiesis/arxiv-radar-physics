@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24717.html">Searches for new phenomena in final states with leptons and jets using the ATLAS detector</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
+<td>Roy Schimmel Brener</td>
+<td><a href="http://arxiv.org/abs/2608.24717">2608.24717</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21253.html">Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a></div></td>
 <td>Leo W. H. Fung et al.</td>
@@ -1256,11 +1262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03165.html">PatchNet: A hierarchical approach for neural field-level inference from Quijote Simulations</a></div></td>
 <td>Anirban Bairagi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03165">2509.03165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13755.html">How many simulations do we need for simulation-based inference in cosmology?</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Anirban Bairagi et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13755">2503.13755</a></td>
 </tr>
 </tbody></table>

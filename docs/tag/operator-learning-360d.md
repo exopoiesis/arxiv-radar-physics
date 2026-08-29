@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Andrew M. Stuart et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24426.html">Sequential operator learning under dependent data</a></div></td>
 <td>Rafael Oliveira</td>
@@ -1754,11 +1760,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04256.html">Error analysis for learning the time-stepping operator of evolutionary PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Ke Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04256">2509.04256</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07312.html">Nonparametric Control Koopman Operators</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Petar Bevanda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07312">2405.07312</a></td>
 </tr>
 </tbody></table>

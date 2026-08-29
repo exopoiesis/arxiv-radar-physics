@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">580 papers</span>
+  <span class="paper-count">584 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Hiep V. Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26594">2608.26594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26748.html">Self-Augmented Diffusion Guidance for Physics-Informed Generation</a></div></td>
+<td>Akira Osaka et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26748">2608.26748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Gurjeet Sangra Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27378.html">How well can Diffusion Models learn Lagrangian-Tracer Statistics in Non-reciprocal Turbulence?</a></div></td>
+<td>Pratyush Jha et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27378">2608.27378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25858.html">Precipitation Downscaling Using Foundation Model-Conditioned Diffusion</a></div></td>
+<td>Victor Nascimento Ribeiro et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25858">2608.25858</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25223.html">On the hedging problem in general 1D diffusion markets</a></div></td>
+<td>Alexis Anagnostakis et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25223">2608.25223</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23070.html">From Generation to Simulation: How Far Are World Models from Being True Simulators?</a></div></td>
@@ -3482,17 +3518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01875.html">RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation</a></div></td>
 <td>Xiucheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01875">2509.01875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08146.html">An effective potential for generative modelling with active matter</a></div></td>
-<td>Adrian Baule</td>
-<td><a href="http://arxiv.org/abs/2508.08146">2508.08146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04513.html">Fidelity-preserving enhancement of ptychography with foundational text-to-image models</a></div></td>
-<td>Ming Du et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04513">2509.04513</a></td>
 </tr>
 </tbody></table>

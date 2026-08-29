@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20686.html">CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
-<td>Piyush Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20686">2608.20686</a></td>
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26090.html">Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders</a></div></td>
+<td>Raphaël Bonnet-Guerrini et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26090">2608.26090</a></td>
 </tr>
 <tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21327.html">On-Detector Machine Learning for Beam-Induced Background Rejection at a 10 TeV Muon Collider</a></div></td>
-<td>Daniel Abadjiev et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21327">2608.21327</a></td>
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Wyatt A. Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1144 papers</span>
+  <span class="paper-count">1148 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
+<td>Gurjeet Sangra Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26943.html">Data-driven Koopman mode approximation: A neural power iteration algorithm</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>Guillaume O. Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26943">2608.26943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27182.html">TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>Tommaso Bendinelli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27182">2608.27182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Xiaoxiao Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27259">2608.27259</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23297.html">ADDA: a Modular Framework for Representing, Simulating and Assimilating Dynamics with End-to-end Differentiability</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>

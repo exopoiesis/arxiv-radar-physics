@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12224.html">TripOptimizer: Generative 3D Shape Optimization and Drag Prediction using Triplane VAE Networks</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Parsa Vatani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12224">2509.12224</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02917.html">Multi-Objective Aerodynamic Optimization of Ride Height and Rake Angle in a Sedan Car Using CFD and Machine Learning</a></div></td>
-<td>Mahdi Kheirkhah et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02917">2509.02917</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">440 papers</span>
+  <span class="paper-count">438 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2642,17 +2642,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04538.html">Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Ao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04538">2509.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09154.html">Inferring the pair-instability mass gap from gravitational wave data</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Fabio Antonini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09154">2506.09154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03069.html">The equation of state for neutron stars with speed of sound constraints via Bayesian inference</a></div></td>
-<td>Xieyuan Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03069">2509.03069</a></td>
 </tr>
 </tbody></table>

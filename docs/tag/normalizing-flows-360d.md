@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06370.html">Neural Posterior Unfolding</a></div></td>
 <td>Fernando Torales Acosta et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06370">2509.06370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05657.html">Emulating compact binary population synthesis simulations with uncertainty quantification and model comparison using Bayesian normalizing flows</a></div></td>
-<td>Anarya Ray</td>
-<td><a href="http://arxiv.org/abs/2506.05657">2506.05657</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,29 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04268.html">Differential Morphological Profile Neural Networks for Semantic Segmentation</a></div></td>
 <td>David Huangal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04268">2509.04268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01882.html">HydroVision: Predicting Optically Active Parameters in Surface Water Using Computer Vision</a></div></td>
-<td>Shubham Laxmikant Deshmukh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01882">2509.01882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03112.html">Information transmission: Inferring change area from change moment in time series remote sensing images</a></div></td>
-<td>Jialu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03112">2509.03112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03376.html">Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing</a></div></td>
-<td>Hui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03376">2509.03376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03500.html">Real-Time Instrument Planning and Perception for Novel Measurements of Dynamic Phenomena</a></div></td>
-<td>Itai Zilberstein et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03500">2509.03500</a></td>
 </tr>
 </tbody></table>

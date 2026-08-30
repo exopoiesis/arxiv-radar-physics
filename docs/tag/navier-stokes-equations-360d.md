@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,17 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13993.html">Improved Physics-informed neural networks loss function regularization with a variance-based term</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>John M. Hanna et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13993">2412.13993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02971.html">Scale-Adaptive Generative Flows for Multiscale Scientific Data</a></div></td>
-<td>Yifan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02971">2509.02971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14243.html">InWaveSR: Topography-Aware Super-Resolution Network for Internal Solitary Waves</a></div></td>
-<td>Xinjie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14243">2509.14243</a></td>
 </tr>
 </tbody></table>

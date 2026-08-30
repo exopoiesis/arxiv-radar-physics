@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">309 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1868,11 +1868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05364.html">Prototyping an AI-powered Tool for Energy Efficiency in New Zealand Homes</a></div></td>
 <td>Abdollah Baghaei Daemei</td>
 <td><a href="http://arxiv.org/abs/2509.05364">2509.05364</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03911.html">Explaining Anomalies with Tensor Networks</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Hans Hohenfeld et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03911">2505.03911</a></td>
 </tr>
 </tbody></table>

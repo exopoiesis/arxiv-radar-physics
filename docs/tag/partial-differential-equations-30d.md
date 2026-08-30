@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,17 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00850.html">Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Fabio Pereira dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00850">2608.00850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27728.html">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation with Resampling</a></div></td>
-<td>Phonepaserth Sisaykeo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27728">2607.27728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27901.html">Data-free neural PDE solvers based on Graph Neural Networks and weak forms</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Mikel M. Iparraguirre et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27901">2607.27901</a></td>
 </tr>
 </tbody></table>

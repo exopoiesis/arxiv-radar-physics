@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02661.html">Beyond Invariant Dictionary: Data-Driven Koopman Spectral Recovery with Filtered Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>Siji Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02661">2608.02661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27908.html">Data-Driven Formal Methods for Complex Dynamical Systems: A Survey</a></div></td>
-<td>Behrad Samari et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27908">2607.27908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28220.html">Weather Emulators at the Frontier of Heat Extremes Predictability</a></div></td>
-<td>Cas Decancq et al.</td>
-<td><a href="http://arxiv.org/abs/2607.28220">2607.28220</a></td>
 </tr>
 </tbody></table>

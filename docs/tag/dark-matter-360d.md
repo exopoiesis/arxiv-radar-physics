@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">208 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,11 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04538.html">Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Ao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04538">2509.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03165.html">PatchNet: A hierarchical approach for neural field-level inference from Quijote Simulations</a></div></td>
-<td>Anirban Bairagi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03165">2509.03165</a></td>
 </tr>
 </tbody></table>

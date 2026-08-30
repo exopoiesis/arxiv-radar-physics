@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">701 papers</span>
+  <span class="paper-count">698 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4202,23 +4202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04683.html">Echoes Before Collapse: Deep Learning Detection of Flickering in Complex Systems</a></div></td>
 <td>Yazdan Babazadeh Maghsoodlo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04683">2509.04683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11427.html">FlowKac: An Efficient Neural Fokker-Planck solver using Temporal Normalizing Flows and the Feynman-Kac Formula</a></div></td>
-<td>Naoufal El Bekri et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11427">2503.11427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03769.html">Deficiency of equation-finding approach to data-driven modeling of dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Zheng-Meng Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03769">2509.03769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10514.html">A Differential Manifold Perspective and Universality Analysis of Continuous Attractors in Artificial Neural Networks</a></div></td>
-<td>Shaoxin Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10514">2509.10514</a></td>
 </tr>
 </tbody></table>

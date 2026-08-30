@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">495 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2984,23 +2984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05370.html">Quantum AI Algorithm Development for Enhanced Cybersecurity: A Hybrid Approach to Malware Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Tanya Joshi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05370">2509.05370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11951.html">Quantum Data Encoding and Variational Algorithms: A Framework for Hybrid Quantum Classical Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Bhavna Bose et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11951">2502.11951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14612.html">On Quantum BSDE Solver for High-Dimensional Parabolic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Howard Su et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14612">2506.14612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03617.html">Exoplanetary atmospheres retrieval via a quantum extreme learning machine</a></div></td>
-<td>Marco Vetrano et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03617">2509.03617</a></td>
 </tr>
 </tbody></table>

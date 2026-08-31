@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05644.html">The Features at Convergence Theorem: a first-principles alternative to the Neural Feature Ansatz for how networks learn representations</a></div></td>
 <td>Enric Boix-Adsera et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05644">2507.05644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div></td>
-<td>Kai Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
 </tbody></table>

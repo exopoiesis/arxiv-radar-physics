@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>plasma-physics — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <strong>360d</strong> <a href="plasma-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02551.html">Deducing Closed-Form Expressions for Bright-Solitons in Strongly Magnetized Plasmas with Physics Informed Symbolic Regression (PISR)</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Edward Finkelstein</td>
 <td><a href="http://arxiv.org/abs/2510.02551">2510.02551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16960.html">Surrogate Modeling of Landau Damping with Deep Operator Networks</a></div></td>
-<td>Simin Shekarpaz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16960">2507.16960</a></td>
 </tr>
 </tbody></table>

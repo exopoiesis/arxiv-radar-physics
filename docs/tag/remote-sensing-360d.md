@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">545 papers</span>
+  <span class="paper-count">543 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3272,17 +3272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04729.html">CD-Mamba: Cloud detection with long-range spatial dependency modeling</a></div></td>
 <td>Tianxiang Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04729">2509.04729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03961.html">Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection</a></div></td>
-<td>Yijun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03961">2509.03961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04268.html">Differential Morphological Profile Neural Networks for Semantic Segmentation</a></div></td>
-<td>David Huangal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04268">2509.04268</a></td>
 </tr>
 </tbody></table>

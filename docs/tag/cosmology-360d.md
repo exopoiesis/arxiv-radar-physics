@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05096.html">An emulator-based forecasting on astrophysics and cosmology with 21 cm and density cross-correlations during EoR</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Barun Maity</td>
 <td><a href="http://arxiv.org/abs/2509.05096">2509.05096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10798.html">The Atacama Cosmology Telescope: Machine Learning Driven Tools for Detecting Millimeter Sources in Timestream Pre-processing</a></div></td>
-<td>Simran K. Nerval et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10798">2503.10798</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,17 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07040.html">A Quantum Bagging Algorithm with Unsupervised Base Learners for Label Corrupted Datasets</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Neeshu Rathi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07040">2509.07040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04536.html">Q-SafeML: Safety Assessment of Quantum Machine Learning via Quantum Distance Metrics</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Oliver Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04536">2509.04536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05370.html">Quantum AI Algorithm Development for Enhanced Cybersecurity: A Hybrid Approach to Malware Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Tanya Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05370">2509.05370</a></td>
 </tr>
 </tbody></table>

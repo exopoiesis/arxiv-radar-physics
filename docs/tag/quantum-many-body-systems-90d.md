@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <strong>90d</strong> <a href="quantum-many-body-systems-360d.html">360d</a> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08546.html">Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos</a></div></td>
 <td>Jaskirat Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08546">2606.08546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02794.html">Scaling Laws for Neural-Network Quantum States</a></div></td>
-<td>Riccardo Rende et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02794">2606.02794</a></td>
 </tr>
 </tbody></table>

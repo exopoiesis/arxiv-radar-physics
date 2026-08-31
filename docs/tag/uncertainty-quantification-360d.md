@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">541 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3260,41 +3260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22667.html">A Comparison of Surrogate Constitutive Models for Viscoplastic Creep Simulation of HT-9 Steel</a></div></td>
 <td>Pieterjan Robbe et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22667">2509.22667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07107.html">A Framework for Supervised and Unsupervised Segmentation and Classification of Materials Microstructure Images</a></div></td>
-<td>Kungang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07107">2502.07107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06269.html">BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields</a></div></td>
-<td>Rushil Desai</td>
-<td><a href="http://arxiv.org/abs/2507.06269">2507.06269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03833.html">Towards Physics Constrained Deep Learning Based Turbulence Model Uncertainty Quantification</a></div></td>
-<td>Minghan Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03833">2509.03833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03945.html">Prob-GParareal: A Probabilistic Numerical Parallel-in-Time Solver for Differential Equations</a></div></td>
-<td>Guglielmo Gattiglio et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03945">2509.03945</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04342.html">History matching for functional data and its application to tsunami warnings in the Indian Ocean</a></div></td>
-<td>Ryuichi Kanai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04342">2509.04342</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04623.html">Split Conformal Prediction in the Function Space with Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>David Millard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04623">2509.04623</a></td>
 </tr>
 </tbody></table>

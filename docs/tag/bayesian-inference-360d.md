@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">438 papers</span>
+  <span class="paper-count">435 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2624,23 +2624,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05551.html">Uncertainty-Aware Neural Networks for Fuzzy Dark Matter Model Selection from \texorpdfstring{$x_{\rm HI}$}{x_HI} Measurements</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Bahareh Soleimanpour Salmasi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05551">2509.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21687.html">Exploiting synergies between JWST and cosmic 21-cm observations to uncover star formation in the early Universe</a></div></td>
-<td>Jiten Dhandha et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21687">2503.21687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04336.html">Gravitational-wave inference at GPU speed: A bilby-like nested sampling kernel within blackjax-ns</a></div></td>
-<td>Metha Prathaban et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04336">2509.04336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04538.html">Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Ao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04538">2509.04538</a></td>
 </tr>
 </tbody></table>

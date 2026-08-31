@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">495 papers</span>
+  <span class="paper-count">493 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2972,17 +2972,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01235.html">Quantum Machine Learning in Transportation: A Case Study of Pedestrian Stress Modelling</a></div></td>
 <td>Bara Rababah et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01235">2507.01235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04536.html">Q-SafeML: Safety Assessment of Quantum Machine Learning via Quantum Distance Metrics</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Oliver Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04536">2509.04536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05370.html">Quantum AI Algorithm Development for Enhanced Cybersecurity: A Hybrid Approach to Malware Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Tanya Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05370">2509.05370</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>atmospheric-physics — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="atmospheric-physics-7d.html">7d</a> <a href="atmospheric-physics-30d.html">30d</a> <a href="atmospheric-physics-90d.html">90d</a> <strong>360d</strong> <a href="atmospheric-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01159.html">AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a> · <a href="oceanography-360d.html">oceanography</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Chenyue Li et al.</td>
 <td><a href="http://arxiv.org/abs/2502.01159">2502.01159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05374.html">A Synthetic-to-Real Dehazing Method based on Domain Unification</a></div></td>
-<td>Zhiqiang Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05374">2509.05374</a></td>
 </tr>
 </tbody></table>

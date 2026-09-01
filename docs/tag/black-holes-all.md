@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>black-holes — all</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,17 +920,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01606.html">Gravitational collapse at low to moderate Mach numbers: The relationship between star formation efficiency and the fraction of mass in the massive object</a></div></td>
 <td>Jorge Saavedra-Bastidas et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01606">2408.01606</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17561.html">Compactness peaks: An astrophysical interpretation of the mass distribution of merging binary black holes</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Shanika Galaudage et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17561">2407.17561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06781.html">Inferring the spin distribution of binary black holes using deep learning</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Li Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06781">2407.06781</a></td>
 </tr>
 </tbody></table>

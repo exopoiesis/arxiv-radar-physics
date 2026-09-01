@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mhd — all</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06430.html">Data-driven MHD Simulation of the Formation of a Magnetic Flux Rope and an Inclined Solar Eruption</a></div><div class="paper-tags"><a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a></div></td>
 <td>Yeongmin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06430">2408.06430</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17627.html">What makes a steady flow to favour kinematic magnetic field generation: A statistical analysis</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Francisco Stefano de Almeida et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17627">2407.17627</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>force-fields — all</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,17 +1052,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04073.html">Accelerating crystal structure search through active learning with neural networks for rapid relaxations</a></div></td>
 <td>Stefaan S. P. Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04073">2408.04073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16178.html">Anomalous Water Penetration in $\text{Al}^{3+}$ Dissolution</a></div></td>
-<td>Minwoo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16178">2407.16178</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05931.html">Competing nucleation pathways in nanocrystal formation</a></div></td>
-<td>Carlos R. Salazar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05931">2407.05931</a></td>
 </tr>
 </tbody></table>

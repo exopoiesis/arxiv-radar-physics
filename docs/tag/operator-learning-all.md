@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,35 +2504,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12465.html">A finite element-based physics-informed operator learning framework for spatiotemporal partial differential equations on arbitrary domains</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Yusuke Yamazaki et al.</td>
 <td><a href="http://arxiv.org/abs/2405.12465">2405.12465</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15043.html">XI-DeepONet: An operator learning method for elliptic interface problems</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15043">2407.15043</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00775.html">Dilated convolution neural operator for multiscale partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Bo Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00775">2408.00775</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17119.html">Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Christophe Bonneville et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17119">2406.17119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03593.html">Green Multigrid Network</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Ye Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03593">2407.03593</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18794.html">Operator Learning of Lipschitz Operators: An Information-Theoretic Perspective</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Samuel Lanthaler</td>
-<td><a href="http://arxiv.org/abs/2406.18794">2406.18794</a></td>
 </tr>
 </tbody></table>

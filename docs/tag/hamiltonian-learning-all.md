@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hamiltonian-learning — all</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <a href="hamiltonian-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03801.html">Hamiltonian learning for 300 trapped ion qubits with long-range couplings</a></div></td>
 <td>S. -A. Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03801">2408.03801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11473.html">Quantum Maximum Entropy Inference and Hamiltonian Learning</a></div></td>
-<td>Minbo Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11473">2407.11473</a></td>
 </tr>
 </tbody></table>

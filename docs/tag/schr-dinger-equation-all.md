@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>schr-dinger-equation — all</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,35 +578,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
 <td>Lorenzo Brevi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17371.html">Wave function of $^9$Be in the three-body (alpha-alpha-n)-model</a></div></td>
-<td>S. A. Rakityansky</td>
-<td><a href="http://arxiv.org/abs/2407.17371">2407.17371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16866.html">Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Ali Feizmohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16866">2407.16866</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07642.html">Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification</a></div></td>
-<td>Christian Offen</td>
-<td><a href="http://arxiv.org/abs/2407.07642">2407.07642</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19890.html">Quantum Dynamics of Machine Learning</a></div></td>
-<td>Peng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19890">2407.19890</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00975.html">Data-driven approximations of topological insulator systems</a></div></td>
-<td>Justin T. Cole et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00975">2407.00975</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-beyond-the-standard-model — all</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="physics-beyond-the-standard-model-7d.html">7d</a> <a href="physics-beyond-the-standard-model-30d.html">30d</a> <a href="physics-beyond-the-standard-model-90d.html">90d</a> <a href="physics-beyond-the-standard-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18553.html">Optimal Equivariant Architectures from the Symmetries of Matrix-Element Likelihoods</a></div><div class="paper-tags"><a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Daniel Maître et al.</td>
 <td><a href="http://arxiv.org/abs/2410.18553">2410.18553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07961.html">Unsupervised Beyond-Standard-Model Event Discovery at the LHC with a Novel Quantum Autoencoder</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Callum Duffy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07961">2407.07961</a></td>
 </tr>
 </tbody></table>

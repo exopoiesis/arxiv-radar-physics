@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">888 papers</span>
+  <span class="paper-count">872 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5246,101 +5246,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04718.html">Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
 <td>Dule Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04718">2408.04718</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21683.html">Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification</a></div></td>
-<td>Xingchen Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21683">2407.21683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20717.html">Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
-<td>Yi Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20717">2407.20717</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18857.html">Multi-Scenario and Stochastic Thermo-Electro-Mechanical Modeling of Failure in Power Transmission Lines</a></div></td>
-<td>Prakash KC et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18857">2407.18857</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16466.html">Sobolev neural network with residual weighting as a surrogate in linear and non-linear mechanics</a></div></td>
-<td>A. O. M. Kilicsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16466">2407.16466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11512.html">Domain Uncertainty Quantification for the Lippmann-Schwinger Volume Integral Equation</a></div></td>
-<td>Fernando Henríquez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11512">2407.11512</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11600.html">A two-step surrogate method for sequential uncertainty quantification in high-dimensional inverse problems</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Ningxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11600">2407.11600</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12884.html">SurroFlow: A Flow-Based Surrogate Model for Parameter Space Exploration and Uncertainty Quantification</a></div></td>
-<td>Jingyi Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12884">2407.12884</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10615.html">Physics Based &amp; Machine Learning Methods For Uncertainty Estimation In Turbulence Modeling</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="les-all.html">les</a> · <a href="rans-all.html">rans</a></div></td>
-<td>Minghan Chu</td>
-<td><a href="http://arxiv.org/abs/2407.10615">2407.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02414.html">Exploring parameter dependence of atomic minima with implicit differentiation</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Ivan Maliyov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02414">2407.02414</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09757.html">Uncertainty Quantification in Reduced-Order Gas-Phase Atmospheric Chemistry Modeling using Ensemble SINDy</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Lin Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09757">2407.09757</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10013.html">AB$\mathbb{C}$MB: Deep Delensing Assisted Likelihood-Free Inference from CMB Polarization Maps</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Kai Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10013">2407.10013</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Yair Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04617.html">Randomized Physics-Informed Neural Networks for Bayesian Data Assimilation</a></div></td>
-<td>Yifei Zong et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04617">2407.04617</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04839.html">Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data</a></div></td>
-<td>Brennon L. Shanks et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04839">2407.04839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02070.html">Latent Diffusion Model for Generating Ensembles of Climate Simulations</a></div></td>
-<td>Johannes Meuer et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02070">2407.02070</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01015.html">Bayesian Entropy Neural Networks for Physics-Aware Prediction</a></div></td>
-<td>Rahul Rathnakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01015">2407.01015</a></td>
 </tr>
 </tbody></table>

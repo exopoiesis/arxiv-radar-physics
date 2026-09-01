@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3098,47 +3098,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01138.html">Interplay of Traditional Methods and Machine Learning Algorithms for Tagging Boosted Objects</a></div><div class="paper-tags"><a href="collider-physics-all.html">collider-physics</a></div></td>
 <td>Camellia Bose et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01138">2408.01138</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21726.html">Artificial Intelligence Approaches for Energy Efficiency: A Review</a></div></td>
-<td>Alberto Pasqualetto et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21726">2407.21726</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10608.html">ECATS: Explainable-by-design concept-based anomaly detection for time series</a></div></td>
-<td>Irene Ferfoglia et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10608">2405.10608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20753.html">Efficient Quantum One-Class Support Vector Machines for Anomaly Detection Using Randomized Measurements and Variable Subsampling</a></div></td>
-<td>Michael Kölle et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20753">2407.20753</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00792.html">A Scalable and Generalized Deep Learning Framework for Anomaly Detection in Surveillance Videos</a></div></td>
-<td>Sabah Abdulazeez Jebur et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00792">2408.00792</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10042.html">Harnessing Feature Clustering For Enhanced Anomaly Detection With Variational Autoencoder And Dynamic Threshold</a></div></td>
-<td>Tolulope Ale et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10042">2407.10042</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07961.html">Unsupervised Beyond-Standard-Model Event Discovery at the LHC with a Novel Quantum Autoencoder</a></div><div class="paper-tags"><a href="physics-beyond-the-standard-model-all.html">physics-beyond-the-standard-model</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Callum Duffy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07961">2407.07961</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01905.html">Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning</a></div></td>
-<td>Jiawei Zhan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01905">2407.01905</a></td>
 </tr>
 </tbody></table>

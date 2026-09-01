@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,11 +1136,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04997.html">Pay Attention To Mean Fields For Point Cloud Generation</a></div></td>
 <td>Benno Käch et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04997">2408.04997</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07376.html">Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Cristiano Fanelli et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07376">2407.07376</a></td>
 </tr>
 </tbody></table>

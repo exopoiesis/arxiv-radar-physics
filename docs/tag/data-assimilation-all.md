@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>data-assimilation — all</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,35 +1496,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02767.html">4D-Var using Hessian approximation and backpropagation applied to automatically-differentiable numerical and machine learning models</a></div></td>
 <td>Kylen Solvik et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02767">2408.02767</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15586.html">Data driven weather forecasts trained and initialised directly from observations</a></div></td>
-<td>Anthony McNally et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15586">2407.15586</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11696.html">Global atmospheric data assimilation with multi-modal masked autoencoders</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Thomas J. Vandal et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11696">2407.11696</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12168.html">A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Junqi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12168">2407.12168</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10088.html">Predictability of weakly turbulent systems from spatially sparse observations using data assimilation and machine learning</a></div></td>
-<td>Vikrant Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10088">2407.10088</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08222.html">PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Xing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08222">2407.08222</a></td>
 </tr>
 </tbody></table>

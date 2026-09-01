@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">589 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3548,47 +3548,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02198.html">Synergistic Learning with Multi-Task DeepONet for Efficient PDE Problem Solving</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Varun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02198">2408.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09628.html">Accelerating Electron Dynamics Simulations through Machine Learned Time Propagators</a></div></td>
-<td>Karan Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09628">2407.09628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12517.html">Evaluating the transferability potential of deep learning models for climate downscaling</a></div></td>
-<td>Ayush Prasad et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12517">2407.12517</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05224.html">On the importance of learning non-local dynamics for stable data-driven climate modeling: A 1D gravity wave-QBO testbed</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a></div></td>
-<td>Hamid A. Pahlavan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05224">2407.05224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11158.html">Physics-embedded Fourier Neural Network for Partial Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Qingsong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11158">2407.11158</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17119.html">Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Christophe Bonneville et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17119">2406.17119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18794.html">Operator Learning of Lipschitz Operators: An Information-Theoretic Perspective</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Samuel Lanthaler</td>
-<td><a href="http://arxiv.org/abs/2406.18794">2406.18794</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16740.html">Learning the boundary-to-domain mapping using Lifting Product Fourier Neural Operators for partial differential equations</a></div></td>
-<td>Aditya Kashi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16740">2406.16740</a></td>
 </tr>
 </tbody></table>

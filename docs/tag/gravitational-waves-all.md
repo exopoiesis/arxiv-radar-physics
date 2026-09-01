@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gravitational-waves — all</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <a href="gravitational-waves-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,29 +794,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05005.html">Diversity in Fermi/GBM Gamma Ray Bursts: New insights from Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
 <td>Dimple et al.</td>
 <td><a href="http://arxiv.org/abs/2406.05005">2406.05005</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18319.html">Gravitational wave surrogate model for spinning, intermediate mass ratio binaries based on perturbation theory and numerical relativity</a></div></td>
-<td>Katie Rink et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18319">2407.18319</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15501.html">Probing the shape of the primordial curvature power spectrum and the energy scale of reheating with pulsar timing arrays</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Lele Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15501">2407.15501</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10013.html">AB$\mathbb{C}$MB: Deep Delensing Assisted Likelihood-Free Inference from CMB Polarization Maps</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Kai Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10013">2407.10013</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07820.html">New Gravitational Wave Discoveries Enabled by Machine Learning</a></div></td>
-<td>Alexandra E. Koloniari et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07820">2407.07820</a></td>
 </tr>
 </tbody></table>

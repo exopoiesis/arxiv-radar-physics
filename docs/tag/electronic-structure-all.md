@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,53 +1166,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08551.html">Large diversity of magnetic phases in two-dimensional magnets with spin-orbit coupling and superconductivity</a></div></td>
 <td>Jannis Neuhaus-Steinmetz et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08551">2405.08551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21366.html">Accurate Tunneling Splittings for Ever-Larger Molecules from Transfer-Learned, CCSD(T) Quality Energy Functions</a></div></td>
-<td>Silvan Käser et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21366">2407.21366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17017.html">Chemistry-informed Machine Learning Explains Calcium-binding Proteins Fuzzy Shape for Communicating Changes in the Atomic States of Calcium Ions</a></div></td>
-<td>Pengzhi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17017">2407.17017</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04537.html">HTESP (High-throughput electronic structure package): a Package for the high-throughput $ab$ $initio$ calculations</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Niraj K. Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04537">2406.04537</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08110.html">General Electronic Structure Calculation Method for Twisted Systems</a></div></td>
-<td>Junxi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08110">2407.08110</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Yair Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06409.html">Atom-wise formulation of the many-body dispersion problem for linear-scaling van der Waals corrections</a></div></td>
-<td>Heikki Muhli et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06409">2407.06409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div></td>
-<td>Klara Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17197.html">Machine learning the screening factor in the soft bond valence approach for rapid crystal structure estimation</a></div></td>
-<td>Keisuke Kameda et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17197">2406.17197</a></td>
 </tr>
 </tbody></table>

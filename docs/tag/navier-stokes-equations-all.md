@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>navier-stokes-equations — all</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <a href="navier-stokes-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,23 +896,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
 <td>Siddhant Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09186.html">Variational Inference via Smoothed Particle Hydrodynamics</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Yongchao Huang</td>
-<td><a href="http://arxiv.org/abs/2407.09186">2407.09186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16542.html">Data-driven Koopman operator predictions of turbulent dynamics in models of shear flows</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>C. Ricardo Constante-Amores et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16542">2407.16542</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12293.html">Multi evolutional deep neural networks (Multi-EDNN)</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Hadden Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12293">2407.12293</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">325 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1940,29 +1940,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09818.html">Liquid Fourier Latent Dynamics Networks for fast GPU-based numerical simulations in computational cardiology</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Matteo Salvador et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09818">2408.09818</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18057.html">Physics-informed nonlinear vector autoregressive models for the prediction of dynamical systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>James H. Adler et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18057">2407.18057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17213.html">Spectrum-Informed Multistage Neural Networks: Multiscale Function Approximators of Machine Precision</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Jakin Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17213">2407.17213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10836.html">Data-Guided Physics-Informed Neural Networks for Solving Inverse Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Wei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10836">2407.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09312.html">Agnostic Active Learning of Single Index Models with Linear Sample Complexity</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Aarshvi Gajjar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09312">2405.09312</a></td>
 </tr>
 </tbody></table>

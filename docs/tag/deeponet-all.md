@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,23 +1520,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02198.html">Synergistic Learning with Multi-Task DeepONet for Efficient PDE Problem Solving</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Varun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02198">2408.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15043.html">XI-DeepONet: An operator learning method for elliptic interface problems</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Ran Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15043">2407.15043</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14921.html">AP-MIONet: Asymptotic-preserving multiple-input neural operators for capturing the high-field limits of collisional kinetic equations</a></div><div class="paper-tags"><a href="plasma-physics-all.html">plasma-physics</a></div></td>
-<td>Tian-ai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14921">2407.14921</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05477.html">Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Anran Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05477">2407.05477</a></td>
 </tr>
 </tbody></table>

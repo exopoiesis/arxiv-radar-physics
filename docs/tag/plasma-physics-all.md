@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>plasma-physics — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <a href="plasma-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,17 +176,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00963.html">Topological thermal transport</a></div><div class="paper-tags"><a href="condensed-matter-physics-all.html">condensed-matter-physics</a></div></td>
 <td>Zhoufei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.00963">2409.00963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00337.html">Physics-informed active learning with simultaneous weak-form latent space dynamics identification</a></div><div class="paper-tags"><a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
-<td>Xiaolong He et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00337">2407.00337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14921.html">AP-MIONet: Asymptotic-preserving multiple-input neural operators for capturing the high-field limits of collisional kinetic equations</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
-<td>Tian-ai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14921">2407.14921</a></td>
 </tr>
 </tbody></table>

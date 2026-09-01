@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,41 +1328,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01556.html">pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy</a></div></td>
 <td>Kartheik G. Iyer et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01556">2408.01556</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02334.html">$\textit{Kilonova Seekers}$: the GOTO project for real-time citizen science in time-domain astrophysics</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
-<td>T. L. Killestein et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02334">2406.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11462.html">X-ray Sources Classification Using Machine Learning: A Study with EP-WXT Pathfinder LEIA</a></div></td>
-<td>Xiaoxiong Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11462">2407.11462</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06543.html">DriftGAN: Using historical data for Unsupervised Recurring Drift Detection</a></div></td>
-<td>Christofer Fellicious et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06543">2407.06543</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07229.html">Using Galaxy Evolution as Source of Physics-Based Ground Truth for Generative Models</a></div></td>
-<td>Yun Qi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07229">2407.07229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02533.html">Determining Research Priorities Using Machine Learning</a></div></td>
-<td>Brian Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02533">2407.02533</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19957.html">Neural Network Representations of Multiphase Equations of State</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>George A. Kevrekidis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19957">2406.19957</a></td>
 </tr>
 </tbody></table>

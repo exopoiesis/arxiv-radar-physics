@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>equation-discovery — all</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <a href="equation-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,17 +380,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10023.html">Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE&#x27;s representing nonlinear dynamic systems</a></div></td>
 <td>Ashish Pal et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10023">2410.10023</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07761.html">LLM4ED: Large Language Models for Automatic Equation Discovery</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Mengge Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07761">2405.07761</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13704.html">Discovering governing equation in structural dynamics from acceleration-only measurements</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Calvin Alvares et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13704">2407.13704</a></td>
 </tr>
 </tbody></table>

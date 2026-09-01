@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>topological-insulators — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="topological-insulators-7d.html">7d</a> <a href="topological-insulators-30d.html">30d</a> <a href="topological-insulators-90d.html">90d</a> <a href="topological-insulators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07740.html">Strain-engineering quantum anomalous Hall effect in janus MnBi2SexTe4-x monolayers</a></div></td>
 <td>Jiale Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07740">2409.07740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13152.html">Composable Generation Strategy Framework Enabled Bidirectional Design on Topological Circuits</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13152">2407.13152</a></td>
 </tr>
 </tbody></table>

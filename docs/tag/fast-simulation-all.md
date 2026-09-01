@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>fast-simulation — all</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="fast-simulation-7d.html">7d</a> <a href="fast-simulation-30d.html">30d</a> <a href="fast-simulation-90d.html">90d</a> <a href="fast-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06605.html">Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation</a></div></td>
 <td>Qibin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.06605">2405.06605</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16704.html">Applying generative neural networks for fast simulations of the ALICE (CERN) experiment</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Maksymilian Wojnar</td>
-<td><a href="http://arxiv.org/abs/2407.16704">2407.16704</a></td>
 </tr>
 </tbody></table>

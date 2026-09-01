@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1418,23 +1418,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06085.html">Differentiable programming across the PDE and Machine Learning barrier</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Nacime Bouziani et al.</td>
 <td><a href="http://arxiv.org/abs/2409.06085">2409.06085</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05920.html">LPGD: A General Framework for Backpropagation through Embedded Optimization Layers</a></div></td>
-<td>Anselm Paulus et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05920">2407.05920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04371.html">Exploiting the equivalence between quantum neural networks and perceptrons</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Chris Mingard et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04371">2407.04371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03266.html">Do Quantum Neural Networks have Simplicity Bias?</a></div></td>
-<td>Jessica Pointing</td>
-<td><a href="http://arxiv.org/abs/2407.03266">2407.03266</a></td>
 </tr>
 </tbody></table>

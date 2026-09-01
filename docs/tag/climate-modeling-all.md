@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>climate-modeling — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <a href="climate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11556.html">Understanding Data Movement in Tightly Coupled Heterogeneous Systems: A Case Study with the Grace Hopper Superchip</a></div></td>
 <td>Luigi Fusco et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11556">2408.11556</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05224.html">On the importance of learning non-local dynamics for stable data-driven climate modeling: A 1D gravity wave-QBO testbed</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Hamid A. Pahlavan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05224">2407.05224</a></td>
 </tr>
 </tbody></table>

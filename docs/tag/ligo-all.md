@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ligo — all</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,17 +854,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06491.html">GWSkyNet II : a refined machine learning pipeline for real-time classification of public gravitational wave alerts</a></div></td>
 <td>Man Leong Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06491">2408.06491</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19048.html">Rapid Likelihood Free Inference of Compact Binary Coalescences using Accelerated Hardware</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Deep Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19048">2407.19048</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02334.html">$\textit{Kilonova Seekers}$: the GOTO project for real-time citizen science in time-domain astrophysics</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
-<td>T. L. Killestein et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02334">2406.02334</a></td>
 </tr>
 </tbody></table>

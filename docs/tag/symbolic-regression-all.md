@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1820,11 +1820,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00811.html">Discovery of Green&#x27;s function based on symbolic regression with physical hard constraints</a></div></td>
 <td>Jianghang Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00811">2408.00811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08553.html">Calibrating global behaviour of equation of state by combining nuclear and astrophysics inputs in a machine learning approach</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Sk Md Adil Imam et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08553">2407.08553</a></td>
 </tr>
 </tbody></table>

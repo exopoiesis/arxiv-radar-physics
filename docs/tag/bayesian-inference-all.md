@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">701 papers</span>
+  <span class="paper-count">685 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4124,101 +4124,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00537.html">Bayesian analysis of (3+1)D relativistic nuclear dynamics with the RHIC beam energy scan data</a></div></td>
 <td>Syed Afrid Jahan et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00537">2408.00537</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20297.html">An Assessment of Commonly Used Equivalent Circuit Models for Corrosion Analysis: A Bayesian Approach to Electrochemical Impedance Spectroscopy</a></div></td>
-<td>Runze Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20297">2407.20297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09186.html">Variational Inference via Smoothed Particle Hydrodynamics</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
-<td>Yongchao Huang</td>
-<td><a href="http://arxiv.org/abs/2407.09186">2407.09186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18903.html">Using high-fidelity discrete element simulation to calibrate an expeditious terramechanics model in a multibody dynamics framework</a></div></td>
-<td>Yuemin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18903">2407.18903</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20287.html">Variational Inference Using Material Point Method</a></div></td>
-<td>Yongchao Huang</td>
-<td><a href="http://arxiv.org/abs/2407.20287">2407.20287</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17561.html">Compactness peaks: An astrophysical interpretation of the mass distribution of merging binary black holes</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a></div></td>
-<td>Shanika Galaudage et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17561">2407.17561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16201.html">RadioSED I: Bayesian inference of radio SEDs from inhomogeneous surveys</a></div></td>
-<td>Emily F. Kerrison et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16201">2407.16201</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15501.html">Probing the shape of the primordial curvature power spectrum and the energy scale of reheating with pulsar timing arrays</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Lele Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15501">2407.15501</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11600.html">A two-step surrogate method for sequential uncertainty quantification in high-dimensional inverse problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Ningxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11600">2407.11600</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11173.html">Approximate Bayesian inference for high-resolution spatial disaggregation using alternative data sources</a></div></td>
-<td>Anis Pakrashi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11173">2407.11173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08553.html">Calibrating global behaviour of equation of state by combining nuclear and astrophysics inputs in a machine learning approach</a></div><div class="paper-tags"><a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Sk Md Adil Imam et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08553">2407.08553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06781.html">Inferring the spin distribution of binary black holes using deep learning</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a></div></td>
-<td>Li Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06781">2407.06781</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06789.html">A NICER View of the Nearest and Brightest Millisecond Pulsar: PSR J0437$\unicode{x2013}$4715</a></div></td>
-<td>Devarshi Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06789">2407.06789</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06932.html">NEMESISPY: A Python package for simulating and retrieving exoplanetary spectra</a></div></td>
-<td>Jingxuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06932">2407.06932</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20993.html">Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise</a></div></td>
-<td>Jean Barbier et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20993">2405.20993</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03701.html">Bayesian inference of physics-based models of acoustically-forced laminar premixed conical flames</a></div></td>
-<td>Alessandro Giannotta et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03701">2407.03701</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01949.html">Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering: Methods, Simulation, and Inference</a></div></td>
-<td>Mark Baum et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01949">2407.01949</a></td>
 </tr>
 </tbody></table>

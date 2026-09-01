@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,41 +746,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13568.html">A Divide-and-Conquer Machine Learning Approach for Modelling Turbulent Flows</a></div></td>
 <td>Anthony Man et al.</td>
 <td><a href="http://arxiv.org/abs/2408.13568">2408.13568</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00120.html">Developing a Model-Consistent Reduced-Dimensionality training approach to quantify and reduce epistemic uncertainty in separated flows</a></div></td>
-<td>Minghan Chu</td>
-<td><a href="http://arxiv.org/abs/2408.00120">2408.00120</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20801.html">AhmedML: High-Fidelity Computational Fluid Dynamics Dataset for Incompressible, Low-Speed Bluff Body Aerodynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="les-all.html">les</a></div></td>
-<td>Neil Ashton et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20801">2407.20801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19916.html">Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations</a></div></td>
-<td>Giovanni Catalani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19916">2407.19916</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07710.html">Waste Factor and Waste Figure: A Unified Theory for Modeling and Analyzing Wasted Power in Radio Access Networks for Improved Sustainability</a></div></td>
-<td>Theodore S. Rappaport et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07710">2405.07710</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10615.html">Physics Based &amp; Machine Learning Methods For Uncertainty Estimation In Turbulence Modeling</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="les-all.html">les</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Minghan Chu</td>
-<td><a href="http://arxiv.org/abs/2407.10615">2407.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05197.html">A Generalized Transformer-based Radio Link Failure Prediction Framework in 5G RANs</a></div></td>
-<td>Kazi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05197">2407.05197</a></td>
 </tr>
 </tbody></table>

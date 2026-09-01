@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">308 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,29 +1838,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03872.html">Inter-Series Transformer: Attending to Products in Time Series Forecasting</a></div></td>
 <td>Rares Cristian et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03872">2408.03872</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19187.html">Efficiently improving key weather variables forecasting by performing the guided iterative prediction in latent space</a></div></td>
-<td>Shuangliang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19187">2407.19187</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11696.html">Global atmospheric data assimilation with multi-modal masked autoencoders</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Thomas J. Vandal et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11696">2407.11696</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12168.html">A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Junqi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12168">2407.12168</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14527.html">ArchesWeather: An efficient AI weather forecasting model at 1.5° resolution</a></div></td>
-<td>Guillaume Couairon et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14527">2405.14527</a></td>
 </tr>
 </tbody></table>

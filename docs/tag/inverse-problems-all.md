@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">677 papers</span>
+  <span class="paper-count">665 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4004,77 +4004,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01519.html">Multi-Material Decomposition Using Spectral Diffusion Posterior Sampling</a></div></td>
 <td>Xiao Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01519">2408.01519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20697.html">Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Vincent C. Scholz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20697">2407.20697</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18648.html">Fast and Reliable Probabilistic Reflectometry Inversion with Prior-Amortized Neural Posterior Estimation</a></div></td>
-<td>Vladimir Starostin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18648">2407.18648</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17834.html">Towards the Spectral bias Alleviation by Normalizations in Coordinate Networks</a></div></td>
-<td>Zhicheng Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17834">2407.17834</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17957.html">Neural Networks for Generating Better Local Optima in Topology Optimization</a></div></td>
-<td>Leon Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17957">2407.17957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16866.html">Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds</a></div><div class="paper-tags"><a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
-<td>Ali Feizmohammadi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16866">2407.16866</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15713.html">Inverse problems for coupled nonlocal nonlinear systems arising in mathematical biology</a></div></td>
-<td>Ming-Hui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15713">2407.15713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15092.html">PFWNN: A deep learning method for solving forward and inverse problems of phase-field models</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Gang Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15092">2407.15092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11288.html">Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Yaşar Utku Alçalar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11288">2407.11288</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10836.html">Data-Guided Physics-Informed Neural Networks for Solving Inverse Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Wei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10836">2407.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02414.html">Exploring parameter dependence of atomic minima with implicit differentiation</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Ivan Maliyov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02414">2407.02414</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05477.html">Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Anran Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05477">2407.05477</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02744.html">Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Jiayue Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02744">2407.02744</a></td>
 </tr>
 </tbody></table>

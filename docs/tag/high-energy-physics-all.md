@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>high-energy-physics — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <a href="high-energy-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,17 +434,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05207.html">Low Latency Transformer Inference on FPGAs for Physics Applications with hls4ml</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
 <td>Zhixing Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05207">2409.05207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21290.html">TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics</a></div></td>
-<td>Yash Melkani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21290">2407.21290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06638.html">Particle Multi-Axis Transformer for Jet Tagging</a></div><div class="paper-tags"><a href="jet-tagging-all.html">jet-tagging</a></div></td>
-<td>Muhammad Usman et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06638">2406.06638</a></td>
 </tr>
 </tbody></table>

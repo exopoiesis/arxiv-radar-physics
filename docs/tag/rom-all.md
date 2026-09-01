@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rom — all</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15376.html">ML-ROM Wall Shear Stress Prediction in Patient-Specific Vascular Pathologies under a Limited Clinical Training Data Regime</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
 <td>Chotirawee Chatpattanasiri et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15376">2408.15376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18093.html">Incremental Singular Value Decomposition Based Model Order Reduction of Scale Resolving Fluid Dynamic Simulations</a></div><div class="paper-tags"><a href="les-all.html">les</a></div></td>
-<td>Niklas Kühl</td>
-<td><a href="http://arxiv.org/abs/2407.18093">2407.18093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05438.html">Shear-Layer Perturbation Responses from Time-Resolved Schlieren Data</a></div></td>
-<td>Spencer L. Stahl et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05438">2407.05438</a></td>
 </tr>
 </tbody></table>

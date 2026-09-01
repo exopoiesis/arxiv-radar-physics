@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 20380 papers across 26 months.
+**Total corpus:** 19993 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,22 +16,22 @@
     <li><a href=#astrophysics--cosmology>Astrophysics & Cosmology</a> (50)</li>
     <li><a href=#climate-weather--geophysics>Climate, Weather & Geophysics</a> (50)</li>
     <li><a href=#generative-models--discovery>Generative Models & Discovery</a> (50)</li>
-    <li><a href=#viaauthor-whitelistkoopman-operator-theory>via:author-whitelist:Koopman operator theory</a> (3)</li>
-    <li><a href=#viaauthor-whitelistfourier-neural-operators>via:author-whitelist:Fourier neural operators</a> (37)</li>
-    <li><a href=#viaauthor-whitelistpinns-co-author>via:author-whitelist:PINNs co-author</a> (8)</li>
-    <li><a href=#viaauthor-whitelistpinns-deeponet>via:author-whitelist:PINNs, DeepONet</a> (50)</li>
     <li><a href=#viaauthor-whitelistequivariant-ml-generative-models>via:author-whitelist:equivariant ML, generative models</a> (12)</li>
     <li><a href=#viaauthor-whitelistgeometric-deep-learning>via:author-whitelist:geometric deep learning</a> (15)</li>
     <li><a href=#viaauthor-whitelistsindy-data-driven-dynamics>via:author-whitelist:SINDy, data-driven dynamics</a> (23)</li>
     <li><a href=#viaauthor-whitelistdata-driven-dynamical-systems>via:author-whitelist:data-driven dynamical systems</a> (38)</li>
     <li><a href=#viaauthor-whitelistml-for-climate-dynamical-systems>via:author-whitelist:ML for climate, dynamical systems</a> (18)</li>
+    <li><a href=#viaauthor-whitelistpinns-deeponet>via:author-whitelist:PINNs, DeepONet</a> (50)</li>
+    <li><a href=#viaauthor-whitelistpinns-co-author>via:author-whitelist:PINNs co-author</a> (7)</li>
     <li><a href=#viaauthor-whitelistpinns-bayesian-sciml>via:author-whitelist:PINNs, Bayesian SciML</a> (15)</li>
+    <li><a href=#viaauthor-whitelistfourier-neural-operators>via:author-whitelist:Fourier neural operators</a> (36)</li>
     <li><a href=#viaauthor-whitelistneural-operators>via:author-whitelist:neural operators</a> (11)</li>
     <li><a href=#viaauthor-whiteliste3nn-equivariant-tensor-networks>via:author-whitelist:e3nn, equivariant tensor networks</a> (12)</li>
     <li><a href=#viaauthor-whitelistneural-operators-pde-learning>via:author-whitelist:neural operators, PDE learning</a> (20)</li>
     <li><a href=#viaauthor-whitelistextreme-events-dynamical-systems>via:author-whitelist:extreme events, dynamical systems</a> (5)</li>
     <li><a href=#viaauthor-whitelistneural-operators-multi-scale>via:author-whitelist:neural operators, multi-scale</a> (8)</li>
     <li><a href=#viaauthor-whitelistgraph-networks-for-physics-simulation>via:author-whitelist:graph networks for physics simulation</a> (19)</li>
+    <li><a href=#viaauthor-whitelistkoopman-operator-theory>via:author-whitelist:Koopman operator theory</a> (2)</li>
     <li><a href=#viaauthor-whitelistequivariant-neural-networks>via:author-whitelist:equivariant neural networks</a> (2)</li>
   </ol>
 </details>
@@ -549,132 +549,6 @@
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
-## via:author-whitelist:Koopman operator theory
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-11-07**|**An overview of Koopman-based control: From error bounds to closed-loop guarantees**|Robin Strässer et al.|[2509.02839](http://arxiv.org/abs/2509.02839)|[md](abstracts/2509.02839.md)|
-|**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
-|**2024-07-08**|**Limits and Powers of Koopman Learning**|Matthew J. Colbrook et al.|[2407.06312](http://arxiv.org/abs/2407.06312)|[md](abstracts/2407.06312.md)|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
-## via:author-whitelist:Fourier neural operators
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-03-09**|**Physics-Aware Neural Operators for Direct Inversion in 3D Photoacoustic Tomography**|Jiayun Wang et al.|[2509.09894](http://arxiv.org/abs/2509.09894)|[md](abstracts/2509.09894.md)|
-|**2026-03-05**|**AI+HW 2035: Shaping the Next Decade**|Deming Chen et al.|[2603.05225](http://arxiv.org/abs/2603.05225)|[md](abstracts/2603.05225.md)|
-|**2026-03-03**|**Operator Learning Using Weak Supervision from Walk-on-Spheres**|Hrishikesh Viswanath et al.|[2603.01193](http://arxiv.org/abs/2603.01193)|[md](abstracts/2603.01193.md)|
-|**2026-03-02**|**Decoupled Diffusion Sampling for Inverse Problems on Function Spaces**|Thomas Y. L. Lin et al.|[2601.23280](http://arxiv.org/abs/2601.23280)|[md](abstracts/2601.23280.md)|
-|**2026-03-02**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et al.|[2602.12267](http://arxiv.org/abs/2602.12267)|[md](abstracts/2602.12267.md)|
-|**2026-03-02**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et al.|[2602.12274](http://arxiv.org/abs/2602.12274)|[md](abstracts/2602.12274.md)|
-|**2026-03-01**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et al.|[2505.22973](http://arxiv.org/abs/2505.22973)|[md](abstracts/2505.22973.md)|
-|**2026-02-26**|**TorchLean: Formalizing Neural Networks in Lean**|Robert Joseph George et al.|[2602.22631](http://arxiv.org/abs/2602.22631)|[md](abstracts/2602.22631.md)|
-|**2026-02-23**|**Mechanistic Interpretability with Sparse Autoencoder Neural Operators**|Bahareh Tolooshams et al.|[2509.03738](http://arxiv.org/abs/2509.03738)|[md](abstracts/2509.03738.md)|
-|**2026-02-23**|**Toward the Thermodynamic Limit: Neural Operators for Non-equilibrium Dynamics of Mott Insulators**|Miles Waugh et al.|[2602.19484](http://arxiv.org/abs/2602.19484)|[md](abstracts/2602.19484.md)|
-|**2026-02-04**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et al.|[2505.17004](http://arxiv.org/abs/2505.17004)|[md](abstracts/2505.17004.md)|
-|**2026-02-03**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et al.|[2506.04536](http://arxiv.org/abs/2506.04536)|[md](abstracts/2506.04536.md)|
-|**2026-01-29**|**A Library for Learning Neural Operators**|Jean Kossaifi et al.|[2412.10354](http://arxiv.org/abs/2412.10354)|[md](abstracts/2412.10354.md)|
-|**2026-01-22**|**Fourier Neural Operators Explained: A Practical Perspective**|Valentin Duruisseaux et al.|[2512.01421](http://arxiv.org/abs/2512.01421)|[md](abstracts/2512.01421.md)|
-|**2026-01-07**|**Fourier Neural Operators for Learning Dynamics in Quantum Spin Systems**|Freya Shah et al.|[2409.03302](http://arxiv.org/abs/2409.03302)|[md](abstracts/2409.03302.md)|
-|**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et al.|[2512.12236](http://arxiv.org/abs/2512.12236)|[md](abstracts/2512.12236.md)|
-|**2025-12-01**|**From Black Hole to Galaxy: Neural Operator: Framework for Accretion and Feedback Dynamics**|Nihaal Bhojwani et al.|[2512.01576](http://arxiv.org/abs/2512.01576)|[md](abstracts/2512.01576.md)|
-|**2025-10-20**|**Enabling Automatic Differentiation with Mollified Graph Neural Operators**|Ryan Y. Lin et al.|[2504.08277](http://arxiv.org/abs/2504.08277)|[md](abstracts/2504.08277.md)|
-|**2025-10-03**|**Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows**|Zelin Zhao et al.|[2510.03360](http://arxiv.org/abs/2510.03360)|[md](abstracts/2510.03360.md)|
-|**2025-09-30**|**Domain-Aware Hyperdimensional Computing for Edge Smart Manufacturing**|Fardin Jalil Piran et al.|[2509.26131](http://arxiv.org/abs/2509.26131)|[md](abstracts/2509.26131.md)|
-|**2025-07-30**|**Coarse Graining with Neural Operators for Simulating Chaotic Systems**|Chuwei Wang et al.|[2408.05177](http://arxiv.org/abs/2408.05177)|[md](abstracts/2408.05177.md)|
-|**2025-07-26**|**Geometric Operator Learning with Optimal Transport**|Xinyi Li et al.|[2507.20065](http://arxiv.org/abs/2507.20065)|[md](abstracts/2507.20065.md)|
-|**2025-07-24**|**Scale-Consistent Learning for Partial Differential Equations**|Zongyi Li et al.|[2507.18813](http://arxiv.org/abs/2507.18813)|[md](abstracts/2507.18813.md)|
-|**2025-07-18**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et al.|[2507.12144](http://arxiv.org/abs/2507.12144)|[md](abstracts/2507.12144.md)|
-|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et al.|[2507.03853](http://arxiv.org/abs/2507.03853)|[md](abstracts/2507.03853.md)|
-|**2025-06-24**|**High precision PINNs in unbounded domains: application to singularity formulation in PDEs**|Yixuan Wang et al.|[2506.19243](http://arxiv.org/abs/2506.19243)|[md](abstracts/2506.19243.md)|
-|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et al.|[2506.10973](http://arxiv.org/abs/2506.10973)|[md](abstracts/2506.10973.md)|
-|**2025-05-30**|**TensorGRaD: Tensor Gradient Robust Decomposition for Memory-Efficient Neural Operator Training**|Sebastian Loeschcke et al.|[2501.02379](http://arxiv.org/abs/2501.02379)|[md](abstracts/2501.02379.md)|
-|**2025-05-07**|**HiPerRAG: High-Performance Retrieval Augmented Generation for Scientific Insights**|Ozan Gokdemir et al.|[2505.04846](http://arxiv.org/abs/2505.04846)|[md](abstracts/2505.04846.md)|
-|**2025-04-04**|**A Unified Model for Compressed Sensing MRI Across Undersampling Patterns**|Armeet Singh Jatyani et al.|[2410.16290](http://arxiv.org/abs/2410.16290)|[md](abstracts/2410.16290.md)|
-|**2025-03-20**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et al.|[2503.11031](http://arxiv.org/abs/2503.11031)|[md](abstracts/2503.11031.md)|
-|**2025-01-02**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et al.|[2501.01157](http://arxiv.org/abs/2501.01157)|[md](abstracts/2501.01157.md)|
-|**2024-11-26**|**A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics**|Shengchao Liu et al.|[2401.15122](http://arxiv.org/abs/2401.15122)|[md](abstracts/2401.15122.md)|
-|**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et al.|[2411.09093](http://arxiv.org/abs/2411.09093)|[md](abstracts/2411.09093.md)|
-|**2024-11-01**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et al.|[2403.12553](http://arxiv.org/abs/2403.12553)|[md](abstracts/2403.12553.md)|
-|**2024-09-30**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et al.|[2409.10584](http://arxiv.org/abs/2409.10584)|[md](abstracts/2409.10584.md)|
-|**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et al.|[2407.07873](http://arxiv.org/abs/2407.07873)|[md](abstracts/2407.07873.md)|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
-## via:author-whitelist:PINNs co-author
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu et al.|[2604.12170](http://arxiv.org/abs/2604.12170)|[md](abstracts/2604.12170.md)|
-|**2026-04-01**|**PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics**|Sukirt Thakur et al.|[2601.17192](http://arxiv.org/abs/2601.17192)|[md](abstracts/2601.17192.md)|
-|**2026-01-23**|**Data-Efficient Physics-Informed Learning to Model Synchro-Waveform Dynamics of Grid-Integrated Inverter-Based Resources**|Shivanshu Tripathi et al.|[2601.17154](http://arxiv.org/abs/2601.17154)|[md](abstracts/2601.17154.md)|
-|**2026-01-23**|**NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations**|Maedeh Makki et al.|[2601.17207](http://arxiv.org/abs/2601.17207)|[md](abstracts/2601.17207.md)|
-|**2026-01-20**|**Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion**|R. Sharma et al.|[2506.20537](http://arxiv.org/abs/2506.20537)|[md](abstracts/2506.20537.md)|
-|**2025-04-12**|**ELPINN: Eulerian Lagrangian Physics-Informed Neural Network**|Sukirt Thakur et al.|[2504.09053](http://arxiv.org/abs/2504.09053)|[md](abstracts/2504.09053.md)|
-|**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
-|**2024-07-15**|**Physics-Informed Machine Learning for Smart Additive Manufacturing**|Rahul Sharma et al.|[2407.10761](http://arxiv.org/abs/2407.10761)|[md](abstracts/2407.10761.md)|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
-## via:author-whitelist:PINNs, DeepONet
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-04**|**Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks**|Haizhou Wen et al.|[2605.02871](http://arxiv.org/abs/2605.02871)|[md](abstracts/2605.02871.md)|
-|**2026-05-01**|**Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network**|Elham Kiyani et al.|[2512.13746](http://arxiv.org/abs/2512.13746)|[md](abstracts/2512.13746.md)|
-|**2026-04-18**|**Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles**|Khemraj Shukla et al.|[2604.17156](http://arxiv.org/abs/2604.17156)|[md](abstracts/2604.17156.md)|
-|**2026-04-17**|**Agentic Risk-Aware Set-Based Engineering Design**|Varun Kumar et al.|[2604.16687](http://arxiv.org/abs/2604.16687)|[md](abstracts/2604.16687.md)|
-|**2026-04-12**|**Effect of Turbulence-Closure Consistency on Airfoil Identification**|Zhen Zhang et al.|[2511.08341](http://arxiv.org/abs/2511.08341)|[md](abstracts/2511.08341.md)|
-|**2026-04-06**|**PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods**|Zhen Zhang et al.|[2604.04920](http://arxiv.org/abs/2604.04920)|[md](abstracts/2604.04920.md)|
-|**2026-04-06**|**Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks**|Anas Jnini et al.|[2604.05230](http://arxiv.org/abs/2604.05230)|[md](abstracts/2604.05230.md)|
-|**2026-04-05**|**Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics**|Additi Pandey et al.|[2512.14471](http://arxiv.org/abs/2512.14471)|[md](abstracts/2512.14471.md)|
-|**2026-04-04**|**Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing**|Ramona Rubini et al.|[2509.20349](http://arxiv.org/abs/2509.20349)|[md](abstracts/2509.20349.md)|
-|**2026-04-02**|**Automatic selection of the best neural architecture for time series forecasting**|Qianying Cao et al.|[2501.12215](http://arxiv.org/abs/2501.12215)|[md](abstracts/2501.12215.md)|
-|**2026-02-22**|**Spectral bias in physics-informed and operator learning: Analysis and mitigation guidelines**|Siavash Khodakarami et al.|[2602.19265](http://arxiv.org/abs/2602.19265)|[md](abstracts/2602.19265.md)|
-|**2026-02-15**|**AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning**|Qile Jiang et al.|[2511.07262](http://arxiv.org/abs/2511.07262)|[md](abstracts/2511.07262.md)|
-|**2026-02-13**|**Physics-Informed Laplace Neural Operator for Solving Partial Differential Equations**|Heechang Kim et al.|[2602.12706](http://arxiv.org/abs/2602.12706)|[md](abstracts/2602.12706.md)|
-|**2026-02-08**|**Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks**|Elham Kiyani et al.|[2501.16371](http://arxiv.org/abs/2501.16371)|[md](abstracts/2501.16371.md)|
-|**2026-01-23**|**Deep Neural networks for solving high-dimensional parabolic partial differential equations**|Wenzhong Zhang et al.|[2601.13256](http://arxiv.org/abs/2601.13256)|[md](abstracts/2601.13256.md)|
-|**2025-12-30**|**GIMLET: Generalizable and Interpretable Model Learning through Embedded Thermodynamics**|Suguru Shiratori et al.|[2512.19936](http://arxiv.org/abs/2512.19936)|[md](abstracts/2512.19936.md)|
-|**2025-12-16**|**Hybrid Iterative Solvers with Geometry-Aware Neural Preconditioners for Parametric PDEs**|Youngkyu Lee et al.|[2512.14596](http://arxiv.org/abs/2512.14596)|[md](abstracts/2512.14596.md)|
-|**2025-12-03**|**ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms**|Juan Diego Toscano et al.|[2512.03476](http://arxiv.org/abs/2512.03476)|[md](abstracts/2512.03476.md)|
-|**2025-11-26**|**PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction**|Maximilian Dreisbach et al.|[2411.15949](http://arxiv.org/abs/2411.15949)|[md](abstracts/2411.15949.md)|
-|**2025-11-19**|**Adversarial Physics-Informed Machine Learning for Robust Optimal Safe Predefined-Time Stabilization: A Game-Theoretic Approach**|Nick-Marios T. Kokolakis et al.|[2511.15018](http://arxiv.org/abs/2511.15018)|[md](abstracts/2511.15018.md)|
-|**2025-11-14**|**Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology**|Nazanin Ahmadi Daryakenari et al.|[2504.07379](http://arxiv.org/abs/2504.07379)|[md](abstracts/2504.07379.md)|
-|**2025-11-11**|**A Neural-Operator Preconditioned Newton Method for Accelerated Nonlinear Solvers**|Youngkyu Lee et al.|[2511.08811](http://arxiv.org/abs/2511.08811)|[md](abstracts/2511.08811.md)|
-|**2025-11-10**|**From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning**|Ruyin Wan et al.|[2511.06614](http://arxiv.org/abs/2511.06614)|[md](abstracts/2511.06614.md)|
-|**2025-10-15**|**AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics**|Kamaljyoti Nath et al.|[2510.12999](http://arxiv.org/abs/2510.12999)|[md](abstracts/2510.12999.md)|
-|**2025-10-10**|**A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et al.|[2412.11967](http://arxiv.org/abs/2412.11967)|[md](abstracts/2412.11967.md)|
-|**2025-10-07**|**Turbulence Closure in RANS and Flow Inference around a Cylinder using PINNs and Sparse Experimental Data**|Z. Zhang et al.|[2510.06049](http://arxiv.org/abs/2510.06049)|[md](abstracts/2510.06049.md)|
-|**2025-10-06**|**Physics-Informed Machine Learning in Biomedical Science and Engineering**|Nazanin Ahmadi et al.|[2510.05433](http://arxiv.org/abs/2510.05433)|[md](abstracts/2510.05433.md)|
-|**2025-09-30**|**Importance of localized dilatation and distensibility in identifying determinants of thoracic aortic aneurysm with neural operators**|David S. Li et al.|[2509.26576](http://arxiv.org/abs/2509.26576)|[md](abstracts/2509.26576.md)|
-|**2025-09-25**|**Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications**|Youngkyu Lee et al.|[2406.10997](http://arxiv.org/abs/2406.10997)|[md](abstracts/2406.10997.md)|
-|**2025-09-25**|**A Variational Framework for Residual-Based Adaptivity in Neural PDE Solvers and Operator Learning**|Juan Diego Toscano et al.|[2509.14198](http://arxiv.org/abs/2509.14198)|[md](abstracts/2509.14198.md)|
-|**2025-09-16**|**Learning Nonlinear Responses in PET Bottle Buckling with a Hybrid DeepONet-Transolver Framework**|Varun Kumar et al.|[2509.13520](http://arxiv.org/abs/2509.13520)|[md](abstracts/2509.13520.md)|
-|**2025-09-10**|**Crack Path Prediction with Operator Learning using Discrete Particle System data Generation**|Elham Kiyani et al.|[2506.01976](http://arxiv.org/abs/2506.01976)|[md](abstracts/2506.01976.md)|
-|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et al.|[2509.08752](http://arxiv.org/abs/2509.08752)|[md](abstracts/2509.08752.md)|
-|**2025-07-31**|**Leveraging Operator Learning to Accelerate Convergence of the Preconditioned Conjugate Gradient Method**|Alena Kopaničáková et al.|[2508.00101](http://arxiv.org/abs/2508.00101)|[md](abstracts/2508.00101.md)|
-|**2025-06-30**|**Automatic discovery of optimal meta-solvers for time-dependent nonlinear PDEs**|Youngkyu Lee et al.|[2507.00278](http://arxiv.org/abs/2507.00278)|[md](abstracts/2507.00278.md)|
-|**2025-05-27**|**Fast meta-solvers for 3D complex-shape scatterers using neural operators trained on a non-scattering problem**|Youngkyu Lee et al.|[2405.12380](http://arxiv.org/abs/2405.12380)|[md](abstracts/2405.12380.md)|
-|**2025-05-23**|**Fusion-DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic and Supersonic Flows**|Ahmad Peyvan et al.|[2501.01934](http://arxiv.org/abs/2501.01934)|[md](abstracts/2501.01934.md)|
-|**2025-05-10**|**FMEnets: Flow, Material, and Energy networks for non-ideal plug flow reactor design**|Chenxi Wu et al.|[2505.20300](http://arxiv.org/abs/2505.20300)|[md](abstracts/2505.20300.md)|
-|**2025-04-18**|**Equilibrium Conserving Neural Operators for Super-Resolution Learning**|Vivek Oommen et al.|[2504.13422](http://arxiv.org/abs/2504.13422)|[md](abstracts/2504.13422.md)|
-|**2025-04-14**|**Predicting Crack Nucleation and Propagation in Brittle Materials Using Deep Operator Networks with Diverse Trunk Architectures**|Elham Kiyani et al.|[2501.00016](http://arxiv.org/abs/2501.00016)|[md](abstracts/2501.00016.md)|
-|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et al.|[2503.13695](http://arxiv.org/abs/2503.13695)|[md](abstracts/2503.13695.md)|
-|**2025-03-11**|**XAI4Extremes: An interpretable machine learning framework for understanding extreme-weather precursors under climate change**|Jiawen Wei et al.|[2503.08163](http://arxiv.org/abs/2503.08163)|[md](abstracts/2503.08163.md)|
-|**2025-03-08**|**DeepSeek vs. ChatGPT vs. Claude: A Comparative Study for Scientific Computing and Scientific Machine Learning Tasks**|Qile Jiang et al.|[2502.17764](http://arxiv.org/abs/2502.17764)|[md](abstracts/2502.17764.md)|
-|**2025-03-08**|**Learning and discovering multiple solutions using physics-informed neural networks with random initialization and deep ensemble**|Zongren Zou et al.|[2503.06320](http://arxiv.org/abs/2503.06320)|[md](abstracts/2503.06320.md)|
-|**2025-02-21**|**Connecting the geometry and dynamics of many-body complex systems with message passing neural operators**|Nicholas A. Gabriel et al.|[2502.15913](http://arxiv.org/abs/2502.15913)|[md](abstracts/2502.15913.md)|
-|**2025-02-13**|**Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling**|Vivek Oommen et al.|[2409.08477](http://arxiv.org/abs/2409.08477)|[md](abstracts/2409.08477.md)|
-|**2025-01-27**|**State-space models are accurate and efficient neural operators for dynamical systems**|Zheyuan Hu et al.|[2409.03231](http://arxiv.org/abs/2409.03231)|[md](abstracts/2409.03231.md)|
-|**2025-01-21**|**Scalable Bayesian Physics-Informed Kolmogorov-Arnold Networks**|Zhiwei Gao et al.|[2501.08501](http://arxiv.org/abs/2501.08501)|[md](abstracts/2501.08501.md)|
-|**2025-01-02**|**Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach**|Qian Zhang et al.|[2501.08339](http://arxiv.org/abs/2501.08339)|[md](abstracts/2501.08339.md)|
-|**2024-12-21**|**KKANs: Kurkova-Kolmogorov-Arnold Networks and Their Learning Dynamics**|Juan Diego Toscano et al.|[2412.16738](http://arxiv.org/abs/2412.16738)|[md](abstracts/2412.16738.md)|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
 ## via:author-whitelist:equivariant ML, generative models
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -816,6 +690,77 @@
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
+## via:author-whitelist:PINNs, DeepONet
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-04**|**Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks**|Haizhou Wen et al.|[2605.02871](http://arxiv.org/abs/2605.02871)|[md](abstracts/2605.02871.md)|
+|**2026-05-01**|**Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network**|Elham Kiyani et al.|[2512.13746](http://arxiv.org/abs/2512.13746)|[md](abstracts/2512.13746.md)|
+|**2026-04-18**|**Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles**|Khemraj Shukla et al.|[2604.17156](http://arxiv.org/abs/2604.17156)|[md](abstracts/2604.17156.md)|
+|**2026-04-17**|**Agentic Risk-Aware Set-Based Engineering Design**|Varun Kumar et al.|[2604.16687](http://arxiv.org/abs/2604.16687)|[md](abstracts/2604.16687.md)|
+|**2026-04-12**|**Effect of Turbulence-Closure Consistency on Airfoil Identification**|Zhen Zhang et al.|[2511.08341](http://arxiv.org/abs/2511.08341)|[md](abstracts/2511.08341.md)|
+|**2026-04-06**|**PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods**|Zhen Zhang et al.|[2604.04920](http://arxiv.org/abs/2604.04920)|[md](abstracts/2604.04920.md)|
+|**2026-04-06**|**Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks**|Anas Jnini et al.|[2604.05230](http://arxiv.org/abs/2604.05230)|[md](abstracts/2604.05230.md)|
+|**2026-04-05**|**Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics**|Additi Pandey et al.|[2512.14471](http://arxiv.org/abs/2512.14471)|[md](abstracts/2512.14471.md)|
+|**2026-04-04**|**Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing**|Ramona Rubini et al.|[2509.20349](http://arxiv.org/abs/2509.20349)|[md](abstracts/2509.20349.md)|
+|**2026-04-02**|**Automatic selection of the best neural architecture for time series forecasting**|Qianying Cao et al.|[2501.12215](http://arxiv.org/abs/2501.12215)|[md](abstracts/2501.12215.md)|
+|**2026-02-22**|**Spectral bias in physics-informed and operator learning: Analysis and mitigation guidelines**|Siavash Khodakarami et al.|[2602.19265](http://arxiv.org/abs/2602.19265)|[md](abstracts/2602.19265.md)|
+|**2026-02-15**|**AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning**|Qile Jiang et al.|[2511.07262](http://arxiv.org/abs/2511.07262)|[md](abstracts/2511.07262.md)|
+|**2026-02-13**|**Physics-Informed Laplace Neural Operator for Solving Partial Differential Equations**|Heechang Kim et al.|[2602.12706](http://arxiv.org/abs/2602.12706)|[md](abstracts/2602.12706.md)|
+|**2026-02-08**|**Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks**|Elham Kiyani et al.|[2501.16371](http://arxiv.org/abs/2501.16371)|[md](abstracts/2501.16371.md)|
+|**2026-01-23**|**Deep Neural networks for solving high-dimensional parabolic partial differential equations**|Wenzhong Zhang et al.|[2601.13256](http://arxiv.org/abs/2601.13256)|[md](abstracts/2601.13256.md)|
+|**2025-12-30**|**GIMLET: Generalizable and Interpretable Model Learning through Embedded Thermodynamics**|Suguru Shiratori et al.|[2512.19936](http://arxiv.org/abs/2512.19936)|[md](abstracts/2512.19936.md)|
+|**2025-12-16**|**Hybrid Iterative Solvers with Geometry-Aware Neural Preconditioners for Parametric PDEs**|Youngkyu Lee et al.|[2512.14596](http://arxiv.org/abs/2512.14596)|[md](abstracts/2512.14596.md)|
+|**2025-12-03**|**ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms**|Juan Diego Toscano et al.|[2512.03476](http://arxiv.org/abs/2512.03476)|[md](abstracts/2512.03476.md)|
+|**2025-11-26**|**PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction**|Maximilian Dreisbach et al.|[2411.15949](http://arxiv.org/abs/2411.15949)|[md](abstracts/2411.15949.md)|
+|**2025-11-19**|**Adversarial Physics-Informed Machine Learning for Robust Optimal Safe Predefined-Time Stabilization: A Game-Theoretic Approach**|Nick-Marios T. Kokolakis et al.|[2511.15018](http://arxiv.org/abs/2511.15018)|[md](abstracts/2511.15018.md)|
+|**2025-11-14**|**Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology**|Nazanin Ahmadi Daryakenari et al.|[2504.07379](http://arxiv.org/abs/2504.07379)|[md](abstracts/2504.07379.md)|
+|**2025-11-11**|**A Neural-Operator Preconditioned Newton Method for Accelerated Nonlinear Solvers**|Youngkyu Lee et al.|[2511.08811](http://arxiv.org/abs/2511.08811)|[md](abstracts/2511.08811.md)|
+|**2025-11-10**|**From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning**|Ruyin Wan et al.|[2511.06614](http://arxiv.org/abs/2511.06614)|[md](abstracts/2511.06614.md)|
+|**2025-10-15**|**AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics**|Kamaljyoti Nath et al.|[2510.12999](http://arxiv.org/abs/2510.12999)|[md](abstracts/2510.12999.md)|
+|**2025-10-10**|**A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et al.|[2412.11967](http://arxiv.org/abs/2412.11967)|[md](abstracts/2412.11967.md)|
+|**2025-10-07**|**Turbulence Closure in RANS and Flow Inference around a Cylinder using PINNs and Sparse Experimental Data**|Z. Zhang et al.|[2510.06049](http://arxiv.org/abs/2510.06049)|[md](abstracts/2510.06049.md)|
+|**2025-10-06**|**Physics-Informed Machine Learning in Biomedical Science and Engineering**|Nazanin Ahmadi et al.|[2510.05433](http://arxiv.org/abs/2510.05433)|[md](abstracts/2510.05433.md)|
+|**2025-09-30**|**Importance of localized dilatation and distensibility in identifying determinants of thoracic aortic aneurysm with neural operators**|David S. Li et al.|[2509.26576](http://arxiv.org/abs/2509.26576)|[md](abstracts/2509.26576.md)|
+|**2025-09-25**|**Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications**|Youngkyu Lee et al.|[2406.10997](http://arxiv.org/abs/2406.10997)|[md](abstracts/2406.10997.md)|
+|**2025-09-25**|**A Variational Framework for Residual-Based Adaptivity in Neural PDE Solvers and Operator Learning**|Juan Diego Toscano et al.|[2509.14198](http://arxiv.org/abs/2509.14198)|[md](abstracts/2509.14198.md)|
+|**2025-09-16**|**Learning Nonlinear Responses in PET Bottle Buckling with a Hybrid DeepONet-Transolver Framework**|Varun Kumar et al.|[2509.13520](http://arxiv.org/abs/2509.13520)|[md](abstracts/2509.13520.md)|
+|**2025-09-10**|**Crack Path Prediction with Operator Learning using Discrete Particle System data Generation**|Elham Kiyani et al.|[2506.01976](http://arxiv.org/abs/2506.01976)|[md](abstracts/2506.01976.md)|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et al.|[2509.08752](http://arxiv.org/abs/2509.08752)|[md](abstracts/2509.08752.md)|
+|**2025-07-31**|**Leveraging Operator Learning to Accelerate Convergence of the Preconditioned Conjugate Gradient Method**|Alena Kopaničáková et al.|[2508.00101](http://arxiv.org/abs/2508.00101)|[md](abstracts/2508.00101.md)|
+|**2025-06-30**|**Automatic discovery of optimal meta-solvers for time-dependent nonlinear PDEs**|Youngkyu Lee et al.|[2507.00278](http://arxiv.org/abs/2507.00278)|[md](abstracts/2507.00278.md)|
+|**2025-05-27**|**Fast meta-solvers for 3D complex-shape scatterers using neural operators trained on a non-scattering problem**|Youngkyu Lee et al.|[2405.12380](http://arxiv.org/abs/2405.12380)|[md](abstracts/2405.12380.md)|
+|**2025-05-23**|**Fusion-DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic and Supersonic Flows**|Ahmad Peyvan et al.|[2501.01934](http://arxiv.org/abs/2501.01934)|[md](abstracts/2501.01934.md)|
+|**2025-05-10**|**FMEnets: Flow, Material, and Energy networks for non-ideal plug flow reactor design**|Chenxi Wu et al.|[2505.20300](http://arxiv.org/abs/2505.20300)|[md](abstracts/2505.20300.md)|
+|**2025-04-18**|**Equilibrium Conserving Neural Operators for Super-Resolution Learning**|Vivek Oommen et al.|[2504.13422](http://arxiv.org/abs/2504.13422)|[md](abstracts/2504.13422.md)|
+|**2025-04-14**|**Predicting Crack Nucleation and Propagation in Brittle Materials Using Deep Operator Networks with Diverse Trunk Architectures**|Elham Kiyani et al.|[2501.00016](http://arxiv.org/abs/2501.00016)|[md](abstracts/2501.00016.md)|
+|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et al.|[2503.13695](http://arxiv.org/abs/2503.13695)|[md](abstracts/2503.13695.md)|
+|**2025-03-11**|**XAI4Extremes: An interpretable machine learning framework for understanding extreme-weather precursors under climate change**|Jiawen Wei et al.|[2503.08163](http://arxiv.org/abs/2503.08163)|[md](abstracts/2503.08163.md)|
+|**2025-03-08**|**DeepSeek vs. ChatGPT vs. Claude: A Comparative Study for Scientific Computing and Scientific Machine Learning Tasks**|Qile Jiang et al.|[2502.17764](http://arxiv.org/abs/2502.17764)|[md](abstracts/2502.17764.md)|
+|**2025-03-08**|**Learning and discovering multiple solutions using physics-informed neural networks with random initialization and deep ensemble**|Zongren Zou et al.|[2503.06320](http://arxiv.org/abs/2503.06320)|[md](abstracts/2503.06320.md)|
+|**2025-02-21**|**Connecting the geometry and dynamics of many-body complex systems with message passing neural operators**|Nicholas A. Gabriel et al.|[2502.15913](http://arxiv.org/abs/2502.15913)|[md](abstracts/2502.15913.md)|
+|**2025-02-13**|**Integrating Neural Operators with Diffusion Models Improves Spectral Representation in Turbulence Modeling**|Vivek Oommen et al.|[2409.08477](http://arxiv.org/abs/2409.08477)|[md](abstracts/2409.08477.md)|
+|**2025-01-27**|**State-space models are accurate and efficient neural operators for dynamical systems**|Zheyuan Hu et al.|[2409.03231](http://arxiv.org/abs/2409.03231)|[md](abstracts/2409.03231.md)|
+|**2025-01-21**|**Scalable Bayesian Physics-Informed Kolmogorov-Arnold Networks**|Zhiwei Gao et al.|[2501.08501](http://arxiv.org/abs/2501.08501)|[md](abstracts/2501.08501.md)|
+|**2025-01-02**|**Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach**|Qian Zhang et al.|[2501.08339](http://arxiv.org/abs/2501.08339)|[md](abstracts/2501.08339.md)|
+|**2024-12-21**|**KKANs: Kurkova-Kolmogorov-Arnold Networks and Their Learning Dynamics**|Juan Diego Toscano et al.|[2412.16738](http://arxiv.org/abs/2412.16738)|[md](abstracts/2412.16738.md)|
+
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+
+## via:author-whitelist:PINNs co-author
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu et al.|[2604.12170](http://arxiv.org/abs/2604.12170)|[md](abstracts/2604.12170.md)|
+|**2026-04-01**|**PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics**|Sukirt Thakur et al.|[2601.17192](http://arxiv.org/abs/2601.17192)|[md](abstracts/2601.17192.md)|
+|**2026-01-23**|**Data-Efficient Physics-Informed Learning to Model Synchro-Waveform Dynamics of Grid-Integrated Inverter-Based Resources**|Shivanshu Tripathi et al.|[2601.17154](http://arxiv.org/abs/2601.17154)|[md](abstracts/2601.17154.md)|
+|**2026-01-23**|**NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations**|Maedeh Makki et al.|[2601.17207](http://arxiv.org/abs/2601.17207)|[md](abstracts/2601.17207.md)|
+|**2026-01-20**|**Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion**|R. Sharma et al.|[2506.20537](http://arxiv.org/abs/2506.20537)|[md](abstracts/2506.20537.md)|
+|**2025-04-12**|**ELPINN: Eulerian Lagrangian Physics-Informed Neural Network**|Sukirt Thakur et al.|[2504.09053](http://arxiv.org/abs/2504.09053)|[md](abstracts/2504.09053.md)|
+|**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
+
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+
 ## via:author-whitelist:PINNs, Bayesian SciML
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -835,6 +780,49 @@
 |**2024-10-15**|**Score Neural Operator: A Generative Model for Learning and Generalizing Across Multiple Probability Distributions**|Xinyu Liao et al.|[2410.08549](http://arxiv.org/abs/2410.08549)|[md](abstracts/2410.08549.md)|
 |**2024-09-23**|**Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials**|Sifan Wang et al.|[2410.05281](http://arxiv.org/abs/2410.05281)|[md](abstracts/2410.05281.md)|
 |**2024-08-29**|**Physics-Informed Neural Networks and Extensions**|Maziar Raissi et al.|[2408.16806](http://arxiv.org/abs/2408.16806)|[md](abstracts/2408.16806.md)|
+
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+
+## via:author-whitelist:Fourier neural operators
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-03-09**|**Physics-Aware Neural Operators for Direct Inversion in 3D Photoacoustic Tomography**|Jiayun Wang et al.|[2509.09894](http://arxiv.org/abs/2509.09894)|[md](abstracts/2509.09894.md)|
+|**2026-03-05**|**AI+HW 2035: Shaping the Next Decade**|Deming Chen et al.|[2603.05225](http://arxiv.org/abs/2603.05225)|[md](abstracts/2603.05225.md)|
+|**2026-03-03**|**Operator Learning Using Weak Supervision from Walk-on-Spheres**|Hrishikesh Viswanath et al.|[2603.01193](http://arxiv.org/abs/2603.01193)|[md](abstracts/2603.01193.md)|
+|**2026-03-02**|**Decoupled Diffusion Sampling for Inverse Problems on Function Spaces**|Thomas Y. L. Lin et al.|[2601.23280](http://arxiv.org/abs/2601.23280)|[md](abstracts/2601.23280.md)|
+|**2026-03-02**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et al.|[2602.12267](http://arxiv.org/abs/2602.12267)|[md](abstracts/2602.12267.md)|
+|**2026-03-02**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et al.|[2602.12274](http://arxiv.org/abs/2602.12274)|[md](abstracts/2602.12274.md)|
+|**2026-03-01**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et al.|[2505.22973](http://arxiv.org/abs/2505.22973)|[md](abstracts/2505.22973.md)|
+|**2026-02-26**|**TorchLean: Formalizing Neural Networks in Lean**|Robert Joseph George et al.|[2602.22631](http://arxiv.org/abs/2602.22631)|[md](abstracts/2602.22631.md)|
+|**2026-02-23**|**Mechanistic Interpretability with Sparse Autoencoder Neural Operators**|Bahareh Tolooshams et al.|[2509.03738](http://arxiv.org/abs/2509.03738)|[md](abstracts/2509.03738.md)|
+|**2026-02-23**|**Toward the Thermodynamic Limit: Neural Operators for Non-equilibrium Dynamics of Mott Insulators**|Miles Waugh et al.|[2602.19484](http://arxiv.org/abs/2602.19484)|[md](abstracts/2602.19484.md)|
+|**2026-02-04**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et al.|[2505.17004](http://arxiv.org/abs/2505.17004)|[md](abstracts/2505.17004.md)|
+|**2026-02-03**|**NOBLE -- Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models**|Luca Ghafourpour et al.|[2506.04536](http://arxiv.org/abs/2506.04536)|[md](abstracts/2506.04536.md)|
+|**2026-01-29**|**A Library for Learning Neural Operators**|Jean Kossaifi et al.|[2412.10354](http://arxiv.org/abs/2412.10354)|[md](abstracts/2412.10354.md)|
+|**2026-01-22**|**Fourier Neural Operators Explained: A Practical Perspective**|Valentin Duruisseaux et al.|[2512.01421](http://arxiv.org/abs/2512.01421)|[md](abstracts/2512.01421.md)|
+|**2026-01-07**|**Fourier Neural Operators for Learning Dynamics in Quantum Spin Systems**|Freya Shah et al.|[2409.03302](http://arxiv.org/abs/2409.03302)|[md](abstracts/2409.03302.md)|
+|**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et al.|[2512.12236](http://arxiv.org/abs/2512.12236)|[md](abstracts/2512.12236.md)|
+|**2025-12-01**|**From Black Hole to Galaxy: Neural Operator: Framework for Accretion and Feedback Dynamics**|Nihaal Bhojwani et al.|[2512.01576](http://arxiv.org/abs/2512.01576)|[md](abstracts/2512.01576.md)|
+|**2025-10-20**|**Enabling Automatic Differentiation with Mollified Graph Neural Operators**|Ryan Y. Lin et al.|[2504.08277](http://arxiv.org/abs/2504.08277)|[md](abstracts/2504.08277.md)|
+|**2025-10-03**|**Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows**|Zelin Zhao et al.|[2510.03360](http://arxiv.org/abs/2510.03360)|[md](abstracts/2510.03360.md)|
+|**2025-09-30**|**Domain-Aware Hyperdimensional Computing for Edge Smart Manufacturing**|Fardin Jalil Piran et al.|[2509.26131](http://arxiv.org/abs/2509.26131)|[md](abstracts/2509.26131.md)|
+|**2025-07-30**|**Coarse Graining with Neural Operators for Simulating Chaotic Systems**|Chuwei Wang et al.|[2408.05177](http://arxiv.org/abs/2408.05177)|[md](abstracts/2408.05177.md)|
+|**2025-07-26**|**Geometric Operator Learning with Optimal Transport**|Xinyi Li et al.|[2507.20065](http://arxiv.org/abs/2507.20065)|[md](abstracts/2507.20065.md)|
+|**2025-07-24**|**Scale-Consistent Learning for Partial Differential Equations**|Zongyi Li et al.|[2507.18813](http://arxiv.org/abs/2507.18813)|[md](abstracts/2507.18813.md)|
+|**2025-07-18**|**FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale**|Boris Bonev et al.|[2507.12144](http://arxiv.org/abs/2507.12144)|[md](abstracts/2507.12144.md)|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et al.|[2507.03853](http://arxiv.org/abs/2507.03853)|[md](abstracts/2507.03853.md)|
+|**2025-06-24**|**High precision PINNs in unbounded domains: application to singularity formulation in PDEs**|Yixuan Wang et al.|[2506.19243](http://arxiv.org/abs/2506.19243)|[md](abstracts/2506.19243.md)|
+|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et al.|[2506.10973](http://arxiv.org/abs/2506.10973)|[md](abstracts/2506.10973.md)|
+|**2025-05-30**|**TensorGRaD: Tensor Gradient Robust Decomposition for Memory-Efficient Neural Operator Training**|Sebastian Loeschcke et al.|[2501.02379](http://arxiv.org/abs/2501.02379)|[md](abstracts/2501.02379.md)|
+|**2025-05-07**|**HiPerRAG: High-Performance Retrieval Augmented Generation for Scientific Insights**|Ozan Gokdemir et al.|[2505.04846](http://arxiv.org/abs/2505.04846)|[md](abstracts/2505.04846.md)|
+|**2025-04-04**|**A Unified Model for Compressed Sensing MRI Across Undersampling Patterns**|Armeet Singh Jatyani et al.|[2410.16290](http://arxiv.org/abs/2410.16290)|[md](abstracts/2410.16290.md)|
+|**2025-03-20**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et al.|[2503.11031](http://arxiv.org/abs/2503.11031)|[md](abstracts/2503.11031.md)|
+|**2025-01-02**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et al.|[2501.01157](http://arxiv.org/abs/2501.01157)|[md](abstracts/2501.01157.md)|
+|**2024-11-26**|**A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics**|Shengchao Liu et al.|[2401.15122](http://arxiv.org/abs/2401.15122)|[md](abstracts/2401.15122.md)|
+|**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et al.|[2411.09093](http://arxiv.org/abs/2411.09093)|[md](abstracts/2411.09093.md)|
+|**2024-11-01**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et al.|[2403.12553](http://arxiv.org/abs/2403.12553)|[md](abstracts/2403.12553.md)|
+|**2024-09-30**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et al.|[2409.10584](http://arxiv.org/abs/2409.10584)|[md](abstracts/2409.10584.md)|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
@@ -952,6 +940,15 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1) The Strong Lensing Discovery Engine B -- Early strong lens candidates from visual inspection of high velocity dispersion galaxies**|Euclid Collaboration et al.|[2503.15325](http://arxiv.org/abs/2503.15325)|[md](abstracts/2503.15325.md)|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine D -- Double-source-plane lens candidates**|Euclid Collaboration et al.|[2503.15327](http://arxiv.org/abs/2503.15327)|[md](abstracts/2503.15327.md)|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine E -- Ensemble classification of strong gravitational lenses: lessons for Data Release 1**|Euclid Collaboration et al.|[2503.15328](http://arxiv.org/abs/2503.15328)|[md](abstracts/2503.15328.md)|
+
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+
+## via:author-whitelist:Koopman operator theory
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-11-07**|**An overview of Koopman-based control: From error bounds to closed-loop guarantees**|Robin Strässer et al.|[2509.02839](http://arxiv.org/abs/2509.02839)|[md](abstracts/2509.02839.md)|
+|**2025-10-16**|**Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families**|Masih Haseli et al.|[2510.15166](http://arxiv.org/abs/2510.15166)|[md](abstracts/2510.15166.md)|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 

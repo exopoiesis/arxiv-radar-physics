@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tensor-networks — all</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,23 +584,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05011.html">Survey on Computational Applications of Tensor Network Simulations</a></div></td>
 <td>Marcos Díez García et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05011">2408.05011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11327.html">Accurate Numerical Simulations of Open Quantum Systems Using Spectral Tensor Trains</a></div></td>
-<td>Ryan T. Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11327">2407.11327</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11133.html">Discrete generative diffusion models without stochastic differential equations: a tensor network approach</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Luke Causer et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11133">2407.11133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07735.html">Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare</a></div></td>
-<td>Amandeep Singh Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07735">2405.07735</a></td>
 </tr>
 </tbody></table>

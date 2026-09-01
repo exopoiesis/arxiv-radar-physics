@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qaoa — all</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="qaoa-7d.html">7d</a> <a href="qaoa-30d.html">30d</a> <a href="qaoa-90d.html">90d</a> <a href="qaoa-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,29 +320,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04751.html">Sequential Hamiltonian Assembly: Enhancing the training of combinatorial optimization problems on quantum computers</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="vqe-all.html">vqe</a></div></td>
 <td>Navid Roshani et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04751">2408.04751</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19857.html">PO-QA: A Framework for Portfolio Optimization using Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="vqe-all.html">vqe</a></div></td>
-<td>Kamila Zaman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19857">2407.19857</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14490.html">Red-QAOA: Efficient Variational Optimization through Circuit Reduction</a></div></td>
-<td>Meng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14490">2407.14490</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17248.html">MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a> · <a href="vqe-all.html">vqe</a></div></td>
-<td>Xusheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17248">2406.17248</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07250.html">BHT-QAOA: Generalizing Quantum Approximate Optimization Algorithm to Solve Arbitrary Boolean Problems as Hamiltonians</a></div></td>
-<td>Ali Al-Bayaty et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07250">2407.07250</a></td>
 </tr>
 </tbody></table>

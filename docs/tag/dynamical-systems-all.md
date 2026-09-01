@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1148 papers</span>
+  <span class="paper-count">1133 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6812,95 +6812,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01736.html">Can LLMs predict the convergence of Stochastic Gradient Descent?</a></div></td>
 <td>Oussama Zekri et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01736">2408.01736</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11939.html">AI-Driven Physics-Informed Bio-Silicon Intelligence System: Integrating Hybrid Systems, Biocomputing, Neural Networks, and Machine Learning, for Advanced Neurotechnology</a></div></td>
-<td>Vincent Jorgsson et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11939">2407.11939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21602.html">Higher order quantum reservoir computing for non-intrusive reduced-order models</a></div></td>
-<td>Vinamr Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21602">2407.21602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18831.html">Learning the Chaotic and Regular Nature of Trajectories in Hamiltonian Systems with Lagrangian descriptors</a></div></td>
-<td>Javier Jiménez López et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18831">2407.18831</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18320.html">Solving physics-based initial value problems with unsupervised machine learning</a></div></td>
-<td>Jack Griffiths et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18320">2407.18320</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17213.html">Spectrum-Informed Multistage Neural Networks: Multiscale Function Approximators of Machine Precision</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Jakin Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17213">2407.17213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16542.html">Data-driven Koopman operator predictions of turbulent dynamics in models of shear flows</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
-<td>C. Ricardo Constante-Amores et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16542">2407.16542</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15471.html">Convergence of the Iterates for Momentum and RMSProp for Local Smooth Functions: Adaptation is the Key</a></div></td>
-<td>Bilel Bensaid et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15471">2407.15471</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14951.html">Dynamical analysis of a parameter-aware reservoir computer</a></div></td>
-<td>Dishant Sisodia et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14951">2407.14951</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13704.html">Discovering governing equation in structural dynamics from acceleration-only measurements</a></div><div class="paper-tags"><a href="equation-discovery-all.html">equation-discovery</a></div></td>
-<td>Calvin Alvares et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13704">2407.13704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12419.html">Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions</a></div></td>
-<td>Christian Nauck et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12419">2407.12419</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11158.html">Physics-embedded Fourier Neural Network for Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Qingsong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11158">2407.11158</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06312.html">Limits and Powers of Koopman Learning</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>Matthew J. Colbrook et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06312">2407.06312</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06418.html">System stabilization with policy optimization on unstable latent manifolds</a></div></td>
-<td>Steffen W. R. Werner et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06418">2407.06418</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03085.html">Accelerated Inference for Partially Observed Markov Processes using Automatic Differentiation</a></div></td>
-<td>Kevin Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03085">2407.03085</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02175.html">Interaction spaces: towards a universal mathematical theory of complex systems</a></div></td>
-<td>Paolo Giordano</td>
-<td><a href="http://arxiv.org/abs/2407.02175">2407.02175</a></td>
 </tr>
 </tbody></table>

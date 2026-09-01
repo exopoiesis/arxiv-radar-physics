@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">339 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2024,29 +2024,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08897.html">A Workflow for Utilizing OpenFOAM Data Structure in Physics-Informed Deep Learning Training</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
 <td>Yijin Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08897">2408.08897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20717.html">Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="scientific-discovery-all.html">scientific-discovery</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Yi Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20717">2407.20717</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20801.html">AhmedML: High-Fidelity Computational Fluid Dynamics Dataset for Incompressible, Low-Speed Bluff Body Aerodynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="les-all.html">les</a> · <a href="rans-all.html">rans</a></div></td>
-<td>Neil Ashton et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20801">2407.20801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10615.html">Physics Based &amp; Machine Learning Methods For Uncertainty Estimation In Turbulence Modeling</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="les-all.html">les</a> · <a href="rans-all.html">rans</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Minghan Chu</td>
-<td><a href="http://arxiv.org/abs/2407.10615">2407.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05580.html">$\mathrm{E^{2}CFD}$: Towards Effective and Efficient Cost Function Design for Safe Reinforcement Learning via Large Language Model</a></div></td>
-<td>Zepeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05580">2407.05580</a></td>
 </tr>
 </tbody></table>

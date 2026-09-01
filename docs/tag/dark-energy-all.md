@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,29 +1190,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12965.html">The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
 <td>Davide Piras et al.</td>
 <td><a href="http://arxiv.org/abs/2405.12965">2405.12965</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19297.html">Stellar Blend Image Classification Using Computationally Efficient Gaussian Processes</a></div></td>
-<td>Chinedu Eleh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19297">2407.19297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20285.html">Can we learn from matter creation to solve the $H_{0}$ tension problem?</a></div></td>
-<td>Emilio Elizalde et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20285">2407.20285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03393.html">Corvus A: A low-mass, isolated galaxy at 3.5 Mpc</a></div></td>
-<td>Michael G. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03393">2407.03393</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17292.html">Population-level Dark Energy Constraints from Strong Gravitational Lensing using Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
-<td>Sreevani Jarugula et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17292">2407.17292</a></td>
 </tr>
 </tbody></table>

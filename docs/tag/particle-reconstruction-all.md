@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-reconstruction — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="particle-reconstruction-7d.html">7d</a> <a href="particle-reconstruction-30d.html">30d</a> <a href="particle-reconstruction-90d.html">90d</a> <a href="particle-reconstruction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00181.html">MAIA: A new detector concept for a 10 TeV muon collider</a></div></td>
 <td>Charles Bell et al.</td>
 <td><a href="http://arxiv.org/abs/2502.00181">2502.00181</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18231.html">Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel, Hardware-Agnostic Pattern Recognition Algorithm</a></div></td>
-<td>Emmanouil Vourliotis et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18231">2407.18231</a></td>
 </tr>
 </tbody></table>

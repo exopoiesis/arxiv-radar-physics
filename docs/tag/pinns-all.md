@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1016 papers</span>
+  <span class="paper-count">1002 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6026,89 +6026,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11045.html">Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov Arnold Networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Yizheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.11045">2406.11045</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00084.html">Approximating Rayleigh Scattering in Exoplanetary Atmospheres using Physics-informed Neural Networks (PINNs)</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>David Dahlbüdding et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00084">2408.00084</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20741.html">Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Mohan Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20741">2407.20741</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20833.html">Approximating electromagnetic fields in discontinuous media using a single physics-informed neural network</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Michel Nohra et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20833">2407.20833</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19421.html">Improved physics-informed neural network in mitigating gradient related failures</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Pancheng Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19421">2407.19421</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12598.html">Estimate Epidemiological Parameters given Partial Observations based on Algebraically Observable PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Mizuka Komatsu</td>
-<td><a href="http://arxiv.org/abs/2407.12598">2407.12598</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10836.html">Data-Guided Physics-Informed Neural Networks for Solving Inverse Problems in Partial Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Wei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10836">2407.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06287.html">VS-PINN: A fast and efficient training of physics-informed neural networks using variable-scaling methods for solving PDEs with stiff behavior</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Seungchan Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06287">2406.06287</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08222.html">PINN-Ray: A Physics-Informed Neural Network to Model Soft Robotic Fin Ray Fingers</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Xing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08222">2407.08222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07358.html">SGM-PINN: Sampling Graphical Models for Faster Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>John Anticev et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07358">2407.07358</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07375.html">Stable Weight Updating: A Key to Reliable PDE Solutions Using Deep Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>A. Noorizadegan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07375">2407.07375</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07873.html">Dynamical Measure Transport and Neural PDE Solvers for Sampling</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Jingtong Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07873">2407.07873</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03292.html">Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Zhe Min et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03292">2407.03292</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19074.html">Parsimonious Universal Function Approximator for Elastic and Elasto-Plastic Cavity Expansion Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Xiao-Xuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19074">2407.19074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01088.html">Physics-Informed Holomorphic Neural Networks (PIHNNs): Solving Linear Elasticity Problems</a></div></td>
-<td>Matteo Calafà et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01088">2407.01088</a></td>
 </tr>
 </tbody></table>

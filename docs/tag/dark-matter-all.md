@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">353 papers</span>
+  <span class="paper-count">350 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2114,23 +2114,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00839.html">Inpainting Galaxy Counts onto N-Body Simulations over Multiple Cosmologies and Astrophysics</a></div></td>
 <td>Antoine Bourdin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00839">2408.00839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18909.html">Hybrid summary statistics: neural weak lensing inference beyond the power spectrum</a></div></td>
-<td>T. Lucas Makinen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18909">2407.18909</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13735.html">Predicting dark matter halo masses from simulated galaxy images and environments</a></div><div class="paper-tags"><a href="cosmological-simulations-all.html">cosmological-simulations</a></div></td>
-<td>Austin J. Larson et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13735">2407.13735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15850.html">Deep learning insights into non-universality in the halo mass function</a></div></td>
-<td>Ningyuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15850">2405.15850</a></td>
 </tr>
 </tbody></table>

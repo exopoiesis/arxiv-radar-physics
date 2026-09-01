@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qml — all</h1>
-  <span class="paper-count">346 papers</span>
+  <span class="paper-count">334 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2018,77 +2018,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02314.html">Quantum Clustering for Cybersecurity</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
 <td>Walid El Maouaki et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02314">2408.02314</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20147.html">Quantum Machine Learning Architecture Search via Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Xin Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20147">2407.20147</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16273.html">Backdoor Attacks against Hybrid Classical-Quantum Neural Networks</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Ji Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16273">2407.16273</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15776.html">In Search of Quantum Advantage: Estimating the Number of Shots in Quantum Kernel Methods</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Artur Miroszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15776">2407.15776</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14687.html">Quantum Data Breach: Reusing Training Dataset by Untrusted Quantum Clouds</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Suryansh Upadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14687">2407.14687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13533.html">VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Yanling Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13533">2407.13533</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12618.html">A Brief Review of Quantum Machine Learning for Financial Services</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Mina Doosti et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12618">2407.12618</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07237.html">The Quantum Imitation Game: Reverse Engineering of Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Archisman Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07237">2407.07237</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08617.html">Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Chu-Hsuan Abraham Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08617">2407.08617</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07294.html">Analyzing Machine Learning Performance in a Hybrid Quantum Computing and HPC Environment</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Samuel T. Bieberich et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07294">2407.07294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06416.html">Hybrid Classical-Quantum architecture for vectorised image classification of hand-written sketches</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Y. Cordero et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06416">2407.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01001.html">Flood Prediction Using Classical and Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Marek Grzesiak et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01001">2407.01001</a></td>
 </tr>
 </tbody></table>

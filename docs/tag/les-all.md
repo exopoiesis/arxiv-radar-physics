@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>les — all</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <a href="les-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,23 +596,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18359.html">Toward ultra-efficient high-fidelity prediction of bed morphodynamics of large-scale meandering rivers using a novel LES-trained machine learning approach</a></div></td>
 <td>Zexia Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18359">2407.18359</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20801.html">AhmedML: High-Fidelity Computational Fluid Dynamics Dataset for Incompressible, Low-Speed Bluff Body Aerodynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="rans-all.html">rans</a></div></td>
-<td>Neil Ashton et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20801">2407.20801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18093.html">Incremental Singular Value Decomposition Based Model Order Reduction of Scale Resolving Fluid Dynamic Simulations</a></div><div class="paper-tags"><a href="rom-all.html">rom</a></div></td>
-<td>Niklas Kühl</td>
-<td><a href="http://arxiv.org/abs/2407.18093">2407.18093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10615.html">Physics Based &amp; Machine Learning Methods For Uncertainty Estimation In Turbulence Modeling</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="rans-all.html">rans</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Minghan Chu</td>
-<td><a href="http://arxiv.org/abs/2407.10615">2407.10615</a></td>
 </tr>
 </tbody></table>

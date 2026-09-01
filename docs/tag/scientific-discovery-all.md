@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">735 papers</span>
+  <span class="paper-count">724 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4358,71 +4358,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15260.html">Artificial Data, Real Insights: Evaluating Opportunities and Risks of Expanding the Data Ecosystem with Synthetic Data</a></div></td>
 <td>Richard Timpone et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15260">2408.15260</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20717.html">Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Yi Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20717">2407.20717</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16083.html">Self-driving lab discovers principles for steering spontaneous emission</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>
-<td>Saaketh Desai et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16083">2407.16083</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13364.html">Geometric Active Exploration in Markov Decision Processes: the Benefit of Abstraction</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13364">2407.13364</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10362.html">LAB-Bench: Measuring Capabilities of Language Models for Biology Research</a></div></td>
-<td>Jon M. Laurent et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10362">2407.10362</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08619.html">ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation</a></div></td>
-<td>Dimitris Gkoumas</td>
-<td><a href="http://arxiv.org/abs/2405.08619">2405.08619</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08940.html">Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation</a></div></td>
-<td>Biqing Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08940">2407.08940</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08919.html">Redefinition of Digital Twin and its Situation Awareness Framework Designing Towards Fourth Paradigm for Energy Internet of Things</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08919">2407.08919</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08922.html">Leveraging large language models for nano synthesis mechanism explanation: solid foundations or mere conjectures?</a></div></td>
-<td>Yingming Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08922">2407.08922</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09274.html">Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX</a></div></td>
-<td>Zhiyuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09274">2407.09274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03428.html">NEBULA: Neural Empirical Bayes Under Latent Representations for Efficient and Controllable Design of Molecular Libraries</a></div></td>
-<td>Ewa M. Nowara et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03428">2407.03428</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01791.html">μ-Bench: A Vision-Language Benchmark for Microscopy Understanding</a></div></td>
-<td>Alejandro Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01791">2407.01791</a></td>
 </tr>
 </tbody></table>

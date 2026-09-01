@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">238 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1424,23 +1424,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18352.html">HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
 <td>Zane Fink et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18352">2407.18352</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11390.html">Unfolding Time: Generative Modeling for Turbulent Flows in 4D</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Abdullah Saydemir et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11390">2406.11390</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09757.html">Uncertainty Quantification in Reduced-Order Gas-Phase Atmospheric Chemistry Modeling using Ensemble SINDy</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Lin Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09757">2407.09757</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09312.html">Agnostic Active Learning of Single Index Models with Linear Sample Complexity</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Aarshvi Gajjar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09312">2405.09312</a></td>
 </tr>
 </tbody></table>

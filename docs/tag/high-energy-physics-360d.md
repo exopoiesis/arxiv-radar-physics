@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>high-energy-physics — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <strong>360d</strong> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05792.html">TPCpp-10M: Simulated proton-proton collisions in a Time Projection Chamber for AI Foundation Models</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Shuhang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05792">2509.05792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14578.html">Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
-<td>Laura Boggia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14578">2506.14578</a></td>
 </tr>
 </tbody></table>

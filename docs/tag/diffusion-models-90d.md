@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,23 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05328.html">The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show</a></div></td>
 <td>Parsa Esmati et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05328">2606.05328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03848.html">Generating quantum ensembles via reverse-time quantum diffusions</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
-<td>Maël Bompais et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03848">2606.03848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04076.html">SkySense: A Semi-Supervised Generative Framework for UAV Localization in ISAC Networks</a></div></td>
-<td>Shenghan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04076">2606.04076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14732.html">Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion</a></div></td>
-<td>Matiur Rahman Minar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14732">2606.14732</a></td>
 </tr>
 </tbody></table>

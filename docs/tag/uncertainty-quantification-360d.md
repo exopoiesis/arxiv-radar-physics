@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">541 papers</span>
+  <span class="paper-count">538 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3242,23 +3242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06231.html">Learning Rarefied Gas Dynamics with Physics-Enforced Neural Networks</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Ehsan Roohi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06231">2509.06231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04735.html">Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization</a></div></td>
-<td>Dharsan Ravindran et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04735">2509.04735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05001.html">Synthetic Acceleration Preconditioners for Parametric Radiative Transfer Equations based on Trajectory-Aware Reduced Order Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Ning Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05001">2509.05001</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22667.html">A Comparison of Surrogate Constitutive Models for Viscoplastic Creep Simulation of HT-9 Steel</a></div></td>
-<td>Pieterjan Robbe et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22667">2509.22667</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25084.html">The Frame Kernel Method for Multiscale Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Branden Frieden et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25084">2608.25084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23546.html">Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
-<td>Xiaoyang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23546">2608.23546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Shubham Rai</td>
-<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
 </tr>
 </tbody></table>

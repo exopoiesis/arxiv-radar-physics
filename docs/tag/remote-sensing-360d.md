@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">543 papers</span>
+  <span class="paper-count">541 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3260,17 +3260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05630.html">Self-supervised Learning for Hyperspectral Images of Trees</a></div></td>
 <td>Moqsadur Rahman et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05630">2509.05630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13120.html">RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images</a></div></td>
-<td>Xiaozheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13120">2507.13120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04729.html">CD-Mamba: Cloud detection with long-range spatial dependency modeling</a></div></td>
-<td>Tianxiang Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04729">2509.04729</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06617.html">Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Jiuyang Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06617">2606.06617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div></td>
-<td>Joanna Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
 </tr>
 </tbody></table>

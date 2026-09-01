@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">807 papers</span>
+  <span class="paper-count">806 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4850,11 +4850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05186.html">Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Benjamin J. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05186">2509.05186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23002.html">Deep asymptotic expansion method for solving singularly perturbed time-dependent reaction-advection-diffusion equations</a></div></td>
-<td>Qiao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23002">2505.23002</a></td>
 </tr>
 </tbody></table>

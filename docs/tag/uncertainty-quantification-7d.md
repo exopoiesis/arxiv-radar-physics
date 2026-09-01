@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Julie Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="particle-physics-7d.html">particle-physics</a></div></td>
-<td>Wyatt A. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Xingxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -1196,17 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06056.html">A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Chun Wang</td>
 <td><a href="http://arxiv.org/abs/2509.06056">2509.06056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05787.html">Vector-based loss functions for turbulent flow field inpainting</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Samuel J. Baker et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05787">2509.05787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21329.html">Down-scale marine hydrodynamic analysis at the Norwegian coast -- the NORA-SARAH open framework</a></div></td>
-<td>Widar Weizhi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21329">2509.21329</a></td>
 </tr>
 </tbody></table>

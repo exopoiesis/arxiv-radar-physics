@@ -3,82 +3,82 @@
   count: 41
   total: 1378
   group: dynamical-systems
+- name: physics-informed-neural-networks
+  count: 38
+  total: 1045
+  group: scientific-machine-learning
 - name: uncertainty-quantification
-  count: 39
+  count: 38
   total: 872
   group: generative-models
-- name: physics-informed-neural-networks
-  count: 36
-  total: 1043
+- name: pinns
+  count: 35
+  total: 1004
   group: scientific-machine-learning
 - name: dynamical-systems
   count: 33
   total: 1133
   group: dynamical-systems
-- name: pinns
-  count: 33
-  total: 1002
-  group: scientific-machine-learning
 - name: remote-sensing
   count: 29
   total: 1014
   group: climate
 - name: scientific-discovery
-  count: 27
+  count: 26
   total: 724
   group: generative-models
 - name: bayesian-inference
-  count: 26
+  count: 25
   total: 685
   group: generative-models
 - name: inverse-problems
-  count: 26
+  count: 25
   total: 665
   group: generative-models
 - name: neural-operators
-  count: 24
-  total: 589
+  count: 25
+  total: 590
+  group: scientific-machine-learning
+- name: scientific-machine-learning
+  count: 20
+  total: 322
+  group: scientific-machine-learning
+- name: operator-learning
+  count: 19
+  total: 417
   group: scientific-machine-learning
 - name: diffusion-models
-  count: 19
+  count: 18
   total: 975
   group: generative-models
+- name: materials-discovery
+  count: 18
+  total: 381
+  group: materials-science
 - name: quantum-machine-learning
-  count: 19
+  count: 17
   total: 903
   group: quantum-physics
-- name: scientific-machine-learning
-  count: 19
-  total: 321
-  group: scientific-machine-learning
-- name: materials-discovery
-  count: 17
-  total: 380
-  group: materials-science
-- name: operator-learning
-  count: 17
-  total: 415
-  group: scientific-machine-learning
+- name: cfd
+  count: 15
+  total: 336
+  group: fluid-dynamics
+- name: symbolic-regression
+  count: 15
+  total: 302
+  group: generative-models
 - name: anomaly-detection
   count: 14
   total: 514
   group: particle
-- name: cfd
-  count: 14
-  total: 335
-  group: fluid-dynamics
 - name: deeponet
   count: 14
-  total: 251
+  total: 252
   group: scientific-machine-learning
 - name: inductive-bias
-  count: 14
+  count: 13
   total: 234
   group: scientific-machine-learning
-- name: symbolic-regression
-  count: 14
-  total: 301
-  group: generative-models
 - name: data-assimilation
   count: 10
   total: 247
@@ -91,14 +91,6 @@
   count: 9
   total: 279
   group: materials-science
-- name: cosmology
-  count: 8
-  total: 323
-  group: astrophysics
-- name: machine-learning-interatomic-potentials
-  count: 8
-  total: 235
-  group: materials-science
 - name: particle-physics
   count: 8
   total: 187
@@ -107,9 +99,17 @@
   count: 8
   total: 334
   group: quantum-physics
+- name: cosmology
+  count: 7
+  total: 323
+  group: astrophysics
 - name: electronic-structure
   count: 7
   total: 192
+  group: materials-science
+- name: machine-learning-interatomic-potentials
+  count: 7
+  total: 235
   group: materials-science
 - name: black-holes
   count: 6

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Xingxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00544.html">GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
+<td>Mohammad Kian Golkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00544">2609.00544</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Andrew M. Stuart et al.</td>
@@ -380,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06164.html">On the training of physics-informed neural operators for solving parametric partial differential equations</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Nanxi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06164">2606.06164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04420.html">Loss-Conditional PINNs for Parametric PDE Families</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Anna Lazareva et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04420">2606.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05248.html">Inverse Manipulation through Symbolic Planning and Residual Operator Learning</a></div></td>
-<td>Yigit Yildirim et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05248">2606.05248</a></td>
 </tr>
 </tbody></table>

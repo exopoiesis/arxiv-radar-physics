@@ -1,0 +1,212 @@
+{
+ "2609.00507": {
+  "abstract": "Accurate prediction of unsteady separated flows is challenging because the aerodynamic loads depend on nonlinear separation and vortex-shedding dynamics. Although high-fidelity CFD resolves these mechanisms, its cost limits repeated use in design and control. Standard field-level surrogate training, however, does not distinguish the flow regions that contribute most strongly to the aerodynamic loads. We introduce VATO (Vortex-Force-Aware Transformer Operator), which couples the Vortex Force Map (VFM) method to a geometry-aware neural operator through two complementary mechanisms. VATO-S adds training-only supervision of the local VFM force-contribution field, with no increase in model size or inference cost. VATO-A uses VFM contribution and sensitivity fields to prioritise force-relevant source locations for residual cross attention. The methods are evaluated on unsteady CFD data for double-edged-plate aerofoils over 54 trajectories from nine geometries. Over lead times of 1-20~ms, VATO-S reduces velocity, pressure, and vorticity errors by 10.4\\%, 1.0\\%, and 15.6\\%, respectively, while VATO-A achieves reductions of 15.8\\%, 7.5\\%, and 31.2\\%. VATO-S gives the lowest VFM-derived drag error, whereas VATO-A gives the lowest pressure-derived lift and drag errors. Over lead times extending 50\\% beyond the training range, VATO-A retains a 26.9\\% reduction in vorticity error and larger improvements in all four force readouts, despite reduced gains in velocity and pressure. These results show that force-aware operator learning can improve both flow-field prediction and aerodynamic functional accuracy in unsteady separated flows.",
+  "authors": [
+   "Xingxin Yang",
+   "Zhan Zhang",
+   "Yichen Li",
+   "Juan Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Xingxin Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.00507",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "cfd",
+   "operator-learning"
+  ],
+  "title": "VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00530": {
+  "abstract": "Recovering compact explicit solutions from neural approximations is challenging when imperfect teacher data guide symbolic topology search and coefficient estimation. We present DeSyR, a decoupled symbolic recovery framework for differential equations. A physics-informed neural network guides repeated searches to construct candidate topologies with provisional constants. Once a topology is fixed, its coefficients are refined solely from the governing equation and prescribed constraints, followed by gated selection and verification. For linear fixed-topology parameterizations, we characterize teacher-error inheritance and show that finite-weight mixed data--physics fitting retains an $O(β^{-1})$ teacher-dependent contribution when the teacher error projects onto the model space. Under well-posedness, representability, zero-residual attainment, and discrete determinacy, physics-only refinement conditionally recovers exact coefficients; for nonlinear parameterizations, the corresponding guarantees are local. DeSyR is evaluated on 15 differential-equation problems across 18 configurations covering high-order, space--time, multidimensional, nonlinear, and coupled systems. A candidate-level audit yields a 99.23% convergence rate among free-parameter refits, while every selected refinement involving free coefficients converges. Configuration-level median refined relative $L_2$ errors are $2.31\\times10^{-14}$ or lower. In same-topology comparisons, refinement reduces error by eight to fourteen orders of magnitude. These results show that an approximate neural teacher can guide topology discovery without imposing its error scale on final recovered coefficients, provided a target-capable topology is retained and physics-only refinement converges.",
+  "authors": [
+   "Pancheng Niu",
+   "Jun Guo",
+   "Qiaolin He",
+   "Jingcai Guo",
+   "Yanchao Shi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "87 pages, 21 figures",
+  "first_author": "Pancheng Niu",
+  "pdf_url": "http://arxiv.org/pdf/2609.00530",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "DeSyR: A Decoupled Symbolic Recovery Framework with PINN-Guided Structure Search and Physics-Informed Coefficient Refinement",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00544": {
+  "abstract": "High-resolution precipitation nowcasting is critical for reducing the impacts of severe weather but remains difficult because of rapid storm evolution. Deep learning models have shown great promise for this task, but their predictive skill often deteriorates over longer forecast horizons. This leads to increasingly blurry forecasts that fail to capture the complex, non-linear evolution of storm systems. In order to address these limitations, we introduce Spatio-Temporal U-DeepONet (GenONet), a novel architecture for long-range precipitation forecasting up to 3 hours, specifically designed to produce sharp and physically consistent results. GenONet's architecture pioneers the use of a Deep Operator Network (DeepONet) as a generator within a Generative Adversarial Network (GAN) framework for this task. The DeepONet learns the continuous-time dynamics of precipitation, ensuring stability over long forecast horizons. Adversial training against a spatio-temporal discriminator compels the model to produce sharp, coherent forecasts, while a physics-informed loss regularizer, derived from the Moisture Conservation Equation, improves physical plausibility in our ablation setting. Quantitative evaluations show that our model achieves consistently higher scores on most of the metrics, especially for highintensity events and at longer lead times. Qualitatively, GenONet produces structurally coherent forecasts that maintain their integrity, whereas baseline models degrade into indistinct patterns. Finally, an ablation study confirms the benefit of this physics-informed loss, highlighting the strength of combining operator learning with adversarial training.",
+  "authors": [
+   "Mohammad Kian Golkar",
+   "Luciano Alves de Oliveira",
+   "Mohammad Khanjani"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "28 pages, 11 Figures",
+  "first_author": "Mohammad Kian Golkar",
+  "pdf_url": "http://arxiv.org/pdf/2609.00544",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "deeponet",
+   "operator-learning"
+  ],
+  "title": "GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00883": {
+  "abstract": "Phase retrieval in broadband coherent anti-Stokes Raman spectroscopy (BCARS) is an ill-posed inverse problem. The Raman-like signal is encoded in the imaginary part of the resonant susceptibility, which mixes coherently with a non-resonant background (NRB) that varies across acquisitions. We introduce an inverse physics-informed neural network (iPINN) that predicts Lorentzian peak parameters from raw BCARS spectra and reconstructs the resonant susceptibility through a differentiable analytical forward model. A transformer encoder assigns spectral features to 24 learnable peak slots, and a multi-view consistency loss enforces invariance across NRB pattern, NRB strength, and noise. Unlike direct spectral regression approaches, the method retains accuracy under varying acquisition conditions. On a public benchmark, iPINN achieves the lowest error among the tested baselines (MAE 0.016 vs. next-best 0.046). On 28 zero-shot test spectra acquired across seven solvents and four focal positions, accuracy is depth-invariant in five of seven solvents. These results show that inverse parametric prediction with a differentiable physical decoder supports robust phase retrieval across measurement conditions.",
+  "authors": [
+   "Ravi Teja Vulchi",
+   "Carl Messerschmidt",
+   "Mohammadsadegh Vafaeinezhad",
+   "Rajendhar Junjuri",
+   "Tobias Meyer-Zedler",
+   "Juergen Popp",
+   "Thomas Bocklitz"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "Ravi Teja Vulchi",
+  "pdf_url": "http://arxiv.org/pdf/2609.00883",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "iPINN for Broadband CARS Phase Retrieval: A Framework for Function Approximation and Inverse Modeling Problems in Nonlinear Spectroscopy",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00900": {
+  "abstract": "Crystalline materials discovery is essential for energy, electronics, and catalysis, but the vast chemical and structural space makes exhaustive screening infeasible. Existing voxel-based methods are limited by the local receptive fields of three-dimensional convolutional neural networks and the posterior collapse of high-dimensional variational autoencoders. Here, we develop a Fourier Neural Operator (FNO)-based crystal-field solver that maps a prescribed chemical formula and lattice parameters to periodic number-density and electron-density fields. By operating on global Fourier modes, the solver captures long-range correlations in periodic crystal fields beyond conventional local convolutions. Building on this solver, we construct a coupled generation-solving framework in which a conditional variational autoencoder generates diverse candidate lattice parameters in a low-dimensional basis-coefficient space, followed by density-field prediction and atomic reconstruction through peak detection, position optimization, and weight optimization. The reconstructed structures are further screened using voxel-level filtering, machine-learning interatomic-potential relaxation, and first-principle calculations. The framework generates novel structures across 104 chemical formulas with competitive reconstruction accuracy, demonstrating high generative diversity and structural validity. By extending Fourier neural operators to periodic crystal fields and coupling them with composition-conditioned lattice generation, our approach provides a scalable route to crystal structure discovery from prescribed chemical compositions.",
+  "authors": [
+   "Zhijie Yu",
+   "Jingyu Li",
+   "Yang Huang",
+   "Jingrun Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "21 pages, 18 figures",
+  "first_author": "Zhijie Yu",
+  "pdf_url": "http://arxiv.org/pdf/2609.00900",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "materials-discovery",
+   "neural-operators"
+  ],
+  "title": "Fourier Neural Operators for Composition-Driven Crystal Structure Discovery",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01102": {
+  "abstract": "Symbolic Regression (SR) seeks to find succinct mathematical expressions that represent the fundamental relationships within data, providing interpretability and scientific understanding that exceeds that of black-box models. Nevertheless, traditional methods like Genetic Programming face challenges with scalability and are highly sensitive to noise, while sparse regression techniques such as SINDy rely significantly on predetermined feature libraries. In this work, we present a Neural Symbolic Regression (NSR) framework that treats neural networks as functional preconditioners for symbolic discovery. Our approach uses a decoupled pipeline: a neural network first learns a smooth, noise-robust approximation of the target function in an interaction- aware nonlinear feature space. LASSO is then applied to extract sparse, interpretable closed-form expressions. To improve predictive accuracy and symbolic fidelity by integrating distributed hyperparameter optimization with Ray Tune and ASHA scheduling. Experiments on the Nguyen benchmark suite show that our approach consistently outperforms SINDy and non-tuned neural baselines in RMSE, noise robustness, and out-of-distribution generalization. Ablation studies confirm the significance of feature interactions, neural depth, and tuning strategies. In general, this study presents a scalable and understandable neural-symbolic framework, creating a solid link between neural approximation and the discovery of sparse equations for scientific machine learning.",
+  "authors": [
+   "Ravi Kumar U",
+   "Sumitra S"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.NE",
+   "cs.SC"
+  ],
+  "comment": "11 pages, 5 tables, 5 figures, contains detailed mathematics behind the algorithm",
+  "first_author": "Ravi Kumar U",
+  "pdf_url": "http://arxiv.org/pdf/2609.01102",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "scientific-machine-learning",
+   "symbolic-regression"
+  ],
+  "title": "Neural Symbollic Regression Using Deep Learning and Sparse Modelling",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01417": {
+  "abstract": "The research explores the pioneering integration of Physics-Informed Neural Networks (PINNs) into the domain of Ground-Penetrating Radar (GPR) data prediction. This research presents a detailed development framework for a specialized PINN model, proficient at interpreting and forecasting GPR data, much like how medical imaging models predict tumor behavior. By harnessing the synergy between deep learning algorithms and the physical laws governing subsurface structures or in medical terms, human tissues the model effectively embeds the physics of electromagnetic wave propagation into its architecture. This ensures that predictions not only align with fundamental physical principles but also mirror the precision needed in medical diagnostics for detecting and monitoring tumors. The suggested deep learning structure comprises three components: a CNN, a spatial feature channel attention (SFCA) mechanism, and ConvLSTM, along with temporal feature frame attention (TFFA) modules. The attention mechanism computes channel attention and temporal attention weights using self-adaptation, thereby fine tuning the visual and temporal feature responses to extract the most pertinent and significant visual and temporal features. By integrating physics directly into the neural network, our model has shown enhanced accuracy in forecasting GPR data. This improvement is vital for conducting effective assessments of bridge deck conditions and other evaluations related to civil infrastructure. The use of Physics Informed Neural Networks (PINNs) has demonstrated the potential to transform the field of Non-Destructive Evaluation (NDE) by enhancing the precision of infrastructure deterioration predictions. Moreover, it offers a deeper insight into the fundamental mechanisms of deterioration, viewed through the prism of physics-based models.",
+  "authors": [
+   "Mehrdad Shafiei Dizaji",
+   "Hoda Azari"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "30, 20",
+  "first_author": "Mehrdad Shafiei Dizaji",
+  "pdf_url": "http://arxiv.org/pdf/2609.01417",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01558": {
+  "abstract": "Training Physics-Informed Neural Networks (PINNs) requires jointly optimizing physics residual and initial/boundary condition loss terms, which often induce conflicting gradients. Gradient surgery methods mitigate this issue by constructing directions from loss-specific gradients to reduce conflict before optimizer transformation. However, even when the constructed direction is conflict-free, this property may not be preserved after optimizer transformation. Let $a_t$ denote the direction constructed by gradient surgery, $u_t$ the optimizer proposal, and $\\mathcal{C}_t$ the conflict-free cone induced by the loss-specific gradients. We show that modern optimizers can transform $a_t$ through mechanisms such as historical state, adaptive scaling, preconditioning, or decoupled weight decay, so $a_t \\in \\mathcal{C}_t$ does not generally imply $u_t \\in \\mathcal{C}_t$. We refer to this optimizer-induced discrepancy in conflict-freeness between $a_t$ and $u_t$ as Gradient-Update Mismatch (GUM). Accordingly, we propose Gradient-Update Alignment (GUA), which projects $u_t$ onto $\\mathcal{C}_t$ to obtain the aligned update $p_t$ and applies $p_t$ to the parameters. When the optimizer maintains internal state, GUA further adjusts this state toward targets reconstructed from the applied update. We conduct extensive experiments and find that GUM is widespread across momentum, adaptive, and curvature-based optimizers, with conflict rates reaching up to 86.3%. Across all PINN settings, GUA achieves conflict-free applied updates and consistently improves various gradient surgery methods, reducing the relative $L_2$ error by up to 98.2% in individual settings. Data and code are available at https://github.com/JingXiao10/GUA.",
+  "authors": [
+   "Jing Xiao",
+   "Xinhai Chen",
+   "Qinglin Wang",
+   "Menghan Jia",
+   "Zhiquan Lai",
+   "Dongsheng Li",
+   "Jie Liu",
+   "Tiejun Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jing Xiao",
+  "pdf_url": "http://arxiv.org/pdf/2609.01558",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ }
+}

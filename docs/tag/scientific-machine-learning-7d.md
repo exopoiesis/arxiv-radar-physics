@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01102.html">Neural Symbollic Regression Using Deep Learning and Sparse Modelling</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Ravi Kumar U et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01102">2609.01102</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Yuehao Song et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Andrew M. Stuart et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24205.html">Robust training and rigorous error analysis of physics-informed neural networks for the $p$-Laplace equation</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Kyueon Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24205">2608.24205</a></td>
 </tr>
 </tbody></table>

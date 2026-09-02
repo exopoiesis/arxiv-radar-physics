@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01417.html">Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Mehrdad Shafiei Dizaji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01417">2609.01417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01558.html">Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Jing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01558">2609.01558</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
@@ -812,23 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06314.html">DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Anshima Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06314">2606.06314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04420.html">Loss-Conditional PINNs for Parametric PDE Families</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Anna Lazareva et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04420">2606.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04679.html">Hybrid quantum-classical physics-informed neural networks for solving nonlinear PDEs: when and where hybridization is effective?</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Kaveh Zabihi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04679">2606.04679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04736.html">Curvature-aware dynamic precision approach for physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Yingjie Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04736">2606.04736</a></td>
 </tr>
 </tbody></table>

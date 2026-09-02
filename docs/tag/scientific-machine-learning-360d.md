@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01102.html">Neural Symbollic Regression Using Deep Learning and Sparse Modelling</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Ravi Kumar U et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01102">2609.01102</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Yuehao Song et al.</td>
@@ -1364,11 +1370,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15946.html">Sigma Flows for Image and Data Labeling and Learning Structured Prediction</a></div></td>
 <td>Jonas Cassel et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15946">2408.15946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05787.html">Vector-based loss functions for turbulent flow field inpainting</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Samuel J. Baker et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05787">2509.05787</a></td>
 </tr>
 </tbody></table>

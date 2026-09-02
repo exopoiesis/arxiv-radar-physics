@@ -5,15 +5,63 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-09-01._
+_Updated 2026-09-02._
 
-**19993** physics-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**20001** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Xingxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00530.html">DeSyR: A Decoupled Symbolic Recovery Framework with PINN-Guided Structure Search and Physics-Informed Coefficient Refinement</a></div></td>
+<td>Pancheng Niu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00530">2609.00530</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00544.html">GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting</a></div><div class="paper-tags"><a href="tag/deeponet-30d.html">deeponet</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Mohammad Kian Golkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00544">2609.00544</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00883.html">iPINN for Broadband CARS Phase Retrieval: A Framework for Function Approximation and Inverse Modeling Problems in Nonlinear Spectroscopy</a></div></td>
+<td>Ravi Teja Vulchi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00883">2609.00883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
+<td>Zhijie Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00900">2609.00900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01102.html">Neural Symbollic Regression Using Deep Learning and Sparse Modelling</a></div><div class="paper-tags"><a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Ravi Kumar U et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01102">2609.01102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01417.html">Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Mehrdad Shafiei Dizaji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01417">2609.01417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01558.html">Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Jing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01558">2609.01558</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26489.html">Learning Woody Clearing With Loss Alignment for Zero-Shot Regrowth and Woody Segmentation</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
@@ -145,53 +193,5 @@ _Updated 2026-09-01._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27182.html">TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a> · <a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Tommaso Bendinelli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27182">2608.27182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/operator-learning-30d.html">operator-learning</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Andrew M. Stuart et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Xiaoxiao Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27259">2608.27259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27277.html">Benchmarking of Fast and Interpretable UF Machine Learning Potentials</a></div><div class="paper-tags"><a href="tag/machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Pawan Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27277">2608.27277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27290.html">Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Francesca Razzano et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27290">2608.27290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27306.html">Accelerating Optical Photon Simulation in DUNE with Opticks</a></div></td>
-<td>Ilker Parmaksiz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27306">2608.27306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Mingcan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27378.html">How well can Diffusion Models learn Lagrangian-Tracer Statistics in Non-reciprocal Turbulence?</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Pratyush Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27378">2608.27378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27399.html">Krylov Break Times from an Inhomogeneous Lieb--Robinson Light Cone</a></div><div class="paper-tags"><a href="tag/hamiltonian-learning-30d.html">hamiltonian-learning</a></div></td>
-<td>Shunji Matsuura et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27399">2608.27399</a></td>
 </tr>
 </tbody></table>

@@ -16,21 +16,21 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
+<td>Xingxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00544.html">GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a></div></td>
+<td>Mohammad Kian Golkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00544">2609.00544</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Andrew M. Stuart et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24426.html">Sequential operator learning under dependent data</a></div></td>
-<td>Rafael Oliveira</td>
-<td><a href="http://arxiv.org/abs/2608.24426">2608.24426</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25084.html">The Frame Kernel Method for Multiscale Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Branden Frieden et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25084">2608.25084</a></td>
 </tr>
 </tbody></table>

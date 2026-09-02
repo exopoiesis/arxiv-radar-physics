@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01102.html">Neural Symbollic Regression Using Deep Learning and Sparse Modelling</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Ravi Kumar U et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01102">2609.01102</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26276.html">$\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Manvi Chauhan et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07704.html">FunctionEvolve: Structure-Guided Symbolic Regression with LLMs</a></div></td>
 <td>Zeyu Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07704">2606.07704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04360.html">Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs</a></div></td>
-<td>Xinyu Pang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04360">2606.04360</a></td>
 </tr>
 </tbody></table>

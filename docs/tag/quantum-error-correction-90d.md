@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <strong>90d</strong> <a href="quantum-error-correction-360d.html">360d</a> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07666.html">Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems</a></div><div class="paper-tags"><a href="vqe-90d.html">vqe</a></div></td>
 <td>Sumit Chongder</td>
 <td><a href="http://arxiv.org/abs/2606.07666">2606.07666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04312.html">Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters</a></div></td>
-<td>Mahsa Karimi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04312">2606.04312</a></td>
 </tr>
 </tbody></table>

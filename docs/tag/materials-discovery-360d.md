@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Zhijie Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00900">2609.00900</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div></td>
 <td>Shuo Tao et al.</td>
@@ -1550,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16893.html">Crystal structure prediction with host-guided inpainting generation and foundation potentials</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16893">2504.16893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
 </tr>
 </tbody></table>

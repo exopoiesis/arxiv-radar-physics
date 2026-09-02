@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,17 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06378.html">On the Possibility of a Strong First-Order Phase Transition in Neutron Stars</a></div></td>
 <td>Zheng Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06378">2606.06378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04324.html">Neural Galerkin Normalizing Flows for Bayesian Inference of Diffusions with Inaccessible Boundaries</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Riccardo Saporiti et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04324">2606.04324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04352.html">Negative and Fractional Types in the Fidelity Framework</a></div></td>
-<td>Houston Haynes</td>
-<td><a href="http://arxiv.org/abs/2606.04352">2606.04352</a></td>
 </tr>
 </tbody></table>

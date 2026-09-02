@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">434 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2618,11 +2618,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07280.html">Learning Generalized Hamiltonian Dynamics with Stability from Noisy Trajectory Data</a></div></td>
 <td>Luke McLennan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07280">2509.07280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05551.html">Uncertainty-Aware Neural Networks for Fuzzy Dark Matter Model Selection from \texorpdfstring{$x_{\rm HI}$}{x_HI} Measurements</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Bahareh Soleimanpour Salmasi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05551">2509.05551</a></td>
 </tr>
 </tbody></table>

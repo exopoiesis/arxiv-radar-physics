@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">538 papers</span>
+  <span class="paper-count">537 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div></td>
+<td>Yunqin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01896">2609.01896</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -3230,17 +3236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06534.html">Parameter Robustness in Data-Driven Estimation of Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Ayush Pandey</td>
 <td><a href="http://arxiv.org/abs/2509.06534">2509.06534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00581.html">Conformalized Tensor Completion with Riemannian Optimization</a></div></td>
-<td>Hu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00581">2405.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06231.html">Learning Rarefied Gas Dynamics with Physics-Enforced Neural Networks</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ehsan Roohi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06231">2509.06231</a></td>
 </tr>
 </tbody></table>

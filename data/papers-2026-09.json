@@ -75,6 +75,140 @@
   ],
   "updated": "2026-09-01"
  },
+ "2609.00635": {
+  "abstract": "Standard rheological measurements yield only selected stress components; thus, inferring tensorial constitutive equations from experimentally accessible observables is complicated. We propose a constitutive formulation written in terms of a deviatoric stress tensor, whose trace is zero, rather than the extra stress tensor. From rheometric data including shear stress, first and second normal stress differences under shear, and elongational stress under uniaxial elongation, we can construct a deviatoric stress state without the indeterminate isotropic stress. The deviatoric-stress dynamics is represented by a closure inferred through symbolic regression, constrained to satisfy material objectivity and a given linear Maxwell response. To demonstrate the proposed formulation, two closures inferred from stress responses of the Giesekus and Larson models successfully captured untrained transient-flow responses under planar elongation and mixed shear/uniaxial elongations at deformation rates around an inverse relaxation time. Steady rheological functions of the closures agreed with the original models in the linear-response regime and over a deformation-rate range connected to the training data, whereas deviations and divergent responses appeared at larger deformation rates outside the training regime. These results demonstrate that the proposed deviatoric-stress formulation provides a practical route for constitutive modeling of observable linear and nonlinear viscoelastic dynamics, while clarifying its range of validity under strong deformation.",
+  "authors": [
+   "Souta Miyamoto",
+   "Shotaro Moro",
+   "Takeshi Sato",
+   "Shota Kato",
+   "Katsuaki Tanabe",
+   "John J. Molina",
+   "Takashi Taniguchi"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Souta Miyamoto",
+  "pdf_url": "http://arxiv.org/pdf/2609.00635",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-01",
+  "tags": [
+   "symbolic-regression"
+  ],
+  "title": "A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00679": {
+  "abstract": "Reconstructing oscillatory wave fields from scattered sensors is a severely underdetermined inverse problem. Beyond the challenges of general physical-field reconstruction, wave responses are complex-valued, frequency-sensitive, and highly oscillatory, while costly simulation and sensing often leave only extreme-sparse observations. Existing low-rank, operator, and diffusion approaches are largely designed for real-valued, smoother fields; dense pixel-space diffusion is particularly inefficient for oscillatory complex fields and difficult to scale to 3D. We propose HarmoCore, which places a generative prior in a compact, continuous, and structured wave-field latent. HarmoCore represents joint real--imaginary channels with Functional Tucker cores over shared continuous spatial bases, learns a frequency-conditioned core diffusion prior, and performs Diffusion Posterior Sampling directly in core space. At fixed sensor coordinates, the multilinear decoder induces an explicit likelihood guidance operator, avoiding dense pixel-space correction. Optional target-equation residual guidance further promotes physical consistency. Experiments on 2D Helmholtz, 2D synthetic wave fields, and 3D Helmholtz show substantial gains under 1%--2% sensing while remaining practical in three dimensions.",
+  "authors": [
+   "Lihao Chen",
+   "Xinyu Zhang",
+   "Panqi Chen",
+   "Lei Cheng",
+   "Ting Zhang",
+   "Jianlong Li",
+   "Shikai Fang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": "15pages, 8figures",
+  "first_author": "Lihao Chen",
+  "pdf_url": "http://arxiv.org/pdf/2609.00679",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "HarmoCore: Functional Latent Diffusion for Sparse Reconstruction of Oscillatory Wave Fields",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00731": {
+  "abstract": "Recent advances in LLM agents enable a new paradigm for asset pricing, which we call Agentic Empirical Asset Pricing (AEAP): systems that autonomously conduct the scientific discovery process itself. We define AEAP and identify its core building blocks. Existing evaluation practices backtest only the outputs (factors or trades), not the autonomous discovery system that produced them. We focus on factor discovery, contributing a reference architecture, a rigorous evaluation standard for discovered factors, and a method for out-of-sample backtesting the discovery system. As a concrete instance of that architecture, we evaluate SEADS against five re-implemented baselines on two US equity panels using this standard: no single metric ranks the systems consistently, motivating evaluation on multiple axes at once. A separate rolling re-execution then asks the complementary question of whether the discovery process itself, not one static output, is reliable. We also report negative findings and limitations that surface further evaluation pitfalls for future AEAP systems.",
+  "authors": [
+   "Yingjian Pan",
+   "Xiaowei Ding",
+   "Kay Giesecke"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG",
+   "q-fin.ST"
+  ],
+  "comment": "26 pages, 5 figures, 12 tables",
+  "first_author": "Yingjian Pan",
+  "pdf_url": "http://arxiv.org/pdf/2609.00731",
+  "primary_category": "cs.AI",
+  "published": "2026-09-01",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Agentic Empirical Asset Pricing: Methodological Foundations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00766": {
+  "abstract": "Bayesian inference plays a central role in the new field of gravitational-wave astronomy. However, traditional Bayesian inference with stochastic samplers is computationally expensive, taking hours to days per event. Transformative changes are therefore required to enable the science of next-generation observatories whose event rates and signal-to-noise ratios will increase significantly over the current generation. Recent work has shown that neural posterior estimation (NPE) is a promising path forward. A neural net is trained to approximate the posterior distribution of gravitational-wave parameters, allowing generation of posterior samples in a fraction of the time required by stochastic samplers. In this work, we introduce $\\texttt{BilbyFlow}$, which harnesses the power of NPE in the popular $\\texttt{Bilby}$ code suite. We use $\\texttt{BilbyFlow}$ to analyze a subset of 38 high-mass events from the third LIGO-Virgo-KAGRA Gravitational-Wave Transient Catalog (GWTC-3). For 29 events (76\\%), we obtained an importance-sampling efficiency $>$1%, allowing us to produce reliable posterior distributions within 3 min - 1.5 hours. For the other events, with importance-sampling efficiency $\\ll$1%, the run time can be as long as 35 hours. We achieve a median importance-sampling efficiency of 7%, which is roughly comparable to the $\\texttt{DINGO}$ package. We aim to significantly improve this efficiency with further development to make the runtime more reliably $O(\\text{min})$. $\\texttt{BilbyFlow}$ is open source and $\\texttt{pip}$-installable.",
+  "authors": [
+   "Liam Pinchbeck",
+   "Eric Thrane",
+   "Csaba Balazs",
+   "Paul Lasky"
+  ],
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "comment": "18 pages",
+  "first_author": "Liam Pinchbeck",
+  "pdf_url": "http://arxiv.org/pdf/2609.00766",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-09-01",
+  "tags": [
+   "bayesian-inference",
+   "ligo"
+  ],
+  "title": "$\\texttt{BilbyFlow}$: user-friendly neural posterior estimation for gravitational-wave astronomy",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00863": {
+  "abstract": "Engineering inverse design is often limited by the high computational cost of iterative solvers for optimization problems constrained by partial differential equations (PDEs) and by their sensitivity to initialization. Deep generative models can produce candidate designs without rerunning the simulator at inference time. Generative adversarial networks (GANs) sample in one forward pass, whereas diffusion models require iterative reverse-time integration.   In this work, we add conditional flow matching (CFM) to EngiOpt and compare it with a conditional diffusion model and a conditional generative adversarial network (cGAN) on structural (beams2d) and thermal (heatconduction2d) benchmarks from EngiBench using the same downstream optimization protocol. We use cumulative optimality gap (COG) and final optimality gap (FOG) as the primary metrics for evaluating the generated designs as warm starts for gradient-based refinement. On the evaluated EngiOpt implementations and two EngiBench tasks, CFM achieves the lowest measured COG, FOG, maximum mean discrepancy (MMD), and volume-fraction deviation on both tasks. CFM has mean volume-fraction deviations of 0.4% and 1.0% on beams2d and heatconduction2d, respectively, compared with 3.8% and 11.2% for diffusion. At Euler s = 16, CFM achieves 53.2 samples/s on beams2d, about 66 times the measured throughput of the evaluated diffusion baseline using 1000 network evaluations under the same timing protocol, with COG 1.182 +/- 3.126, compared with 1.173 +/- 3.100 for Euler s = 32.   Across the two tasks, CFM produces warm starts with lower measured COG than both baselines and uses fewer network evaluations than diffusion.",
+  "authors": [
+   "Juliana Felder",
+   "Milad Habibi",
+   "Soheyl Massoudi",
+   "Mark Fuge"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "13 pages, 2 figures, 6 tables. Accepted for presentation at EngOpt 2026",
+  "first_author": "Juliana Felder",
+  "pdf_url": "http://arxiv.org/pdf/2609.00863",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "diffusion-models",
+   "partial-differential-equations"
+  ],
+  "title": "Conditional Flow Matching for ML-Based Inverse Design Problems",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
  "2609.00883": {
   "abstract": "Phase retrieval in broadband coherent anti-Stokes Raman spectroscopy (BCARS) is an ill-posed inverse problem. The Raman-like signal is encoded in the imaginary part of the resonant susceptibility, which mixes coherently with a non-resonant background (NRB) that varies across acquisitions. We introduce an inverse physics-informed neural network (iPINN) that predicts Lorentzian peak parameters from raw BCARS spectra and reconstructs the resonant susceptibility through a differentiable analytical forward model. A transformer encoder assigns spectral features to 24 learnable peak slots, and a multi-view consistency loss enforces invariance across NRB pattern, NRB strength, and noise. Unlike direct spectral regression approaches, the method retains accuracy under varying acquisition conditions. On a public benchmark, iPINN achieves the lowest error among the tested baselines (MAE 0.016 vs. next-best 0.046). On 28 zero-shot test spectra acquired across seven solvents and four focal positions, accuracy is depth-invariant in five of seven solvents. These results show that inverse parametric prediction with a differentiable physical decoder supports robust phase retrieval across measurement conditions.",
   "authors": [
@@ -98,6 +232,7 @@
   "tags": [],
   "title": "iPINN for Broadband CARS Phase Retrieval: A Framework for Function Approximation and Inverse Modeling Problems in Nonlinear Spectroscopy",
   "topics": [
+   "Generative Models & Discovery",
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-09-01"
@@ -129,6 +264,34 @@
   ],
   "updated": "2026-09-01"
  },
+ "2609.00955": {
+  "abstract": "Diffusion models achieve strong image generation quality but incur high iterative denoising costs. Analog compute-in-memory (CIM) can accelerate matrix-vector multiplications, yet spatial memory variations perturb weights and accumulate during sampling. Unlike conventional neural networks, diffusion models' temporal sensitivity to hardware noise remains underexplored. We investigate diffusion inference using a noise model calibrated and validated against measurements collected from multiple physical CIM chips. Our results show that the early, high-noise denoising stage is substantially more vulnerable than the final refinement stage. A first-order trajectory analysis attributes this behavior to the repeated propagation of correlated prediction errors induced by a fixed hardware mapping. Based on this observation, we propose ASSERT, a training-free sampler that uses higher stochasticity early and smoothly transitions to deterministic denoising. The injected stochasticity changes subsequent activation trajectories and thereby reduces their alignment with persistent spatial errors. Across the evaluated settings, ASSERT achieves up to 2.58$\\times$ lower FID than deterministic DDIM on high-resolution datasets and 7.68$\\times$ lower FID in the CIFAR-10 step-count study, without changing model parameters or the number of network evaluations.",
+  "authors": [
+   "Yuannuo Feng",
+   "Yizhe Chen",
+   "Wenshuai Yao",
+   "Yuxin Xie",
+   "Ngai Wong",
+   "Wenyong Zhou",
+   "Wang Kang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted by ASP-DAC 2027, Tokoy, Japan",
+  "first_author": "Yuannuo Feng",
+  "pdf_url": "http://arxiv.org/pdf/2609.00955",
+  "primary_category": "cs.CV",
+  "published": "2026-09-01",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "ASSERT: Adaptive Stochastic Sampling for Robust Diffusion Models on Analog Compute-in-Memory Hardware",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
  "2609.01102": {
   "abstract": "Symbolic Regression (SR) seeks to find succinct mathematical expressions that represent the fundamental relationships within data, providing interpretability and scientific understanding that exceeds that of black-box models. Nevertheless, traditional methods like Genetic Programming face challenges with scalability and are highly sensitive to noise, while sparse regression techniques such as SINDy rely significantly on predetermined feature libraries. In this work, we present a Neural Symbolic Regression (NSR) framework that treats neural networks as functional preconditioners for symbolic discovery. Our approach uses a decoupled pipeline: a neural network first learns a smooth, noise-robust approximation of the target function in an interaction- aware nonlinear feature space. LASSO is then applied to extract sparse, interpretable closed-form expressions. To improve predictive accuracy and symbolic fidelity by integrating distributed hyperparameter optimization with Ray Tune and ASHA scheduling. Experiments on the Nguyen benchmark suite show that our approach consistently outperforms SINDy and non-tuned neural baselines in RMSE, noise robustness, and out-of-distribution generalization. Ablation studies confirm the significance of feature interactions, neural depth, and tuning strategies. In general, this study presents a scalable and understandable neural-symbolic framework, creating a solid link between neural approximation and the discovery of sparse equations for scientific machine learning.",
   "authors": [
@@ -151,6 +314,7 @@
   ],
   "title": "Neural Symbollic Regression Using Deep Learning and Sparse Modelling",
   "topics": [
+   "Generative Models & Discovery",
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-09-01"
@@ -176,6 +340,69 @@
   "title": "Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01526": {
+  "abstract": "Scientific agents must learn not only how to reason, but also what to believe. However, existing LLM agents typically express scientific hypotheses in free-form text, leaving their beliefs implicit and difficult to test or revise. We introduce EvoSCM, which equips scientific agents with explicit structural causal models that evolve as new experimental evidence is collected. EvoSCM maintains a population of competing SCM hypotheses, each encoding a candidate causal explanation of the environment, and evolves them through a closed discovery loop. In each round, the agent abduces latent mechanisms from accumulated evidence, designs discriminative interventions, and commits to falsifiable predictions that it tests through experimentation. Discrepancies between prediction and observation are inductively distilled into correction rules that revise the causal structures and mechanisms of each hypothesis, and the agent then deductively validates the revised population against accumulated evidence and structural consistency to guide the next round. We evaluate EvoSCM on DiscoverPhysics, a benchmark requiring agents to uncover the hidden dynamics of noncanonical physical worlds through experimentation. EvoSCM consistently improves scientific discovery over baselines, yielding more accurate explanations and predictions while making more effective use of experimental interactions.",
+  "authors": [
+   "Qing Zhao",
+   "Haowei Li",
+   "Weijian Deng",
+   "Pengxu Wei",
+   "Liang Lin"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "This is a preliminary version, with further details and results to follow",
+  "first_author": "Qing Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.01526",
+  "primary_category": "cs.AI",
+  "published": "2026-09-01",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01552": {
+  "abstract": "Scientific equation discovery has long been central to scientific progress, proceeding through iterative cycles of hypothesis generation, observational testing, and refinement under scientific constraints. As LLM capabilities advance and their role in AI for Science expands, it remains an open problem whether they can genuinely discover scientific laws and how this ability should be evaluated. Existing evaluations, however, often either simplify discovery through synthetic settings or reuse published targets that may already be familiar to LLMs. We therefore introduce SCILAWS-BENCH, a benchmark for scientific law discovery built from published research and real scientific data. It comprises 118 problems drawn from 381 scientific papers, covering 291 candidate laws and roughly 8M real data points across six scientific disciplines. Each problem is instantiated in two complementary settings: (1) SCILAWS-REAL asks models to propose laws from fixed real observations and evaluates held-out predictive fit and scientific validity derived from the source literature, and (2) SCILAWS-PARALLEL asks models to actively query residual-calibrated worlds and recover synthesized hidden laws derived from published forms. This two-setting task design preserves each problem's scientific context while separately evaluating fixed-record law discovery and active recovery of a newly synthesized hidden law. We find that predictive fit can diverge from scientific validity, memorization shapes whether models reproduce or move beyond published formulas, and our best-of-N study reveals a selection bottleneck. Our work provides a paper-grounded benchmark and new empirical perspectives for evaluating AI for scientific discovery. Project page: https://yiyihum.github.io/SciLaws-Bench",
+  "authors": [
+   "Yiming Huang",
+   "Ziche Liu",
+   "Zhuohang Wu",
+   "Yiqian Wang",
+   "Junxia Cui",
+   "Xinkai Zou",
+   "Linjun Mao",
+   "Nan Huang",
+   "Naicheng Yu",
+   "Kaijie Zhu",
+   "Yue Ma",
+   "Kun Zhou",
+   "Letian Peng",
+   "Jingbo Shang"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "42 pages, 16 figures. Project page: https://yiyihum.github.io/SciLaws-Bench/",
+  "first_author": "Yiming Huang",
+  "pdf_url": "http://arxiv.org/pdf/2609.01552",
+  "primary_category": "cs.AI",
+  "published": "2026-09-01",
+  "tags": [
+   "equation-discovery",
+   "scientific-discovery"
+  ],
+  "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+  "topics": [
+   "Generative Models & Discovery"
   ],
   "updated": "2026-09-01"
  },
@@ -208,5 +435,321 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-09-01"
+ },
+ "2609.01705": {
+  "abstract": "Stochastic transport describes physical systems in which an initially structured distribution spreads under unresolved forcing, scattering, or heterogeneous media. Useful surrogates for such systems should be probabilistic, time-resolved, and able to represent non-Gaussian distributional structure. Generative diffusion models, which corrupt data with Gaussian noise and learn a reverse flow back to structured states, have these properties. Their noise schedules, however, are usually chosen heuristically: image and audio generation---the canonical use cases---provide no physical clock. In transport, by contrast, the variance, or mean-square displacement, is often known from macroscopic theory or empirical scaling even when the full distribution is not. Here we prescribe the forward noising rate as the time derivative of this variance, turning generative time into a calibrated transport clock. The variance path is enforced by construction, while the learned score field represents how non-Gaussian structure inherited from entrance data is smoothed along that path, requiring no intermediate-time physical transport data. For ballistic-to-diffusive transport in turbulent plasmas, the surrogate matches test-particle distributions, reproduces the laboratory-measured variance scale, and tracks the simulated kurtosis evolution without schedule tuning, enabling calibrated emulation and likelihood-based inference.",
+  "authors": [
+   "Patrick Reichherzer",
+   "Gianluca Gregori",
+   "David N. Hosking",
+   "Subir Sarkar"
+  ],
+  "categories": [
+   "cs.LG",
+   "astro-ph.IM",
+   "physics.plasm-ph"
+  ],
+  "comment": "Accepted for publication in Nature Communications",
+  "first_author": "Patrick Reichherzer",
+  "pdf_url": "http://arxiv.org/pdf/2609.01705",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Generative Diffusion Surrogates with Analytical Variance Schedule",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01734": {
+  "abstract": "X-ray variability in compact-object binaries encodes the nonlinear dynamics of corona-jet interactions and accretion disk instabilities. Standard timing techniques characterize periodic and quasi-periodic variability well, but do not model underlying nonlinear dynamics or forecast their evolution. We apply Koopman operator theory and a data-driven approximation, extended dynamic mode decomposition (EDMD), to X-ray light curves for the first time. Koopman theory represents nonlinear evolution as an infinite-dimensional linear operator $\\mathcal{K}$, whose eigendecomposition separates a complex system into independently evolving linear modes. We derive that each Koopman eigenfunction contributes a Lorentzian peak to the power spectrum, giving quasi-periodic oscillations a dynamical interpretation in which process noise damps modes and broadens their peaks. In both chaotic Duffing oscillator simulations and $\\sim$30 yr of RXTE ASM and MAXI monitoring of the X-ray binary 4U 1705-44, the slowest-varying eigenfunction partitions state space into low- and high-flux regimes, changing sign days to weeks before transitions become visible in the light curve. Iterating $\\mathcal{K}$ additionally yields flux forecasts on days-to-weeks horizons. The strengths of this framework are its generality across linear and nonlinear systems, its intrinsic interpretability through decomposed modes carrying explicit dynamical meaning, and its predictive power from propagating learned dynamics forward. These results establish Koopman operator theory as a new frontier of astrophysical timing and help advance interpretable machine learning for scientific discovery and understanding.",
+  "authors": [
+   "Eric Miao",
+   "Ruo-Yu Shang",
+   "Kaya Mori",
+   "Reshmi Mukherjee"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "nlin.CD"
+  ],
+  "comment": "31 pages, 16 figures, to be published in the Astrophysics Journal Supplement Series (ApJS)",
+  "first_author": "Eric Miao",
+  "pdf_url": "http://arxiv.org/pdf/2609.01734",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-09-01",
+  "tags": [
+   "koopman-operator",
+   "scientific-discovery"
+  ],
+  "title": "Learning and Predicting the Nonlinear Variability of X-ray Binaries with the Koopman Operator",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01750": {
+  "abstract": "Next-generation fusion reactor devices such as SPARC, ARC, and CFETR will operate in extreme neutron environments that compromise the magnetic sensors traditionally used to reconstruct plasma equilibria. However, reliable knowledge of the plasma equilibrium--including magnetic flux surfaces, safety factor profiles, and shaping parameters--is indispensable for real-time control, disruption avoidance, and physics interpretation. The Fusion Equilibrium Challenge invites the NeurIPS community to confront a deceptively simple but scientifically rigorous inverse problem: reconstruct the two-dimensional poloidal flux function psi(R,Z) and a suite of scalar equilibrium parameters from non-magnetic diagnostics alone, namely external poloidal-field coil currents and Thomson-scattering electron temperature/density profiles. The challenge provides the first open-access, harmonized multi-machine benchmark for fusion, releasing a curated dataset of 9,113 DIII-D shots and 2,416 MAST shots--filtered for Thomson-diagnostic availability, feature completeness, and EFIT-reconstruction quality. Each shot is packaged into a standard Parquet file containing approximately 260 (DIII-D) / approximately 80 (MAST) EFIT flux maps and rich high-rate diagnostics. Two complementary awards reward intra-machine reconstruction fidelity (S_model) on DIII-D and zero-shot cross-machine generalization (G_ratio) to the topologically distinct MAST spherical tokamak. We argue that the challenge functions as a benchmark for reactor-ready equilibrium inference and as a probe of how far machine learning can be pushed toward truly machine-agnostic plasma state estimation.",
+  "authors": [
+   "Tapan Ganatma Nakkina",
+   "Matthew Waller",
+   "Craig Michoski",
+   "Brian Sammuli",
+   "David R. Hatch",
+   "William Boyes",
+   "Mitchell Clark",
+   "Raffi Nazikian",
+   "Sterling Smith"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Tapan Ganatma Nakkina",
+  "pdf_url": "http://arxiv.org/pdf/2609.01750",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01896": {
+  "abstract": "Power-outage planning requires scenarios before an event occurs. These scenarios must represent uncertainty in magnitude, timing, and duration while preserving temporal dependence. However, severe events are rare, and data from any single region contain few examples of extreme outage and restoration patterns. To address this challenge, we introduce OutageDiT, a foundation model for generating seven-day outage trajectories at quarter-hour resolution, trained on outage and weather records across the United States. Specifically, a condition encoder processes the historical context and known future covariates once per forecast, and a shallow flow decoder reuses the resulting horizon-aligned states to generate complete trajectories. The resulting samples support point forecasting, uncertainty quantification, and conditional event simulation within one deep generative model. Across outage forecasting benchmarks, OutageDiT improves forecast accuracy and scenario quality over strong baselines and supports zero-shot transfer to held-out regions. Together, these results position conditional outage simulation as a bridge from outage forecasting to operational planning under uncertainty.",
+  "authors": [
+   "Yunqin Zhu",
+   "Feng Qiu",
+   "Yao Xie"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "10 pages, 2 figures, 3 tables",
+  "first_author": "Yunqin Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2609.01896",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.02016": {
+  "abstract": "Image super-resolution, which aims to reconstruct high-resolution images from their low-resolution observations, is fundamental to medical imaging, remote sensing, surveillance, microscopy, and scientific visualization. Traditional model-based methods formulate super-resolution as an inverse problem with hand-crafted regularization priors. While interpretable and theoretically grounded, they rely on fixed assumptions and require computationally intensive iterative solvers. Deep learning methods offer data-driven flexibility by learning nonlinear mappings from low- to high-resolution images, among which diffusion models have achieved particularly impressive perceptual quality. However, the standard diffusion training objective is a pixel-domain noise-prediction loss that does not explicitly enforce perceptual fidelity, which can lead to oversmoothing and loss of fine image structure. To address these limitations, we propose a perceptually regularized diffusion framework that incorporates prior knowledge through perceptual-loss-based regularization, improving training convergence and encouraging the recovery of meaningful image features. Experiments on benchmark datasets demonstrate improved perceptual quality and competitive distortion metrics, highlighting the effectiveness of regularization for diffusion-based super resolution.",
+  "authors": [
+   "Chuxiangbo Wang",
+   "Pavithra Venkatachalapathy",
+   "Ying Liang",
+   "Min Wang",
+   "Jing Qin",
+   "Yifei Lou",
+   "Weihong Guo"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Chuxiangbo Wang",
+  "pdf_url": "http://arxiv.org/pdf/2609.02016",
+  "primary_category": "eess.IV",
+  "published": "2026-09-02",
+  "tags": [
+   "diffusion-models",
+   "remote-sensing"
+  ],
+  "title": "Perceptually Regularized Diffusion Model for Image Super-Resolution",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02034": {
+  "abstract": "This study presents an AI-based dynamical downscaling system for Tropical Cyclones (TCs). The system incorporates an AI-based limited-area model that downscales 3-hourly low-resolution boundary forcings into hourly high-resolution fields autoregressively, and a diffusion model that converts the outputs into ensembles of hazard-relevant variables. The system is trained on the regridded CONUS404 data with ERA5 forcings, and is evaluated on 20 TCs in 2020--2024. Verification shows stable downscaling performance across Atlantic hurricane seasons, with energy spectra closely matching the CONUS404 reference. The system is also verified to produce skillful TC-relevant weather extremes, largely improved over a deterministic AI baseline. The system performs well with forcing data from other models (GDAS/FNL) and can produce detailed eyewall, rainband, and landfall structures in TC case studies. The study provides a good example of how AI-based dynamical downscaling systems can be designed to resolve small-scale extreme weather events.",
+  "authors": [
+   "Yingkai Sha",
+   "Talea L. Mayo",
+   "Ethan D. Gutmann",
+   "Lulin Xue",
+   "Andrew Newman"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Yingkai Sha",
+  "pdf_url": "http://arxiv.org/pdf/2609.02034",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-09-02",
+  "tags": [],
+  "title": "Kilometer-Scale AI Downscaling of Atlantic Hurricanes with Generative Ensembles",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02126": {
+  "abstract": "Estimating physical parameters from scientific images is a common inverse problem in materials characterization that often relies on expensive physics-based simulations. In electron microscopy, specimen thickness and crystal mistilt are critical parameters that govern how electrons scatter through the sample, and therefore the accuracy of any atomic-scale structure recovered from it. They are commonly inferred by matching experimental position-averaged convergent-beam electron diffraction (PACBED) patterns to simulated ones, but grid searches scale poorly and neural-network methods require extensive pretraining that may not transfer to new conditions. Here, we propose scalable Bayesian optimization of composite functions (SBOCF), a simulation-efficient method that exploits the known composite structure of the image-matching objective and the intermediate information contained in simulated images. By representing PACBED images with patch-level summaries and two correction terms, SBOCF preserves the original pixel-wise objective while reducing the number of modeled outputs from 24,649 to 11. Under a budget of 50 simulator evaluations, SBOCF outperformed standard Bayesian optimization with expected improvement on synthetic SrTiO3 benchmarks with thick and thin specimens, reducing the median final SSE by up to 290x in the thick-sample case. On experimental data, SBOCF produced parameter estimates consistent with previously reported values without task-specific pretraining. For a simulated mistilted specimen, using the SBOCF estimates in a downstream ptychographic reconstruction recovered sharp atoms that were otherwise blurred. These results establish SBOCF as a promising approach for inverse problems involving expensive simulators and high-dimensional structured outputs.",
+  "authors": [
+   "Dasol Yoon",
+   "Poompol Buathong",
+   "Chia-Hao Lee",
+   "Yujia Zhang",
+   "David A. Muller",
+   "Peter I. Frazier"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "28 pages. Dasol Yoon and Poompol Buathong contributed equally",
+  "first_author": "Dasol Yoon",
+  "pdf_url": "http://arxiv.org/pdf/2609.02126",
+  "primary_category": "cs.LG",
+  "published": "2026-09-02",
+  "tags": [
+   "inverse-problems"
+  ],
+  "title": "Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02239": {
+  "abstract": "A broad class of physical observables can be expressed in terms of smeared spectral functions. Important examples include the hadronic vacuum polarization contribution to the muon $g-2$, hadronic $τ$ decays, inclusive semileptonic $B$ and $D$ decays, and amplitudes for rare processes such as $B\\to K^{(*)}\\ell^+\\ell^-$. In recent years, a variety of methods have been proposed to reconstruct or constrain such spectral functions from Euclidean correlators and related inputs. However, the inverse problem is intrinsically ill-posed, making it difficult to obtain fully reliable, model-independent results with controlled uncertainties. In this contribution, I summarize recent developments, discuss the opportunities offered by smeared spectral observables, and highlight the main challenges that remain.",
+  "authors": [
+   "Shoji Hashimoto"
+  ],
+  "categories": [
+   "hep-lat"
+  ],
+  "comment": "Contribution to The 43rd International Symposium on Lattice Field Theory (Lattice 2026), July 26 to August 1, 2026, University of Maryland, College Park, USA",
+  "first_author": "Shoji Hashimoto",
+  "pdf_url": "http://arxiv.org/pdf/2609.02239",
+  "primary_category": "hep-lat",
+  "published": "2026-09-02",
+  "tags": [],
+  "title": "Smeared spectral functions from lattice QCD: opportunities and challenges",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02531": {
+  "abstract": "World Action Models (WAMs) leverage the capabilities of large-scale pretrained video diffusion models to jointly predict future observations and actions, inheriting rich visual and physical priors from internet-scale video. This has made them a promising paradigm for robot policy learning, yet the prevailing models operate exclusively on RGB observations and do not leverage 3D information. To bridge this gap, we introduce a Spatially Aware World Action Model (SA-WAM), which repurposes a pretrained video model for joint action, RGB, and depth prediction, enabling 3D-aware world modeling and action prediction within a single diffusion backbone. We use a nonlinear encoding that maps the unbounded depth signal into the bounded input domain expected by the frozen VAE tokenizer. This allows us to reuse the tokenizer without 3D-specific fine-tuning, incorporating geometric information without sacrificing the pretrained priors. SA-WAM achieves state-of-the-art results on the RoboCasa and LIBERO-Plus benchmarks, while simultaneously improving future-state predictions. Furthermore, SA-WAM outperforms strong baselines in real-world evaluation using a UR5 robotic arm, with strong gains in randomized environments. We analyze the correlation between world model prediction quality and rollout success, providing insights into WAM performance and avenues for its improvement.",
+  "authors": [
+   "Javier Alejandro Lopetegui Gonzalez",
+   "Paul Pacaud",
+   "Cordelia Schmid"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Javier Alejandro Lopetegui Gonzalez",
+  "pdf_url": "http://arxiv.org/pdf/2609.02531",
+  "primary_category": "cs.CV",
+  "published": "2026-09-02",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Spatially Aware World Action Model via Geometric Latent Diffusion",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02578": {
+  "abstract": "The Boltzmann equation plays an important role in modeling mesoscopic behavior in a wide range of scientific and engineering applications. However, its numerical solution is computationally expensive due to the high dimensionality of the model and the nonlinear nonlocal collision operator, especially for steady-state problems that require iterative solvers. This cost becomes prohibitive for inverse problems, where the induced optimization problem requires repeated forward solves.   In this work, we propose a reduced-order model (ROM) for the parametric Boltzmann equation to address this computational challenge. The ROM constructs a low-dimensional approximation space for the parameter-induced solution manifold through a residual-based greedy strategy, and the reduced solution is then obtained via residual minimization over the reduced space, subject to mass conservation. The overall efficiency of the ROM is achieved by exploiting the quadratic structure of the collision operator and a precomputed separable approximation of the collision kernel. The resulting ROM is further applied to a thermally-driven inverse problem for reconstructing collision parameters from the observed macroscopic temperature data. This is accomplished either by directly replacing the PDE constraint with the ROM, leading to a bilevel optimization formulation, or by reformulating the task as a single-level optimization problem through the Karush--Kuhn--Tucker (KKT) conditions. Numerical experiments in both collision-dominated and transport-dominated cases are performed to demonstrate the efficiency and accuracy of the proposed ROM and its effectiveness in inverse problems. In particular, the resulting inverse problem is computationally much more tractable, achieving speedups of several orders of magnitude over that based on the full-order model while maintaining comparable accuracy.",
+  "authors": [
+   "Shanyin Tong",
+   "Jingwei Hu",
+   "Fengyan Li",
+   "Zhaiming Shen",
+   "Yunan Yang",
+   "Jiajia Yu"
+  ],
+  "categories": [
+   "math.NA",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Shanyin Tong",
+  "pdf_url": "http://arxiv.org/pdf/2609.02578",
+  "primary_category": "math.NA",
+  "published": "2026-09-02",
+  "tags": [
+   "inverse-problems",
+   "rom"
+  ],
+  "title": "Reduced order model for parametric Boltzmann equation and its application to inverse problems",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02862": {
+  "abstract": "Recent advances in equation discovery methods such as SINDy have highlighted the growing interest in identifying governing parameters and models directly from data. In this work, we take a complementary approach grounded in analysis and numerical PDE methods: we recover an unknown viscosity in steady Navier-Stokes equations (NSE) from partial incompressible flow observations using continuous data assimilation (CDA). We propose a simple and efficient parameter recovery algorithm and also a nonlinear solver for CDA-NSE. Together, this creates a highly efficient technique for recovering an unknown viscosity from partial solution data. Our analysis establishes the well-posedness of steady CDA-NSE, quadratic convergence of the parameter recovery algorithm, and quadratic convergence of a CDA-Picard + CDA-Newton nonlinear solver. Numerical experiments illustrate that the methods are very effective in restoring parameters quickly, even with poor initial guesses.",
+  "authors": [
+   "L. Rebholz",
+   "J. Reyes",
+   "J. Whitehead"
+  ],
+  "categories": [
+   "math.NA",
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "L. Rebholz",
+  "pdf_url": "http://arxiv.org/pdf/2609.02862",
+  "primary_category": "math.NA",
+  "published": "2026-09-02",
+  "tags": [
+   "data-assimilation",
+   "equation-discovery",
+   "navier-stokes-equations"
+  ],
+  "title": "Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02876": {
+  "abstract": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradient at the speed of a fused-kernel solve.   We present GRADSOLVE, an open-source JAX library for solving and reverse-mode differentiating low-dimensional ODE ensembles on NVIDIA GPUs. It records the steps an adaptive solver accepts and differentiates a fixed-step replay of them; the returned gradient is the exact discrete adjoint of those steps, the same derivative Diffrax returns by default, obtained more cheaply from a fixed-length chain than from an adaptive loop. It targets ensembles differentiated many times against one recorded mesh, keeps Diffrax as a fallback, and supports explicit and Rosenbrock integrators.   Used as a solver, GRADSOLVE's forward-only kernel ran 2.8x faster than DiffEqGPU.jl; used for gradients, once a record exists, it computed them 5.6-14.1x faster than Diffrax's checkpointed adjoint at matched forward-state accuracy across three GPU generations, the advantage narrowing on large ensembles and, on stiff systems, down to parity at tight accuracy. GRADSOLVE is released at https://github.com/ECLIPSE-AI4Science/gradsolve.",
+  "authors": [
+   "Alessio Spurio Mancini"
+  ],
+  "categories": [
+   "cs.MS",
+   "cs.DC",
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": "38 pages, 12 figures. GRADSOLVE available at https://github.com/ECLIPSE-AI4Science/gradsolve",
+  "first_author": "Alessio Spurio Mancini",
+  "pdf_url": "http://arxiv.org/pdf/2609.02876",
+  "primary_category": "cs.MS",
+  "published": "2026-09-02",
+  "tags": [
+   "ai4science"
+  ],
+  "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-09-02"
  }
 }

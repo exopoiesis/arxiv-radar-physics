@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fast-simulation — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="fast-simulation-7d.html">7d</a> <a href="fast-simulation-30d.html">30d</a> <a href="fast-simulation-90d.html">90d</a> <strong>360d</strong> <a href="fast-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05108.html">LEMURS dataset: Large-scale multi-detector ElectroMagnetic Universal Representation of Showers</a></div></td>
 <td>Peter McKeown et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05108">2509.05108</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05982.html">Joint modeling of low and high extremes using a multivariate extended generalized Pareto distribution</a></div></td>
-<td>Noura Alotaibi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05982">2509.05982</a></td>
 </tr>
 </tbody></table>

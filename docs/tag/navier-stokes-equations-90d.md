@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="equation-discovery-90d.html">equation-discovery</a></div></td>
+<td>L. Rebholz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02862">2609.02862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13629.html">Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Oscar L. Cruz-Gonzalez et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10335.html">A Physics-Informed B-Spline Framework for Continuous Approximation of Flow Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Junoh Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10335">2606.10335</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06268.html">Error Analysis of Tr-PINNs Algorithm for 2D Incompressible Navier-Stokes Equations with Non-Homogeneous Boundary Conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Dongjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06268">2606.06268</a></td>
 </tr>
 </tbody></table>

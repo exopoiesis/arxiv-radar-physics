@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Chuxiangbo Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02016">2609.02016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26489.html">Learning Woody Clearing With Loss Alignment for Zero-Shot Regrowth and Woody Segmentation</a></div></td>
 <td>Kal Backman et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04106.html">LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching</a></div></td>
 <td>Siwei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04106">2608.04106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02322.html">Global-Scale Self-Supervised Spatiotemporal Learning for NDVI Time-Series Reconstruction</a></div></td>
-<td>Ang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02322">2608.02322</a></td>
 </tr>
 </tbody></table>

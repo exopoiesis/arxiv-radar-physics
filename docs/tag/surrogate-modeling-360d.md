@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06871.html">Learning spatially structured open quantum dynamics with regional-attention transformers</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Dounan Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06871">2509.06871</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06231.html">Learning Rarefied Gas Dynamics with Physics-Enforced Neural Networks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ehsan Roohi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06231">2509.06231</a></td>
 </tr>
 </tbody></table>

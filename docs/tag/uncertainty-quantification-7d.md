@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div></td>
+<td>Yunqin Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01896">2609.01896</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
 <td>Hiep V. Dang et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Mingcan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
-<td>Mahamat Hamdan Nassouradine et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25709">2608.25709</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
+<td>L. Rebholz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02862">2609.02862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="sciml-30d.html">sciml</a></div></td>
 <td>Nicholas Mueller</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Dibyajyoti Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02135.html">Cardiovascular Digital Twins from Physics Based to Data Driven Approaches</a></div></td>
-<td>Emmanuel Lwele et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02135">2608.02135</a></td>
 </tr>
 </tbody></table>

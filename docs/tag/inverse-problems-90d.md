@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02126.html">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</a></div></td>
+<td>Dasol Yoon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02126">2609.02126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02578.html">Reduced order model for parametric Boltzmann equation and its application to inverse problems</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
+<td>Shanyin Tong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02578">2609.02578</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
@@ -476,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07153.html">No-Harm Physics-Informed Inverse Learning with Residual-Calibrated Uncertainty</a></div></td>
 <td>Ronald Katende</td>
 <td><a href="http://arxiv.org/abs/2606.07153">2606.07153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04804.html">The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems</a></div></td>
-<td>Jian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04804">2606.04804</a></td>
 </tr>
 </tbody></table>

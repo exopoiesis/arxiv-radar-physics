@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,23 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10195.html">Deep Reinforcement Learning for Active Flow Control around a Three-Dimensional Flow-Separated Wing at Re = 1,000</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="flow-control-360d.html">flow-control</a></div></td>
 <td>R. Montalà et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10195">2509.10195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05886.html">SPINN: An Optimal Self-Supervised Physics-Informed Neural Network Framework</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Reza Pirayeshshirazinezhad</td>
-<td><a href="http://arxiv.org/abs/2509.05886">2509.05886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06041.html">Multi-Stage Graph Neural Networks for Data-Driven Prediction of Natural Convection in Enclosed Cavities</a></div></td>
-<td>Mohammad Ahangarkiasari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06041">2509.06041</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06056.html">A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Chun Wang</td>
-<td><a href="http://arxiv.org/abs/2509.06056">2509.06056</a></td>
 </tr>
 </tbody></table>

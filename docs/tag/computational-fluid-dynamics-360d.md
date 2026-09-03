@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,17 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08094.html">Physics-Informed Neural Networks in Clean Combustion: A Pathway to Sustainable Aerospace Propulsion</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Mahmood Mousavi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08094">2509.08094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05886.html">SPINN: An Optimal Self-Supervised Physics-Informed Neural Network Framework</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Reza Pirayeshshirazinezhad</td>
-<td><a href="http://arxiv.org/abs/2509.05886">2509.05886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06056.html">A novel biomass fluidized bed gasification model coupled with machine learning and CFD simulation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Chun Wang</td>
-<td><a href="http://arxiv.org/abs/2509.06056">2509.06056</a></td>
 </tr>
 </tbody></table>

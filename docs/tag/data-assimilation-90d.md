@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a></div></td>
+<td>L. Rebholz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02862">2609.02862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="sciml-90d.html">sciml</a></div></td>
 <td>Nicholas Mueller</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10836.html">Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Maximilian Ramgraber et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10836">2606.10836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07681.html">Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model</a></div></td>
-<td>Aya Lahlou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07681">2606.07681</a></td>
 </tr>
 </tbody></table>

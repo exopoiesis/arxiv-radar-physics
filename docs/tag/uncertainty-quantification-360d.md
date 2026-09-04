@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">537 papers</span>
+  <span class="paper-count">535 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3224,17 +3224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07474.html">DKFNet: Differentiable Kalman Filter for Field Inversion and Machine Learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Yuan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07474">2509.07474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05186.html">Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Benjamin J. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05186">2509.05186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06534.html">Parameter Robustness in Data-Driven Estimation of Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Ayush Pandey</td>
-<td><a href="http://arxiv.org/abs/2509.06534">2509.06534</a></td>
 </tr>
 </tbody></table>

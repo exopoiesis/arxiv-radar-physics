@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">692 papers</span>
+  <span class="paper-count">688 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4142,29 +4142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07474.html">DKFNet: Differentiable Kalman Filter for Field Inversion and Machine Learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Yuan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07474">2509.07474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15838.html">Gaussian behaviors: representations and data-driven control</a></div></td>
-<td>András Sasfi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15838">2504.15838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06534.html">Parameter Robustness in Data-Driven Estimation of Dynamical Systems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ayush Pandey</td>
-<td><a href="http://arxiv.org/abs/2509.06534">2509.06534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06674.html">Port-Hamiltonian Neural Networks: From Theory to Simulation of Interconnected Stochastic Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-360d.html">hamiltonian-neural-networks</a></div></td>
-<td>Luca Di Persio et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06674">2509.06674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06735.html">Data-driven discovery of dynamical models in biology</a></div></td>
-<td>Bartosz Prokop et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06735">2509.06735</a></td>
 </tr>
 </tbody></table>

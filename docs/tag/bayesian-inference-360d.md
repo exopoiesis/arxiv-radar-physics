@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2588,41 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07938.html">The JADE code. II. Modeling the coupled orbital and atmospheric evolution of GJ 436 b to constrain its migration and companion</a></div></td>
 <td>M. Attia et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07938">2509.07938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17717.html">Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Haowen Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17717">2501.17717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20788.html">When Cubic Law and Darcy Fail: Bayesian Correction of Model Misspecification in Fracture Conductivities</a></div></td>
-<td>Sarah Perez et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20788">2503.20788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05186.html">Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Benjamin J. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05186">2509.05186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07221.html">When (not) to trust Monte Carlo approximations for hierarchical Bayesian inference</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Jack Heinzel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07221">2509.07221</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07261.html">nsEVDx: A Python library for modeling Non-Stationary Extreme Value Distributions</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a></div></td>
-<td>Nischal Kafle et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07261">2509.07261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07280.html">Learning Generalized Hamiltonian Dynamics with Stability from Noisy Trajectory Data</a></div></td>
-<td>Luke McLennan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07280">2509.07280</a></td>
 </tr>
 </tbody></table>

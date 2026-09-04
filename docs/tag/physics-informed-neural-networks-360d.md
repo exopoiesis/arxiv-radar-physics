@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">641 papers</span>
+  <span class="paper-count">639 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3848,17 +3848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13993.html">Improved Physics-informed neural networks loss function regularization with a variance-based term</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>John M. Hanna et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13993">2412.13993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14222.html">Vanishing Stacked-Residual PINN for State Reconstruction of Hyperbolic Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Katayoun Eshkofti et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14222">2503.14222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07245.html">IP-Basis PINNs: Efficient Multi-Query Inverse Parameter Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Shalev Manor et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07245">2509.07245</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,11 +602,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19237.html">DINAMO: Dynamic and INterpretable Anomaly MOnitoring for Large-Scale Particle Physics Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Arsenii Gavrikov et al.</td>
 <td><a href="http://arxiv.org/abs/2501.19237">2501.19237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06855.html">Seeing the Forest Through the Trees: Knowledge Retrieval for Streamlining Particle Physics Analysis</a></div></td>
-<td>James McGreivy et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06855">2509.06855</a></td>
 </tr>
 </tbody></table>

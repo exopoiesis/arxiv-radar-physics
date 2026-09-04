@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,17 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01590.html">Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Mitchell Messerly et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01590">2505.01590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01403.html">Accelerating point defect photo-emission calculations with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Kartikeya Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01403">2505.01403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06719.html">Towards Accurate and Scalable High-throughput MOF Adsorption Screening: Merging Classical Force Fields and Universal Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
-<td>Satyanarayana Bonakala et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06719">2509.06719</a></td>
 </tr>
 </tbody></table>

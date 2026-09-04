@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09562.html">From Geometry to Observation: Gravitational Waves and the Raychaudhuri Equation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Sougata Bhunia et al.</td>
 <td><a href="http://arxiv.org/abs/2504.09562">2504.09562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06745.html">Leveraging the null stream to detect strongly lensed gravitational waves</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Jef Heynen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06745">2509.06745</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09813.html">Nearly optimal algorithms to learn sparse quantum Hamiltonians in physically motivated distances</a></div></td>
 <td>Amira Abbas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09813">2509.09813</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07937.html">Improved Hamiltonian learning and sparsity testing through Bell sampling</a></div></td>
-<td>Savar D. Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07937">2509.07937</a></td>
 </tr>
 </tbody></table>

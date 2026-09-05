@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04405.html">Discovering physical laws with parallel symbolic enumeration</a></div></td>
 <td>Kai Ruan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04405">2407.04405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07303.html">A Unified Data-Driven Framework for Efficient Scientific Discovery</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Tingxiong Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07303">2509.07303</a></td>
 </tr>
 </tbody></table>

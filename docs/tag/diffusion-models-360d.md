@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03382.html">SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Shunan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03382">2609.03382</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>

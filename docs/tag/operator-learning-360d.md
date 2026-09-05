@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">291 papers</span>
+  <span class="paper-count">289 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02982.html">Equation Recast for Canonical Operator Learning Across Parametric PDEs</a></div></td>
+<td>Qiyun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02982">2609.02982</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
@@ -1742,23 +1748,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08752.html">Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Vivek Oommen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08752">2509.08752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00300.html">Cauchy Random Features for Operator Learning in Sobolev Space</a></div></td>
-<td>Chunyang Liao et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00300">2503.00300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00867.html">Self-supervised neural operator for solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wen You et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00867">2509.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18110.html">Localized PCA-Net Neural Operators for Scalable Solution Reconstruction of Elliptic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Mrigank Dhingra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18110">2509.18110</a></td>
 </tr>
 </tbody></table>

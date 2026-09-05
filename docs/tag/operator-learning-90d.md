@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02982.html">Equation Recast for Canonical Operator Learning Across Parametric PDEs</a></div></td>
+<td>Qiyun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02982">2609.02982</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Xingxin Yang et al.</td>
@@ -374,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08654.html">Operator learning for the 2D incompressible Navier-Stokes equations: a conformal prediction approach in the data-scarce regime</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Weinan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08654">2606.08654</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07976.html">A Measure-Consistent Operator Learning Method for Infinite-Dimensional Master Equations</a></div></td>
-<td>Chenyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07976">2606.07976</a></td>
 </tr>
 </tbody></table>

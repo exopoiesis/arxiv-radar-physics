@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">427 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2576,17 +2576,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08261.html">GPU-accelerated LISA parameter estimation with full time domain response</a></div></td>
 <td>Cecilio García-Quirós et al.</td>
 <td><a href="http://arxiv.org/abs/2501.08261">2501.08261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14652.html">Accelerating Hamiltonian Monte Carlo for Bayesian Inference in Neural Networks and Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Ponkrshnan Thiagarajan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14652">2507.14652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07938.html">The JADE code. II. Modeling the coupled orbital and atmospheric evolution of GJ 436 b to constrain its migration and companion</a></div></td>
-<td>M. Attia et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07938">2509.07938</a></td>
 </tr>
 </tbody></table>

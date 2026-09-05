@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Fumihiro Imoto</td>
+<td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01417.html">Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Mehrdad Shafiei Dizaji et al.</td>
@@ -3842,11 +3848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09611.html">ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Haolan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09611">2509.09611</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13993.html">Improved Physics-informed neural networks loss function regularization with a variance-based term</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>John M. Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13993">2412.13993</a></td>
 </tr>
 </tbody></table>

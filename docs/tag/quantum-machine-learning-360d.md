@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,23 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08817.html">QCardEst/QCardCorr: Quantum Cardinality Estimation and Correction</a></div></td>
 <td>Tobias Winker et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08817">2509.08817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05716.html">Quantum Reservoir GAN</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Hikaru Wakaura</td>
-<td><a href="http://arxiv.org/abs/2508.05716">2508.05716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07614.html">From Classical Data to Quantum Advantage -- Quantum Policy Evaluation on Quantum Hardware</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Daniel Hein et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07614">2509.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07924.html">A Non-Monotonic Relationship: An Empirical Analysis of Hybrid Quantum Classifiers for Unseen Ransomware Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Huu Phu Le et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07924">2509.07924</a></td>
 </tr>
 </tbody></table>

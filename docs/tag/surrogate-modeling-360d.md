@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03382.html">SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Shunan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03382">2609.03382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03132.html">MGKDB: An IMAS-aligned multicode gyrokinetic simulation database for reproducible fusion turbulence modeling and data-driven analysis</a></div></td>
+<td>Craig Michoski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03132">2609.03132</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -1010,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07209.html">BlendedNet: A Blended Wing Body Aircraft Dataset and Surrogate Model for Aerodynamic Predictions</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Nicholas Sung et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07209">2509.07209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07687.html">Physics-informed low-rank neural operators with application to parametric elliptic PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sebastian Schaffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07687">2509.07687</a></td>
 </tr>
 </tbody></table>

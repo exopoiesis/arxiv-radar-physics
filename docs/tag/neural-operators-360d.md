@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,35 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08752.html">Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Vivek Oommen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08752">2509.08752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06623.html">Neural Operators for Forward and Inverse Potential-Density Mappings in Classical Density Functional Theory</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Runtong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06623">2506.06623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14652.html">Accelerating Hamiltonian Monte Carlo for Bayesian Inference in Neural Networks and Neural Operators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Ponkrshnan Thiagarajan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14652">2507.14652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00867.html">Self-supervised neural operator for solving partial differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wen You et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00867">2509.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01293.html">Equivariant U-Shaped Neural Operators for the Cahn-Hilliard Phase-Field Model</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01293">2509.01293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12237.html">Neural Diffeomorphic-Neural Operator for Residual Stress-Induced Deformation Prediction</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Changqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12237">2509.12237</a></td>
 </tr>
 </tbody></table>

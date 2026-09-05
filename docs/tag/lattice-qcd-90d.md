@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>lattice-qcd — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <strong>90d</strong> <a href="lattice-qcd-360d.html">360d</a> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09152.html">Constraining DVCS Compton Form Factors Using Lattice QCD calculations</a></div></td>
 <td>Yuan-Yuan Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09152">2606.09152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08316.html">Some Inverse Problems in Particle Physics</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Luigi Del Debbio</td>
-<td><a href="http://arxiv.org/abs/2606.08316">2606.08316</a></td>
 </tr>
 </tbody></table>

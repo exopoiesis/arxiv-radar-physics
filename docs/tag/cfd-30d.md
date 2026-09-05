@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div></td>
+<td>Guilherme Gottems et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Mahamat Hamdan Nassouradine et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08608.html">ADEx-FNO: A Unified Ambient-Domain Framework for Fourier Neural Operators on Varying Geometries</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="rans-30d.html">rans</a></div></td>
 <td>Roberto Nuca et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08608">2608.08608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04708.html">Benchmarking Multi-fidelity Neural Operators on Complex PDE Problems with Non-trivial Fidelity Differences</a></div><div class="paper-tags"><a href="les-30d.html">les</a> · <a href="neural-operators-30d.html">neural-operators</a> · <a href="rans-30d.html">rans</a></div></td>
-<td>Ghifari Adam Faza et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04708">2608.04708</a></td>
 </tr>
 </tbody></table>

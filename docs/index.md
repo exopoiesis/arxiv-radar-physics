@@ -5,15 +5,27 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-09-04._
+_Updated 2026-09-05._
 
-**20021** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**20028** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03382.html">SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a> · <a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Shunan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03382">2609.03382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Fumihiro Imoto</td>
+<td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a> · <a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
@@ -63,6 +75,18 @@ _Updated 2026-09-04._
 <td><a href="http://arxiv.org/abs/2609.02876">2609.02876</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02982.html">Equation Recast for Canonical Operator Learning Across Parametric PDEs</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
+<td>Qiyun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02982">2609.02982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03132.html">MGKDB: An IMAS-aligned multicode gyrokinetic simulation database for reproducible fusion turbulence modeling and data-driven analysis</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Craig Michoski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03132">2609.03132</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="tag/cfd-30d.html">cfd</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
 <td>Xingxin Yang et al.</td>
@@ -91,6 +115,12 @@ _Updated 2026-09-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00679.html">HarmoCore: Functional Latent Diffusion for Sparse Reconstruction of Oscillatory Wave Fields</a></div></td>
 <td>Lihao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00679">2609.00679</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00680.html">Sharp embeddings between quasi-Banach Besov spaces and shallow ReLU variation spaces</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Yuwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00680">2609.00680</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -163,35 +193,5 @@ _Updated 2026-09-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01705.html">Generative Diffusion Surrogates with Analytical Variance Schedule</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Patrick Reichherzer et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01705">2609.01705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01734.html">Learning and Predicting the Nonlinear Variability of X-ray Binaries with the Koopman Operator</a></div><div class="paper-tags"><a href="tag/koopman-operator-30d.html">koopman-operator</a> · <a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Eric Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01734">2609.01734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01750.html">The Fusion Equilibrium Challenge: Inferring Magnetic Geometry Without Magnetic Diagnostics</a></div></td>
-<td>Tapan Ganatma Nakkina et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01750">2609.01750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div><div class="paper-tags"><a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Yunqin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01896">2609.01896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26489.html">Learning Woody Clearing With Loss Alignment for Zero-Shot Regrowth and Woody Segmentation</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Kal Backman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26489">2608.26489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26519.html">Report of the 2026 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science</a></div><div class="paper-tags"><a href="tag/scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Lois Curfman McInnes et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26519">2608.26519</a></td>
 </tr>
 </tbody></table>

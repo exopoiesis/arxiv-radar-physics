@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">622 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3746,23 +3746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11959.html">An approximate Riemann solver approach in Physics-Informed Neural Networks for hyperbolic conservation laws</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jorge F. Urbán et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11959">2506.11959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13993.html">Improved Physics-informed neural networks loss function regularization with a variance-based term</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>John M. Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13993">2412.13993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00867.html">Self-supervised neural operator for solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Wen You et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00867">2509.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08094.html">Physics-Informed Neural Networks in Clean Combustion: A Pathway to Sustainable Aerospace Propulsion</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Mahmood Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08094">2509.08094</a></td>
 </tr>
 </tbody></table>

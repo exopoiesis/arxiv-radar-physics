@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06058.html">A quantum framework for event graphs</a></div></td>
 <td>R. P. Erickson</td>
 <td><a href="http://arxiv.org/abs/2608.06058">2608.06058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05018.html">Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load</a></div></td>
-<td>Thomas Bartz-Beielstein</td>
-<td><a href="http://arxiv.org/abs/2608.05018">2608.05018</a></td>
 </tr>
 </tbody></table>

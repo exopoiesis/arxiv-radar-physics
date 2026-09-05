@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">254 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1538,17 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08749.html">Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Yaohua Zang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08749">2509.08749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07417.html">Benchmarking Universal Interatomic Potentials on Zeolite Structures</a></div></td>
-<td>Shusuke Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07417">2509.07417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07853.html">Decoratypes: An Extensible Crystal Taxonomy for Machine Learning-Guided Materials Discovery</a></div></td>
-<td>Kyle D. Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07853">2509.07853</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,17 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08495.html">Bayesian Localization and Uncertainty Quantification of Trace Species in Two-Dimensional SIMS Imaging</a></div></td>
 <td>Mengchi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08495">2608.08495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04817.html">A Knowledge-Centric Communication For Autonomous Cislunar Networks</a></div></td>
-<td>Afan Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04817">2608.04817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05230.html">Quality Diversity for Reliable Data Driven Time-Use Optimization</a></div></td>
-<td>Aneta Neumann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05230">2608.05230</a></td>
 </tr>
 </tbody></table>

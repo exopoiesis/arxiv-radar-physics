@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03382.html">SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
+<td>Shunan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03382">2609.03382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Chuxiangbo Wang et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
 <td>Marylou Gabrié</td>
 <td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04840.html">Towards a satellite image manipulation and deepfake localization benchmark dataset</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Jacob Arndt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04840">2608.04840</a></td>
 </tr>
 </tbody></table>

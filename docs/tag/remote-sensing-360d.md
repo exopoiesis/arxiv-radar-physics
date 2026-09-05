@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">540 papers</span>
+  <span class="paper-count">539 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3248,11 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08949.html">An U-Net-Based Deep Neural Network for Cloud Shadow and Sun-Glint Correction of Unmanned Aerial System (UAS) Imagery</a></div></td>
 <td>Yibin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08949">2509.08949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07495.html">Generating Transferrable Adversarial Examples via Local Mixing and Logits Optimization for Remote Sensing Object Recognition</a></div></td>
-<td>Chun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07495">2509.07495</a></td>
 </tr>
 </tbody></table>

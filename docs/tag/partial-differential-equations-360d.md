@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">805 papers</span>
+  <span class="paper-count">801 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Fumihiro Imoto</td>
+<td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00680.html">Sharp embeddings between quasi-Banach Besov spaces and shallow ReLU variation spaces</a></div></td>
+<td>Yuwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00680">2609.00680</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00863.html">Conditional Flow Matching for ML-Based Inverse Design Problems</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -4808,41 +4820,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09599.html">Conditioning on PDE Parameters to Generalise Deep Learning Emulation of Stochastic and Chaotic Dynamics</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ira J. S. Shokar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09599">2509.09599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00867.html">Self-supervised neural operator for solving partial differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wen You et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00867">2509.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07303.html">A Unified Data-Driven Framework for Efficient Scientific Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Tingxiong Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07303">2509.07303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07687.html">Physics-informed low-rank neural operators with application to parametric elliptic PDEs</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Sebastian Schaffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07687">2509.07687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08191.html">Rollout-LaSDI: Enhancing the long-term accuracy of Latent Space Dynamics</a></div></td>
-<td>Robert Stephany et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08191">2509.08191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12237.html">Neural Diffeomorphic-Neural Operator for Residual Stress-Induced Deformation Prediction</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Changqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12237">2509.12237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18110.html">Localized PCA-Net Neural Operators for Scalable Solution Reconstruction of Elliptic PDEs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Mrigank Dhingra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18110">2509.18110</a></td>
 </tr>
 </tbody></table>

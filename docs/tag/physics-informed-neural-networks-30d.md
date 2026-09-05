@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Fumihiro Imoto</td>
+<td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01417.html">Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Mehrdad Shafiei Dizaji et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05892.html">Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Yulun Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05892">2608.05892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04778.html">Continual-Learning Physics-Informed Neural Networks for Parameterized Partial Differential Equations</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Xujia Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04778">2608.04778</a></td>
 </tr>
 </tbody></table>

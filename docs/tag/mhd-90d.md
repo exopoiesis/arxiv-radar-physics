@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mhd — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <strong>90d</strong> <a href="mhd-360d.html">360d</a> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10215.html">LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa</a></div></td>
 <td>Sachin Alexander Reddy et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10215">2606.10215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08462.html">Experiment-free disruption prediction for new devices enabled by synthetic diagnostic data augmentation</a></div></td>
-<td>Zhiqiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08462">2606.08462</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transitions — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <strong>30d</strong> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02373.html">Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance</a></div></td>
+<td>Sai Niranjan Ramachandran et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02373">2609.02373</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17742.html">Active learning molecular beam epitaxy of complex quantum materials</a></div></td>
@@ -50,23 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08088.html">Machine Learning Framework for Magnetic Candidate Discovery in Cerium-Based Compounds</a></div></td>
 <td>Joshua A. Torres et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08088">2608.08088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="cosmology-30d.html">cosmology</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Johannes Buchner</td>
-<td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06203.html">Beyond Electrons: Radiative Thermal Computing and Neural Networks at the Near-Field Limit</a></div></td>
-<td>Hexiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06203">2608.06203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06597.html">Cascading Through the Hierarchy: Regularizer-Induced Feature Detection as Phase Transitions in Deep Linear Neural Networks</a></div></td>
-<td>Björn Ladewig et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06597">2608.06597</a></td>
 </tr>
 </tbody></table>

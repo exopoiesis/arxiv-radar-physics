@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">586 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3530,17 +3530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09365.html">Plug-and-play Diffusion Models for Image Compressive Sensing with Data Consistency Projection</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Xiaodong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09365">2509.09365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08341.html">Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study</a></div></td>
-<td>Jinbo Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.08341">2411.08341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11260.html">A Survey of World Models for Autonomous Driving</a></div></td>
-<td>Tuo Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11260">2501.11260</a></td>
 </tr>
 </tbody></table>

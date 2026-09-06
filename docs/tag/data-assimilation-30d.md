@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03582.html">WeatherNext 3: Increasing resolution and performance of global weather models with raw observations</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Stephan Rasp et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03582">2609.03582</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
 <td>L. Rebholz et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02862">2609.02862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03100.html">Distilling deep optical flow stereo methods to retrieve dense three-dimensional wind fields</a></div></td>
+<td>Thomas J. Vandal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03100">2609.03100</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -68,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07469.html">Efficient three-dimensional variational data assimilation of multi-plane PIV data</a></div></td>
 <td>Uttam Cadambi Padmanaban et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07469">2608.07469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
 </tr>
 </tbody></table>

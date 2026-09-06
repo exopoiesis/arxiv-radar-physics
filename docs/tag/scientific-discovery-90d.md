@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09638.html">Data-driven discovery of governing differential equations across physical systems</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Siyu Lou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09638">2606.09638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08405.html">Self-Evolving Scientific Agent Discovers Generalizable Physically-Reasoned Fluid Control</a></div></td>
-<td>Boai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08405">2606.08405</a></td>
 </tr>
 </tbody></table>

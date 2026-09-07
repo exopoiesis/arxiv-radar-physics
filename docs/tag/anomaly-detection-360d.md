@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1820,11 +1820,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11376.html">Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations</a></div></td>
 <td>Seyed Kourosh Mahjour et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11376">2509.11376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18126.html">Anomaly Detection in Electric Vehicle Charging Stations Using Federated Learning</a></div></td>
-<td>Bishal K C et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18126">2509.18126</a></td>
 </tr>
 </tbody></table>

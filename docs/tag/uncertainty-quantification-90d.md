@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,17 +620,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10873.html">Spatial Model Selection and Uncertainty Quantification: Comparing Continuous and Discrete Wound Healing Models</a></div></td>
 <td>John T. Nardini et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10873">2606.10873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09094.html">CIG-Bench: A Comprehensive Survey and Benchmark for AI-Driven Subsurface Imaging Understanding</a></div></td>
-<td>Yimin Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09094">2606.09094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09147.html">Artificial Intelligence for Instability in Inorganic Perovskites: From Mechanism Discovery to Engineering Strategies</a></div></td>
-<td>Xue Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09147">2606.09147</a></td>
 </tr>
 </tbody></table>

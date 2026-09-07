@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20504.html">Entropy Estimation in Multi-Qutrit Systems via Variational and Classical Neural Networks</a></div></td>
 <td>Sai Sakunthala Guddanti et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20504">2606.20504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09988.html">Absence of poor local minima in matrix product states</a></div></td>
-<td>Hao-Kai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09988">2606.09988</a></td>
 </tr>
 </tbody></table>

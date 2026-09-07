@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,11 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10089.html">KAN-SR: A Kolmogorov-Arnold Network Guided Symbolic Regression Framework</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Marco Andrea Bühler et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10089">2509.10089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04405.html">Discovering physical laws with parallel symbolic enumeration</a></div></td>
-<td>Kai Ruan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04405">2407.04405</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2558,17 +2558,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10420.html">Testing the nature of compact objects in the lower mass gap using gravitational wave observations</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>N. V. Krishnendu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10420">2509.10420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09562.html">From Geometry to Observation: Gravitational Waves and the Raychaudhuri Equation</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Sougata Bhunia et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09562">2504.09562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09481.html">Spin Constraints on 4U 1630-47 via combined Continuum Fitting and Reflection methods: a comparative study using Frequentist and Bayesian statistics</a></div></td>
-<td>Debtroy Das et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09481">2509.09481</a></td>
 </tr>
 </tbody></table>

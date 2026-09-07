@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">226 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1364,11 +1364,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09936.html">SciML Agents: Write the Solver, Not the Solution</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Saarth Gaonkar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09936">2509.09936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15946.html">Sigma Flows for Image and Data Labeling and Learning Structured Prediction</a></div></td>
-<td>Jonas Cassel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15946">2408.15946</a></td>
 </tr>
 </tbody></table>

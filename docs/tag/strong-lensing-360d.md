@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>strong-lensing — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="strong-lensing-7d.html">7d</a> <a href="strong-lensing-30d.html">30d</a> <a href="strong-lensing-90d.html">90d</a> <strong>360d</strong> <a href="strong-lensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18089.html">DESI Strong Lens Foundry II: DESI Spectroscopy for Strong Lens Candidates</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Xiaosheng Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18089">2509.18089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09798.html">The Last Stand Before Rubin: a consolidated sample of strong lensing systems in wide-field surveys</a></div></td>
-<td>Renan Alves de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09798">2509.09798</a></td>
 </tr>
 </tbody></table>

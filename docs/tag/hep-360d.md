@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11830.html">Enabling stable preservation of ML algorithms in high-energy physics with petrifyML</a></div></td>
 <td>Andy Buckley et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11830">2509.11830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08461.html">Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a></div></td>
-<td>Dikshant Sagar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08461">2509.08461</a></td>
 </tr>
 </tbody></table>

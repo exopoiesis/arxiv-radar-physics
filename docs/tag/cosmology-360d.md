@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12122.html">pop-cosmos: Insights from generative modeling of a deep, infrared-selected galaxy population</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Stephen Thorp et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12122">2506.12122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06174.html">On Soft Clustering For Correlation Estimators</a></div></td>
-<td>Edward Berman et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06174">2504.06174</a></td>
 </tr>
 </tbody></table>

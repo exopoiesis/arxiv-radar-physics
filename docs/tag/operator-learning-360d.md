@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">285 papers</span>
+  <span class="paper-count">284 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1718,11 +1718,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10378.html">Matrix-free Neural Preconditioner for the Dirac Operator in Lattice Gauge Theory</a></div></td>
 <td>Yixuan Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10378">2509.10378</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09611.html">ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Haolan Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09611">2509.09611</a></td>
 </tr>
 </tbody></table>

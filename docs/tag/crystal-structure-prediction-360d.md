@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure-prediction — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="crystal-structure-prediction-7d.html">7d</a> <a href="crystal-structure-prediction-30d.html">30d</a> <a href="crystal-structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,17 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23822.html">Space Group Conditional Flow Matching</a></div></td>
 <td>Omri Puny et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23822">2509.23822</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08159.html">Self-Optimizing Machine Learning Potential Assisted Automated Workflow for Highly Efficient Complex Systems Material Design</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Jiaxiang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08159">2505.08159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10293.html">OpenCSP: A Deep Learning Framework for Crystal Structure Prediction from Ambient to High Pressure</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10293">2509.10293</a></td>
 </tr>
 </tbody></table>

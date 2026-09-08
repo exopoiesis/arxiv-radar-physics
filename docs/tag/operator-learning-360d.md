@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">284 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,17 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16649.html">Deep Koopman Learning using Noisy Data</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Wenjian Hao et al.</td>
 <td><a href="http://arxiv.org/abs/2405.16649">2405.16649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10363.html">Physics-informed sensor coverage through structure preserving machine learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Benjamin David Shaffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10363">2509.10363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10378.html">Matrix-free Neural Preconditioner for the Dirac Operator in Lattice Gauge Theory</a></div></td>
-<td>Yixuan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10378">2509.10378</a></td>
 </tr>
 </tbody></table>

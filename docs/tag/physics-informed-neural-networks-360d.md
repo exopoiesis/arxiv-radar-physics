@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">638 papers</span>
+  <span class="paper-count">635 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3824,23 +3824,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10898.html">Thermal diffusivity characterization of impacted composites using evaporative cryocooling excitation and inverse physics-informed neural networks</a></div></td>
 <td>Pengfei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10898">2509.10898</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11959.html">An approximate Riemann solver approach in Physics-Informed Neural Networks for hyperbolic conservation laws</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Jorge F. Urbán et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11959">2506.11959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13519.html">General-relativistic magnetar magnetospheres in 3D with physics-informed neural networks</a></div></td>
-<td>Petros Stefanou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13519">2506.13519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09936.html">SciML Agents: Write the Solver, Not the Solution</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Saarth Gaonkar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09936">2509.09936</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,11 +1358,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12406.html">Bayesian Parametric Matrix Models: Principled Uncertainty Quantification for Spectral Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Mohammad Nooraiepour</td>
 <td><a href="http://arxiv.org/abs/2509.12406">2509.12406</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09936.html">SciML Agents: Write the Solver, Not the Solution</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Saarth Gaonkar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09936">2509.09936</a></td>
 </tr>
 </tbody></table>

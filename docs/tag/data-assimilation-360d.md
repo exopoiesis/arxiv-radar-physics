@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13189.html">SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Zhao Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13189">2509.13189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10363.html">Physics-informed sensor coverage through structure preserving machine learning</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Benjamin David Shaffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10363">2509.10363</a></td>
 </tr>
 </tbody></table>

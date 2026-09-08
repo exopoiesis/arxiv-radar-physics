@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">401 papers</span>
+  <span class="paper-count">400 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2414,11 +2414,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13271.html">Hybrid Two-Stage Reconstruction of Multiscale Subsurface Flow with Physics-informed Residual Connected Neural Operator</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Peiqi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2501.13271">2501.13271</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09936.html">SciML Agents: Write the Solver, Not the Solution</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a></div></td>
-<td>Saarth Gaonkar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09936">2509.09936</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-energy — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <strong>90d</strong> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18491.html">The Coherence Principle: A Falsifiable Prior for Model Selection from the Grammar of Theories</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18491">2606.18491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>J. Williamson et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
 </tr>
 </tbody></table>

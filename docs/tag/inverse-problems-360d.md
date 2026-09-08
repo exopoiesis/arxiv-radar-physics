@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2456,11 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16883.html">MCMC-Net: Accelerating Markov Chain Monte Carlo with Neural Networks for Inverse Problems</a></div></td>
 <td>Sudeb Majee et al.</td>
 <td><a href="http://arxiv.org/abs/2412.16883">2412.16883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09545.html">TorchGDM: A GPU-Accelerated Python Toolkit for Multi-Scale Electromagnetic Scattering with Automatic Differentiation</a></div></td>
-<td>Sofia Ponomareva et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09545">2505.09545</a></td>
 </tr>
 </tbody></table>

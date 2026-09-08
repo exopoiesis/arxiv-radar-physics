@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,29 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11973.html">MusicSwarm: Biologically Inspired Intelligence for Music Composition</a></div></td>
 <td>Markus J. Buehler</td>
 <td><a href="http://arxiv.org/abs/2509.11973">2509.11973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09915.html">The (R)evolution of Scientific Workflows in the Agentic AI Era: Towards Autonomous Science</a></div></td>
-<td>Woong Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09915">2509.09915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10089.html">KAN-SR: A Kolmogorov-Arnold Network Guided Symbolic Regression Framework</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Marco Andrea Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10089">2509.10089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10448.html">MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables</a></div></td>
-<td>Kausik Hira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10448">2509.10448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16226.html">On LLM-Based Scientific Inductive Reasoning Beyond Equations</a></div></td>
-<td>Brian S. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16226">2509.16226</a></td>
 </tr>
 </tbody></table>

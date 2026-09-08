@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13372.html">Generative AI Pipeline for Interactive Prompt-driven 2D-to-3D Vascular Reconstruction for Fontan Geometries from Contrast-Enhanced X-Ray Fluoroscopy Imaging</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Prahlad G Menon</td>
 <td><a href="http://arxiv.org/abs/2509.13372">2509.13372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10195.html">Deep Reinforcement Learning for Active Flow Control around a Three-Dimensional Flow-Separated Wing at Re = 1,000</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="flow-control-360d.html">flow-control</a></div></td>
-<td>R. Montalà et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10195">2509.10195</a></td>
 </tr>
 </tbody></table>

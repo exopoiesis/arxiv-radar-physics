@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,17 +578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10872.html">Reactive Chemistry at Unrestricted Coupled Cluster Level: High-throughput Calculations for Training Machine Learning Potentials</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Alice E. A. Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10872">2509.10872</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10210.html">Towards Fully Automated Molecular Simulations: Multi-Agent Framework for Simulation Setup and Force Field Extraction</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Marko Petković et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10210">2509.10210</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10270.html">Physical embedding machine learning force fields for organic systems</a></div></td>
-<td>Junbao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10270">2509.10270</a></td>
 </tr>
 </tbody></table>

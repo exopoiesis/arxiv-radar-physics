@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21504.html">Discovering alternative solutions beyond the simplicity bias in recurrent neural networks</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>William Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21504">2509.21504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10363.html">Physics-informed sensor coverage through structure preserving machine learning</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Benjamin David Shaffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10363">2509.10363</a></td>
 </tr>
 </tbody></table>

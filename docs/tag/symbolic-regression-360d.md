@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,17 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13136.html">Discovering Mathematical Equations with Diffusion Language Model</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Xiaoxu Han et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13136">2509.13136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18270.html">Machine Learning-Based Analytical Expressions for Gray-Body Factors and Application to Primordial Black Holes</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Guan-Wen Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18270">2504.18270</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10089.html">KAN-SR: A Kolmogorov-Arnold Network Guided Symbolic Regression Framework</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Marco Andrea Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10089">2509.10089</a></td>
 </tr>
 </tbody></table>

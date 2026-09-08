@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,17 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11746.html">Time Series Analysis in Machine Learning</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Antonio Pagliaro et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11746">2606.11746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11157.html">DarkAgents</a></div><div class="paper-tags"><a href="collider-physics-90d.html">collider-physics</a></div></td>
-<td>Michele Lucente et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11157">2606.11157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11309.html">Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
-<td>J. Williamson et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11309">2606.11309</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">621 papers</span>
+  <span class="paper-count">620 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3734,11 +3734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11911.html">Quantum Noise Tomography with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Antonin Sulc</td>
 <td><a href="http://arxiv.org/abs/2509.11911">2509.11911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10945.html">Development and Analysis of Chien-Physics-Informed Neural Networks for Singular Perturbation Problems</a></div></td>
-<td>Gautam Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10945">2509.10945</a></td>
 </tr>
 </tbody></table>

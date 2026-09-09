@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,17 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13742.html">A fully GPU-based workflow for building physics emulators of hypersonic flows</a></div></td>
 <td>Fabian Paischer et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13742">2606.13742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Handi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div></td>
-<td>Clemens Wager et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
 </tr>
 </tbody></table>

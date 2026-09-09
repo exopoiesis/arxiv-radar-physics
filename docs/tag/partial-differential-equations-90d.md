@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,41 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14942.html">Bayesian Variational System Identification with Weak-Form Residual Likelihoods</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Chengyang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14942">2606.14942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11650.html">Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Handi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11650">2606.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11963.html">HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Mostafa Bamdad et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11963">2606.11963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12182.html">How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Ana Larrañaga et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12182">2606.12182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12337.html">Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12337">2606.12337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12719.html">A Multiplexing Design Space: Theory, Method, and Application</a></div></td>
-<td>Yiwen Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12719">2606.12719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12735.html">Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Manuel Reyna et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12735">2606.12735</a></td>
 </tr>
 </tbody></table>

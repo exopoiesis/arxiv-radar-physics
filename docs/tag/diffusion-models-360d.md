@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">583 papers</span>
+  <span class="paper-count">582 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3506,11 +3506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12375.html">Diffusion-Based Generation and Imputation of Driving Scenarios from Limited Vehicle CAN Data</a></div></td>
 <td>Julian Ripper et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12375">2509.12375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11047.html">Data-Efficient Ensemble Weather Forecasting with Diffusion Models</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Kevin Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11047">2509.11047</a></td>
 </tr>
 </tbody></table>

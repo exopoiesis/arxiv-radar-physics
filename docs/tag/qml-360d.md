@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13818.html">Hybrid Quantum-Classical Neural Networks for Few-Shot Credit Risk Assessment</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Zheng-an Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13818">2509.13818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11980.html">Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Rupayan Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11980">2509.11980</a></td>
 </tr>
 </tbody></table>

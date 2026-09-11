@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19494.html">Euclid: A machine-learning search for dual and lensed AGN at sub-arcsec separations</a></div></td>
 <td>L. Ulivi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19494">2508.19494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03634.html">External Attention Transformer: A Robust AI Model for Identifying Initial Eccentricity Signatures in Binary Black Hole Events in Simulated Advanced LIGO Data</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Elahe Khalouei et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03634">2506.03634</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equivariant-neural-networks — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="equivariant-neural-networks-7d.html">7d</a> <a href="equivariant-neural-networks-30d.html">30d</a> <a href="equivariant-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="equivariant-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04878.html">Analysis and Computation of Geodesic Distances on Reductive Homogeneous Spaces</a></div></td>
 <td>Remco Duits et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04878">2504.04878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12323.html">Accurate ground states of $SU(2)$ lattice gauge theory in 2+1D and 3+1D</a></div></td>
-<td>Thomas Spriggs et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12323">2509.12323</a></td>
 </tr>
 </tbody></table>

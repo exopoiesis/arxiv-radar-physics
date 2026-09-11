@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">406 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,11 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14167.html">Deconstructing Intraocular Pressure: A Non-invasive Multi-Stage Probabilistic Inverse Framework</a></div></td>
 <td>Md Rezwan Jaher et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14167">2509.14167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11966.html">Deep operator network for surrogate modeling of poroelasticity with random permeability fields</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Sangjoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11966">2509.11966</a></td>
 </tr>
 </tbody></table>

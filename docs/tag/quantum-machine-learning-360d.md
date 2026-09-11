@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,11 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14337.html">Quantum advantage without exponential concentration: Trainable kernels for symmetry-structured data</a></div></td>
 <td>Laura J. Henderson et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14337">2509.14337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11980.html">Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Rupayan Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11980">2509.11980</a></td>
 </tr>
 </tbody></table>

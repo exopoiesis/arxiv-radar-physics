@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">799 papers</span>
+  <span class="paper-count">797 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4796,17 +4796,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10866.html">Physics-informed neural network solves minimal surfaces in curved spacetime</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Koji Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10866">2509.10866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11580.html">Learning Singularity-Encoded Green&#x27;s Functions with Application to Iterative Methods</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Qi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11580">2509.11580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12131.html">Neural networks for learning macroscopic chemotactic sensitivity from microscopic models</a></div></td>
-<td>Radek Erban</td>
-<td><a href="http://arxiv.org/abs/2509.12131">2509.12131</a></td>
 </tr>
 </tbody></table>

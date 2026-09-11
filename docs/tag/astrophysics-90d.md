@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19539.html">Review of Machine Learning Models for Solar Energetic Particle Prediction</a></div></td>
 <td>Spiridon Kasapis et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19539">2606.19539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14622.html">Impact of non-Gaussian likelihood on cosmological constraints from the thermal Sunyaev--Zel&#x27;dovich power spectrum: a simulation-based inference analysis</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Licong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14622">2606.14622</a></td>
 </tr>
 </tbody></table>

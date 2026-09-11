@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">533 papers</span>
+  <span class="paper-count">529 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3188,29 +3188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13189.html">SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Zhao Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13189">2509.13189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11966.html">Deep operator network for surrogate modeling of poroelasticity with random permeability fields</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Sangjoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11966">2509.11966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12043.html">Travel Time and Weather-Aware Traffic Forecasting in a Conformal Graph Neural Network Framework</a></div></td>
-<td>Mayur Patil et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12043">2509.12043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12406.html">Bayesian Parametric Matrix Models: Principled Uncertainty Quantification for Spectral Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Mohammad Nooraiepour</td>
-<td><a href="http://arxiv.org/abs/2509.12406">2509.12406</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16233.html">Comparison of Deterministic and Probabilistic Machine Learning Algorithms for Precise Dimensional Control and Uncertainty Quantification in Additive Manufacturing</a></div></td>
-<td>Dipayan Sanpui et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16233">2509.16233</a></td>
 </tr>
 </tbody></table>

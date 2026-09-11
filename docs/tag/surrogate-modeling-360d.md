@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12896.html">Neural Network Localized Orthogonal Decomposition for Numerical Homogenization of Diffusion Operators with Random Coefficients</a></div></td>
 <td>Fabian Kröpfl et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12896">2509.12896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11580.html">Learning Singularity-Encoded Green&#x27;s Functions with Application to Iterative Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Qi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11580">2509.11580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11966.html">Deep operator network for surrogate modeling of poroelasticity with random permeability fields</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Sangjoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11966">2509.11966</a></td>
 </tr>
 </tbody></table>

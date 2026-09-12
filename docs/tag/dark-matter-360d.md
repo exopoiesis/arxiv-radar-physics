@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,17 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15223.html">Parameter sensitivity of cosmic pairwise velocities in the non-linear regime of structure formation</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Jorge Enrique García-Farieta et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15223">2509.15223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21188.html">Optimized quantum sensor networks for ultralight dark matter detection</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Adriel I. Santoso et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21188">2505.21188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11867.html">Letter of Intent: AICE -- 100m Atom Interferometer Experiment at CERN</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Charles Baynham et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11867">2509.11867</a></td>
 </tr>
 </tbody></table>

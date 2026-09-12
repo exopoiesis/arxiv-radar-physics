@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16744.html">Data-Driven Observer Synthesis for Autonomous Limit Cycle Systems through Estimation of Koopman Eigenfunctions</a></div></td>
 <td>Angela Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16744">2509.16744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16649.html">Deep Koopman Learning using Noisy Data</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Wenjian Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16649">2405.16649</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">504 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,11 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19349.html">ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution</a></div></td>
 <td>Robert Tjarko Lange et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19349">2509.19349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13136.html">Discovering Mathematical Equations with Diffusion Language Model</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Xiaoxu Han et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13136">2509.13136</a></td>
 </tr>
 </tbody></table>

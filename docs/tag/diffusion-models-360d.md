@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3482,23 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14163.html">Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures</a></div></td>
 <td>Chi-Sheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14163">2509.14163</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02598.html">AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models</a></div></td>
-<td>Chenhao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02598">2507.02598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13271.html">Runaway electron interactions with whistler waves in tokamak plasmas: energy-dependent transport scaling</a></div></td>
-<td>Yashika Ghai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13271">2509.13271</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13523.html">AERIS: Argonne Earth Systems Model for Reliable and Skillful Predictions</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Väinö Hatanpää et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13523">2509.13523</a></td>
 </tr>
 </tbody></table>

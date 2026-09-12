@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">616 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3704,11 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16247.html">Solving Differential Equation with Quantum-Circuit Enhanced Physics-Informed Neural Networks</a></div></td>
 <td>Rachana Soni</td>
 <td><a href="http://arxiv.org/abs/2509.16247">2509.16247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10866.html">Physics-informed neural network solves minimal surfaces in curved spacetime</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Koji Hashimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10866">2509.10866</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,35 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Sagi Meir et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13123">2608.13123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11613.html">A Local Sinkhorn Framework for Conditional Distribution Reconstruction of Multidimensional Random Fields</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Mingtao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11613">2608.11613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12479.html">Identifying changing partial differential equations using Sampled Local WeakIdent</a></div></td>
-<td>Wenbo Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12479">2608.12479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12496.html">Adaptable Fingerprinting with Nonlinear Shrinkage for Climate Change Detection and Attribution under Variance Heterogeneity</a></div></td>
-<td>Haoran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12496">2608.12496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12603.html">Hierarchical Bayesian Calibration with Bayesian Committee Machine</a></div></td>
-<td>Sebastian Heinekamp et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12603">2608.12603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12624.html">Structure-preserving uncertainty quantification for GENERIC dynamics</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Zequn He et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12624">2608.12624</a></td>
 </tr>
 </tbody></table>

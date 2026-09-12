@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">423 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2534,23 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15376.html">Signatures of $K^-$ condensation on neutron star structure and $f-$mode frequencies</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Debanjan Guha Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15376">2509.15376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21188.html">Optimized quantum sensor networks for ultralight dark matter detection</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Adriel I. Santoso et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21188">2505.21188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13189.html">SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Zhao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13189">2509.13189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13403.html">Impact of line-of-sight structure on weak lensing observables of galaxy clusters</a></div></td>
-<td>Felix Vecchi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13403">2509.13403</a></td>
 </tr>
 </tbody></table>

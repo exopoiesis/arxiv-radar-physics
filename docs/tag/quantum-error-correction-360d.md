@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16242.html">Machine Learning for Quantum Noise Reduction</a></div></td>
 <td>Karan Kendre</td>
 <td><a href="http://arxiv.org/abs/2509.16242">2509.16242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12782.html">Designing Shadow Tomography Protocols by Natural Language Processing</a></div></td>
-<td>Yadong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12782">2509.12782</a></td>
 </tr>
 </tbody></table>

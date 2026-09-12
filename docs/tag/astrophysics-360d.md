@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13037.html">Reconstruction of the Equations of State (EoSs) of Compact Stars using machine and deep learning regression techniques</a></div></td>
-<td>Ioannis Stergakis</td>
-<td><a href="http://arxiv.org/abs/2509.13037">2509.13037</a></td>
 </tr>
 </tbody></table>

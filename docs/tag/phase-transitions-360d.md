@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,17 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18785.html">Neural network approximation of Euclidean path integrals and its application for the $φ^4$ theory in 1+1 dimensions</a></div></td>
 <td>Gabor Balassa</td>
 <td><a href="http://arxiv.org/abs/2509.18785">2509.18785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13820.html">A foundation machine learning potential with polarizable long-range interactions for materials modelling</a></div></td>
-<td>Rongzhi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13820">2410.13820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12841.html">Weak Generative Sampler for Stationary Distributions of McKean-Vlasov System</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Zhiqiang Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12841">2509.12841</a></td>
 </tr>
 </tbody></table>

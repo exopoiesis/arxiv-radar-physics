@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13842.html">Simulation-based Inference of Massive Black Hole Binaries using Sequential Neural Likelihood</a></div></td>
 <td>Iván Martín Vílchez et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13842">2509.13842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12841.html">Weak Generative Sampler for Stationary Distributions of McKean-Vlasov System</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Zhiqiang Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12841">2509.12841</a></td>
 </tr>
 </tbody></table>

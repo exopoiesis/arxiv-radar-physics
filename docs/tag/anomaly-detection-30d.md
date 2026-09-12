@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13652.html">Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments</a></div><div class="paper-tags"><a href="collider-physics-30d.html">collider-physics</a></div></td>
 <td>Haoyi Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13652">2608.13652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11679.html">AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection</a></div></td>
-<td>Touseef Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11679">2608.11679</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">529 papers</span>
+  <span class="paper-count">528 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3182,11 +3182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13717.html">A Conformal Prediction Framework for Uncertainty Quantification in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Yifan Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13717">2509.13717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13189.html">SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Zhao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13189">2509.13189</a></td>
 </tr>
 </tbody></table>

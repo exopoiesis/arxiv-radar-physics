@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">530 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3194,11 +3194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14104.html">CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts</a></div></td>
 <td>Leonard Hackel et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14104">2509.14104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13366.html">RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning</a></div></td>
-<td>Wenhui Diao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13366">2409.13366</a></td>
 </tr>
 </tbody></table>

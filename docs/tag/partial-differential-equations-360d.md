@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">792 papers</span>
+  <span class="paper-count">788 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4742,29 +4742,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15004.html">Fourier heuristic PINNs to solve the biharmonic equations based on its coupled scheme</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Yujia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15004">2509.15004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03793.html">Quasi-Monte Carlo for partial differential equations with generalized Gaussian input uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Philipp A. Guth et al.</td>
-<td><a href="http://arxiv.org/abs/2411.03793">2411.03793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02308.html">Enabling Local Neural Operators to perform Equation-Free System-Level Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Gianluca Fabiani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02308">2505.02308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14054.html">Physics-based deep kernel learning for parameter estimation in high dimensional PDEs</a></div></td>
-<td>Weihao Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14054">2509.14054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14185.html">Discovery of Unstable Singularities</a></div></td>
-<td>Yongji Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14185">2509.14185</a></td>
 </tr>
 </tbody></table>

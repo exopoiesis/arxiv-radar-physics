@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">575 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3464,23 +3464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16315.html">Nonlocal modeling of spatial fractional diffusion with truncated interaction domains and truncated kernel function singularity</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Shiping Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16315">2509.16315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12122.html">pop-cosmos: Insights from generative modeling of a deep, infrared-selected galaxy population</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Stephen Thorp et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12122">2506.12122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13916.html">Inverse Design of Amorphous Materials with Targeted Properties</a></div></td>
-<td>Jonas A. Finkler et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13916">2509.13916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14163.html">Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures</a></div></td>
-<td>Chi-Sheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14163">2509.14163</a></td>
 </tr>
 </tbody></table>

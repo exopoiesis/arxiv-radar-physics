@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">503 papers</span>
+  <span class="paper-count">500 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3014,23 +3014,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15420.html">Top-$k$ Feature Importance Ranking</a></div></td>
 <td>Yuxi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15420">2509.15420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13259.html">From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery</a></div></td>
-<td>Tianshi Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13259">2505.13259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13782.html">Who is Introducing the Failure? Automatically Attributing Failures of Multi-Agent Systems via Spectrum Analysis</a></div></td>
-<td>Yu Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13782">2509.13782</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19349.html">ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution</a></div></td>
-<td>Robert Tjarko Lange et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19349">2509.19349</a></td>
 </tr>
 </tbody></table>

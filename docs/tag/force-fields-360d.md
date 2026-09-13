@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17224.html">AI-based Methods for Simulating, Sampling, and Predicting Protein Ensembles</a></div></td>
 <td>Bowen Jing et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17224">2509.17224</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13798.html">Thermal Conductivity Limits of MoS$_2$ and MoSe$_2$: Revisiting High-Order Anharmonic Lattice Dynamics with Machine Learning Potentials</a></div></td>
-<td>Tugbey Kocabas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13798">2509.13798</a></td>
 </tr>
 </tbody></table>

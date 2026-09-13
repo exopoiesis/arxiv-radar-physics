@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">613 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3692,17 +3692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15004.html">Fourier heuristic PINNs to solve the biharmonic equations based on its coupled scheme</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Yujia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15004">2509.15004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13717.html">A Conformal Prediction Framework for Uncertainty Quantification in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yifan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13717">2509.13717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16247.html">Solving Differential Equation with Quantum-Circuit Enhanced Physics-Informed Neural Networks</a></div></td>
-<td>Rachana Soni</td>
-<td><a href="http://arxiv.org/abs/2509.16247">2509.16247</a></td>
 </tr>
 </tbody></table>

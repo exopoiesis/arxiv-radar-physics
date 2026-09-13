@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">675 papers</span>
+  <span class="paper-count">673 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4052,17 +4052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00908.html">Learning Conservative Neural Control Barrier Functions from Offline Data</a></div></td>
 <td>Ihab Tabbara et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00908">2505.00908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02308.html">Enabling Local Neural Operators to perform Equation-Free System-Level Analysis</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Gianluca Fabiani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02308">2505.02308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14219.html">Data Denoising and Derivative Estimation for Data-Driven Modeling of Nonlinear Dynamical Systems</a></div></td>
-<td>Jiaqi Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14219">2509.14219</a></td>
 </tr>
 </tbody></table>

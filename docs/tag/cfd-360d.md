@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1160,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21393.html">Impact of Loss Weight and Model Complexity on Physics-Informed Neural Networks for Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Yi En Chou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21393">2509.21393</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15236.html">ChannelFlow-Tools: A Standardized Dataset Creation Pipeline for 3D Obstructed Channel Flows</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Shubham Kavane et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15236">2509.15236</a></td>
 </tr>
 </tbody></table>

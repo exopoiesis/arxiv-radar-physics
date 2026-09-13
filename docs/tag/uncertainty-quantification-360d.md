@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">528 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3170,17 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14849.html">A Comprehensive Framework for F-statistic-based Parameter Estimation of Binary Black Hole Signals</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Hai-Tian Wang</td>
 <td><a href="http://arxiv.org/abs/2509.14849">2509.14849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03793.html">Quasi-Monte Carlo for partial differential equations with generalized Gaussian input uncertainty</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Philipp A. Guth et al.</td>
-<td><a href="http://arxiv.org/abs/2411.03793">2411.03793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13717.html">A Conformal Prediction Framework for Uncertainty Quantification in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yifan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13717">2509.13717</a></td>
 </tr>
 </tbody></table>

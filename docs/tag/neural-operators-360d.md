@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2402,11 +2402,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11899.html">StFT: Spatio-temporal Fourier Transformer for Long-term Dynamics Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Da Long et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11899">2503.11899</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02308.html">Enabling Local Neural Operators to perform Equation-Free System-Level Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Gianluca Fabiani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02308">2505.02308</a></td>
 </tr>
 </tbody></table>

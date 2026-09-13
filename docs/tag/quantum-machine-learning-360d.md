@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2858,29 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16410.html">Data Complexity: a threshold between Classical and Quantum Machine Learning -- Part I</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Christophe Pere</td>
 <td><a href="http://arxiv.org/abs/2509.16410">2509.16410</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08183.html">Parametrized Quantum Circuit Learning for Quantum Chemical Applications</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="qml-360d.html">qml</a></div></td>
-<td>Grier M. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08183">2507.08183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13818.html">Hybrid Quantum-Classical Neural Networks for Few-Shot Credit Risk Assessment</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Zheng-an Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13818">2509.13818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14026.html">Quantum Variational Activation Functions Empower Kolmogorov-Arnold Networks</a></div></td>
-<td>Jiun-Cheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14026">2509.14026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14337.html">Quantum advantage without exponential concentration: Trainable kernels for symmetry-structured data</a></div></td>
-<td>Laura J. Henderson et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14337">2509.14337</a></td>
 </tr>
 </tbody></table>

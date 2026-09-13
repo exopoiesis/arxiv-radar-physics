@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06154.html">Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs. Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Dibyajyoti Nayak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06154">2509.06154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15236.html">ChannelFlow-Tools: A Standardized Dataset Creation Pipeline for 3D Obstructed Channel Flows</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Shubham Kavane et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15236">2509.15236</a></td>
 </tr>
 </tbody></table>

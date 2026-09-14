@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,17 +2522,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14849.html">A Comprehensive Framework for F-statistic-based Parameter Estimation of Binary Black Hole Signals</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Hai-Tian Wang</td>
-<td><a href="http://arxiv.org/abs/2509.14849">2509.14849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15376.html">Signatures of $K^-$ condensation on neutron star structure and $f-$mode frequencies</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Debanjan Guha Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15376">2509.15376</a></td>
 </tr>
 </tbody></table>

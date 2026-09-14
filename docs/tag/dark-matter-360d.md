@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1196,17 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18078.html">DESI Strong Lens Foundry IV: Spectroscopic Confirmation of DESI Lens Candidates with VLT/MUSE</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Emerald Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18078">2509.18078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15121.html">Shedding Light on Dark Matter at the LHC with Machine Learning</a></div></td>
-<td>Ernesto Arganda et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15121">2509.15121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15223.html">Parameter sensitivity of cosmic pairwise velocities in the non-linear regime of structure formation</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Jorge Enrique García-Farieta et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15223">2509.15223</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">613 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3674,23 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15963.html">Going with the Flow: Solving for Symmetry-Driven PDE dynamics with Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Michail Kavousanakis et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15963">2509.15963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16370.html">Advanced Physics-Informed Neural Network with Residuals for Solving Complex Integral Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Mahdi Movahedian Moghaddam et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16370">2501.16370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19160.html">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Haozhe Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19160">2501.19160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15004.html">Fourier heuristic PINNs to solve the biharmonic equations based on its coupled scheme</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yujia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15004">2509.15004</a></td>
 </tr>
 </tbody></table>

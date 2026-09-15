@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,23 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20015.html">Adaptive Distance-Aware Trunk Deep Operator Learning for Long-Span Roadway Bridges</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
 <td>Bilal Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20015">2606.20015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17766.html">Operator Learning for PDE Backstepping Control of Parabolic Equations on Time-Varying Domains</a></div></td>
-<td>Jinrun Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17766">2606.17766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18200.html">A Diagnostic Software Suite for Auditing Learned PDE Simulators</a></div><div class="paper-tags"><a href="magnetohydrodynamics-90d.html">magnetohydrodynamics</a></div></td>
-<td>Lennon J. Shikhman</td>
-<td><a href="http://arxiv.org/abs/2606.18200">2606.18200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18499.html">Solution of the Newtonian plane Couette flow with dynamic wall slip using machine-learning methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Georgia Foutsitzi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18499">2606.18499</a></td>
 </tr>
 </tbody></table>

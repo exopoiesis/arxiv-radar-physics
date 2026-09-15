@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22347.html">Decoding quantum low density parity check codes with diffusion</a></div></td>
 <td>Zejun Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22347">2509.22347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12832.html">The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning</a></div></td>
-<td>Atta ur Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12832">2509.12832</a></td>
 </tr>
 </tbody></table>

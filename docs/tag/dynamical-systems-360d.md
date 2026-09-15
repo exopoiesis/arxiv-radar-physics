@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">672 papers</span>
+  <span class="paper-count">671 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4040,11 +4040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16709.html">HypeMARL: Multi-Agent Reinforcement Learning For High-Dimensional, Parametric, and Distributed Systems</a></div><div class="paper-tags"><a href="flow-control-360d.html">flow-control</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Nicolò Botteghi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16709">2509.16709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15817.html">Escaping saddle points without Lipschitz smoothness: the power of nonlinear preconditioning</a></div></td>
-<td>Alexander Bodard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15817">2509.15817</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,29 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16699.html">Knowledge Distillation for Variational Quantum Convolutional Neural Networks on Heterogeneous Data</a></div></td>
 <td>Kai Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16699">2509.16699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10077.html">Double descent in quantum kernel methods</a></div></td>
-<td>Marie Kempkes et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10077">2501.10077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15722.html">Impact of Single Rotations and Entanglement Topologies in Quantum Neural Networks</a></div></td>
-<td>Marco Mordacci et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15722">2509.15722</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16186.html">Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation</a></div></td>
-<td>Naipunnya Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16186">2509.16186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16410.html">Data Complexity: a threshold between Classical and Quantum Machine Learning -- Part I</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Christophe Pere</td>
-<td><a href="http://arxiv.org/abs/2509.16410">2509.16410</a></td>
 </tr>
 </tbody></table>

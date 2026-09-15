@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">529 papers</span>
+  <span class="paper-count">527 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3176,17 +3176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17943.html">Can multimodal representation learning by alignment preserve modality-specific information?</a></div></td>
 <td>Romain Thoreau et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17943">2509.17943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18353.html">A Data-Driven Review of Remote Sensing-Based Data Fusion in Precision Agriculture from Foundational to Transformer-Based Techniques</a></div></td>
-<td>Mahdi Saki et al.</td>
-<td><a href="http://arxiv.org/abs/2410.18353">2410.18353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15795.html">TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation</a></div></td>
-<td>Tianyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15795">2509.15795</a></td>
 </tr>
 </tbody></table>

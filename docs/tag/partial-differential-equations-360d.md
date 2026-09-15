@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">787 papers</span>
+  <span class="paper-count">781 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4700,41 +4700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16709.html">HypeMARL: Multi-Agent Reinforcement Learning For High-Dimensional, Parametric, and Distributed Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="flow-control-360d.html">flow-control</a></div></td>
 <td>Nicolò Botteghi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16709">2509.16709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09102.html">Measurability and continuity of parametric low-rank approximation in Hilbert spaces: linear operators and random variables</a></div></td>
-<td>Nicola Rares Franco</td>
-<td><a href="http://arxiv.org/abs/2409.09102">2409.09102</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19632.html">PACMANN: Point Adaptive Collocation Method for Artificial Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Coen Visser et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19632">2411.19632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15933.html">Bayesian Physics Informed Neural Networks for Reliable Transformer Prognostics</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ibai Ramirez et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15933">2509.15933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15963.html">Going with the Flow: Solving for Symmetry-Driven PDE dynamics with Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Michail Kavousanakis et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15963">2509.15963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16315.html">Nonlocal modeling of spatial fractional diffusion with truncated interaction domains and truncated kernel function singularity</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="hydrology-360d.html">hydrology</a></div></td>
-<td>Shiping Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16315">2509.16315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16395.html">Low-Rank Adaptation of Evolutionary Deep Neural Networks for Efficient Learning of Time-Dependent PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Jiahao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16395">2509.16395</a></td>
 </tr>
 </tbody></table>

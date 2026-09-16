@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,90 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17000.html">Combining Weather Forecast Aggregation and State-Space Models for Adaptive Probabilistic Electricity Load Forecasting</a></div></td>
+<td>Joseph de Vilmarest et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17000">2609.17000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15583.html">Generalized Parton Distributions: Phenomenology, Extraction, and Hadron Imaging</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="lattice-qcd-90d.html">lattice-qcd</a></div></td>
+<td>Simonetta Liuti et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15583">2609.15583</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13864.html">An Uncertainty-Aware Hybrid Mathematical-Machine-Learning Model for Smart Irrigation Decision Support</a></div></td>
+<td>Andrea Scariolo</td>
+<td><a href="http://arxiv.org/abs/2609.13864">2609.13864</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12815.html">4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling</a></div></td>
+<td>Deifilia Kieckhefen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12815">2609.12815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13488.html">Fingerprint Analysis for Climate Change Detection and Attribution under a Latent Factor Model</a></div></td>
+<td>Haoran Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13488">2609.13488</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13514.html">Operational Range Bounding in Spectroscopy: A Safety Cage Framework for Machine Learning Models</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
+<td>Nikki Grens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13514">2609.13514</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div></td>
+<td>Mohamed AbdulHameed et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10977">2609.10977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12115.html">DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Enrique Hernandez Noguera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12115">2609.12115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09803.html">Hybrid Spin-Orbit Tomography for Earth-like Planets: Simultaneous Mapping of Static Surfaces and Dynamic Clouds from Multicolor Light Curves</a></div></td>
+<td>Atsuki Kuwata et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09803">2609.09803</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10190.html">pyeCE: A Python Implementation of the Embedded Cluster Expansion</a></div></td>
+<td>Yann L. Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10190">2609.10190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08620.html">Flexible Spectral-Normalized Neural Gaussian Process for Dynamic Aperture Prediction</a></div></td>
+<td>Yousra El-Bachir et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08620">2609.08620</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08866.html">Bayesian palaeoclimate reconstruction from zero-inflated count-compositional pollen data: A case study of Lago Grande di Monticchio in southern Italy</a></div></td>
+<td>André F. B. Menezes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08866">2609.08866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07858.html">An Approximate Bayesian Deep Learning Approach for Uncertainty-aware Differential Emission Measure Estimates in the Solar Corona from the SDO</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>N. Balodhi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07858">2609.07858</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03308.html">Risk and Anomaly Identification for Distribution Network Optimal Operation Based on Reinforcement Learning and Uncertainty Quantification</a></div></td>
+<td>Ziqi Zhang</td>
+<td><a href="http://arxiv.org/abs/2609.03308">2609.03308</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div></td>
@@ -488,17 +572,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20497.html">Interpretable Meta-Learning for Multi-Objective Chemical Search</a></div></td>
 <td>Antonio Varagnolo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20497">2606.20497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
-<td>Gabriel F. Barros et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19642.html">Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Anna Asch et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19642">2606.19642</a></td>
 </tr>
 </tbody></table>

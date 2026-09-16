@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15762.html">Deep Koopman Sensing</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="flow-control-360d.html">flow-control</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15762">2609.15762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01734.html">Learning and Predicting the Nonlinear Variability of X-ray Binaries with the Koopman Operator</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Eric Miao et al.</td>
@@ -506,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18071.html">Learning functions, operators and dynamical systems with kernels</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Lorenzo Rosasco</td>
 <td><a href="http://arxiv.org/abs/2509.18071">2509.18071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16744.html">Data-Driven Observer Synthesis for Autonomous Limit Cycle Systems through Estimation of Koopman Eigenfunctions</a></div></td>
-<td>Angela Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16744">2509.16744</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16468.html">GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning</a></div></td>
+<td>Shuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16468">2609.16468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16266.html">Towards Surrogate Based Dequantization of Quantum Reinforcement Learning</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
+<td>Pablo Rodriguez-Grasa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16266">2609.16266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
@@ -44,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16494.html">Graph Machine Learning: An Opportunity for Power Systems</a></div></td>
 <td>Martin Sadric et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16494">2608.16494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15715.html">Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning</a></div></td>
-<td>Priyanshi Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15715">2608.15715</a></td>
 </tr>
 </tbody></table>

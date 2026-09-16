@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,106 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16406.html">Physics Informed Random Feature Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Chi-An Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16406">2609.16406</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14269.html">Direct and Indirect Physics-Informed Neural Networks for Dirichlet Boundary Control of Semilinear Parabolic Equations: A Conditional Error Analysis</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Nguyen Thanh Quang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14269">2609.14269</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14841.html">Tackling Failure Modes of PINNs and PIKANs Using Conflict-Free Gradients</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Sidharth S. Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14841">2609.14841</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07061.html">PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Nandita N. Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07061">2609.07061</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12301.html">PDE-constrained inverse problems at the $\sqrt{n}$ rate via debiased physics-informed neural networks</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yves Atchade et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12301">2609.12301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12900.html">Physics-enriched neural solvers for transient ice-flow simulation</a></div></td>
+<td>Thomas Gregov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12900">2609.12900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10983.html">A variational physics-informed graph neural network for heterogeneous solid mechanics</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Aashay Rajan Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10983">2609.10983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Timon Rabczuk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07437.html">A Systematic Analysis of Automatic Differentiation versus Discretization-based Constraints for Physics-Informed PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Xing Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07437">2609.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07814.html">Latent-MoE: Domain-Aware Mixture-of-Experts for PDEs with Multi-Regime Physics</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Hanwen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07814">2609.07814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07861.html">Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="data-assimilation-90d.html">data-assimilation</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Midhuna Suresh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07861">2609.07861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07983.html">Solving the Elastic Wave Equation with Physics-Informed Neural Networks: A Robust and Critical Assessment</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Davide Staub et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07983">2609.07983</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Fumihiro Imoto</td>
 <td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02110.html">A Computational Comparison of Fourier Spectral Differentiation and Spatial Automatic Differentiation in Periodic Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Xilai Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02110">2609.02110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02966.html">Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial $\mathrm{SrTiO_3}$ on Si memristors via Dynamic Spectral Optimization</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Rodion Podorozhny et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02966">2609.02966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05542.html">Physics-Informed Neural Networks for Depth-Averaged Granular Avalanche Dynamics on Curved Topography</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Pujan Pranavkumar Purohit et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05542">2609.05542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13229.html">Adjoint-based Inversion for the Diffusion Coefficient in Marine Lake Models</a></div></td>
+<td>Alex Ho et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13229">2609.13229</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -686,23 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20972.html">Neural network approximation in discrete dual norms with adaptive test spaces</a></div></td>
 <td>Tanakorn Udomworarat et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20972">2606.20972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18759.html">A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Sheng-Gwo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18759">2606.18759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18874.html">Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness</a></div></td>
-<td>Zijian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18874">2606.18874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19562.html">Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="sciml-90d.html">sciml</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Gabriel F. Barros et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19562">2606.19562</a></td>
 </tr>
 </tbody></table>

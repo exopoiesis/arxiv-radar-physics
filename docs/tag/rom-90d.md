@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rom — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <strong>90d</strong> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07453.html">Reduced Order Modelling for Nuclear Linear Response and the Incompressibility of Pb-208</a></div></td>
+<td>Emma Vancayseele</td>
+<td><a href="http://arxiv.org/abs/2609.07453">2609.07453</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02578.html">Reduced order model for parametric Boltzmann equation and its application to inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>

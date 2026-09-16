@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16468.html">GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning</a></div></td>
+<td>Shuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16468">2609.16468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16266.html">Towards Surrogate Based Dequantization of Quantum Reinforcement Learning</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
+<td>Pablo Rodriguez-Grasa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16266">2609.16266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Xiaoxiao Lu et al.</td>
@@ -248,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Borui Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18857.html">Investigating Inductive Biases for Machine Learning Emulation of Sudden Stratospheric Warmings in Idealised Isca Simulations</a></div></td>
-<td>Oskar Bohn Lassen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18857">2606.18857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18898.html">Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Martin Uray et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18898">2606.18898</a></td>
 </tr>
 </tbody></table>

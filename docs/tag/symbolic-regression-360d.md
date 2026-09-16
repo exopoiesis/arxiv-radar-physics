@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14260.html">Recursive Self-Improvement LLM Agents for Inverter Dynamic Model Identification</a></div></td>
+<td>Jie Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14260">2609.14260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11210.html">Diversity of EML-type operators</a></div></td>
+<td>Andrzej Odrzywołek</td>
+<td><a href="http://arxiv.org/abs/2609.11210">2609.11210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08536.html">Physical Law Ecology: mapping multi-mechanism ecologies as the zeroth step of data-driven scientific discovery</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
+<td>Xiongheng Bian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08536">2609.08536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09011.html">Closed-Form of the Local Galactic Potential and Stellar Distribution Function from Gaia DR3</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Indranil Das et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09011">2609.09011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09273.html">Constant Maps and Exponentially Small Sectors in ABJM Bethe Observables</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
+<td>Seyed Morteza Hosseini</td>
+<td><a href="http://arxiv.org/abs/2609.09273">2609.09273</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05207.html">FluxDisco: Symbolic Regression for Stoichiometric Dynamical Systems via Monte Carlo Graph Search</a></div></td>
+<td>Cassandra Durr et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05207">2609.05207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03337.html">A Large Open Multi-Energy Corpus of Soil Compaction Tests, with Machine-Learning Baselines</a></div></td>
+<td>Sompote Youwai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03337">2609.03337</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div></td>
@@ -1172,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19710.html">Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Somjit Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19710">2509.19710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21355.html">Domain-Informed Genetic Superposition Programming: A Case Study on SFRC Beams</a></div></td>
-<td>Mohammad Sadegh Khorshidi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21355">2509.21355</a></td>
 </tr>
 </tbody></table>

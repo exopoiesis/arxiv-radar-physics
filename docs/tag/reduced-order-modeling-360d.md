@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15762.html">Deep Koopman Sensing</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="flow-control-360d.html">flow-control</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15762">2609.15762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26783.html">Linear and Nonlinear Latent-Space Reduced-Order Models for the Rayleigh--Taylor Instability</a></div></td>
 <td>Téo Granger et al.</td>
@@ -254,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div></td>
 <td>Diba Behnoudfar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16535.html">Data-Driven Reduced-Order Modeling of Phase Mixing Dynamics from Particle Kinetic Simulation</a></div></td>
-<td>Darian Figuera-Michal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16535">2509.16535</a></td>
 </tr>
 </tbody></table>

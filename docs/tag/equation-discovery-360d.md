@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08536.html">Physical Law Ecology: mapping multi-mechanism ecologies as the zeroth step of data-driven scientific discovery</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Xiongheng Bian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08536">2609.08536</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>

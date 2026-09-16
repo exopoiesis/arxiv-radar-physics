@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15762.html">Deep Koopman Sensing</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="flow-control-90d.html">flow-control</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15762">2609.15762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01734.html">Learning and Predicting the Nonlinear Variability of X-ray Binaries with the Koopman Operator</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Eric Miao et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29825.html">Data-Driven Modeling and Control for Tethered Space Systems with Koopman-Informed Graphs</a></div></td>
 <td>Ao Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29825">2606.29825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19303.html">P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution</a></div></td>
-<td> Xizhuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19303">2606.19303</a></td>
 </tr>
 </tbody></table>

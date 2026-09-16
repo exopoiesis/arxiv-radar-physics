@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15894.html">Quenched Ensemble Sampling</a></div></td>
+<td>David Yallup</td>
+<td><a href="http://arxiv.org/abs/2609.15894">2609.15894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02373.html">Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance</a></div></td>
 <td>Sai Niranjan Ramachandran et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22053.html">Gradient-Descent Steps to Success over Mean Accuracy: A Paradigm Shift for ML</a></div></td>
 <td>Riccardo Poli et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22053">2606.22053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19144.html">Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction</a></div></td>
-<td>Jingyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19144">2606.19144</a></td>
 </tr>
 </tbody></table>

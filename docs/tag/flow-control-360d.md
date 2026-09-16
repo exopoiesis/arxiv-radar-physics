@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flow-control — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="flow-control-7d.html">7d</a> <a href="flow-control-30d.html">30d</a> <a href="flow-control-90d.html">90d</a> <strong>360d</strong> <a href="flow-control-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15762.html">Deep Koopman Sensing</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Nithin Somasekharan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15762">2609.15762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13563.html">A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS Neuromorphic System</a></div></td>
+<td>Robin Heinemann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13563">2609.13563</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04768.html">Embedding Large Language Models into Flow Controls: An Agentic Framework for Adaptive and Trustworthy Automated Cooking</a></div></td>
@@ -146,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16016.html">Transfer learning strategies for accelerating reinforcement-learning-based flow control</a></div></td>
 <td>Saeed Salehi</td>
 <td><a href="http://arxiv.org/abs/2510.16016">2510.16016</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16709.html">HypeMARL: Multi-Agent Reinforcement Learning For High-Dimensional, Parametric, and Distributed Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Nicolò Botteghi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16709">2509.16709</a></td>
 </tr>
 </tbody></table>

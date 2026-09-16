@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="galaxy-formation-90d.html">galaxy-formation</a></div></td>
+<td>Dorsa Sadat Hosseini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13514.html">Operational Range Bounding in Spectroscopy: A Safety Cage Framework for Machine Learning Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Nikki Grens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13514">2609.13514</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13301.html">Astrophysics in the Era of Artificial Intelligence powered by Large Language Models</a></div></td>
+<td>A. R. Rao</td>
+<td><a href="http://arxiv.org/abs/2609.13301">2609.13301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09102.html">TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Nikolaos Triantafyllou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09102">2609.09102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07027.html">Machine Learning Assisted Parametrisation and Prediction of Bare to Neutral $β^-$ Decay Rate Ratios of Fully Ionised Atoms</a></div></td>
+<td>Arkabrata Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07027">2609.07027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05412.html">Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations</a></div></td>
+<td>Anchal Saxena et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05412">2609.05412</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26322.html">The MegaWave Radio Surveyor</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
@@ -116,17 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
 <td>Kevin Coldren et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26405">2606.26405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19449.html">A self-consistent analytical model for both the photoionization rate and reionization history</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a></div></td>
-<td>Christopher Cain et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19449">2606.19449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19539.html">Review of Machine Learning Models for Solar Energetic Particle Prediction</a></div></td>
-<td>Spiridon Kasapis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19539">2606.19539</a></td>
 </tr>
 </tbody></table>

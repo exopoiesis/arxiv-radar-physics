@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11117.html">Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers</a></div></td>
+<td>Hanhua Hong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11117">2609.11117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02876.html">GRADSOLVE: fast exact gradients for ODE ensembles on GPUs</a></div></td>
 <td>Alessio Spurio Mancini</td>
@@ -26,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03863.html">Rethinking Scientific Discovery in the Agentic Era</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Yining Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03863">2607.03863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18936.html">SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety</a></div></td>
-<td>Linghao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18936">2606.18936</a></td>
 </tr>
 </tbody></table>

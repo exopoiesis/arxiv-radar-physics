@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Dorsa Sadat Hosseini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10709.html">BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>Max E. Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10709">2609.10709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10710.html">BINDing the lightcone: A suite of astrophysical ray-traced weak lensing and SZ maps</a></div></td>
+<td>Max E. Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10710">2609.10710</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09566.html">Searching for low-surface-brightness galaxies with compact neural networks A parameter-efficient approach to first-pass selection of diffuse galaxy in HSC-SSP imaging</a></div></td>

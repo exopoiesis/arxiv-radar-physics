@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Dorsa Sadat Hosseini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12038.html">Impact of galaxy intrinsic alignments on non-Gaussian weak lensing statistics for modified gravity</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Mehar Chawla et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12038">2609.12038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09950.html">Learning cosmic web environments with diffusion models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Mehdi Noor et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09950">2609.09950</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09102.html">TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Nikolaos Triantafyllou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09102">2609.09102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07660.html">Thermodynamic Cyclic Processes with Markov Samplers in Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Heinrich von Campe et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07660">2609.07660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04829.html">A guide to choosing data compression methods for cosmological inference</a></div></td>
+<td>Susan Pyne et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04829">2609.04829</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26276.html">$\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>

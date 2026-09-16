@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">300 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17160.html">Neural Field Ensembles for Aerodynamic Surface Prediction: Winning Solution to the ONERA CRM Wall Distribution 2025 Challenge</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
+<td>Lionel Salesses et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17160">2609.17160</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15104.html">Physics Informed Neural Network model for the dynamical study of Abdominal Aortic Aneurysm</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Adrián Robles Arques et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15104">2609.15104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09711.html">VFNet: Multi-View Spatio-Temporal Model for Void Fraction Estimation in Gas-Liquid Two-Phase Flow</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Md Adnan Faisal Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09711">2609.09711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08947.html">ONE CYLinder: A Benchmark for Graph-Based Surrogate Modeling of Unsteady Bluff-Body Flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Théodore Michel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08947">2609.08947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06660.html">FSAN: Flow State Attention Network for Aerodynamic Prediction</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Wenxuan Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06660">2609.06660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04891.html">Attention-guided super-resolution of 4D flow MRI in carotid arteries</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Ali Mokhtari et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04891">2609.04891</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26811.html">A review of simulation, measurement techniques, and development in chip thermal design</a></div></td>

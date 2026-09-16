@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,94 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16853.html">Can Deep Learning Achieve Cross-Physics Mapping?</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
+<td>Pengfei Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16853">2609.16853</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15620.html">Where to Compute and How to Interact: Operator-Readable Adaptation with Gauge-Aware Transport</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Zixuan Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15620">2609.15620</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05860.html">Beyond Arbitrary Geometry: Topology Generalization In neural PDE Operators</a></div></td>
+<td>Peiyao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05860">2609.05860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13688.html">SONAR: A Structure-Consistent Neural Operator for Null-Space-Aware Sparse View CT Reconstruction</a></div></td>
+<td>Song Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13688">2609.13688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11040.html">Toward Interpretable Multimodal Fusion: Heat Conduction Modeling for Hyperspectral and LiDAR Joint Classification</a></div></td>
+<td>Kan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11040">2609.11040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12115.html">DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Enrique Hernandez Noguera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12115">2609.12115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08102.html">Learning Metamaterial Eigenmodes with Wavelet-Encoded Fourier Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Han Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08102">2609.08102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08606.html">Neptune: An AI model for Global Ocean Subseasonal Prediction</a></div></td>
+<td>Davide Donno et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08606">2609.08606</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07752.html">Local gradient neural operator</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Baiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07752">2609.07752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04407.html">Disentangling Attention in Deep Operator Learning: A Controlled Study of Data-Driven and Physics-Informed Architectures</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
+<td>Amar Alem Koric et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04407">2609.04407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04549.html">Fast Surrogate Modeling of Excitable and Oscillatory FitzHugh-Nagumo Dynamics with Parametric Neural Operators</a></div></td>
+<td>Andrew Franck et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04549">2609.04549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02727.html">Neural operators approximate strongly continuous convex monotone semigroups</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Jonas Blessing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02727">2609.02727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03069.html">Learnable composition for neural operators</a></div></td>
+<td>Zituo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03069">2609.03069</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Zhijie Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00900">2609.00900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01928.html">Learning with Volterra Neural Networks: A System Theoretic Perspective</a></div></td>
+<td>Haoyu Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01928">2609.01928</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-27</td>
@@ -92,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>John C Schotland et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15588.html">A General-purpose Solver of Fourier Neural Swarm Operator Towards Accurate and Efficient Mechanical Modeling of Ultra Large Composite Materials</a></div></td>
-<td>Lekun Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15588">2608.15588</a></td>
 </tr>
 </tbody></table>

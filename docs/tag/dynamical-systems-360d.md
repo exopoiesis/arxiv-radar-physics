@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">671 papers</span>
+  <span class="paper-count">673 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07752.html">Local gradient neural operator</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Baiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07752">2609.07752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02063.html">LaST-SR: Laplace-Inspired Steady-Transient Complex-Frequency Decomposition for Single Image Super-Resolution</a></div></td>
+<td>Linhao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02063">2609.02063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01881.html">Physics-informed Learning for Orbital Uncertainty Propagation with Error Bounds</a></div></td>
+<td>Chun-Wei Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01881">2609.01881</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
@@ -4034,11 +4052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17154.html">Data-efficient Kernel Methods for Learning Hamiltonian Systems</a></div></td>
 <td>Yasamin Jalalian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17154">2509.17154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16709.html">HypeMARL: Multi-Agent Reinforcement Learning For High-Dimensional, Parametric, and Distributed Systems</a></div><div class="paper-tags"><a href="flow-control-360d.html">flow-control</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Nicolò Botteghi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16709">2509.16709</a></td>
 </tr>
 </tbody></table>

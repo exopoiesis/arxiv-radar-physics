@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13654.html">Multimodal Foundation Models Adaptation based on Domain-Aware Relaxed Orthogonal Subspace for Remote Sensing</a></div></td>
+<td>Han Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13654">2609.13654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13332.html">Global-Local Contextual Progressive Expansion Network for Martian Landslide Segmentation in Multimodal Remote Sensing Imagery</a></div></td>
+<td>Leo Thomas Ramos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13332">2609.13332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10156.html">ScopeMamba-YOLO: Widening the Perceptual Scope Inward and Outward for Small Object Detection in Remote Sensing Imagery</a></div></td>
+<td>Junjie Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10156">2609.10156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13283.html">Multimodal-Multiresolution Foundation Model for Lunar Remote Sensing</a></div></td>
+<td>Paolo Fraccaro et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13283">2609.13283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06962.html">DPSF-Net: A Dual-Prior Spatial-Frequency Network for Real-World Remote Sensing Image Dehazing</a></div></td>
+<td>Mei Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06962">2609.06962</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06359.html">AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification</a></div></td>
+<td>Nafisa Anjum et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06359">2609.06359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06737.html">Monte Carlo-Based Ex-Ante Assessment of the Green Benefits of an AI-Driven Smart Agriculture Platform in Hainan</a></div></td>
+<td>Zhaoyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06737">2609.06737</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
@@ -428,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21475.html">Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features</a></div></td>
 <td>Adrian Canovas-Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21475">2606.21475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19277.html">A Unified Framework for Efficient Remote Sensing Visual Question Answering: Adapting Dual, Hybrid, and Encoder-Decoder Architectures</a></div></td>
-<td>Timothy Agboada et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19277">2606.19277</a></td>
 </tr>
 </tbody></table>

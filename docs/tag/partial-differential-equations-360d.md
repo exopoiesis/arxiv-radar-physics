@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">781 papers</span>
+  <span class="paper-count">792 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,82 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17323.html">A derivative-free framework for capturing macroscopic behavior of incompressible turbulent flows</a></div></td>
+<td>Jihun Han et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17323">2609.17323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15432.html">Single-condition neural solvers encode transferable response spaces for parametric differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Wenbo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15432">2609.15432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15620.html">Where to Compute and How to Interact: Operator-Readable Adaptation with Gauge-Aware Transport</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Zixuan Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15620">2609.15620</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16406.html">Physics Informed Random Feature Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Chi-An Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16406">2609.16406</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14841.html">Tackling Failure Modes of PINNs and PIKANs Using Conflict-Free Gradients</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Sidharth S. Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14841">2609.14841</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Timon Rabczuk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07437.html">A Systematic Analysis of Automatic Differentiation versus Discretization-based Constraints for Physics-Informed PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Xing Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07437">2609.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07752.html">Local gradient neural operator</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Baiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07752">2609.07752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07983.html">Solving the Elastic Wave Equation with Physics-Informed Neural Networks: A Robust and Critical Assessment</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Davide Staub et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07983">2609.07983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08034.html">Two-Scale Localized PCA-Net: Coarse-Global and Local-Residual Representations for Artifact-Reduced PDE Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Mrigank Dhingra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08034">2609.08034</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05012.html">Solution-space heterogeneity shapes federated learning dynamics across partial differential equations</a></div><div class="paper-tags"><a href="pde-learning-360d.html">pde-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Ping Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05012">2609.05012</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Fumihiro Imoto</td>
 <td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02727.html">Neural operators approximate strongly continuous convex monotone semigroups</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Jonas Blessing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02727">2609.02727</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -4694,11 +4766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03672.html">Physically consistent predictive reduced-order modeling by enhancing Operator Inference with state constraints</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Hyeonghun Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2502.03672">2502.03672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16709.html">HypeMARL: Multi-Agent Reinforcement Learning For High-Dimensional, Parametric, and Distributed Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="flow-control-360d.html">flow-control</a></div></td>
-<td>Nicolò Botteghi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16709">2509.16709</a></td>
 </tr>
 </tbody></table>

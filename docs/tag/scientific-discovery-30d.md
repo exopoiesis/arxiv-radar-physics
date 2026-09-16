@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,90 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11873.html">The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement</a></div></td>
+<td>Yi Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11873">2609.11873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16736.html">Dataset repurposing and disruptive AI research</a></div></td>
+<td>Yulin Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16736">2609.16736</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16995.html">PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress</a></div></td>
+<td>Kevin Qinghong Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16995">2609.16995</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13819.html">Benchmarking Optimizers to Solve Inverse Problems with Differentiable Physics Simulators</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
+<td>Xiang Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13819">2609.13819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11042.html">T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks</a></div></td>
+<td>Junyao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11042">2609.11042</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10109.html">Enabling New Discoveries with Machine Learning</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Michelle Lochner</td>
+<td><a href="http://arxiv.org/abs/2609.10109">2609.10109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08536.html">Physical Law Ecology: mapping multi-mechanism ecologies as the zeroth step of data-driven scientific discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Xiongheng Bian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08536">2609.08536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08844.html">Exploring the Genesis Platform Capabilities to Accelerate Scientific Discovery in OPAL</a></div></td>
+<td>Daniel Rosendo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08844">2609.08844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06366.html">AutoKD: Autonomous Knowledge Discovery</a></div></td>
+<td>Qinwen Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06366">2609.06366</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Binglin Ji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05807.html">MolParser-Mobile: Ultrafast OCSR System for Large-Scale Chemical Literature Mining</a></div></td>
+<td>Xi Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05807">2609.05807</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05093.html">LLM-Guided Program Evolution for Circle Packing: Breaking 10 Packomania Records for $28</a></div></td>
+<td>Wes Sander</td>
+<td><a href="http://arxiv.org/abs/2609.05093">2609.05093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04290.html">Evidence Integration in Large Language Models</a></div></td>
+<td>Sebastien Kawada et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04290">2609.04290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04564.html">La Agente Óptima: Towards Agentic Self-Driving Laboratories</a></div></td>
+<td>Marcel Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04564">2609.04564</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00731.html">Agentic Empirical Asset Pricing: Methodological Foundations</a></div></td>
@@ -110,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18279.html">A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design</a></div></td>
 <td>Huanshu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18279">2608.18279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15669.html">Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15669">2608.15669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16951.html">The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method</a></div></td>
-<td>Travis Smith</td>
-<td><a href="http://arxiv.org/abs/2608.16951">2608.16951</a></td>
 </tr>
 </tbody></table>

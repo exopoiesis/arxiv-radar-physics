@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
+<td>Dorsa Sadat Hosseini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13514.html">Operational Range Bounding in Spectroscopy: A Safety Cage Framework for Machine Learning Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Nikki Grens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13514">2609.13514</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13301.html">Astrophysics in the Era of Artificial Intelligence powered by Large Language Models</a></div></td>
+<td>A. R. Rao</td>
+<td><a href="http://arxiv.org/abs/2609.13301">2609.13301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09102.html">TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>
+<td>Nikolaos Triantafyllou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09102">2609.09102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07027.html">Machine Learning Assisted Parametrisation and Prediction of Bare to Neutral $β^-$ Decay Rate Ratios of Fully Ionised Atoms</a></div></td>
+<td>Arkabrata Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07027">2609.07027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05412.html">Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations</a></div></td>
+<td>Anchal Saxena et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05412">2609.05412</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26322.html">The MegaWave Radio Surveyor</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a></div></td>

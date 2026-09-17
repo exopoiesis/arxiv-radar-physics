@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dark-matter — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11692.html">Hunting the Unseen: Deep Learning Analysis for Semi-Visible Jet Tagging</a></div></td>
 <td>Miguel A. Avendaño-Bernal et al.</td>
 <td><a href="http://arxiv.org/abs/2609.11692">2609.11692</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10709.html">BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a></div><div class="paper-tags"><a href="galaxy-formation-7d.html">galaxy-formation</a></div></td>
-<td>Max E. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10709">2609.10709</a></td>
 </tr>
 </tbody></table>

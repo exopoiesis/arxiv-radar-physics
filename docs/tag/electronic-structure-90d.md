@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18826.html">Gauge-including neural-network quantum Monte Carlo for molecules in magnetic fields</a></div></td>
+<td>Chengye Lü et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18826">2609.18826</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div></td>
 <td>Yuxuan Zeng et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21251.html">AI-accelerated metallized $σ$-bonding screening for superconductor discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Zechen Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21251">2606.21251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19785.html">Boltzmann-constrained extraction of spin splitting and momentum relaxation in d-wave altermagnets</a></div></td>
-<td>Y. X. Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19785">2606.19785</a></td>
 </tr>
 </tbody></table>

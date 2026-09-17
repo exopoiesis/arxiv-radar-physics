@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18233.html">Toward Autonomous Radio Follow-up of Multi-messenger Transients with RADAR: From Alert Parsing to Inference and Observation Scheduling</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
+<td>Mihael Hategan-Marandiuc et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18233">2609.18233</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Dorsa Sadat Hosseini et al.</td>
@@ -758,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18260.html">Exploring the impact of AGN feedback model variations on the Lyman-$α$ Forest Flux Power Spectrum</a></div></td>
 <td>Megan Pirecki et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18260">2509.18260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Adriano Frattale Mascioli et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
 </tr>
 </tbody></table>

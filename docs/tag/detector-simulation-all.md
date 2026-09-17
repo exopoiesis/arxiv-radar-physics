@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>detector-simulation — all</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <a href="detector-simulation-90d.html">90d</a> <a href="detector-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18534.html">Search for Visible Dark Photon Decays at the Future SHINE Facility with the DarkSHINE Experiment</a></div></td>
+<td>Zejia Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18534">2609.18534</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12795.html">Fine-tuned Normalizing Flows for ALICE Zero Degree Calorimeter Fast Simulation</a></div><div class="paper-tags"><a href="normalizing-flows-all.html">normalizing-flows</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">486 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17991.html">Fourier Analysis of Parametrized Interactive Quantum Classifiers</a></div></td>
+<td>Fábio Novaes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17991">2609.17991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18347.html">Optical Quantum Computing</a></div></td>
+<td>Hamza Hasnaoui et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18347">2609.18347</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17352.html">Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Marcin Jastrzebski et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17352">2609.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17789.html">QiT: Quantum-Inspired Transformer for Visual Recognition Task</a></div></td>
+<td>Badri N. Patro et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17789">2609.17789</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-13</td>

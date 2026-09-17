@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12274.html">Ensemble Forecast Updates without Model Re-integration Based on Ultra-rapid Data Assimilation: Idealized Experiments with a Heavy Rainfall Case</a></div></td>
 <td>Fumitoshi Kawasaki et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12274">2609.12274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10497.html">Dynamic Reduced-Order Data Assimilation from Sparse Velocity Measurements</a></div></td>
+<td>Mauricio Portilla et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10497">2609.10497</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>

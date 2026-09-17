@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Abed Hammoud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13654.html">Multimodal Foundation Models Adaptation based on Domain-Aware Relaxed Orthogonal Subspace for Remote Sensing</a></div></td>
 <td>Han Luo et al.</td>
@@ -104,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20540.html">GOES-East full-disk AI nowcasting of cloud evolution in observation space</a></div></td>
 <td>Dhamma Kimpara et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20540">2608.20540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16681.html">Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank</a></div></td>
-<td>Shanwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16681">2608.16681</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,118 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17997.html">The Attention Within: Consensus Dynamics in Selective State Space Models</a></div></td>
+<td>João Pedro Silvestre et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17997">2609.17997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18631.html">Automatic denoising and differentiation based on Savitzky-Golay filtering and Homogeneous Differentiators for attractor reconstruction via differential embedding</a></div></td>
+<td>Uros Sutulovic et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18631">2609.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Amartya Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17768.html">Spatio-temporal Latent Denoising Diffusion Probabilistic Models for Reduced-order Modeling of Parametrized Dynamical Systems</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a></div></td>
+<td>Michiel Nikken et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17768">2609.17768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17815.html">Principled Koopman Representations with Kalman Inference for Efficient Time-Series Prediction</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a> · <a href="time-series-prediction-90d.html">time-series-prediction</a></div></td>
+<td>Ruiquan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17815">2609.17815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09739.html">Dynamics Creation through Neural Dynamical Transfer Learning</a></div></td>
+<td>He Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09739">2609.09739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08740.html">PAC-Bayesian Bounds for Learning Partially Observed Stochastic Linear Time-Invariant State-Space Systems with Inputs and Sub-Gaussian Noise</a></div></td>
+<td>Mihaly Petreczky et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08740">2609.08740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09116.html">When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay</a></div></td>
+<td>Hasan Amin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09116">2609.09116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09434.html">Tensor-Train Weak SINDy: Identifying High-Dimensional Nonlinear Dynamics</a></div></td>
+<td>Will Houser et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09434">2609.09434</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07752.html">Local gradient neural operator</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Baiming Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07752">2609.07752</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06875.html">A Data-Driven Koopman-Behavioral Distance for Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Sarang Sutavani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06875">2609.06875</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06206.html">Non-parametric Formal Synthesis of Unknown Stochastic Systems: Asymptotic Convergence Guarantees</a></div></td>
+<td>Zhi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06206">2609.06206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04963.html">Fractal basins trap latent reasoning</a></div></td>
+<td>Jeffrey Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04963">2609.04963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05337.html">Variational Continuation for Double Pendulum Periodic Orbits</a></div></td>
+<td>Leo Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05337">2609.05337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03921.html">Data-Based Clustering and Control of Similar Biological Systems</a></div></td>
+<td>Peilin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03921">2609.03921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04177.html">A Computationally Feasible Framework for Causal Probabilistic Explanation</a></div></td>
+<td>Rafal Urbaniak et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04177">2609.04177</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04329.html">Data-Driven Learning of Unknown Nonlinear Differential Equations Using Functional Analysis</a></div></td>
+<td>Seyyed Shaho Alaviani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04329">2609.04329</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02063.html">LaST-SR: Laplace-Inspired Steady-Transient Complex-Frequency Decomposition for Single Image Super-Resolution</a></div></td>
 <td>Linhao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02063">2609.02063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02068.html">DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Zhente Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02068">2609.02068</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -548,17 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
 <td>Sina Arefizadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Juntian Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20967.html">Formalizing Task-Space Complexity for Zero-Shot Generalization</a></div></td>
-<td>Jung-Hoon Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20967">2606.20967</a></td>
 </tr>
 </tbody></table>

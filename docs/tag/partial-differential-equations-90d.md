@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Zhicheng Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18419">2609.18419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Amartya Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17323.html">A derivative-free framework for capturing macroscopic behavior of incompressible turbulent flows</a></div></td>
 <td>Jihun Han et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17323">2609.17323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div></td>
+<td>Jonathan Weare et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -46,10 +64,28 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.14841">2609.14841</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09665.html">Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries</a></div></td>
+<td>Jihoon Moon</td>
+<td><a href="http://arxiv.org/abs/2609.09665">2609.09665</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Timon Rabczuk et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08630.html">A Fully Dual Domain Decomposition Method for Extreme Learning Machines Using GenEO Spectral Coarse Spaces</a></div></td>
+<td>Chang-Ock Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08630">2609.08630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09268.html">Reconstructing fluid velocity fields from sparse sensors using a variational quantum algorithm</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-90d.html">variational-quantum-algorithms</a></div></td>
+<td>Nhat-Quang Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09268">2609.09268</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -76,10 +112,28 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.08034">2609.08034</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05778.html">Nonlinear elliptic homogenization with the parametric Deep Ritz method</a></div></td>
+<td>Conor Rowan</td>
+<td><a href="http://arxiv.org/abs/2609.05778">2609.05778</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05012.html">Solution-space heterogeneity shapes federated learning dynamics across partial differential equations</a></div><div class="paper-tags"><a href="pde-learning-90d.html">pde-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Ping Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05012">2609.05012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03343.html">Learning Informative Prior with Infinite-Dimensional Continuous Normalizing Flow for Bayesian Inverse Problem</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Yang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03343">2609.03343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03626.html">Residual neural networks overcome the curse of dimensionality for semilinear heat equations</a></div></td>
+<td>Ilkhom Mukhammadiev et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03626">2609.03626</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -764,29 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Yitian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19754.html">Learning universal approximations for partial differential equations with Physics-Informed Broad Learning System</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Zhiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19754">2606.19754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19984.html">Kolmogorov-Arnold Reservoir Computing</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Juntian Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19984">2606.19984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20326.html">Quantum-classical physics-informed Kolmogorov-Arnold networks for PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Xiang Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20326">2606.20326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20442.html">Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Fedor Buzaev et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20442">2606.20442</a></td>
 </tr>
 </tbody></table>

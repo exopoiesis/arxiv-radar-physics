@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">637 papers</span>
+  <span class="paper-count">636 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3830,11 +3830,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17621.html">SeqBattNet: A Discrete-State Physics-Informed Neural Network with Aging Adaptation for Battery Modeling</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Khoa Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17621">2509.17621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00288.html">Solving Partial Differential Equations with Random Feature Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Chunyang Liao</td>
-<td><a href="http://arxiv.org/abs/2501.00288">2501.00288</a></td>
 </tr>
 </tbody></table>

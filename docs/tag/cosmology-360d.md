@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,11 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18078.html">DESI Strong Lens Foundry IV: Spectroscopic Confirmation of DESI Lens Candidates with VLT/MUSE</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Emerald Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18078">2509.18078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Adriano Frattale Mascioli et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
 </tr>
 </tbody></table>

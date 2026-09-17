@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
+<td>Suprim Nakarmi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18107">2609.18107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18228.html">Anomaly Detection in General Ledger Data: Results from a Hybrid Approach</a></div></td>
+<td>Jan Gronewald et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18228">2609.18228</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17491.html">FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection</a></div></td>
 <td>Xiaoxuan Huang et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13298.html">Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures</a></div></td>
 <td>Qinwu Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13298">2609.13298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09785.html">More QCD Masterclass Lectures on Jet Physics and Machine Learning</a></div></td>
-<td>Andrew J. Larkoski</td>
-<td><a href="http://arxiv.org/abs/2609.09785">2609.09785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10109.html">Enabling New Discoveries with Machine Learning</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
-<td>Michelle Lochner</td>
-<td><a href="http://arxiv.org/abs/2609.10109">2609.10109</a></td>
 </tr>
 </tbody></table>

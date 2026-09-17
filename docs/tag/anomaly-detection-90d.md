@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>anomaly-detection — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <strong>90d</strong> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
+<td>Suprim Nakarmi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18107">2609.18107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18228.html">Anomaly Detection in General Ledger Data: Results from a Hybrid Approach</a></div></td>
+<td>Jan Gronewald et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18228">2609.18228</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17491.html">FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection</a></div></td>
@@ -362,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22556.html">HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection</a></div></td>
 <td>Jiayu Huo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22556">2606.22556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20055.html">PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection</a></div></td>
-<td>Youji Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20055">2606.20055</a></td>
 </tr>
 </tbody></table>

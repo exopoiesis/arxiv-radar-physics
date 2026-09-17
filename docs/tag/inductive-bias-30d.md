@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.16468">2609.16468</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17894.html">Graph neural networks for exoplanet atmospheres</a></div></td>
+<td>Antonia Vojtekova et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17894">2609.17894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16266.html">Towards Surrogate Based Dequantization of Quantum Reinforcement Learning</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Pablo Rodriguez-Grasa et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17750.html">On the Expressive Power of the Transverse-Field Ising Model for Graph Learning</a></div></td>
 <td>Mehdi Djellabi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17750">2608.17750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16494.html">Graph Machine Learning: An Opportunity for Power Systems</a></div></td>
-<td>Martin Sadric et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16494">2608.16494</a></td>
 </tr>
 </tbody></table>

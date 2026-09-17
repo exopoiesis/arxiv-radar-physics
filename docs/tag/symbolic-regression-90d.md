@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
+<td>Abed Hammoud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-90d.html">force-fields</a></div></td>
 <td>Bilvin Varughese et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27126.html">Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs</a></div></td>
 <td>Miguel Jaraiz et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27126">2606.27126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20467.html">Agentic Symbolic Search: Characterizing PDEs Beyond Hand-crafted Expressions, Meshes, and Neural Networks</a></div></td>
-<td>Zongmin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20467">2606.20467</a></td>
 </tr>
 </tbody></table>

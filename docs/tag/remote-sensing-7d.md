@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
+<td>Abed Hammoud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13654.html">Multimodal Foundation Models Adaptation based on Domain-Aware Relaxed Orthogonal Subspace for Remote Sensing</a></div></td>
 <td>Han Luo et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13332.html">Global-Local Contextual Progressive Expansion Network for Martian Landslide Segmentation in Multimodal Remote Sensing Imagery</a></div></td>
 <td>Leo Thomas Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13332">2609.13332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10156.html">ScopeMamba-YOLO: Widening the Perceptual Scope Inward and Outward for Small Object Detection in Remote Sensing Imagery</a></div></td>
-<td>Junjie Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10156">2609.10156</a></td>
 </tr>
 </tbody></table>

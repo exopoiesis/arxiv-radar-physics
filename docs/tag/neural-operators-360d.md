@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">410 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Zhicheng Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18419">2609.18419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Amartya Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16853.html">Can Deep Learning Achieve Cross-Physics Mapping?</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Pengfei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16853">2609.16853</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17638.html">Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications</a></div></td>
+<td>Alessandro Bombini</td>
+<td><a href="http://arxiv.org/abs/2609.17638">2609.17638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -2468,11 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02106.html">Resolving Turbulent Magnetohydrodynamics: A Hybrid Operator-Diffusion Framework</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="mhd-360d.html">mhd</a></div></td>
 <td>Semih Kacmaz et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02106">2507.02106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17131.html">Delay compensation of multi-input distinct delay nonlinear systems via neural operators</a></div></td>
-<td>Filip Bajraktari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17131">2509.17131</a></td>
 </tr>
 </tbody></table>

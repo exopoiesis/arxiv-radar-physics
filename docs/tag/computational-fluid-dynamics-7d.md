@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15104.html">Physics Informed Neural Network model for the dynamical study of Abdominal Aortic Aneurysm</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Adrián Robles Arques et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15104">2609.15104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09711.html">VFNet: Multi-View Spatio-Temporal Model for Void Fraction Estimation in Gas-Liquid Two-Phase Flow</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
-<td>Md Adnan Faisal Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09711">2609.09711</a></td>
 </tr>
 </tbody></table>

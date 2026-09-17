@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17814.html">GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning</a></div></td>
+<td>Dongze Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17814">2609.17814</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14910.html">Cahn-Hilliard equation associated with hypergraph</a></div></td>
 <td>Takeshi Fukao et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15702.html">Backward SDEs-based Diffusion for Physics-Constrained Generation</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
 <td>Zihao Wang</td>
 <td><a href="http://arxiv.org/abs/2609.15702">2609.15702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09950.html">Learning cosmic web environments with diffusion models</a></div><div class="paper-tags"><a href="cosmology-7d.html">cosmology</a></div></td>
-<td>Mehdi Noor et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09950">2609.09950</a></td>
 </tr>
 </tbody></table>

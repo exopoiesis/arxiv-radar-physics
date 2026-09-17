@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18826.html">Gauge-including neural-network quantum Monte Carlo for molecules in magnetic fields</a></div></td>
+<td>Chengye Lü et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18826">2609.18826</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div></td>
 <td>Yuxuan Zeng et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19053.html">Ab initio-based Deep-Learning Prediction of Carrier Mobility in Strongly Anharmonic Materials</a></div></td>
 <td>Juan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19053">2608.19053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17200.html">Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17200">2608.17200</a></td>
 </tr>
 </tbody></table>

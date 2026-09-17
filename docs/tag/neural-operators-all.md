@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">604 papers</span>
+  <span class="paper-count">607 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Zhicheng Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18419">2609.18419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Amartya Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16853.html">Can Deep Learning Achieve Cross-Physics Mapping?</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
 <td>Pengfei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16853">2609.16853</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17638.html">Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications</a></div></td>
+<td>Alessandro Bombini</td>
+<td><a href="http://arxiv.org/abs/2609.17638">2609.17638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>

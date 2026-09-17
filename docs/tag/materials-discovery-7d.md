@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div></td>
+<td>Kishalay Das</td>
+<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div></td>
 <td>Tsz Wai Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09799.html">uFlowCSP: Crystal Structure Prediction using Mean flow generative models</a></div><div class="paper-tags"><a href="crystal-structure-prediction-7d.html">crystal-structure-prediction</a></div></td>
-<td>Sourin Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09799">2609.09799</a></td>
 </tr>
 </tbody></table>

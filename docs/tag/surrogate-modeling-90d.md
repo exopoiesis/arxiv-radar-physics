@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.17160">2609.17160</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14402.html">Neural Modal Decomposition: Architectural Priors from Observables</a></div></td>
+<td>Juho Park et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14402">2609.14402</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03382.html">SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Shunan Zheng et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21781.html">Physics-Preserving Latent Compression for Zero-Shot Resolution Transfer in 3D Turbulence</a></div><div class="paper-tags"><a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
 <td>Yilong Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21781">2606.21781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20983.html">Physics-Guided Fully Convolutional Spatiotemporal Learning Toward Digital-Twin-Enabled Microstructure Evolution Prediction</a></div></td>
-<td>Michael Trimboli et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20983">2606.20983</a></td>
 </tr>
 </tbody></table>

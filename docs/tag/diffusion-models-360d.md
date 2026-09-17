@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17814.html">GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning</a></div></td>
+<td>Dongze Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17814">2609.17814</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14910.html">Cahn-Hilliard equation associated with hypergraph</a></div></td>
 <td>Takeshi Fukao et al.</td>
@@ -68,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Chuxiangbo Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02016">2609.02016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02068.html">DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Zhente Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02068">2609.02068</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -3488,17 +3500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18461.html">Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It&#x27;s Created?</a></div></td>
 <td>Ayan Sar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18461">2509.18461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23711.html">Subjective Camera 1.0: Bridging Human Cognition and Visual Reconstruction through Sequence-Aware Sketch-Guided Diffusion</a></div></td>
-<td>Haoyang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23711">2506.23711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16874.html">A Mutil-conditional Diffusion Transformer for Versatile Seismic Wave Generation</a></div></td>
-<td>Longfei Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16874">2509.16874</a></td>
 </tr>
 </tbody></table>

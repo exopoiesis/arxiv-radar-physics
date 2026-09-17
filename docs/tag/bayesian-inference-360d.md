@@ -94,6 +94,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.05118">2609.05118</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03343.html">Learning Informative Prior with Infinite-Dimensional Continuous Normalizing Flow for Bayesian Inverse Problem</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Yang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03343">2609.03343</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00766.html">$\texttt{BilbyFlow}$: user-friendly neural posterior estimation for gravitational-wave astronomy</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Liam Pinchbeck et al.</td>
@@ -2594,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17527.html">Late-Time Cosmological Constraints on Kaniadakis Holographic Dark Energy</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Giuseppe Gaetano Luciano et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17527">2509.17527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12473.html">Taming systematics in distance and inclination measurements with gravitational waves: role of the detector network and higher-order modes</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Adriano Frattale Mascioli et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12473">2504.12473</a></td>
 </tr>
 </tbody></table>

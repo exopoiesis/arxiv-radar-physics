@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,17 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17293.html">Physics-Informed Operator Learning for Hemodynamic Modeling</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Ryan Chappell et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17293">2509.17293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17018.html">DeepEOSNet: Capturing the dependency on thermodynamic state in property prediction tasks</a></div></td>
-<td>Jan Pavšek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17018">2509.17018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17254.html">Analysis of the Rarefied Flow at Micro-Step using a DeepONet Surrogate Model with a Physics-Guided Zonal Loss Function</a></div></td>
-<td>Ehsan Roohi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17254">2509.17254</a></td>
 </tr>
 </tbody></table>

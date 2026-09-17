@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17724.html">VERaiPHY -- Validation &amp; Evaluation for Robust AI in PHYsics</a></div></td>
 <td>Gaia Grosso et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17724">2608.17724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16654.html">Galaxy Morphology Classification: Uncertainty Modeling and Out of Distribution Detection</a></div></td>
-<td>Prem Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16654">2608.16654</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07861.html">Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="data-assimilation-360d.html">data-assimilation</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Midhuna Suresh et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07861">2609.07861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03343.html">Learning Informative Prior with Infinite-Dimensional Continuous Normalizing Flow for Bayesian Inverse Problem</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Yang Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03343">2609.03343</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>

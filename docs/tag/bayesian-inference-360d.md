@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20604.html">Semantic SLAM in Precision Agriculture using Bayesian Inference</a></div></td>
+<td>Ruben Beumer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20604">2609.20604</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16556.html">Multi-wavelength Constraints on Dust Dynamics and Size Evolution in Protoplanetary Disk Rings. II. Observational Implications</a></div></td>
 <td>Linhan Yang et al.</td>
@@ -2594,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21233.html">RadioSED II: discovering the peaked spectrum radio sources in Stripe 82</a></div></td>
 <td>E. F. Kerrison et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21233">2509.21233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17527.html">Late-Time Cosmological Constraints on Kaniadakis Holographic Dark Energy</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Giuseppe Gaetano Luciano et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17527">2509.17527</a></td>
 </tr>
 </tbody></table>

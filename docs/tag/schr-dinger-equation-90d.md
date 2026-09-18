@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <strong>90d</strong> <a href="schr-dinger-equation-360d.html">360d</a> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26760.html">An Iterative Dual-Channel Neural Quantum State Algorithm for Selected Configuration Interaction</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Jen-Yu Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26760">2606.26760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21758.html">Feedback-Controlled Magnon-Atom Entanglement and Photon Statistics</a></div></td>
-<td>Yiping Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21758">2606.21758</a></td>
 </tr>
 </tbody></table>

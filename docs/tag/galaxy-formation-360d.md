@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26611.html">Exploring cosmological constraints on galaxy formation time</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Agripino Sousa-Neto et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26611">2509.26611</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18271.html">Small-scale Lyman alpha forest cosmology with PRIYA: Constraints from XQ100 and KODIAQ-SQUAD one-dimensional flux power spectra</a></div></td>
-<td>Ming-Feng Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18271">2509.18271</a></td>
 </tr>
 </tbody></table>

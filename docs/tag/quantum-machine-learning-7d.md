@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18347.html">Optical Quantum Computing</a></div></td>
 <td>Hamza Hasnaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18347">2609.18347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19308.html">Temporal information processing on a 4,500-qubit quantum annealer</a></div></td>
+<td>Antonio Sannia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19308">2609.19308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -62,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12500.html">Quantum neural network equipped with backpropagation on a qudit processor</a></div></td>
 <td>Yibo Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12500">2609.12500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11327.html">Virtual quantum neural networks</a></div></td>
-<td>Benchi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11327">2609.11327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11333.html">Quantum Random Access Memory Implementation Using Photon-Photon Interaction in Rydberg Atomic Ensemble</a></div></td>
-<td>Avirup Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11333">2609.11333</a></td>
 </tr>
 </tbody></table>

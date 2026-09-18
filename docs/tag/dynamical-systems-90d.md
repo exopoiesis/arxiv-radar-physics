@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20144.html">Extended dynamic mode decomposition with Fourier dictionaries: Error bounds and fast implementation</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
+<td>Felix Bartel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20144">2609.20144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20399.html">SIPHy: Sparse identification of port-Hamiltonian systems from noisy data</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Håkon Noren Myhr et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20399">2609.20399</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17997.html">The Attention Within: Consensus Dynamics in Selective State Space Models</a></div></td>
@@ -626,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22662.html">LSTM Variants for Chaotic Dynamical Systems: An Empirical Study on the Lorenz Attractor</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>Ruslan Gokhman</td>
 <td><a href="http://arxiv.org/abs/2606.22662">2606.22662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21295.html">Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Borui Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21295">2606.21295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21530.html">Exploratory Modelling of Multi-System Transformation Pathways from Real-World Data: A SINDy-Inspired Sparse Orthogonal Regression Technique</a></div></td>
-<td>Sabin Roman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21530">2606.21530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21538.html">Turbulence Physics Governs a Scaling Law for the Machine-Learning Predictability Ceiling in Chaotic Flow</a></div></td>
-<td>Jiashun Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21538">2606.21538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21573.html">On Fixed-Time Stability of Continuous Dynamics for Non-Monotone Variational Inequalities</a></div></td>
-<td>Sina Arefizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21573">2606.21573</a></td>
 </tr>
 </tbody></table>

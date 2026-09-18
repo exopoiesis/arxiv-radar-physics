@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19276.html">Generalised Visibility ILC: a new foreground mitigation strategy for interferometric HI intensity mapping in the low-redshift Universe</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
+<td>M. Ruiz-Granda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19276">2609.19276</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="galaxy-formation-7d.html">galaxy-formation</a></div></td>
 <td>Dorsa Sadat Hosseini et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12038.html">Impact of galaxy intrinsic alignments on non-Gaussian weak lensing statistics for modified gravity</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a></div></td>
-<td>Mehar Chawla et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12038">2609.12038</a></td>
 </tr>
 </tbody></table>

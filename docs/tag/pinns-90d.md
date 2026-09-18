@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19915">2609.19915</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14926.html">Linearized PINN with pretrained nonlinear layers</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
@@ -668,17 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22191.html">A Fractional-Memory Physics-Informed Neural Network with Fast History Compression for Tempered Fractional Coupled Phase-Field Systems</a></div></td>
 <td>Shubham Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22191">2606.22191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21236.html">Physics-Informed Neural Networks for coupled stiff transport systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Laetitia Laguzet et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21236">2606.21236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21789.html">Bayesian three-dimensional seismic travel-time tomography for active- and passive-source seismic data using physics-informed neural network</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Ryoichiro Agata et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21789">2606.21789</a></td>
 </tr>
 </tbody></table>

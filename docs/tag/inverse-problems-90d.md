@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19697.html">Reconstructability of Inverse Problems under Symmetry: Separating Structural, Effective, and Physical Upper Bounds</a></div></td>
+<td>Isshin Arai</td>
+<td><a href="http://arxiv.org/abs/2609.19697">2609.19697</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20711.html">Hankel-Christoffel-Nevai Screening of Posterior Relevance in Bayesian Inverse Problems</a></div></td>
+<td>Zhiliang Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20711">2609.20711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
+<td>Xinmeng Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19345">2609.19345</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16536.html">Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems</a></div></td>
@@ -488,23 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22364.html">Physics-Informed Neural Operator for Speech Production Analysis</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Kazuya Yokota et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22364">2606.22364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21099.html">ShuffleFlow: Scalable Posterior Inference for Bayesian Inverse Imaging</a></div></td>
-<td>Tianao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21099">2606.21099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21392.html">QVaR: a Quantum Variational Regularization method for Linear Inverse Problems</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Siiri Rautio et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21392">2606.21392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21602.html">Deep Unrolled Networks in Representation Space Applied to MRI Reconstruction</a></div></td>
-<td>Efe Ilıcak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21602">2606.21602</a></td>
 </tr>
 </tbody></table>

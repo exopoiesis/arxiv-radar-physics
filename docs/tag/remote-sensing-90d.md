@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20662.html">Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies</a></div></td>
+<td>Jingtao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20662">2609.20662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Abed Hammoud et al.</td>
@@ -470,11 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23615.html">Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark</a></div></td>
 <td>Nathan Senyard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23615">2606.23615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21475.html">Deep Learning for Soil Moisture Estimation: Fusing Satellite Data with Optimally-Lagged Meteorological Features</a></div></td>
-<td>Adrian Canovas-Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21475">2606.21475</a></td>
 </tr>
 </tbody></table>

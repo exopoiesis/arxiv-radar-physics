@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20358.html">Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model</a></div></td>
+<td>Ali Aouf et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20358">2609.20358</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17814.html">GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning</a></div></td>
@@ -3476,29 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19296.html">Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation</a></div></td>
 <td>Sherwin Bahmani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19296">2509.19296</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02106.html">Resolving Turbulent Magnetohydrodynamics: A Hybrid Operator-Diffusion Framework</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Semih Kacmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02106">2507.02106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17569.html">Conditioning in Generative Quantum Denoising Diffusion Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Daniel Quinn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17569">2509.17569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17941.html">ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion</a></div></td>
-<td>Zichao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17941">2509.17941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18461.html">Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It&#x27;s Created?</a></div></td>
-<td>Ayan Sar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18461">2509.18461</a></td>
 </tr>
 </tbody></table>

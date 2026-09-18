@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
@@ -56,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13688.html">SONAR: A Structure-Consistent Neural Operator for Null-Space-Aware Sparse View CT Reconstruction</a></div></td>
 <td>Song Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13688">2609.13688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11040.html">Toward Interpretable Multimodal Fusion: Heat Conduction Modeling for Hyperspectral and LiDAR Joint Classification</a></div></td>
-<td>Kan Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11040">2609.11040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12115.html">DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Enrique Hernandez Noguera et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12115">2609.12115</a></td>
 </tr>
 </tbody></table>

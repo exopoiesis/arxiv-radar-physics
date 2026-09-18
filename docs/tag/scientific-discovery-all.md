@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">742 papers</span>
+  <span class="paper-count">744 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19644.html">ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI</a></div></td>
+<td>Jaehyun Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19644">2609.19644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19491.html">Efficiently Linking Unstructured Data for Multi-step Reasoning</a></div></td>
+<td>Jiaming Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19491">2609.19491</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11873.html">The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement</a></div></td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19915">2609.19915</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14926.html">Linearized PINN with pretrained nonlinear layers</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
@@ -56,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12301.html">PDE-constrained inverse problems at the $\sqrt{n}$ rate via debiased physics-informed neural networks</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Yves Atchade et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12301">2609.12301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10983.html">A variational physics-informed graph neural network for heterogeneous solid mechanics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Aashay Rajan Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10983">2609.10983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11628.html">Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices</a></div></td>
-<td>J. Gallego et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11628">2609.11628</a></td>
 </tr>
 </tbody></table>

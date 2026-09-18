@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20620.html">A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies</a></div></td>
+<td>Khalid Halba et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20620">2609.20620</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
 <td>Suprim Nakarmi et al.</td>
@@ -1844,11 +1850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13978.html">LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Renan Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13978">2509.13978</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18386.html">Graph Enhanced Trajectory Anomaly Detection</a></div></td>
-<td>Jonathan Kabala Mbuya et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18386">2509.18386</a></td>
 </tr>
 </tbody></table>

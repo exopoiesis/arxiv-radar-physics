@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">485 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18347.html">Optical Quantum Computing</a></div></td>
 <td>Hamza Hasnaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18347">2609.18347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19308.html">Temporal information processing on a 4,500-qubit quantum annealer</a></div></td>
+<td>Antonio Sannia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19308">2609.19308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -2918,17 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19157.html">Quantum Autoencoder: An efficient approach to quantum feature map generation</a></div></td>
 <td>Shengxin Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19157">2509.19157</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17569.html">Conditioning in Generative Quantum Denoising Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Daniel Quinn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17569">2509.17569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18262.html">Training the classification capability of large-scale quantum cellular automata</a></div></td>
-<td>Mario Boneberg et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18262">2509.18262</a></td>
 </tr>
 </tbody></table>

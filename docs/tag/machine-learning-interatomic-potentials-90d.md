@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20510.html">Truncated automatic sparse differentiation for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Marcel F. Langer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20510">2609.20510</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div></td>
 <td>Musiha Mahfuza Mukta et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
 <td>Eric Jianfeng Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24480">2606.24480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21490.html">Controlling the phase behaviour of ultraconfined water via bilayer graphene stacking</a></div></td>
-<td>Yixuan Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21490">2606.21490</a></td>
 </tr>
 </tbody></table>

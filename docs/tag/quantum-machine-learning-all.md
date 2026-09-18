@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-machine-learning — all</h1>
-  <span class="paper-count">921 papers</span>
+  <span class="paper-count">922 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18347.html">Optical Quantum Computing</a></div></td>
 <td>Hamza Hasnaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18347">2609.18347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19308.html">Temporal information processing on a 4,500-qubit quantum annealer</a></div></td>
+<td>Antonio Sannia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19308">2609.19308</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>

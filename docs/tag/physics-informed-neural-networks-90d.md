@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19915">2609.19915</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20641.html">Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for Neural and Hybrid PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Nilo Schwencke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20641">2609.20641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19239.html">Lazy training of quantum physics informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Anderson Melchor Hernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19239">2609.19239</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16406.html">Physics Informed Random Feature Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -734,11 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21945.html">Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Amir H. M. Labeb et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21945">2606.21945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21236.html">Physics-Informed Neural Networks for coupled stiff transport systems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Laetitia Laguzet et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21236">2606.21236</a></td>
 </tr>
 </tbody></table>

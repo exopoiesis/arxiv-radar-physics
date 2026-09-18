@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19517.html">Spatial Aggregation of ROC and Precision-Recall Curves</a></div></td>
+<td>Romain Pic et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19517">2609.19517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18381.html">Every Fixed Metric Has a Blind Spot: A Learned Atmospheric Critic for Scoring Forecast Realism</a></div></td>
 <td>Younes Elberkennou et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26389.html">Sampling sea state using a diffusion model</a></div></td>
 <td>Jiarong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26389">2606.26389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Ananyo Bhattacharya</td>
-<td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
 </tr>
 </tbody></table>

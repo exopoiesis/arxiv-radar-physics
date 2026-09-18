@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20641.html">Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for Neural and Hybrid PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Nilo Schwencke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20641">2609.20641</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Amartya Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19239.html">Lazy training of quantum physics informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Anderson Melchor Hernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19239">2609.19239</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -284,11 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19070.html">Function-On-Function Regression Through Separable Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
 <td>Tailen Hsing et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19070">2608.19070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>John C Schotland et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
 </tr>
 </tbody></table>

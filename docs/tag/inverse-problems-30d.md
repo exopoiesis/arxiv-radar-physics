@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19697.html">Reconstructability of Inverse Problems under Symmetry: Separating Structural, Effective, and Physical Upper Bounds</a></div></td>
+<td>Isshin Arai</td>
+<td><a href="http://arxiv.org/abs/2609.19697">2609.19697</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20711.html">Hankel-Christoffel-Nevai Screening of Posterior Relevance in Bayesian Inverse Problems</a></div></td>
+<td>Zhiliang Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20711">2609.20711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
+<td>Xinmeng Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19345">2609.19345</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16536.html">Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems</a></div></td>
 <td>Shengchang Chen</td>
@@ -158,29 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18641.html">Physics-informed neural network for inverse modeling of granular flows</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
 <td>Bing Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18641">2608.18641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17344.html">Inductively Scalable, Single-Step Neural Surrogates for Wave-Scattering Inverse Problems</a></div></td>
-<td>Charles Dove et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17344">2608.17344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17457.html">Generative artificial intelligence for reconstructing neutron-star matter</a></div></td>
-<td>Julia Yu. Panteleeva et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17457">2608.17457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18004.html">Composing Flow-Matching Energies with Known Physics: Generation, OOD Detection, and Inversion on PDE Fields</a></div></td>
-<td>Yixuan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18004">2608.18004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>John C Schotland et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
 </tr>
 </tbody></table>

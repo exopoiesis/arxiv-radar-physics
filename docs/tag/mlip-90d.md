@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20510.html">Truncated automatic sparse differentiation for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>Marcel F. Langer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20510">2609.20510</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08399.html">MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials</a></div></td>
@@ -176,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02499.html">Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-90d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Gil Harari et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02499">2607.02499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div></td>
-<td>Jaehong Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21796.html">The FAST Framework: Developing a Data-Efficient Machine Learning Potential to Decode Superionic Transition-Induced Thermophysical and Kinetic Anomalies in UO2 under Extreme Conditions</a></div></td>
-<td>Fengnian Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21796">2606.21796</a></td>
 </tr>
 </tbody></table>

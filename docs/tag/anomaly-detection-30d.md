@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20620.html">A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies</a></div></td>
+<td>Khalid Halba et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20620">2609.20620</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
 <td>Suprim Nakarmi et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21629.html">ChequeMark: An Ensemble Machine Learning Framework for After-Hours Business Deposit Fraud Detection</a></div></td>
 <td>Ann Youduo Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21629">2608.21629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18341.html">Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring</a></div></td>
-<td>Steven C. Nesbit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18341">2608.18341</a></td>
 </tr>
 </tbody></table>

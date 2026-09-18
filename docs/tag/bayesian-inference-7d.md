@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20604.html">Semantic SLAM in Precision Agriculture using Bayesian Inference</a></div></td>
+<td>Ruben Beumer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20604">2609.20604</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16556.html">Multi-wavelength Constraints on Dust Dynamics and Size Evolution in Protoplanetary Disk Rings. II. Observational Implications</a></div></td>
 <td>Linhan Yang et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12301.html">PDE-constrained inverse problems at the $\sqrt{n}$ rate via debiased physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Yves Atchade et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12301">2609.12301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12061.html">BAQARO: Tracing Stochastic Black Hole Growth Histories and Quasar Lightcurves in a Cosmological Context</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a></div></td>
-<td>Elia Pizzati et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12061">2609.12061</a></td>
 </tr>
 </tbody></table>

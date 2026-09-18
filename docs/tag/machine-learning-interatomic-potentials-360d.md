@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20510.html">Truncated automatic sparse differentiation for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Marcel F. Langer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20510">2609.20510</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div></td>
 <td>Musiha Mahfuza Mukta et al.</td>
@@ -908,11 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19180.html">Bayesian Neural Networks versus deep ensembles for uncertainty quantification in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Riccardo Farris et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19180">2509.19180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01590.html">Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Mitchell Messerly et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01590">2505.01590</a></td>
 </tr>
 </tbody></table>

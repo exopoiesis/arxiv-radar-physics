@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Cheng Jing et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19915">2609.19915</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14926.html">Linearized PINN with pretrained nonlinear layers</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Wenhao Chen et al.</td>
@@ -3746,11 +3752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19467.html">THINNs: Thermodynamically Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Javier Castro et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19467">2509.19467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17621.html">SeqBattNet: A Discrete-State Physics-Informed Neural Network with Aging Adaptation for Battery Modeling</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Khoa Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17621">2509.17621</a></td>
 </tr>
 </tbody></table>

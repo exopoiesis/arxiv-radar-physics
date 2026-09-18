@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03747.html">Distributed AI Platform for the 6G RAN</a></div></td>
 <td>Ganesh Ananthanarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03747">2410.03747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13140.html">RIDAS: A Multi-Agent Framework for AI-RAN with Representation- and Intention-Driven Agents</a></div></td>
-<td>Kuiyuan Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13140">2507.13140</a></td>
 </tr>
 </tbody></table>

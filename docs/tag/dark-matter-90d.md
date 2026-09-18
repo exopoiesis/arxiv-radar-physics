@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19295.html">Reconstructing the Projected Dark Matter Field across 0.1-100 Mpc Scales from the SDSS Survey</a></div></td>
+<td>Kunyao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19295">2609.19295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14494.html">NICER neutron stars with dark energy and dark matter: effects on the inferred equation of state</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="dark-energy-90d.html">dark-energy</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
 <td>Nathan Rutherford et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
 <td>Tri Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26218">2606.26218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21658.html">Towards LLM-Powered Automation of a Dark Matter Constraint Repository</a></div></td>
-<td>Lanqing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21658">2606.21658</a></td>
 </tr>
 </tbody></table>

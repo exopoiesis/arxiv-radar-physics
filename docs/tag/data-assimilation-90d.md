@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19871.html">Physical knowledge on historical data matters more than enforcing physical constraints on the forecast</a></div></td>
+<td>Etienne Lehembre et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19871">2609.19871</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19290.html">Physics-Informed Hemodynamic Modeling for Data-Free Prediction and Sparse-Data Assimilation</a></div></td>
+<td>Xi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19290">2609.19290</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15250.html">Digital Twin of an Argon-Hydrogen Plasma Reactor</a></div></td>
 <td>B. Artola et al.</td>
@@ -200,17 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24989.html">Low-Cost High-Order Singular Value Decomposition for Tensor-Based Reconstruction from Sparse Sensor Measurements: Urban Flow and Air-Quality Applications</a></div></td>
 <td>Arindam Sengupta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24989">2606.24989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21294.html">Using Distributional Regression Networks to Retrieve Cloud Properties from Solar Satellite Channels for Data Assimilation</a></div></td>
-<td>Stefano Franzoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21294">2606.21294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21701.html">ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis</a></div><div class="paper-tags"><a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Ananyo Bhattacharya</td>
-<td><a href="http://arxiv.org/abs/2606.21701">2606.21701</a></td>
 </tr>
 </tbody></table>

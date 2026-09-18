@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20620.html">A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies</a></div></td>
+<td>Khalid Halba et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20620">2609.20620</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
 <td>Suprim Nakarmi et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16314.html">Robust Fault Detection in Mechanical Multimodal Time Series via Self-Supervised Cross-Modal Reconstruction</a></div></td>
 <td>Magnus Munk Jensen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16314">2609.16314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13298.html">Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures</a></div></td>
-<td>Qinwu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13298">2609.13298</a></td>
 </tr>
 </tbody></table>

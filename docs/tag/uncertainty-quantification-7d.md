@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20038.html">Comparing statistical learning models in wastewater-based epidemiology: An application to norovirus</a></div></td>
+<td>Caelan McNamara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20038">2609.20038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17000.html">Combining Weather Forecast Aggregation and State-Space Models for Adaptive Probabilistic Electricity Load Forecasting</a></div></td>
 <td>Joseph de Vilmarest et al.</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13514.html">Operational Range Bounding in Spectroscopy: A Safety Cage Framework for Machine Learning Models</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
 <td>Nikki Grens et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13514">2609.13514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10977">2609.10977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12115.html">DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Enrique Hernandez Noguera et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12115">2609.12115</a></td>
 </tr>
 </tbody></table>

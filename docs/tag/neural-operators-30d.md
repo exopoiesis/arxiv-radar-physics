@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -182,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18495.html">Physics-Unrolled Neural Operator for Wireless Field Modeling</a></div></td>
 <td>Rafid Umayer Murshed et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18495">2608.18495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17342.html">MoFE: A Novel Mixture-of-Experts Framework with Fourier Neural Operators for Cryptocurrency Forecasting</a></div></td>
-<td>Bowen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17342">2608.17342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18262.html">Inverse Born series based neural operators</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>John C Schotland et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18262">2608.18262</a></td>
 </tr>
 </tbody></table>

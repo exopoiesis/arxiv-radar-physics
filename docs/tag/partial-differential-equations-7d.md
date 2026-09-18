@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20641.html">Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for Neural and Hybrid PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Nilo Schwencke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20641">2609.20641</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
@@ -26,6 +32,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Amartya Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19239.html">Lazy training of quantum physics informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Anderson Melchor Hernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19239">2609.19239</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>

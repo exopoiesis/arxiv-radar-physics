@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20604.html">Semantic SLAM in Precision Agriculture using Bayesian Inference</a></div></td>
+<td>Ruben Beumer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20604">2609.20604</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16556.html">Multi-wavelength Constraints on Dust Dynamics and Size Evolution in Protoplanetary Disk Rings. II. Observational Implications</a></div></td>
 <td>Linhan Yang et al.</td>
@@ -434,11 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23287.html">Data assimilation of flow MRI data into RANS models with algebraic closures</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
 <td>C. Namuroy et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23287">2606.23287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21789.html">Bayesian three-dimensional seismic travel-time tomography for active- and passive-source seismic data using physics-informed neural network</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Ryoichiro Agata et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21789">2606.21789</a></td>
 </tr>
 </tbody></table>

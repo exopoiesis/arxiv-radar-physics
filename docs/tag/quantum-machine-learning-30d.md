@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.18347">2609.18347</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19308.html">Temporal information processing on a 4,500-qubit quantum annealer</a></div></td>
+<td>Antonio Sannia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19308">2609.19308</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17352.html">Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Marcin Jastrzebski et al.</td>
@@ -158,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19043.html">Bernstein-Vazirani Networks: Quantum Machine Learning by Interference</a></div></td>
 <td>Natacha Kuete Meli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19043">2608.19043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24923.html">Comment on &#x27;Supervised quantum machine learning models are kernel methods&#x27;</a></div></td>
-<td>Rajiv Krishnakumar</td>
-<td><a href="http://arxiv.org/abs/2608.24923">2608.24923</a></td>
 </tr>
 </tbody></table>

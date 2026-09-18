@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jiachen Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Zhicheng Hu et al.</td>
@@ -464,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21828.html">Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers</a></div></td>
 <td>Jaemin Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21828">2606.21828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21189.html">TF-SNO: Time-Frequency Gated Spectral Neural Operators for Learning Non-Stationary Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Yitian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21189">2606.21189</a></td>
 </tr>
 </tbody></table>

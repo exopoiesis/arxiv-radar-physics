@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20604.html">Semantic SLAM in Precision Agriculture using Bayesian Inference</a></div></td>
+<td>Ruben Beumer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20604">2609.20604</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16556.html">Multi-wavelength Constraints on Dust Dynamics and Size Evolution in Protoplanetary Disk Rings. II. Observational Implications</a></div></td>
 <td>Linhan Yang et al.</td>
@@ -158,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19406.html">Bayesian Forecasts on Cosmic Superstring Searches with LISA</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
 <td>Satyabrata Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19406">2608.19406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17591.html">Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Milad Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17591">2608.17591</a></td>
 </tr>
 </tbody></table>

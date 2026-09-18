@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19295.html">Reconstructing the Projected Dark Matter Field across 0.1-100 Mpc Scales from the SDSS Survey</a></div></td>
+<td>Kunyao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19295">2609.19295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14494.html">NICER neutron stars with dark energy and dark matter: effects on the inferred equation of state</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Nathan Rutherford et al.</td>
@@ -1232,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19004.html">Constraining Multi-scalars models with colliders and Dark Matter</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
 <td>Rafael Boto</td>
 <td><a href="http://arxiv.org/abs/2509.19004">2509.19004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18078.html">DESI Strong Lens Foundry IV: Spectroscopic Confirmation of DESI Lens Candidates with VLT/MUSE</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Emerald Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18078">2509.18078</a></td>
 </tr>
 </tbody></table>

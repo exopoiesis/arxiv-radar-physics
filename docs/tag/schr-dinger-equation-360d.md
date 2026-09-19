@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,11 +362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25980.html">Exact Solutions to the Quantum Schrödinger Bridge Problem</a></div></td>
 <td>Mykola Bordyuh et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25980">2509.25980</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18479.html">Machine learning approach to single-shot multiparameter estimation for the non-linear Schrödinger equation</a></div></td>
-<td>Louis Rossignol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18479">2509.18479</a></td>
 </tr>
 </tbody></table>

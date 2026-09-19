@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3080,17 +3080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19710.html">Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Somjit Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19710">2509.19710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05822.html">Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a></div></td>
-<td>Hengjie Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05822">2503.05822</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13978.html">LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Renan Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13978">2509.13978</a></td>
 </tr>
 </tbody></table>

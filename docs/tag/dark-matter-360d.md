@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,23 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20443.html">The role of unitarisation on dark-matter freeze-out via metastable bound states</a></div></td>
 <td>Kalliopi Petraki et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20443">2505.20443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12621.html">DarkAI: Reconstructing the density, velocity and tidal field of dark matter from a DESI-like bright galaxy sample</a></div></td>
-<td>Feng Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12621">2501.12621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18859.html">A sterile-neutrino search using data from the MicroBooNE liquid-argon time projection chamber performed in an undergraduate teaching laboratory</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>John Waiton et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18859">2509.18859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19004.html">Constraining Multi-scalars models with colliders and Dark Matter</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Rafael Boto</td>
-<td><a href="http://arxiv.org/abs/2509.19004">2509.19004</a></td>
 </tr>
 </tbody></table>

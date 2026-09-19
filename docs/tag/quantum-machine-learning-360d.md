@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,17 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20090.html">You Only Measure Once: On Designing Single-Shot Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Chen-Yu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20090">2509.20090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02316.html">Quantum-assisted anomaly detection with multivariate Gaussian distribution</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Chao-Hua Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02316">2505.02316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19157.html">Quantum Autoencoder: An efficient approach to quantum feature map generation</a></div></td>
-<td>Shengxin Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19157">2509.19157</a></td>
 </tr>
 </tbody></table>

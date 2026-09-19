@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">638 papers</span>
+  <span class="paper-count">636 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3830,17 +3830,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20447.html">Neural Networks as Surrogate Solvers for Time-Dependent Accretion Disk Dynamics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Shunyuan Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20447">2509.20447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13425.html">Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Julian Evan Chrisnanto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13425">2509.13425</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19467.html">THINNs: Thermodynamically Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Javier Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19467">2509.19467</a></td>
 </tr>
 </tbody></table>

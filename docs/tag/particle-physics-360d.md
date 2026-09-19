@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,17 +596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24543.html">A machine learning approach to axion-like particle searches in CTAO observations of blazars</a></div></td>
 <td>Francesco Schiavone et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24543">2509.24543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18859.html">A sterile-neutrino search using data from the MicroBooNE liquid-argon time projection chamber performed in an undergraduate teaching laboratory</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="event-classification-360d.html">event-classification</a></div></td>
-<td>John Waiton et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18859">2509.18859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19004.html">Constraining Multi-scalars models with colliders and Dark Matter</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Rafael Boto</td>
-<td><a href="http://arxiv.org/abs/2509.19004">2509.19004</a></td>
 </tr>
 </tbody></table>

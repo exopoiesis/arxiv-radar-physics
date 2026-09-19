@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,17 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19787.html">Radio Galaxy Zoo EMU: Harnessing Citizen Science and AI to Advance Open Science Catalogues</a></div></td>
 <td>Eleni Vardoulaki et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19787">2509.19787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02316.html">Quantum-assisted anomaly detection with multivariate Gaussian distribution</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Chao-Hua Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02316">2505.02316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13978.html">LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Renan Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13978">2509.13978</a></td>
 </tr>
 </tbody></table>

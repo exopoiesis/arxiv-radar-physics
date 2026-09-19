@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ligo — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19416.html">Deep Learning Detection of Beyond-General-Relativity Deviations in Gravitational-Wave Signals: A Detection-Threshold Study with Real LIGO Noise</a></div></td>
 <td>Muhammad Adnan Shahzad</td>
 <td><a href="http://arxiv.org/abs/2609.19416">2609.19416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12797.html">The Wavelet Detection Filter: a real time unmodeled pipeline for gravitational wave transients, ranking coincidences with a graph neural network</a></div></td>
-<td>Elena Cuoco</td>
-<td><a href="http://arxiv.org/abs/2609.12797">2609.12797</a></td>
 </tr>
 </tbody></table>

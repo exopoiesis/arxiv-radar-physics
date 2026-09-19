@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">690 papers</span>
+  <span class="paper-count">687 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4136,23 +4136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20615.html">Latent Twins</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Matthias Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20615">2509.20615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07373.html">Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07373">2501.07373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18071.html">Learning functions, operators and dynamical systems with kernels</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Lorenzo Rosasco</td>
-<td><a href="http://arxiv.org/abs/2509.18071">2509.18071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18627.html">BRAID: Input-Driven Nonlinear Dynamical Modeling of Neural-Behavioral Data</a></div></td>
-<td>Parsa Vahidi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18627">2509.18627</a></td>
 </tr>
 </tbody></table>

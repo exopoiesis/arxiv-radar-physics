@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,17 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13251.html">&quot;DIVE&quot; into Hydrogen Storage Materials Discovery with AI Agents</a></div></td>
 <td>Di Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13251">2508.13251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18604.html">A closed-loop AI framework for hypothesis-driven and interpretable materials design</a></div></td>
-<td>Kangyu Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18604">2509.18604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01235.html">Automated Extraction of Material Properties using LLM-based AI Agents</a></div></td>
-<td>Subham Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01235">2510.01235</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,23 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13864.html">An Uncertainty-Aware Hybrid Mathematical-Machine-Learning Model for Smart Irrigation Decision Support</a></div></td>
 <td>Andrea Scariolo</td>
 <td><a href="http://arxiv.org/abs/2609.13864">2609.13864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12815.html">4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling</a></div></td>
-<td>Deifilia Kieckhefen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12815">2609.12815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13488.html">Fingerprint Analysis for Climate Change Detection and Attribution under a Latent Factor Model</a></div></td>
-<td>Haoran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13488">2609.13488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13514.html">Operational Range Bounding in Spectroscopy: A Safety Cage Framework for Machine Learning Models</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
-<td>Nikki Grens et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13514">2609.13514</a></td>
 </tr>
 </tbody></table>

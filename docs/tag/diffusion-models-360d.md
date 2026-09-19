@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">574 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3458,29 +3458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22720.html">LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning</a></div></td>
 <td>Zezhong Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22720">2509.22720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15361.html">A Generative Framework for Probabilistic, Spatiotemporally Coherent Downscaling of Climate Simulation</a></div></td>
-<td>Jonathan Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2412.15361">2412.15361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22780.html">Multimodal Atmospheric Super-Resolution With Deep Generative Models</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22780">2506.22780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18948.html">One-shot Embroidery Customization via Contrastive LoRA Modulation</a></div></td>
-<td>Jun Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18948">2509.18948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19296.html">Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation</a></div></td>
-<td>Sherwin Bahmani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19296">2509.19296</a></td>
 </tr>
 </tbody></table>

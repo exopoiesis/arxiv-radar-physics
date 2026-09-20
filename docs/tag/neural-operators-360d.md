@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,23 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21485.html">Neural Operators for Mathematical Modeling of Transient Fluid Flow in Subsurface Reservoir Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Daniil D. Sirota et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21485">2509.21485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07099.html">Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Qianru Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07099">2504.07099</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06154.html">Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs. Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Dibyajyoti Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06154">2509.06154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20238.html">Velocity model building from seismic images using a Convolutional Neural Operator</a></div></td>
-<td>Xiao Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20238">2509.20238</a></td>
 </tr>
 </tbody></table>

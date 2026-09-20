@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">621 papers</span>
+  <span class="paper-count">617 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3716,29 +3716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20733.html">PALQO: Physics-informed Model for Accelerating Large-scale Quantum Optimization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
 <td>Yiming Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20733">2509.20733</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03513.html">Physics-Informed Neural Network Approach to Quark-Antiquark Color Flux Tube</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
-<td>Wei Kou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03513">2506.03513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20191.html">Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Aleksandra Jekic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20191">2509.20191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20447.html">Neural Networks as Surrogate Solvers for Time-Dependent Accretion Disk Dynamics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Shunyuan Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20447">2509.20447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21393.html">Impact of Loss Weight and Model Complexity on Physics-Informed Neural Networks for Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Yi En Chou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21393">2509.21393</a></td>
 </tr>
 </tbody></table>

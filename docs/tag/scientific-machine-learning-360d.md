@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,29 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14198.html">A Variational Framework for Residual-Based Adaptivity in Neural PDE Solvers and Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Juan Diego Toscano et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14198">2509.14198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05657.html">Model-Agnostic AI Framework with Explicit Time Integration for Long-Term Fluid Dynamics Prediction</a></div></td>
-<td>Sunwoong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05657">2412.05657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19710.html">Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Somjit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19710">2509.19710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20049.html">Projective Kolmogorov Arnold Neural Networks (P-KANs): Entropy-Driven Functional Space Discovery for Interpretable Machine Learning</a></div></td>
-<td>Alastair Poole et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20049">2509.20049</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20615.html">Latent Twins</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20615">2509.20615</a></td>
 </tr>
 </tbody></table>

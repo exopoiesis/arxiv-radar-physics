@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">800 papers</span>
+  <span class="paper-count">797 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4796,23 +4796,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21485.html">Neural Operators for Mathematical Modeling of Transient Fluid Flow in Subsurface Reservoir Systems</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Daniil D. Sirota et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21485">2509.21485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13569.html">Surrogate Modeling of 3D Rayleigh-Benard Convection with Equivariant Autoencoders</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Fynn Fromme et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13569">2505.13569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06154.html">Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs. Neural Operators</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Dibyajyoti Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06154">2509.06154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20191.html">Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Aleksandra Jekic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20191">2509.20191</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,17 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20708.html">Neural Operators for Adaptive Control of Freeway Traffic</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Kaijing Lv et al.</td>
 <td><a href="http://arxiv.org/abs/2410.20708">2410.20708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06154.html">Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs. Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Dibyajyoti Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06154">2509.06154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20615.html">Latent Twins</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20615">2509.20615</a></td>
 </tr>
 </tbody></table>

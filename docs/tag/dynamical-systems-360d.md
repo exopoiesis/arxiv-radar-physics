@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">687 papers</span>
+  <span class="paper-count">680 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4094,47 +4094,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21504.html">Discovering alternative solutions beyond the simplicity bias in recurrent neural networks</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>William Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21504">2509.21504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19307.html">Anomaly Detection in Complex Dynamical Systems: A Systematic Framework Using Embedding Theory and Physics-Inspired Consistency</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Michael Somma et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19307">2502.19307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19930.html">How deep is your network? Deep vs. shallow learning of transfer operators</a></div></td>
-<td>Mohammad Tabish et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19930">2509.19930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20051.html">One Filters All: A Generalist Filter for State Estimation</a></div></td>
-<td>Shiqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20051">2509.20051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20191.html">Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Aleksandra Jekic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20191">2509.20191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20591.html">Learning Greens Operators through Hierarchical Neural Networks Inspired by the Fast Multipole Method</a></div></td>
-<td>Emilio McAllister Fognini et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20591">2509.20591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20605.html">Function Spaces Without Kernels: Learning Compact Hilbert Space Representations</a></div></td>
-<td>Su Ann Low et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20605">2509.20605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20615.html">Latent Twins</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20615">2509.20615</a></td>
 </tr>
 </tbody></table>

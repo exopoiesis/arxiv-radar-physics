@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">574 papers</span>
+  <span class="paper-count">571 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3440,23 +3440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02244.html">Physics-Guided Motion Loss for Video Generation Model</a></div></td>
 <td>Bowen Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02244">2506.02244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17372.html">Chase-and-Run and Chirality in Nonlocal Models of Pattern Formation</a></div></td>
-<td>Thomas Jun Jewell et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17372">2505.17372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20570.html">PIRF: Physics-Informed Reward Fine-Tuning for Diffusion Models</a></div></td>
-<td>Mingze Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20570">2509.20570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22720.html">LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning</a></div></td>
-<td>Zezhong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22720">2509.22720</a></td>
 </tr>
 </tbody></table>

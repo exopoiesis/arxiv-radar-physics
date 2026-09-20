@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,11 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23402.html">Physics-Informed Modeling for Wood Thermal Analysis and Prediction</a></div></td>
 <td>Jingren Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23402">2606.23402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22514.html">PI-DOSnet: A Physics-Informed Deep Operator-Splitting Network for Evolution Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Jizu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22514">2606.22514</a></td>
 </tr>
 </tbody></table>

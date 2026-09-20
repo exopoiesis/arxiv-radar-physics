@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>data-assimilation — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16237.html">Improving Reduced-Order Rotating Detonation Engine Models with Data Assimilation and Machine Learning</a></div><div class="paper-tags"><a href="les-7d.html">les</a></div></td>
 <td>Ashwin Suriyanarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16237">2609.16237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14078.html">Ensemble generative filtering for sequential data assimilation in dynamical systems</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
-<td>Xu-Hui Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14078">2609.14078</a></td>
 </tr>
 </tbody></table>

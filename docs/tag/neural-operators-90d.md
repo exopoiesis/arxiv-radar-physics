@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,17 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Kanishk Awadhiya</td>
 <td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22364.html">Physics-Informed Neural Operator for Speech Production Analysis</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Kazuya Yokota et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22364">2606.22364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22644.html">Neural Polaron: Learning Quasiparticle Operators in Quantum Many-Body Systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-90d.html">quantum-many-body-systems</a></div></td>
-<td>Shang-Shun Zhang</td>
-<td><a href="http://arxiv.org/abs/2606.22644">2606.22644</a></td>
 </tr>
 </tbody></table>

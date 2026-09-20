@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,17 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03266.html">Variational Autoencoders-based Detection of Extremes in Plant Productivity in an Earth System Model</a></div></td>
 <td>Bharat Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03266">2510.03266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19307.html">Anomaly Detection in Complex Dynamical Systems: A Systematic Framework Using Embedding Theory and Physics-Inspired Consistency</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Michael Somma et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19307">2502.19307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19787.html">Radio Galaxy Zoo EMU: Harnessing Citizen Science and AI to Advance Open Science Catalogues</a></div></td>
-<td>Eleni Vardoulaki et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19787">2509.19787</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20662.html">Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies</a></div></td>
 <td>Jingtao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20662">2609.20662</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21123.html">Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications</a></div></td>
+<td>Logan Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21123">2609.21123</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
@@ -464,17 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26416.html">Methane-Plume Segmentation From Hyperspectral Satellite Imagery Via Multimodal Deep Learning</a></div></td>
 <td>Brayan Quintero et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26416">2606.26416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23356.html">Changing Modalities: Adapting Remote Sensing Models to New Satellites and Sensors</a></div></td>
-<td>Tim G. Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23356">2606.23356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23615.html">Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark</a></div></td>
-<td>Nathan Senyard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23615">2606.23615</a></td>
 </tr>
 </tbody></table>

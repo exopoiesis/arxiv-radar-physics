@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05454.html">GLONET: Mercator&#x27;s end-to-end neural Global Ocean forecasting system</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Anass El Aouni et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05454">2412.05454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19648.html">S$^2$Transformer: Scalable Structured Transformers for Global Station Weather Forecasting</a></div></td>
-<td>Hongyi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19648">2509.19648</a></td>
 </tr>
 </tbody></table>

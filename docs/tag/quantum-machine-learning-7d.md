@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>
+<td>Rohit Sarma Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21567">2609.21567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17991.html">Fourier Analysis of Parametrized Interactive Quantum Classifiers</a></div></td>
 <td>Fábio Novaes et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17789.html">QiT: Quantum-Inspired Transformer for Visual Recognition Task</a></div></td>
 <td>Badri N. Patro et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17789">2609.17789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14529.html">Parameter-Efficient Quantum NLP for Paraphrase Detection: Performance, Robustness, and Entanglement</a></div></td>
-<td>Farha Nausheen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14529">2609.14529</a></td>
 </tr>
 </tbody></table>

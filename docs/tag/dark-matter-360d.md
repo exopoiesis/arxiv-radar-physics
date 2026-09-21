@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22478.html">halox: Dark matter halo properties and large-scale structure calculations using JAX</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Florian Kéruzoré</td>
 <td><a href="http://arxiv.org/abs/2509.22478">2509.22478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20443.html">The role of unitarisation on dark-matter freeze-out via metastable bound states</a></div></td>
-<td>Kalliopi Petraki et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20443">2505.20443</a></td>
 </tr>
 </tbody></table>

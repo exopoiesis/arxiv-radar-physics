@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.20620">2609.20620</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21110.html">SensorWF: A FAIR Generalizable Workflow Framework for Scientific Time-Series Analysis</a></div></td>
+<td>Logan Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21110">2609.21110</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
 <td>Suprim Nakarmi et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24219.html">Decoherence as Defence and the Magnitude of Noise Regularisation: A Rigorous N -Qubit Theory of Stochastic Quantum Neural Networks for Adversarially Robust Network Intrusion Detection</a></div></td>
 <td>Gautier-Edouard Edouard Filardo</td>
 <td><a href="http://arxiv.org/abs/2606.24219">2606.24219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23851.html">Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach</a></div></td>
-<td>Inioluwa Emmanuel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23851">2606.23851</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.20399">2609.20399</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20997.html">MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery</a></div><div class="paper-tags"><a href="scientific-discovery-7d.html">scientific-discovery</a></div></td>
+<td>Peiyi Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20997">2609.20997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="remote-sensing-7d.html">remote-sensing</a></div></td>
 <td>Abed Hammoud et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19191.html">Machine-Learning Exploration of Defect Topologies and Thermodynamic Stability in Graphene with Atomic Vacancies</a></div></td>
 <td>Marcos V. N. da Costa et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19191">2609.19191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14260.html">Recursive Self-Improvement LLM Agents for Inverter Dynamic Model Identification</a></div></td>
-<td>Jie Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14260">2609.14260</a></td>
 </tr>
 </tbody></table>

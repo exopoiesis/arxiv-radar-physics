@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22399.html">Integrating Background Knowledge in Medical Semantic Segmentation with Logic Tensor Networks</a></div></td>
 <td>Luca Bergamin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22399">2509.22399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23537.html">Domain-Aware Tensor Network Structure Search</a></div></td>
-<td>Giorgos Iacovides et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23537">2505.23537</a></td>
 </tr>
 </tbody></table>

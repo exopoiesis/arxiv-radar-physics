@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">534 papers</span>
+  <span class="paper-count">532 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Jiachen Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="equivariant-neural-networks-360d.html">equivariant-neural-networks</a></div></td>
+<td>Tim Steinert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -3200,23 +3206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24117.html">GeoFunFlow: Geometric Function Flow Matching for Inverse Operator Learning over Complex Geometries</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Sifan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24117">2509.24117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19441.html">Data-Augmented Few-Shot Neural Emulator for Computer-Model System Identification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sanket Jantre et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19441">2508.19441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21041.html">A sub-hourly spatio-temporal statistical model for solar irradiance in Ireland using open-source data</a></div></td>
-<td>Maeve Upton et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21041">2509.21041</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21593.html">GeoEvolve: Automating Geospatial Model Discovery via Multi-Agent Large Language Models</a></div></td>
-<td>Peng Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21593">2509.21593</a></td>
 </tr>
 </tbody></table>

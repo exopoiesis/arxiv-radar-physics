@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21512.html">FrFNO:Injecting the analytic Mittag-Leffler propagator into a resolution-robust neural operator for space-time fractional PDEs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Guofei Pang</td>
+<td><a href="http://arxiv.org/abs/2609.21512">2609.21512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Lionel Salesses et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21590">2609.21590</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
@@ -2456,17 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21196.html">Differential-Integral Neural Operator for Long-Term Turbulence Forecasting</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
 <td>Hao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21196">2509.21196</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05894.html">DimINO: Dimension-Informed Neural Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yichen Song et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05894">2410.05894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21485.html">Neural Operators for Mathematical Modeling of Transient Fluid Flow in Subsurface Reservoir Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Daniil D. Sirota et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21485">2509.21485</a></td>
 </tr>
 </tbody></table>

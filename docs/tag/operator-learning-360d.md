@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">284 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,29 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20708.html">Neural Operators for Adaptive Control of Freeway Traffic</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Kaijing Lv et al.</td>
 <td><a href="http://arxiv.org/abs/2410.20708">2410.20708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02221.html">Discretization Error of Fourier Neural Operators</a></div></td>
-<td>Samuel Lanthaler et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02221">2405.02221</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10997.html">Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Youngkyu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10997">2406.10997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05571.html">Laplacian Eigenfunction-Based Neural Operator for Learning Nonlinear Reaction-Diffusion Dynamics</a></div></td>
-<td>Jindong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05571">2502.05571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14198.html">A Variational Framework for Residual-Based Adaptivity in Neural PDE Solvers and Operator Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Juan Diego Toscano et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14198">2509.14198</a></td>
 </tr>
 </tbody></table>

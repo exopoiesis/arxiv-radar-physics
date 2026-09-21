@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21512.html">FrFNO:Injecting the analytic Mittag-Leffler propagator into a resolution-robust neural operator for space-time fractional PDEs</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Guofei Pang</td>
+<td><a href="http://arxiv.org/abs/2609.21512">2609.21512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Lionel Salesses et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21590">2609.21590</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
@@ -440,17 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28388.html">Anisotropic Mixed Fractional Landau Inequalities for Rotating Compressible Flows</a></div></td>
 <td>Rômulo Damasclin Chaves dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28388">2606.28388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22946.html">Neural Operator Processes for Probabilistic Operator Learning under Partial Observations</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Jose Miguel Lara-Rangel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22946">2606.22946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23123.html">The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Kanishk Awadhiya</td>
-<td><a href="http://arxiv.org/abs/2606.23123">2606.23123</a></td>
 </tr>
 </tbody></table>

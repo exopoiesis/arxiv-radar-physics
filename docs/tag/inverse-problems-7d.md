@@ -34,6 +34,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20964.html">Warp-Geo: Differentiable Geometry Representation for Dynamic-Boundary Simulation and Shape Optimization</a></div></td>
+<td>Weijie Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20964">2609.20964</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
 <td>Xinmeng Luan et al.</td>
@@ -68,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15702.html">Backward SDEs-based Diffusion for Physics-Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
 <td>Zihao Wang</td>
 <td><a href="http://arxiv.org/abs/2609.15702">2609.15702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14225.html">Likelihood-Coin Poisson Sampling for Bayesian Inverse Problems: Exact Sampling and Sharp Complexity</a></div></td>
-<td>Zhiliang Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14225">2609.14225</a></td>
 </tr>
 </tbody></table>

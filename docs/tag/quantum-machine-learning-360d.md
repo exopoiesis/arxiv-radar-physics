@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>
+<td>Rohit Sarma Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21567">2609.21567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17991.html">Fourier Analysis of Parametrized Interactive Quantum Classifiers</a></div></td>
 <td>Fábio Novaes et al.</td>
@@ -2900,11 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25245.html">Comprehensive Analysis of VQC for Financial Fraud Detection: A Comparative Study of Quantum Encoding Techniques and Architectural Optimizations</a></div></td>
 <td>Fouad Mohammed Abbou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25245">2509.25245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21570.html">Breaking $1/ε$ Barrier in Quantum Zero-Sum Games: Generalizing Metric Subregularity for Spectraplexes</a></div></td>
-<td>Yiheng Su et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21570">2509.21570</a></td>
 </tr>
 </tbody></table>

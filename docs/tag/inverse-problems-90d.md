@@ -34,6 +34,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20964.html">Warp-Geo: Differentiable Geometry Representation for Dynamic-Boundary Simulation and Shape Optimization</a></div></td>
+<td>Weijie Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20964">2609.20964</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
 <td>Xinmeng Luan et al.</td>
@@ -494,11 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25169.html">Laplace--Fisher Gate Identities for Optimal Matrix-Gated Blended Score Estimation</a></div></td>
 <td>Alois Duston et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25169">2606.25169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23838.html">The Degeneracy Distillery</a></div></td>
-<td>T. Lucas Makinen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23838">2606.23838</a></td>
 </tr>
 </tbody></table>

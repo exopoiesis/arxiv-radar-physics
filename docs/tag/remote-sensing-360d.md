@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">532 papers</span>
+  <span class="paper-count">530 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20662.html">Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies</a></div></td>
 <td>Jingtao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20662">2609.20662</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21123.html">Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications</a></div></td>
+<td>Logan Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21123">2609.21123</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
@@ -3188,23 +3194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00033.html">Hybrid Deep Learning for Hyperspectral Single Image Super-Resolution</a></div></td>
 <td>Usman Muhammad et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00033">2510.00033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20701.html">DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection</a></div></td>
-<td>Jiayi Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20701">2509.20701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20918.html">SwinMamba: A hybrid local-global mamba framework for enhancing semantic segmentation of remotely sensed images</a></div></td>
-<td>Qinfeng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20918">2509.20918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21273.html">A Sentinel-3 foundation model for ocean colour</a></div></td>
-<td>Geoffrey Dawson et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21273">2509.21273</a></td>
 </tr>
 </tbody></table>

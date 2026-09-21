@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>operator-learning — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <strong>90d</strong> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,17 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25185.html">Neural operator-based digital twins for modeling amyloid-$β$ and tau propagation and treatment optimization in Alzheimer&#x27;s disease</a></div></td>
 <td>Xiaofeng Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25185">2606.25185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22946.html">Neural Operator Processes for Probabilistic Operator Learning under Partial Observations</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Jose Miguel Lara-Rangel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22946">2606.22946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23834.html">Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Liam K Magargal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23834">2606.23834</a></td>
 </tr>
 </tbody></table>

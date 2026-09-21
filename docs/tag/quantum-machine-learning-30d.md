@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>
+<td>Rohit Sarma Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21567">2609.21567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17991.html">Fourier Analysis of Parametrized Interactive Quantum Classifiers</a></div></td>
 <td>Fábio Novaes et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24229.html">A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning</a></div></td>
 <td>Ziyu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24229">2608.24229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21321.html">Hypothesis testing between quantum ensembles</a></div></td>
-<td>Jian Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21321">2608.21321</a></td>
 </tr>
 </tbody></table>

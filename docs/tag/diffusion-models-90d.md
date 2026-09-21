@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.20358">2609.20358</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21059.html">PlantShade: Predicting Plant Shadows for Lighting-Aware Robotic Agricultural Operation</a></div></td>
+<td>Longchao Da et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21059">2609.21059</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17814.html">GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning</a></div></td>
 <td>Dongze Wu et al.</td>
@@ -446,11 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24208.html">Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control</a></div></td>
 <td>Sabrina Bodmer et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24208">2606.24208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24000.html">Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models</a></div></td>
-<td>Rishabh Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24000">2606.24000</a></td>
 </tr>
 </tbody></table>

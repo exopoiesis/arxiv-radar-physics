@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15945.html">MUSHY: Multimodal Flow-Based Amortized Bayesian Inference for Spectroscopic Data Fusion</a></div></td>
 <td>Jeff Shen</td>
 <td><a href="http://arxiv.org/abs/2609.15945">2609.15945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14494.html">NICER neutron stars with dark energy and dark matter: effects on the inferred equation of state</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a> · <a href="dark-matter-7d.html">dark-matter</a> · <a href="particle-physics-7d.html">particle-physics</a></div></td>
-<td>Nathan Rutherford et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14494">2609.14494</a></td>
 </tr>
 </tbody></table>

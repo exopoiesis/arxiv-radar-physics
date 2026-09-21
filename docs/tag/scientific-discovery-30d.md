@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.19644">2609.19644</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20997.html">MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Peiyi Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20997">2609.20997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19491.html">Efficiently Linking Unstructured Data for Multi-step Reasoning</a></div></td>
 <td>Jiaming Liang et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21976.html">Closed-loop AI achieves certifiable engineering design</a></div></td>
 <td>Tianyi Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21976">2608.21976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20686.html">CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Piyush Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20686">2608.20686</a></td>
 </tr>
 </tbody></table>

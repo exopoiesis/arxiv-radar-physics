@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">684 papers</span>
+  <span class="paper-count">685 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20964.html">Warp-Geo: Differentiable Geometry Representation for Dynamic-Boundary Simulation and Shape Optimization</a></div></td>
+<td>Weijie Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20964">2609.20964</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>

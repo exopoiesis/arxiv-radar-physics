@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.20620">2609.20620</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21110.html">SensorWF: A FAIR Generalizable Workflow Framework for Scientific Time-Series Analysis</a></div></td>
+<td>Logan Luna et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21110">2609.21110</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
 <td>Suprim Nakarmi et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22789.html">GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing</a></div></td>
 <td>Sosmita Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22789">2608.22789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21629.html">ChequeMark: An Ensemble Machine Learning Framework for After-Hours Business Deposit Fraud Detection</a></div></td>
-<td>Ann Youduo Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21629">2608.21629</a></td>
 </tr>
 </tbody></table>

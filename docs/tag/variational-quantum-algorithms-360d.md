@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <strong>360d</strong> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09371.html">TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search</a></div></td>
 <td>Akash Kundu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09371">2505.09371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20733.html">PALQO: Physics-informed Model for Accelerating Large-scale Quantum Optimization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Yiming Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20733">2509.20733</a></td>
 </tr>
 </tbody></table>

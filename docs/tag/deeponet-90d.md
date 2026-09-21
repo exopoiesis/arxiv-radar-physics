@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21512.html">FrFNO:Injecting the analytic Mittag-Leffler propagator into a resolution-robust neural operator for space-time fractional PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Guofei Pang</td>
+<td><a href="http://arxiv.org/abs/2609.21512">2609.21512</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16853.html">Can Deep Learning Achieve Cross-Physics Mapping?</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Pengfei Zhu et al.</td>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25075.html">Solver Exactness, Learned Flexibility: Equivariant Boundary-Correction Operators for Stokes Flow</a></div></td>
 <td>Denis Gueyffier</td>
 <td><a href="http://arxiv.org/abs/2606.25075">2606.25075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23502.html">DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation</a></div></td>
-<td>Arup Kumar Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23502">2606.23502</a></td>
 </tr>
 </tbody></table>

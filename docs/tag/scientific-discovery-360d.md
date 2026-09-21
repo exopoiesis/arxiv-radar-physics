@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">508 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19644.html">ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI</a></div></td>
 <td>Jaehyun Nam et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19644">2609.19644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20997.html">MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
+<td>Peiyi Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20997">2609.20997</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
@@ -3056,17 +3062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21766.html">UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios</a></div></td>
 <td>Haotian Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21766">2509.21766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02604.html">Context-Aware Reasoning On Parametric Knowledge for Inferring Causal Variables</a></div></td>
-<td>Ivaxi Sheth et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02604">2409.02604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06985.html">Discovery Learning accelerates battery design evaluation</a></div></td>
-<td>Jiawei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06985">2508.06985</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Lionel Salesses et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21590">2609.21590</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16598.html">CATVis: A Collaborative Multi-Agent Workflow for Turbomachinery Simulation Data Visualization</a></div></td>
 <td>Zhe Wang et al.</td>
@@ -1226,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13458.html">An adaptive, data-driven multiscale approach for dense granular flows</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>B. Siddani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13458">2505.13458</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08277.html">Enhancing deep learning of ammonia/natural gas combustion kinetics via physics-aware data augmentation and scale separation</a></div></td>
-<td>Ke Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08277">2507.08277</a></td>
 </tr>
 </tbody></table>

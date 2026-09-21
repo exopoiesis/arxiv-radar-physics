@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.19644">2609.19644</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20997.html">MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Peiyi Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20997">2609.20997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19491.html">Efficiently Linking Unstructured Data for Multi-step Reasoning</a></div></td>
 <td>Jiaming Liang et al.</td>
@@ -530,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26359.html">Accelerating Returns and the Qualitative Engine for Science</a></div></td>
 <td>Guojun Liao</td>
 <td><a href="http://arxiv.org/abs/2606.26359">2606.26359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22859.html">AI Scientists as Engines of Discovery: A Case for Development within Reformed Institutions</a></div></td>
-<td>Raul Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22859">2606.22859</a></td>
 </tr>
 </tbody></table>

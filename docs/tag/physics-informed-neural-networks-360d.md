@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21795.html">Towards Physics-Informed Neural Networks for Stiff Guitar String Vibrations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Xinmeng Luan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21795">2609.21795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21798.html">An improved periodic activation for PINNs reconstructing convective flows</a></div></td>
+<td>Michael Mommert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21798">2609.21798</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Cheng Jing et al.</td>
@@ -3806,17 +3818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16008.html">Enhancing Stability of Physics-Informed Neural Network Training Through Saddle-Point Reformulation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Dmitry Bylinkin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16008">2507.16008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10997.html">Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Youngkyu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10997">2406.10997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20733.html">PALQO: Physics-informed Model for Accelerating Large-scale Quantum Optimization</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Yiming Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20733">2509.20733</a></td>
 </tr>
 </tbody></table>

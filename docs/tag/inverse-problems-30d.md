@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20964.html">Warp-Geo: Differentiable Geometry Representation for Dynamic-Boundary Simulation and Shape Optimization</a></div></td>
+<td>Weijie Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20964">2609.20964</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
 <td>Xinmeng Luan et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21999.html">TENSKEL: A Combinatorial Observable Tensor for Structured Measurement and Reconstruction</a></div></td>
 <td>Yvan Richard</td>
 <td><a href="http://arxiv.org/abs/2608.21999">2608.21999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21612.html">Machine Learning to Foundation Models: Artificial Intelligence for Nanophotonic Modeling and Scientific Discovery</a></div></td>
-<td>Chaobin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21612">2608.21612</a></td>
 </tr>
 </tbody></table>

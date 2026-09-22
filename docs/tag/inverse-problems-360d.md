@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23761.html">GenVoid: Uncertainty-Aware Learning of Subsurface Material Defects with an Experimentally Validated Physics-Informed Generative Model</a></div></td>
+<td>Trishit Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23761">2609.23761</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19697.html">Reconstructability of Inverse Problems under Symmetry: Separating Structural, Effective, and Physical Upper Bounds</a></div></td>
@@ -50,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16536.html">Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems</a></div></td>
 <td>Shengchang Chen</td>
 <td><a href="http://arxiv.org/abs/2609.16536">2609.16536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22321.html">Toward Well-Posed Problems in the Social Sciences: Hadamard&#x27;s Criteria as Epistemic Guardrails</a></div></td>
+<td>Don Li</td>
+<td><a href="http://arxiv.org/abs/2609.22321">2609.22321</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>

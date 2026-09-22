@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23476.html">Comparative Study of Quantum and Classical Machine Learning Models in Binary Classification</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
+<td>Anand Kumar Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23476">2609.23476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23016.html">Watching Quantum Models Think: Hilbert-Space Interpretability in Quantum Transformer Blocks</a></div></td>
+<td>Diego Iacopetta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23016">2609.23016</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>

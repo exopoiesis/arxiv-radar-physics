@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div></td>
+<td>Jie Ying et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23435">2609.23435</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19644.html">ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI</a></div></td>
 <td>Jaehyun Nam et al.</td>
@@ -3056,11 +3062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23453.html">PHASE: Physics-Integrated, Heterogeneity-Aware Surrogates for Scientific Simulations</a></div></td>
 <td>Dawei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23453">2509.23453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21766.html">UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios</a></div></td>
-<td>Haotian Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21766">2509.21766</a></td>
 </tr>
 </tbody></table>

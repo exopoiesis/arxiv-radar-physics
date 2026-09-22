@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
+<td>Yuling Han et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23844">2609.23844</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="neural-operators-7d.html">neural-operators</a> · <a href="reduced-order-modeling-7d.html">reduced-order-modeling</a></div></td>
 <td>Lionel Salesses et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17160.html">Neural Field Ensembles for Aerodynamic Surface Prediction: Winning Solution to the ONERA CRM Wall Distribution 2025 Challenge</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Lionel Salesses et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17160">2609.17160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15104.html">Physics Informed Neural Network model for the dynamical study of Abdominal Aortic Aneurysm</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Adrián Robles Arques et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15104">2609.15104</a></td>
 </tr>
 </tbody></table>

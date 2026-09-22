@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15943.html">NERV: Neural-network Enhanced Reconstruction of the UniVerse with Application to Baryon Acoustic Oscillations in the BOSS DR12 Galaxy Sample</a></div></td>
-<td>Shi-Hui Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15943">2609.15943</a></td>
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22539.html">Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
+<td>Mario Ramos-Hamud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22539">2609.22539</a></td>
 </tr>
 </tbody></table>

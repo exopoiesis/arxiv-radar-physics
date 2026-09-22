@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
+<td>Jordi Cerdà-Bautista et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24394">2609.24394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23805.html">Decision-Centered Evaluation of Machine Learning Poverty Maps Using Mobile Phone and Satellite Data</a></div></td>
+<td>Chanuka Algama et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23805">2609.23805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22834.html">SatOV: Restoring Spatial Priors for Training-Free Open-Vocabulary Segmentation in Remote Sensing Imagery</a></div></td>
+<td>Changhao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22834">2609.22834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20662.html">Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies</a></div></td>
@@ -76,6 +94,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.06737">2609.06737</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22258.html">RS-Claw-Evolution: Environment-Feedback-Driven Evolution for Lightweight Remote Sensing Agents in Long-Horizon Tasks</a></div></td>
+<td>Kai Ouyang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22258">2609.22258</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Chuxiangbo Wang et al.</td>
@@ -110,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23746.html">CRISP: Calibration-Aware Visual State Space Duality for Remote Sensing Semantic Segmentation</a></div></td>
 <td>Kangning Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23746">2608.23746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21754.html">Fidelity-Diversity-Consistency (FDC): Data Pruning for Remote Sensing Change Detection</a></div></td>
-<td>Dongyao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21754">2608.21754</a></td>
 </tr>
 </tbody></table>

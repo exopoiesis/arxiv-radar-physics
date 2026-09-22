@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22539.html">Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="dark-energy-30d.html">dark-energy</a></div></td>
+<td>Mario Ramos-Hamud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22539">2609.22539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20144.html">Extended dynamic mode decomposition with Fourier dictionaries: Error bounds and fast implementation</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
 <td>Felix Bartel et al.</td>
@@ -188,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22324.html">Gaussian process learning with flow map refinement for parameter estimation in dynamical systems</a></div></td>
 <td>Yue Hao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22324">2608.22324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22112.html">Symbolic Neural ODEs: Learning interpretable models from time-series data</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Nibodh Boddupalli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22112">2608.22112</a></td>
 </tr>
 </tbody></table>

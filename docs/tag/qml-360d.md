@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23476.html">Comparative Study of Quantum and Classical Machine Learning Models in Binary Classification</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Anand Kumar Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23476">2609.23476</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17352.html">Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Marcin Jastrzebski et al.</td>
@@ -974,11 +980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06228.html">Layerwise Federated Learning for Heterogeneous Quantum Clients using Quorus</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Jason Han et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06228">2510.06228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22273.html">Stairway to Axions: the cross-correlation of birefringence and galaxies from NPIPE and Quaia</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>S. Arcari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22273">2509.22273</a></td>
 </tr>
 </tbody></table>

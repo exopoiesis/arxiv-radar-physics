@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18072.html">A Model Zoo on Phase Transitions in Neural Networks</a></div></td>
 <td>Konstantin Schürholt et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18072">2504.18072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22511.html">Cryogenic In-Memory Computing with Phase-Change Memory</a></div></td>
-<td>Davide G. F. Lombardo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22511">2509.22511</a></td>
 </tr>
 </tbody></table>

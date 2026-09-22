@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <strong>30d</strong> <a href="navier-stokes-equations-90d.html">90d</a> <a href="navier-stokes-equations-360d.html">360d</a> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23077.html">Physics-Informed Neural Network Surrogates with Polynomial Chaos-Based Uncertainty Propagation for Stochastic Model Predictive Control</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Srimanta Santra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23077">2609.23077</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16066.html">A panoramic aerodynamic performance prediction method for turbomachinery cascades using transformer-enhanced neural operator</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="deeponet-30d.html">deeponet</a></div></td>

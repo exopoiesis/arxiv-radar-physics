@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24203.html">Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a></div></td>
+<td>Bo-Hao Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24203">2609.24203</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21699.html">Lens Modeling and Cosmological Inference from an Impure Sample of Galaxy-Galaxy Strong Lenses</a></div><div class="paper-tags"><a href="strong-lensing-7d.html">strong-lensing</a></div></td>
 <td>Philip Holloway et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19276.html">Generalised Visibility ILC: a new foreground mitigation strategy for interferometric HI intensity mapping in the low-redshift Universe</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
 <td>M. Ruiz-Granda et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19276">2609.19276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16209.html">Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a> · <a href="galaxy-formation-7d.html">galaxy-formation</a></div></td>
-<td>Dorsa Sadat Hosseini et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16209">2609.16209</a></td>
 </tr>
 </tbody></table>

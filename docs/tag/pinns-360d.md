@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Yuling Han et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23844">2609.23844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23077.html">Physics-Informed Neural Network Surrogates with Polynomial Chaos-Based Uncertainty Propagation for Stochastic Model Predictive Control</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Srimanta Santra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23077">2609.23077</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21795.html">Towards Physics-Informed Neural Networks for Stiff Guitar String Vibrations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Xinmeng Luan et al.</td>
@@ -3704,17 +3716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16008.html">Enhancing Stability of Physics-Informed Neural Network Training Through Saddle-Point Reformulation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Dmitry Bylinkin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16008">2507.16008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16663.html">Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jianlei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16663">2411.16663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22760.html">Identifying Memory Effects in Epidemics via a Fractional SEIRD Model and Physics-Informed Neural Networks</a></div></td>
-<td>Achraf Zinihi</td>
-<td><a href="http://arxiv.org/abs/2509.22760">2509.22760</a></td>
 </tr>
 </tbody></table>

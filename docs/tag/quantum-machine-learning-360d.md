@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23476.html">Comparative Study of Quantum and Classical Machine Learning Models in Binary Classification</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
+<td>Anand Kumar Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23476">2609.23476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23016.html">Watching Quantum Models Think: Hilbert-Space Interpretability in Quantum Transformer Blocks</a></div></td>
+<td>Diego Iacopetta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23016">2609.23016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>
 <td>Rohit Sarma Sarkar et al.</td>
@@ -2894,17 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15494.html">Assessing Quantum Extreme Learning Machines for Software Testing in Practice</a></div></td>
 <td>Asmar Muqeet et al.</td>
 <td><a href="http://arxiv.org/abs/2410.15494">2410.15494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22355.html">Multi-channel convolutional neural quantum embedding</a></div></td>
-<td>Yujin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22355">2509.22355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25245.html">Comprehensive Analysis of VQC for Financial Fraud Detection: A Comparative Study of Quantum Encoding Techniques and Architectural Optimizations</a></div></td>
-<td>Fouad Mohammed Abbou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25245">2509.25245</a></td>
 </tr>
 </tbody></table>

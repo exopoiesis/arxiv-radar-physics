@@ -52,6 +52,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.06660">2609.06660</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22250.html">Outpainting: spatially extending aero-optic phase screens</a></div></td>
+<td>Jeffrey W. Utley et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22250">2609.22250</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04891.html">Attention-guided super-resolution of 4D flow MRI in carotid arteries</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Ali Mokhtari et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a></div></td>
 <td>Benjamin Herrmann et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24696.html">A Physics-Informed Fourier-Wavelet Transformer for Multiscale Computational Fluid Dynamics Surrogate Modeling</a></div></td>
-<td>Somyajit Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24696">2606.24696</a></td>
 </tr>
 </tbody></table>

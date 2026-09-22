@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2450,23 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23975.html">Equation-Free Coarse Control of Distributed Parameter Systems via Local Neural Operators</a></div></td>
 <td>Gianluca Fabiani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23975">2509.23975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16663.html">Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jianlei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16663">2411.16663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18591.html">Geometry aware inference of steady state PDEs using Equivariant Neural Fields representations</a></div></td>
-<td>Giovanni Catalani et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18591">2504.18591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21196.html">Differential-Integral Neural Operator for Long-Term Turbulence Forecasting</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21196">2509.21196</a></td>
 </tr>
 </tbody></table>

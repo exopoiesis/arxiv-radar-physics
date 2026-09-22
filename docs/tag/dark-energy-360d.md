@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22539.html">Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Mario Ramos-Hamud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22539">2609.22539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15943.html">NERV: Neural-network Enhanced Reconstruction of the UniVerse with Application to Baryon Acoustic Oscillations in the BOSS DR12 Galaxy Sample</a></div></td>
 <td>Shi-Hui Zang et al.</td>
@@ -710,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04735.html">The Milky Way - Large Magellanic Cloud Interaction with Simulation Based Inference</a></div></td>
 <td>Richard A. N. Brooks et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04735">2510.04735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22273.html">Stairway to Axions: the cross-correlation of birefringence and galaxies from NPIPE and Quaia</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>S. Arcari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22273">2509.22273</a></td>
 </tr>
 </tbody></table>

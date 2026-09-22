@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24203.html">Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a></div></td>
+<td>Bo-Hao Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24203">2609.24203</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21699.html">Lens Modeling and Cosmological Inference from an Impure Sample of Galaxy-Galaxy Strong Lenses</a></div><div class="paper-tags"><a href="strong-lensing-360d.html">strong-lensing</a></div></td>
 <td>Philip Holloway et al.</td>
@@ -1136,11 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14265.html">Impact of Large-Scale Structure Systematics on Cosmological Parameter Estimation</a></div></td>
 <td>Humna Awan et al.</td>
 <td><a href="http://arxiv.org/abs/2409.14265">2409.14265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22478.html">halox: Dark matter halo properties and large-scale structure calculations using JAX</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Florian Kéruzoré</td>
-<td><a href="http://arxiv.org/abs/2509.22478">2509.22478</a></td>
 </tr>
 </tbody></table>

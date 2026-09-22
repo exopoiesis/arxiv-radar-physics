@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,17 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13313.html">Flow Matching for Efficient and Scalable Data Assimilation</a></div></td>
 <td>Taos Transue et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13313">2508.13313</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21751.html">Reparameterizing 4DVAR with neural fields</a></div></td>
-<td>Jaemin Oh</td>
-<td><a href="http://arxiv.org/abs/2509.21751">2509.21751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22949.html">Meta-Learning Fourier Neural Operators for Hessian Inversion and Enhanced Variational Data Assimilation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Hamidreza Moazzami et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22949">2509.22949</a></td>
 </tr>
 </tbody></table>

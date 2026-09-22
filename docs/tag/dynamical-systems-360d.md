@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22539.html">Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
+<td>Mario Ramos-Hamud et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22539">2609.22539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20144.html">Extended dynamic mode decomposition with Fourier dictionaries: Error bounds and fast implementation</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Felix Bartel et al.</td>
@@ -4082,11 +4088,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24920.html">A Spectral-Grassmann Wasserstein metric for operator representations of dynamical systems</a></div></td>
 <td>Thibaut Germain et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24920">2509.24920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05305.html">Closed-Form Interpretation of Neural Network Latent Spaces with Symbolic Gradients</a></div></td>
-<td>Sebastian J. Wetzel et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05305">2409.05305</a></td>
 </tr>
 </tbody></table>

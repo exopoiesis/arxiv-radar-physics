@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">575 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25869.html">Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention</a></div></td>
+<td>Shanghao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25869">2609.25869</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Thomas Egg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26482.html">Shallow-to-deep velocity model building via diffusion models-Part II: Realistic scenarios</a></div></td>
+<td>Shijun Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26482">2609.26482</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24622.html">A priori regularity of the reverse heat flow and dimension-dependent complexity of higher-order diffusion samplers</a></div></td>
+<td>Xixian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24622">2609.24622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24840.html">PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control</a></div></td>
+<td>Lei Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24840">2609.24840</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23442.html">PhysReflect: Geometry and Perception Guided Diffusion for Physically-Plausible Mirror Reflections</a></div></td>
@@ -3434,17 +3464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23971.html">VFSI: Validity First Spatial Intelligence for Constraint-Guided Traffic Diffusion</a></div></td>
 <td>Kargi Chauhan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23971">2509.23971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11013.html">Collaborative Deterministic-Probabilistic Forecasting for Diverse Spatiotemporal Systems</a></div></td>
-<td>Zhi Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11013">2502.11013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01563.html">Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots</a></div></td>
-<td>Lingfan Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01563">2506.01563</a></td>
 </tr>
 </tbody></table>

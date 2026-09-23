@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24203.html">Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a></div></td>
 <td>Bo-Hao Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24203">2609.24203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24946.html">Merlin: Fast and flexible 3x2pt cosmology with simulation-based inference</a></div></td>
+<td>Alexandra Wernersson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24946">2609.24946</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-18</td>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25512.html">West-WRF AI 2-km: High-Resolution Prediction of Integrated Vapor Transport and Precipitation</a></div></td>
+<td>Nazak Rouzegari et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25512">2609.25512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26457.html">Recursive self-improvement of AI research agents</a></div></td>
+<td>Dhruv Srikanth et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26457">2609.26457</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19517.html">Spatial Aggregation of ROC and Precision-Recall Curves</a></div></td>
 <td>Romain Pic et al.</td>
@@ -146,17 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02829.html">Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction</a></div></td>
 <td>Janet Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02829">2607.02829</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25937.html">Event-Aware Loss Design for Forecasting of Convective Precipitation and Lightning</a></div></td>
-<td>ChangJae Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25937">2606.25937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26389.html">Sampling sea state using a diffusion model</a></div></td>
-<td>Jiarong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26389">2606.26389</a></td>
 </tr>
 </tbody></table>

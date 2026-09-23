@@ -7,9 +7,24 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>particle-physics — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23367.html">LLM-Based FORM Code Generation with Verification-Driven Fine-Tuning</a></div></td>
+<td>Bakar Chargeishvili</td>
+<td><a href="http://arxiv.org/abs/2609.23367">2609.23367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23385.html">Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design</a></div></td>
+<td>Gia Ancone et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23385">2609.23385</a></td>
+</tr>
+</tbody></table>

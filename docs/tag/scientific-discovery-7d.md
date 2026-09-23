@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
+<td>Brandon Bauer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26661">2609.26661</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div></td>
@@ -38,23 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19491.html">Efficiently Linking Unstructured Data for Multi-step Reasoning</a></div></td>
 <td>Jiaming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19491">2609.19491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11873.html">The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement</a></div></td>
-<td>Yi Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11873">2609.11873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16736.html">Dataset repurposing and disruptive AI research</a></div></td>
-<td>Yulin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16736">2609.16736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16995.html">PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress</a></div></td>
-<td>Kevin Qinghong Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16995">2609.16995</a></td>
 </tr>
 </tbody></table>

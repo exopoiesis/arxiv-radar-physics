@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
+<td>Brandon Bauer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26661">2609.26661</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div></td>
 <td>Jie Ying et al.</td>
@@ -3056,11 +3062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23986.html">TusoAI: Agentic Optimization for Scientific Methods</a></div></td>
 <td>Alistair Turcan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23986">2509.23986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23453.html">PHASE: Physics-Integrated, Heterogeneity-Aware Surrogates for Scientific Simulations</a></div></td>
-<td>Dawei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23453">2509.23453</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14711.html">GRPO-QPS: Target-Preserving Reinforcement Learning for Quantum Posterior Sampling</a></div></td>
+<td>Yufeng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14711">2609.14711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24824.html">Constraining the geometry of rotating black holes with eikonal QNMs</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Ciro De Simone et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24824">2609.24824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25145.html">Variational objectives for amortized Bayesian inference in inverse problems: The role of posterior conditioning</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Abhishek Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25145">2609.25145</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25208.html">Adaptive thresholding for scalable measurement-based qubit reset</a></div></td>
+<td>Qian Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25208">2609.25208</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22539.html">Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
@@ -428,11 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28492.html">Propagating data noise through the fit: the Monte Carlo replica distribution</a></div></td>
 <td>Mark N. Costantini</td>
 <td><a href="http://arxiv.org/abs/2606.28492">2606.28492</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26164.html">\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation</a></div></td>
-<td>Ira Wolfson</td>
-<td><a href="http://arxiv.org/abs/2606.26164">2606.26164</a></td>
 </tr>
 </tbody></table>

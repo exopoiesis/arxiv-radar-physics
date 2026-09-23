@@ -22,9 +22,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.23476">2609.23476</a></td>
 </tr>
 <tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17352.html">Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
-<td>Marcin Jastrzebski et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17352">2609.17352</a></td>
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25082.html">Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Carlos Cano et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25082">2609.25082</a></td>
 </tr>
 </tbody></table>

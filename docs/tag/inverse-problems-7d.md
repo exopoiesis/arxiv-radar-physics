@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26653.html">Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Akshay Vishwakarma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26653">2609.26653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25145.html">Variational objectives for amortized Bayesian inference in inverse problems: The role of posterior conditioning</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a></div></td>
+<td>Abhishek Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25145">2609.25145</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23761.html">GenVoid: Uncertainty-Aware Learning of Subsurface Material Defects with an Experimentally Validated Physics-Informed Generative Model</a></div></td>
 <td>Trishit Mondal et al.</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
 <td>Xinmeng Luan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19345">2609.19345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16536.html">Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems</a></div></td>
-<td>Shengchang Chen</td>
-<td><a href="http://arxiv.org/abs/2609.16536">2609.16536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22321.html">Toward Well-Posed Problems in the Social Sciences: Hadamard&#x27;s Criteria as Epistemic Guardrails</a></div></td>
-<td>Don Li</td>
-<td><a href="http://arxiv.org/abs/2609.22321">2609.22321</a></td>
 </tr>
 </tbody></table>

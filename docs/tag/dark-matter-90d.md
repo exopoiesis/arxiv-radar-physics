@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24948.html">Two-dimensional weak lensing shear for cluster mass, concentration, ellipticity and miscentering estimation</a></div></td>
+<td>Calum Murray et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24948">2609.24948</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22543.html">The Deep Learning Halo Definer: A Multimodal Framework for Halo Mass and Gas Fraction Inference on Galaxy Groups and Clusters</a></div></td>
 <td>Caleb Ogle et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28482.html">Strongest constraints on dark acoustic oscillations from the Lyman-alpha forest</a></div></td>
 <td>Zhihan Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28482">2606.28482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26218.html">Dark Matter in Draco and Boötes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26218">2606.26218</a></td>
 </tr>
 </tbody></table>

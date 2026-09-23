@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.24246">2609.24246</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25323.html">Emerging Technologies for Astrophysics Missions: Workshop Summary Report</a></div></td>
+<td>Brendan P Crill et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25323">2609.25323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23706.html">Neutron Double-Differential Cross Sections for Spallation Reactions from an ANN Model</a></div></td>
 <td>Rong Wang et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27565.html">Searching for Extraterrestrial Intelligence with the SKA</a></div></td>
 <td>Chenoa D. Tremblay et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27565">2606.27565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26405.html">Data-Driven by Design: Building a Reflective Physics Graduate Program</a></div></td>
-<td>Kevin Coldren et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26405">2606.26405</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24246.html">Taramandal-GPT: Enhancing Astrodynamics Problem-Solving with Knowledge Retrieval and Structured Thinking</a></div></td>
 <td>Akhil Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24246">2609.24246</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25323.html">Emerging Technologies for Astrophysics Missions: Workshop Summary Report</a></div></td>
+<td>Brendan P Crill et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25323">2609.25323</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25085.html">FREESIA: Covariance-Aware Posterior Transport for Expressive and Scalable Data Assimilation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Shiwei Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25085">2609.25085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19871.html">Physical knowledge on historical data matters more than enforcing physical constraints on the forecast</a></div></td>
@@ -926,17 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01441.html">Diffusion Modeling of the Three-Dimensional Magnetic Field in the Sun&#x27;s Corona</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Daniel E. da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01441">2510.01441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04192.html">JAX-MPM: A Learning-Augmented Differentiable Meshfree Framework for GPU-Accelerated Lagrangian Simulation and Geophysical Inverse Modeling</a></div></td>
-<td>Honghui Du et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04192">2507.04192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13313.html">Flow Matching for Efficient and Scalable Data Assimilation</a></div></td>
-<td>Taos Transue et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13313">2508.13313</a></td>
 </tr>
 </tbody></table>

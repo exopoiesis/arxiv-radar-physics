@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
+<td>Brandon Bauer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26661">2609.26661</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div></td>
@@ -524,23 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26728.html">Scientific discovery as meta-optimization: a combinatorial optimization case study</a></div></td>
 <td>Yuan-Hang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26728">2606.26728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08532.html">DN-Hypo-Pipeline: An AI-Driven Workflow for Generating Hypotheses using Large Language Models and Scientific Explanations</a></div></td>
-<td>Lei Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08532">2606.08532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25532.html">Agentic evolution of physically constrained foundation models</a></div></td>
-<td>Jiangwei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25532">2606.25532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26359.html">Accelerating Returns and the Qualitative Engine for Science</a></div></td>
-<td>Guojun Liao</td>
-<td><a href="http://arxiv.org/abs/2606.26359">2606.26359</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Zhenxing Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24293">2609.24293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24720.html">Colour me shocked: Exact Molecular Hessians from local MLIPs in O(N) time using sparse differentiation!</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Luca Thiede et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24720">2609.24720</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-17</td>

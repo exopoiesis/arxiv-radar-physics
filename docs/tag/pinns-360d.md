@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25222.html">Gravity-Informed Neural Networks for Post-Newtonian Binary Dynamics</a></div></td>
+<td>Gabriele Barbagallo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25222">2609.25222</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Yuling Han et al.</td>
@@ -3710,11 +3716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03278.html">Quantifying constraint hierarchies in Bayesian PINNs via per-constraint Hessian decomposition</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Filip Landgren</td>
 <td><a href="http://arxiv.org/abs/2510.03278">2510.03278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16008.html">Enhancing Stability of Physics-Informed Neural Network Training Through Saddle-Point Reformulation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Dmitry Bylinkin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16008">2507.16008</a></td>
 </tr>
 </tbody></table>

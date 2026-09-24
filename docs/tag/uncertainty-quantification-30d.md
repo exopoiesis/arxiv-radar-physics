@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.26653">2609.26653</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24117.html">PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Chenfeng Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24117">2609.24117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23241.html">UQMIA: An Open, Hands-On Tutorial on Uncertainty Quantification in Medical Imaging Analysis with Large Language Model-Based Assessment of Educational Content</a></div></td>
 <td>Benyamin Gheiji et al.</td>
@@ -188,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24833.html">Real-time inverse solutions via neural matrix operators</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Julie Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24833">2608.24833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Wyatt A. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
 </tr>
 </tbody></table>

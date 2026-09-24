@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28229.html">Distilling Datasets into Shallow Circuits for Quantum Machine Learning</a></div></td>
+<td>Guang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28229">2609.28229</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25641.html">When Quantum Meets AI: Quantum Methods for Machine Learning and Machine Learning Methods for Quantum Systems</a></div></td>
@@ -536,17 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
 <td>Akshay Bhagwan Sonawane et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28252">2606.28252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27411.html">Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Santanu Ganguly et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27411">2606.27411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27561.html">Quantum Generative Diffusion Model for Real-World Time Series</a></div></td>
-<td>Jack Waller et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27561">2606.27561</a></td>
 </tr>
 </tbody></table>

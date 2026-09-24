@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Tuan Luong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27186">2609.27186</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25222.html">Gravity-Informed Neural Networks for Post-Newtonian Binary Dynamics</a></div></td>
@@ -26,6 +32,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
 <td>Yuling Han et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23844">2609.23844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22984.html">LPINNs: First-Layer Gated Localization for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Lakshay Chawla et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22984">2609.22984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23023.html">PINNForge: Execution-Grounded Evolutionary Design of Physics-Informed Neural Networks for PDE Solving via Large Language Models</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Mingyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23023">2609.23023</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-19</td>
@@ -200,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24970.html">Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Jiuyun Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24970">2608.24970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24940.html">When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Shubham Rai</td>
-<td><a href="http://arxiv.org/abs/2608.24940">2608.24940</a></td>
 </tr>
 </tbody></table>

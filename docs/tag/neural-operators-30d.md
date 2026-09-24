@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Daniel Zhengyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24746.html">Enhancing Transformer Representations of Symbolic ODE Expressions</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Xiyue Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24746">2609.24746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>S. Mohammad Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23529.html">Predicting Out-of-Distribution Generalization of Neural Operators via Observable Spectral Error Decomposition</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Hang-Cheng Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23529">2609.23529</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-18</td>
@@ -176,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25084.html">The Frame Kernel Method for Multiscale Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
 <td>Branden Frieden et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25084">2608.25084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22782.html">Neural Operator based Multi-Field Reconstruction of Inner Solar Boundary State</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Vignesh Kumar Pandian Sathia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22782">2608.22782</a></td>
 </tr>
 </tbody></table>

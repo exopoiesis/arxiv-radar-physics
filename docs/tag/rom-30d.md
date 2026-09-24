@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24332.html">Autoencoders vs. Numerical Analysis--Informed Manifold Learning for Navier--Stokes Flows</a></div></td>
+<td>Alessandro Della Pia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24332">2609.24332</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16525.html">Structure-Informed Data-Driven Reduced-Order Modeling of Scalar Hyperbolic Conservation Laws via Kinetic Defect Measure</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
 <td>Marissa Llamas et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25160.html">ROMNet: a hybrid reduced order modeling and machine learning approach to waveform inversion</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
 <td>Liliana Borcea et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25160">2608.25160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22787.html">Generative Design of Liquid-Cooling Channels for Thermal Management of 2.5D and 3D Integrated Advanced Packaging</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Michael Acquah et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22787">2608.22787</a></td>
 </tr>
 </tbody></table>

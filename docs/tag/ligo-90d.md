@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28031.html">Neural Network Guided Parameter Space Constraints for Gravitational Wave Searches from Binary Black Holes</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
+<td>Chetan Verma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28031">2609.28031</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19416.html">Deep Learning Detection of Beyond-General-Relativity Deviations in Gravitational-Wave Signals: A Detection-Threshold Study with Real LIGO Noise</a></div></td>
 <td>Muhammad Adnan Shahzad</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01372.html">AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="black-holes-90d.html">black-holes</a> · <a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
 <td>Bhavya Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01372">2607.01372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27227.html">Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks</a></div></td>
-<td>Tom Dooney et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27227">2606.27227</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
+<td>Zeyu Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28230">2609.28230</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
@@ -50,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Abed Hammoud et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26809.html">AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations</a></div></td>
+<td>Udaiveer Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26809">2609.26809</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-12</td>
@@ -128,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24715.html">Deep Learning Super Resolution for Satellite Cloud Mask Downscaling</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
 <td>Angelos Georgakis et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24715">2608.24715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23746.html">CRISP: Calibration-Aware Visual State Space Duality for Remote Sensing Semantic Segmentation</a></div></td>
-<td>Kangning Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23746">2608.23746</a></td>
 </tr>
 </tbody></table>

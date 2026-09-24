@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>black-holes — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <strong>30d</strong> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28458.html">Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU</a></div><div class="paper-tags"><a href="ai4science-30d.html">ai4science</a> · <a href="cosmology-30d.html">cosmology</a></div></td>
+<td>A. Spurio Mancini</td>
+<td><a href="http://arxiv.org/abs/2609.28458">2609.28458</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24824.html">Constraining the geometry of rotating black holes with eikonal QNMs</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>

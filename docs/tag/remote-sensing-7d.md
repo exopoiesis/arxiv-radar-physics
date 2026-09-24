@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
+<td>Zeyu Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28230">2609.28230</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
 <td>Jordi Cerdà-Bautista et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21123.html">Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications</a></div></td>
 <td>Logan Luna et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21123">2609.21123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Abed Hammoud et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
 </tr>
 </tbody></table>

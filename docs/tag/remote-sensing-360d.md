@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
+<td>Zeyu Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28230">2609.28230</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
 <td>Jordi Cerdà-Bautista et al.</td>
@@ -50,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Abed Hammoud et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26809.html">AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations</a></div></td>
+<td>Udaiveer Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26809">2609.26809</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-12</td>
@@ -3188,17 +3200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24875.html">Environment-Aware Satellite Image Generation with Diffusion Models</a></div></td>
 <td>Nikos Kostagiolas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24875">2509.24875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23801.html">Controllable Reference Guided Diffusion with Local Global Fusion for Real World Remote Sensing Image Super Resolution</a></div></td>
-<td>Ce Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23801">2506.23801</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23772.html">A Modality-Tailored Graph Modeling Framework for Urban Region Representation via Contrastive Learning</a></div></td>
-<td>Yaya Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23772">2509.23772</a></td>
 </tr>
 </tbody></table>

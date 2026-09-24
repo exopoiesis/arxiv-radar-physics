@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ai4science — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <strong>360d</strong> <a href="ai4science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28458.html">Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
+<td>A. Spurio Mancini</td>
+<td><a href="http://arxiv.org/abs/2609.28458">2609.28458</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11117.html">Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers</a></div></td>

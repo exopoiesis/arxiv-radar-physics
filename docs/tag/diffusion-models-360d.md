@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">575 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
+<td>Edgardo Villar-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25869.html">Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention</a></div></td>
@@ -3446,23 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03287.html">SoC-DT: Standard-of-Care Aligned Digital Twins for Patient-Specific Tumor Dynamics</a></div></td>
 <td>Moinak Bhattacharya et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03287">2510.03287</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03898.html">Diffusion Generative Models Meet Compressed Sensing, with Applications to Imaging and Finance</a></div></td>
-<td>Zhengyi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03898">2509.03898</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23769.html">ReLumix: Extending Image Relighting to Video via Video Diffusion Models</a></div></td>
-<td>Lezhong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23769">2509.23769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23971.html">VFSI: Validity First Spatial Intelligence for Constraint-Guided Traffic Diffusion</a></div></td>
-<td>Kargi Chauhan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23971">2509.23971</a></td>
 </tr>
 </tbody></table>

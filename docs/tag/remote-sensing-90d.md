@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
+<td>Zeyu Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28230">2609.28230</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
@@ -50,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Abed Hammoud et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26809.html">AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations</a></div></td>
+<td>Udaiveer Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26809">2609.26809</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-12</td>
@@ -464,11 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28266.html">RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning</a></div></td>
 <td>Yelin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28266">2606.28266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27018.html">On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events</a></div></td>
-<td>S. Ramírez-Gallego</td>
-<td><a href="http://arxiv.org/abs/2606.27018">2606.27018</a></td>
 </tr>
 </tbody></table>

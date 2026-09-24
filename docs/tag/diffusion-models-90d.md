@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
+<td>Edgardo Villar-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25869.html">Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention</a></div></td>
 <td>Shanghao Liu et al.</td>
@@ -488,11 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28483.html">Quantum Fourier Generative Models Trainable at Large Scale</a></div></td>
 <td>Cenk Tüysüz et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28483">2606.28483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27094.html">Learning Climate Variability from Scarce Data with Diffusion Models: A Test Case for ENSO</a></div></td>
-<td>Lluis Palma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27094">2606.27094</a></td>
 </tr>
 </tbody></table>

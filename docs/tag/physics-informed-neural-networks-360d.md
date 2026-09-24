@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">635 papers</span>
+  <span class="paper-count">636 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Tuan Luong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27186">2609.27186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24913.html">Boson Star Factory: Past, Present, and Future</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Romain Gervalle et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24913">2609.24913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>S. Mohammad Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22984.html">LPINNs: First-Layer Gated Localization for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Lakshay Chawla et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22984">2609.22984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23023.html">PINNForge: Execution-Grounded Evolutionary Design of Physics-Informed Neural Networks for PDE Solving via Large Language Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Mingyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23023">2609.23023</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-19</td>
@@ -3806,23 +3830,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25450.html">Multi-patch isogeometric neural solver for partial differential equations on computer-aided design domains</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Moritz von Tresckow et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25450">2509.25450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23784.html">Predictions with limited data: Bayesian (X)PINNs, entanglement surfaces and overconfidence</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Filip Landgren et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23784">2509.23784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25262.html">AW-EL-PINNs: A Multi-Task Learning Physics-Informed Neural Network for Euler-Lagrange Systems in Optimal Control Problems</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Chuandong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25262">2509.25262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03278.html">Quantifying constraint hierarchies in Bayesian PINNs via per-constraint Hessian decomposition</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Filip Landgren</td>
-<td><a href="http://arxiv.org/abs/2510.03278">2510.03278</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26899.html">Towards Foundation Models on Hardware Accelerators for Particle Physics</a></div><div class="paper-tags"><a href="jet-tagging-30d.html">jet-tagging</a></div></td>
+<td>Maya Benyas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26899">2609.26899</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23367.html">LLM-Based FORM Code Generation with Verification-Driven Fine-Tuning</a></div></td>
 <td>Bakar Chargeishvili</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26090.html">Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders</a></div></td>
 <td>Raphaël Bonnet-Guerrini et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26090">2608.26090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23750.html">S-matrix informed neural networks for amplitude analysis</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Wyatt A. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23750">2608.23750</a></td>
 </tr>
 </tbody></table>

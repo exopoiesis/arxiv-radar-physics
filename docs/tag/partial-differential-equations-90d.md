@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,58 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.24913">2609.24913</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25507.html">AKAPINN: Adaptive Kolmogorov-Arnold Physics-Informed Neural Networks for approximating solutions to quasilinear partial differential equations</a></div></td>
+<td>B. Veena S. N. Rao</td>
+<td><a href="http://arxiv.org/abs/2609.25507">2609.25507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Daniel Zhengyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>S. Mohammad Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25431.html">Data-Driven Control in Infinite-Dimensional Spaces: Fundamental Lemma and Applications</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Daniel López-Montero</td>
+<td><a href="http://arxiv.org/abs/2609.25431">2609.25431</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23299.html">Sparsely connected neural network representation of Lagrange finite element function</a></div></td>
+<td>Jiaxiong Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23299">2609.23299</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23529.html">Predicting Out-of-Distribution Generalization of Neural Operators via Observable Spectral Error Decomposition</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Hang-Cheng Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23529">2609.23529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23023.html">PINNForge: Execution-Grounded Evolutionary Design of Physics-Informed Neural Networks for PDE Solving via Large Language Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Mingyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23023">2609.23023</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23077.html">Physics-Informed Neural Network Surrogates with Polynomial Chaos-Based Uncertainty Propagation for Stochastic Model Predictive Control</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Srimanta Santra et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23077">2609.23077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23206.html">SDC-GON: Singular Decomposition and Consistency-Regularized Green&#x27;s Operator Networks for Solving Partial Differential Equations</a></div></td>
+<td>Yingchao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23206">2609.23206</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-18</td>
@@ -776,23 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28519.html">A Trainable-by-Parts Operator Learning Framework: Bridging DeepONet and Karhunen-Loeve Expansions for Large-Scale Applications</a></div><div class="paper-tags"><a href="climate-modeling-90d.html">climate-modeling</a> · <a href="deeponet-90d.html">deeponet</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Christian Munoz et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28519">2606.28519</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26592.html">Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Yuanzhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26592">2606.26592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26865.html">Quantum Physics-Informed Neural Networks for Solving Integro and Fractional PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Deepak Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26865">2606.26865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27459.html">Operator Learning for Cubic Nonlinear Schrödinger Equation on Periodic Domains</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
-<td>Emmanuel E. Oguadimma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27459">2606.27459</a></td>
 </tr>
 </tbody></table>

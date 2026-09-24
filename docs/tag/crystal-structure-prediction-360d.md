@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure-prediction — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="crystal-structure-prediction-7d.html">7d</a> <a href="crystal-structure-prediction-30d.html">30d</a> <a href="crystal-structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Jingru Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23822.html">Space Group Conditional Flow Matching</a></div></td>
-<td>Omri Puny et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23822">2509.23822</a></td>
 </tr>
 </tbody></table>

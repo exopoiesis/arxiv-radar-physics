@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24332.html">Autoencoders vs. Numerical Analysis--Informed Manifold Learning for Navier--Stokes Flows</a></div></td>
+<td>Alessandro Della Pia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24332">2609.24332</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16525.html">Structure-Informed Data-Driven Reduced-Order Modeling of Scalar Hyperbolic Conservation Laws via Kinetic Defect Measure</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>

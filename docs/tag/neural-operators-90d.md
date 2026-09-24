@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Daniel Zhengyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24746.html">Enhancing Transformer Representations of Symbolic ODE Expressions</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Xiyue Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24746">2609.24746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>S. Mohammad Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23529.html">Predicting Out-of-Distribution Generalization of Neural Operators via Observable Spectral Error Decomposition</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Hang-Cheng Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23529">2609.23529</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-18</td>
@@ -428,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28122.html">Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
 <td>Alex Colagrande et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28122">2606.28122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27459.html">Operator Learning for Cubic Nonlinear Schrödinger Equation on Periodic Domains</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Emmanuel E. Oguadimma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27459">2606.27459</a></td>
 </tr>
 </tbody></table>

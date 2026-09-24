@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">894 papers</span>
+  <span class="paper-count">895 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26653.html">Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
 <td>Akshay Vishwakarma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26653">2609.26653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24117.html">PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Chenfeng Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24117">2609.24117</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-19</td>

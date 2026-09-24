@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,11 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20662.html">Atomistic Insights into Cu/amorphous-Ta$_x$N Interfacial Adhesion via Machine Learning Interatomic Potentials: Effects of Stoichiometry and Interface Construction</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Jeong Min Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20662">2509.20662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19438.html">Gradient-based grand canonical optimization enabled by graph neural networks with fractional atomic existence</a></div></td>
-<td>Mads-Peter Verner Christiansen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19438">2507.19438</a></td>
 </tr>
 </tbody></table>

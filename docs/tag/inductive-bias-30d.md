@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.17894">2609.17894</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22319.html">Embedding Physics Priors in Robot Learning: A Survey</a></div></td>
+<td>Mattia Piccinini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22319">2609.22319</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16266.html">Towards Surrogate Based Dequantization of Quantum Reinforcement Learning</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Pablo Rodriguez-Grasa et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Xiaoxiao Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27259">2608.27259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23546.html">Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Xiaoyang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23546">2608.23546</a></td>
 </tr>
 </tbody></table>

@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.26653">2609.26653</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24117.html">PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Chenfeng Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24117">2609.24117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23241.html">UQMIA: An Open, Hands-On Tutorial on Uncertainty Quantification in Medical Imaging Analysis with Large Language Model-Based Assessment of Educational Content</a></div></td>
 <td>Benyamin Gheiji et al.</td>
@@ -3224,11 +3230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24232.html">Probabilistic Graybox Characterization of Quantum Devices with Bayesian Neural Networks</a></div></td>
 <td>Poramet Pathumsoot et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24232">2509.24232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24117.html">GeoFunFlow: Geometric Function Flow Matching for Inverse Operator Learning over Complex Geometries</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24117">2509.24117</a></td>
 </tr>
 </tbody></table>

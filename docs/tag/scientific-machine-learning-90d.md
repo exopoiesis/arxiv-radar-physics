@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23529.html">Predicting Out-of-Distribution Generalization of Neural Operators via Observable Spectral Error Decomposition</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Hang-Cheng Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23529">2609.23529</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16710.html">Continuous-Time Machine Learning: A Unified Mathematical Perspective</a></div></td>
 <td>Waleed Razzaq et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
 <td>Nick Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29346">2606.29346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27285.html">Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs</a></div></td>
-<td>Yang Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27285">2606.27285</a></td>
 </tr>
 </tbody></table>

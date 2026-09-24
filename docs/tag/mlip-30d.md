@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27108.html">Towards Extended Active Learning for Modelling Ferroelectric Switching: the Need for &#x27;Gold Standards&#x27;</a></div></td>
+<td>Jeffrey R. Reimers et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27108">2609.27108</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Zhenxing Dai et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00674.html">Diagnosing Latent Energy Decomposition in Machine-Learning Interatomic Potentials via Interacting Quantum Atoms</a></div></td>
 <td>Kohei Shimamura et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00674">2609.00674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22933.html">Generalizing Abell-Tersoff bond-order potential with explicit high-order many-body correlations for robust extrapolation of potential energy surfaces</a></div></td>
-<td>Ikuma Kohata</td>
-<td><a href="http://arxiv.org/abs/2608.22933">2608.22933</a></td>
 </tr>
 </tbody></table>

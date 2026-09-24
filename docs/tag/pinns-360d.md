@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Tuan Luong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27186">2609.27186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25222.html">Gravity-Informed Neural Networks for Post-Newtonian Binary Dynamics</a></div></td>
 <td>Gabriele Barbagallo et al.</td>
@@ -26,6 +32,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Yuling Han et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23844">2609.23844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22984.html">LPINNs: First-Layer Gated Localization for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Lakshay Chawla et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22984">2609.22984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23023.html">PINNForge: Execution-Grounded Evolutionary Design of Physics-Informed Neural Networks for PDE Solving via Large Language Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Mingyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23023">2609.23023</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-19</td>
@@ -3698,23 +3716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26113.html">Enhancing PINN Performance Through Lie Symmetry Group</a></div></td>
 <td>Ali Haider Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26113">2509.26113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23784.html">Predictions with limited data: Bayesian (X)PINNs, entanglement surfaces and overconfidence</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Filip Landgren et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23784">2509.23784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25262.html">AW-EL-PINNs: A Multi-Task Learning Physics-Informed Neural Network for Euler-Lagrange Systems in Optimal Control Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Chuandong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25262">2509.25262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03278.html">Quantifying constraint hierarchies in Bayesian PINNs via per-constraint Hessian decomposition</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Filip Landgren</td>
-<td><a href="http://arxiv.org/abs/2510.03278">2510.03278</a></td>
 </tr>
 </tbody></table>

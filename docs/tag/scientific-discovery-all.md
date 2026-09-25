@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">747 papers</span>
+  <span class="paper-count">751 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29016.html">EvoTreeNAD: Genealogy-Guided Evolution for LLM-Driven Neural Architecture Discovery</a></div></td>
+<td>Lishan Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29016">2609.29016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29802.html">Learning to Ideate for Scientific Impact</a></div></td>
+<td>Shubham Kale et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29802">2609.29802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29892.html">Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents</a></div></td>
+<td>Tingyu Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29892">2609.29892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30199.html">ExplorationBench: Measuring AI Systems&#x27; Exploration in Verifiable Alien Worlds</a></div></td>
+<td>Ming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30199">2609.30199</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>

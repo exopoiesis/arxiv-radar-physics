@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">422 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29220.html">A Unified Frequency-Domain Model for Cascaded Filter-Interpolation Modulation in Tomographic Reconstruction</a></div></td>
+<td>Detian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29220">2609.29220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29969.html">Rapid Uncertainty Quantification on a Latent Field using Fisher Information</a></div></td>
+<td>Karl Daningburg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29969">2609.29969</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26653.html">Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -2534,11 +2546,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11043.html">InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Hongkai Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11043">2503.11043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24746.html">The real-time QCD static potential at high temperature</a></div></td>
-<td>Margaret E. Carrington et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24746">2509.24746</a></td>
 </tr>
 </tbody></table>

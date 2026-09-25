@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28953.html">Constraining the Quadratic-mode Amplitude Coupling in GW250114</a></div></td>
+<td>Yuxin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28953">2609.28953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29336.html">PQLS: A Quasilinear Gyrokinetic Transport Solver with a Bayesian Saturation-Rule Closure</a></div></td>
+<td>F. Wilms et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29336">2609.29336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30145.html">CERIDWEN: Fast and Flexible GPU-Accelerated Stellar Population Inference</a></div></td>
+<td>Amanda Stoffers et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30145">2609.30145</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27668.html">Topological Inference for Organoids</a></div></td>
 <td>Haochen Yang et al.</td>
@@ -2612,23 +2630,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00126.html">Accelerating SED Modeling of Astrophysical Objects Using Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Federico Testagrossa et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00126">2510.00126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00340.html">Bayesian inference of the magnetic field and chemical potential on holographic jet quenching in heavy-ion collisions</a></div></td>
-<td>Liqiang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00340">2506.00340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24949.html">Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>David Yallup et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24949">2509.24949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25400.html">Multi-Task Equation Discovery</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
-<td>S C Bee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25400">2509.25400</a></td>
 </tr>
 </tbody></table>

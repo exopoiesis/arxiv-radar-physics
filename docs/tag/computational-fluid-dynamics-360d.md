@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Zhuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29087">2609.29087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Lionel Salesses et al.</td>
@@ -1052,11 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07348.html">Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection</a></div></td>
 <td>Xiao Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07348">2510.07348</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13458.html">An adaptive, data-driven multiscale approach for dense granular flows</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>B. Siddani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13458">2505.13458</a></td>
 </tr>
 </tbody></table>

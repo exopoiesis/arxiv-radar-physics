@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29027.html">Generative Atmospheric Super-Resolution from Heterogeneous In Situ Observations through Composable Interfaces</a></div></td>
+<td>Yang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29027">2609.29027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29902.html">Accurate Sampling from Diffusion Models</a></div></td>
+<td>Dénes Sexty</td>
+<td><a href="http://arxiv.org/abs/2609.29902">2609.29902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
 <td>Edgardo Villar-Sepúlveda et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28749.html">Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling</a></div></td>
+<td>Weikang Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28749">2609.28749</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>
@@ -200,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25858.html">Precipitation Downscaling Using Foundation Model-Conditioned Diffusion</a></div></td>
 <td>Victor Nascimento Ribeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25858">2608.25858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25223.html">On the hedging problem in general 1D diffusion markets</a></div></td>
-<td>Alexis Anagnostakis et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25223">2608.25223</a></td>
 </tr>
 </tbody></table>

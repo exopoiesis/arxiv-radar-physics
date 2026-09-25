@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28655.html">Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Aspen Erlandsson Brisebois et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28655">2606.28655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28252.html">Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection</a></div></td>
-<td>Akshay Bhagwan Sonawane et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28252">2606.28252</a></td>
 </tr>
 </tbody></table>

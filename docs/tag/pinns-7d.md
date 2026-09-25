@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Zhuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29087">2609.29087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Tuan Luong et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21795.html">Towards Physics-Informed Neural Networks for Stiff Guitar String Vibrations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Xinmeng Luan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21795">2609.21795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19915.html">Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Cheng Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19915">2609.19915</a></td>
 </tr>
 </tbody></table>

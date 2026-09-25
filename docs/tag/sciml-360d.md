@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15177.html">Finding geodesics with the Deep Ritz method</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Conor Rowan</td>
 <td><a href="http://arxiv.org/abs/2510.15177">2510.15177</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24306.html">A study of Universal ODE approaches to predicting soil organic carbon</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Satyanarayana Raju G. V. et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24306">2509.24306</a></td>
 </tr>
 </tbody></table>

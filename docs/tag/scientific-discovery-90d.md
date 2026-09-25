@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29016.html">EvoTreeNAD: Genealogy-Guided Evolution for LLM-Driven Neural Architecture Discovery</a></div></td>
+<td>Lishan Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29016">2609.29016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29802.html">Learning to Ideate for Scientific Impact</a></div></td>
+<td>Shubham Kale et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29802">2609.29802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29892.html">Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents</a></div></td>
+<td>Tingyu Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29892">2609.29892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30199.html">ExplorationBench: Measuring AI Systems&#x27; Exploration in Verifiable Alien Worlds</a></div></td>
+<td>Ming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30199">2609.30199</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
@@ -506,17 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29100.html">Toward Exascale AI for Science: A Scalable AI Skill for Autonomous Microkinetics Discovery</a></div></td>
 <td>Ken-ichi Nomura et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29100">2606.29100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28277.html">Towards Automating Scientific Review with Google&#x27;s Paper Assistant Tool</a></div></td>
-<td>Rajesh Jayaram et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28277">2606.28277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28493.html">The Role of Artificial Intelligence in the SKA Era</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28493">2606.28493</a></td>
 </tr>
 </tbody></table>

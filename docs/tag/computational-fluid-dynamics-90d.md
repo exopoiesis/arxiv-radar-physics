@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Zhuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29087">2609.29087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21590.html">Periodic Neural Mapping for Unsteady Rotor-Blade Pressure and Aeroelastic Load Prediction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Lionel Salesses et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29628.html">Kriging and neural network models for pressure losses across perforated plates</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
 <td>Shuai Li</td>
 <td><a href="http://arxiv.org/abs/2606.29628">2606.29628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a></div></td>
-<td>Benjamin Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
 </tr>
 </tbody></table>

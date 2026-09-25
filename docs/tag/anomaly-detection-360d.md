@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29194.html">Continuous Online Fault Detection for Mobile Robots via Adaptive Edge Models</a></div></td>
+<td>Jordan Levy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29194">2609.29194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28557.html">BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines</a></div></td>
+<td>Eranga Bandara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28557">2609.28557</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25930.html">AT3D-AD: Anomaly Type-Aware 3D Anomaly Detection via Hierarchical Point-Language Alignment</a></div></td>
 <td>Jingyu Zeng et al.</td>
@@ -1814,17 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02236.html">PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks</a></div></td>
 <td>Ricardo Misael Ayala Molina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02236">2510.02236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24414.html">ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection</a></div></td>
-<td>Tao Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24414">2509.24414</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24723.html">Unsupervised Machine Learning for Anomaly Detection in LHC Collider Searches</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
-<td>Antonio D&#x27;Avanzo</td>
-<td><a href="http://arxiv.org/abs/2509.24723">2509.24723</a></td>
 </tr>
 </tbody></table>

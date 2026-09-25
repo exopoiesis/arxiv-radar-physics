@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,17 +602,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00129.html">BigBang-Proton Technical Report: Next-Word-Prediction is Scientific Multitask Learner</a></div><div class="paper-tags"><a href="jet-tagging-360d.html">jet-tagging</a></div></td>
 <td>Hengkui Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00129">2510.00129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01496.html">Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the LHC using Machine Learning for Neutrino Reconstruction</a></div></td>
-<td>Yulei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01496">2504.01496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24543.html">A machine learning approach to axion-like particle searches in CTAO observations of blazars</a></div></td>
-<td>Francesco Schiavone et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24543">2509.24543</a></td>
 </tr>
 </tbody></table>

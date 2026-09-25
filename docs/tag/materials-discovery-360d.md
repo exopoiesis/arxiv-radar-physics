@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29344.html">Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory</a></div></td>
+<td>Bernardus Rendy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29344">2609.29344</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -1514,17 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25728.html">Fingerprinting Organic Molecules for the Inverse Design of Two-Dimensional Hybrid Perovskites with Target Energetics</a></div></td>
 <td>Yongxin Lyu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25728">2509.25728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div></td>
-<td>Dilshod Nematov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18975">2503.18975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04052.html">EAC-Net: Predicting real-space charge density via equivariant atomic contributions</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Xuejian Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04052">2508.04052</a></td>
 </tr>
 </tbody></table>

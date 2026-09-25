@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20144.html">Extended dynamic mode decomposition with Fourier dictionaries: Error bounds and fast implementation</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Felix Bartel et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20144">2609.20144</a></td>
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30198.html">Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
+<td>Andreas E. Robertson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30198">2609.30198</a></td>
 </tr>
 </tbody></table>

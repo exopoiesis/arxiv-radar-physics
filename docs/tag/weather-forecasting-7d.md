@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>weather-forecasting — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29383.html">Lightweight Probabilistic Downscaling from a Deterministic Base Model</a></div></td>
+<td>Joseph McLean et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29383">2609.29383</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28601.html">HClimRep-Ocean: A Global Ocean Emulator on an Unstructured Mesh</a></div></td>
+<td>Kacper Nowak et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28601">2609.28601</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25512.html">West-WRF AI 2-km: High-Resolution Prediction of Integrated Vapor Transport and Precipitation</a></div></td>
@@ -26,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26457.html">Recursive self-improvement of AI research agents</a></div></td>
 <td>Dhruv Srikanth et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26457">2609.26457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19517.html">Spatial Aggregation of ROC and Precision-Recall Curves</a></div></td>
-<td>Romain Pic et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19517">2609.19517</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29361.html">Hamiltonian learning reveals optoelectronic mechanisms across thermodynamic state space in soft semiconductors</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="hamiltonian-learning-360d.html">hamiltonian-learning</a></div></td>
+<td>Frederik Vonhoff et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29361">2609.29361</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21882.html">Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities</a></div></td>
 <td>Simon Wagner et al.</td>
@@ -710,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26397.html">Are neural scaling laws leading quantum chemistry astray?</a></div></td>
 <td>Siwoo Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26397">2509.26397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04052.html">EAC-Net: Predicting real-space charge density via equivariant atomic contributions</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Xuejian Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04052">2508.04052</a></td>
 </tr>
 </tbody></table>

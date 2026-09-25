@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Zhuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29087">2609.29087</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29280.html">A Physics-Driven Framework for Parametric Periodic-Flow Modeling and Finite-Amplitude Aeroelastic Response Analysis</a></div></td>
+<td>Daiwei Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29280">2609.29280</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28558.html">CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation</a></div><div class="paper-tags"><a href="rans-90d.html">rans</a></div></td>
+<td>Xiang Zuo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28558">2609.28558</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25713.html">CFD-Machine Learning Driven Pod Optimization and Staged Pressure-Area Management for Supersonic Evacuated Tube Transport</a></div></td>
@@ -308,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Wenbo Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28569.html">Data-driven linear analysis of turbulent flows</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="les-90d.html">les</a></div></td>
-<td>Benjamin Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28569">2606.28569</a></td>
 </tr>
 </tbody></table>

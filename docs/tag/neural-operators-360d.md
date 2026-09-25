@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29437.html">Learning Operators of Geometry with an Interface Autoencoder</a></div></td>
+<td>Aiqing Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29437">2609.29437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29847.html">Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Teo Deveney et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29847">2609.29847</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Daniel Zhengyu Huang et al.</td>
@@ -2456,17 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26576.html">Importance of localized dilatation and distensibility in identifying determinants of thoracic aortic aneurysm with neural operators</a></div></td>
 <td>David S. Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26576">2509.26576</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05454.html">GLONET: Mercator&#x27;s end-to-end neural Global Ocean forecasting system</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Anass El Aouni et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05454">2412.05454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07237.html">Towards Robust Surrogate Models: Benchmarking Machine Learning Approaches to Expediting Phase Field Simulations of Brittle Fracture</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Erfan Hamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07237">2507.07237</a></td>
 </tr>
 </tbody></table>

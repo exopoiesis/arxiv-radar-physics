@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">800 papers</span>
+  <span class="paper-count">797 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
+<td>Stefan Klus et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29159">2609.29159</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24913.html">Boson Star Factory: Past, Present, and Future</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
@@ -4790,29 +4796,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26186.html">PDE Solvers Should Be Local: Fast, Stable Rollouts with Learned Local Stencils</a></div></td>
 <td>Chun-Wun Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26186">2509.26186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13751.html">Semi-Discrete in Time Method for Time-Dependent Equations by Random Neural Basis</a></div></td>
-<td>Guihong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13751">2509.13751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25157.html">Chance-constrained Flow Matching for High-Fidelity Constraint-aware Generation</a></div></td>
-<td>Jinhao Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25157">2509.25157</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25280.html">Anatomy-DT: A Cross-Diffusion Digital Twin for Anatomical Evolution</a></div></td>
-<td>Moinak Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25280">2509.25280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25450.html">Multi-patch isogeometric neural solver for partial differential equations on computer-aided design domains</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Moritz von Tresckow et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25450">2509.25450</a></td>
 </tr>
 </tbody></table>

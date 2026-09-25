@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,11 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02426.html">ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>S. D. Bakshi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02426">2510.02426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12199.html">Deriving accurate galaxy cluster masses using X-ray thermodynamic profiles and graph neural networks</a></div></td>
-<td>Asif Iqbal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12199">2509.12199</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29027.html">Generative Atmospheric Super-Resolution from Heterogeneous In Situ Observations through Composable Interfaces</a></div></td>
+<td>Yang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29027">2609.29027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29902.html">Accurate Sampling from Diffusion Models</a></div></td>
+<td>Dénes Sexty</td>
+<td><a href="http://arxiv.org/abs/2609.29902">2609.29902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
 <td>Edgardo Villar-Sepúlveda et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28749.html">Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling</a></div></td>
+<td>Weikang Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28749">2609.28749</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>
@@ -3416,41 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26391.html">MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation</a></div></td>
 <td>Chenhui Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26391">2509.26391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02353.html">Controllable Motion Generation via Diffusion Modal Coupling</a></div></td>
-<td>Luobin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02353">2503.02353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09451.html">Composable Score-based Graph Diffusion Model for Multi-Conditional Molecular Generation</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09451">2509.09451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21541.html">ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering</a></div></td>
-<td>Weikai Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21541">2509.21541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24427.html">UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark</a></div></td>
-<td>Ailing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24427">2509.24427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24652.html">Learning Object-Centric Representations Based on Slots in Real World Scenarios</a></div></td>
-<td>Adil Kaan Akan</td>
-<td><a href="http://arxiv.org/abs/2509.24652">2509.24652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03287.html">SoC-DT: Standard-of-Care Aligned Digital Twins for Patient-Specific Tumor Dynamics</a></div></td>
-<td>Moinak Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03287">2510.03287</a></td>
 </tr>
 </tbody></table>

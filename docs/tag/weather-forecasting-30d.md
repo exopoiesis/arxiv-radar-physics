@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>weather-forecasting — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <strong>30d</strong> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29383.html">Lightweight Probabilistic Downscaling from a Deterministic Base Model</a></div></td>
+<td>Joseph McLean et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29383">2609.29383</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28601.html">HClimRep-Ocean: A Global Ocean Emulator on an Unstructured Mesh</a></div></td>
+<td>Kacper Nowak et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28601">2609.28601</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25512.html">West-WRF AI 2-km: High-Resolution Prediction of Integrated Vapor Transport and Precipitation</a></div></td>
@@ -62,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Gurjeet Sangra Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24715.html">Deep Learning Super Resolution for Satellite Cloud Mask Downscaling</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Angelos Georgakis et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24715">2608.24715</a></td>
 </tr>
 </tbody></table>

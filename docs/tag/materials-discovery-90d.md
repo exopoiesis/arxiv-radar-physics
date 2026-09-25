@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29344.html">Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory</a></div></td>
+<td>Bernardus Rendy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29344">2609.29344</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-prediction-90d.html">crystal-structure-prediction</a> · <a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Thomas Egg et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div></td>
 <td>Shaobo Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28578.html">Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design</a></div></td>
-<td>Sk Md Ahnaf Akif Alvi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28578">2606.28578</a></td>
 </tr>
 </tbody></table>

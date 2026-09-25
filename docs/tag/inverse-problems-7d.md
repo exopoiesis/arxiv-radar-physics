@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29220.html">A Unified Frequency-Domain Model for Cascaded Filter-Interpolation Modulation in Tomographic Reconstruction</a></div></td>
+<td>Detian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29220">2609.29220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29969.html">Rapid Uncertainty Quantification on a Latent Field using Fisher Information</a></div></td>
+<td>Karl Daningburg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29969">2609.29969</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26653.html">Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
@@ -32,29 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23761.html">GenVoid: Uncertainty-Aware Learning of Subsurface Material Defects with an Experimentally Validated Physics-Informed Generative Model</a></div></td>
 <td>Trishit Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23761">2609.23761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19697.html">Reconstructability of Inverse Problems under Symmetry: Separating Structural, Effective, and Physical Upper Bounds</a></div></td>
-<td>Isshin Arai</td>
-<td><a href="http://arxiv.org/abs/2609.19697">2609.19697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20711.html">Hankel-Christoffel-Nevai Screening of Posterior Relevance in Bayesian Inverse Problems</a></div></td>
-<td>Zhiliang Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20711">2609.20711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Jiachen Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20964.html">Warp-Geo: Differentiable Geometry Representation for Dynamic-Boundary Simulation and Shape Optimization</a></div></td>
-<td>Weijie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20964">2609.20964</a></td>
 </tr>
 </tbody></table>

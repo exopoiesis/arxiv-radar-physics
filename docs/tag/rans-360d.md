@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28558.html">CFD Correction of Open Tip Clearance Flow in a Compressor Cascade Using VAE Latent Space Adaptation</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Xiang Zuo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28558">2609.28558</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13490.html">DD-RNO: A Domain-Decomposed Routed Neural Operator for Airfoil Flow Prediction</a></div></td>
 <td>T. A. Mehta et al.</td>
@@ -476,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01091.html">Physics-Informed Machine Learning Approach in Augmenting RANS Models Using DNS Data and DeepInsight Method on FDA Nozzle</a></div><div class="paper-tags"><a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Hossein Geshani et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01091">2510.01091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03747.html">Distributed AI Platform for the 6G RAN</a></div></td>
-<td>Ganesh Ananthanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03747">2410.03747</a></td>
 </tr>
 </tbody></table>

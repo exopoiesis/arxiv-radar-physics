@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">536 papers</span>
+  <span class="paper-count">534 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3218,17 +3218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00193.html">A Kokkos-Accelerated Moment Tensor Potential Implementation for LAMMPS</a></div></td>
 <td>Zijian Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00193">2510.00193</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07237.html">Towards Robust Surrogate Models: Benchmarking Machine Learning Approaches to Expediting Phase Field Simulations of Brittle Fracture</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Erfan Hamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07237">2507.07237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24232.html">Probabilistic Graybox Characterization of Quantum Devices with Bayesian Neural Networks</a></div></td>
-<td>Poramet Pathumsoot et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24232">2509.24232</a></td>
 </tr>
 </tbody></table>

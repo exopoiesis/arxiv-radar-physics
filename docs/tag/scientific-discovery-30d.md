@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29016.html">EvoTreeNAD: Genealogy-Guided Evolution for LLM-Driven Neural Architecture Discovery</a></div></td>
+<td>Lishan Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29016">2609.29016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29802.html">Learning to Ideate for Scientific Impact</a></div></td>
+<td>Shubham Kale et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29802">2609.29802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29892.html">Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents</a></div></td>
+<td>Tingyu Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29892">2609.29892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30199.html">ExplorationBench: Measuring AI Systems&#x27; Exploration in Verifiable Alien Worlds</a></div></td>
+<td>Ming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30199">2609.30199</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
@@ -182,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25770.html">HypoForge: A Self-Improving Multi-Agent Framework for Automated Hypothesis Generation and Testing via Scientific Skill Learning</a></div></td>
 <td>Ziqing Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25770">2608.25770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25116.html">GRAPE: Gradient Refinement and Progress-Aware Exploitation for Query-Efficient High-Dimensional Bayesian Optimization</a></div></td>
-<td>Richard Cornelius Suwandi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25116">2608.25116</a></td>
 </tr>
 </tbody></table>

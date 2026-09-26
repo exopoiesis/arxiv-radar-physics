@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">534 papers</span>
+  <span class="paper-count">531 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3200,23 +3200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01398.html">Automating Data-Driven Modeling and Analysis for Engineering Applications using Large Language Model Agents</a></div></td>
 <td>Yang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01398">2510.01398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05533.html">Exploiting Inexact Computations in Multilevel Monte Carlo and Other Sampling Methods</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Josef Martínek et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05533">2503.05533</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25646.html">Deep set based operator learning with uncertainty quantification</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Lei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25646">2509.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00193.html">A Kokkos-Accelerated Moment Tensor Potential Implementation for LAMMPS</a></div></td>
-<td>Zijian Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00193">2510.00193</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06314.html">Energy-Energy Flow Networks</a></div></td>
 <td>Arianna Garcia Caffaro et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06314">2510.06314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26273.html">Rings of Light, Speed of AI: YOLO for Cherenkov Reconstruction</a></div></td>
-<td>Martino Borsato et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26273">2509.26273</a></td>
 </tr>
 </tbody></table>

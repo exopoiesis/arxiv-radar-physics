@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1322,17 +1322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03745.html">Neural Low-Discrepancy Sequences</a></div></td>
 <td>Michael Etienne Van Huffel et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03745">2510.03745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25646.html">Deep set based operator learning with uncertainty quantification</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Lei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25646">2509.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03305.html">Machine Learning Workflows in Climate Modeling: Design Patterns and Insights from Case Studies</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Tian Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03305">2510.03305</a></td>
 </tr>
 </tbody></table>

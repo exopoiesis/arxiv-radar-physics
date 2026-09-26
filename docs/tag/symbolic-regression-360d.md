@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10724.html">Extracting self-similarity from data</a></div></td>
 <td>Nikos Bempedelis et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10724">2407.10724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09897.html">Finetuning Large Language Model as an Effective Symbolic Regressor</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Yingfan Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09897">2508.09897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26611.html">Exploring cosmological constraints on galaxy formation time</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Agripino Sousa-Neto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26611">2509.26611</a></td>
 </tr>
 </tbody></table>

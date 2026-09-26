@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">570 papers</span>
+  <span class="paper-count">567 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3416,23 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01388.html">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</a></div></td>
 <td>Arthur Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01388">2510.01388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11043.html">InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Hongkai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11043">2503.11043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25631.html">Swift: An Autoregressive Consistency Model for Efficient Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Jason Stock et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25631">2509.25631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26391.html">MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation</a></div></td>
-<td>Chenhui Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26391">2509.26391</a></td>
 </tr>
 </tbody></table>

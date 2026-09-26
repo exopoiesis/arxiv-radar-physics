@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,17 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01365.html">RheOFormer: A generative transformer model for simulation of complex fluids and flows</a></div></td>
 <td>Maedeh Saberi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01365">2510.01365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25646.html">Deep set based operator learning with uncertainty quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Lei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25646">2509.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25788.html">From Cheap Geometry to Expensive Physics: Elevating Neural Operators via Latent Shape Pretraining</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhizhou Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25788">2509.25788</a></td>
 </tr>
 </tbody></table>

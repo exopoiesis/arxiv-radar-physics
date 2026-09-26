@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23016.html">Watching Quantum Models Think: Hilbert-Space Interpretability in Quantum Transformer Blocks</a></div></td>
 <td>Diego Iacopetta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23016">2609.23016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21567.html">Weighted Quantum Signal Processing: Low-Depth Polynomial Approximation with Applications to Kolmogorov-Arnold Networks</a></div></td>
-<td>Rohit Sarma Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21567">2609.21567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25082.html">Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Carlos Cano et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25082">2609.25082</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01785.html">cuHPX: GPU-Accelerated Differentiable Spherical Harmonic Transforms on HEALPix Grids</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Xiaopo Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01785">2510.01785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00126.html">Accelerating SED Modeling of Astrophysical Objects Using Neural Networks</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Federico Testagrossa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00126">2510.00126</a></td>
 </tr>
 </tbody></table>

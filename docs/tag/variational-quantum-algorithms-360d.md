@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 360d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <strong>360d</strong> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05289.html">Overshifted Parameter-Shift Rules: Optimizing Complex Quantum Systems with Few Measurements</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Leonardo Banchi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05289">2510.05289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09371.html">TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search</a></div></td>
-<td>Akash Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09371">2505.09371</a></td>
 </tr>
 </tbody></table>

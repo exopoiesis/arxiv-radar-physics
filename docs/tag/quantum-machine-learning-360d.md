@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">482 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2906,23 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07292.html">Estimating quantum relative entropies on quantum computers</a></div></td>
 <td>Yuchen Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.07292">2501.07292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08319.html">Measurement-based quantum machine learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Luis Mantilla Calderón et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08319">2405.08319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00171.html">Quantum reservoir computing using Jaynes-Cummings model</a></div></td>
-<td>Sreetama Das et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00171">2510.00171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06228.html">Layerwise Federated Learning for Heterogeneous Quantum Clients using Quorus</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Jason Han et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06228">2510.06228</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2450,23 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01441.html">Diffusion Modeling of the Three-Dimensional Magnetic Field in the Sun&#x27;s Corona</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Daniel E. da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01441">2510.01441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25788.html">From Cheap Geometry to Expensive Physics: Elevating Neural Operators via Latent Shape Pretraining</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhizhou Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25788">2509.25788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26443.html">Stabilization of nonlinear systems with unknown delays via delay-adaptive neural operator approximate predictors</a></div></td>
-<td>Luke Bhan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26443">2509.26443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26576.html">Importance of localized dilatation and distensibility in identifying determinants of thoracic aortic aneurysm with neural operators</a></div></td>
-<td>David S. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26576">2509.26576</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3050,29 +3050,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01293.html">Cyber Academia-Chemical Engineering (CA-ChemE): A Living Digital Town for Self-Directed Research Evolution and Emergent Scientific Discovery</a></div></td>
 <td>Zekun Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01293">2510.01293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01508.html">Enabling AI Scientists to Recognize Innovation: A Domain-Agnostic Algorithm for Assessing Novelty</a></div></td>
-<td>Yao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.01508">2503.01508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09897.html">Finetuning Large Language Model as an Effective Symbolic Regressor</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Yingfan Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09897">2508.09897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25651.html">AutoLabs: Cognitive Multi-Agent Systems with Self-Correction for Autonomous Chemical Experimentation</a></div></td>
-<td>Gihan Panapitiya et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25651">2509.25651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26603.html">DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively</a></div></td>
-<td>Yixuan Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26603">2509.26603</a></td>
 </tr>
 </tbody></table>

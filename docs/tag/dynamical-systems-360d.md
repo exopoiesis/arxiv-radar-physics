@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">684 papers</span>
+  <span class="paper-count">683 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4112,11 +4112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00401.html">Physics-Informed Neural Controlled Differential Equations for Scalable Long Horizon Multi-Agent Motion Forecasting</a></div></td>
 <td>Shounak Sural et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00401">2510.00401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26282.html">Reframing Generative Models for Physical Systems using Stochastic Interpolants</a></div></td>
-<td>Anthony Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26282">2509.26282</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,17 +704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07540.html">NNQS-AFQMC: Neural network quantum states enhanced fermionic quantum Monte Carlo</a></div></td>
 <td>Zhi-Yu Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07540">2507.07540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25720.html">Transformer-Based Neural Networks Backflow for Strongly Correlated Electronic Structure</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Huan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25720">2509.25720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26397.html">Are neural scaling laws leading quantum chemistry astray?</a></div></td>
-<td>Siwoo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26397">2509.26397</a></td>
 </tr>
 </tbody></table>

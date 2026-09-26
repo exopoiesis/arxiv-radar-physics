@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01121.html">CosmoUiT: A Vision Transformer-UNet Hybrid for Fast and Accurate Emulation of 21-cm Maps from the Epoch of Reionization</a></div></td>
 <td>Prasad Rajesh Posture et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01121">2510.01121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00271.html">Searching for Ultra-light Dark Matter in Spatial Correlations of White Dwarf Structure</a></div></td>
-<td>Nicole R. Crumpler et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00271">2510.00271</a></td>
 </tr>
 </tbody></table>

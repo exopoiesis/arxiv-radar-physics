@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">436 papers</span>
+  <span class="paper-count">433 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2612,23 +2612,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01016.html">Sequential Bayesian Inference of the GTN Damage Model Using Multimodal Experimental Data</a></div></td>
 <td>Mohammad Ali Seyed Mahmoud et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01016">2510.01016</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04865.html">Quantum-Enhanced Multi-Parameter Sensing in a Single Mode</a></div></td>
-<td>Christophe H. Valahu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04865">2412.04865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25786.html">Dynamic Causal Attack Graph based Cyber-security Risk Assessment Framework for CTCS System</a></div></td>
-<td>Zikai Zhang</td>
-<td><a href="http://arxiv.org/abs/2509.25786">2509.25786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00126.html">Accelerating SED Modeling of Astrophysical Objects Using Neural Networks</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Federico Testagrossa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00126">2510.00126</a></td>
 </tr>
 </tbody></table>

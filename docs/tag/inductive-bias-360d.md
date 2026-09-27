@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1160,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03578.html">Latent Mixture of Symmetries for Sample-Efficient Dynamic Learning</a></div></td>
 <td>Haoran Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03578">2510.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02361.html">Learning simple heuristic rules for classifying materials based on chemical composition</a></div></td>
-<td>Andrew Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02361">2505.02361</a></td>
 </tr>
 </tbody></table>

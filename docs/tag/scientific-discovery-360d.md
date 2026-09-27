@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">504 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3038,17 +3038,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02426.html">ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
 <td>S. D. Bakshi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02426">2510.02426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00620.html">HARPA: A Testability-Driven, Literature-Grounded Framework for Research Ideation</a></div></td>
-<td>Rosni Vasu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00620">2510.00620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01293.html">Cyber Academia-Chemical Engineering (CA-ChemE): A Living Digital Town for Self-Directed Research Evolution and Emergent Scientific Discovery</a></div></td>
-<td>Zekun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01293">2510.01293</a></td>
 </tr>
 </tbody></table>

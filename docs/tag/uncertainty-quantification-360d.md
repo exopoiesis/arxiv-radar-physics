@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">529 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3188,17 +3188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02189.html">Hybrid Physics-ML Framework for Pan-Arctic Permafrost Infrastructure Risk at Record 2.9-Million Observation Scale</a></div></td>
 <td>Boris Kriuk</td>
 <td><a href="http://arxiv.org/abs/2510.02189">2510.02189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00721.html">Flexible Uncertainty Calibration for Machine-Learned Interatomic Potentials</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00721">2510.00721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01398.html">Automating Data-Driven Modeling and Analysis for Engineering Applications using Large Language Model Agents</a></div></td>
-<td>Yang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01398">2510.01398</a></td>
 </tr>
 </tbody></table>

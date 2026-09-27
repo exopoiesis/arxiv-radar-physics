@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2900,11 +2900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02497.html">Amplitude-based Input Attribution in Quantum Learning via Integrated Gradients</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Nicholas S. DiBrita et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02497">2510.02497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07292.html">Estimating quantum relative entropies on quantum computers</a></div></td>
-<td>Yuchen Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07292">2501.07292</a></td>
 </tr>
 </tbody></table>

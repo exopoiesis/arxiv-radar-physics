@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,23 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23844.html">Physics-Informed Latent Neural Operator for Three-Dimensional Compressor Cascade Flow Prediction</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
 <td>Yuling Han et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23844">2609.23844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22984.html">LPINNs: First-Layer Gated Localization for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Lakshay Chawla et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22984">2609.22984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23023.html">PINNForge: Execution-Grounded Evolutionary Design of Physics-Informed Neural Networks for PDE Solving via Large Language Models</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Mingyang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23023">2609.23023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23077.html">Physics-Informed Neural Network Surrogates with Polynomial Chaos-Based Uncertainty Propagation for Stochastic Model Predictive Control</a></div><div class="paper-tags"><a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Srimanta Santra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23077">2609.23077</a></td>
 </tr>
 </tbody></table>

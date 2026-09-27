@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">683 papers</span>
+  <span class="paper-count">681 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4100,17 +4100,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02127.html">Recurrent Control Barrier Functions: A Path Towards Nonparametric Safety Verification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Jixian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02127">2510.02127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18811.html">Training-Free Data Assimilation with GenCast</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="diffusion-models-360d.html">diffusion-models</a> · <a href="oceanography-360d.html">oceanography</a></div></td>
-<td>Thomas Savary et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18811">2509.18811</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00401.html">Physics-Informed Neural Controlled Differential Equations for Scalable Long Horizon Multi-Agent Motion Forecasting</a></div></td>
-<td>Shounak Sural et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00401">2510.00401</a></td>
 </tr>
 </tbody></table>

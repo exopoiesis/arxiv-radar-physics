@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">795 papers</span>
+  <span class="paper-count">794 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4778,11 +4778,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02127.html">Recurrent Control Barrier Functions: A Path Towards Nonparametric Safety Verification</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Jixian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02127">2510.02127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01370.html">SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs</a></div></td>
-<td>Abu Bucker Siddik et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01370">2510.01370</a></td>
 </tr>
 </tbody></table>

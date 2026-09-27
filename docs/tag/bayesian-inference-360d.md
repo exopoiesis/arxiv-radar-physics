@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,17 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02485.html">Data-Driven Stochastic Distribution System Hardening Based on Bayesian Online Learning</a></div></td>
 <td>Wenlong Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02485">2510.02485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02651.html">Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors: an Assessment of Current Acceleration Methods</a></div></td>
-<td>Qian Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02651">2412.02651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01016.html">Sequential Bayesian Inference of the GTN Damage Model Using Multimodal Experimental Data</a></div></td>
-<td>Mohammad Ali Seyed Mahmoud et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01016">2510.01016</a></td>
 </tr>
 </tbody></table>

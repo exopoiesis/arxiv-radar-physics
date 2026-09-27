@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,11 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11967.html">A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Kamaljyoti Nath et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11967">2412.11967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26371.html">Vector-Valued Reproducing Kernel Banach Spaces for Neural Networks and Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Sven Dummer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26371">2509.26371</a></td>
 </tr>
 </tbody></table>

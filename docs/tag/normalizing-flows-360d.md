@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04510.html">Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows</a></div></td>
 <td>Achim Eckerle et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04510">2510.04510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10652.html">FLORAH-Tree: Emulating Dark Matter Halo Merger Trees with Graph Generative Models</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10652">2507.10652</a></td>
 </tr>
 </tbody></table>

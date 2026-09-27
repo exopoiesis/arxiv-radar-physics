@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,29 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01705.html">Generative Diffusion Surrogates with Analytical Variance Schedule</a></div></td>
 <td>Patrick Reichherzer et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01705">2609.01705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Hiep V. Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26594">2608.26594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26748.html">Self-Augmented Diffusion Guidance for Physics-Informed Generation</a></div></td>
-<td>Akira Osaka et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26748">2608.26748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
-<td>Gurjeet Sangra Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27378.html">How well can Diffusion Models learn Lagrangian-Tracer Statistics in Non-reciprocal Turbulence?</a></div></td>
-<td>Pratyush Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27378">2608.27378</a></td>
 </tr>
 </tbody></table>

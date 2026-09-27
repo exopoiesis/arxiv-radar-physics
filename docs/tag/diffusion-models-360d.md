@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">563 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3392,29 +3392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01749.html">Towards Photonic Band Diagram Generation with Transformer-Latent Diffusion Models</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Valentin Delchevalerie et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01749">2510.01749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10431.html">Diffusion Model-based Parameter Estimation in Dynamic Power Systems</a></div></td>
-<td>Feiqin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.10431">2411.10431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18811.html">Training-Free Data Assimilation with GenCast</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="oceanography-360d.html">oceanography</a></div></td>
-<td>Thomas Savary et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18811">2509.18811</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00376.html">Discrete Wavelet Transform as a Facilitator for Expressive Latent Space Representation in Variational Autoencoders in Satellite Imagery</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Arpan Mahara et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00376">2510.00376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01388.html">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</a></div></td>
-<td>Arthur Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01388">2510.01388</a></td>
 </tr>
 </tbody></table>

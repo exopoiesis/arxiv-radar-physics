@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,23 +1496,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24071.html">C-BerryTrans: A C++ code for first-principles calculation of Berry-curvature-driven anomalous Hall and Nernst conductivities</a></div></td>
 <td>Vivek Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24071">2509.24071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14234.html">OBELiX: A Curated Dataset of Crystal Structures and Experimentally Measured Ionic Conductivities for Lithium Solid-State Electrolytes</a></div></td>
-<td>Félix Therrien et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14234">2502.14234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00518.html">FourPhonon_GPU: A GPU-accelerated framework for calculating phonon scattering rates and thermal conductivity</a></div></td>
-<td>Ziqi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00518">2510.00518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05142.html">Reliable End-to-End Material Information Extraction from the Literature with Source-Tracked Multi-Stage Large Language Models</a></div></td>
-<td>Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05142">2510.05142</a></td>
 </tr>
 </tbody></table>

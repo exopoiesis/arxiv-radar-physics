@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30117.html">Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30117">2606.30117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29147.html">Consistent CutPINNs for Convection-Diffusion Equations on Curved Level-Set Domains</a></div></td>
-<td>Maneesh Kumar Singh</td>
-<td><a href="http://arxiv.org/abs/2606.29147">2606.29147</a></td>
 </tr>
 </tbody></table>

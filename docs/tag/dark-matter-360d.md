@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,23 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02168.html">Wasserstein normalized autoencoder for anomaly detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>CMS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2510.02168">2510.02168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13243.html">Learning the Universe: Learning to Optimize Cosmic Initial Conditions with Non-Differentiable Structure Formation Models</a></div></td>
-<td>Ludvig Doeser et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13243">2502.13243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10652.html">FLORAH-Tree: Emulating Dark Matter Halo Merger Trees with Graph Generative Models</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10652">2507.10652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01121.html">CosmoUiT: A Vision Transformer-UNet Hybrid for Fast and Accurate Emulation of 21-cm Maps from the Epoch of Reionization</a></div></td>
-<td>Prasad Rajesh Posture et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01121">2510.01121</a></td>
 </tr>
 </tbody></table>

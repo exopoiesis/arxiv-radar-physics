@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02715.html">LiNO: Lifting based multiresolution neural operator</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Himanshu Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02715">2607.02715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29346.html">Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models</a></div></td>
-<td>Nick Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29346">2606.29346</a></td>
 </tr>
 </tbody></table>

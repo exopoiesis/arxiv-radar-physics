@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>event-classification — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <a href="event-classification-90d.html">90d</a> <strong>360d</strong> <a href="event-classification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25874.html">Search for single production of a vector-like T quark decaying to a top quark and a neutral scalar boson in the lepton+jets final state in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
 <td>CMS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2510.25874">2510.25874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01672.html">Enhancing the Sensitivity for Triple Higgs Boson Searches with Deep Learning Techniques</a></div></td>
-<td>Cheng-Wei Chiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01672">2510.01672</a></td>
 </tr>
 </tbody></table>

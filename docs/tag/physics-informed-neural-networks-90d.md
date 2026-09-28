@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30809.html">Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Tak Shing Au Yeung et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30809">2609.30809</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30966.html">Gradient Surgery for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Thomas Borsani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30966">2609.30966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31539.html">NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Márcio Marques et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31539">2609.31539</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30332.html">Physics-Informed Neural Networks for Static Black-Hole Exterior Metrics: Charge and Cosmological-Constant Sweeps</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Huan Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30332">2609.30332</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -740,17 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19377.html">Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Duc Tien Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19377">2607.19377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29702.html">Verified residual-specific explicit derivative kernels for physics-informed learning and discretized PDE adjoints</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Wenbo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29702">2606.29702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30117.html">Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Raul Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30117">2606.30117</a></td>
 </tr>
 </tbody></table>

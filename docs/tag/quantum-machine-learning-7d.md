@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31070.html">Quantum Diffusion Models for Medical Image Analysis</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Francesco Aldo Venturelli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31070">2609.31070</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28229.html">Distilling Datasets into Shallow Circuits for Quantum Machine Learning</a></div></td>
 <td>Guang Lin et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24666.html">Experimental evidence of generalization in quantum machine learning in small-data regime</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
 <td>Leena Anthony et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24666">2609.24666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23476.html">Comparative Study of Quantum and Classical Machine Learning Models in Binary Classification</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Anand Kumar Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23476">2609.23476</a></td>
 </tr>
 </tbody></table>

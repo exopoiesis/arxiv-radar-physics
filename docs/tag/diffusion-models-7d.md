@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31070.html">Quantum Diffusion Models for Medical Image Analysis</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Francesco Aldo Venturelli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31070">2609.31070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div></td>
+<td>Yuxuan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29027.html">Generative Atmospheric Super-Resolution from Heterogeneous In Situ Observations through Composable Interfaces</a></div></td>
 <td>Yang Xu et al.</td>
@@ -68,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24840.html">PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control</a></div></td>
 <td>Lei Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24840">2609.24840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23442.html">PhysReflect: Geometry and Perception Guided Diffusion for Physically-Plausible Mirror Reflections</a></div></td>
-<td>Shuheng Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23442">2609.23442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23658.html">Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms</a></div></td>
-<td>Yueyan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23658">2609.23658</a></td>
 </tr>
 </tbody></table>

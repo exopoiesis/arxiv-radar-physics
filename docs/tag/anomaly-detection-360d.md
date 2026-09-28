@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31157.html">Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection</a></div></td>
+<td>Jianan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31157">2609.31157</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29194.html">Continuous Online Fault Detection for Mobile Robots via Adaptive Edge Models</a></div></td>
@@ -1808,23 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05235.html">Interpreting anomaly detection of SDSS spectra</a></div></td>
 <td>Edgar Ortiz Manrique et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05235">2510.05235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01970.html">Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection</a></div></td>
-<td>Yuanyuan Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01970">2510.01970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02168.html">Wasserstein normalized autoencoder for anomaly detection</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>CMS Collaboration</td>
-<td><a href="http://arxiv.org/abs/2510.02168">2510.02168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02236.html">PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks</a></div></td>
-<td>Ricardo Misael Ayala Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02236">2510.02236</a></td>
 </tr>
 </tbody></table>

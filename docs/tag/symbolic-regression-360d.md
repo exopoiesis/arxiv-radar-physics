@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1226,11 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03397.html">Foundation models for equation discovery in high energy physics</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Manuel Morales-Alvarado</td>
 <td><a href="http://arxiv.org/abs/2510.03397">2510.03397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02551.html">Deducing Closed-Form Expressions for Bright-Solitons in Strongly Magnetized Plasmas with Physics Informed Symbolic Regression (PISR)</a></div><div class="paper-tags"><a href="plasma-physics-360d.html">plasma-physics</a></div></td>
-<td>Edward Finkelstein</td>
-<td><a href="http://arxiv.org/abs/2510.02551">2510.02551</a></td>
 </tr>
 </tbody></table>

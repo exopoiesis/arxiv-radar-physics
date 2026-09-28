@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,17 +1178,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05037.html">On the sensitivity of different galaxy properties to warm dark matter</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Belén Costanza et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05037">2510.05037</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25362.html">Machine Learning the Dark Matter Halo Mass of the Milky Way</a></div></td>
-<td>Elaheh Hayati et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25362">2509.25362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02168.html">Wasserstein normalized autoencoder for anomaly detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>CMS Collaboration</td>
-<td><a href="http://arxiv.org/abs/2510.02168">2510.02168</a></td>
 </tr>
 </tbody></table>

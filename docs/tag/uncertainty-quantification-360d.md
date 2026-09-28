@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31384.html">Multivariate conformal uncertainty propagation in multitask atomistic simulation: Successes and pitfalls</a></div></td>
+<td>Katharine Fisher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31384">2609.31384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26454.html">Shallow-to-deep velocity model building via diffusion models-Part I: Method and Proof of concept</a></div></td>
 <td>Shijun Cheng et al.</td>
@@ -3182,11 +3188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05472.html">Assessing the Role of Intrinsic Variability in Black Hole Parameter Inference using Multi-Epoch EHT Data</a></div></td>
 <td>Dominic O. Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.05472">2504.05472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02189.html">Hybrid Physics-ML Framework for Pan-Arctic Permafrost Infrastructure Risk at Record 2.9-Million Observation Scale</a></div></td>
-<td>Boris Kriuk</td>
-<td><a href="http://arxiv.org/abs/2510.02189">2510.02189</a></td>
 </tr>
 </tbody></table>

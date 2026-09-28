@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31384.html">Multivariate conformal uncertainty propagation in multitask atomistic simulation: Successes and pitfalls</a></div></td>
+<td>Katharine Fisher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31384">2609.31384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26454.html">Shallow-to-deep velocity model building via diffusion models-Part I: Method and Proof of concept</a></div></td>
 <td>Shijun Cheng et al.</td>
@@ -548,11 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01534.html">A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Tianhao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01534">2607.01534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Yunzhe Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
 </tr>
 </tbody></table>

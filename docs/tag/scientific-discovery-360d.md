@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">504 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31186.html">Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation</a></div></td>
+<td>Chang Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31186">2609.31186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31188.html">How can AI accelerate the green transition?</a></div></td>
+<td>Jacques Sainte-Marie et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31188">2609.31188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31197.html">ALF: An Active Learning Framework for Scientific Discovery</a></div></td>
+<td>Shikha Surana et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31197">2609.31197</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31562.html">Agentic Economies for Autonomous Scientific Discovery</a></div></td>
+<td>Nenad Tomasev et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31562">2609.31562</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29016.html">EvoTreeNAD: Genealogy-Guided Evolution for LLM-Driven Neural Architecture Discovery</a></div></td>
@@ -3026,17 +3050,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03519.html">TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning</a></div></td>
 <td>Fangxu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03519">2510.03519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00631.html">Forecasting the Ionosphere from Sparse GNSS Data with Temporal-Fusion Transformers</a></div></td>
-<td>Giacomo Acciarini et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00631">2509.00631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02426.html">ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>S. D. Bakshi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02426">2510.02426</a></td>
 </tr>
 </tbody></table>

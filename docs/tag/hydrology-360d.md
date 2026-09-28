@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrology — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <strong>360d</strong> <a href="hydrology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01159.html">AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="oceanography-360d.html">oceanography</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Chenyue Li et al.</td>
 <td><a href="http://arxiv.org/abs/2502.01159">2502.01159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02605.html">Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics</a></div></td>
-<td>Yuan-Heng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02605">2510.02605</a></td>
 </tr>
 </tbody></table>

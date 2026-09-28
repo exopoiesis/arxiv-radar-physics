@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30819.html">Learning Provable Neural Network Observer for Uncertain Dynamical Systems</a></div></td>
+<td>Zhangyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30819">2609.30819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31368.html">Equation discovery with Bayesian tree-adjoining grammars</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Christopher A. Lindley et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31368">2609.31368</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Tuan Luong et al.</td>
@@ -4088,17 +4100,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19094.html">Accurate identification of communication between multiple interacting neural populations</a></div></td>
 <td>Belle Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19094">2506.19094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05292.html">Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing</a></div></td>
-<td>Declan A. Norton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05292">2506.05292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02127.html">Recurrent Control Barrier Functions: A Path Towards Nonparametric Safety Verification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Jixian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02127">2510.02127</a></td>
 </tr>
 </tbody></table>

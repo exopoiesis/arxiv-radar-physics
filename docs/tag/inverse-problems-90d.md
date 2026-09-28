@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31347.html">Benchmark cases for gradient-based optimization in linear elastic solid mechanics using lattice Boltzmann methods</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Johannes L. Grafen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31347">2609.31347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31539.html">NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Márcio Marques et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31539">2609.31539</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29220.html">A Unified Frequency-Domain Model for Cascaded Filter-Interpolation Modulation in Tomographic Reconstruction</a></div></td>
@@ -500,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01176.html">High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="hep-90d.html">hep</a></div></td>
 <td>Yu Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01176">2607.01176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30230.html">A Distributionally Robust Framework for Learned Reconstructions in Inverse Problems</a></div></td>
-<td>Floor van Maarschalkerwaart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30230">2606.30230</a></td>
 </tr>
 </tbody></table>

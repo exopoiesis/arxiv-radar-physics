@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a> · <a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Adriano Frattale Mascioli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31118">2609.31118</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28953.html">Constraining the Quadratic-mode Amplitude Coupling in GW250114</a></div></td>
 <td>Yuxin Yang et al.</td>
@@ -458,11 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00565.html">Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data</a></div></td>
 <td>Elizabeth Flanagan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00565">2607.00565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29862.html">Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Yunzhe Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29862">2606.29862</a></td>
 </tr>
 </tbody></table>

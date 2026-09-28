@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2432,11 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03360.html">Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows</a></div></td>
 <td>Zelin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03360">2510.03360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01735.html">High-resolution velocity model estimation with neural operator and the time-shift imaging condition</a></div></td>
-<td>Xiao Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01735">2510.01735</a></td>
 </tr>
 </tbody></table>

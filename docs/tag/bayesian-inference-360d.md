@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Adriano Frattale Mascioli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31118">2609.31118</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28953.html">Constraining the Quadratic-mode Amplitude Coupling in GW250114</a></div></td>
 <td>Yuxin Yang et al.</td>
@@ -2594,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02859.html">Spatially Coherent 3D Distributions of HI and CO in the Milky Way</a></div></td>
 <td>Laurin Söding et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02859">2407.02859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02485.html">Data-Driven Stochastic Distribution System Hardening Based on Bayesian Online Learning</a></div></td>
-<td>Wenlong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02485">2510.02485</a></td>
 </tr>
 </tbody></table>

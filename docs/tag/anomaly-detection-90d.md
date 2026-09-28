@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31157.html">Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection</a></div></td>
+<td>Jianan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31157">2609.31157</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29194.html">Continuous Online Fault Detection for Mobile Robots via Adaptive Edge Models</a></div></td>
 <td>Jordan Levy et al.</td>
@@ -362,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01305.html">Generative AI and Federated Learning for Intrusion Detection Systems: A Survey</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Jiefei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01305">2607.01305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30009.html">Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection</a></div></td>
-<td>Bochen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30009">2606.30009</a></td>
 </tr>
 </tbody></table>

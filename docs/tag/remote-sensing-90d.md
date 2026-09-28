@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,23 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01050.html">GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision</a></div></td>
 <td>Dianyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01050">2607.01050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29664.html">Benchmarking Geospatial Foundation Models for Agriculture Applications</a></div></td>
-<td>Zhuocheng Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29664">2606.29664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29849.html">Hessian sparsity-constrained self-supervised network for near-infrared single-photon single-pixel imaging</a></div></td>
-<td>Yao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29849">2606.29849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30244.html">Semantic-Driven Scale and Spatial Selection for Efficient Cross-Modal Alignment in Referring Remote Sensing Image Segmentation</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30244">2606.30244</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28458.html">Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU</a></div><div class="paper-tags"><a href="ai4science-360d.html">ai4science</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
 <td>A. Spurio Mancini</td>
 <td><a href="http://arxiv.org/abs/2609.28458">2609.28458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30312.html">FPCA-Enhanced Simulation-Based Inference for Robust Type Ia Supernova Cosmology</a></div></td>
+<td>Moonzarin Reza et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30312">2609.30312</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -1130,17 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13307.html">High-Dimensional Bayesian Model Comparison in Cosmology with GPU-accelerated Nested Sampling and Neural Emulators</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Toby Lovick et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13307">2509.13307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01785.html">cuHPX: GPU-Accelerated Differentiable Spherical Harmonic Transforms on HEALPix Grids</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Xiaopo Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01785">2510.01785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02426.html">ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos</a></div><div class="paper-tags"><a href="collider-physics-360d.html">collider-physics</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>S. D. Bakshi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02426">2510.02426</a></td>
 </tr>
 </tbody></table>

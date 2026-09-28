@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Adriano Frattale Mascioli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31118">2609.31118</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28031.html">Neural Network Guided Parameter Space Constraints for Gravitational Wave Searches from Binary Black Holes</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Chetan Verma et al.</td>
@@ -476,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06273.html">Vision Transformer for Transient Noise Classification</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Divyansh Srivastava et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06273">2510.06273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00106.html">Eccentric binary black holes: A new framework for numerical relativity waveform surrogates</a></div></td>
-<td>Peter James Nee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00106">2510.00106</a></td>
 </tr>
 </tbody></table>

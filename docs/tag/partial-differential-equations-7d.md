@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30750.html">Sparsely connected rank-inspired neural network</a></div></td>
+<td>Yunqing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30750">2609.30750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30966.html">Gradient Surgery for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
+<td>Thomas Borsani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30966">2609.30966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31347.html">Benchmark cases for gradient-based optimization in linear elastic solid mechanics using lattice Boltzmann methods</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
+<td>Johannes L. Grafen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31347">2609.31347</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
@@ -50,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25431.html">Data-Driven Control in Infinite-Dimensional Spaces: Fundamental Lemma and Applications</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
 <td>Daniel López-Montero</td>
 <td><a href="http://arxiv.org/abs/2609.25431">2609.25431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23299.html">Sparsely connected neural network representation of Lagrange finite element function</a></div></td>
-<td>Jiaxiong Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23299">2609.23299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23529.html">Predicting Out-of-Distribution Generalization of Neural Operators via Observable Spectral Error Decomposition</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Hang-Cheng Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23529">2609.23529</a></td>
 </tr>
 </tbody></table>

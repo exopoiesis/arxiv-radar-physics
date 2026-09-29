@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25507.html">AKAPINN: Adaptive Kolmogorov-Arnold Physics-Informed Neural Networks for approximating solutions to quasilinear partial differential equations</a></div></td>
 <td>B. Veena S. N. Rao</td>
 <td><a href="http://arxiv.org/abs/2609.25507">2609.25507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Daniel Zhengyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>S. Mohammad Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25431.html">Data-Driven Control in Infinite-Dimensional Spaces: Fundamental Lemma and Applications</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Daniel López-Montero</td>
-<td><a href="http://arxiv.org/abs/2609.25431">2609.25431</a></td>
 </tr>
 </tbody></table>

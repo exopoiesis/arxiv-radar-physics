@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
 <td>Zeyu Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28230">2609.28230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24394.html">Climate Variability Modulates the Impact of Price Spikes on Food Insecurity</a></div></td>
-<td>Jordi Cerdà-Bautista et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24394">2609.24394</a></td>
 </tr>
 </tbody></table>

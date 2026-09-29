@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">529 papers</span>
+  <span class="paper-count">528 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3182,11 +3182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06257.html">Toward Uncertainty-Aware and Generalizable Neural Decoding for Quantum LDPC Codes</a></div><div class="paper-tags"><a href="quantum-error-correction-360d.html">quantum-error-correction</a></div></td>
 <td>Xiangjun Mi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06257">2510.06257</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05472.html">Assessing the Role of Intrinsic Variability in Black Hole Parameter Inference using Multi-Epoch EHT Data</a></div></td>
-<td>Dominic O. Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05472">2504.05472</a></td>
 </tr>
 </tbody></table>

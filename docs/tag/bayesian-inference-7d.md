@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,29 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27668.html">Topological Inference for Organoids</a></div></td>
 <td>Haochen Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27668">2609.27668</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14711.html">GRPO-QPS: Target-Preserving Reinforcement Learning for Quantum Posterior Sampling</a></div></td>
-<td>Yufeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14711">2609.14711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24824.html">Constraining the geometry of rotating black holes with eikonal QNMs</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a></div></td>
-<td>Ciro De Simone et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24824">2609.24824</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25145.html">Variational objectives for amortized Bayesian inference in inverse problems: The role of posterior conditioning</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Abhishek Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25145">2609.25145</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25208.html">Adaptive thresholding for scalable measurement-based qubit reset</a></div></td>
-<td>Qian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25208">2609.25208</a></td>
 </tr>
 </tbody></table>

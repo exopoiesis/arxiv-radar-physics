@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">681 papers</span>
+  <span class="paper-count">679 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4088,17 +4088,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03676.html">Achieving Universal Approximation and Universal Interpolation via Nonlinearity of Control Families</a></div></td>
 <td>Yongqiang Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03676">2510.03676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14865.html">Time-Lagged Recurrence: a data-driven method to estimate the predictability of dynamical systems</a></div></td>
-<td>Chenyu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14865">2409.14865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19094.html">Accurate identification of communication between multiple interacting neural populations</a></div></td>
-<td>Belle Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19094">2506.19094</a></td>
 </tr>
 </tbody></table>

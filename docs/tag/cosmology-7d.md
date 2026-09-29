@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cosmology — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,17 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30312.html">FPCA-Enhanced Simulation-Based Inference for Robust Type Ia Supernova Cosmology</a></div></td>
 <td>Moonzarin Reza et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30312">2609.30312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24203.html">Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a></div></td>
-<td>Bo-Hao Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24203">2609.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24946.html">Merlin: Fast and flexible 3x2pt cosmology with simulation-based inference</a></div></td>
-<td>Alexandra Wernersson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24946">2609.24946</a></td>
 </tr>
 </tbody></table>

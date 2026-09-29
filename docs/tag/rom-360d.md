@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06992.html">Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Davide Oberto et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06992">2510.06992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03535.html">Sequential decoder training for improved latent space dynamics identification</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>William Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03535">2510.03535</a></td>
 </tr>
 </tbody></table>

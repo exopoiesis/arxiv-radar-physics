@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Jingru Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
-<td>Olga Chalykh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
 </tr>
 </tbody></table>

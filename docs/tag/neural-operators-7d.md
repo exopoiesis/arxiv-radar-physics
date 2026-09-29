@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,23 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29847.html">Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Teo Deveney et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29847">2609.29847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Daniel Zhengyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24746.html">Enhancing Transformer Representations of Symbolic ODE Expressions</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Xiyue Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24746">2609.24746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>S. Mohammad Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
 </tr>
 </tbody></table>

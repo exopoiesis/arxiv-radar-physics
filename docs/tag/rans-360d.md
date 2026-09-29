@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17514.html">XAI-on-RAN: Explainable, AI-native, and GPU-Accelerated RAN Towards 6G</a></div></td>
 <td>Osman Tugay Basaran et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17514">2511.17514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02982.html">oRANS: Online optimisation of RANS machine learning models with embedded DNS data generation</a></div></td>
-<td>Daniel Dehtyriov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02982">2510.02982</a></td>
 </tr>
 </tbody></table>

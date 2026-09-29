@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,17 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05683.html">QGraphLIME - Explaining Quantum Graph Neural Networks</a></div></td>
 <td>Haribandhu Jena et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05683">2510.05683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05882.html">Fusion of heterogeneous data for robust degradation prognostics</a></div></td>
-<td>Edgar Jaber et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05882">2506.05882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01471.html">Fine-tuning LLMs with variational Bayesian last layer for high-dimensional Bayesian optimization</a></div></td>
-<td>Haotian Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01471">2510.01471</a></td>
 </tr>
 </tbody></table>

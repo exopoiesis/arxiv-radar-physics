@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13696.html">SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Gregor N. C. Simm et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13696">2510.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Olga Chalykh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
 </tr>
 </tbody></table>

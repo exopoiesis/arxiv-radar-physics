@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,17 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11307.html">Approximating the universal thermal climate index using sparse regression with orthogonal polynomials</a></div></td>
 <td>Sabin Roman et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11307">2508.11307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03397.html">Foundation models for equation discovery in high energy physics</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Manuel Morales-Alvarado</td>
-<td><a href="http://arxiv.org/abs/2510.03397">2510.03397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03535.html">Sequential decoder training for improved latent space dynamics identification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>William Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03535">2510.03535</a></td>
 </tr>
 </tbody></table>

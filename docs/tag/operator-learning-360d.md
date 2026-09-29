@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1688,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08574.html">TANTE: Time-Adaptive Operator Learning via Neural Taylor Expansion</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhikai Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2502.08574">2502.08574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03372.html">Real-time nonlinear inversion of magnetic resonance elastography with operator learning</a></div></td>
-<td>Juampablo E. Heras Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03372">2510.03372</a></td>
 </tr>
 </tbody></table>

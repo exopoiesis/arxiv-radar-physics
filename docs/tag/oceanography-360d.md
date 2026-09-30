@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oceanography — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="oceanography-7d.html">7d</a> <a href="oceanography-30d.html">30d</a> <a href="oceanography-90d.html">90d</a> <strong>360d</strong> <a href="oceanography-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17012.html">Learning Non-Ideal Vortex Flows Using the Differentiable Vortex Particle Method</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ziqi Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17012">2503.17012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01159.html">AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="hydrology-360d.html">hydrology</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Chenyue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01159">2502.01159</a></td>
 </tr>
 </tbody></table>

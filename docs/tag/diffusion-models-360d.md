@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">563 papers</span>
+  <span class="paper-count">561 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3380,17 +3380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07389.html">TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models</a></div></td>
 <td>Ruidong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.07389">2503.07389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16549.html">Towards Coordinate- and Dimension-Agnostic Machine Learning for Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pde-learning-360d.html">pde-learning</a></div></td>
-<td>Trung V. Phan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16549">2505.16549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02605.html">ReMoMask: Retrieval-Augmented Masked Motion Generation</a></div></td>
-<td>Zhengdao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02605">2508.02605</a></td>
 </tr>
 </tbody></table>

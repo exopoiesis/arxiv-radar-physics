@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28364.html">LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials</a></div></td>
 <td>Oswin So et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28364">2609.28364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26440.html">Engineering safe structures: recent advances in structural reliability modelling</a></div></td>
-<td>Adwait Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26440">2609.26440</a></td>
 </tr>
 </tbody></table>

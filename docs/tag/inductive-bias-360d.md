@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04304.html">Wave-PDE Nets: Trainable Wave-Equation Layers as an Alternative to Attention</a></div></td>
 <td>Harshil Vejendla</td>
 <td><a href="http://arxiv.org/abs/2510.04304">2510.04304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03578.html">Latent Mixture of Symmetries for Sample-Efficient Dynamic Learning</a></div></td>
-<td>Haoran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03578">2510.03578</a></td>
 </tr>
 </tbody></table>

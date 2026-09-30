@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16878.html">Deep Learning Accelerated First-Principles Quantum Transport Simulations at Nonequilibrium State</a></div></td>
 <td>Zili Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16878">2510.16878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07540.html">NNQS-AFQMC: Neural network quantum states enhanced fermionic quantum Monte Carlo</a></div></td>
-<td>Zhi-Yu Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07540">2507.07540</a></td>
 </tr>
 </tbody></table>

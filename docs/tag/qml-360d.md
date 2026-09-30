@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05475.html">From Classical Rationality to Contextual Reasoning: Quantum Logic as a New Frontier for Human-Centric AI in Finance</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Fabio Bagarello et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05475">2510.05475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08591.html">The Enduring Dominance of Deep Neural Networks: A Critical Analysis of the Fundamental Limitations of Quantum Machine Learning and Spiking Neural Networks</a></div></td>
-<td>Takehiro Ishikawa</td>
-<td><a href="http://arxiv.org/abs/2510.08591">2510.08591</a></td>
 </tr>
 </tbody></table>

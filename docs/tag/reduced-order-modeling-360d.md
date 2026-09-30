@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14595.html">Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="rom-360d.html">rom</a></div></td>
 <td>Nima Hosseini Dashtbayaz et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14595">2505.14595</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03649.html">Uncertainty quantification of reacting fluids interacting with porous media using a hybrid physics-based and data-driven approach</a></div></td>
-<td>Diba Behnoudfar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03649">2510.03649</a></td>
 </tr>
 </tbody></table>

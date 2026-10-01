@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">896 papers</span>
+  <span class="paper-count">885 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5324,71 +5324,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03543.html">Prediction Accuracy &amp; Reliability: Classification and Object Localization under Distribution Shift</a></div></td>
 <td>Fabian Diet et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03543">2409.03543</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00191.html">Uncertainty Quantification of Antibody Measurements: Physical Principles and Implications for Standardization</a></div></td>
-<td>Paul N. Patrone et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00191">2409.00191</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16349.html">Machine learning models for daily rainfall forecasting in Northern Tropical Africa using tropical wave predictors</a></div></td>
-<td>Athul Rasheeda Satheesh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16349">2408.16349</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10784.html">Framework for uncertainty quantification of wave-structure interaction in a flume</a></div></td>
-<td>Xiaoyuan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10784">2408.10784</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02461.html">Uncertainty Quantification and Propagation in Atomistic Machine Learning</a></div></td>
-<td>Jin Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02461">2405.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10838.html">Multilevel CNNs for Parametric PDEs based on Adaptive Finite Elements</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Janina Enrica Schütte et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10838">2408.10838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09446.html">Parameterized Physics-informed Neural Networks for Parameterized PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Woojin Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09446">2408.09446</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07201.html">Quantification of total uncertainty in the physics-informed reconstruction of CVSim-6 physiology</a></div></td>
-<td>Mario De Florio et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07201">2408.07201</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05826.html">VAIM-CFF: A variational autoencoder inverse mapper solution to Compton form factor extraction from deeply virtual exclusive reactions</a></div></td>
-<td>Manal Almaeen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05826">2405.05826</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04690.html">Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Milad Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04690">2408.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04718.html">Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Dule Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04718">2408.04718</a></td>
 </tr>
 </tbody></table>

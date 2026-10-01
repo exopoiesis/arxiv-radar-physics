@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tensor-networks — all</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,23 +590,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
 <td>Siddhant Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16453.html">Phase diagram of the J1-J2 Heisenberg second-order topological quantum magnet</a></div></td>
-<td>Pascal M. Vecsei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16453">2408.16453</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01452.html">From high-dimensional committors to reactive insights</a></div></td>
-<td>Nils E. Strand et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01452">2406.01452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05011.html">Survey on Computational Applications of Tensor Network Simulations</a></div></td>
-<td>Marcos Díez García et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05011">2408.05011</a></td>
 </tr>
 </tbody></table>

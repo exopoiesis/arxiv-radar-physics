@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">533 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,59 +3158,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02973.html">SDOoop: Capturing Periodical Patterns and Out-of-phase Anomalies in Streaming Data Analysis</a></div></td>
 <td>Alexander Hartl et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02973">2409.02973</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17409.html">Semi-supervised permutation invariant particle-level anomaly detection</a></div></td>
-<td>Gabriel Matos et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17409">2408.17409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00228.html">Transfer Learning Based Hybrid Quantum Neural Network Model for Surface Anomaly Detection</a></div></td>
-<td>Sounak Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00228">2409.00228</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00294.html">Quantum Machine Learning for Anomaly Detection in Consumer Electronics</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Sounak Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00294">2409.00294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13960.html">Time Series Analysis for Education: Methods, Applications, and Future Directions</a></div></td>
-<td>Shengzhong Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13960">2408.13960</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11616.html">RODEM Jet Datasets</a></div><div class="paper-tags"><a href="jet-tagging-all.html">jet-tagging</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Knut Zoch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11616">2408.11616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10714.html">Physics-Driven AI Correction in Laser Absorption Sensing Quantification</a></div></td>
-<td>Ruiyuan Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10714">2408.10714</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04817.html">Performance Metric for Multiple Anomaly Score Distributions with Discrete Severity Levels</a></div></td>
-<td>Wonjun Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04817">2408.04817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08888.html">A Classifier-Based Approach to Multi-Class Anomaly Detection Applied to Astronomical Time-Series</a></div></td>
-<td>Rithwik Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08888">2408.08888</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01138.html">Interplay of Traditional Methods and Machine Learning Algorithms for Tagging Boosted Objects</a></div><div class="paper-tags"><a href="collider-physics-all.html">collider-physics</a></div></td>
-<td>Camellia Bose et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01138">2408.01138</a></td>
 </tr>
 </tbody></table>

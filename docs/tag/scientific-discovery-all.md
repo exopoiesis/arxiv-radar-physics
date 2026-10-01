@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">755 papers</span>
+  <span class="paper-count">748 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4502,47 +4502,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06292.html">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</a></div></td>
 <td>Chris Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06292">2408.06292</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10526.html">Effective Monitoring of Online Decision-Making Algorithms in Digital Intervention Implementation</a></div></td>
-<td>Anna L. Trella et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10526">2409.10526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16159.html">Integrating Quantum Computing Resources into Scientific HPC Ecosystems</a></div></td>
-<td>Thomas Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16159">2408.16159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14627.html">Sustainable Data Democratization: A Multifaceted Investment for an Equitable Future</a></div></td>
-<td>Michela Taufer et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14627">2408.14627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12171.html">Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Haixin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12171">2408.12171</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10205.html">KAN 2.0: Kolmogorov-Arnold Networks Meet Science</a></div></td>
-<td>Ziming Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10205">2408.10205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09343.html">Large-Scale Pretraining and Finetuning for Efficient Jet Classification in Particle Physics</a></div><div class="paper-tags"><a href="hep-all.html">hep</a></div></td>
-<td>Zihan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09343">2408.09343</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15260.html">Artificial Data, Real Insights: Evaluating Opportunities and Risks of Expanding the Data Ecosystem with Synthetic Data</a></div></td>
-<td>Richard Timpone et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15260">2408.15260</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmology — all</h1>
-  <span class="paper-count">335 papers</span>
+  <span class="paper-count">329 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1988,41 +1988,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01301.html">Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference</a></div></td>
 <td>Camila P. Novaes et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01301">2409.01301</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16135.html">$\texttt{MEDEA}$: A New Model for Emulating Radio Antenna Beam Patterns for 21-cm Cosmology and Antenna Design Studies</a></div></td>
-<td>Joshua J. Hibbard et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16135">2408.16135</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15136.html">Low-Budget Simulation-Based Inference with Bayesian Neural Networks</a></div></td>
-<td>Arnaud Delaunoy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15136">2408.15136</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07699.html">Field-level Emulation of Cosmic Structure Formation with Cosmology and Redshift Dependence</a></div></td>
-<td>Drew Jamieson et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07699">2408.07699</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03038.html">A new code for low-resolution spectral identification of white dwarf binary candidates</a></div></td>
-<td>Genghao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03038">2408.03038</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13680.html">Five parameters are all you need (in $Λ$CDM)</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Paulo Montero-Camacho et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13680">2405.13680</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09602.html">Real-time gravitational-wave inference for binary neutron stars using machine learning</a></div></td>
-<td>Maximilian Dax et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09602">2407.09602</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1034 papers</span>
+  <span class="paper-count">1017 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6116,107 +6116,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01410.html">Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Vyacheslav Kungurtsev et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01410">2409.01410</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02230.html">PINNs-MPF: A Physics-Informed Neural Network Framework for Multi-Phase-Field Simulation of Interface Dynamics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Seifallah Elfetni et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02230">2407.02230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17271.html">Equation identification for fluid flows via physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Alexander New et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17271">2408.17271</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16806.html">Physics-Informed Neural Networks and Extensions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Maziar Raissi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16806">2408.16806</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05892.html">Physics-Informed Neural Networks for Weakly Compressible Flows Using Galerkin-Boltzmann Formulation</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Atakan Aygun et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05892">2409.05892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14502.html">Physics-Informed Neural Network for Concrete Manufacturing Process Optimization</a></div></td>
-<td>Sam Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14502">2408.14502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14780.html">GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Nisal Ranasinghe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14780">2408.14780</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14951.html">Domain-decoupled Physics-informed Neural Networks with Closed-form Gradients for Fast Model Learning of Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Henrik Krauss et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14951">2408.14951</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14734.html">General-Kindred Physics-Informed Neural Network to the Solutions of Singularly Perturbed Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14734">2408.14734</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02581.html">Constrained or Unconstrained? Neural-Network-Based Equation Discovery from Data</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Grant Norman et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02581">2406.02581</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13101.html">Functional Tensor Decompositions for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Sai Karthikeya Vemuri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13101">2408.13101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13222.html">An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Lukas Gonon et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13222">2408.13222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12198.html">Two-level deep domain decomposition method</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Victorita Dolean et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12198">2408.12198</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09446.html">Parameterized Physics-informed Neural Networks for Parameterized PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Woojin Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09446">2408.09446</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06650.html">Physics-Informed Kolmogorov-Arnold Networks for Power System Dynamics</a></div></td>
-<td>Hang Shuai et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06650">2408.06650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04690.html">Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Milad Panahi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04690">2408.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02420.html">Inversion of DC Resistivity Data using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Rohan Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02420">2408.02420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11045.html">Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov Arnold Networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
-<td>Yizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11045">2406.11045</a></td>
 </tr>
 </tbody></table>

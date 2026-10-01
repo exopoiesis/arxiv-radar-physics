@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmological-simulations — all</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <a href="cosmological-simulations-90d.html">90d</a> <a href="cosmological-simulations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18238.html">Dust and Power: Unravelling the merger - active galactic nucleus connection in the second half of cosmic history</a></div></td>
 <td>A. La Marca et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18238">2407.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10871.html">Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond</a></div></td>
-<td>Chiara Stuardi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10871">2408.10871</a></td>
 </tr>
 </tbody></table>

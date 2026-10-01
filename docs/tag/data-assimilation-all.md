@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>data-assimilation — all</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,41 +1550,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03042.html">Parameter Analysis in Continuous Data Assimilation for Various Turbulence Models</a></div></td>
 <td>Debora A. F. Albanez et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03042">2409.03042</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00244.html">TorchDA: A Python package for performing data assimilation with deep learning forward and transformation functions</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Sibo Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00244">2409.00244</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18352.html">HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Zane Fink et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18352">2407.18352</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12630.html">Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Zeyi Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12630">2408.12630</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08476.html">Model free data assimilation with Takens embedding</a></div></td>
-<td>Ziyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08476">2408.08476</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06262.html">DUNE: A Machine Learning Deep UNet++ based Ensemble Approach to Monthly, Seasonal and Annual Climate Forecasting</a></div></td>
-<td>Pratik Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06262">2408.06262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02767.html">4D-Var using Hessian approximation and backpropagation applied to automatically-differentiable numerical and machine learning models</a></div></td>
-<td>Kylen Solvik et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02767">2408.02767</a></td>
 </tr>
 </tbody></table>

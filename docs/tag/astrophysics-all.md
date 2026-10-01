@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">230 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1364,35 +1364,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17324.html">Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy</a></div></td>
 <td>Simone Astarita et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17324">2406.17324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05005.html">Diversity in Fermi/GBM Gamma Ray Bursts: New insights from Machine Learning</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Dimple et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05005">2406.05005</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16829.html">Maven: A Multimodal Foundation Model for Supernova Science</a></div></td>
-<td>Gemma Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16829">2408.16829</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03916.html">Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR</a></div></td>
-<td>Andrea Simongini et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03916">2408.03916</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13680.html">Five parameters are all you need (in $Λ$CDM)</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Paulo Montero-Camacho et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13680">2405.13680</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01556.html">pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy</a></div></td>
-<td>Kartheik G. Iyer et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01556">2408.01556</a></td>
 </tr>
 </tbody></table>

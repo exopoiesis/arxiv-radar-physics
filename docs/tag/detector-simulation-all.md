@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>detector-simulation — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <a href="detector-simulation-90d.html">90d</a> <a href="detector-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06132.html">Testing CP properties of the Higgs boson coupling to $τ$ leptons with heterogeneous graphs</a></div></td>
 <td>W. Esmail et al.</td>
 <td><a href="http://arxiv.org/abs/2409.06132">2409.06132</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11027.html">Differentiable Full Detector Simulation of a Projective Dual-Readout Crystal Electromagnetic Calorimeter with Longitudinal Segmentation and Precision Timing</a></div></td>
-<td>Wonyong Chung</td>
-<td><a href="http://arxiv.org/abs/2408.11027">2408.11027</a></td>
 </tr>
 </tbody></table>

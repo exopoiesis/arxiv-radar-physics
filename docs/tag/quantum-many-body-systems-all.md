@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — all</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <a href="quantum-many-body-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,23 +476,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
 <td>Lorenzo Brevi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15328.html">Artificially intelligent Maxwell&#x27;s demon for optimal control of open quantum systems</a></div><div class="paper-tags"><a href="quantum-error-correction-all.html">quantum-error-correction</a></div></td>
-<td>Paolo Andrea Erdman et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15328">2408.15328</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10765.html">Non-linear classification capability of quantum neural networks due to emergent quantum metastability</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Mario Boneberg et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10765">2408.10765</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08639.html">Solving The Quantum Many-Body Hamiltonian Learning Problem with Neural Differential Equations</a></div><div class="paper-tags"><a href="hamiltonian-learning-all.html">hamiltonian-learning</a> · <a href="neural-differential-equations-all.html">neural-differential-equations</a></div></td>
-<td>Timothy Heightman et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08639">2408.08639</a></td>
 </tr>
 </tbody></table>

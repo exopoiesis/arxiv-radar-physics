@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1664,47 +1664,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03023.html">Machine learning of phases and structures for model systems in physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-all.html">condensed-matter-physics</a></div></td>
 <td>Djenabou Bayo et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03023">2409.03023</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03418.html">Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric</a></div></td>
-<td>Victor Kasatkin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03418">2408.03418</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09011.html">Finite-temperature properties of antiferroelectric perovskite $\rm PbZrO_3$ from deep learning interatomic potential</a></div></td>
-<td>Huazhang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09011">2406.09011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10765.html">Non-linear classification capability of quantum neural networks due to emergent quantum metastability</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
-<td>Mario Boneberg et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10765">2408.10765</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06156.html">Graph-based Descriptors for Condensed Matter</a></div></td>
-<td>An Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06156">2408.06156</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03323.html">ClassiFIM: An Unsupervised Method To Detect Phase Transitions</a></div></td>
-<td>Victor Kasatkin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03323">2408.03323</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01949.html">Efficient coding with chaotic neural networks: A journey from neuroscience to physics and back</a></div></td>
-<td>Jonathan Kadmon</td>
-<td><a href="http://arxiv.org/abs/2408.01949">2408.01949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01141.html">Machine learning topological energy braiding of non-Bloch bands</a></div></td>
-<td>Shuwei Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01141">2408.01141</a></td>
 </tr>
 </tbody></table>

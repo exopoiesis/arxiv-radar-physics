@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>normalizing-flows — all</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <a href="normalizing-flows-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,17 +932,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07957.html">Rapid Parameter Estimation for Extreme Mass Ratio Inspirals Using Machine Learning</a></div></td>
 <td>Bo Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07957">2409.07957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09767.html">Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Randy Harsuko et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09767">2408.09767</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12378.html">Efficient mapping of phase diagrams with conditional Boltzmann Generators</a></div></td>
-<td>Maximilian Schebek et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12378">2406.12378</a></td>
 </tr>
 </tbody></table>

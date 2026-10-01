@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mhd — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,17 +410,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12754.html">Global-local Fourier Neural Operator for Accelerating Coronal Magnetic Field Model</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a></div></td>
 <td>Yutao Du et al.</td>
 <td><a href="http://arxiv.org/abs/2405.12754">2405.12754</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06595.html">Recent advances in solar data-driven MHD simulations of the formation and evolution of CME flux ropes</a></div></td>
-<td>Brigitte Schmieder et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06595">2408.06595</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06430.html">Data-driven MHD Simulation of the Formation of a Magnetic Flux Rope and an Inclined Solar Eruption</a></div><div class="paper-tags"><a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a></div></td>
-<td>Yeongmin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06430">2408.06430</a></td>
 </tr>
 </tbody></table>

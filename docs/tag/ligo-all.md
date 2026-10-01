@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ligo — all</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <a href="ligo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,11 +896,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05207.html">Low Latency Transformer Inference on FPGAs for Physics Applications with hls4ml</a></div><div class="paper-tags"><a href="high-energy-physics-all.html">high-energy-physics</a></div></td>
 <td>Zhixing Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05207">2409.05207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06491.html">GWSkyNet II : a refined machine learning pipeline for real-time classification of public gravitational wave alerts</a></div></td>
-<td>Man Leong Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06491">2408.06491</a></td>
 </tr>
 </tbody></table>

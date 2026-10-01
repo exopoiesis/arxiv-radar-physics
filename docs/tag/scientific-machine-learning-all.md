@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">330 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1970,29 +1970,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00604.html">Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Subhankar Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2409.00604">2409.00604</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17271.html">Equation identification for fluid flows via physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Alexander New et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17271">2408.17271</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16806.html">Physics-Informed Neural Networks and Extensions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Maziar Raissi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16806">2408.16806</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10720.html">Towards Foundation Models for the Industrial Forecasting of Chemical Kinetics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Imran Nasim et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10720">2408.10720</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09818.html">Liquid Fourier Latent Dynamics Networks for fast GPU-based numerical simulations in computational cardiology</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Matteo Salvador et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09818">2408.09818</a></td>
 </tr>
 </tbody></table>

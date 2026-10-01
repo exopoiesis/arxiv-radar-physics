@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,47 +1826,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02349.html">Machine Learning Applications to Computational Plasma Physics and Reduced-Order Plasma Modeling: A Perspective</a></div><div class="paper-tags"><a href="plasma-physics-all.html">plasma-physics</a></div></td>
 <td>Farbod Faraji et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02349">2409.02349</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15376.html">ML-ROM Wall Shear Stress Prediction in Patient-Specific Vascular Pathologies under a Limited Clinical Training Data Regime</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="rom-all.html">rom</a></div></td>
-<td>Chotirawee Chatpattanasiri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15376">2408.15376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14232.html">Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="flow-control-all.html">flow-control</a></div></td>
-<td>Meng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14232">2408.14232</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12171.html">Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="scientific-discovery-all.html">scientific-discovery</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Haixin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12171">2408.12171</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10720.html">Towards Foundation Models for the Industrial Forecasting of Chemical Kinetics</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Imran Nasim et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10720">2408.10720</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15603.html">Data-driven Aeroelastic Analyses of Structures in Turbulent Wind Conditions using Enhanced Gaussian Processes with Aerodynamic Priors</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Igor Kavrakov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15603">2406.15603</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06101.html">Generalization capabilities of MeshGraphNets to unseen geometries for fluid dynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Robin Schmöcker et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06101">2408.06101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08897.html">A Workflow for Utilizing OpenFOAM Data Structure in Physics-Informed Deep Learning Training</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Yijin Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08897">2408.08897</a></td>
 </tr>
 </tbody></table>

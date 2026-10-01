@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,47 +1850,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02891.html">Regional data-driven weather modeling with a global stretched-grid</a></div></td>
 <td>Thomas Nils Nipen et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02891">2409.02891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06004.html">EWMoE: An effective model for global weather forecasting with mixture-of-experts</a></div></td>
-<td>Lihao Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06004">2405.06004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13155.html">Causal machine learning for sustainable agroecosystems</a></div></td>
-<td>Vasileios Sitokonstantinou et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13155">2408.13155</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10958.html">Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling</a></div></td>
-<td>Jaideep Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10958">2408.10958</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06400.html">MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Haoyu Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06400">2408.06400</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05925.html">FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting</a></div></td>
-<td>Xiaohui Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05925">2405.05925</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01465.html">AIFS -- ECMWF&#x27;s data-driven forecasting system</a></div></td>
-<td>Simon Lang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01465">2406.01465</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03872.html">Inter-Series Transformer: Attending to Products in Time Series Forecasting</a></div></td>
-<td>Rares Cristian et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03872">2408.03872</a></td>
 </tr>
 </tbody></table>

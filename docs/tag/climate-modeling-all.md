@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>climate-modeling — all</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <a href="climate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
 <td>Siddhant Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11556.html">Understanding Data Movement in Tightly Coupled Heterogeneous Systems: A Case Study with the Grace Hopper Superchip</a></div></td>
-<td>Luigi Fusco et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11556">2408.11556</a></td>
 </tr>
 </tbody></table>

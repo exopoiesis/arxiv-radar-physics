@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,11 +1466,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05234.html">Empowering Bayesian Neural Networks with Functional Priors through Anchored Ensembling for Mechanics Surrogate Modeling Applications</a></div></td>
 <td>Javad Ghorbanian et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05234">2409.05234</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18352.html">HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Zane Fink et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18352">2407.18352</a></td>
 </tr>
 </tbody></table>

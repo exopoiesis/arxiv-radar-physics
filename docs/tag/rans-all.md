@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,17 +746,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03395.html">Data-driven turbulent heat flux modeling with inputs of multiple fidelity</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
 <td>Matilde Fiore et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03395">2409.03395</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00466.html">Energy-efficient Functional Split in Non-terrestrial Open Radio Access Networks</a></div></td>
-<td>S. M. Mahdi Shahabi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00466">2409.00466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13568.html">A Divide-and-Conquer Machine Learning Approach for Modelling Turbulent Flows</a></div></td>
-<td>Anthony Man et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13568">2408.13568</a></td>
 </tr>
 </tbody></table>

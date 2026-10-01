@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1167 papers</span>
+  <span class="paper-count">1149 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6908,113 +6908,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01394.html">Optimal training of finitely-sampled quantum reservoir computers for forecasting of chaotic dynamics</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="time-series-prediction-all.html">time-series-prediction</a></div></td>
 <td>Osama Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01394">2409.01394</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00458.html">Dynamical system prediction from sparse observations using deep neural networks with Voronoi tessellation and physics constraint</a></div></td>
-<td>Hanyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00458">2409.00458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00244.html">TorchDA: A Python package for performing data assimilation with deep learning forward and transformation functions</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Sibo Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00244">2409.00244</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16261.html">Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models</a></div></td>
-<td>Sekitoshi Kanai et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16261">2408.16261</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16650.html">Towards Efficient Modelling of String Dynamics: A Comparison of State Space and Koopman based Deep Learning Methods</a></div></td>
-<td>Rodrigo Diaz et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16650">2408.16650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14951.html">Domain-decoupled Physics-informed Neural Networks with Closed-form Gradients for Fast Model Learning of Dynamical Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Henrik Krauss et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14951">2408.14951</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15834.html">Characterization of dynamical systems with scanty data using Persistent Homology and Machine Learning</a></div></td>
-<td>Rishab Antosh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15834">2408.15834</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12630.html">Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Zeyi Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12630">2408.12630</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09645.html">Hamilton-Jacobi Reachability in Reinforcement Learning: A Survey</a></div></td>
-<td>Milan Ganai et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09645">2407.09645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11691.html">Physics-informed Discovery of State Variables in Second-Order and Hamiltonian Systems</a></div></td>
-<td>Félix Chavelli et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11691">2408.11691</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01293.html">Extracting Signal out of Chaos: Advancements on MAGI for Bayesian Analysis of Dynamical Systems</a></div></td>
-<td>Skyler Wu</td>
-<td><a href="http://arxiv.org/abs/2409.01293">2409.01293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09825.html">TDNetGen: Empowering Complex Network Resilience Prediction with Generative Augmentation of Topology and Dynamics</a></div></td>
-<td>Chang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09825">2408.09825</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08264.html">InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Guoxiang Grayson Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08264">2408.08264</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06039.html">Spacetime $E(n)$-Transformer: Equivariant Attention for Spatio-temporal Graphs</a></div></td>
-<td>Sergio G. Charles</td>
-<td><a href="http://arxiv.org/abs/2408.06039">2408.06039</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06499.html">Time-Resolved Data-Driven Surrogates of Hall-effect Thrusters</a></div></td>
-<td>Adrian S Wong et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06499">2408.06499</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05875.html">Identifying Feedforward and Feedback Controllable Subspaces of Neural Population Dynamics</a></div></td>
-<td>Ankit Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05875">2408.05875</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08177.html">Data-Driven Linearization of Dynamical Systems</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>George Haller et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08177">2407.08177</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02838.html">Interpretation of the Intent Detection Problem as Dynamics in a Low-dimensional Space</a></div></td>
-<td>Eduardo Sanchez-Karhunen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02838">2408.02838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01736.html">Can LLMs predict the convergence of Stochastic Gradient Descent?</a></div></td>
-<td>Oussama Zekri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01736">2408.01736</a></td>
 </tr>
 </tbody></table>

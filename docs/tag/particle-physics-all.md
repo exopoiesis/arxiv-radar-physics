@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,23 +1154,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04897.html">QCD Masterclass Lectures on Jet Physics and Machine Learning</a></div></td>
 <td>Andrew J. Larkoski</td>
 <td><a href="http://arxiv.org/abs/2407.04897">2407.04897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16046.html">Scaling Up Diffusion and Flow-based XGBoost Models</a></div></td>
-<td>Jesse C. Cresswell et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16046">2408.16046</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11616.html">RODEM Jet Datasets</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="jet-tagging-all.html">jet-tagging</a></div></td>
-<td>Knut Zoch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11616">2408.11616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04997.html">Pay Attention To Mean Fields For Point Cloud Generation</a></div></td>
-<td>Benno Käch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04997">2408.04997</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rom — all</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,17 +572,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05709.html">Real-time optimal control of high-dimensional parametrized systems by deep learning-based reduced order models</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
 <td>Matteo Tomasetto et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05709">2409.05709</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16723.html">Data-driven reduced order modeling of a two-layer quasi-geostrophic ocean model</a></div></td>
-<td>Lander Besabe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16723">2408.16723</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15376.html">ML-ROM Wall Shear Stress Prediction in Patient-Specific Vascular Pathologies under a Limited Clinical Training Data Regime</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Chotirawee Chatpattanasiri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15376">2408.15376</a></td>
 </tr>
 </tbody></table>

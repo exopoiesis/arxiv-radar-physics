@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>sciml — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <a href="sciml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10777.html">Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Xiaoran Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10777">2409.10777</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17271.html">Equation identification for fluid flows via physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Alexander New et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17271">2408.17271</a></td>
 </tr>
 </tbody></table>

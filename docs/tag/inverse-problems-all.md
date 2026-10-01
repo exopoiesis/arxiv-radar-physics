@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">693 papers</span>
+  <span class="paper-count">683 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4112,65 +4112,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01899.html">PINNIES: An Efficient Physics-Informed Neural Network Framework to Integral Operator Problems</a></div></td>
 <td>Alireza Afzal Aghaei et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01899">2409.01899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17271.html">Equation identification for fluid flows via physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Alexander New et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17271">2408.17271</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13154.html">Conditional score-based diffusion models for solving inverse problems in mechanics</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13154">2406.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05892.html">Physics-Informed Neural Networks for Weakly Compressible Flows Using Galerkin-Boltzmann Formulation</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
-<td>Atakan Aygun et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05892">2409.05892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13903.html">Inverse Problem Regularization for 3D Multi-Species Tumor Growth Models</a></div></td>
-<td>Ali Ghafouri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13903">2408.13903</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09767.html">Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Randy Harsuko et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09767">2408.09767</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08119.html">The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks</a></div></td>
-<td>Philipp Holl et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08119">2408.08119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06564.html">Effective medium theory for embedded obstacles in electromagnetic scattering with applications</a></div></td>
-<td>Huaian Diao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06564">2408.06564</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07104.html">Model Based and Physics Informed Deep Learning Neural Network Structures</a></div></td>
-<td>Ali Mohammad-Djafari et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07104">2408.07104</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11045.html">Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov Arnold Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Yizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11045">2406.11045</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01519.html">Multi-Material Decomposition Using Spectral Diffusion Posterior Sampling</a></div></td>
-<td>Xiao Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01519">2408.01519</a></td>
 </tr>
 </tbody></table>

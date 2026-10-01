@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">423 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2552,41 +2552,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00604.html">Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Subhankar Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2409.00604">2409.00604</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13222.html">An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Lukas Gonon et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13222">2408.13222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10458.html">Transfer Operator Learning with Fusion Frame</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Haoyang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10458">2408.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11145.html">Total Uncertainty Quantification in Inverse PDE Solutions Obtained with Reduced-Order Deep Learning Surrogate Models</a></div></td>
-<td>Yuanzhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11145">2408.11145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12389.html">Fredholm Integral Equations Neural Operator (FIE-NO) for Data-Driven Boundary Value Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Haoyang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12389">2408.12389</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06526.html">Operator Learning Using Random Features: A Tool for Scientific Computing</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Nicholas H. Nelsen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06526">2408.06526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12465.html">A finite element-based physics-informed operator learning framework for spatiotemporal partial differential equations on arbitrary domains</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Yusuke Yamazaki et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12465">2405.12465</a></td>
 </tr>
 </tbody></table>

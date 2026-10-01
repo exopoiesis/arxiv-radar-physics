@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>koopman-operator — all</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,11 +908,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01308.html">Representing Neural Network Layers as Linear Operations via Koopman Operator Theory</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Nishant Suresh Aswani et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01308">2409.01308</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08177.html">Data-Driven Linearization of Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>George Haller et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08177">2407.08177</a></td>
 </tr>
 </tbody></table>

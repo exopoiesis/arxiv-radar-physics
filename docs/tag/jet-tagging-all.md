@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>jet-tagging — all</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <a href="jet-tagging-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08682.html">Jet Tagging with More-Interaction Particle Transformer</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Yifan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08682">2407.08682</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11616.html">RODEM Jet Datasets</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Knut Zoch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11616">2408.11616</a></td>
 </tr>
 </tbody></table>

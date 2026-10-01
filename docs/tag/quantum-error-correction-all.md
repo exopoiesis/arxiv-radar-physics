@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-error-correction — all</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,17 +506,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13248.html">Topological Quantum Spin Glass Order and its realization in qLDPC codes</a></div></td>
 <td>Benedikt Placke et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13248">2412.13248</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15328.html">Artificially intelligent Maxwell&#x27;s demon for optimal control of open quantum systems</a></div><div class="paper-tags"><a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
-<td>Paolo Andrea Erdman et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15328">2408.15328</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14272.html">Theoretical framework for quantum associative memories</a></div></td>
-<td>Adrià Labay-Mora et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14272">2408.14272</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">711 papers</span>
+  <span class="paper-count">702 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4226,59 +4226,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08538.html">Phenomenological model of gravitational self-force enhanced tides in inspiralling binary neutron stars</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
 <td>Natalie Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08538">2407.08538</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13154.html">Conditional score-based diffusion models for solving inverse problems in mechanics</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a> · <a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13154">2406.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08247.html">Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements</a></div></td>
-<td>R. Ehlers et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08247">2408.08247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02869.html">Mesoscopic Bayesian Inference by Solvable Models</a></div></td>
-<td>Shun Katakami et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02869">2406.02869</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00102.html">Collective Predictive Coding as Model of Science: Formalizing Scientific Activities Towards Generative Science</a></div></td>
-<td>Tadahiro Taniguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00102">2409.00102</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12764.html">A rapid multi-modal parameter estimation technique for LISA</a></div></td>
-<td>Charlie Hoy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12764">2408.12764</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08264.html">InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Guoxiang Grayson Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08264">2408.08264</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06442.html">Lessons from Hubble and Spitzer: 1D Self-Consistent Model Grids for 19 Hot Jupiter Emission Spectra</a></div></td>
-<td>Lindsey S. Wiser et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06442">2408.06442</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06616.html">Fast Mixing in Sparse Random Ising Models</a></div></td>
-<td>Kuikui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06616">2405.06616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00537.html">Bayesian analysis of (3+1)D relativistic nuclear dynamics with the RHIC beam energy scan data</a></div></td>
-<td>Syed Afrid Jahan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00537">2408.00537</a></td>
 </tr>
 </tbody></table>

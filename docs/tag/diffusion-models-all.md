@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">1006 papers</span>
+  <span class="paper-count">993 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5972,83 +5972,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10846.html">Harmonizing Attention: Training-free Texture-aware Geometry Transfer</a></div></td>
 <td>Eito Ikuta et al.</td>
 <td><a href="http://arxiv.org/abs/2408.10846">2408.10846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04099.html">Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models</a></div></td>
-<td>Jan Martinů et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04099">2406.04099</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07288.html">Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning</a></div></td>
-<td>Masane Fuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07288">2405.07288</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13154.html">Conditional score-based diffusion models for solving inverse problems in mechanics</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="inverse-problems-all.html">inverse-problems</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13154">2406.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02408.html">Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models</a></div></td>
-<td>Tongtong Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02408">2408.02408</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15601.html">Grand canonical generative diffusion model for crystalline phases and grain boundaries</a></div></td>
-<td>Bo Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15601">2408.15601</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01959.html">Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI</a></div></td>
-<td>Robert Wolfe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01959">2408.01959</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15157.html">Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials</a></div></td>
-<td>Santosh Chhetri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15157">2408.15157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10856.html">Physics-Inspired Generative Models in Medical Imaging: A Review</a></div></td>
-<td>Dennis Hein et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10856">2407.10856</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05713.html">SSL: A Self-similarity Loss for Improving Generative Image Super-resolution</a></div></td>
-<td>Du Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05713">2408.05713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09702.html">Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering</a></div></td>
-<td>Ruofan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09702">2408.09702</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09767.html">Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Randy Harsuko et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09767">2408.09767</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06963.html">DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising</a></div></td>
-<td>Wang Mingwei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06963">2408.06963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04718.html">Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Dule Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04718">2408.04718</a></td>
 </tr>
 </tbody></table>

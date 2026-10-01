@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22227.html">Autonomous Floquet Engineering of Bosonic Codes via Reinforcement Learning</a></div></td>
 <td>Zheping Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22227">2510.22227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06257.html">Toward Uncertainty-Aware and Generalizable Neural Decoding for Quantum LDPC Codes</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Xiangjun Mi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06257">2510.06257</a></td>
 </tr>
 </tbody></table>

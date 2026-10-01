@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <a href="hamiltonian-learning-360d.html">360d</a> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29361.html">Hamiltonian learning reveals optoelectronic mechanisms across thermodynamic state space in soft semiconductors</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="force-fields-7d.html">force-fields</a></div></td>
 <td>Frederik Vonhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29361">2609.29361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27629.html">Structured Hamiltonian Learning for Multiqubit Conditional Phase Gates</a></div></td>
-<td>Xiu-Hao Deng</td>
-<td><a href="http://arxiv.org/abs/2609.27629">2609.27629</a></td>
 </tr>
 </tbody></table>

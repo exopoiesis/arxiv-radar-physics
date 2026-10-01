@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">430 papers</span>
+  <span class="paper-count">428 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2582,17 +2582,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13307.html">High-Dimensional Bayesian Model Comparison in Cosmology with GPU-accelerated Nested Sampling and Neural Emulators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Toby Lovick et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13307">2509.13307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13039.html">Competing chemical signatures in the atmosphere of TOI-270 d: Inference of sulfur and carbon chemistry</a></div></td>
-<td>Lukas Felix et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13039">2504.13039</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04084.html">Bridging integrated information theory and the free-energy principle in living neuronal networks</a></div></td>
-<td>Teruki Mayama et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04084">2510.04084</a></td>
 </tr>
 </tbody></table>

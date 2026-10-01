@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,23 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31368.html">Equation discovery with Bayesian tree-adjoining grammars</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
 <td>Christopher A. Lindley et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31368">2609.31368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27186.html">Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Tuan Luong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.27186">2609.27186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28015.html">Improving Ensemble Filters with Flow Matching</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a></div></td>
-<td>Haoyuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28015">2609.28015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28364.html">LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials</a></div></td>
-<td>Oswin So et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28364">2609.28364</a></td>
 </tr>
 </tbody></table>

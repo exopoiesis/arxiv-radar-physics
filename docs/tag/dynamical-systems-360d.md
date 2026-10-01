@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">678 papers</span>
+  <span class="paper-count">676 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4070,17 +4070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12810.html">Control of dynamical systems with neural networks</a></div></td>
 <td>Lucas Böttcher</td>
 <td><a href="http://arxiv.org/abs/2510.12810">2510.12810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02565.html">MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning</a></div></td>
-<td>Luca Furieri et al.</td>
-<td><a href="http://arxiv.org/abs/2504.02565">2504.02565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04342.html">Learning to Predict Chaos: Curriculum-Driven Training for Robust Forecasting of Chaotic Dynamics</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Harshil Vejendla</td>
-<td><a href="http://arxiv.org/abs/2510.04342">2510.04342</a></td>
 </tr>
 </tbody></table>

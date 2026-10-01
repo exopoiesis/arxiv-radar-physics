@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">633 papers</span>
+  <span class="paper-count">630 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3794,23 +3794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05433.html">Physics-Informed Machine Learning in Biomedical Science and Engineering</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Nazanin Ahmadi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05433">2510.05433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14437.html">Multi-Objective Loss Balancing in Physics-Informed Neural Networks for Fluid Flow Applications</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Afrah Farea et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14437">2509.14437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04094.html">Nyström-Accelerated Primal LS-SVMs: Breaking the $O(an^3)$ Complexity Bottleneck for Scalable ODEs Learning</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Weikuo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04094">2510.04094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04322.html">Towards Fast Option Pricing PDE Solvers Powered by PIELM</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Akshay Govind Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04322">2510.04322</a></td>
 </tr>
 </tbody></table>

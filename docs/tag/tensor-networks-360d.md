@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06361.html">Diffusion-Guided Renormalization of Neural Systems via Tensor Networks</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Nathan X. Kodama</td>
 <td><a href="http://arxiv.org/abs/2510.06361">2510.06361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21726.html">Riemannian Optimization on Tree Tensor Networks with Application in Machine Learning</a></div></td>
-<td>Marius Willner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21726">2507.21726</a></td>
 </tr>
 </tbody></table>

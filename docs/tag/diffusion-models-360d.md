@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">561 papers</span>
+  <span class="paper-count">560 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3374,11 +3374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05205.html">A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors</a></div></td>
 <td>Sebastian Wagner-Carena et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05205">2510.05205</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07389.html">TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models</a></div></td>
-<td>Ruidong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07389">2503.07389</a></td>
 </tr>
 </tbody></table>

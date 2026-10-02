@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01315.html">EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations</a></div></td>
+<td>Qiuliang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01315">2610.01315</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Thomas Egg et al.</td>
@@ -278,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26886.html">MaterialsGalaxy: A Platform Fusing Experimental and Theoretical Data in Condensed Matter Physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Tiannian Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26886">2510.26886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Jingru Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
 </tr>
 </tbody></table>

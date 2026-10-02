@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3134,11 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05760.html">A Novel Technique for Robust Training of Deep Networks With Multisource Weak Labeled Remote Sensing Data</a></div></td>
 <td>Gianmarco Perantoni et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05760">2510.05760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04645.html">Do Superpixel Segmentation Methods Influence Deforestation Image Classification?</a></div></td>
-<td>Hugo Resende et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04645">2510.04645</a></td>
 </tr>
 </tbody></table>

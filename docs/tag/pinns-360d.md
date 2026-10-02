@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">610 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3674,35 +3674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06286.html">Mass Conservation on Rails -- Rethinking Physics-Informed Learning of Ice Flow Vector Fields</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Kim Bente et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06286">2510.06286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07161.html">THz-PINNs: Time-Domain Forward Modeling of Terahertz Spectroscopy with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Pengfei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07161">2509.07161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04490.html">Deep vs. Shallow: Benchmarking Physics-Informed Neural Architectures on the Biharmonic Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Akshay Govind Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04490">2510.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04889.html">Modeling Terahertz Propagation via Frequency-Domain Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Pengfei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04889">2510.04889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05385.html">Physics-Informed Neural Networks with Fourier Features and Attention-Driven Decoding</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Rohan Arni et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05385">2510.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05433.html">Physics-Informed Machine Learning in Biomedical Science and Engineering</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nazanin Ahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05433">2510.05433</a></td>
 </tr>
 </tbody></table>

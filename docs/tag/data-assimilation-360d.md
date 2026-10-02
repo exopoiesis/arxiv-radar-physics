@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,11 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06140.html">Zeeman: A Deep Learning Regional Atmospheric Chemistry Transport Model</a></div></td>
 <td>Mijie Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06140">2510.06140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01823.html">Taming Uncertainty in a Complex World: The Rise of Uncertainty Quantification -- A Tutorial for Beginners</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01823">2408.01823</a></td>
 </tr>
 </tbody></table>

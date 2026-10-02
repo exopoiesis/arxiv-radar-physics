@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13112.html">Neural Triangular Transport Maps: A New Approach Towards Sampling in Lattice QCD</a></div></td>
 <td>Andrey Bryutkin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13112">2510.13112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04510.html">Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows</a></div></td>
-<td>Achim Eckerle et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04510">2510.04510</a></td>
 </tr>
 </tbody></table>

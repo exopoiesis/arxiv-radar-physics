@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01874.html">Fourier Symmetrization for Geometric Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
+<td>Letao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01874">2610.01874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02182.html">SoftServe: A Scalable Quasi-Newton Method for Deep Learning</a></div></td>
+<td>Joohwan Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02182">2610.02182</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30809.html">Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Tak Shing Au Yeung et al.</td>
@@ -728,17 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03772.html">Level-set physics-informed neural networks for domain inverse problems of gravimetry</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Jingnan Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03772">2607.03772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02905.html">Pre-Strings Lectures on Artificial Intelligence</a></div></td>
-<td>James Halverson</td>
-<td><a href="http://arxiv.org/abs/2607.02905">2607.02905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03431.html">Pointwise Error Estimates for Numerical Physics-Informed Neural Networks</a></div></td>
-<td>Nivar Anwer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03431">2607.03431</a></td>
 </tr>
 </tbody></table>

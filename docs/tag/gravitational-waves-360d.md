@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03232.html">Inferring the neutron star equation of state with nuclear-physics informed semiparametric models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Sunny Ng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03232">2507.03232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06273.html">Vision Transformer for Transient Noise Classification</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Divyansh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06273">2510.06273</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Liqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01104">2610.01104</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
@@ -2576,11 +2582,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06315.html">Beyond the stars: Linking H$α$ sizes, kinematics, and star formation in galaxies at $z\approx 4-6$ with JWST grism surveys and $\texttt{geko}$</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>A. Lola Danhaive et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06315">2510.06315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13307.html">High-Dimensional Bayesian Model Comparison in Cosmology with GPU-accelerated Nested Sampling and Neural Emulators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Toby Lovick et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13307">2509.13307</a></td>
 </tr>
 </tbody></table>

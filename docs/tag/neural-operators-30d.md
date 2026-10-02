@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01033.html">GeoFWI3D: Large-scale 3D Velocity Model Dataset for Deep Learning-assisted Seismic Imaging</a></div></td>
+<td>Sujith Swaminadhan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01033">2610.01033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
+<td>Nichula Sathmith Wasalathilaka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02056">2610.02056</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29437.html">Learning Operators of Geometry with an Interface Autoencoder</a></div></td>
 <td>Aiqing Zhu et al.</td>
@@ -164,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03069.html">Learnable composition for neural operators</a></div></td>
 <td>Zituo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03069">2609.03069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Zhijie Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00900">2609.00900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01928.html">Learning with Volterra Neural Networks: A System Theoretic Perspective</a></div></td>
-<td>Haoyu Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01928">2609.01928</a></td>
 </tr>
 </tbody></table>

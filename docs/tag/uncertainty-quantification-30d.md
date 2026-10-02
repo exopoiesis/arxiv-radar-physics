@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01818.html">Markov chain Monte Carlo for predictively oriented posteriors</a></div></td>
+<td>Yann McLatchie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01818">2610.01818</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31384.html">Multivariate conformal uncertainty propagation in multitask atomistic simulation: Successes and pitfalls</a></div></td>
 <td>Katharine Fisher et al.</td>
@@ -152,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03308.html">Risk and Anomaly Identification for Distribution Network Optimal Operation Based on Reinforcement Learning and Uncertainty Quantification</a></div></td>
 <td>Ziqi Zhang</td>
 <td><a href="http://arxiv.org/abs/2609.03308">2609.03308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div></td>
-<td>Yunqin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01896">2609.01896</a></td>
 </tr>
 </tbody></table>

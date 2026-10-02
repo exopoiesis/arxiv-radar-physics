@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,11 +590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10501.html">Quantum Integration Networks for Efficient Monte Carlo in High-Energy Physics</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Heechan Yi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10501">2510.10501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04887.html">Curvature-Aware Deep Learning for Vector Boson Fusion: Differential Geometry, Physics-Inspired Features, and Quantum Method Limitations</a></div></td>
-<td>Alibordi Muhammad</td>
-<td><a href="http://arxiv.org/abs/2510.04887">2510.04887</a></td>
 </tr>
 </tbody></table>

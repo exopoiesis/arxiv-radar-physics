@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">527 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01818.html">Markov chain Monte Carlo for predictively oriented posteriors</a></div></td>
+<td>Yann McLatchie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01818">2610.01818</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31384.html">Multivariate conformal uncertainty propagation in multitask atomistic simulation: Successes and pitfalls</a></div></td>
@@ -3164,17 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09666.html">Spatial Uncertainty Quantification in Wildfire Forecasting for Climate-Resilient Emergency Planning</a></div></td>
 <td>Aditya Chakravarty</td>
 <td><a href="http://arxiv.org/abs/2510.09666">2510.09666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01823.html">Taming Uncertainty in a Complex World: The Rise of Uncertainty Quantification -- A Tutorial for Beginners</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Nan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01823">2408.01823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05433.html">Physics-Informed Machine Learning in Biomedical Science and Engineering</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Nazanin Ahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05433">2510.05433</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,27 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="lattice-qcd-7d.html">lattice-qcd</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
+<td>Liqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01104">2610.01104</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="ligo-7d.html">ligo</a> · <a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31118">2609.31118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28953.html">Constraining the Quadratic-mode Amplitude Coupling in GW250114</a></div></td>
-<td>Yuxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28953">2609.28953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29336.html">PQLS: A Quasilinear Gyrokinetic Transport Solver with a Bayesian Saturation-Rule Closure</a></div></td>
-<td>F. Wilms et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29336">2609.29336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30145.html">CERIDWEN: Fast and Flexible GPU-Accelerated Stellar Population Inference</a></div></td>
-<td>Amanda Stoffers et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30145">2609.30145</a></td>
 </tr>
 </tbody></table>

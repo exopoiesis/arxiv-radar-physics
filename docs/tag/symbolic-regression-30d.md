@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01485.html">Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression</a></div></td>
+<td>Gabor Demeter</td>
+<td><a href="http://arxiv.org/abs/2610.01485">2610.01485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01701.html">Thermodynamic signatures do not uniquely identify deconfinement in neutron stars</a></div></td>
+<td>Yong-Liang Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01701">2610.01701</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div></td>
 <td>Bilvin Varughese et al.</td>
@@ -98,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03337.html">A Large Open Multi-Energy Corpus of Soil Compaction Tests, with Machine-Learning Baselines</a></div></td>
 <td>Sompote Youwai et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03337">2609.03337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div></td>
-<td>Souta Miyamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00635">2609.00635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01102.html">Neural Symbollic Regression Using Deep Learning and Sparse Modelling</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Ravi Kumar U et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01102">2609.01102</a></td>
 </tr>
 </tbody></table>

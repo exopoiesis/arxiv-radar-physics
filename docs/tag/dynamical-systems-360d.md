@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">676 papers</span>
+  <span class="paper-count">673 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4052,23 +4052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06361.html">Diffusion-Guided Renormalization of Neural Systems via Tensor Networks</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
 <td>Nathan X. Kodama</td>
 <td><a href="http://arxiv.org/abs/2510.06361">2510.06361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01823.html">Taming Uncertainty in a Complex World: The Rise of Uncertainty Quantification -- A Tutorial for Beginners</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01823">2408.01823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05359.html">Koopman Control Factorization: Data-Driven Convex Controller Design for a Class of Nonlinear Systems</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Taha Ondogan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05359">2510.05359</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12810.html">Control of dynamical systems with neural networks</a></div></td>
-<td>Lucas Böttcher</td>
-<td><a href="http://arxiv.org/abs/2510.12810">2510.12810</a></td>
 </tr>
 </tbody></table>

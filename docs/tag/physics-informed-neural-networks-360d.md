@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">630 papers</span>
+  <span class="paper-count">626 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01874.html">Fourier Symmetrization for Geometric Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
+<td>Letao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01874">2610.01874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02182.html">SoftServe: A Scalable Quasi-Newton Method for Deep Learning</a></div></td>
+<td>Joohwan Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02182">2610.02182</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30809.html">Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="pinns-360d.html">pinns</a></div></td>
@@ -3758,41 +3770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06286.html">Mass Conservation on Rails -- Rethinking Physics-Informed Learning of Ice Flow Vector Fields</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Kim Bente et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06286">2510.06286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07161.html">THz-PINNs: Time-Domain Forward Modeling of Terahertz Spectroscopy with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Pengfei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07161">2509.07161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04459.html">Differentiable physics for sound field reconstruction</a></div></td>
-<td>Samuel A. Verburg et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04459">2510.04459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04490.html">Deep vs. Shallow: Benchmarking Physics-Informed Neural Architectures on the Biharmonic Equation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Akshay Govind Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04490">2510.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04889.html">Modeling Terahertz Propagation via Frequency-Domain Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Pengfei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04889">2510.04889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05385.html">Physics-Informed Neural Networks with Fourier Features and Attention-Driven Decoding</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Rohan Arni et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05385">2510.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05433.html">Physics-Informed Machine Learning in Biomedical Science and Engineering</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nazanin Ahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05433">2510.05433</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">401 papers</span>
+  <span class="paper-count">400 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01033.html">GeoFWI3D: Large-scale 3D Velocity Model Dataset for Deep Learning-assisted Seismic Imaging</a></div></td>
+<td>Sujith Swaminadhan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01033">2610.01033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
+<td>Nichula Sathmith Wasalathilaka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02056">2610.02056</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29437.html">Learning Operators of Geometry with an Interface Autoencoder</a></div></td>
@@ -2402,23 +2414,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08295.html">Bridging the Physics-Data Gap with FNO-Guided Conditional Flow Matching: Designing Inductive Bias through Hierarchical Physical Constraints</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Tsuyoshi Okita</td>
 <td><a href="http://arxiv.org/abs/2510.08295">2510.08295</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04606.html">Closed-Form Last Layer Optimization</a></div></td>
-<td>Alexandre Galashov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04606">2510.04606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05351.html">Physics-informed Attention-enhanced Fourier Neural Operator for Solar Magnetic Field Extrapolations</a></div></td>
-<td>Jinghao Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05351">2510.05351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05433.html">Physics-Informed Machine Learning in Biomedical Science and Engineering</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Nazanin Ahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05433">2510.05433</a></td>
 </tr>
 </tbody></table>

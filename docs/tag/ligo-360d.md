@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14016.html">Improving cosmological reach of a gravitational wave observatory using Deep Loop Shaping</a></div></td>
 <td>Jonas Buchli et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14016">2509.14016</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06273.html">Vision Transformer for Transient Noise Classification</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Divyansh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06273">2510.06273</a></td>
 </tr>
 </tbody></table>

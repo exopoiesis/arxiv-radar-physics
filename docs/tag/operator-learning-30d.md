@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01522.html">Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Vladimir R. Kostic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01522">2610.01522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01824.html">QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Said Lantigua et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01824">2610.01824</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Zhuo Zhang et al.</td>
@@ -86,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02982.html">Equation Recast for Canonical Operator Learning Across Parametric PDEs</a></div></td>
 <td>Qiyun Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02982">2609.02982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00507.html">VATO: A Vortex-Force-Aware Transformer Operator for Unsteady Separated Aerofoil Flows</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Xingxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00507">2609.00507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00544.html">GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
-<td>Mohammad Kian Golkar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00544">2609.00544</a></td>
 </tr>
 </tbody></table>

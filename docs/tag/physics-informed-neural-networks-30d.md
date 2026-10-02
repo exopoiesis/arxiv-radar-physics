@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01874.html">Fourier Symmetrization for Geometric Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
+<td>Letao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01874">2610.01874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02182.html">SoftServe: A Scalable Quasi-Newton Method for Deep Learning</a></div></td>
+<td>Joohwan Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02182">2610.02182</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30809.html">Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Tak Shing Au Yeung et al.</td>
@@ -206,17 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13229.html">Adjoint-based Inversion for the Diffusion Coefficient in Marine Lake Models</a></div></td>
 <td>Alex Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13229">2609.13229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01417.html">Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Mehrdad Shafiei Dizaji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01417">2609.01417</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01558.html">Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Jing Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01558">2609.01558</a></td>
 </tr>
 </tbody></table>

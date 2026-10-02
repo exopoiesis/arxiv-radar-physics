@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>Liqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01104">2610.01104</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15583.html">Generalized Parton Distributions: Phenomenology, Extraction, and Hadron Imaging</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="inverse-problems-90d.html">inverse-problems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Simonetta Liuti et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21952.html">Revisiting Quark Confinement in the Proton through the Force on Quarks</a></div></td>
 <td>Ji-Xin Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21952">2607.21952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03311.html">Operator Learning in Lattice QCD: Spectral Reconstruction</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Alessandro De Santis</td>
-<td><a href="http://arxiv.org/abs/2607.03311">2607.03311</a></td>
 </tr>
 </tbody></table>

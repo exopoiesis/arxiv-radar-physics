@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>equation-discovery — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <strong>30d</strong> <a href="equation-discovery-90d.html">90d</a> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02862.html">Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a></div></td>
 <td>L. Rebholz et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02862">2609.02862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01552.html">Can LLMs Discover Scientific Laws in Real and Parallel Worlds?</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Yiming Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01552">2609.01552</a></td>
 </tr>
 </tbody></table>

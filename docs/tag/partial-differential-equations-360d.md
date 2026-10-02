@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">791 papers</span>
+  <span class="paper-count">790 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01824.html">QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Said Lantigua et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01824">2610.01824</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30750.html">Sparsely connected rank-inspired neural network</a></div></td>
@@ -4748,17 +4754,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05568.html">Bilevel optimization for learning hyperparameters: Application to solving PDEs and inverse problems with Gaussian processes</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Nicholas H. Nelsen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05568">2510.05568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08574.html">TANTE: Time-Adaptive Operator Learning via Neural Taylor Expansion</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Zhikai Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08574">2502.08574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04664.html">Learning Function-to-Function Mappings: A Fourier Neural Operator for Next-Generation MIMO Systems</a></div></td>
-<td>Jian Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04664">2510.04664</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>operator-learning — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,21 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29087.html">Physics and Data Driven Transformer-Mamba Framework for Flow Field</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Zhuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29087">2609.29087</a></td>
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01522.html">Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Vladimir R. Kostic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01522">2610.01522</a></td>
 </tr>
 <tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29847.html">Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Teo Deveney et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29847">2609.29847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30198.html">Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers</a></div><div class="paper-tags"><a href="koopman-operator-7d.html">koopman-operator</a></div></td>
-<td>Andreas E. Robertson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30198">2609.30198</a></td>
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01824.html">QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Said Lantigua et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01824">2610.01824</a></td>
 </tr>
 </tbody></table>

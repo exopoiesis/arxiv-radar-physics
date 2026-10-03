@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04124.html">Bernstein--von Mises theorems for Bayesian probabilistic numerics</a></div></td>
 <td>Sascha Gaudlitz et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04124">2609.04124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02126.html">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</a></div></td>
-<td>Dasol Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02126">2609.02126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02578.html">Reduced order model for parametric Boltzmann equation and its application to inverse problems</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
-<td>Shanyin Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02578">2609.02578</a></td>
 </tr>
 </tbody></table>

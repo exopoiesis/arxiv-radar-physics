@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">673 papers</span>
+  <span class="paper-count">670 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4034,23 +4034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07549.html">Targeted Digital Twin via Flow Map Learning and Its Application to Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Qifan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07549">2510.07549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08868.html">Generalizable Physics-Informed Learning for Stochastic Safety-Critical Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhuoyuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08868">2407.08868</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26597.html">Neural Network-based Co-design of Output-Feedback Control Barrier Function and Observer</a></div></td>
-<td>Vaishnavi Jagabathula et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26597">2509.26597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06361.html">Diffusion-Guided Renormalization of Neural Systems via Tensor Networks</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Nathan X. Kodama</td>
-<td><a href="http://arxiv.org/abs/2510.06361">2510.06361</a></td>
 </tr>
 </tbody></table>

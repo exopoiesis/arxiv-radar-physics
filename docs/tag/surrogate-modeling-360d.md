@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17838.html">Continuum Transformers Perform In-Context Learning by Operator Gradient Descent</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Abhiti Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17838">2505.17838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05683.html">QGraphLIME - Explaining Quantum Graph Neural Networks</a></div></td>
-<td>Haribandhu Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05683">2510.05683</a></td>
 </tr>
 </tbody></table>

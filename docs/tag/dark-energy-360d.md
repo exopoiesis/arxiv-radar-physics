@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09876.html">A Systematic Literature Review of Machine Learning Techniques for Observational Constraints in Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Luis Rojas et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09876">2510.09876</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10123.html">Lens Modeling of STRIDES Strongly Lensed Quasars using Neural Posterior Estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Sydney Erickson et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10123">2410.10123</a></td>
 </tr>
 </tbody></table>

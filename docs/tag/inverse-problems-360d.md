@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,17 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08198.html">Determining a magnetic Schrödinger equation by a single far-field measurement</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Chaohua Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08198">2510.08198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05568.html">Bilevel optimization for learning hyperparameters: Application to solving PDEs and inverse problems with Gaussian processes</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Nicholas H. Nelsen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05568">2510.05568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06191.html">Rapid calibration of atrial electrophysiology models using Gaussian process emulators in the ensemble Kalman filter</a></div></td>
-<td>Mariya Mamajiwala et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06191">2510.06191</a></td>
 </tr>
 </tbody></table>

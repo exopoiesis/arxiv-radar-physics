@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01766.html">Towards a Unified Data-Driven Boundary Layer Momentum Flux Parameterization for Ocean and Atmosphere</a></div></td>
 <td>Renaud Falga et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01766">2511.01766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06049.html">Turbulence Closure in RANS and Flow Inference around a Cylinder using PINNs and Sparse Experimental Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Z. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06049">2510.06049</a></td>
 </tr>
 </tbody></table>

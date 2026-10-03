@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">626 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3758,17 +3758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06776.html">Modeling COVID-19 Dynamics in German States Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Phillip Rothenbeck et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06776">2510.06776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06049.html">Turbulence Closure in RANS and Flow Inference around a Cylinder using PINNs and Sparse Experimental Data</a></div><div class="paper-tags"><a href="les-360d.html">les</a> · <a href="pinns-360d.html">pinns</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Z. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06049">2510.06049</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06286.html">Mass Conservation on Rails -- Rethinking Physics-Informed Learning of Ice Flow Vector Fields</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Kim Bente et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06286">2510.06286</a></td>
 </tr>
 </tbody></table>

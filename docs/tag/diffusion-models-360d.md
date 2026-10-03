@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">562 papers</span>
+  <span class="paper-count">557 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3356,35 +3356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08744.html">Graph Diffusion Transformers are In-Context Molecular Designers</a></div></td>
 <td>Gang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08744">2510.08744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21653.html">Think Before You Diffuse: Infusing Physical Rules into Video Diffusion</a></div></td>
-<td>Ke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21653">2505.21653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05722.html">Data Factory with Minimal Human Effort Using VLMs</a></div></td>
-<td>Jiaojiao Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05722">2510.05722</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05976.html">Diffusion Models for Low-Light Image Enhancement: A Multi-Perspective Taxonomy and Performance Analysis</a></div></td>
-<td>Eashan Adhikarla et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05976">2510.05976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06174.html">Thermodynamic Performance Limits for Score-Based Diffusion Models</a></div></td>
-<td>Nathan X. Kodama et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06174">2510.06174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06335.html">Conditional Denoising Diffusion Model-Based Robust MR Image Reconstruction from Highly Undersampled Data</a></div></td>
-<td>Mohammed Alsubaie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06335">2510.06335</a></td>
 </tr>
 </tbody></table>

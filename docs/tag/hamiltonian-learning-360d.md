@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08500.html">Learning and certification of local time-dependent quantum dynamics and noise</a></div></td>
 <td>Daniel Stilck França et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08500">2510.08500</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06360.html">Optimally learning functions in interacting quantum sensor networks</a></div></td>
-<td>Erfan Abbasgholinejad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06360">2510.06360</a></td>
 </tr>
 </tbody></table>

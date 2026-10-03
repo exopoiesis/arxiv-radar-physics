@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">428 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2558,29 +2558,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03232.html">Inferring the neutron star equation of state with nuclear-physics informed semiparametric models</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
 <td>Sunny Ng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03232">2507.03232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10123.html">Lens Modeling of STRIDES Strongly Lensed Quasars using Neural Posterior Estimation</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="strong-lensing-360d.html">strong-lensing</a></div></td>
-<td>Sydney Erickson et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10123">2410.10123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05712.html">Abundance Pattern Fitting with Bayesian Inference: Constraining First Stars&#x27; Properties and Their Explosion Mechanism with Extremely Metal-poor Stars</a></div></td>
-<td>Ruizheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05712">2510.05712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05849.html">ESS-Flow: Training-free guidance of flow-based models as inference in source space</a></div></td>
-<td>Adhithyan Kalaivanan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05849">2510.05849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06315.html">Beyond the stars: Linking H$α$ sizes, kinematics, and star formation in galaxies at $z\approx 4-6$ with JWST grism surveys and $\texttt{geko}$</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>A. Lola Danhaive et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06315">2510.06315</a></td>
 </tr>
 </tbody></table>

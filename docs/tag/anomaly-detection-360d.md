@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">299 papers</span>
+  <span class="paper-count">298 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1802,11 +1802,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17301.html">1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a> · <a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Aritra Bal et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17301">2502.17301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06063.html">TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis</a></div></td>
-<td>Austin Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06063">2510.06063</a></td>
 </tr>
 </tbody></table>

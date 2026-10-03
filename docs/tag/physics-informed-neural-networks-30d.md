@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,29 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03768.html">Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Fumihiro Imoto</td>
 <td><a href="http://arxiv.org/abs/2609.03768">2609.03768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02110.html">A Computational Comparison of Fourier Spectral Differentiation and Spatial Automatic Differentiation in Periodic Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Xilai Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02110">2609.02110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02966.html">Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial $\mathrm{SrTiO_3}$ on Si memristors via Dynamic Spectral Optimization</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Rodion Podorozhny et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02966">2609.02966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05542.html">Physics-Informed Neural Networks for Depth-Averaged Granular Avalanche Dynamics on Curved Topography</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Pujan Pranavkumar Purohit et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05542">2609.05542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13229.html">Adjoint-based Inversion for the Diffusion Coefficient in Marine Lake Models</a></div></td>
-<td>Alex Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13229">2609.13229</a></td>
 </tr>
 </tbody></table>

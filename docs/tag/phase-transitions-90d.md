@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04915.html">How Hard Is Quantum Advantage? A Cloud Microphysics Stress Test for Variational Quantum Models</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Felix Herbort et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04915">2607.04915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03703.html">Explainable Reinforcement Learning for Adaptive Traffic Signal Control</a></div></td>
-<td>Dickens Kwesiga et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03703">2607.03703</a></td>
 </tr>
 </tbody></table>

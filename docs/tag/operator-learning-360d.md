@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1688,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09704.html">Operator Learning for Power Systems Simulation</a></div></td>
 <td>Matthew Schlegel et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09704">2510.09704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17838.html">Continuum Transformers Perform In-Context Learning by Operator Gradient Descent</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Abhiti Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17838">2505.17838</a></td>
 </tr>
 </tbody></table>

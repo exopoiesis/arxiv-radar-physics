@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oceanography — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="oceanography-7d.html">7d</a> <a href="oceanography-30d.html">30d</a> <a href="oceanography-90d.html">90d</a> <strong>360d</strong> <a href="oceanography-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10716.html">Deployment and Development of a Cognitive Teleoreactive Framework for Deep Sea Autonomy</a></div></td>
 <td>Christopher Thierauf</td>
 <td><a href="http://arxiv.org/abs/2510.10716">2510.10716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17012.html">Learning Non-Ideal Vortex Flows Using the Differentiable Vortex Particle Method</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17012">2503.17012</a></td>
 </tr>
 </tbody></table>

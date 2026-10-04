@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">624 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,53 +3710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09693.html">Neural PDE Solvers with Physics Constraints: A Comparative Study of PINNs, DRM, and WANs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Jiakang Chen</td>
 <td><a href="http://arxiv.org/abs/2510.09693">2510.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22371.html">Error Bounds for Physics-Informed Neural Networks in Fokker-Planck PDEs</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Chun-Wei Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22371">2410.22371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17012.html">Learning Non-Ideal Vortex Flows Using the Differentiable Vortex Particle Method</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="oceanography-360d.html">oceanography</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17012">2503.17012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14002.html">Convergence Guarantees for Gradient-Based Training of Neural PDE Solvers: From Linear to Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wei Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14002">2505.14002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21404.html">Dual Natural Gradient Descent for Scalable Training of Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Anas Jnini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21404">2505.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04591.html">Data-Driven Adaptive PID Control Based on Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Junsei Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04591">2510.04591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06635.html">StruSR: Structure-Aware Symbolic Regression with Physics-Informed Taylor Guidance</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Yunpeng Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06635">2510.06635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06684.html">AutoBalance: An Automatic Balancing Framework for Training Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Kang An et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06684">2510.06684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06776.html">Modeling COVID-19 Dynamics in German States Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Phillip Rothenbeck et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06776">2510.06776</a></td>
 </tr>
 </tbody></table>

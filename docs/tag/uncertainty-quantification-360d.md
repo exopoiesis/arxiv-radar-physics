@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,17 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09903.html">An uncertainty-aware framework for data-efficient multi-view animal pose estimation</a></div></td>
 <td>Lenny Aharon et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09903">2510.09903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06904.html">Microstructure sensitive recurrent neural network surrogate model of crystal plasticity</a></div></td>
-<td>Michael D. Atkinson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06904">2510.06904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09666.html">Spatial Uncertainty Quantification in Wildfire Forecasting for Climate-Resilient Emergency Planning</a></div></td>
-<td>Aditya Chakravarty</td>
-<td><a href="http://arxiv.org/abs/2510.09666">2510.09666</a></td>
 </tr>
 </tbody></table>

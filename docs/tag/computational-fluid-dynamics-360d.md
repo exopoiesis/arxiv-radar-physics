@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,17 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05995.html">A comprehensive comparison of neural operators for 3D industry-scale engineering designs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Weiheng Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05995">2510.05995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17012.html">Learning Non-Ideal Vortex Flows Using the Differentiable Vortex Particle Method</a></div><div class="paper-tags"><a href="oceanography-360d.html">oceanography</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ziqi Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17012">2503.17012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07549.html">Targeted Digital Twin via Flow Map Learning and Its Application to Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Qifan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07549">2510.07549</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,23 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05337.html">Variational Continuation for Double Pendulum Periodic Orbits</a></div></td>
 <td>Leo Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05337">2609.05337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03921.html">Data-Based Clustering and Control of Similar Biological Systems</a></div></td>
-<td>Peilin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03921">2609.03921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04177.html">A Computationally Feasible Framework for Causal Probabilistic Explanation</a></div></td>
-<td>Rafal Urbaniak et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04177">2609.04177</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04329.html">Data-Driven Learning of Unknown Nonlinear Differential Equations Using Functional Analysis</a></div></td>
-<td>Seyyed Shaho Alaviani et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04329">2609.04329</a></td>
 </tr>
 </tbody></table>

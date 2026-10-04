@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>equation-discovery — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <strong>90d</strong> <a href="equation-discovery-360d.html">360d</a> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09801.html">Discovering Latent Response Laws in Forced Physical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Yi Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09801">2607.09801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04108.html">Dictionaries, Not Darwin: Set-Level Selection Beats LLM Evolution in Scientific Equation Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Pan Li</td>
-<td><a href="http://arxiv.org/abs/2607.04108">2607.04108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04156.html">Language models guide symbolic equation discovery by controlling search</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Zikai Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04156">2607.04156</a></td>
 </tr>
 </tbody></table>

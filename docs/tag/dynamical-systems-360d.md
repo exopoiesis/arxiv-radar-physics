@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">670 papers</span>
+  <span class="paper-count">669 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4028,11 +4028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09685.html">Deep Neural Networks Inspired by Differential Equations</a></div></td>
 <td>Yongshuai Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09685">2510.09685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07549.html">Targeted Digital Twin via Flow Map Learning and Its Application to Fluid Dynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Qifan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07549">2510.07549</a></td>
 </tr>
 </tbody></table>

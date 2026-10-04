@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,17 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07684.html">Multi-modal Foundation Model for Cosmological Simulation Data</a></div></td>
 <td>Bin Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07684">2510.07684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19925.html">Direct reconstruction of the Reionization history from 21cm 2D Power Spectra</a></div></td>
-<td>Yannic Pietschke et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19925">2506.19925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07375.html">Control variates from Eulerian and Lagrangian perturbation theory: Application to the bispectrum</a></div></td>
-<td>Nickolas Kokron et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07375">2510.07375</a></td>
 </tr>
 </tbody></table>

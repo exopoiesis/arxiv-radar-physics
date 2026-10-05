@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07660.html">Thermodynamic Cyclic Processes with Markov Samplers in Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Heinrich von Campe et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07660">2609.07660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04829.html">A guide to choosing data compression methods for cosmological inference</a></div></td>
-<td>Susan Pyne et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04829">2609.04829</a></td>
 </tr>
 </tbody></table>

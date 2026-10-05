@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,23 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06841.html">Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Robert Gruhlke et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06841">2607.06841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04967.html">Estimating Hydrodynamic Coefficients for Floating Offshore Structures from Movement Data Using Physics-Informed Neural Networks</a></div></td>
-<td>Anders Schou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04967">2607.04967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05167.html">MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Janine Strotherm et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05167">2607.05167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05271.html">Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Qian Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05271">2607.05271</a></td>
 </tr>
 </tbody></table>

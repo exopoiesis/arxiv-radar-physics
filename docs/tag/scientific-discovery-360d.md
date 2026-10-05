@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">501 papers</span>
+  <span class="paper-count">500 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3014,11 +3014,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10336.html">From Funding to Findings (FIND): An Open Database of NSF Awards and Research Outputs</a></div></td>
 <td>Kazimier Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10336">2510.10336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17007.html">Discrete Compositional Generation via General Soft Operators and Robust Reinforcement Learning</a></div></td>
-<td>Marco Jiralerspong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17007">2506.17007</a></td>
 </tr>
 </tbody></table>

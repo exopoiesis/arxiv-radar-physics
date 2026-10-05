@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2858,17 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24044.html">High Luminosity LHC data collected by CMS experiment -- an excellent ground for the search of Rare Radiative $B_s^0$ meson decays: A Review</a></div></td>
 <td>Alibordi Muhammad</td>
 <td><a href="http://arxiv.org/abs/2509.24044">2509.24044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17301.html">1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="hep-360d.html">hep</a> · <a href="qml-360d.html">qml</a></div></td>
-<td>Aritra Bal et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17301">2502.17301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08142.html">Enhancing Hybrid Methods in Parameterized Quantum Circuit Optimization</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Joona V. Pankkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08142">2510.08142</a></td>
 </tr>
 </tbody></table>

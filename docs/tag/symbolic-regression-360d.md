@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17935.html">Discovering How Ice Crystals Grow Using Neural ODE&#x27;s and Symbolic Regression</a></div></td>
 <td>Kara D. Lamb et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17935">2510.17935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08317.html">Iterated Agent for Symbolic Regression</a></div></td>
-<td>Zhuo-Yang Song et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08317">2510.08317</a></td>
 </tr>
 </tbody></table>

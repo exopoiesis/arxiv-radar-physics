@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12904.html">State-Change Learning for Prediction of Future Events in Endoscopic Videos</a></div></td>
 <td>Saurav Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12904">2510.12904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05167.html">Data-Error Scaling Laws in Machine Learning on Combinatorial Mutation-prone Sets: Proteins and Small Molecules</a></div></td>
-<td>Vanni Doffini et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05167">2405.05167</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">423 papers</span>
+  <span class="paper-count">421 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2540,17 +2540,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09153.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 3. Inference and Forecasts</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Euclid Collaboration et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09153">2510.09153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02463.html">Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation</a></div></td>
-<td>George Whittle et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02463">2502.02463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08316.html">Practical robust Bayesian spin-squeezing-enhanced quantum sensing under noises</a></div></td>
-<td>Jinye Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08316">2509.08316</a></td>
 </tr>
 </tbody></table>

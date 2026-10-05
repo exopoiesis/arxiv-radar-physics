@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">399 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2408,11 +2408,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09792.html">Principled Operator Learning in Ocean Dynamics: The Role of Temporal Structure</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Vahidreza Jahanmard et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09792">2510.09792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08295.html">Bridging the Physics-Data Gap with FNO-Guided Conditional Flow Matching: Designing Inductive Bias through Hierarchical Physical Constraints</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Tsuyoshi Okita</td>
-<td><a href="http://arxiv.org/abs/2510.08295">2510.08295</a></td>
 </tr>
 </tbody></table>

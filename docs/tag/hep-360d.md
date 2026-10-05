@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10504.html">Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics</a></div></td>
 <td>Oz Amram et al.</td>
 <td><a href="http://arxiv.org/abs/2412.10504">2412.10504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17301.html">1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Aritra Bal et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17301">2502.17301</a></td>
 </tr>
 </tbody></table>

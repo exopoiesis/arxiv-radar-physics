@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>particle-physics — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <strong>30d</strong> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10382.html">Searching for New Physics with Reinforcement Learning</a></div></td>
 <td>Jacky Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10382">2609.10382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05719.html">AI in Particle Physics Education: Research Problems and Foundational Skills</a></div></td>
-<td>M. Mikhasenko et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05719">2609.05719</a></td>
 </tr>
 </tbody></table>

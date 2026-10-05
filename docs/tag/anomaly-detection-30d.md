@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07244.html">Towards a Resilience-Theoretic Foundation for Adversarial Robustness in Industrial Control System Anomaly Detection</a></div></td>
 <td>Branka Stojanović et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07244">2609.07244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05091.html">Training-Free Logical and Structural Anomaly Detection via Calibrated Fusion</a></div></td>
-<td>Changyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05091">2609.05091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05253.html">GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection</a></div></td>
-<td>Xudong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05253">2609.05253</a></td>
 </tr>
 </tbody></table>

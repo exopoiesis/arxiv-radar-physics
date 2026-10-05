@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13569.html">A pullback-corrected scalar auxiliary variable optimizer with momentum and adaptive mobility</a></div></td>
 <td>Jiahao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13569">2609.13569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05012.html">Solution-space heterogeneity shapes federated learning dynamics across partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pde-learning-30d.html">pde-learning</a></div></td>
-<td>Ping Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05012">2609.05012</a></td>
 </tr>
 </tbody></table>

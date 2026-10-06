@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07072.html">An Hybrid Quantum-Classical Diffusion Model for Image Generation</a></div></td>
 <td>Qipeng Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07072">2607.07072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06841.html">Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Robert Gruhlke et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06841">2607.06841</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2510,11 +2510,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10229.html">Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems</a></div></td>
 <td>Nina M. Gottschling et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10229">2510.10229</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09213.html">A Morphology-Adaptive Random Feature Method for Inverse Source Problem of the Helmholtz Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xinwei Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09213">2510.09213</a></td>
 </tr>
 </tbody></table>

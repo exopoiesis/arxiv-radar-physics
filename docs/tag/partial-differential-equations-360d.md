@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">783 papers</span>
+  <span class="paper-count">781 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4700,17 +4700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10667.html">Enhancing Phase Transition Calculations with Fitting and Neural Network</a></div></td>
 <td>Ligong Bian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10667">2510.10667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08924.html">AB-PINNs: Adaptive-Basis Physics-Informed Neural Networks for Residual-Driven Domain Decomposition</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jonah Botvinick-Greenhouse et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08924">2510.08924</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09792.html">Principled Operator Learning in Ocean Dynamics: The Role of Temporal Structure</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Vahidreza Jahanmard et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09792">2510.09792</a></td>
 </tr>
 </tbody></table>

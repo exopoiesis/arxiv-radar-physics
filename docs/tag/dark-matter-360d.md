@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,29 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10900.html">Topological Landscapes of the BSM Higgs Sector</a></div></td>
 <td>Jyotiranjan Beuria</td>
 <td><a href="http://arxiv.org/abs/2510.10900">2510.10900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.24197.html">Generative modelling for mass-mapping with fast uncertainty quantification</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Jessica J. Whitney et al.</td>
-<td><a href="http://arxiv.org/abs/2410.24197">2410.24197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09147.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 5. Extensions beyond the standard modelling of theoretical probes and systematic effects</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09147">2510.09147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09153.html">Euclid preparation. Cosmology Likelihood for Observables in Euclid (CLOE). 3. Inference and Forecasts</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09153">2510.09153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09876.html">A Systematic Literature Review of Machine Learning Techniques for Observational Constraints in Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Luis Rojas et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09876">2510.09876</a></td>
 </tr>
 </tbody></table>

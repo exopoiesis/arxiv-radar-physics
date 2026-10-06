@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">668 papers</span>
+  <span class="paper-count">666 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4010,17 +4010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10308.html">Artificial intelligence as a surrogate brain: Bridging neural dynamical models and data</a></div></td>
 <td>Yinuo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10308">2510.10308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02436.html">Network Dynamics-Based Framework for Understanding Deep Neural Networks</a></div></td>
-<td>Yuchen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02436">2501.02436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09422.html">Solving Fokker-Planck-Kolmogorov Equation by Distribution Self-adaptation Normalized Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Yi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09422">2510.09422</a></td>
 </tr>
 </tbody></table>

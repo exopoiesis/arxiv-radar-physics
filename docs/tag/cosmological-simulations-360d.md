@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmological-simulations — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <a href="cosmological-simulations-90d.html">90d</a> <strong>360d</strong> <a href="cosmological-simulations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20751.html">Black Hole-Host Galaxy Correlations with Machine Learning: A Comparative Study of Illustris, TNG, and EAGLE</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Jacob Reinheimer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20751">2510.20751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06731.html">Benchmarking AI-evolved cosmological structure formation</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Xiaofeng Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06731">2510.06731</a></td>
 </tr>
 </tbody></table>

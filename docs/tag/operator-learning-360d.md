@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">278 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1676,11 +1676,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13047.html">Solving the BGK Model and Boltzmann equation by Fourier Neural Operator with conservative constraints</a></div></td>
 <td>Boyun Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13047">2510.13047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03955.html">DeepOHeat-v1: Efficient Operator Learning for Fast and Trustworthy Thermal Simulation and Optimization in 3D-IC Design</a></div></td>
-<td>Xinling Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03955">2504.03955</a></td>
 </tr>
 </tbody></table>

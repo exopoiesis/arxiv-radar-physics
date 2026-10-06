@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>black-holes — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <strong>30d</strong> <a href="black-holes-90d.html">90d</a> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09273.html">Constant Maps and Exponentially Small Sectors in ABJM Bethe Observables</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Seyed Morteza Hosseini</td>
 <td><a href="http://arxiv.org/abs/2609.09273">2609.09273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06211.html">Alternative neural-network follow-up for all-sky FrequencyHough in continuous gravitational-wave searches</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a> · <a href="ligo-30d.html">ligo</a></div></td>
-<td>Martina Di Cesare et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06211">2609.06211</a></td>
 </tr>
 </tbody></table>

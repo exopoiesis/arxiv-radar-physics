@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11987.html">Nonlinear discretizations and Newton&#x27;s method: characterizing stationary points of regression objectives</a></div></td>
 <td>Conor Rowan</td>
 <td><a href="http://arxiv.org/abs/2510.11987">2510.11987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06731.html">Benchmarking AI-evolved cosmological structure formation</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
-<td>Xiaofeng Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06731">2510.06731</a></td>
 </tr>
 </tbody></table>

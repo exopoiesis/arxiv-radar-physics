@@ -11,14 +11,6 @@
   count: 27
   total: 1017
   group: scientific-machine-learning
-- name: diffusion-models
-  count: 25
-  total: 996
-  group: generative-models
-- name: dynamical-systems
-  count: 25
-  total: 1149
-  group: dynamical-systems
 - name: inverse-problems
   count: 25
   total: 684
@@ -27,6 +19,14 @@
   count: 25
   total: 908
   group: quantum-physics
+- name: diffusion-models
+  count: 24
+  total: 996
+  group: generative-models
+- name: dynamical-systems
+  count: 24
+  total: 1149
+  group: dynamical-systems
 - name: bayesian-inference
   count: 23
   total: 703
@@ -35,26 +35,22 @@
   count: 23
   total: 615
   group: scientific-machine-learning
-- name: scientific-discovery
-  count: 23
-  total: 748
-  group: generative-models
 - name: uncertainty-quantification
   count: 23
   total: 886
   group: generative-models
+- name: scientific-discovery
+  count: 21
+  total: 748
+  group: generative-models
 - name: cfd
-  count: 18
+  count: 17
   total: 350
   group: fluid-dynamics
 - name: anomaly-detection
   count: 16
   total: 524
   group: particle
-- name: remote-sensing
-  count: 16
-  total: 1008
-  group: climate
 - name: symbolic-regression
   count: 14
   total: 314
@@ -63,6 +59,10 @@
   count: 13
   total: 425
   group: scientific-machine-learning
+- name: remote-sensing
+  count: 13
+  total: 1008
+  group: climate
 - name: dark-matter
   count: 12
   total: 360
@@ -83,10 +83,6 @@
   count: 9
   total: 218
   group: materials-science
-- name: computational-fluid-dynamics
-  count: 8
-  total: 302
-  group: fluid-dynamics
 - name: hamiltonian-learning
   count: 8
   total: 64
@@ -115,6 +111,10 @@
   count: 7
   total: 306
   group: climate
+- name: computational-fluid-dynamics
+  count: 6
+  total: 302
+  group: fluid-dynamics
 - name: hep
   count: 6
   total: 83
@@ -147,10 +147,6 @@
   count: 5
   total: 239
   group: scientific-machine-learning
-- name: koopman-operator
-  count: 5
-  total: 149
-  group: dynamical-systems
 - name: ligo
   count: 5
   total: 147
@@ -167,6 +163,10 @@
   count: 4
   total: 176
   group: materials-science
+- name: koopman-operator
+  count: 4
+  total: 149
+  group: dynamical-systems
 - name: rom
   count: 4
   total: 93
@@ -231,10 +231,6 @@
   count: 2
   total: 61
   group: particle
-- name: physics-beyond-the-standard-model
-  count: 2
-  total: 42
-  group: particle
 - name: quantum-error-correction
   count: 2
   total: 83
@@ -271,6 +267,10 @@
   count: 1
   total: 153
   group: generative-models
+- name: physics-beyond-the-standard-model
+  count: 1
+  total: 42
+  group: particle
 - name: qaoa
   count: 1
   total: 51

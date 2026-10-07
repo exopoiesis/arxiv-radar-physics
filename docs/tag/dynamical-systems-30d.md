@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07752.html">Local gradient neural operator</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Baiming Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07752">2609.07752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06875.html">A Data-Driven Koopman-Behavioral Distance for Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
-<td>Sarang Sutavani et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06875">2609.06875</a></td>
 </tr>
 </tbody></table>

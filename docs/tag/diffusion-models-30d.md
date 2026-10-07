@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07840.html">Observation-driven simulations of strong lensing galaxy clusters</a></div><div class="paper-tags"><a href="strong-lensing-30d.html">strong-lensing</a></div></td>
 <td>L. Leuzzi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07840">2609.07840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Binglin Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
 </tr>
 </tbody></table>

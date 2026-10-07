@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12999.html">AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Kamaljyoti Nath et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12999">2510.12999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05995.html">A comprehensive comparison of neural operators for 3D industry-scale engineering designs</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Weiheng Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05995">2510.05995</a></td>
 </tr>
 </tbody></table>

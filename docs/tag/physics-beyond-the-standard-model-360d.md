@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-beyond-the-standard-model — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="physics-beyond-the-standard-model-7d.html">7d</a> <a href="physics-beyond-the-standard-model-30d.html">30d</a> <a href="physics-beyond-the-standard-model-90d.html">90d</a> <strong>360d</strong> <a href="physics-beyond-the-standard-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20453.html">Symbolic Regression and Differentiable Fits in Beyond the Standard Model Physics</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="particle-physics-360d.html">particle-physics</a> · <a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
 <td>Shehu AbdusSalam et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20453">2510.20453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10023.html">Reinforcement learning-based statistical search strategy for an axion model from flavor</a></div></td>
-<td>Satsuki Nishimura et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10023">2409.10023</a></td>
 </tr>
 </tbody></table>

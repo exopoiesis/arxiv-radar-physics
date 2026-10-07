@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">241 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1454,11 +1454,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21756.html">Utilizing SciPy and other open source packages to provide a powerful API for materials manipulation in the Schrödinger Materials Suite</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21756">2510.21756</a></td>
 </tr>
 </tbody></table>

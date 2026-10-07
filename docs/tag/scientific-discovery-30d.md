@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08844.html">Exploring the Genesis Platform Capabilities to Accelerate Scientific Discovery in OPAL</a></div></td>
 <td>Daniel Rosendo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08844">2609.08844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06366.html">AutoKD: Autonomous Knowledge Discovery</a></div></td>
-<td>Qinwen Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06366">2609.06366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Binglin Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
 </tr>
 </tbody></table>

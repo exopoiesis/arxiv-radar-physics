@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08562.html">XShooter DESI Lens Program: Sample characterization</a></div><div class="paper-tags"><a href="dark-energy-90d.html">dark-energy</a></div></td>
 <td>Eric Jullo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08562">2607.08562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06959.html">KAN-LSTM-Transformer Neural Networks, MFV and Cosmological Parameters</a></div></td>
-<td>Jiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06959">2607.06959</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07960.html">Enhancing Photometric Redshift Estimation for LSST with a Hybrid LSTM-Mixture Density Network</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Zhijian Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07960">2607.07960</a></td>
 </tr>
 </tbody></table>

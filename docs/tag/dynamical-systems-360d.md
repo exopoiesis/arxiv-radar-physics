@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">666 papers</span>
+  <span class="paper-count">664 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3998,17 +3998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10739.html">A Stochastic Differential Equation Framework for Multi-Objective LLM Interactions: Dynamical Systems Analysis with Code Generation Applications</a></div></td>
 <td>Shivani Shukla et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10739">2510.10739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10214.html">Distributionally Robust Control with End-to-End Statistically Guaranteed Metric Learning</a></div></td>
-<td>Jingyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10214">2510.10214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10308.html">Artificial intelligence as a surrogate brain: Bridging neural dynamical models and data</a></div></td>
-<td>Yinuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10308">2510.10308</a></td>
 </tr>
 </tbody></table>

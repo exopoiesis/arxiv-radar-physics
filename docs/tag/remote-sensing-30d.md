@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,23 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06962.html">DPSF-Net: A Dual-Prior Spatial-Frequency Network for Real-World Remote Sensing Image Dehazing</a></div></td>
 <td>Mei Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.06962">2609.06962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06359.html">AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification</a></div></td>
-<td>Nafisa Anjum et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06359">2609.06359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06737.html">Monte Carlo-Based Ex-Ante Assessment of the Green Benefits of an AI-Driven Smart Agriculture Platform in Hainan</a></div></td>
-<td>Zhaoyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06737">2609.06737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22258.html">RS-Claw-Evolution: Environment-Feedback-Driven Evolution for Lightweight Remote Sensing Agents in Long-Horizon Tasks</a></div></td>
-<td>Kai Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22258">2609.22258</a></td>
 </tr>
 </tbody></table>

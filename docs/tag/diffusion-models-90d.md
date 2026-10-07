@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,17 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
 <td>Zixin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
-<td>Ziyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07072.html">An Hybrid Quantum-Classical Diffusion Model for Image Generation</a></div></td>
-<td>Qipeng Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07072">2607.07072</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,17 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11708.html">Simultaneous Frequentist Calibration of Confidence Regions for Multiple Functionals in Constrained Inverse Problems</a></div></td>
 <td>Pau Batlle et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11708">2510.11708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07343.html">Local MAP Sampling for Diffusion Models</a></div></td>
-<td>Shaorong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07343">2510.07343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10571.html">Determining nonlinear balance laws in product-type domains by a single local passive boundary observation</a></div></td>
-<td>Chaohua Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10571">2510.10571</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25563.html">Leveraging an Atmospheric Foundational Model for Subregional Sea Surface Temperature Forecasting</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Víctor Medina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25563">2510.25563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10654.html">Interactive Atmospheric Composition Emulation for Next-Generation Earth System Models</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Seyed Mohammad Hassan Erfani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10654">2510.10654</a></td>
 </tr>
 </tbody></table>

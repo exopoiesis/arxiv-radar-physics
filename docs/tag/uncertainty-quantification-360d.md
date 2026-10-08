@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">523 papers</span>
+  <span class="paper-count">522 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3146,11 +3146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09900.html">In-vitro measurements coupled with in-silico simulations for stochastic calibration and uncertainty quantification of the mechanical response of biological materials</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Mahmut Pekedis</td>
 <td><a href="http://arxiv.org/abs/2503.09900">2503.09900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10694.html">Digital Twin-enabled Multi-generation Control Co-Design with Deep Reinforcement Learning</a></div></td>
-<td>Ying-Kuan Tsai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10694">2510.10694</a></td>
 </tr>
 </tbody></table>

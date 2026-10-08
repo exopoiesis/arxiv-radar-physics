@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">240 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1442,17 +1442,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11548.html">Unlocking High-Throughput Heterojunction Discovery</a></div></td>
 <td>Thomas W. Gries et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11548">2510.11548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21341.html">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a></div></td>
-<td>Heewoong Noh et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21341">2410.21341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div></td>
-<td>Ahsan Javed et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
 </tr>
 </tbody></table>

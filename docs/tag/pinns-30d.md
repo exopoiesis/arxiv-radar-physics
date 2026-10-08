@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,29 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Timon Rabczuk et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07437.html">A Systematic Analysis of Automatic Differentiation versus Discretization-based Constraints for Physics-Informed PDE Solvers</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Xing Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07437">2609.07437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07814.html">Latent-MoE: Domain-Aware Mixture-of-Experts for PDEs with Multi-Regime Physics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Hanwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07814">2609.07814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07861.html">Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="data-assimilation-30d.html">data-assimilation</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Midhuna Suresh et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07861">2609.07861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07983.html">Solving the Elastic Wave Equation with Physics-Informed Neural Networks: A Robust and Critical Assessment</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Davide Staub et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07983">2609.07983</a></td>
 </tr>
 </tbody></table>

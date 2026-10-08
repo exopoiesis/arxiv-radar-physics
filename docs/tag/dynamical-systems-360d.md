@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">664 papers</span>
+  <span class="paper-count">663 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3992,11 +3992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11162.html">Emergence of hybrid computational dynamics through reinforcement learning</a></div></td>
 <td>Roman A. Kononov et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11162">2510.11162</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10739.html">A Stochastic Differential Equation Framework for Multi-Objective LLM Interactions: Dynamical Systems Analysis with Code Generation Applications</a></div></td>
-<td>Shivani Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10739">2510.10739</a></td>
 </tr>
 </tbody></table>

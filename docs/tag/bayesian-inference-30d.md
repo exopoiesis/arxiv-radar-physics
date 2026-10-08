@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,23 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10080.html">Stochastic Lanczos Quadrature for Computational Uncertainty in Linear Algebra</a></div></td>
 <td>Hassan Fifen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10080">2609.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07660.html">Thermodynamic Cyclic Processes with Markov Samplers in Bayesian Inference</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Heinrich von Campe et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07660">2609.07660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07686.html">Approximating the statistics of a gravitational wave background</a></div></td>
-<td>Mikel Falxa</td>
-<td><a href="http://arxiv.org/abs/2609.07686">2609.07686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07858.html">An Approximate Bayesian Deep Learning Approach for Uncertainty-aware Differential Emission Measure Estimates in the Solar Corona from the SDO</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>N. Balodhi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07858">2609.07858</a></td>
 </tr>
 </tbody></table>

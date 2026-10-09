@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">497 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06612.html">Learning Low-Order Approximations of the Quark Propagator in Lattice QCD</a></div><div class="paper-tags"><a href="equivariant-neural-networks-360d.html">equivariant-neural-networks</a></div></td>
+<td>Simon Pfahler et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06612">2610.06612</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31186.html">Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation</a></div></td>
@@ -2990,17 +2996,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01540.html">BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery</a></div></td>
 <td>Kanishk Gandhi et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01540">2501.01540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11143.html">Spec-Driven AI for Science: The ARIA Framework for Automated and Reproducible Data Analysis</a></div></td>
-<td>Chuke Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11143">2510.11143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11606.html">ExpVid: A Benchmark for Experiment Video Understanding &amp; Reasoning</a></div></td>
-<td>Yicheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11606">2510.11606</a></td>
 </tr>
 </tbody></table>

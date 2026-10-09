@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05127.html">Component-Level Evaluation of Adaptive PINN Training for CFD-Oriented Crystal Growth Simulation</a></div></td>
+<td>Niruta Chapagain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05127">2610.05127</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Nichula Sathmith Wasalathilaka et al.</td>
@@ -1238,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12999.html">AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Kamaljyoti Nath et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12999">2510.12999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09692.html">AB-UPT: Scaling Neural CFD Surrogates for High-Fidelity Automotive Aerodynamics Simulations via Anchored-Branched Universal Physics Transformers</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Benedikt Alkin et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09692">2502.09692</a></td>
 </tr>
 </tbody></table>

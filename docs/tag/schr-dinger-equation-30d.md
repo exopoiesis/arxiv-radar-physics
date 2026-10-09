@@ -16,9 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09047.html">Bottomonium suppression with a machine-learning-informed Debye mass</a></div></td>
-<td>Ajaharul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09047">2609.09047</a></td>
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10651.html">Beyond the Ergodic Wall: A Discrete Geometric Physics Sandbox for Analysing AI Scaling Limits and Complexity Collapse</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Simon Richard Daniel</td>
+<td><a href="http://arxiv.org/abs/2610.10651">2610.10651</a></td>
 </tr>
 </tbody></table>

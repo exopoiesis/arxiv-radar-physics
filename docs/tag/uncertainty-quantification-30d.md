@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05188.html">Multiresolution Sobolev Trained Fourier Neural Operator for Cross-Resolution Surrogate Modelling of Parametric Two-Phase Darcy Flows in Porous Media</a></div></td>
+<td>Zhao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05188">2610.05188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04665.html">Efficient Neural Surrogates for Linear Radiation Transport on the Lattice and Hohlraum benchmarks</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
+<td>Carmelo Gonzales et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04665">2610.04665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03303.html">S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Zhendong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03303">2610.03303</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01818.html">Markov chain Monte Carlo for predictively oriented posteriors</a></div></td>
@@ -134,17 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10190.html">pyeCE: A Python Implementation of the Embedded Cluster Expansion</a></div></td>
 <td>Yann L. Müller et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10190">2609.10190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08620.html">Flexible Spectral-Normalized Neural Gaussian Process for Dynamic Aperture Prediction</a></div></td>
-<td>Yousra El-Bachir et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08620">2609.08620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08866.html">Bayesian palaeoclimate reconstruction from zero-inflated count-compositional pollen data: A case study of Lago Grande di Monticchio in southern Italy</a></div></td>
-<td>André F. B. Menezes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08866">2609.08866</a></td>
 </tr>
 </tbody></table>

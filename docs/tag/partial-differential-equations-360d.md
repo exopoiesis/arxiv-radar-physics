@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">779 papers</span>
+  <span class="paper-count">787 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10105.html">CAFE+FNO: Fourier Kernel Generation via Multiplicative Feature Composition</a></div></td>
+<td>Hyungjoon Juen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10105">2610.10105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10626.html">Exact SO(3)-Equivariant Isotropic Kernels for Rotation-Robust Neural Dynamics</a></div></td>
+<td>Ridham Patel</td>
+<td><a href="http://arxiv.org/abs/2610.10626">2610.10626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10897.html">Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Muhammad M. Akmal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10897">2610.10897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04212.html">FTD-GNO: Memory-Efficient Graph Neural Operators through Functional Tensor Decomposition of the Kernel</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Xiaomin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04212">2610.04212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04241.html">Stochastic Adaptive Fourier Decomposition for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Pengqing Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04241">2610.04241</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04405.html">CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Jeahan Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04405">2610.04405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02954.html">Hyperparameter selection for equation learning with biologically-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>William Lavery et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02954">2610.02954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03303.html">S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Zhendong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03303">2610.03303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03378.html">Operator-informed initialization for Fourier features physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Juan Molina et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03378">2610.03378</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01824.html">QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
@@ -4682,11 +4736,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12293.html">General Fourier Feature Physics-Informed Extreme Learning Machine (GFF-PIELM) for High-Frequency PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Fei Ren et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12293">2510.12293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11325.html">A model reduction method based on nonlinear optimization for multiscale stochastic optimal control problems</a></div></td>
-<td>Jingyi Zhang</td>
-<td><a href="http://arxiv.org/abs/2510.11325">2510.11325</a></td>
 </tr>
 </tbody></table>

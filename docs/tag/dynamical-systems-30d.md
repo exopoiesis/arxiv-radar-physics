@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-30d.html">hamiltonian-neural-networks</a></div></td>
+<td>Anand Kumar Agrawal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30819.html">Learning Provable Neural Network Observer for Uncertain Dynamical Systems</a></div></td>
@@ -134,23 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09739.html">Dynamics Creation through Neural Dynamical Transfer Learning</a></div></td>
 <td>He Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.09739">2609.09739</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08740.html">PAC-Bayesian Bounds for Learning Partially Observed Stochastic Linear Time-Invariant State-Space Systems with Inputs and Sub-Gaussian Noise</a></div></td>
-<td>Mihaly Petreczky et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08740">2609.08740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09116.html">When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay</a></div></td>
-<td>Hasan Amin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09116">2609.09116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09434.html">Tensor-Train Weak SINDy: Identifying High-Dimensional Nonlinear Dynamics</a></div></td>
-<td>Will Houser et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09434">2609.09434</a></td>
 </tr>
 </tbody></table>

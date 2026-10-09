@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05127.html">Component-Level Evaluation of Adaptive PINN Training for CFD-Oriented Crystal Growth Simulation</a></div></td>
+<td>Niruta Chapagain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05127">2610.05127</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -284,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11576.html">Physics-Informed Neural Networks for the High-Resolution Reconstruction of Flow Measurement Indicators in Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Irena Radišić et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11576">2607.11576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09557.html">CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
-<td>Steven Roche et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09557">2607.09557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09582.html">Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics</a></div></td>
-<td>Okezzi Ukorigho et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09582">2607.09582</a></td>
 </tr>
 </tbody></table>

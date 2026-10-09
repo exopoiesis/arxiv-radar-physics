@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10105.html">CAFE+FNO: Fourier Kernel Generation via Multiplicative Feature Composition</a></div></td>
+<td>Hyungjoon Juen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10105">2610.10105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10626.html">Exact SO(3)-Equivariant Isotropic Kernels for Rotation-Robust Neural Dynamics</a></div></td>
+<td>Ridham Patel</td>
+<td><a href="http://arxiv.org/abs/2610.10626">2610.10626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10897.html">Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Muhammad M. Akmal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10897">2610.10897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04212.html">FTD-GNO: Memory-Efficient Graph Neural Operators through Functional Tensor Decomposition of the Kernel</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Xiaomin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04212">2610.04212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04241.html">Stochastic Adaptive Fourier Decomposition for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Pengqing Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04241">2610.04241</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04405.html">CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Jeahan Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04405">2610.04405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02954.html">Hyperparameter selection for equation learning with biologically-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>William Lavery et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02954">2610.02954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03303.html">S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Zhendong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03303">2610.03303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03378.html">Operator-informed initialization for Fourier features physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Juan Molina et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03378">2610.03378</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01824.html">QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
@@ -176,23 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09665.html">Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries</a></div></td>
 <td>Jihoon Moon</td>
 <td><a href="http://arxiv.org/abs/2609.09665">2609.09665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Timon Rabczuk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08630.html">A Fully Dual Domain Decomposition Method for Extreme Learning Machines Using GenEO Spectral Coarse Spaces</a></div></td>
-<td>Chang-Ock Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08630">2609.08630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09268.html">Reconstructing fluid velocity fields from sparse sensors using a variational quantum algorithm</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Nhat-Quang Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09268">2609.09268</a></td>
 </tr>
 </tbody></table>

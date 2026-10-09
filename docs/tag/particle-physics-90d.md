@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>particle-physics — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <strong>90d</strong> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23377.html">Predict before you train: Scaling Laws for particle physics foundation models</a></div></td>
 <td>Jan-Lucas Uslu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23377">2607.23377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09457.html">Report on the Advanced Linear Collider Study Group (ALEGRO) Workshop 2026</a></div></td>
-<td>L. Verra et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09457">2607.09457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Gaia Grosso et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 </tbody></table>

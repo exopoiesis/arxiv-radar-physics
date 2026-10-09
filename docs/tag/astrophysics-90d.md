@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04665.html">Efficient Neural Surrogates for Linear Radiation Transport on the Lattice and Hohlraum benchmarks</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Carmelo Gonzales et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04665">2610.04665</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24246.html">Taramandal-GPT: Enhancing Astrodynamics Problem-Solving with Knowledge Retrieval and Structured Thinking</a></div></td>
 <td>Akhil Sharma et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11417.html">Generative AI in Higher Education Laboratory Learning: A Qualitative Case Study of Epistemic Scaffolding and Assessment Boundaries</a></div></td>
 <td>Matteo Tuveri et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11417">2607.11417</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a> · <a href="inductive-bias-90d.html">inductive-bias</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Gaia Grosso et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 </tbody></table>

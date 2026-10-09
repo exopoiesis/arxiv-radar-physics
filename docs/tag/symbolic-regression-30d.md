@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,23 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11210.html">Diversity of EML-type operators</a></div></td>
 <td>Andrzej Odrzywołek</td>
 <td><a href="http://arxiv.org/abs/2609.11210">2609.11210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08536.html">Physical Law Ecology: mapping multi-mechanism ecologies as the zeroth step of data-driven scientific discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Xiongheng Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08536">2609.08536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09011.html">Closed-Form of the Local Galactic Potential and Stellar Distribution Function from Gaia DR3</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
-<td>Indranil Das et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09011">2609.09011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09273.html">Constant Maps and Exponentially Small Sectors in ABJM Bethe Observables</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
-<td>Seyed Morteza Hosseini</td>
-<td><a href="http://arxiv.org/abs/2609.09273">2609.09273</a></td>
 </tr>
 </tbody></table>

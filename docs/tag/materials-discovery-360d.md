@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">238 papers</span>
+  <span class="paper-count">237 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1436,11 +1436,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12091.html">ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations</a></div></td>
 <td>Lijie Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12091">2510.12091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11548.html">Unlocking High-Throughput Heterojunction Discovery</a></div></td>
-<td>Thomas W. Gries et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11548">2510.11548</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04326.html">LyapuFlow: Controlling Generative Flows with Lyapunov Feedback for Inverse Problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Minseon Gwak et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04326">2610.04326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03303.html">S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Zhendong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03303">2610.03303</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01502.html">Learned End-to-End Guidance Schedules for Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
@@ -152,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10222.html">Identifying unknown time delay and spatially varying coefficients in a reaction-diffusion equation from boundary measurements</a></div></td>
 <td>Ming-Hui Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10222">2609.10222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08239.html">Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Timon Rabczuk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08239">2609.08239</a></td>
 </tr>
 </tbody></table>

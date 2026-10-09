@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-360d.html">hamiltonian-neural-networks</a></div></td>
+<td>Anand Kumar Agrawal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30819.html">Learning Provable Neural Network Observer for Uncertain Dynamical Systems</a></div></td>
 <td>Zhangyi Wang et al.</td>
@@ -3986,11 +3992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12650.html">Towards Foundation Inference Models that Learn ODEs In-Context</a></div></td>
 <td>Maximilian Mauel et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12650">2510.12650</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11162.html">Emergence of hybrid computational dynamics through reinforcement learning</a></div></td>
-<td>Roman A. Kononov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11162">2510.11162</a></td>
 </tr>
 </tbody></table>

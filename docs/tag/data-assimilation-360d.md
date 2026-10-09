@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13030.html">Bridging Idealized and Operational Models: An Explainable AI Framework for Earth System Emulators</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Pouria Behnoudfar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13030">2510.13030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15978.html">DAWP: A framework for global observation forecasting via Data Assimilation and Weather Prediction in satellite observation space</a></div></td>
-<td>Junchao Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15978">2510.15978</a></td>
 </tr>
 </tbody></table>

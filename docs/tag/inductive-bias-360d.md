@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08216.html">Quantum Entangled Multimodal Fusion Networks (QEMFN): Resource-Aware Hybrid Vision-Language Fusion via Trainable Entanglement</a></div></td>
+<td>Srikar Alla et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08216">2610.08216</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04067.html">On architectural choices for interpretability and thermodynamic consistency in Physically Recurrent Neural Networks in the low-data regime</a></div></td>
+<td>M. A. Maia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04067">2610.04067</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24666.html">Experimental evidence of generalization in quantum machine learning in small-data regime</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Leena Anthony et al.</td>
@@ -1118,17 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14874.html">TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions</a></div></td>
 <td>Guangyi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14874">2510.14874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15567.html">Towards Unified and Lossless Latent Space for 3D Molecular Latent Diffusion Modeling</a></div></td>
-<td>Yanchen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15567">2503.15567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11281.html">PADME: Procedure Aware DynaMic Execution</a></div></td>
-<td>Deepeka Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11281">2510.11281</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,17 +1766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12489.html">CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling</a></div></td>
 <td>Beibu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12489">2510.12489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10915.html">LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection</a></div></td>
-<td>Hanchang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10915">2510.10915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11449.html">Enhancing Maritime Domain Awareness on Inland Waterways: A YOLO-Based Fusion of Satellite and AIS for Vessel Characterization</a></div></td>
-<td>Geoffery Agorku et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11449">2510.11449</a></td>
 </tr>
 </tbody></table>

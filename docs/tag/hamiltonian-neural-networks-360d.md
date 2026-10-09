@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-neural-networks — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="hamiltonian-neural-networks-7d.html">7d</a> <a href="hamiltonian-neural-networks-30d.html">30d</a> <a href="hamiltonian-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Anand Kumar Agrawal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01356.html">Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria</a></div></td>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08216.html">Quantum Entangled Multimodal Fusion Networks (QEMFN): Resource-Aware Hybrid Vision-Language Fusion via Trainable Entanglement</a></div></td>
+<td>Srikar Alla et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08216">2610.08216</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04067.html">On architectural choices for interpretability and thermodynamic consistency in Physically Recurrent Neural Networks in the low-data regime</a></div></td>
+<td>M. A. Maia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04067">2610.04067</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24666.html">Experimental evidence of generalization in quantum machine learning in small-data regime</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Leena Anthony et al.</td>
@@ -170,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12810.html">Symmetry-Informed Deep Learning for Electromagnetic Scattering</a></div><div class="paper-tags"><a href="equivariant-neural-networks-90d.html">equivariant-neural-networks</a></div></td>
 <td>Viktor A. Lilja et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12810">2607.12810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09149.html">Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness</a></div></td>
-<td>Daomin Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09149">2607.09149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10039.html">Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="particle-physics-90d.html">particle-physics</a></div></td>
-<td>Gaia Grosso et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10039">2607.10039</a></td>
 </tr>
 </tbody></table>

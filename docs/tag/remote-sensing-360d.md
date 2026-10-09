@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3080,17 +3080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18376.html">A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Xing Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18376">2507.18376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09826.html">Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning</a></div></td>
-<td>Wenyi Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09826">2503.09826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11505.html">Knowledge-Guided Machine Learning Models to Upscale Evapotranspiration in the U.S. Midwest</a></div></td>
-<td>Aleksei Rozanov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11505">2510.11505</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06612.html">Learning Low-Order Approximations of the Quark Propagator in Lattice QCD</a></div><div class="paper-tags"><a href="equivariant-neural-networks-90d.html">equivariant-neural-networks</a></div></td>
+<td>Simon Pfahler et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06612">2610.06612</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31186.html">Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation</a></div></td>
@@ -452,17 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10127.html">GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Xuanzhou Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10127">2607.10127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09025.html">Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems</a></div></td>
-<td>Chao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09025">2607.09025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09195.html">Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
-<td>Izumi Takahara et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09195">2607.09195</a></td>
 </tr>
 </tbody></table>

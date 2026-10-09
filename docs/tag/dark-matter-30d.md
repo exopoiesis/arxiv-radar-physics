@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-matter — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <strong>30d</strong> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10709.html">BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a></div><div class="paper-tags"><a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
 <td>Max E. Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10709">2609.10709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09011.html">Closed-Form of the Local Galactic Potential and Stellar Distribution Function from Gaia DR3</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Indranil Das et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09011">2609.09011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09131.html">Mitigating baryonic effects in weak lensing with higher-order statistics</a></div></td>
-<td>Andreas Tersenov et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09131">2609.09131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09144.html">Baryonification IV: Constraining baryonic feedback with X-ray gas fractions</a></div></td>
-<td>Jozef Bucko et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09144">2609.09144</a></td>
 </tr>
 </tbody></table>

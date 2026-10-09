@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17125.html">From Stars to Waves: Non-deterministic Inference of Microlensed Gravitational Waves</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Zhaoqi Su et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17125">2510.17125</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11077.html">Argus: JAX state-space filtering for gravitational wave detection with a pulsar timing array</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Tom Kimpson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11077">2510.11077</a></td>
 </tr>
 </tbody></table>

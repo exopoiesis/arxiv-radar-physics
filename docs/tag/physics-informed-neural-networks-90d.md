@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Weizheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11737.html">Uncovering and Fixing Collider Bias in Bayesian PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Michael Obermayr et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11737">2610.11737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12395.html">A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Martin Campos Pinto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12395">2610.12395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09299.html">Convergence of kernel and neural-network methods for Hamilton--Jacobi--Bellman equations on unbounded domains</a></div></td>
+<td>Yumiharu Nakano</td>
+<td><a href="http://arxiv.org/abs/2610.09299">2610.09299</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10449.html">SAGE-PINN: A Singularity-free Axisymmetric Geometry-Encoded Physics-Informed Neural Network for Axisymmetric Multiphysics Flow in Cylindrical Coordinates</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Raj Maurya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10449">2610.10449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10862.html">A mesh-based neural energy method for the simulation of heterogeneous composites</a></div></td>
+<td>Pius J. M. Wichmann et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10862">2610.10862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10897.html">Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Muhammad M. Akmal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10897">2610.10897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09126.html">Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Hyeonsu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09126">2610.09126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06776.html">Puncture Evolution with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Estuti Shukla et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06776">2610.06776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04357.html">Checkable NTK Positivity and Finite-Width Gradient Descent for Scalar- and Vector-Valued PINNs with Strong-Form, Weak-Form, and Nonlocal Linear Constraints</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Zifan Lyu</td>
+<td><a href="http://arxiv.org/abs/2610.04357">2610.04357</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04405.html">CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Jeahan Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04405">2610.04405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02954.html">Hyperparameter selection for equation learning with biologically-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>William Lavery et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02954">2610.02954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03378.html">Operator-informed initialization for Fourier features physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Juan Molina et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03378">2610.03378</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01874.html">Fourier Symmetrization for Geometric Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
@@ -662,11 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10200.html">The Differential Neural Tangent Kernel and Its Positivity</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Bangti Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10200">2607.10200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09071.html">Physics informed wavelet Fourier representation for multiscale fluid dynamics</a></div></td>
-<td>Chao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09071">2607.09071</a></td>
 </tr>
 </tbody></table>

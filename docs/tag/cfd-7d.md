@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Nichula Sathmith Wasalathilaka et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02056">2610.02056</a></td>
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05127.html">Component-Level Evaluation of Adaptive PINN Training for CFD-Oriented Crystal Growth Simulation</a></div></td>
+<td>Niruta Chapagain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05127">2610.05127</a></td>
 </tr>
 </tbody></table>

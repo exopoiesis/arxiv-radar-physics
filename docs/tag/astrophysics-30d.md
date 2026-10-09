@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04665.html">Efficient Neural Surrogates for Linear Radiation Transport on the Lattice and Hohlraum benchmarks</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Carmelo Gonzales et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04665">2610.04665</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24246.html">Taramandal-GPT: Enhancing Astrodynamics Problem-Solving with Knowledge Retrieval and Structured Thinking</a></div></td>
 <td>Akhil Sharma et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13301.html">Astrophysics in the Era of Artificial Intelligence powered by Large Language Models</a></div></td>
 <td>A. R. Rao</td>
 <td><a href="http://arxiv.org/abs/2609.13301">2609.13301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09102.html">TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
-<td>Nikolaos Triantafyllou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09102">2609.09102</a></td>
 </tr>
 </tbody></table>

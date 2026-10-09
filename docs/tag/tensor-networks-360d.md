@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01168.html">LimTDD: A Compact Decision Diagram Integrating Tensor and Local Invertible Map Representations</a></div></td>
 <td>Xin Hong et al.</td>
 <td><a href="http://arxiv.org/abs/2504.01168">2504.01168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14871.html">Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models</a></div></td>
-<td>Ryan Solgi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14871">2505.14871</a></td>
 </tr>
 </tbody></table>

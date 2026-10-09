@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,17 +2522,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14656.html">Parameter Identification for Partial Differential Equation with Jump Discontinuities in Coefficients by Markov Switching Model and Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhikun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14656">2510.14656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09900.html">In-vitro measurements coupled with in-silico simulations for stochastic calibration and uncertainty quantification of the mechanical response of biological materials</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Mahmut Pekedis</td>
-<td><a href="http://arxiv.org/abs/2503.09900">2503.09900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11077.html">Argus: JAX state-space filtering for gravitational wave detection with a pulsar timing array</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Tom Kimpson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11077">2510.11077</a></td>
 </tr>
 </tbody></table>

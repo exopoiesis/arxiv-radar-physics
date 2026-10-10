@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">552 papers</span>
+  <span class="paper-count">549 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3308,23 +3308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13301.html">Km-scale dynamical downscaling through conformalized latent diffusion models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Alessandro Brusaferri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13301">2510.13301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00236.html">Dynamics-aware Diffusion Models for Planning and Control</a></div></td>
-<td>Darshan Gadginmath et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00236">2504.00236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18376.html">A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Xing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18376">2507.18376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13881.html">Low-Energy DNA Bubble Dynamics via the Quantum Coulomb Potential</a></div><div class="paper-tags"><a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Juan D. García-Muñoz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13881">2510.13881</a></td>
 </tr>
 </tbody></table>

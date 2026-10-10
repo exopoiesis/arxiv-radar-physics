@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04405.html">CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Jeahan Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04405">2610.04405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02954.html">Hyperparameter selection for equation learning with biologically-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02954">2610.02954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03378.html">Operator-informed initialization for Fourier features physics-informed neural networks</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Juan Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03378">2610.03378</a></td>
 </tr>
 </tbody></table>

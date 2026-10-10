@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">521 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3140,23 +3140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13989.html">Surrogate Models for Linear Response</a></div></td>
 <td>L. Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13989">2510.13989</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05054.html">HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model</a></div></td>
-<td>Peter Van Katwyk et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05054">2510.05054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12109.html">Stochastic Finite Volume Approximation with Clustering in the Parameter Space for Forward Uncertainty Quantification of PDEs with Random Parameters</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Zhao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12109">2510.12109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13030.html">Bridging Idealized and Operational Models: An Explainable AI Framework for Earth System Emulators</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Pouria Behnoudfar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13030">2510.13030</a></td>
 </tr>
 </tbody></table>

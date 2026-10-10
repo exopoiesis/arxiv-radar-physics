@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23768.html">Galactic Alchemy: Deep Learning Map-to-Map Translation in Hydrodynamical Simulations</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Philipp Denzel et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23768">2510.23768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18748.html">Clustering analysis of BOSS-CMASS galaxies with semi-analytical model for galaxy formation and halo occupation distribution</a></div></td>
-<td>Zhongxu Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18748">2505.18748</a></td>
 </tr>
 </tbody></table>

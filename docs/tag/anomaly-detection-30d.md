@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13298.html">Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures</a></div></td>
 <td>Qinwu Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13298">2609.13298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09785.html">More QCD Masterclass Lectures on Jet Physics and Machine Learning</a></div></td>
-<td>Andrew J. Larkoski</td>
-<td><a href="http://arxiv.org/abs/2609.09785">2609.09785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10109.html">Enabling New Discoveries with Machine Learning</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Michelle Lochner</td>
-<td><a href="http://arxiv.org/abs/2609.10109">2609.10109</a></td>
 </tr>
 </tbody></table>

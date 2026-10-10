@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">787 papers</span>
+  <span class="paper-count">785 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4724,17 +4724,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13677.html">APRIL: Auxiliary Physically-Redundant Information in Loss - A physics-informed framework for parameter estimation with a gravitational-wave case study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Matteo Scialpi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13677">2510.13677</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12109.html">Stochastic Finite Volume Approximation with Clustering in the Parameter Space for Forward Uncertainty Quantification of PDEs with Random Parameters</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Zhao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12109">2510.12109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12293.html">General Fourier Feature Physics-Informed Extreme Learning Machine (GFF-PIELM) for High-Frequency PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Fei Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12293">2510.12293</a></td>
 </tr>
 </tbody></table>

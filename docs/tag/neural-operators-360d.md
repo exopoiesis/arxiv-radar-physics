@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">413 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2492,11 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12999.html">AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="deeponet-360d.html">deeponet</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Kamaljyoti Nath et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12999">2510.12999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20278.html">Deep Generative Prior for First Order Inverse Optimization</a></div></td>
-<td>Haoyu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20278">2504.20278</a></td>
 </tr>
 </tbody></table>

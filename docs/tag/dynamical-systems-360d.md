@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">663 papers</span>
+  <span class="paper-count">661 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3980,17 +3980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14168.html">Optimal Control Theoretic Neural Optimizer: From Backpropagation to Dynamic Programming</a></div></td>
 <td>Guan-Horng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14168">2510.14168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12286.html">Train Stochastic Non Linear Coupled ODEs to Classify and Generate</a></div></td>
-<td>Stefano Gagliani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12286">2510.12286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12650.html">Towards Foundation Inference Models that Learn ODEs In-Context</a></div></td>
-<td>Maximilian Mauel et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12650">2510.12650</a></td>
 </tr>
 </tbody></table>

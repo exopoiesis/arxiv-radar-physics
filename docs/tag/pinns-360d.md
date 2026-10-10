@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">603 papers</span>
+  <span class="paper-count">602 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3626,11 +3626,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13677.html">APRIL: Auxiliary Physically-Redundant Information in Loss - A physics-informed framework for parameter estimation with a gravitational-wave case study</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Matteo Scialpi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13677">2510.13677</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15998.html">AMStraMGRAM: Adaptive Multi-cutoff Strategy Modification for ANaGRAM</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Nilo Schwencke et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15998">2510.15998</a></td>
 </tr>
 </tbody></table>

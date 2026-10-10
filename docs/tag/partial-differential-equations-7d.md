@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04405.html">CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
 <td>Jeahan Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04405">2610.04405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02954.html">Hyperparameter selection for equation learning with biologically-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>William Lavery et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02954">2610.02954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03303.html">S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Zhendong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03303">2610.03303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03378.html">Operator-informed initialization for Fourier features physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Juan Molina et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03378">2610.03378</a></td>
 </tr>
 </tbody></table>

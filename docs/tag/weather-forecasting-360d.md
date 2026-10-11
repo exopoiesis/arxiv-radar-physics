@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,17 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19605.html">Graph-based Neural Space Weather Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Daniel Holmberg et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19605">2509.19605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13050.html">An Operational Deep Learning System for Satellite-Based High-Resolution Global Nowcasting</a></div></td>
-<td>Shreya Agrawal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13050">2510.13050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13301.html">Km-scale dynamical downscaling through conformalized latent diffusion models</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Alessandro Brusaferri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13301">2510.13301</a></td>
 </tr>
 </tbody></table>

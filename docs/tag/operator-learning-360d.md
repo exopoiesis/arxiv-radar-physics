@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,11 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15651.html">Deep Neural ODE Operator Networks for PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Ziqian Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15651">2510.15651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12999.html">AMORE: Adaptive Multi-Output Operator Network for Stiff Chemical Kinetics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Kamaljyoti Nath et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12999">2510.12999</a></td>
 </tr>
 </tbody></table>

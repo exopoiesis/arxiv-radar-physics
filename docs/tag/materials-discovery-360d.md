@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">236 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1418,17 +1418,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18911.html">Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
 <td>Andrew J. Medford et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18911">2510.18911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13264.html">Generative model for information metamaterial design</a></div></td>
-<td>Jun Ming Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13264">2510.13264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13699.html">Strain-induced Moiré Reconstruction and Memorization in Two-Dimensional Materials without Twist</a></div></td>
-<td>Nazmul Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13699">2510.13699</a></td>
 </tr>
 </tbody></table>

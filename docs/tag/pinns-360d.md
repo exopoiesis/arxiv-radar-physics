@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">602 papers</span>
+  <span class="paper-count">599 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3608,23 +3608,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14310.html">Numerical Approximation of Electrohydrodynamics Model: A Comparative Study of PINNs and FEM</a></div></td>
 <td>Mara Martinez et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14310">2510.14310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11638.html">Accelerating Natural Gradient Descent for PINNs with Randomized Nyström Preconditioning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ivan Bioli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11638">2505.11638</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13431.html">Modeling Adoptive Cell Therapy in Bladder Cancer from Sparse Biological Data using PINNs</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Kayode Olumoyin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13431">2510.13431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13677.html">APRIL: Auxiliary Physically-Redundant Information in Loss - A physics-informed framework for parameter estimation with a gravitational-wave case study</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Matteo Scialpi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13677">2510.13677</a></td>
 </tr>
 </tbody></table>

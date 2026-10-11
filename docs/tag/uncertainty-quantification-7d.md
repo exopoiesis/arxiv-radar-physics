@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05188.html">Multiresolution Sobolev Trained Fourier Neural Operator for Cross-Resolution Surrogate Modelling of Parametric Two-Phase Darcy Flows in Porous Media</a></div></td>
 <td>Zhao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05188">2610.05188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04665.html">Efficient Neural Surrogates for Linear Radiation Transport on the Lattice and Hohlraum benchmarks</a></div><div class="paper-tags"><a href="astrophysics-7d.html">astrophysics</a></div></td>
-<td>Carmelo Gonzales et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04665">2610.04665</a></td>
 </tr>
 </tbody></table>

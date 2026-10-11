@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">622 papers</span>
+  <span class="paper-count">618 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3722,29 +3722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19136.html">Uncertainty Quantification for Physics-Informed Neural Networks with Extended Fiducial Inference</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Frank Shih et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19136">2505.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11638.html">Accelerating Natural Gradient Descent for PINNs with Randomized Nyström Preconditioning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ivan Bioli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11638">2505.11638</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10379.html">Hamiltonian Learning via Inverse Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="hamiltonian-learning-360d.html">hamiltonian-learning</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Jie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10379">2506.10379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13431.html">Modeling Adoptive Cell Therapy in Bladder Cancer from Sparse Biological Data using PINNs</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Kayode Olumoyin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13431">2510.13431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13677.html">APRIL: Auxiliary Physically-Redundant Information in Loss - A physics-informed framework for parameter estimation with a gravitational-wave case study</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Matteo Scialpi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13677">2510.13677</a></td>
 </tr>
 </tbody></table>

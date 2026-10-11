@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3068,11 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14709.html">Where are the Whales: A Human-in-the-loop Detection Method for Identifying Whales in High-resolution Satellite Imagery</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Caleb Robinson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14709">2510.14709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13774.html">UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations</a></div></td>
-<td>Dominik J. Mühlematter et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13774">2510.13774</a></td>
 </tr>
 </tbody></table>

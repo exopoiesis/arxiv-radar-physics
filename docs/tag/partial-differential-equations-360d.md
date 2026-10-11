@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">785 papers</span>
+  <span class="paper-count">782 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4706,23 +4706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14656.html">Parameter Identification for Partial Differential Equation with Jump Discontinuities in Coefficients by Markov Switching Model and Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Zhikun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14656">2510.14656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17171.html">Reduced Order Modeling of Partial Differential Equations on Parameter-Dependent Domains Using Deep Neural Networks</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
-<td>Martina Bukač et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17171">2407.17171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11638.html">Accelerating Natural Gradient Descent for PINNs with Randomized Nyström Preconditioning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ivan Bioli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11638">2505.11638</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13677.html">APRIL: Auxiliary Physically-Redundant Information in Loss - A physics-informed framework for parameter estimation with a gravitational-wave case study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Matteo Scialpi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13677">2510.13677</a></td>
 </tr>
 </tbody></table>

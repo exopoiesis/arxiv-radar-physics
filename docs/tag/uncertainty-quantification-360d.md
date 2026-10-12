@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3092,35 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00643.html">Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Albert Matveev et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00643">2508.00643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03350.html">Partially stochastic deep learning with uncertainty quantification for model predictive heating control</a></div></td>
-<td>Emma Hannula et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03350">2504.03350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19136.html">Uncertainty Quantification for Physics-Informed Neural Networks with Extended Fiducial Inference</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Frank Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19136">2505.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19605.html">Graph-based Neural Space Weather Forecasting</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Daniel Holmberg et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19605">2509.19605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14197.html">Neural Networks for Bayesian Inverse Problems Governed by a Nonlinear ODE</a></div></td>
-<td>German Villalobos et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14197">2510.14197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15171.html">Ab initio symmetry-adapted approaches to nuclear reactions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Kristina D Launey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15171">2510.15171</a></td>
 </tr>
 </tbody></table>

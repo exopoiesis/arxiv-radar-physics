@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,17 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15651.html">Deep Neural ODE Operator Networks for PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Ziqian Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15651">2510.15651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19136.html">Uncertainty Quantification for Physics-Informed Neural Networks with Extended Fiducial Inference</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Frank Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19136">2505.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26804.html">EARS-UDE: Evaluating Auditory Response in Sensory Overload with Universal Differential Equations</a></div></td>
-<td>Miheer Salunke et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26804">2510.26804</a></td>
 </tr>
 </tbody></table>

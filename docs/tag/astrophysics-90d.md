@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>astrophysics — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <strong>90d</strong> <a href="astrophysics-360d.html">360d</a> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12971.html">A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
 <td>Nathan Steinle et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12971">2607.12971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11417.html">Generative AI in Higher Education Laboratory Learning: A Qualitative Case Study of Epistemic Scaffolding and Assessment Boundaries</a></div></td>
-<td>Matteo Tuveri et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11417">2607.11417</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">599 papers</span>
+  <span class="paper-count">597 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3596,17 +3596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16678.html">QCPINN: Quantum-Classical Physics-Informed Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Afrah Farea et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16678">2503.16678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19136.html">Uncertainty Quantification for Physics-Informed Neural Networks with Extended Fiducial Inference</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Frank Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19136">2505.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14310.html">Numerical Approximation of Electrohydrodynamics Model: A Comparative Study of PINNs and FEM</a></div></td>
-<td>Mara Martinez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14310">2510.14310</a></td>
 </tr>
 </tbody></table>

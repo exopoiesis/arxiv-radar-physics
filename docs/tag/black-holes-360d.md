@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,11 +572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19990.html">Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Sarp Akçay et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19990">2506.19990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15321.html">Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15321">2503.15321</a></td>
 </tr>
 </tbody></table>

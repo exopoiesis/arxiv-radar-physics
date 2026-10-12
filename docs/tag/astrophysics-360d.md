@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00063.html">AstroMMBench: A Benchmark for Evaluating Multimodal Large Language Models Capabilities in Astronomy</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Jinghang Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00063">2510.00063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15171.html">Ab initio symmetry-adapted approaches to nuclear reactions</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Kristina D Launey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15171">2510.15171</a></td>
 </tr>
 </tbody></table>

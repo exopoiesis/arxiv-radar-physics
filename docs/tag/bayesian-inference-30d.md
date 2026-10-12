@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14494.html">NICER neutron stars with dark energy and dark matter: effects on the inferred equation of state</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
 <td>Nathan Rutherford et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14494">2609.14494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12301.html">PDE-constrained inverse problems at the $\sqrt{n}$ rate via debiased physics-informed neural networks</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Yves Atchade et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12301">2609.12301</a></td>
 </tr>
 </tbody></table>

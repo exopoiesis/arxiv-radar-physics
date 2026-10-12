@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">291 papers</span>
+  <span class="paper-count">287 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1736,29 +1736,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15757.html">Poultry Farm Intelligence: An Integrated Multi-Sensor AI Platform for Enhanced Welfare and Productivity</a></div></td>
 <td>Pieris Panagi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15757">2510.15757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13571.html">Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation</a></div></td>
-<td>Wenbo Sui et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13571">2405.13571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12749.html">Deep Anomaly Detection for Active Attacks on the Receiver in Quantum Key Distribution</a></div></td>
-<td>Junxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12749">2508.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14709.html">Where are the Whales: A Human-in-the-loop Detection Method for Identifying Whales in High-resolution Satellite Imagery</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Caleb Robinson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14709">2510.14709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16036.html">IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection</a></div></td>
-<td>Zewen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16036">2510.16036</a></td>
 </tr>
 </tbody></table>

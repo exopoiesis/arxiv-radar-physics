@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,17 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00017.html">Observation-guided Interpolation Using Graph Neural Networks for High-Resolution Nowcasting in Switzerland</a></div></td>
 <td>Ophélia Miralles et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00017">2509.00017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06658.html">TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification</a></div></td>
-<td>Md Abrar Jahin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06658">2407.06658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19605.html">Graph-based Neural Space Weather Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Daniel Holmberg et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19605">2509.19605</a></td>
 </tr>
 </tbody></table>

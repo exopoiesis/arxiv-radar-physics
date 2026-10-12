@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07529.html">Targeted search shows that random-device testing underestimates worst-case error in a simulated wave-based neural operator</a></div></td>
 <td>Samrendra Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07529">2610.07529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05098.html">Advectra: Asymmetric Latent Transport for Non-Stationary Physics</a></div></td>
-<td>Nodens Koren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05098">2610.05098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05100.html">METRO: Metric-Enhanced Token Routing Operator</a></div></td>
-<td>Nodens Koren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05100">2610.05100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05337.html">Green-Routed Neural Operators:\\Physics Determines Where the Network Reads</a></div></td>
-<td>Chenhao Si et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05337">2610.05337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05570.html">Poisson-GENERIC Neural Operators: Exact Metriplectic Structure in Function Space via Casimir Entropies</a></div></td>
-<td>Jason Sulskis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05570">2610.05570</a></td>
 </tr>
 </tbody></table>

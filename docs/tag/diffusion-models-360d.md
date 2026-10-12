@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,11 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06303.html">SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation</a></div></td>
 <td>Shuang Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06303">2510.06303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15321.html">Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Euclid Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15321">2503.15321</a></td>
 </tr>
 </tbody></table>

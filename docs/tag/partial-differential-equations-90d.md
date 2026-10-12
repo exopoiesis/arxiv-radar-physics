@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13171.html">Human population dynamics as a Bayesian inverse transport problem</a></div></td>
 <td>Chong Qi</td>
 <td><a href="http://arxiv.org/abs/2607.13171">2607.13171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11094.html">Multi-dimensional training-priority weighting based on physical information propagation paths: a unified residual-weighting framework for physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Zhangyi Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11094">2607.11094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11310.html">SPARC-Net: A Spectral, Causality-Aware, and Hard-Constrained Physics-Informed Architecture for Stiff and Shock-Dominated Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Divyavardhan Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11310">2607.11310</a></td>
 </tr>
 </tbody></table>

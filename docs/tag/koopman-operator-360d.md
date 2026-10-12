@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03734.html">On excitation of control-affine systems and its use for data-driven Koopman approximants</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Philipp Schmitz et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03734">2511.03734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15166.html">Two Roads to Koopman Operator Theory for Control: Infinite Input Sequences and Operator Families</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Masih Haseli et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15166">2510.15166</a></td>
 </tr>
 </tbody></table>

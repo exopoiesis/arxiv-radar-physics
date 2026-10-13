@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1688,17 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17887.html">Shock-Aware Physics-Guided Fusion-DeepONet Operator for Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Ehsan Roohi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17887">2510.17887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00643.html">Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Albert Matveev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00643">2508.00643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15651.html">Deep Neural ODE Operator Networks for PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Ziqian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15651">2510.15651</a></td>
 </tr>
 </tbody></table>

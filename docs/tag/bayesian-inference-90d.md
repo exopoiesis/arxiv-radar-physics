@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,23 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13629.html">Advanced Techniques in Stability Analysis of Trans-Neptunian Objects</a></div></td>
 <td>Tamás Kovács</td>
 <td><a href="http://arxiv.org/abs/2607.13629">2607.13629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12990.html">A Noise-Aware Quantum Algorithm for Credit Valuation Adjustments on Real Quantum Hardware</a></div></td>
-<td>Guillem Borràs Espert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12990">2607.12990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13243.html">MCMC Methods for Parameter Inference in Structurally Nonidentifiable Models</a></div></td>
-<td>Xuyuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13243">2607.13243</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13268.html">Neural-Accelerated Bayesian Calibration of Chiral Mean-Field Models to Nuclear Saturation and Vacuum Properties</a></div></td>
-<td>Isaac Legred et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13268">2607.13268</a></td>
 </tr>
 </tbody></table>

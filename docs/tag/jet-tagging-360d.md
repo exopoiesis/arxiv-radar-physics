@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>jet-tagging — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <strong>360d</strong> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17984.html">QINNs: Quantum-Informed Neural Networks</a></div></td>
 <td>Aritra Bal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17984">2510.17984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08867.html">Mind the Gap: Navigating Inference with Optimal Transport Maps</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Malte Algren et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08867">2507.08867</a></td>
 </tr>
 </tbody></table>

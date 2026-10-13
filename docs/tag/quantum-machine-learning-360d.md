@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,17 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16301.html">Adversarially Robust Quantum Transfer Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Amena Khatun et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16301">2510.16301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16373.html">Meta-learning of Gibbs states for many-body Hamiltonians with applications to Quantum Boltzmann Machines</a></div></td>
-<td>Ruchira V Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16373">2507.16373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15833.html">FIDDLE: Reinforcement Learning for Quantum Fidelity Enhancement</a></div></td>
-<td>Hoang M. Ngo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15833">2510.15833</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16316.html">A hierarchical Bayesian approach for population-based structural health monitoring in ship hull structures</a></div></td>
 <td>Georgios Aravanis et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16316">2510.16316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19990.html">Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Sarp Akçay et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19990">2506.19990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15860.html">Quantum Monte Carlo Calculations of Light Nuclei with Fully Propagated Theoretical Uncertainties</a></div></td>
-<td>Ryan Curry et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15860">2510.15860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16228.html">Observational constraints on the modified cosmology inspired by string T-duality</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>G. G. Luciano et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16228">2510.16228</a></td>
 </tr>
 </tbody></table>

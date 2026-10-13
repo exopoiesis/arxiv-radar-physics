@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">781 papers</span>
+  <span class="paper-count">776 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4670,35 +4670,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16678.html">QCPINN: Quantum-Classical Physics-Informed Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Afrah Farea et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16678">2503.16678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22520.html">Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Collin R. Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22520">2503.22520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15623.html">RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction</a></div></td>
-<td>Xiucheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15623">2504.15623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00643.html">Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Albert Matveev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00643">2508.00643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13034.html">Neural Approximate Inverse Preconditioners</a></div></td>
-<td>Tianshi Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13034">2510.13034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15651.html">Deep Neural ODE Operator Networks for PDEs</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Ziqian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15651">2510.15651</a></td>
 </tr>
 </tbody></table>

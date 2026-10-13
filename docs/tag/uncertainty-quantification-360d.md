@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3080,17 +3080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16557.html">Topology-Aware Hybrid Wi-Fi/BLE Fingerprinting via Evidence-Theoretic Fusion and Persistent Homology</a></div></td>
 <td>Behrad Mousaei Shir-Mohammad et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16557">2510.16557</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22520.html">Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Collin R. Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22520">2503.22520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00643.html">Light-Weight Diffusion Multiplier and Uncertainty Quantification for Fourier Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Albert Matveev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00643">2508.00643</a></td>
 </tr>
 </tbody></table>

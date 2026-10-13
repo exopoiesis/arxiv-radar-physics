@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>normalizing-flows — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <strong>90d</strong> <a href="normalizing-flows-360d.html">360d</a> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18484.html">Search for new scalars via $X \rightarrow SH \rightarrow b\bar{b}b\bar{b}$ in proton-proton collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector</a></div></td>
 <td> ATLAS Collaboration</td>
 <td><a href="http://arxiv.org/abs/2607.18484">2607.18484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12971.html">A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>Nathan Steinle et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12971">2607.12971</a></td>
 </tr>
 </tbody></table>

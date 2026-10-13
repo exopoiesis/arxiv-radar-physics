@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">493 papers</span>
+  <span class="paper-count">491 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2960,17 +2960,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16530.html">Realizing LLMs&#x27; Causal Potential Requires Science-Grounded, Novel Benchmarks</a></div></td>
 <td>Ashutosh Srivastava et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16530">2510.16530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15280.html">Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition</a></div></td>
-<td>Fan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15280">2510.15280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15624.html">Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation</a></div></td>
-<td>Ed Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15624">2510.15624</a></td>
 </tr>
 </tbody></table>

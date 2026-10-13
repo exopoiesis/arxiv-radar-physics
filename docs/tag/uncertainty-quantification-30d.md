@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15583.html">Generalized Parton Distributions: Phenomenology, Extraction, and Hadron Imaging</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="inverse-problems-30d.html">inverse-problems</a> · <a href="lattice-qcd-30d.html">lattice-qcd</a></div></td>
 <td>Simonetta Liuti et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15583">2609.15583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13864.html">An Uncertainty-Aware Hybrid Mathematical-Machine-Learning Model for Smart Irrigation Decision Support</a></div></td>
-<td>Andrea Scariolo</td>
-<td><a href="http://arxiv.org/abs/2609.13864">2609.13864</a></td>
 </tr>
 </tbody></table>

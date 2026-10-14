@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12632.html">The Fast &amp; Fourier: Using neural operators to speed up radiative modeling of protoplanetary disks</a></div></td>
+<td>Lukas Welzel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12632">2610.12632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="lattice-qcd-30d.html">lattice-qcd</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
 <td>Liqiang Zhu et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15945.html">MUSHY: Multimodal Flow-Based Amortized Bayesian Inference for Spectroscopic Data Fusion</a></div></td>
 <td>Jeff Shen</td>
 <td><a href="http://arxiv.org/abs/2609.15945">2609.15945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14494.html">NICER neutron stars with dark energy and dark matter: effects on the inferred equation of state</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="particle-physics-30d.html">particle-physics</a></div></td>
-<td>Nathan Rutherford et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14494">2609.14494</a></td>
 </tr>
 </tbody></table>

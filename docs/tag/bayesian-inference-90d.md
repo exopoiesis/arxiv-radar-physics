@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12632.html">The Fast &amp; Fourier: Using neural operators to speed up radiative modeling of protoplanetary disks</a></div></td>
+<td>Lukas Welzel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12632">2610.12632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="lattice-qcd-90d.html">lattice-qcd</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Liqiang Zhu et al.</td>
@@ -404,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16975.html">Non-Parametric Model Calibration with Stochastic Control Parameters</a></div></td>
 <td>Akshay Prasadan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16975">2607.16975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13629.html">Advanced Techniques in Stability Analysis of Trans-Neptunian Objects</a></div></td>
-<td>Tamás Kovács</td>
-<td><a href="http://arxiv.org/abs/2607.13629">2607.13629</a></td>
 </tr>
 </tbody></table>

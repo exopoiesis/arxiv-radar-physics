@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Zixiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
@@ -548,17 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15180.html">RTS Smoother-Guided Learning of Physics-Based Neural Differential Models</a></div></td>
 <td>Ahmet Demirkaya et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15180">2607.15180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13387.html">Change-Aware Self-Adaptive AI-Aided Kalman Filters With Neural Change Point Detection</a></div></td>
-<td>Wenyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13387">2607.13387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a> · <a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>David Krongauz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
 </tr>
 </tbody></table>

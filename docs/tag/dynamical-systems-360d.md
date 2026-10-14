@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Zixiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-360d.html">hamiltonian-neural-networks</a></div></td>
 <td>Anand Kumar Agrawal et al.</td>
@@ -3944,11 +3950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16851.html">Neuronal Group Communication for Efficient Neural representation</a></div></td>
 <td>Zhengqi Pei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16851">2510.16851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16509.html">A Bayesian Framework for Symmetry Inference in Chaotic Attractors</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ziad Ghanem et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16509">2510.16509</a></td>
 </tr>
 </tbody></table>

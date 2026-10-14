@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">511 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3068,17 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16958.html">Quantile Regression, Variational Autoencoders, and Diffusion Models for Uncertainty Quantification: A Spatial Analysis of Sub-seasonal Wind Speed Prediction</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Ganglin Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16958">2510.16958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16509.html">A Bayesian Framework for Symmetry Inference in Chaotic Attractors</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Ziad Ghanem et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16509">2510.16509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16557.html">Topology-Aware Hybrid Wi-Fi/BLE Fingerprinting via Evidence-Theoretic Fusion and Persistent Homology</a></div></td>
-<td>Behrad Mousaei Shir-Mohammad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16557">2510.16557</a></td>
 </tr>
 </tbody></table>

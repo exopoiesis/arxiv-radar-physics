@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12632.html">The Fast &amp; Fourier: Using neural operators to speed up radiative modeling of protoplanetary disks</a></div></td>
+<td>Lukas Welzel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12632">2610.12632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Liqiang Zhu et al.</td>
@@ -2492,11 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16903.html">Contribution from Nonlinear Quasi-normal Modes in GW250114</a></div></td>
 <td>Yuxin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16903">2510.16903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16316.html">A hierarchical Bayesian approach for population-based structural health monitoring in ship hull structures</a></div></td>
-<td>Georgios Aravanis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16316">2510.16316</a></td>
 </tr>
 </tbody></table>

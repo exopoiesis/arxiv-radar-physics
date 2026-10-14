@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13292.html">Recovering Irreducible Three-Body Interactions with Lagrangian Neural Networks</a></div><div class="paper-tags"><a href="lagrangian-neural-networks-90d.html">lagrangian-neural-networks</a></div></td>
+<td>Sena Kalabalik et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13292">2610.13292</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01485.html">Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression</a></div></td>
 <td>Gabor Demeter</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19750.html">Machine Can Automatically Discover Parametric Functions to Model HEP Data</a></div><div class="paper-tags"><a href="hep-90d.html">hep</a></div></td>
 <td>Ho Fung Tsoi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19750">2607.19750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13608.html">Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
-<td>David Krongauz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13608">2607.13608</a></td>
 </tr>
 </tbody></table>

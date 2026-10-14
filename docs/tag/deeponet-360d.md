@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09947.html">Identifying Trustworthiness Challenges in Deep Learning Models for Continental-Scale Water Quality Prediction</a></div></td>
 <td>Xiaobo Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2503.09947">2503.09947</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17887.html">Shock-Aware Physics-Guided Fusion-DeepONet Operator for Rarefied Micro-Nozzle Flows</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Ehsan Roohi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17887">2510.17887</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15931.html">Mesh-Free Convolution: Learned Spectral Attenuation and Transport</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Niloufar Zakariaei et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15931">2610.15931</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Zixiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10105.html">CAFE+FNO: Fourier Kernel Generation via Multiplicative Feature Composition</a></div></td>
@@ -218,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16406.html">Physics Informed Random Feature Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Chi-An Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16406">2609.16406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14841.html">Tackling Failure Modes of PINNs and PIKANs Using Conflict-Free Gradients</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Sidharth S. Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14841">2609.14841</a></td>
 </tr>
 </tbody></table>

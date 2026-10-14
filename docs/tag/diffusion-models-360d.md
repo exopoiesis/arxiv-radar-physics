@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13690.html">Transformer-based In-Context Score Operator Learning for Diffusion Models</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Wuzhe Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13690">2610.13690</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01502.html">Learned End-to-End Guidance Schedules for Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Aneesh Barthakur et al.</td>
@@ -3284,11 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17012.html">HelioFill: Diffusion-Based Model for EUV Reconstruction of the Solar Farside</a></div></td>
 <td>Firas Ben Ameur et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17012">2510.17012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06303.html">SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation</a></div></td>
-<td>Shuang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06303">2510.06303</a></td>
 </tr>
 </tbody></table>

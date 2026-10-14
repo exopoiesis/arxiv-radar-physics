@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15702.html">Backward SDEs-based Diffusion for Physics-Constrained Generation</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
 <td>Zihao Wang</td>
 <td><a href="http://arxiv.org/abs/2609.15702">2609.15702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14225.html">Likelihood-Coin Poisson Sampling for Bayesian Inverse Problems: Exact Sampling and Sharp Complexity</a></div></td>
-<td>Zhiliang Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14225">2609.14225</a></td>
 </tr>
 </tbody></table>

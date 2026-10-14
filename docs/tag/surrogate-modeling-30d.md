@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13317.html">SBNO : Schrödinger Bridge Neural Operator for the Forward and Inverse Problems under Missing Information</a></div></td>
+<td>Jaehyeon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13317">2610.13317</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="ligo-30d.html">ligo</a></div></td>
 <td>Adriano Frattale Mascioli et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17160.html">Neural Field Ensembles for Aerodynamic Surface Prediction: Winning Solution to the ONERA CRM Wall Distribution 2025 Challenge</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Lionel Salesses et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17160">2609.17160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14402.html">Neural Modal Decomposition: Architectural Priors from Observables</a></div></td>
-<td>Juho Park et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14402">2609.14402</a></td>
 </tr>
 </tbody></table>

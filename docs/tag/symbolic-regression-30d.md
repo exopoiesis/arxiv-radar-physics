@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13292.html">Recovering Irreducible Three-Body Interactions with Lagrangian Neural Networks</a></div><div class="paper-tags"><a href="lagrangian-neural-networks-30d.html">lagrangian-neural-networks</a></div></td>
+<td>Sena Kalabalik et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13292">2610.13292</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01485.html">Quantitative schlieren imaging of a laser-ionized plasma channel in atomic vapor using symbolic regression</a></div></td>
 <td>Gabor Demeter</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19191.html">Machine-Learning Exploration of Defect Topologies and Thermodynamic Stability in Graphene with Atomic Vacancies</a></div></td>
 <td>Marcos V. N. da Costa et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19191">2609.19191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14260.html">Recursive Self-Improvement LLM Agents for Inverter Dynamic Model Identification</a></div></td>
-<td>Jie Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14260">2609.14260</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gravitational-waves — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <strong>30d</strong> <a href="gravitational-waves-90d.html">90d</a> <a href="gravitational-waves-360d.html">360d</a> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15308.html">Deterministic denoising of long-duration gravitational-wave signal candidates with $α$-(de)blending</a></div></td>
 <td>Przemysław Figura et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15308">2609.15308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14277.html">Parameter Estimation of Ringdown Quasinormal Modes with Autoencoder</a></div></td>
-<td>Momoka Iida et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14277">2609.14277</a></td>
 </tr>
 </tbody></table>

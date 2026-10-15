@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17638.html">Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications</a></div></td>
 <td>Alessandro Bombini</td>
 <td><a href="http://arxiv.org/abs/2609.17638">2609.17638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15620.html">Where to Compute and How to Interact: Operator-Readable Adaptation with Gauge-Aware Transport</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Zixuan Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15620">2609.15620</a></td>
 </tr>
 </tbody></table>

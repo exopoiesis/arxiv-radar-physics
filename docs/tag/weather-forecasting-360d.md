@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,11 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18707.html">OmniCast: A Masked Latent Diffusion Model for Weather Forecasting Across Time Scales</a></div></td>
 <td>Tung Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18707">2510.18707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00017.html">Observation-guided Interpolation Using Graph Neural Networks for High-Resolution Nowcasting in Switzerland</a></div></td>
-<td>Ophélia Miralles et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00017">2509.00017</a></td>
 </tr>
 </tbody></table>

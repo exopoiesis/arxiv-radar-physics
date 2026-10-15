@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,23 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17946.html">Accelerating Bayesian Inference via Multi-Fidelity Transport Map Coupling</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="rans-360d.html">rans</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Sanjan C. Muchandimath et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17946">2510.17946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08981.html">Bayesian inference of general noise-model parameters from the syndrome statistics of surface codes</a></div></td>
-<td>Takumi Kobori et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08981">2406.08981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16838.html">Bayesian inference of the magnetic component of quark-gluon plasma</a></div></td>
-<td>Yu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16838">2510.16838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16903.html">Contribution from Nonlinear Quasi-normal Modes in GW250114</a></div></td>
-<td>Yuxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16903">2510.16903</a></td>
 </tr>
 </tbody></table>

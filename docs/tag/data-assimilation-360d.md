@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19701.html">Non-intrusive structural-preserving sequential data assimilation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Lizuo Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19701">2510.19701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16904.html">State estimation in homogeneous isotropic turbulence using super-resolution with a 4DVar training algorithm</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Markus Weyrauch et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16904">2510.16904</a></td>
 </tr>
 </tbody></table>

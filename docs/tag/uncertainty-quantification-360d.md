@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3050,23 +3050,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17994.html">Assessing Monotone Dependence: Area Under the Curve Meets Rank Correlation</a></div></td>
 <td>Eva-Maria Walz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17994">2510.17994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08629.html">Navigating Uncertainties in Machine Learning for Structural Dynamics: A Comprehensive Survey of Probabilistic and Non-Probabilistic Approaches in Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Wang-Ji Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08629">2408.08629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16675.html">Infinite Neural Operators: Gaussian processes on functions</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Daniel Augusto de Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16675">2510.16675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16958.html">Quantile Regression, Variational Autoencoders, and Diffusion Models for Uncertainty Quantification: A Spatial Analysis of Sub-seasonal Wind Speed Prediction</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Ganglin Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16958">2510.16958</a></td>
 </tr>
 </tbody></table>

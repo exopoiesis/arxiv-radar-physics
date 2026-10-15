@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,17 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18067.html">Multiscale Neural PDE Surrogates for Prediction and Downscaling: Application to Ocean Currents</a></div><div class="paper-tags"><a href="oceanography-360d.html">oceanography</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Abdessamad El-Kabid et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18067">2507.18067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16675.html">Infinite Neural Operators: Gaussian processes on functions</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Daniel Augusto de Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16675">2510.16675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16816.html">Efficient High-Accuracy PDEs Solver with the Linear Attention Neural Operator</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Ming Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16816">2510.16816</a></td>
 </tr>
 </tbody></table>

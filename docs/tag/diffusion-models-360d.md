@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">543 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3272,23 +3272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21791.html">Exploring the design space of diffusion and flow models for data fusion</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Niraj Chaudhari et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21791">2510.21791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16676.html">Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Anindya Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16676">2510.16676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16958.html">Quantile Regression, Variational Autoencoders, and Diffusion Models for Uncertainty Quantification: A Spatial Analysis of Sub-seasonal Wind Speed Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ganglin Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16958">2510.16958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17012.html">HelioFill: Diffusion-Based Model for EUV Reconstruction of the Solar Farside</a></div></td>
-<td>Firas Ben Ameur et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17012">2510.17012</a></td>
 </tr>
 </tbody></table>

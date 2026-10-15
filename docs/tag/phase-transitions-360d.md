@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18469.html">Uncovering critical temperature dependence in Heusler magnets via explicit machine learning</a></div></td>
 <td>Jean-Baptiste Morée et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18469">2510.18469</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16697.html">Efficient small-cell sampling for machine-learning potentials of multi-principal element alloys</a></div></td>
-<td>Yan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16697">2510.16697</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,29 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12395.html">A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Martin Campos Pinto et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12395">2610.12395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09299.html">Convergence of kernel and neural-network methods for Hamilton--Jacobi--Bellman equations on unbounded domains</a></div></td>
-<td>Yumiharu Nakano</td>
-<td><a href="http://arxiv.org/abs/2610.09299">2610.09299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10449.html">SAGE-PINN: A Singularity-free Axisymmetric Geometry-Encoded Physics-Informed Neural Network for Axisymmetric Multiphysics Flow in Cylindrical Coordinates</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Raj Maurya et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10449">2610.10449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10862.html">A mesh-based neural energy method for the simulation of heterogeneous composites</a></div></td>
-<td>Pius J. M. Wichmann et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10862">2610.10862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10897.html">Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Muhammad M. Akmal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10897">2610.10897</a></td>
 </tr>
 </tbody></table>

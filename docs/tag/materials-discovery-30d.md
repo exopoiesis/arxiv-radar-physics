@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div></td>
 <td>Sushant Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19550">2609.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div></td>
-<td>Kishalay Das</td>
-<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
 </tr>
 </tbody></table>

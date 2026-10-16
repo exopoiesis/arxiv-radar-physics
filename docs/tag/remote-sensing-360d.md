@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,96 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21502.html">ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing</a></div></td>
+<td>Hao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21502">2610.21502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21993.html">Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning</a></div></td>
+<td>Yuki Natsume et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21993">2610.21993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18323.html">Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing</a></div></td>
+<td>Pan Yin. Shuai Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18323">2610.18323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19270.html">Exploring Interpretability in Deep Learning-Based Forest Classification - Separating Similar Forest Classes using Sentinel-2 Time Series</a></div></td>
+<td>Maximilian Kirsch et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19270">2610.19270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13547.html">MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution</a></div></td>
+<td>Liuqian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13547">2610.13547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13857.html">Revisiting the Task of Building Damage Assessment by Satellite Imaging</a></div></td>
+<td>Anthony Cioppa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13857">2610.13857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11176.html">Multimodal Remote Sensing Image Registration: A Comprehensive Review, Challenges and Prospects</a></div></td>
+<td>Zhiqiang Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11176">2610.11176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09275.html">EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing</a></div></td>
+<td>Jie Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09275">2610.09275</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08227.html">How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data</a></div></td>
+<td>Robin Young</td>
+<td><a href="http://arxiv.org/abs/2610.08227">2610.08227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08539.html">RSJEV: Discriminative Remote Sensing Scene Classification with Multimodal Large Language Models</a></div></td>
+<td>Dongchen Si et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08539">2610.08539</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09085.html">Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend</a></div></td>
+<td>Satej S. Soman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09085">2610.09085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05731.html">T-JEPA: A Temporal Joint-Embedding Predictive Architecture for Learning Better Remote Sensing Representations</a></div></td>
+<td>Bowen Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05731">2610.05731</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05790.html">FairRSFM: A Biome-Aware Benchmark and Debiasing Framework for Remote Sensing Foundation Models</a></div></td>
+<td>Md Aminur Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05790">2610.05790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02763.html">A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Pann Thinzar Seint et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02763">2610.02763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04073.html">Why Convolution Still Matters: Evaluating Inductive Biases in Cryospheric Image Classification</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
+<td>Chhaya Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04073">2610.04073</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28230.html">A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing</a></div></td>
@@ -3002,29 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02422.html">Sampling Kantorovich operators for speckle noise reduction using a Down-Up scaling approach and gap filling in remote sensing images</a></div></td>
 <td>Danilo Costarelli et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02422">2505.02422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17881.html">Hyperspectral Anomaly Detection Fused Unified Nonconvex Tensor Ring Factors Regularization</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Wenjin Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17881">2505.17881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16068.html">Communications to Circulations: Real-Time 3D Wind Field Prediction Using 5G GNSS Signals and Deep Learning</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Yuchen Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16068">2509.16068</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17756.html">Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network</a></div></td>
-<td>Younghyun Koo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17756">2510.17756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21791.html">Exploring the design space of diffusion and flow models for data fusion</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Niraj Chaudhari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21791">2510.21791</a></td>
 </tr>
 </tbody></table>

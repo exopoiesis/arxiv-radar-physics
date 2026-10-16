@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inductive-bias — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <strong>30d</strong> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -52,27 +52,15 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.04067">2610.04067</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04073.html">Why Convolution Still Matters: Evaluating Inductive Biases in Cryospheric Image Classification</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Chhaya Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04073">2610.04073</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24666.html">Experimental evidence of generalization in quantum machine learning in small-data regime</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Leena Anthony et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24666">2609.24666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16468.html">GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning</a></div></td>
-<td>Shuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16468">2609.16468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17894.html">Graph neural networks for exoplanet atmospheres</a></div></td>
-<td>Antonia Vojtekova et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17894">2609.17894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22319.html">Embedding Physics Priors in Robot Learning: A Survey</a></div></td>
-<td>Mattia Piccinini et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22319">2609.22319</a></td>
 </tr>
 </tbody></table>

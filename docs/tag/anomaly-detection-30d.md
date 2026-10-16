@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02763.html">A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Pann Thinzar Seint et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02763">2610.02763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31157.html">Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection</a></div></td>
 <td>Jianan Liu et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18228.html">Anomaly Detection in General Ledger Data: Results from a Hybrid Approach</a></div></td>
 <td>Jan Gronewald et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18228">2609.18228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17491.html">FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection</a></div></td>
-<td>Xiaoxuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17491">2609.17491</a></td>
 </tr>
 </tbody></table>

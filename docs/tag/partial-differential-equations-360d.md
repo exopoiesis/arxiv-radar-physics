@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">775 papers</span>
+  <span class="paper-count">771 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4640,29 +4640,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18547.html">Hyperparameter Selection via Early Stopping for Bayesian Semilinear PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Maia Tienstra et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18547">2510.18547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08277.html">Enabling Automatic Differentiation with Mollified Graph Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ryan Y. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08277">2504.08277</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18067.html">Multiscale Neural PDE Surrogates for Prediction and Downscaling: Application to Ocean Currents</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="oceanography-360d.html">oceanography</a></div></td>
-<td>Abdessamad El-Kabid et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18067">2507.18067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17508.html">A Mixed-Form PINNS (MF-PINNS) For Solving The Coupled Stokes-Darcy Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Li Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17508">2510.17508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17920.html">CBINNS: Cancer Biology-Informed Neural Network for Unknown Parameter Estimation and Missing Physics Identification</a></div></td>
-<td>Bishal Chhetri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17920">2510.17920</a></td>
 </tr>
 </tbody></table>

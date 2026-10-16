@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">245 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04067.html">On architectural choices for interpretability and thermodynamic consistency in Physically Recurrent Neural Networks in the low-data regime</a></div></td>
 <td>M. A. Maia et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04067">2610.04067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04073.html">Why Convolution Still Matters: Evaluating Inductive Biases in Cryospheric Image Classification</a></div><div class="paper-tags"><a href="remote-sensing-all.html">remote-sensing</a></div></td>
+<td>Chhaya Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04073">2610.04073</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>

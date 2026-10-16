@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">286 papers</span>
+  <span class="paper-count">285 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02763.html">A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
+<td>Pann Thinzar Seint et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02763">2610.02763</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31157.html">Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection</a></div></td>
@@ -1718,17 +1724,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21837.html">Quantum Autoencoders for Anomaly Detection in Cybersecurity</a></div></td>
 <td>Rohan Senthil et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21837">2510.21837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17881.html">Hyperspectral Anomaly Detection Fused Unified Nonconvex Tensor Ring Factors Regularization</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Wenjin Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17881">2505.17881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17146.html">Physics-Informed Large Language Models for HVAC Anomaly Detection with Autonomous Rule Generation</a></div></td>
-<td>Subin Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17146">2510.17146</a></td>
 </tr>
 </tbody></table>

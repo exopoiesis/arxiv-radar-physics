@@ -5,9 +5,9 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-10-15._
+_Updated 2026-10-16._
 
-**20505** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**20566** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,16 +15,130 @@ _Updated 2026-10-15._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="tag/data-assimilation-30d.html">data-assimilation</a> · <a href="tag/inverse-problems-30d.html">inverse-problems</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21259.html">Energy Flow Shapes the Decomposition Dynamics of a Reactive Atmospheric Intermediate</a></div></td>
+<td>Mitradip Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21259">2610.21259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21482.html">AI-Driven Disaster Response and Displacement Monitoring</a></div><div class="paper-tags"><a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Noora Al-Emadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21482">2610.21482</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21502.html">ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Hao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21502">2610.21502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21993.html">Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Yuki Natsume et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21993">2610.21993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.22077.html">Can AI Forecast the Extremes? Evaluating Probabilistic Weather Models on Tropical Cyclones</a></div></td>
+<td>Nathan Chalumeau et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22077">2610.22077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19772.html">Unmasking Compensating Errors in Numerical Weather Models: A Process-Additive Neural Network Approach</a></div></td>
+<td>Yuiko Ichikawa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19772">2610.19772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19885.html">Generative modelling for multivariate spatio-temporal downscaling of monthly climate fields</a></div></td>
+<td>Yu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19885">2610.19885</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.20405.html">Improved Precipitation Variability in the Community Atmosphere Model through Implementation of a Neural-Network Deep Convection Scheme</a></div></td>
+<td>Xavier J. Levine et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20405">2610.20405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.20541.html">Revealing the Spatial Distribution of Dust and Plasma Solitary Waves in Jupiter&#x27;s Innermost Magnetosphere Using Juno Waves Observations</a></div></td>
+<td>Wenyu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20541">2610.20541</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.20918.html">Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models</a></div></td>
+<td>Mohammad Kian Golkar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20918">2610.20918</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.17693.html">Extreme events and statistics in an AI emulator of a global storm-resolving model</a></div></td>
+<td>Anna Kwa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17693">2610.17693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.18323.html">Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Pan Yin. Shuai Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18323">2610.18323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.18702.html">Establishing baseline model performances for optical turbulence forecasting</a></div></td>
+<td>M. De Sepibus et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18702">2610.18702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19217.html">Collaborative Neural Networks significantly Improve Global Aerosol Retrievals From Multi-Angle Polarimeters</a></div></td>
+<td>Guangliang Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19217">2610.19217</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19270.html">Exploring Interpretability in Deep Learning-Based Forest Classification - Separating Similar Forest Classes using Sentinel-2 Time Series</a></div><div class="paper-tags"><a href="tag/remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Maximilian Kirsch et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19270">2610.19270</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.16040.html">CLNO: Conservative Local Neural Operator for Compressible Flow Prediction</a></div></td>
 <td>Buxuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16040">2610.16040</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.16584.html">Identifying Arctic states vulnerable to rapid ice loss with a convolutional neural network</a></div></td>
+<td>Matthew Patterson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16584">2610.16584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.17502.html">Multi-Day Stochastic Dispatch for Power Systems With Long-Duration Storage Using Diffusion-Generated Weather Forecasts</a></div></td>
+<td>Leonard Göke</td>
+<td><a href="http://arxiv.org/abs/2610.17502">2610.17502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.15331.html">Full Waveform Inversion with a Learned Preconditioner</a></div></td>
 <td>Jeongjin Park</td>
 <td><a href="http://arxiv.org/abs/2610.15331">2610.15331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.15540.html">Sensitivity Fidelity Reveals Physical Dependencies Beyond Forecast Accuracy in Deep-Learning Earth-System Models</a></div></td>
+<td>Qi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15540">2610.15540</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-11</td>
@@ -58,140 +172,26 @@ _Updated 2026-10-15._
 </tr>
 <tr class="paper">
 <td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14493.html">A Gated Catchment Hydrology Model (GCHM) for Physically-Interpretable Rainfall-Evapotranspiration-Runoff Simulation Across Diverse Hydroclimatic Regimes</a></div><div class="paper-tags"><a href="tag/hydrology-30d.html">hydrology</a></div></td>
+<td>M Jawad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14493">2610.14493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14537.html">Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution</a></div></td>
 <td>Haohan Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14537">2610.14537</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14645.html">Learning native eddy-resolving ocean dynamics outperforms coarse emulation and downscaling</a></div></td>
+<td>Zilu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14645">2610.14645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14658.html">Learning Optimal Robust-Pathwise Control of Elliptic Equations with Random Coefficients</a></div></td>
 <td>Qi Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14658">2610.14658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14844.html">Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Christian Soize</td>
-<td><a href="http://arxiv.org/abs/2610.14844">2610.14844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Zixiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13006.html">TopoLIA: Topology-Inspired Latent Interaction Attention for Drug Discovery</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13006">2610.13006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13028.html">Low-Rank Kolmogorov-Arnold Generator Flows for Interpretable Operator Learning</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
-<td>Minjong Cheon</td>
-<td><a href="http://arxiv.org/abs/2610.13028">2610.13028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13234.html">Learning Schwarzschild Geodesic Motion with Lagrangian Neural Networks</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a> · <a href="tag/lagrangian-neural-networks-30d.html">lagrangian-neural-networks</a></div></td>
-<td>Sukru Caglar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13234">2610.13234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13258.html">Neural Surrogate Modeling of Ultrasonic Wave Propagation in Heterogeneous Media</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
-<td>Burla Nur Korkmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13258">2610.13258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13292.html">Recovering Irreducible Three-Body Interactions with Lagrangian Neural Networks</a></div><div class="paper-tags"><a href="tag/lagrangian-neural-networks-30d.html">lagrangian-neural-networks</a> · <a href="tag/symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Sena Kalabalik et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13292">2610.13292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13317.html">SBNO : Schrödinger Bridge Neural Operator for the Forward and Inverse Problems under Missing Information</a></div><div class="paper-tags"><a href="tag/surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Jaehyeon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13317">2610.13317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13334.html">PDE-PFN: Prior-Data Fitted Neural PDE Solver</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Jaehyeon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13334">2610.13334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13663.html">A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
-<td>Ivan Moloshnikov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13663">2610.13663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13690.html">Transformer-based In-Context Score Operator Learning for Diffusion Models</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
-<td>Wuzhe Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13690">2610.13690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.13754.html">Utilizing Neural Networks for Solving Functional Renormalization Group Flow Equations</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>J. Gurzó et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13754">2610.13754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14342.html">Continuous-Time Cloth Dynamics with Physics-Informed Neural ODEs</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Yingdong Ru et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14342">2610.14342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a> · <a href="tag/rans-30d.html">rans</a> · <a href="tag/turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
-<td>Sharath S. Girimaji</td>
-<td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11108.html">Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Weizheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11108">2610.11108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11120.html">Numerical Neural Operator: Connection Between Numerical Analysis and the Operator Learning and Building Discretized Neural Operators from Finite Element Methods</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
-<td>Zecheng Zhang</td>
-<td><a href="http://arxiv.org/abs/2610.11120">2610.11120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11709.html">Uniform Approximation for Operator Learning on Compact Sets</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
-<td>Rui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11709">2610.11709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11737.html">Uncovering and Fixing Collider Bias in Bayesian PINNs</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Michael Obermayr et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11737">2610.11737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11931.html">Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
-<td>Wenshuai Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11931">2610.11931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12325.html">Prior or Feedback? What an LLM Uses When Adapting Neural Operators</a></div></td>
-<td>Julian Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12325">2610.12325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12395.html">A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
-<td>Martin Campos Pinto et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12395">2610.12395</a></td>
 </tr>
 </tbody></table>

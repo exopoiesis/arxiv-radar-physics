@@ -22,6 +22,18 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.13690">2610.13690</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09859.html">Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a></div></td>
+<td>Matthieu Meignin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09859">2610.09859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03396.html">A Unified Framework for Bayesian Data Assimilation with Generative Models and Observation Interpolants</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
+<td>Nikolaj T. Mücke et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03396">2610.03396</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01502.html">Learned End-to-End Guidance Schedules for Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Aneesh Barthakur et al.</td>
@@ -3260,17 +3272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19022.html">MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models</a></div></td>
 <td>Aritra Bhowmik et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19022">2510.19022</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18060.html">BokehDiff: Neural Lens Blur with One-Step Diffusion</a></div></td>
-<td>Chengxuan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18060">2507.18060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21791.html">Exploring the design space of diffusion and flow models for data fusion</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Niraj Chaudhari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21791">2510.21791</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">598 papers</span>
+  <span class="paper-count">595 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3584,23 +3584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18565.html">LENNs: Locally Enhanced Neural Networks for High-Fidelity Modeling in Solid Mechanics</a></div></td>
 <td>Zhihong Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18565">2510.18565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08277.html">Enabling Automatic Differentiation with Mollified Graph Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Ryan Y. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08277">2504.08277</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17380.html">Optimizing Energy Management of Smart Grid using Reinforcement Learning aided by Surrogate models built using Physics-informed Neural Networks</a></div></td>
-<td>Julen Cestero et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17380">2510.17380</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17508.html">A Mixed-Form PINNS (MF-PINNS) For Solving The Coupled Stokes-Darcy Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Li Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17508">2510.17508</a></td>
 </tr>
 </tbody></table>

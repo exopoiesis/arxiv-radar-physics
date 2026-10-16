@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Abed Hammoud et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19191.html">Machine-Learning Exploration of Defect Topologies and Thermodynamic Stability in Graphene with Atomic Vacancies</a></div></td>
-<td>Marcos V. N. da Costa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19191">2609.19191</a></td>
 </tr>
 </tbody></table>

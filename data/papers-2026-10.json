@@ -1102,6 +1102,58 @@
   ],
   "updated": "2026-10-01"
  },
+ "2610.02511": {
+  "abstract": "Advancements in high-resolution numerical weather prediction (NWP) and data assimilation (DA) have shaped the developments in deep learning (DL) architectures emulating atmospheric dynamics. Emulators for weather forecasting exhibit forecast quality comparable to physics based models at forecast horizon scaling from few days to subseasonal time scales. The emulators are driven by hardware-accelerated matrix multiplication in autoregressive inferences, significantly reducing the computation time and resources required for NWP. Optimization of the matrix multiplication processes in GPU architectures provides opportunities to scale towards high-resolution domain, and offers implementation of out of the box solutions. Post-training quantization (PTQ) has been demonstrated across multiple DL architectures to accelerate and increase the number of computations in unit time while consuming less power, enabling applications on edge hardware. In this study, we investigate the effect of PTQ on pre-trained AI emulators for global-scale weather forecasting. We implement PTQ algorithms in Deep Learning Weather Prediction (DLWP) and FourCastNet (FCN) models as a proof of concept for geophysical fluid dynamics applications. We systematically investigate the effect of PTQ on emulator inferences over short-range forecast horizons. Evaluation of PTQ configurations using simulated quantization hints at qualitatively meaningful forecasts over short-time horizons. These results provide a first benchmark of PTQ for autoregressive weather emulators and a basis for quantization-based optimization of DL models for dynamical systems.",
+  "authors": [
+   "Ananyo Bhattacharya",
+   "Swastik Bhattacharya",
+   "Christiane Jablonowski"
+  ],
+  "categories": [
+   "cs.LG",
+   "astro-ph.EP"
+  ],
+  "comment": null,
+  "first_author": "Ananyo Bhattacharya",
+  "pdf_url": "http://arxiv.org/pdf/2610.02511",
+  "primary_category": "cs.LG",
+  "published": "2026-10-01",
+  "tags": [
+   "data-assimilation",
+   "dynamical-systems",
+   "weather-forecasting"
+  ],
+  "title": "Post-Training Quantization of Autoregressive Weather Models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.02763": {
+  "abstract": "Tropical forest monitoring is essential for global climate stability and biodiversity preservation. To address the urgent need for rapid, reliable detection of forest loss which is essential for timely intervention against illegal logging, supply chain transparency, land-use governance and carbon market standards, we introduce a two-stage statistics-encoder cascade for near-real-time anomaly detection using Sentinel-1 time series. Our system is designed to overcome two fundamental challenges in remote sensing: the cloud-cover limitations that restrict optical monitoring and seasonal backscatter variation that causes SAR systems to mistake natural moisture changes for forest loss. The architecture integrates two distinct analytical engines to ensure high-fidelity detection: (1) an adaptive, robust-statistics z-score test on co-registered Sentinel-1 VH backscatter, same-season historical baseline and (2) a learned confirmation gate based on the latent-space structural similarity (SSIM) of a convolutional autoencoder trained on stable-forest patches. A candidate disturbance is confirmed as an alert only when both stages agree, and is assigned a confidence score and a Low/Medium/High risk tier from its repeat-occurrence history. The system produces per-alert auditable confidence scores and area-in-hectares estimates directly compatible with Monitoring, Reporting and Verification (MRV) workflows, sustainable forestry management, operational field checks and environmental risk assessments. Beyond its primary application, the model's flexibility allows for critical environmental applications ranging from selective logging to large-scale agricultural encroachment mapping, flood mapping and so on.",
+  "authors": [
+   "Pann Thinzar Seint",
+   "Subas Chhatkuli",
+   "Bryan Atwood"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Pann Thinzar Seint",
+  "pdf_url": "http://arxiv.org/pdf/2610.02763",
+  "primary_category": "cs.LG",
+  "published": "2026-10-02",
+  "tags": [
+   "anomaly-detection",
+   "remote-sensing"
+  ],
+  "title": "A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
  "2610.02954": {
   "abstract": "Biologically-informed neural networks (BINNs) have emerged as a flexible subclass of physics-informed neural networks (PINNs) for learning terms in partial differential equations from data. BINNs are particularly suited for biological systems, where the governing equations are highly nonlinear and only partially known a priori, and where data observations are often sparse, noisy, and incomplete. However, applying BINNs effectively in practice depends critically on hyperparameter selection, which remains a central challenge in equation-learning frameworks. Hyperparameters are often chosen heuristically and only cursorily documented, which limits the reproducibility of results and the transferability of methods. We present a diagnostic workflow for hyperparameter selection that can be used when the ground-truth equations are not known. The workflow is guided by three main questions: (1) Are the benefits of greater network capacity worth the cost? (2) Do more training epochs keep reducing the validation loss? (3) Do the learned terms stop changing as network capacity and training increase? We apply our workflow to synthetic systems of varying complexity with known ground truth, spanning diffusion and growth right-hand side terms and data ranging from 1D+t to 2D+t. We demonstrate that the validation loss generally follows the true error in the learned terms and distil practical rules of thumb for selecting hyperparameters in the BINN architecture. By providing a structured workflow, practical guidelines, and suggested starting values for hyperparameter selection, this work lowers the barrier to BINN-based equation learning.",
   "authors": [
@@ -1129,6 +1181,29 @@
   ],
   "updated": "2026-10-02"
  },
+ "2610.03106": {
+  "abstract": "The subseasonal-to-seasonal (S2S) timescale, roughly from two weeks to two months ahead, is a critical forecast window for sectors such as agriculture, energy, and water management. Yet, it is widely known as the `predictability desert'. Recent AI weather models excel up to two weeks ahead but deteriorate beyond, largely because they are trained to predict fine-scale details that are neither predictable nor essential at S2S timescales. We argue that a more physically grounded objective is to forecast only the slowly varying components that remain predictable. Computer vision reached the same conclusion with the Joint-Embedding Predictive Architecture (JEPA), which predicts in latent space, discarding unpredictable details. In this work, we introduce S2S-JEPA, which brings the JEPA paradigm to S2S forecasting. It is tailored to this task through design elements from state-of-the-art AI weather models. S2S-JEPA achieves comparable skill to the gold-standard ECMWF physics-based ensemble and surpasses it on multiple metrics at weeks 5 to 6.",
+  "authors": [
+   "Chenyu Dong",
+   "Gianmarco Mengaldo"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Chenyu Dong",
+  "pdf_url": "http://arxiv.org/pdf/2610.03106",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-02",
+  "tags": [],
+  "title": "S2S-JEPA: Predicting the Predictable at Subseasonal-to-Seasonal Timescales",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
  "2610.03156": {
   "abstract": "Magneto-active elastomers, as a class of smart materials, exhibit strongly coupled magnetic and mechanical behavior at finite strains. Considering variations in microstructure, material properties, and geometry can lead to computationally expensive analyses. Building on the finite operator learning (FOL) framework, this study develops a data-free, physics-informed operator-learning framework for families of coupled finite-strain magneto-mechanical boundary-value problems. The governing magnetostatic and mechanical equations are enforced through finite-element weak-form residuals, allowing the neural operators to be trained without labeled finite-element solution data. The main contribution of this study is the development of a weak-form staggered neural operator (WSNO) framework for strongly coupled magneto-mechanical saddle-point problems. Separate magnetic and mechanical neural operators are trained alternately using a staggered optimization strategy, while their physical coupling is retained through the constitutive relations and residual evaluations. The resulting framework learns mappings from parameterized material and geometric descriptions to the corresponding coupled magnetic and mechanical solution fields. The proposed framework is investigated across several settings, including heterogeneous random-inclusion microstructures, varying magnetic phase contrast, area-fraction-dependent geometries, strongly out-of-distribution material morphologies, and three-dimensional geometry-parametric problems. In addition, the learned operator is combined with a neural-initialized Newton strategy, in which the nonlinear finite-element solver is initialized using the neural prediction. The results demonstrate that the proposed operator-learning framework can accurately capture coupled magneto-mechanical responses across a broad range of parametric problem settings.",
   "authors": [
@@ -1153,6 +1228,33 @@
   "title": "Data-Free Weak-Form Staggered Neural Operators for Magneto-Mechanical Coupling in Finite-Strain Elastomers",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03172": {
+  "abstract": "AI weather forecasting models are commonly trained on the ERA5 reanalysis, which is unavailable in real time. Operational deployment therefore relies on initial conditions produced by numerical or AI analysis systems that differ from those encountered during training. This mismatch can degrade forecast skill, while retraining for every analysis system is costly. Here, we present Domain-Adaptive Data Assimilation (DADA), an observation-guided framework that adapts external analyses to pretrained AI weather models. Starting from a background state, DADA optimizes only an initial-state perturbation while keeping the forecast model frozen. The perturbed state is propagated through the model, and its short-range trajectory is constrained by real-world observations through a learned observation operator. The resulting initial condition is shaped jointly by observational constraints and the dynamics learned by the target model. We evaluate DADA across five global AI weather models using backgrounds from the Global Forecast System and the AI-based HealDA. Across deterministic and probabilistic forecasts, DADA substantially reduces short-range skill loss caused by changes in the initial-condition source. More broadly, DADA turns observations into a common interface between independently developed analysis and forecasting systems, enabling pretrained AI weather models to accommodate evolving operational initial conditions without reconstructing ERA5 or retraining the forecast model.",
+  "authors": [
+   "Minseok Seo",
+   "Noah Brenowitz",
+   "Doyi Kim",
+   "Hyesook Lee",
+   "Changick Kim"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "27 pages, [This project is open source.]",
+  "first_author": "Minseok Seo",
+  "pdf_url": "http://arxiv.org/pdf/2610.03172",
+  "primary_category": "cs.CE",
+  "published": "2026-10-02",
+  "tags": [
+   "data-assimilation",
+   "weather-forecasting"
+  ],
+  "title": "Domain-Adaptive Data Assimilation for Global AI Weather Forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-02"
  },
@@ -1210,6 +1312,61 @@
   ],
   "updated": "2026-10-02"
  },
+ "2610.03313": {
+  "abstract": "Existing machine learning weather forecasting models typically generate forecasts through autoregressive rollouts at a fixed temporal resolution. While highly efficient for long-range prediction, this formulation can suffer from severe error accumulation when used with shorter time steps and does not explicitly encode the locality and temporal continuity of atmospheric dynamics. To address these limitations, we introduce **SDECast**, a Neural Stochastic Differential Equation (SDE) framework for continuous-time probabilistic weather forecasting. SDECast extends SDE Matching to learn stochastic dynamics directly in physical space, without requiring repeated SDE simulation during training. On a simulated geophysical flow, we show that SDECast recovers meaningful drift dynamics and faithfully reproduces the underlying continuous-time behavior. We then demonstrate its scalability to global weather forecasting at hourly resolution, where SDECast produces skillful probabilistic forecasts for lead times of up to five days.",
+  "authors": [
+   "Maria Marchenko",
+   "Martin Andrae",
+   "Fredrik Lindsten",
+   "Christian A. Naesseth"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "Accepted to *AI for Stochastic Dynamics* & *Sim2Science* workshops at NeurIPS 2026",
+  "first_author": "Maria Marchenko",
+  "pdf_url": "http://arxiv.org/pdf/2610.03313",
+  "primary_category": "stat.ML",
+  "published": "2026-10-02",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "SDECast: Probabilistic Weather Forecasting in Continuous Time with Neural SDEs",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03314": {
+  "abstract": "Flow- and diffusion-based generative models have recently emerged as flexible and highly efficient forecasting models for dynamical systems. When combined with inference-time guidance, they offer a promising route to high-dimensional non-Gaussian data assimilation (DA), the problem of combining forecasts with observations to estimate latent system states. Existing filters, however, condition on a fixed history and assimilate only the most recent observation, leaving them unable to revise past states when new observations arrive. Estimates then stay tethered to a history that later observations may contradict, and errors accumulate over the assimilation run. To this end, we introduce **DAWIS**, a unified DA method covering filtering, fixed-lag smoothing, and block smoothing within a single framework. DAWIS replaces the single flow time of a state-level prior with a multitask stochastic interpolant over a window of consecutive states, assigning a separate flow time to each. An assimilation cycle inverts the window to a vector of per-state turning points and regenerates it under observation guidance, with the turning points controlling how strongly each state is held fixed, revised, or generated from scratch. The same construction can also absorb the forecast into the assimilation cycle, removing the need for a separate forecasting model. Experiments on challenging nonlinear systems show that DAWIS improves on both filtering and smoothing baselines under sparse, noisy, and nonlinear observations. The code for DAWIS is available at https://github.com/Erik-Wikingsson/DAWIS",
+  "authors": [
+   "Erik Wikingsson",
+   "Martin Andrae",
+   "Tomas Landelius",
+   "Fredrik Lindsten"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Erik Wikingsson",
+  "pdf_url": "http://arxiv.org/pdf/2610.03314",
+  "primary_category": "stat.ML",
+  "published": "2026-10-02",
+  "tags": [
+   "data-assimilation",
+   "dynamical-systems"
+  ],
+  "title": "DAWIS: Data Assimilation with Windowed Inverse Sampling via Multitask Interpolants",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
  "2610.03378": {
   "abstract": "Physics-Informed Neural Networks (PINNs) typically exhibit spectral bias, where some frequencies of the target function converge more slowly than others. In this work, we analyze the training dynamics of Fourier Feature PINNs in the Neural Tangent Kernel regime to address this limitation. We derive an explicit evolution equation to estimate the residual error in the frequency domain, demonstrating that the convergence rate of specific frequencies is primarily governed by the product of the differential operator's symbol and the spectral density of the initialization weights. Leveraging this theoretical insight, we propose an informative initialization strategy that tailors the initial weight distribution to the specific PDE being solved. With this method, we can diminish the operator-induced spectral bias, balancing the convergence rates across the frequency spectrum and achieving better prediction accuracy. Numerical experiments on linear and nonlinear partial differential equations confirm that this initialization strategy improves learning dynamics and approximation accuracy across frequencies compared to standard initialization methods, with no additional training cost.",
   "authors": [
@@ -1235,6 +1392,31 @@
   "title": "Operator-informed initialization for Fourier features physics-informed neural networks",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03396": {
+  "abstract": "Bayesian data assimilation combines model forecasts with noisy observations, but sampling high-dimensional, non-Gaussian posteriors remains challenging. We introduce an observation-interpolant framework that turns pretrained stochastic interpolant, flow matching, and diffusion models into posterior samplers without retraining. Conditioning the interpolant path on observations yields a shared likelihood-score correction to the drift or velocity, unifying stochastic and deterministic posterior sampling. The resulting SDEs and ODEs sample the exact posterior when the intermediate likelihood score is known. For practical computation, we approximate this score using a closed-form Gaussian surrogate with a bias-corrected mean and covariance inflated by the model's source covariance. Jacobian-free and ensemble-shared approximations make the method tractable in high dimensions. We evaluate the framework on linear-Gaussian dynamics, stochastic two-dimensional Navier-Stokes, and urban airflow with up to $O(10^4)$ degrees of freedom.",
+  "authors": [
+   "Nikolaj T. Mücke",
+   "Benjamin Sanderse"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Nikolaj T. Mücke",
+  "pdf_url": "http://arxiv.org/pdf/2610.03396",
+  "primary_category": "cs.LG",
+  "published": "2026-10-02",
+  "tags": [
+   "data-assimilation",
+   "diffusion-models"
+  ],
+  "title": "A Unified Framework for Bayesian Data Assimilation with Generative Models and Observation Interpolants",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-02"
  },
@@ -1309,6 +1491,33 @@
   ],
   "updated": "2026-10-02"
  },
+ "2610.04034": {
+  "abstract": "Data assimilation combines model forecasts with noisy, incomplete observations to estimate the evolving state of a dynamical system. Existing methods face two compounding challenges: high-dimensional nonlinear dynamics make repeated forward simulation computationally expensive, while sparse observations provide limited direct information about the full state. To address these challenges, we propose the Latent-Dynamics Ensemble Flow Filter (LD-EnFF), a sequential Bayesian filtering framework that performs both forecast propagation and filtering updates in a compact latent space. LD-EnFF combines a latent dynamics surrogate for ensemble propagation with a variational autoencoder (VAE)-based observation model that evaluates a state-dependent observation likelihood in latent space. At each assimilation step, an ensemble filtering update based on flow matching uses the forecast ensemble and this likelihood to generate posterior samples, jointly updating latent states and uncertain parameters. This design avoids repeated full-state simulation during forecasting and full-field reconstruction during likelihood evaluation. LD-EnFF substantially outperforms a broad range of data assimilation algorithms on benchmarks spanning Kolmogorov flow, tsunami propagation, and atmospheric modeling, all featuring complex dynamics and sparse, noisy observations.",
+  "authors": [
+   "Ziyu Tian",
+   "Kaichen Shen",
+   "Wenbo Hao",
+   "Phillip Si",
+   "Peng Chen",
+   "Wei Zhu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Submitted to ICLR 2027",
+  "first_author": "Ziyu Tian",
+  "pdf_url": "http://arxiv.org/pdf/2610.04034",
+  "primary_category": "cs.LG",
+  "published": "2026-10-02",
+  "tags": [
+   "data-assimilation"
+  ],
+  "title": "LD-EnFF: Latent-Dynamics Ensemble Flow Filtering for Data Assimilation with Sparse Observations",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
  "2610.04067": {
   "abstract": "In this paper, we unravel the effect of different decoder architectures on the interpretability of the latent space of the Physically Recurrent Neural Network. Particular emphasis is given to a new weight normalization constraint, which acts as a regularization technique and enables robust training in the low-data regime. A brief visual exploration illustrates how these changes impact the latent space and how the fictitious stress can align with the true state of the RVE without explicit training. Reaping the benefits of a meaningful latent space, a case study illustrates how information from the microscopic level can be retrieved and incorporated into a multi-task approach that does not require extra parameters or larger training sets. Another key contribution shows that a specific architectural choice can naturally lead to a thermodynamically consistent formulation. By enforcing an adjoint encoder-decoder structure with positive scalar contributions, this modification ensures energy consistency across scales and non-negative dissipation, leading to even lower training requirements. This alternative completes the study on interpretability, inductive bias, and thermodynamic consistency, and demonstrates that data efficiency can be improved with careful architectural choices rooted in the underlying physics.",
   "authors": [
@@ -1333,6 +1542,58 @@
   "title": "On architectural choices for interpretability and thermodynamic consistency in Physically Recurrent Neural Networks in the low-data regime",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.04073": {
+  "abstract": "Recent advances in attention-based deep learning have motivated their adoption for remote sensing image classification; however, their benefits for cryospheric imagery, where surface states are dominated by fine-grained textures and class imbalance, remain unclear. In this work, we revisit a benchmark Greenland Ice Sheet image dataset, previously shown to favor convolutional neural networks (CNNs), to examine whether modern attention-based and hybrid architectures improve class-wise reliability. We conduct a controlled comparison between a classical CNN (AlexNet), a modern CNN (ConvNeXt-Tiny), a pure attention-based model (Swin-Tiny), and a hybrid convolution-attention model (CoAtNet-0) under identical training and evaluation protocols. Results show that AlexNet achieves the highest accuracy and the strongest balanced performance as measured by macro-averaged F1, while ConvNeXt-Tiny exhibits the highest macro-averaged AUC, indicating strong class separability but less consistent final decision quality. Class-wise analysis reveals that hybrid architectures improve recall for rare and structurally distinct surface classes, whereas convolutional models remain more reliable for texture-dominated categories. These findings highlight the importance of aligning architectural inductive bias with cryospheric data characteristics and suggest that increased model complexity does not necessarily translate to improved reliability for ice-sheet surface classification.",
+  "authors": [
+   "Chhaya Kulkarni",
+   "Emam Hossain"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "Accepted at IEEE IGARSS 2026, 5 pages, 3 figures",
+  "first_author": "Chhaya Kulkarni",
+  "pdf_url": "http://arxiv.org/pdf/2610.04073",
+  "primary_category": "cs.CV",
+  "published": "2026-10-02",
+  "tags": [
+   "inductive-bias",
+   "remote-sensing"
+  ],
+  "title": "Why Convolution Still Matters: Evaluating Inductive Biases in Cryospheric Image Classification",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.04081": {
+  "abstract": "General circulation models (GCMs) are the primary tool for simulating planetary atmospheres. They play a vital role in understanding Mars's atmosphere, as forecasting its unique weather is mission-critical for operations such as entry, descent, and landing. Mars poses unusual challenges for these models, as observations are sparse compared to Earth. In addition, a thin \\co{} atmosphere alongside a radiatively active dust cycle creates a volatile atmosphere with large diurnal temperature swings and no true terrestrial analog for validation. Existing Mars GCMs, including the LMD PCM, the NASA Ames Mars GCM, and PlanetWRF, are mature and physically detailed but are implemented in legacy Fortran with finite-difference or finite-volume solvers, and they do not expose gradients for calibration or machine learning. Here we present AEGIS, a modular differentiable Mars climate model that couples Mars's unique atmospheric physics to the Dinosaur dynamical core, with interfaces for neural closures. We showcase stable ten-Mars-year simulations that reproduce the seasonal \\co{} cycle while conserving the total \\co{} inventory, capture realistic large-scale surface-temperature structure, and produce surface pressure that follows Mars Orbiter Laser Altimeter (MOLA) topography. Gradients through coupled trajectories agree with finite differences and support physical calibration and neural training. We compare with conventional GCMs, highlighting the framework's computational efficiency and differentiability.",
+  "authors": [
+   "Sameera S Kashyap",
+   "Victor Cruz",
+   "Angel Yepez",
+   "Razvan Marinescu"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.IM",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sameera S Kashyap",
+  "pdf_url": "http://arxiv.org/pdf/2610.04081",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-10-02",
+  "tags": [
+   "atmospheric-physics"
+  ],
+  "title": "AEGIS: Differentiable Mars Climate Model with Neural Closures",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-02"
  },
@@ -1446,6 +1707,34 @@
   ],
   "updated": "2026-10-03"
  },
+ "2610.04338": {
+  "abstract": "Machine learning-based weather prediction (MLWP) has achieved strong performance in global weather forecasting. Recent Hierarchical Equal Area isoLatitude Pixelation (HEALPix)-based methods use the HEALPix (HP) grid to avoid area distortion near the poles of conventional latitude-longitude (LL) grids. However, existing HP-based approaches often use pointwise mapping methods and process HP pixels within separate base faces or local windows. Consequently, the mapping may introduce reconstruction errors and cross-face communication depends on handcrafted boundary handling or shifted windows. We propose the Spherical Spiral Scanning Network (S$^3$N) to address both limitations. First, L2Proj provides a bidirectional method for mapping atmospheric fields between the LL and HP grids through an $L^2$ projection of their continuous finite-element representations. Second, the Attention-Guided Quad-Spiral State-Space Scanning (AQSS) block uses cross-latitude attention to guide selective state-space updates along four global pole-to-pole spiral paths. This design enables continuous information propagation across HP base-face boundaries without additional boundary-processing mechanisms. Experiments show that S$^3$N achieves better results at 4-, 7-, and 10-day lead times, and exhibits slower error growth in long-range forecasting.",
+  "authors": [
+   "Fan Yan",
+   "Chen Hui",
+   "Weisi Lin",
+   "Haiqi Zhu",
+   "Feng Jiang",
+   "Sun-Yuan Kung",
+   "Wei Zhang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Fan Yan",
+  "pdf_url": "http://arxiv.org/pdf/2610.04338",
+  "primary_category": "cs.LG",
+  "published": "2026-10-03",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "S$^3$N: A Spherical Spiral Scanning Network for Weather Forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-03"
+ },
  "2610.04357": {
   "abstract": "We give checkable positive-definiteness criteria for the limiting neural tangent kernel (NTK) and high-probability finite-width gradient-descent guarantees for scalar- or vector-valued physics-informed neural networks (PINNs) with linear constraints. The constraints may be strong-form differential rows of any fixed finite order, including coupled systems, with any linear initial or boundary conditions; weak-form residual and boundary functionals; or finite-measure nonlocal observations such as integral, nonlocal-diffusion, and Dirac-data rows, all in any dimension. For each class, positive definiteness of the limiting NTK is equivalent to a rank condition on a finite coefficient, functional, or moment matrix of the fixed design: a certificate computed before training that detects structural zero modes. The model hypotheses are those of an ordinary two-layer PINN, a smooth nonpolynomial activation with bounded symmetric initialization, and are met by standard choices such as $\\tanh$ with uniform initialization. Given a certificate, explicit width and step-size conditions ensure, with high probability, that the empirical NTK retains at least half the limiting gap and that full-batch gradient descent decreases the training loss geometrically at every iteration. Controlled experiments check the certificates and the finite-width mechanism.",
   "authors": [
@@ -1520,6 +1809,61 @@
   "title": "COSMOS: Soft Mechanism Mixtures with Verifiable Routing for Long-Horizon PDE Forecasting",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-03"
+ },
+ "2610.04558": {
+  "abstract": "We present ClimateBench v2, a standardized protocol for evaluating climate models on diagnostics expected to be informative for their skill in projecting mid-century regional temperature and precipitation changes. The protocol is designed to evaluate any physics-based, data-driven, or hybrid climate model on equal footing using a common set of observational and out-of-distribution tests. We define three tiers of evaluation. Tier I establishes physical credibility through entry-ticket tests of energy conservation, coupled (co-)variability, and basic forced responses. Tier II scores models against post-2015 observations of surface temperature, precipitation, radiative fluxes, sea ice, and key modes of variability using fair CRPS as the primary probabilistic score, complemented by distributional and ensemble-consistency diagnostics. Tier III tests out-of-distribution generalization through paleoclimate simulations spanning the Last Interglacial, Last Glacial Maximum, and Mid-Holocene, and through perfect-model experiments in which data-driven models must predict the future climate of existing Earth system models from historical data alone. We reserve all observational data after 2015 for testing, and submissions must include multiple ensemble members to enable probabilistic evaluation. This reservation exploits a new opportunity provided by the decade of observations accumulated since the end of the CMIP6 historical experiment, which constitutes an out-of-sample record of forced climate change (and internal variability) for the current generation of models, and we quantify, in an idealized setting, the information it carries about mid-century warming. We provide the evaluation code, observational reference datasets, and perfect-model training data as an open benchmark to drive measurable progress in climate projection across all modeling approaches.",
+  "authors": [
+   "Duncan Watson-Parris",
+   "Willa Tobin",
+   "Aytaç Paçal",
+   "Manuel Schlund",
+   "V. Balaji",
+   "Kevin Bowman",
+   "Chris Bretherton",
+   "Peter M. Caldwell",
+   "Will Chapman",
+   "William D. Collins",
+   "Gregory S. Elsaesser",
+   "Pierre Gentine",
+   "Helene Hewitt",
+   "Stephan Hoyer",
+   "Ralph Keeling",
+   "Nikolay Koldunov",
+   "David M. Lawrence",
+   "Christian Lessig",
+   "Daniel J. Lunt",
+   "J. David Neelin",
+   "Mike Pritchard",
+   "Sarah Purkey",
+   "Gavin Schmidt",
+   "Tapio Schneider",
+   "Michael Schulz",
+   "Tiffany Shaw",
+   "Isla R. Simpson",
+   "Graeme Stephens",
+   "Aneesh C. Subramanian",
+   "Joao Teixeira",
+   "Jessica Tierney",
+   "Andrew I. L. Williams",
+   "Laure Zanna",
+   "Veronika Eyring",
+   "Rose Yu"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Duncan Watson-Parris",
+  "pdf_url": "http://arxiv.org/pdf/2610.04558",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-03",
+  "tags": [],
+  "title": "ClimateBench v2.0: Probabilistic Climate Model Benchmarking",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-03"
  },
@@ -1769,6 +2113,34 @@
   ],
   "updated": "2026-10-04"
  },
+ "2610.05296": {
+  "abstract": "Most deep learning weather models assign a fixed set of variables and pressure levels to predefined channels, limiting transfer across atmospheric field configurations. This dependence on a fixed field set limits the transferability of trained models across atmospheric field configurations. We propose FlexCast, a field-adaptive weather forecasting model that uses a single set of parameters to produce identity-aligned forecasts for variable-cardinality subsets drawn from a 69-field ERA5 registry. Specifically, a metadata-conditioned adapter the first encodes variable identity, pressure level, and field type and combines them with spatial features. Then, shared rank-16 projec?tions are modulated by metadata-dependent gates to produce field?specific features, while masked set fusion aggregates the available fields into a fixed-width representation. Subsequently, a multiscale U-Transformer processes the fused atmospheric features, while an identity-aware query decoder produces forecasts for the requested fields. Finally, FlexCast learns a standardized six-hour increment and applies it recursively to generate forecasts at longer lead times. Experiments on the 2020 ERA5 test set demonstrate that FlexCast operates across varying field configurations. Compatible cross-field context is associated with lower forecast errors, whereas mismatched context increases them.",
+  "authors": [
+   "Yuang Zhang",
+   "Chen Hui",
+   "Weisi Lin",
+   "Haiqi Zhu",
+   "Xiulai Wang",
+   "Sun-Yuan Kung",
+   "Feng Jiang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "5 pages, 2 figures, 4 tables",
+  "first_author": "Yuang Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.05296",
+  "primary_category": "cs.LG",
+  "published": "2026-10-04",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "FlexCast: Adaptive Weather Forecasting from Arbitrary Field Sets",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-04"
+ },
  "2610.05337": {
   "abstract": "We identify a mismatch between the physical role of transport fields in many PDEs and their usual role in neural operators: PDEs use them to select read coordinates, whereas neural operators typically treat them only as input values. We address this mismatch with the Green-Routed Neural Operator (GRNO), which uses the governing equation to determine where latent features are sampled. A parameter-free equation adapter evaluates the diagnostic relation and constructs a departure map whose values are the read coordinates. A multiscale encoder-decoder combines centered and routed reads of latent features to learn the complete finite-time update. Across five two- and three-dimensional PDE systems, GRNO achieves the lowest mean final relative $L^2$ error on four under 40-step autoregressive evaluation and remains competitive on Keller-Segel. Fixed-weight route interventions reveal strong dependence on direction and spatial alignment in four systems, with weak dependence in Keller-Segel. In independently trained ablations, GRNO achieves lower mean errors than variants that supply the transport field only as an input feature, substitute a learned displacement for the equation-specified route, or apply the route with a spatial misalignment, across all five systems. It also substantially outperforms directly advecting the physical state and learning the remaining update, indicating that equation-specified read coordinates provide an effective structural prior for long-horizon PDE forecasting.",
   "authors": [
@@ -1871,6 +2243,59 @@
   ],
   "updated": "2026-10-05"
  },
+ "2610.05731": {
+  "abstract": "Earth observation (EO) data provide rich temporal supervision, yet existing remote sensing foundation models mainly exploit sequential observations through imposing predefined pairwise relations or aggregating holistic reconstruction context. We seek to further exploit the sparse and nonuniform temporal sampling inherent in EO sequences as supervisory signals. To this end, we propose T-JEPA, a temporal joint-embedding predictive architecture that learns time-gap-conditioned latent transitions. A shared single-frame encoder processes each observation, while a temporal predictor estimates the complete target latent field from a masked source latent representation and the actual elapsed time. Across multiple temporal intervals, these predictive constraints organize observed states into structured latent trajectories. Asymmetric metadata injection mitigates shortcut learning, and direct supervision across multiple temporal scales proves more effective than recursively rolling out intermediate states. In parallel, masked pixel reconstruction provides complementary supervision for preserving spatial details. Under matched pre-training data and throughput, T-JEPA achieves leading transfer performance on both static and temporal tasks. Analyses further reveal that T-JEPA learns representations with time-gap-dependent transition predictability and coherent latent dynamics, while maintaining strong cross-period consistency, representation diversity, and semantic discriminability.",
+  "authors": [
+   "Bowen Peng",
+   "Li Liu",
+   "Yongxiang Liu",
+   "Weijie Li",
+   "Jie Zhou",
+   "Zhen Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Bowen Peng",
+  "pdf_url": "http://arxiv.org/pdf/2610.05731",
+  "primary_category": "cs.CV",
+  "published": "2026-10-05",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "T-JEPA: A Temporal Joint-Embedding Predictive Architecture for Learning Better Remote Sensing Representations",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.05790": {
+  "abstract": "Remote sensing foundation models (RSFMs) are commonly evaluated using aggregate metrics, which can hide systematic performance disparities across ecological regions. We introduce FairRSFM, a biome-aware benchmark for evaluating ecological group robustness in RSFMs. FairRSFM maps georeferenced samples from 14 terrestrial biome classes into six ecologically meaningful macro-groups and evaluates models under a unified frozen-backbone evaluation protocol. The benchmark covers four downstream datasets: m-EuroSAT, m-BigEarthNet, m-SA-Crop-Type, and MMEarth20K with Dynamic World label maps. Using Prithvi-EO-2.0, SatMAE, and DOFA across three random seeds, we show that aggregate performance consistently masks biome-dependent disparities across architectures and tasks. For example, Prithvi-EO-2.0 reaches 90.98% overall macro-F1 on m-EuroSAT but a mean worst-group score of only 83.72%, while m-SA-Crop-Type drops from 27.30% overall mIoU to 18.47% in the Xeric and Mineralogical group. We further evaluate Biome-Orthogonal Linear Probing (BOLP), Dynamic Biome Reweighting (DBR), and GroupDRO as complementary mitigation baselines. Their effectiveness is model- and task-dependent; for example, BOLP improves Prithvi-EO-2.0 worst-group F1@opt on m-BigEarthNet from 46.12% to 50.27% without updating the RSFM backbone. FairRSFM provides a reusable protocol for diagnosing and mitigating ecological robustness gaps in remote sensing foundation models. Code and datasets are available at: https://github.com/aminurhossain/FairRSFM.",
+  "authors": [
+   "Md Aminur Hossain",
+   "Omkumar Vaghasiya",
+   "Rajeev Ranjan Dwivedi",
+   "Vinod Kurmi",
+   "Biplab Banerjee"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "13",
+  "first_author": "Md Aminur Hossain",
+  "pdf_url": "http://arxiv.org/pdf/2610.05790",
+  "primary_category": "cs.CV",
+  "published": "2026-10-05",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "FairRSFM: A Biome-Aware Benchmark and Debiasing Framework for Remote Sensing Foundation Models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-05"
+ },
  "2610.06230": {
   "abstract": "A multi-domain eXtended Physics-Informed Neural Network (XPINN) framework is developed for nonsmooth Delay Differential Equations (DDEs). This is the first implementation to demonstrate the efficacy of partitioning the temporal domain into subdomains of integer multiples of the characteristic time delay and progressively training the associated subnetworks while freezing previously learned parameters. The efficacy of the proposed framework is demonstrated using a machining dynamics model that incorporates both regenerative and nonsmooth frictional effects. Results demonstrate that the proposed multi-domain XPINN framework leads to better solution reconstruction in DDEs and improved parameter estimation compared to a generic PINN (SPINN) formulation. The proposed method works particularly well for extended temporal domains and non-constant history functions. The robustness of inverse XPINN (I-XPINN) is also assessed using reference data contaminated with Gaussian measurement noise. Results indicate that I-XPINN remains resilient to measurement noise and the physics-informed constraints guide the network toward accurately recovering the underlying dynamics. This demonstrates, for the first time, the potential of the proposed framework for reliable parameter identification in DDEs characterised by nonsmoothness and large time delays.",
   "authors": [
@@ -1919,6 +2344,34 @@
   ],
   "updated": "2026-10-05"
  },
+ "2610.06509": {
+  "abstract": "Deep learning has revolutionised weather forecasting in recent years, especially through atmospheric foundation models, which offer competitive skill for a fraction of the computational costs of classic physics-based models. However, most existing foundation models are deterministic, limiting the generation of large ensembles for accurate uncertainty quantification, extreme weather risk assessment, and long-range weather forecasting. Furthermore, these models incur a large, often prohibitive, computational overhead to train from scratch. To address these shortcomings, we turn a pretrained deterministic prior model, namely the Aurora foundation model, into a generative ensemble-prediction model. To that end, we introduce a novel generative method, Denoising Stochastic Interpolants, combined with a replay buffer for Stochastic Differential Equation (SDE) rollout, enabling probabilistic training of SDE trajectories. Our stochastic foundation model, Xaurora, is finetuned from the small Aurora version, yet it approaches the state-of-the-art on global ensemble metrics and is competitive with the large version of Aurora. Our method is parameter and sample efficient, and generates skilful 15-day forecasts in 13 minutes. Our results demonstrate that deterministic foundation models can be efficiently extended into even stronger stochastic models.",
+  "authors": [
+   "Eliot Walt",
+   "Miltiadis Kofinas",
+   "Nikolaj Mücke",
+   "Efstratios Gavves",
+   "Dim Coumou"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "53 pages, 42 figures",
+  "first_author": "Eliot Walt",
+  "pdf_url": "http://arxiv.org/pdf/2610.06509",
+  "primary_category": "cs.LG",
+  "published": "2026-10-05",
+  "tags": [
+   "uncertainty-quantification",
+   "weather-forecasting"
+  ],
+  "title": "Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-05"
+ },
  "2610.06520": {
   "abstract": "Neurons of the brain exhibit a rich repertoire of electrophysiology dynamics with the same repeated stimulus eliciting very different voltage responses from the same cell. One common approach in biophysically detailed models is to capture this variability through ensembles of deterministic parametrizations, at a cost of hundreds of thousands of CPU hours. Existing machine learning surrogates inherit the same limitation, where a stimulus is mapped to a single voltage response. We address this challenge by learning a conditional generative model for single-neuron electrophysiology, using flow matching with a velocity field conditioned on the input current. On biophysically detailed models of two human cortical interneuron types, the generated responses closely reproduce the electrophysiological feature distributions, spike-time structure, and excitability profiles, even matching the experimental recordings from the corresponding human cortical neurons. Near the firing threshold, firing and non-firing responses coexist at the same stimulus amplitude, and at high amplitudes, ensembles may split into low- and high-firing modes near depolarization block. We show that our model recovers both modes in each case, while a neural operator baseline suppresses spiking near threshold and blurs the gap between modes at depolarization block.",
   "authors": [
@@ -1940,6 +2393,35 @@
   "title": "Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.06540": {
+  "abstract": "Spatio-temporal graph models typically encode each snapshot with a GNN and then connect the resulting representations through a temporal module. This space-then-time design is effective, yet it does not explicitly represent how a pattern moves across the graph. We show empirically that, for a propagating process, the same present field can lead to different futures when its recent rate of change differs, motivating an explicit representation of motion in the predictive state. We introduce WaveGSSM, a second-order graph state-space model that maintains two coupled latent states at each node, one for the current pattern and one for its temporal rate of change. A graph-wave transition updates the motion state through graph interactions and uses it to advance the pattern state, coupling spatial propagation and temporal evolution within a single rollout. We evaluate WaveGSSM on four temporal-graph benchmarks and global weather forecasting. It consistently achieves the best mean performance across the temporal-graph benchmarks and reduces the geopotential RMSE by 20.2% on average for 1- to 5-day weather forecasts relative to a backbone-matched snapshot model, while better preserving large-scale atmospheric patterns.",
+  "authors": [
+   "Junyou Zhu",
+   "Fenying Cai",
+   "Ping Xiong",
+   "Christian Nauck",
+   "Langzhou He",
+   "Chao Gao",
+   "Jürgen Kurths",
+   "Frank Hellmann"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Junyou Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2610.06540",
+  "primary_category": "cs.LG",
+  "published": "2026-10-05",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "WaveGSSM: Graph Wave State Space Models for Propagating Spatio-Temporal Patterns",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-05"
  },
@@ -1994,6 +2476,58 @@
   "title": "Puncture Evolution with Physics-Informed Neural Networks",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.07060": {
+  "abstract": "Despite substantial progress in short-to-medium-range weather forecasting, predicting high-impact events such as flash droughts remains a key challenge for both early warning operations and physically-based subseasonal-to-seasonal (S2S) prediction systems. Here we demonstrate that, for S2S soil-moisture forecasting over Europe, forecast skill depends as much on how the prediction problem is formulated as on the forecasting model itself. Using a Vision Transformer-based architecture with dual-pathway temporal and spatial attention, we show that residual learning is essential to outperform persistence. This advantage is realized only when forecasting root-zone soil moisture in physical units rather than standardized anomalies, revealing that the target representation itself constrains predictability. A probabilistic extension via quantile-head fine-tuning further provides well-calibrated predictive distributions. Benchmarked against deep-learning and operational ECMWF S2S baselines over 2021-2022, our model achieves the highest deterministic and probabilistic skill at all lead times and reliably detects anomalously dry root-zone states (below the 20th percentile). Yet flash drought onset, defined by multi-pentad intensification criteria, remains a fundamental challenge shared across all current S2S systems. These findings advance data-driven S2S soil-moisture forecasting while highlighting the remaining challenge of predicting rapid drought development.",
+  "authors": [
+   "Noelia Otero",
+   "Atahan Özer",
+   "Miguel-Ángel Fernández-Torres",
+   "Jackie Ma"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "27 pages, 8 figures, 5 tables. Accepted for publication in npj Hydrosphere. Supplementary information available with the published version",
+  "first_author": "Noelia Otero",
+  "pdf_url": "http://arxiv.org/pdf/2610.07060",
+  "primary_category": "cs.LG",
+  "published": "2026-10-05",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "Skillful Data-Driven Subseasonal Soil Moisture Forecasting: Prospects and Limits for Flash Drought Prediction",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.07496": {
+  "abstract": "Data assimilation (DA) is the process of combining forecasts from a model with observations in order to optimally estimate the state of a system. This is critical for chaotic systems, such as the atmosphere, since if observations are not continually assimilated the model will quickly lose skill. DA is routinely performed (usually every 6 hours) at operational forecasting centres around the world.   In this article we discuss the interface of machine learning (ML) and DA. This is still an emerging and quickly developing field, and this article tries to give an overview of some of the main topics and methods.",
+  "authors": [
+   "Eviatar Bach"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "eess.SY",
+   "nlin.CD",
+   "stat.ML"
+  ],
+  "comment": "13 pages, 2 figures",
+  "first_author": "Eviatar Bach",
+  "pdf_url": "http://arxiv.org/pdf/2610.07496",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-05",
+  "tags": [
+   "chaotic-systems",
+   "data-assimilation"
+  ],
+  "title": "The interface of data assimilation and machine learning",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-05"
  },
@@ -2100,6 +2634,78 @@
   ],
   "updated": "2026-10-06"
  },
+ "2610.08227": {
+  "abstract": "Machine learning classifiers for remote sensing imagery are typically evaluated as though every pixel were an independent sample. Spatial autocorrelation violates this assumption, since neighboring pixels carry redundant information which inflates sample sizes. How many independent samples does a satellite image actually contain? For an $n \\times n$ image whose spatial correlation persists over a range of $r$ pixels, the effective sample size is $Θ(n^2/r^2)$, not $n^2$. We prove this as a finite-sample upper bound for classifiers on spatially correlated data, and show via a matching lower bound that the rate is tight, and no algorithm can do better. We extend the results to images with directional correlation and spatially varying correlation structure. Our result justifies spatial cross-validation since block holdout with separation proportional to the correlation range achieves optimal generalization guarantees, while random holdout can underestimate confidence interval widths by a factor proportional to $r$. We validate the theory on synthetic data and satellite image tiles from three sensors (Landsat 8, Sentinel-2, and Sentinel-1).",
+  "authors": [
+   "Robin Young"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Robin Young",
+  "pdf_url": "http://arxiv.org/pdf/2610.08227",
+  "primary_category": "stat.ML",
+  "published": "2026-10-06",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.08523": {
+  "abstract": "Dissolved oxygen is important for the ocean's ecosystems and biogeochemical cycles. Yet, Earth System Models (ESMs) vary in their simulations of the present-day and future ocean oxygen inventory. To narrow down the uncertainty in estimates of ocean oxygen content, we train a conditional generative diffusion model on outputs of a multi-model ESM ensemble to learn the conditional distribution of upper-ocean oxygen given physical input variables such as temperature and salinity. This generative model has considerable skill in the Atlantic and Southern Oceans, and can generate realistic oxygen samples under conditions not seen in the training data. We validate this model using observational datasets, and use it to generate oxygen fields for models without oxygen data using only temperature and salinity as conditioning inputs. This physics-conditioned extrapolation suggests that model biases in the tropical Pacific Oxygen Minimum Zone may be smaller than currently assumed when considering a larger set of physical ocean states. Our approach provides a complementary way to represent probabilistic multi-model climate distributions.",
+  "authors": [
+   "Linus Vogt",
+   "Laure Zanna"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Linus Vogt",
+  "pdf_url": "http://arxiv.org/pdf/2610.08523",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-06",
+  "tags": [],
+  "title": "Multi-model ocean oxygen fields predicted by conditional diffusion models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.08539": {
+  "abstract": "Remote sensing scene classification is a fundamental task in Earth observation and geospatial analysis. Existing approaches mainly follow three paradigms: task-specific visual classification, vision-language similarity matching, and autoregressive multimodal generation. However, visual classifiers rely on predefined label spaces, CLIP-based methods perform recognition through static image-text alignment, and multimodal large language models (MLLMs) introduce unnecessary token-level generation for classification tasks with explicit candidate categories. To address these limitations, we propose RSJEV, a one-pass multimodal decision framework for remote sensing scene classification. Unlike conventional MLLMs that formulate classification as autoregressive text generation, RSJEV reformulates scene classification as a candidate-conditioned multimodal discriminative decision process, where visual representations, task instructions, and candidate category semantics are jointly modeled. Specifically, we introduce a OnePass Decider that extracts multimodal decision states and directly estimates category probabilities within the candidate category space, eliminating autoregressive decoding while preserving vision-language interactions. Extensive experiments on three widely used remote sensing scene classification benchmarks, including UC Merced, AID, and NWPU-RESISC45, demonstrate that RSJEV achieves superior classification performance compared with representative CNN-, Transformer-, Mamba-, CLIP-, and MLLM-based methods. Moreover, RSJEV significantly reduces inference costs and achieves a better accuracy-efficiency trade-off with only a compact 0.8B-parameter model. These results demonstrate the effectiveness of state-conditioned multimodal decision making for efficient remote sensing image understanding. The code will be available at https://github.com/Dongtcs/RSJEV.",
+  "authors": [
+   "Dongchen Si",
+   "Di Wang",
+   "Mingzhen Xu",
+   "Jing Zhang",
+   "Bo Du",
+   "Liangpei Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Dongchen Si",
+  "pdf_url": "http://arxiv.org/pdf/2610.08539",
+  "primary_category": "cs.CV",
+  "published": "2026-10-06",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "RSJEV: Discriminative Remote Sensing Scene Classification with Multimodal Large Language Models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-06"
+ },
  "2610.08693": {
   "abstract": "Accurate numerical simulation of nonlinear partial differential equation initial value problems typically requires high-dimensional full-order discretizations at substantial computational cost. While purely data-driven surrogates can speed up prediction, these \"black box\" approximations do not necessarily satisfy the governing equations during inference. In this paper we present a hybrid framework, which combines neural operators with projection-based reduced-order modeling for nonlinear PDE simulation. The key idea is to train a neural operator to map the initial condition to a time-dependent reduced subspace, and then evolve low-dimensional reduced coordinates by solving the governing dynamical equations projected on this learned moving trial subspace. In this way, the network predicts an adaptive reduced representation rather than the full trajectory directly, while the online solver preserves a physics-based reduced evolution.   We test this method on two representative nonlinear PDEs: the viscous Burgers' equation and the Fisher--KPP reaction--diffusion equation. In both cases, the proposed approach achieves successful reduced-order simulation with substantial wall-clock speedup relative to the corresponding full-order solver while maintaining relative errors on the order of \\(10^{-2}\\) to \\(10^{-1}\\) across the tested resolutions. These results demonstrate that a low-dimensional learned time-dependent reduced subspace can be used to predict solutions to nonlinear PDEs while retaining the advantages of projection-based reduced dynamics. Overall, this method provides a promising framework for fast and physically grounded data-assisted simulation of nonlinear PDEs.",
   "authors": [
@@ -2147,6 +2753,35 @@
   "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.09085": {
+  "abstract": "Applying deep learning models to satellite imagery from within geographic information systems (GIS) remains high-friction for remote sensing practitioners. Models arrive in incompatible formats and target different compute environments, from local workstations to serverless cloud services. As a result, every evaluation demands custom deployment, tiling, and georeferencing code before a single prediction reaches the analyst's map. This friction discourages systematic comparison in a domain where model choice directly affects operational outcomes such as field delineation, crop monitoring, and disaster response. We present Anaximander, an open-source system that unifies model source and compute location choice behind one interactive interface. The system's backend is an inference server that loads models from multiple commonly-used sources and serves them on any accessible compute backend. The server provides session management and model caching, and streams results back per tile. The backend is paired with a QGIS plugin that drives tiling, result reassembly, georeferencing, and real-time per-tile status visualization. An additional user-interface path injects layer legends as prompts into vision-language models. We demonstrate the system in a code-free side-by-side comparison of three heterogeneous models on an agricultural field delineation task: gpt-image-1 via a cloud API, Segment Anything Model 3 (SAM3) on a remote GPU, and DelineateAnything on a local CPU. The inference backend and protocol are open-source and available at https://github.com/microsoft/nxmndr.",
+  "authors": [
+   "Satej S. Soman",
+   "Akram Zaytar",
+   "Girmaw A. Tadesse",
+   "Gilles Q. Hacheme",
+   "Muhammad S. Danish",
+   "Inbal Becker-Reshef",
+   "Rahul Dodhia",
+   "Juan Lavista Ferres"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted as a poster at the TerraBytes II workshop, ECCV 2026",
+  "first_author": "Satej S. Soman",
+  "pdf_url": "http://arxiv.org/pdf/2610.09085",
+  "primary_category": "cs.CV",
+  "published": "2026-10-06",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-06"
  },
@@ -2222,6 +2857,34 @@
   ],
   "updated": "2026-10-07"
  },
+ "2610.09275": {
+  "abstract": "Although spiking neural networks (SNNs) provide an energy-efficient alternative to artificial neural networks (ANNs), their application to remote sensing image dehazing remains limited. A key challenge arises from the coupling between haze-induced high-frequency attenuation and discrete spike thresholding. This interaction suppresses weak responses and fundamentally limits the recovery of edges, textures, and fine details in spiking dehazing models. To address this challenge, we propose the Efficiently Modulated Spiking Neural Network (EM-SNN), a dedicated spiking framework tailored to remote sensing image dehazing. EM-SNN integrates a statistics-driven Threshold-Modulated Leaky Integrate-and-Fire (TM-LIF) neuron to adaptively compensate for haze-induced contrast compression, together with a Spike Sobel Modulation (SSM) module that enhances structural cues and reduces depth-wise attenuation during spiking feature propagation. By jointly modulating activation scales and structural representations, EM-SNN improves dehazing performance while preserving the inherent event-driven sparsity of SNNs. Experiments on HRSD, RICE, RRSHID, and SateHaze1K demonstrate that EM-SNN achieves competitive dehazing performance while consuming only one quarter of the energy of the strong ANN baseline SFRDP-Net.",
+  "authors": [
+   "Jie Shao",
+   "Jiaqi Ma",
+   "Wenwen Min",
+   "Beihang Song",
+   "Ning Chen",
+   "Youfa Liu",
+   "Jun Wan"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Jie Shao",
+  "pdf_url": "http://arxiv.org/pdf/2610.09275",
+  "primary_category": "cs.CV",
+  "published": "2026-10-07",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
  "2610.09299": {
   "abstract": "We derive error bounds from empirical squared residuals for two non-monotone, mesh-free approximations of Hamilton--Jacobi--Bellman equations on unbounded spatial domains: collocation with Wendland kernels under a native space norm constraint, and physics-informed neural networks with smooth activations under a Sobolev-norm constraint. The main step is to recover the pointwise residual control needed for viscosity-solution error estimates from the empirical loss, while quantifying the discretization or sampling error. For the kernel method, we prove uniform convergence on compact sets under classical and native space regularity and derive an a posteriori quantitative error bound for the unique bounded continuous viscosity solution. For the neural-network method, we prove uniform convergence on compact sets in probability and give a quantitative high-probability error bound under classical Sobolev regularity. The bounds are governed by the fill distance for kernels and by the network and sample sizes for neural networks. The proofs combine empirical-to-population estimates, an interpolation inequality that turns an $L^2$ residual into a sup norm bound, and a controlled diffusion estimate for the error caused by truncating the domain. The regularity assumptions used to obtain convergence from approximation properties are additional to viscosity wellposedness. Numerical experiments in one and two space dimensions illustrate the methods and the estimates.",
   "authors": [
@@ -2268,6 +2931,118 @@
   ],
   "updated": "2026-10-07"
  },
+ "2610.09715": {
+  "abstract": "We introduce EC-EarthFlow, a generative flow matching model that emulates simulations from the physical climate model EC-Earth3. The model is trained on transient simulations from EC-Earth3 (1950-2166, SSP2-4.5) to predict the day ahead temperature field from the previous days temperature as well as annual mean temperature. Predictions are made auto-regressively with rollout periods of between a month and an extended season. Using only this variable of interest, we are able to reproduce the daily variability, spatial patterns, annual cycle and long-term trend from EC-Earth3 at a substantially lower computational cost than the physical model. We demonstrate that EC-EarthFlow is stable for long inference periods, and that it can learn the physical relationships as simulated in EC-Earth3.",
+  "authors": [
+   "Kirien Whan",
+   "Nikolaj T. Mücke",
+   "Karin van der Wiel"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Kirien Whan",
+  "pdf_url": "http://arxiv.org/pdf/2610.09715",
+  "primary_category": "cs.LG",
+  "published": "2026-10-07",
+  "tags": [],
+  "title": "EC-EarthFlow: Probabilistic emulation of daily transient global climate model simulations with flow matching",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.09770": {
+  "abstract": "Deep learning has made rapid advances in weather forecasting: autoregressive models trained on atmospheric reanalyses now rival dynamical models across nowcasting, medium-range, and subseasonal-to-seasonal lead times, producing well-calibrated ensemble forecasts at reduced cost. We review these advances and consider their extension to climate horizons, where the challenge shifts from initial-condition skill to producing reliable statistical responses under altered forcings. AI-powered climate prediction systems must produce credible forced responses to drivers (e.g., greenhouse gases, land-use change) typically outside the observed record. We propose two minimum requirements for AI in climate modeling: (i) external forcing agents must enter explicitly enough to support interventions in which they vary independently; and (ii) robustness must be stress-tested in out-of-distribution regimes, including extremes and counterfactual trajectories. Using leading AI autoregressive emulators and hybrid physics-AI models, we identify development and coupling challenges. Comparing the reported throughput of these models with that of GPU-ported dynamical models highlights how AI can reduce time-to-solution by advancing only the target variables at the required resolution and using longer time steps, rather than integrating a full high-frequency, multivariate state. Diverse AI downscaling strategies can partially substitute for explicit fine-scale resolution, paving the way toward inexpensive local hazard assessment across prediction horizons.",
+  "authors": [
+   "Tom Beucler",
+   "J. David Neelin",
+   "Hui Su",
+   "Shivanshi Asthana",
+   "Chris Bretherton",
+   "Will Chapman",
+   "Costa Christopoulos",
+   "Spencer K. Clark",
+   "Aditya Grover",
+   "Ignacio Lopez-Gomez",
+   "Tapio Schneider",
+   "Adam Subel",
+   "Oliver Watt-Meyer"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "33 pages, 10 figures. Submitted to \"Science Advances\"",
+  "first_author": "Tom Beucler",
+  "pdf_url": "http://arxiv.org/pdf/2610.09770",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-07",
+  "tags": [
+   "climate-modeling",
+   "weather-forecasting"
+  ],
+  "title": "Artificial intelligence pathways from weather to climate",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.09859": {
+  "abstract": "Accurate precipitation estimation at fine spatial scales is critical for hydrology, agriculture, and climate studies. Infrared brightness temperatures from geostationary satellites offer excellent temporal coverage over continental-scale domains. However, because these measurements primarily characterize cloud-top properties rather than precipitation processes near the surface, their correlation with rainfall intensity remains limited, making quantitative precipitation estimation challenging. In this study, we conduct a systematic inter-comparison of state-of-the-art deep learning models for high-resolution precipitation retrieval from Meteosat Second Generation infrared brightness temperatures over metropolitan France. These models include deterministic U-Nets, transformer-based architectures, conditional GANs, and diffusion models. We construct a curated dataset spanning 2008--2023, combining M{é}t{é}o-France radar mosaics as reference with multi-channel infrared observations, and design preprocessing and sampling strategies to address the heavy-tailed, intermittent nature of rainfall. Our results show that deterministic models provide robust mean estimates and excel in pixel-wise accuracy, but systematically underestimate extreme precipitation. In contrast, generative models better capture the full precipitation distribution, including rare and heavy rainfall events, producing more realistic spatial structures at the cost of reduced pixel-wise fidelity. These results highlight a trade-off between pixel-wise accuracy and precipitation variability, showing that generative approaches are advantageous for extreme-event detection and probabilistic applications. This work establishes a reproducible framework for evaluating infrared- based precipitation retrieval methods and provides guidance for designing models that balance precision, variability, and extreme-event representation.",
+  "authors": [
+   "Matthieu Meignin",
+   "Cécile Mallet",
+   "Nicolas Viltard"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthieu Meignin",
+  "pdf_url": "http://arxiv.org/pdf/2610.09859",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-07",
+  "tags": [
+   "diffusion-models",
+   "hydrology"
+  ],
+  "title": "Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.10057": {
+  "abstract": "With the rise of univariate time series foundation models (e.g., Sundial, Timer), initial efforts have been made to extend them to multivariate settings. However, these models mainly focus on modeling correlations among variables. When they are applied to multi-station weather forecasting, two important factors are often overlooked: (1) the spatial information of stations, and (2) different error priors of different stations relative to the foundation model. In this paper, we propose WxFM-XL, a model for adapting univariate time series foundation models to multi-station weather forecasting. WxFM-XL introduces a cross-station error correlation prior graph to capture stationwise error priors with respect to the foundation model. Building on this, we further propose a dynamic fusion mechanism that adaptively integrates a spatial correlation graph with the error correlation prior graph. Experiments on multiple datasets demonstrate that our model outperforms state of the art baselines.",
+  "authors": [
+   "Xiao Wang",
+   "Changjian Chen",
+   "Zhuo Tang",
+   "Rongwen Li",
+   "Hongwu Liu",
+   "Kenli Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Xiao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.10057",
+  "primary_category": "cs.LG",
+  "published": "2026-10-07",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "WxFM-XL: Adapting Univariate Foundation Models to Multi-Station Weather Forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
  "2610.10105": {
   "abstract": "The Fourier Neural Operator (FNO) learns solution operators of partial differential equations (PDEs) through Fourier-space kernel parameterization, but frequency truncation can limit the learning of high-frequency variations. AM-FNO and SirenFNO generate kernels for all grid modes from spectral coordinates using shared networks, making coordinate encoding and generator design important. Recent work on implicit neural representations (INRs) has proposed constructing frequency interactions through explicit feature composition rather than relying on subsequent MLPs to form them implicitly. Building on this approach, we propose CAFE+FNO, which incorporates Content-Aware Frequency Encoding+ (CAFE+) into Fourier kernel generation. CAFE+ combines Fourier--Chebyshev features through parallel affine branches and a Hadamard product, forming interactions within and across the two feature families. A kernel MLP maps the resulting representation of each normalized spectral coordinate to a complex channel-mixing matrix. Each layer shares its generator across all stored modes, making the number of trainable parameters independent of the number of modes for a fixed architecture. We compare CAFE+FNO with existing FNO variants on five PDE benchmarks and conduct ablation studies on basis configuration, multiplicative composition, and bandwidth learnability. Code and experimental configurations are available at https://github.com/fabsk101/CAFEPlusFNO.git.",
   "authors": [
@@ -2289,6 +3064,36 @@
   "title": "CAFE+FNO: Fourier Kernel Generation via Multiplicative Feature Composition",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.10430": {
+  "abstract": "Rapid and accurate prediction of urban wind and temperature fields is important for urban microclimate design and climate adaptation. Large-eddy simulation (LES) effectively resolves these instantaneous fields, but its application is limited in iterative design of urban microclimate applications due to high computational cost. Existing regressive data-driven models offers quick outputs, but they produce only deterministic point predictions that inherently fail to represent turbulent stochasticity. This paper adopts a novel generative framework of Conditional Flow Matching (CFM) that uses building geometry and mean flow as guidance to generate plausible three-dimensional instantaneous velocity and temperature fields for urban microclimate in seconds. To overcome the GPU memory bottleneck of pixel space 3D generation, the model operates in parallel on overlapping pixel space through a shared-noise initialization that preserves high spatial continuity of flow structure across the entire domain. Against reference LES data, the CFM surrogate can rapidly and accurately restore the first-order statistics with Normalized Root Mean Square Error (NRMSE) of 2.99% for wind and 1.77% for temperature, second-order turbulence metrics with NRMSE of 7.17% for wind and 8.84% for temperature, turbulent kinetic energy with NRMSE of 7%, probability density function and vertical profiles in representative locations. Wind engineering application of local gust prediction demonstrate that the speed and accuracy of CFM, supporting the use of generative AI for making turbulence-aware resilient urban design and climate adaptation more computationally feasible.",
+  "authors": [
+   "Peng Liu",
+   "Shaoxiang Qin",
+   "Theodore Potsis",
+   "Lili Ji",
+   "Dingyang Geng",
+   "Liangzhu Leon Wang"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.CE",
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Peng Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.10430",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-07",
+  "tags": [
+   "les"
+  ],
+  "title": "Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-07"
  },
@@ -2316,6 +3121,67 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-10-07"
+ },
+ "2610.10513": {
+  "abstract": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a published model in the same way. Across twelve agent systems, six produce models that score higher than the published model, mainly through better reconstruction and forecasting. The simplified forms of the stronger models are each compatible with one of the two competing explanations of ENSO's warm-cold asymmetry, an open debate that the task never mentions. Controlled runs of the top system under varied information suggest that its scores do not come from recalling the dated observational record and that the information it receives shapes how it builds its model. SciExam for ENSO can thus evaluate agent research where no answer is known, and the results suggest that agents can already build competitive models whose structures bear on questions that scientists still debate.",
+  "authors": [
+   "Yinling Zhang",
+   "Langchen Liu",
+   "Dongbin Xiu",
+   "Xueyan Zou",
+   "Xu Kuang",
+   "Mengdi Wang",
+   "Shilong Liu"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "28 pages, 5 figures, 8 tables. Code: https://github.com/ylzhang2447/SciExam-ENSO-code",
+  "first_author": "Yinling Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.10513",
+  "primary_category": "cs.AI",
+  "published": "2026-10-07",
+  "tags": [],
+  "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.10560": {
+  "abstract": "AI foundation models pretrained on weather and climate data are increasingly fine-tuned to Earth science tasks well beyond weather forecasting. Their development and adoption are outpacing the scientific community's ability to evaluate them. These models are judged almost entirely by benchmark skill metrics, which measure how closely a forecast reproduces a reference product but not whether a model represents the physical processes governing the system it predicts. Forecast skill and physical reliability are therefore distinct properties. The distinction is most consequential under the nonstationary conditions of a changing climate for which these models were never trained. We identify five priorities for the physical evaluation of AI models in Earth science from task-specific emulators to foundation models, spanning training data, fine-tuning, behavioral testing, mechanistic interpretability, and output validation. We recommend three activities for the coming decade: 1) open AI-ready evaluation datasets, 2) a shared reporting standard for physics-based evaluation, and 3) a dedicated research program on the safety of these models.",
+  "authors": [
+   "Makoto Kelp",
+   "Amirhossein Arzani",
+   "Patricia Castellanos",
+   "Paul Griffiths",
+   "Ivan Higuera-Mendieta",
+   "Manuel Perez-Carrasco",
+   "Viral Shah",
+   "Patrick Obin Sturm",
+   "James Weber"
+  ],
+  "categories": [
+   "physics.soc-ph",
+   "cs.AI",
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Makoto Kelp",
+  "pdf_url": "http://arxiv.org/pdf/2610.10560",
+  "primary_category": "physics.soc-ph",
+  "published": "2026-10-01",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "Strategic Governance of AI Models in Earth Science",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-01"
  },
  "2610.10626": {
   "abstract": "Neural surrogates for vector-valued partial differential equations can fit training data yet change their predictions when the same physical state is expressed in a rotated coordinate frame. We study this failure on three-dimensional Navier--Stokes dynamics observed at irregularly placed points. We introduce the Invariant-Conditioned Isotropic Kernel Neural Operator (IKNO), a compact graph model that builds local interactions from scalar quantities unchanged by rotation and vector directions that rotate with the data. Consequently, rotating the positions and velocities rotates the predicted velocity change in exactly the same way. On a held-out test set fixed after model design, training unconstrained graph models on randomly rotated examples reduces but does not eliminate their coordinate dependence. In contrast, IKNO is consistent to numerical precision, matches the forecasting accuracy of a general rotation-aware Tensor Field Network with $5.6$ times fewer parameters, and outperforms a parameter-matched graph simulator. These results show that a compact, PDE-specialized model can remove coordinate dependence without sacrificing forecasting accuracy.",
@@ -2469,6 +3335,29 @@
   ],
   "updated": "2026-10-07"
  },
+ "2610.11000": {
+  "abstract": "The intermittent and variable nature of precipitation makes its accurate estimation over extended domains difficult, yet its spatiotemporal structure suggests that a low-rank representation may be possible. This work represents daily precipitation over the contiguous United States (CONUS) as spatiotemporal tensors and applies CANDECOMP/PARAFAC factorization, showing that preserving the native spatial and temporal modes yields more accurate reconstruction than factorizing independent daily fields or unfolded space--time matrices. Building on this finding, this work presents TMerge, a tensor-based framework that integrates satellite precipitation with sparse reference observations through shared low-rank spatial and temporal factors. TMerge was applied to correct the IMERG Final Run product with climate prediction center reference observations over CONUS. During 2019-2022, TMerge increased correlation from 0.53 to 0.85 and reduced root-mean-square error and mean absolute error by 48.2% and 29.3%, respectively. TMerge consistently outperformed linear bias correction, quantile mapping, and neural networks across seasons, precipitation-intensity regimes, and regions. Improvements were spatially coherent and largest in coastal regions where IMERG errors were greatest. These results demonstrate that low-rank tensor structure parsimoniously approximates the dominant spatiotemporal variability of precipitation and provides a practical mechanism for improving satellite estimates under limited reference observations over extended domains.",
+  "authors": [
+   "Ryan Solgi",
+   "Rohan Shankar",
+   "Hugo A. Loaiciga"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Ryan Solgi",
+  "pdf_url": "http://arxiv.org/pdf/2610.11000",
+  "primary_category": "cs.LG",
+  "published": "2026-10-07",
+  "tags": [],
+  "title": "Low-rank tensor structure of precipitation and its application to satellite-reference merging",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-07"
+ },
  "2610.11108": {
   "abstract": "Multi-domain physics-informed neural networks (PINNs) flexibly model medium-specific representations to solve fluid--solid conjugate heat transfer (CHT). However, standard multi-domain PINNs enforce governing equations and interface conditions on separately sampled domain supports, which can yield plausible temperature fields but inaccurate end-to-end energy transfer and outlet temperatures. We propose Cova-PINN, a multi-domain PINN framework that aligns conservation support with thermal interaction paths in complex geometries. Cova-PINN jointly optimizes cross-domain composite control-volume balances at the local scale and paired-wall closure at the global exchanger scale. We evaluate Cova-PINN on four triply periodic minimal surface (TPMS) heat exchangers and a geometrically distinct DualMS design against CHT-specific, optimization-oriented, and complex-geometry PINN baselines under a common protocol. Relative to the closest baseline, MUSA-PINN-CHT, Cova-PINN reduces average outlet-temperature and device-level closure errors across the four TPMS topologies by $37.7\\%$ and $60.2\\%$, respectively, while also improving full-field and heat-duty accuracy, with consistent gains on DualMS.",
   "authors": [
@@ -2519,6 +3408,57 @@
   ],
   "updated": "2026-10-08"
  },
+ "2610.11176": {
+  "abstract": "Multimodal remote sensing image registration is a crucial prerequisite for the collaborative processing and downstream application of remote sensing data, such as image fusion, change detection, and target recognition. However, significant variations in radiometry, geometry, scale, viewpoint, and time often exist between multimodal images. These differences, driven by varying sensor geometries, physical radiation mechanisms, imaging platforms, and environmental disturbances, pose severe challenges to achieving high-precision, robust registration. This paper systematically reviews the progress of mainstream multimodal remote sensing image registration methods. Based on their registration pipelines, existing approaches are categorized into three main types: region-based, feature-based, and deep learning-based methods. We detail the core principles, representative algorithms, advantages, and limitations of each category. Additionally, we summarize publicly available multimodal image datasets in the remote sensing domain, analyzing their specific characteristics and applicable scenarios. Finally, we highlight current bottlenecks in high-precision registration research and outline future development trends. This review aims to provide a comprehensive reference and valuable insights for researchers in related fields.",
+  "authors": [
+   "Zhiqiang Han",
+   "Yuanxin Ye",
+   "Qiuyun Wu",
+   "Jinhao Chen",
+   "Bai Zhu",
+   "Siyuan Hao"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "12 figures, 8 tables, 135 references. Review article accepted for publication in Photogrammetric Engineering and Remote Sensing (ASPS), manuscript number PERS-26-00034",
+  "first_author": "Zhiqiang Han",
+  "pdf_url": "http://arxiv.org/pdf/2610.11176",
+  "primary_category": "cs.CV",
+  "published": "2026-10-08",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Multimodal Remote Sensing Image Registration: A Comprehensive Review, Challenges and Prospects",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.11405": {
+  "abstract": "Near the ocean surface, tropical cyclone winds change rapidly with height, but direct measurements are limited because aircraft dropsondes provide only sparse and irregular observations. Continuous wind profiles are important for understanding hurricane boundary-layer processes, improving storm-surge prediction, supporting offshore engineering, and assessing coastal hazards. In this study, we developed an artificial intelligence model that combines machine learning with physical principles to reconstruct continuous wind profiles from sparse observations. The model is designed to preserve the observed surface winds while generating realistic changes in wind speed and direction with height. Tests using more than two decades of NOAA hurricane observations show that the method accurately reproduces the vertical structure of tropical cyclone winds over a wide range of storm intensities. The framework can also extend satellite-derived surface wind measurements into three-dimensional near-surface wind fields, providing new opportunities for hurricane research, operational forecasting, and engineering applications.",
+  "authors": [
+   "Jian Ma",
+   "Yilin Yang",
+   "Robert Rogers",
+   "Jun A. Zhang",
+   "Jie Tang"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "35 pages 14 figures",
+  "first_author": "Jian Ma",
+  "pdf_url": "http://arxiv.org/pdf/2610.11405",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-08",
+  "tags": [],
+  "title": "A Physics-Constrained Implicit Profile Network for Continuous Reconstruction of Tropical Cyclone Near-Surface Wind Profiles",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-08"
+ },
  "2610.11709": {
   "abstract": "We study uniform approximation for operator learning on compact subsets of Banach spaces. We bound the recovery dimensions and the number of network parameters in terms of compact-set complexity, the target gauge, and recovery stability. For bounded linear operators with a separable domain, we characterize gauge approximability by coordinate decompositions with a common vanishing gauge and arbitrarily small additive errors. Their partial sums give a fixed family of nonlinear encoder--decoder pairs. We prove that nonlinear recovery with a common vanishing gauge and a rank bound depending only on the model dimension is equivalent to the uniform approximation property (UAP). We also obtain linear recovery estimates with the same rank bound and an operator version for the linear factors of nonlinear targets. For Barron operators taking values in a Banach space $Y$ of type $p\\in(1,2]$ and admitting a Bochner-integrable density, sampling gives the rate $N^{-(1-1/p)}$ for the expected $L^p(λ;Y)$ error, where $λ$ is a probability measure on the input compact set. For fixed finite-dimensional factors and a class of Hölder maps, we obtain matching upper and lower parameter bounds at fixed sufficiently large depth. Classical sampling and truncation examples provide explicit recovery maps, and a nonlinear integral operator illustrates the parameter bounds.",
   "authors": [
@@ -2565,6 +3505,42 @@
   "title": "Uncovering and Fixing Collider Bias in Bayesian PINNs",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.11883": {
+  "abstract": "Earth system models (ESMs) have grown tremendously in realism, yet key uncertainties persist in the climate response to greenhouse-gas forcing, particularly due to cloud radiative feedbacks. In addition, their software architecture was not designed for accelerator hardware or modern artificial intelligence (AI). Here we present legoESM, a composable, differentiable, multiscale ESM written in JAX. It builds on decades of community-developed parameterizations and numerical methods, recast in a unified framework by AI coding agents under a human-specified scientific contract and verified through benchmarking. Dynamical cores, physics schemes, grids, complexity levels and components are swappable like building blocks, and can use conventional physics or machine-learned emulators. A single code base spans metre-scale large-eddy simulation to global simulations and weather to climate. End-to-end differentiability enables gradient-based calibration, variational data assimilation and online training. legoESM modular architecture enables systematic evaluation of diverse model variants to explore structural uncertainty and test hypotheses. legoESM produces realistic simulations across scales, reduces land-surface temperature bias through gradient-based calibration, and scales efficiently on GPUs to kilometer-scale simulations. It offers an open, community infrastructure for hypothesis testing, research and teaching in Earth sciences and a template for multiscale physical systems.",
+  "authors": [
+   "Pierre Gentine",
+   "Dhruv Balwada",
+   "Aytaç Paçal",
+   "Linnia Hawkins",
+   "Alistair Adcroft",
+   "Hang Fan",
+   "Jianing Fang",
+   "Aya Lahlou",
+   "Kara D. Lamb",
+   "David M. Lawrence",
+   "Julien Le Sommer",
+   "Joseph Mouallem",
+   "Juan Nathaniel",
+   "Duncan Watson-Parris",
+   "Veronika Eyring"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Pierre Gentine",
+  "pdf_url": "http://arxiv.org/pdf/2610.11883",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-08",
+  "tags": [
+   "data-assimilation"
+  ],
+  "title": "legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-08"
  },
@@ -2644,6 +3620,35 @@
   ],
   "updated": "2026-10-08"
  },
+ "2610.12401": {
+  "abstract": "Kilometer-scale regional weather forecasting is essential for local weather warnings and weather-sensitive decisions. Existing data-driven approaches often rely on numerical forecasts for large-scale guidance or require additional training of global forecasting components. Pretrained global weather models offer an efficient source of large-scale forecasts, motivating their reuse to guide high-resolution regional prediction. However, this coupling requires aligning global and regional representations across different grids and integrating global guidance with local interactions to advance regional states. We propose ScaleCast, a regional forecasting framework that addresses these challenges through Global-Regional Alignment. Its Global-Regional Conversion module aligns joint global and regional representations with regional locations, while the Global-Regional Alignment and Dynamics block combines aligned guidance with regional neighborhood interactions. Experiments using ERA5 global analyses on a 0.25-degree grid and CERRA regional reanalysis at 5.5 km spacing demonstrate improved regional forecasts across surface and upper-air variables, with a single trained model supporting multiple global forecast drivers (i.e., Pangu-Weather, GraphCast, and HRES) without specific retraining. Fine-tuning on HRRR at 3 km spacing further demonstrates the framework's adaptability to a different regional domain and spatial resolution. Windstorm case studies show improved cyclone positioning and core-pressure estimates, while comparisons with HadISD station observations show closer agreement with local temperature and humidity changes.",
+  "authors": [
+   "Guowen Li",
+   "Yang Liu",
+   "Yujie Wang",
+   "Qiuyan Sun",
+   "Haoyuan Liang",
+   "Juepeng Zheng",
+   "Hong Cheng",
+   "Haohuan Fu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Guowen Li",
+  "pdf_url": "http://arxiv.org/pdf/2610.12401",
+  "primary_category": "cs.LG",
+  "published": "2026-10-08",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "Learning Kilometer-Scale Weather Prediction with Global-Regional Alignment",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-08"
+ },
  "2610.12632": {
   "abstract": "Edge-on protoplanetary disks provide a spatially resolved view of the vertical distribution of icy planetary building blocks, but inferring their relative abundances requires radiative-transfer (RT) modeling with multiple anisotropic scattering. Each model costs $10^{1}$-$10^{3}$ CPU hours, which precludes principled Bayesian inference and homogeneous, population-scale analyses. We develop and validate a fast and reusable surrogate for Bayesian inference with ice-bearing edge-on disk models. We train a Fourier Neural Operator on a grid of RADMC-3D spectra. The network maps disk parameters and analytic physical input fields to the spectrum, using mixed-resolution spectra. We use the surrogate in an explicit-likelihood nested sampler and validate it on held-out simulations and synthetic recovery tests with TARP coverage. Finally, we use it to retrieve the disk structure and ice abundances of ESO-H$α$ 569 from its spectral energy distribution. The surrogate reproduces the RADMC-3D spectra with a median error of 4.84%. We recover synthetic parameters without detectable bias and with nominal coverage. For ESO-H$α$ 569, the posterior favors a massive ($M_{\\rm gas}=0.028^{+0.015}_{-0.011}\\,M_\\odot$), nearly edge-on ($i=79.8^{+5.2}_{-2.4}$ deg) disk consistent with the image-plus-SED model of Wolff et al. (2017). Its ice abundances and cavity size remain weakly constrained by broadband data alone. The marginal spectrum-evaluation speed-up is $\\sim10^{9}$-$10^{10}$. Neural-operator emulation makes full posterior inference feasible within the adopted model and training prior. Key posterior points should still be checked with high-fidelity RT models. By drastically cutting evaluation time, this approach enables for the first time homogeneous population studies of ices in disks, which new JWST surveys can capitalize on to map the range of compositions within planetary nurseries.",
   "authors": [
@@ -2668,6 +3673,39 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-10-08"
+ },
+ "2610.12976": {
+  "abstract": "Accurate daily precipitation forecasts are important for weather-sensitive decisions. Although recent Weather Foundation Models (WFMs) have achieved significant progress, they are trained on reanalysis data, which exhibit regional and intensity-dependent biases. Since retraining WFMs on observation-based targets is costly, we study Dynamics-Precipitation Decoupling, a plug-and-play framework that uses a separately trained generator to map non-precipitation forecasts from a frozen weather model to observation-aligned daily precipitation. Its key challenges are to capture heterogeneous rainfall distributions and align daily accumulations with atmospheric signals that evolve across space and time. To address them, we train a diffusion generator conditional on atmospheric states and satellite-gauge estimates of precipitation. A multi-scale recurrent encoder summarizes atmospheric evolution, while cross-attention aligns atmospheric and precipitation features during denoising. Extensive evaluation of various backbones, including Pangu-Weather, GraphCast, and HRES, on global and regional forecasting shows improved daily precipitation accuracy and event detection, with better representation of localized accumulation patterns. Global ensemble evaluation shows lower Brier scores than ENS and training-from-scratch GenCast at all reported lead times, with lower CRPS in most comparisons. Remarkably, a heavy-rainfall case study using 2,288 stations in China further supports improved daily accumulation patterns and event detection against ground observations.",
+  "authors": [
+   "Guowen Li",
+   "Yang Liu",
+   "Mengxuan Chen",
+   "Jiashun Cheng",
+   "Haoyuan Liang",
+   "Shilei Cao",
+   "Yujie Wang",
+   "Juepeng Zheng",
+   "Fang Wang",
+   "Yerong Feng",
+   "Meng Jin",
+   "Hong Cheng",
+   "Yutong Lu",
+   "Haohuan Fu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Guowen Li",
+  "pdf_url": "http://arxiv.org/pdf/2610.12976",
+  "primary_category": "cs.LG",
+  "published": "2026-10-09",
+  "tags": [],
+  "title": "Diffusion Precipitation Generation with Medium-range Weather Forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-09"
  },
  "2610.13006": {
   "abstract": "The growing sophistication of drug discovery calls for new advances in artificial intelligence (AI). Transformers have underpinned recent breakthroughs in AI, yet their conventional source-target attention mechanism can become a bottleneck for modeling complex interactions. Here, we introduce TopoLIA, a topology-inspired latent interaction attention mechanism that learns not only how much information should be exchanged between interaction partners, but also how that information should be transformed. Source-target-dependent attention is mediated through a compact latent interaction space, providing a structured representation of complex interactions. We further incorporate topological spectral representations to capture multiscale data geometry and extract algebraic relationships. TopoLIA thus incorporates topological principles into both data representation and neural network architecture. We demonstrate TopoLIA on protein-ligand binding, where persistent spectra encode multiscale topological and geometric patterns in 3D protein-ligand complexes, while latent interaction attention (LIA) enables structured, source-target-dependent information exchange. We pretrain TopoLIA by reconstructing masked multiscale spectral tokens from unlabeled molecular structures, yielding transferable structural representations without task-specific annotations. Across multiple scoring and docking benchmarks, TopoLIA achieves state-of-the-art performance and consistently outperforms its standard-attention counterpart. Rank analyses show that compact latent dimensions yield the best performance, supporting compact interaction spaces as an effective inductive bias for biomolecular learning. More broadly, LIA provides a general framework for structured, source-target-dependent information exchange that is applicable to diverse scientific and AI problems involving complex heterogeneous interactions.",
@@ -2852,6 +3890,36 @@
   ],
   "updated": "2026-10-09"
  },
+ "2610.13547": {
+  "abstract": "Pretrained diffusion Transformers provide powerful generative priors for image restoration, yet adapting them to structure-sensitive tasks remains challenging. Existing methods mainly rely on dense low-resolution features as conditions, which often entangle salient objects with dominant backgrounds and provide limited abstraction for recurring structures across scales and samples. We propose MOSAIC, an object-centric representation learning framework that learns compact structural conditions for generative model adaptation. MOSAIC organizes degraded observations into structural slots that capture complementary object-level and layout-level evidence, integrates them across resolutions, and retrieves recurring priors from a shared prototype memory to complement incomplete image-specific information. The resulting representations are injected into selected layers of a frozen diffusion Transformer through lightweight residual modulation, preserving its pretrained generative prior. We instantiate MOSAIC for remote sensing image super-resolution, where small objects, repetitive structures, and large-scale variation provide a challenging testbed. Experiments on UCMerced, AID, and RSSCN7 show consistent PSNR improvements across $\\times 2$ and $\\times 4$ settings and favorable LPIPS results at $\\times 4$. Qualitative results further demonstrate improved preservation of small objects, structural boundaries, and repetitive spatial patterns.",
+  "authors": [
+   "Liuqian Wang",
+   "Hanyu Xie",
+   "Rongzhen Zhao",
+   "Qi Ming",
+   "Chunjie Ma",
+   "Wentao Chao",
+   "Yufei Gao",
+   "Chengming Liu",
+   "Lei Shi"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Liuqian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.13547",
+  "primary_category": "cs.CV",
+  "published": "2026-10-09",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-09"
+ },
  "2610.13663": {
   "abstract": "Many machine learning approaches are two-level: an expert selects a class of methods, within this class the choice of key components is critical and usually manual. This paper addresses the automatic tuning of these components and proposes a framework transferable across models of different nature. The multi-agent large language model (LLM) framework has three roles---analyst, coder, and recorder~---with an experiment log and a sandboxed execution environment. Unlike systems that optimize the entire ML script or search architectures in a discrete space, the framework operates over an open but semantically narrow space: the agent generates code only for the specified components, leaving the overall network structure unchanged. The approach is validated in two directions: tuning a classification spiking neural network with correlation learning, and solving high-order differential equations with Physics-Informed Neural Networks (PINN). Across five tasks---spiking classification on MNIST and Digits, and boundary-value problems for the generalized nonlinear Schrödinger equation (GNLSE) and Kuramoto--Sivashinsky (KS) equations---the agent outperforms the baselines: classification accuracy is 13 percentage points (MNIST) and 6 percentage points (Digits) higher; the error against the analytical single-soliton solution is reduced approximately 2491-fold; the invariant-preservation error drops approximately 325-fold in the selected GNLSE run with a Gaussian perturbation and by more than 100-fold on average over repeated initializations; and the mass drift drops 14-fold for the KS problem with a Gaussian perturbation. The framework thus tunes key components on tasks of different nature without changing its internal structure.",
   "authors": [
@@ -2937,6 +4005,32 @@
   ],
   "updated": "2026-10-09"
  },
+ "2610.13857": {
+  "abstract": "Natural disasters such as earthquakes, tropical storms, and floods cause extensive damage to buildings, and rapid, reliable damage maps are essential to guide emergency response. Automating this task, referred to as building damage assessment (BDA), from satellite imagery, has become an active research topic at the intersection of remote sensing, computer vision, and machine learning, particularly since supervised deep learning methods were shown to outperform earlier handcrafted approaches. Yet, despite a decade of intense activity and the release of several large-scale datasets, the field lacks a shared foundation. This chapter revisits the task of BDA from first principles, organized around three pillars: data, evaluation, and methods. We first clarify the candidate task for- mulations and argue for a sensor-agnostic, instance-based definition that tolerates missing pre-event imagery. We then review existing datasets along the axes of sensing modality, temporal configuration, and geographic coverage. On the evaluation side, we show that prevailing practices, largely based on a single aggregate score, are theoretically fragile, and we lay the foundations of a more informative, ranking-based, multi-score protocol. We further review methods ranging from task-specific deep networks to recent Earth observation foundation models, noticing that generalization to unseen events and regions remains an open difficulty. Finally, we discuss how these elements can inform the organization of a BDA challenge, including cross-validation, challenge, and private data-sharing setups designed to build trust between developers and users.",
+  "authors": [
+   "Anthony Cioppa",
+   "Virgile Blua",
+   "Sébastien Piérard",
+   "Pietro Ceccato",
+   "Marc Van Droogenbroeck"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "82 pages, 2 figures, 9 tables, 160 references",
+  "first_author": "Anthony Cioppa",
+  "pdf_url": "http://arxiv.org/pdf/2610.13857",
+  "primary_category": "cs.CV",
+  "published": "2026-10-09",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Revisiting the Task of Building Damage Assessment by Satellite Imaging",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-09"
+ },
  "2610.14342": {
   "abstract": "We present ContinuousCloth, a continuous-time, physics-informed neural solver for deformable cloth dynamics that enforces a spring--mass ODE within a neural trajectory model. Unlike classical time-stepping simulators that return trajectories only on a discrete integration grid, ContinuousCloth supports querying at arbitrary timestamps and computing displacement, velocity, and acceleration via automatic differentiation. We evaluate ContinuousCloth along two dimensions. In a physics-only setting, ContinuousCloth achieves trajectory accuracy comparable to high-precision solvers across six diverse boundary-condition scenarios while reducing runtime by up to 17.4 times. When fused with sparse and noisy observations, the spring--mass ODE acts as a strong inductive bias for downstream tasks: interpolation and parameter estimation. That is, ContinuousCloth reduces interpolation error by 7.3 times over a data-only neural baseline in simulation and 2.4 times on real-world cloth sequences, and achieves 2.6 times lower parameter error than a differentiable-solver baseline under high-noise conditions, demonstrating consistent robustness under realistic measurement imperfections.",
   "authors": [
@@ -3011,6 +4105,32 @@
   ],
   "updated": "2026-10-10"
  },
+ "2610.14493": {
+  "abstract": "Recent advances in machine learning have improved rainfall-runoff prediction, yet most data-driven models remain difficult to interpret and do not explicitly enforce physical conservation laws. We present the Gated Catchment Hydrology Model (GCHM), a mass-conserving architecture based on the Mass-Conserving Perceptron (MCP). GCHM uses five storage states representing canopy interception, snow, soil moisture, groundwater, and streamflow generation. Constrained gates govern precipitation partitioning, evapotranspiration, infiltration, seepage, runoff, and baseflow while learning context-dependent process relationships.   We evaluate GCHM across 50 CAMELS catchments spanning snowmelt-dominated, recent-rainfall, historical-rainfall, and arid regimes, using NOAA AORC meteorological forcing and remotely sensed vegetation and land-surface data. Performance is assessed using the Jawad-Kling-Gupta Efficiency (JKGE) metric, which accounts for stationary and non-stationary hydrologic behavior. We compare the full architecture with ablated variants and recurrent neural network benchmarks.   GCHM reproduces streamflow dynamics across diverse hydroclimatic regimes, including arid catchments, while maintaining interpretable states and fluxes. Ablation experiments show that simplified architectures may perform adequately under wet conditions but struggle to represent flow persistence and recession during dry periods, when groundwater storage sustains low flows. Learned gates recover hydrologically plausible relationships governing snowmelt, runoff, seepage, and evapotranspiration. GCHM combines competitive predictive performance with mass conservation and interpretability, providing a foundation for hydrologic modeling and counterfactual analysis.",
+  "authors": [
+   "M Jawad",
+   "HV Gupta",
+   "MA Farmani",
+   "A Behrangi",
+   "GY Niu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "M Jawad",
+  "pdf_url": "http://arxiv.org/pdf/2610.14493",
+  "primary_category": "cs.LG",
+  "published": "2026-10-10",
+  "tags": [
+   "hydrology"
+  ],
+  "title": "A Gated Catchment Hydrology Model (GCHM) for Physically-Interpretable Rainfall-Evapotranspiration-Runoff Simulation Across Diverse Hydroclimatic Regimes",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-10"
+ },
  "2610.14537": {
   "abstract": "Particle-in-cell (PIC) simulation is indispensable for modeling beam dynamics in particle accelerators, but its computational cost limits many-query workflows, such as configuration exploration, virtual diagnostics, and controller design. We introduce GLOBE, a physics-constrained Generative Latent Operator for Beam Evolution, modeling the nonlinear, control-dependent, multiscale evolution of 3D beam--field dynamics covering $10^7$ spatial cells. GLOBE compresses beam--field states into a compact latent space and factors their evolution into two components. A control-conditioned neural operator learns the dominant dynamics, while an amplitude-normalized generative model captures the residual distribution, recovering fine-scale structures and conditional variations. GLOBE enforces field constraints by regime-specific, parameter-free operators: a Poisson solve reconstructs the electric field in the electrostatic regime, and a spectral projection imposes Gauss's law and a divergence-free magnetic field in the electromagnetic regime. On two high-resolution 3D particle-accelerator benchmarks, bunched-beam transport and plasma-wakefield acceleration, GLOBE lowers relative-$L_2$ error by 9\\% and 13\\%, low-frequency spectral error by 69\\% and 51\\%, and mid-frequency spectral error by 54\\% and 20\\% relative to the strongest baseline (DPOT), satisfies field constraints, and reduces hours of PIC simulation to a minute per rollout.",
   "authors": [
@@ -3031,6 +4151,36 @@
   "title": "Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14645": {
+  "abstract": "Eddy-resolving ocean simulations are essential for representing mesoscale dynamics that regulate ocean circulation, energy transport, and climate variability. However, they are costly to generate, store, and share. Artificial intelligence (AI) may help, but it remains unclear whether high-resolution ocean fields can be faithfully represented by evolving ocean states at coarse resolution followed by spatial downscaling, or whether dynamical evolution needs to be learned directly from native high-resolution simulations. We show that directly learning dynamical evolution on a 0.1$^\\circ$ grid provides a more faithful representation of mesoscale variability than evolving ocean states on a 1$^\\circ$ grid followed by downscaling reconstruction. We developed a full-depth 1$^\\circ$ emulator and a native 0.1$^\\circ$ sea surface temperature (SST) emulator, both of which remained stable over long-term free-running simulations without significant drift, providing reliable baselines for this comparison. Direct learning at 0.1$^\\circ$ preserves mesoscale energy, spectral characteristics, and frontal gradients, whereas the coarse-resolution evolution followed by downscaling approach recovers large-scale patterns but fails to reproduce key mesoscale signatures. We show that the learned mesoscale statistics remain consistent across diverse hardware platforms, supporting the reproducibility and portability of AI-based ocean simulations. These results suggest that downscaling of low-resolution large-scale states alone is insufficient to represent ocean mesoscale variability, supporting the need to learn dynamical evolution directly in a high-resolution state space. These findings highlight the continued importance of high-resolution physics ocean models as a foundation for AI-based ocean simulation, providing dynamically resolved training data for physically faithful high-resolution emulators.",
+  "authors": [
+   "Zilu Liu",
+   "Tao Zhang",
+   "Hailong Liu",
+   "Kai Xu",
+   "Qinghui Lin",
+   "Maoxue Yu",
+   "Jiangfeng Yu",
+   "Jingwei Xie",
+   "Zhao Jing",
+   "Minghua Zhang",
+   "Lixin Wu"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "Supplementary material included",
+  "first_author": "Zilu Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.14645",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "Learning native eddy-resolving ocean dynamics outperforms coarse emulation and downscaling",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-10"
  },
@@ -3080,6 +4230,31 @@
   ],
   "updated": "2026-10-10"
  },
+ "2610.14863": {
+  "abstract": "Data-driven weather forecasting models are commonly trained on ERA5, yet operational deployment must use timely initial states from physics-based numerical weather prediction (NWP) systems whose distributions differ substantially from ERA5. Direct initialization with these states can degrade autoregressive forecasts, motivating input adaptation that keeps the pretrained forecasting model unchanged. Here, we introduce WeatherBridge, a unified, source-conditioned adapter that maps heterogeneous operational NWP initial states to ERA5 reference states without updating the pretrained forecasting model. WeatherBridge predicts the structured residual corrections with a Swin-UNet and injects source embeddings across multiple spatial scales, allowing the model to capture shared atmospheric structure and source-specific discrepancies. Its training objective combines latitude-weighted ERA5 reconstruction with One-step Rollout Alignment (ORA), which backpropagates one-step forecast error through a frozen FuXi model to optimize the adapted states for both initial state fidelity and downstream forecast compatibility. We evaluate WeatherBridge using daily GFS, HRES, and CMA initializations from 1 January to 22 November 2025 across six variables and lead times up to 240 hours. Relative to raw source initialization of FuXi, WeatherBridge reduces the mean RMSE of FuXi over the 6- 240-hour rollout for 17 of 18 source-variable combinations, with a median reduction of 10.2% and a maximum reduction of 46.3%. The adapter trained with frozen FuXi also improves FengWu forecasts on GFS inputs without retraining either the adapter or FengWu. These results demonstrate that forecast-aware input adaptation can improve forecasts from heterogeneous operational NWP inputs and transfer across pretrained ERA5-based forecasting models.",
+  "authors": [
+   "Mutian Xi",
+   "Xinyu Su",
+   "Xiaohui Zhong",
+   "Hao Li"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Mutian Xi",
+  "pdf_url": "http://arxiv.org/pdf/2610.14863",
+  "primary_category": "cs.AI",
+  "published": "2026-10-10",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "WeatherBridge: Forecast-Aware Multi-Source Input Adaptation for Pretrained Weather Forecasting Models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-10"
+ },
  "2610.15111": {
   "abstract": "Data and the governing partial differential equations (PDEs) of continuous-time dynamical systems provide rich structure for statistical learning. A central challenge is how to integrate data with PDE constraints in a principled way to improve generalization. In this paper, we characterize the statistical estimation and generalization properties of learning solutions to the heat equation with a noisy source function from finite, randomly sampled data. We first derive a novel variational formulation, which we characterize as the minimizer of loss function for an energy regularized and ellipticity debiased Sobolev regression. By formulating the learning task as a supervised problem over space-time domains under physically meaningful norms, our approach goes beyond the traditional supervised learning framework by effectively leveraging \\emph{auxiliary data}---samples of the source function of the heat equation---to design a \\emph{physics-informed energy regularization}. Our analysis reveals that learning in linear parabolic PDEs exhibits intrinsic anisotropy between spatial and temporal regularity, in sharp contrast to the static elliptic problems, leading to fundamentally different estimation and generalization behaviors. Specifically, we derive non-asymptotically rate-optimal estimation errors, as well as generalization error, which explicitly capture the interplay among temporal sampling, spatial resolution, and solution smoothness. Our numerical experiments demonstrate substantial orders of magnitude of reduction in testing errors against various physics-informed neural network methods on various parabolic and hyperbolic PDEs.",
   "authors": [
@@ -3126,6 +4301,32 @@
   "title": "Full Waveform Inversion with a Learned Preconditioner",
   "topics": [
    "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15540": {
+  "abstract": "Deep-learning models increasingly rival numerical simulation in Earth-system forecasting, yet forecast error alone cannot determine whether their learned input-output dependencies are physically consistent. Here we introduce sensitivity fidelity as an additional criterion: alongside prediction error, model responses to input perturbations should be examined against a trusted reference or established physical knowledge. In an idealized Rayleigh-Bénard convection benchmark, four surrogate architectures achieved low forecast errors yet encoded markedly different sensitivities. Quantitative comparison with a matched adjoint distinguished the models far more sharply than forecast accuracy and showed that predictive skill and sensitivity fidelity need not coincide, while finite-perturbation experiments further linked these differences to the propagation of initial-condition uncertainty. We then applied this strategy to El Niño-Southern Oscillation prediction, where no adjoint reference exists and learned sensitivities showed event-wise robustness, validity under finite perturbations, and consistency with established precursors. These results identify gradient-based evaluation as a discriminating complement to forecast-error metrics, providing a practical test of whether data-driven Earth-system models learn physically credible dependencies.",
+  "authors": [
+   "Qi Chen",
+   "Peng Zhan",
+   "Hongxing Cui",
+   "Wenqing Cui",
+   "Ibrahim Hoteit"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Qi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.15540",
+  "primary_category": "cs.LG",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "Sensitivity Fidelity Reveals Physical Dependencies Beyond Forecast Accuracy in Deep-Learning Earth-System Models",
+  "topics": [
+   "Climate, Weather & Geophysics"
   ],
   "updated": "2026-10-11"
  },
@@ -3197,6 +4398,7 @@
   ],
   "title": "Mesh-Free Convolution: Learned Spectral Attenuation and Transport",
   "topics": [
+   "Climate, Weather & Geophysics",
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-10-11"
@@ -3245,5 +4447,462 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-10-12"
+ },
+ "2610.16584": {
+  "abstract": "This work investigates the incidence of rapid ice-loss events in the Arctic, in which a substantial fraction of September sea-ice is lost in only a few years. Such events are seen to occur in climate model simulations forced with increasing greenhouse gas concentrations, but not as yet in the relatively short observational record. We train a convolutional neural network (CNN) using six large climate model ensembles to diagnose vulnerability to rapid ice-loss events. The trained model is shown to separate higher and lower risk states in out-of-sample climate models via a leave-one-out cross-validation. The model emphasises the role of persistently thin sea-ice, remaining sea-ice extent and sustained high upper ocean heat content as predictors of rapid ice-loss. The CNN is applied to observational data over the satelite-era showing a signal for rapid ice-loss prior to a drop around 2007 and an increasing risk from around 2015 to present. Such rapid-ice loss events would likely have dramatic consequences for Arctic ecosystems, coastal communities and global shipping.",
+  "authors": [
+   "Matthew Patterson",
+   "Ioana Colfescu",
+   "Nathan Kirk",
+   "Graeme MacGhilchrist"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "Submitted (or soon to be submitted) to Machine Learning: Earth",
+  "first_author": "Matthew Patterson",
+  "pdf_url": "http://arxiv.org/pdf/2610.16584",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "Identifying Arctic states vulnerable to rapid ice loss with a convolutional neural network",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17502": {
+  "abstract": "As power systems shift toward high shares of wind and solar, long-duration storage becomes pivotal for balancing multi-day deficits and surpluses of uncertain supply and demand. Current dispatch strategies for long-duration storage either assign a fixed value to stored energy or extend the modeled horizon using a single forecast. Stochastic system dispatch with a multi-day horizon for long-duration storage remains unexplored, and existing stochastic dispatch only considers day-ahead uncertainty or Markovian uncertainty beyond one week of perfect foresight. Therefore, we benchmark stochastic multi-day dispatch against deterministic alternatives in a rolling-horizon setup. To emulate probabilistic multi-day forecasts, we combine diffusion with a semi-Markov model of weather regimes and a logistic growth model for meteorological forecast errors. At high renewable shares, stochastic operation reduces thermal backup generation and consistently eliminates loss of load. The benefits decrease with smaller shares of renewables, less long-duration storage, or higher forecast skill. Overall, our results suggest that systems with high shares of variable renewables can substantially benefit from probabilistic multi-day forecasts and stochastic dispatch.",
+  "authors": [
+   "Leonard Göke"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Leonard Göke",
+  "pdf_url": "http://arxiv.org/pdf/2610.17502",
+  "primary_category": "eess.SY",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "Multi-Day Stochastic Dispatch for Power Systems With Long-Duration Storage Using Diffusion-Generated Weather Forecasts",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17693": {
+  "abstract": "We present HiRO-ACEv2 (High Resolution Output Ai2 Climate Emulator), a two-stage framework for AI emulation of the 3~km resolution X-SHiELD global storm-resolving model (GSRM), and highlight its ability to generate large ensembles of data for studying the characteristics of tropical cyclones and extreme events in high-resolution simulations at an inference computational cost over 300 times lower than that of traditional numerical GSRMs. HiRO-ACEv2 expands upon the precipitation-only HiRO-ACEv1 model to generate coherent precipitation, 10~m winds, and sea level pressure outputs, enabling a broader range of events to be simulated at high-resolution. Fine-resolution predictions are generated by running an autoregressive emulator of coarsened X-SHiELD at 100 km, whose multivariate outputs are regionally downscaled to 3~km resolution via a separately trained diffusion model. Particular importance is placed on capturing the statistics of extreme events during the diffusion downscaling step. Our ability to match the tails of distributions and generate realistic-looking extreme events in both the `perfect prediction' case as well as in free-running emulator rollouts is improved via the use of multiple denoisers at inference time and several updates to the data sampling, noise sampling, and loss weighting during training. HiRO-ACEv2 closely matches the high-resolution reference distributions of precipitation and near-surface winds out to their 99.9999th percentile values, and broadly tracks the reference distribution of tropical cyclone intensities.",
+  "authors": [
+   "Anna Kwa",
+   "W. Andre Perkins",
+   "Troy Arcomano",
+   "Noah D. Brenowitz",
+   "Christopher S. Bretherton",
+   "Spencer K. Clark",
+   "Lucas M. Harris",
+   "Jeremy McGibbon",
+   "Michael S. Pritchard",
+   "Oliver Watt-Meyer"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Anna Kwa",
+  "pdf_url": "http://arxiv.org/pdf/2610.17693",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Extreme events and statistics in an AI emulator of a global storm-resolving model",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18323": {
+  "abstract": "Practical remote sensing applications often require both understanding and generation capabilities for the same geographic scene. However, most existing methods address either understanding or generation in isolation, while existing unified remote sensing models' generative ability is limited to text-to-image. To bridge this gap, we propose Omni-RS, a unified framework supporting four remote sensing understanding tasks and five generation tasks. Specifically, we introduce the \"Scene-Guided Two-Stage Training\" strategy, which first adapts a multimodal large language model to remote sensing understanding and then uses its hidden states to guide a diffusion transformer for image generation. To enable joint learning across diverse generation tasks, we construct UniGen, a unified multi-task generation dataset, by organizing heterogeneous remote sensing data into a unified format. Furthermore, we introduce \"Detailed Visual Conditioning\", which uses visual conditions encoded by a VAE to guide the generation process, thereby supporting additional generation tasks that require reference images. Extensive experiments demonstrate that Omni-RS performs exceptionally well in understanding tasks and has achieved outstanding results in a variety of generative tasks.",
+  "authors": [
+   "Pan Yin. Shuai Yang",
+   "Yuanhao Liu",
+   "Datao Tang",
+   "Jialin Li",
+   "Hao Wang",
+   "Pei Liu",
+   "Kaiyu Li",
+   "Cong Zhao",
+   "Xiangyong Cao"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Pan Yin. Shuai Yang",
+  "pdf_url": "http://arxiv.org/pdf/2610.18323",
+  "primary_category": "cs.CV",
+  "published": "2026-10-13",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18702": {
+  "abstract": "Accurate forecasting of optical turbulence (OT) is useful to optimise telescope scheduling and maximising observing efficiency, as the performance of adaptive optics systems strongly depends on turbulence conditions. While various numerical weather prediction and machine learning models are developed to predict these complex turbulence properties, properly evaluating their added value requires well-defined baseline reference models. This study establishes baseline performance thresholds for key astroclimatic parameters using two distinct models: one forecasting the parameter average over a specific timescale, and the other forecasting the temporal evolution over the same specific timescale. We apply these frameworks to extensive, multi-year datasets from the sites of the Very Large Telescope (VLT) and the Large Binocular Telescope (LBT) and discuss the possibility of extrapolating reference values of forecast performances for other sites based on their optical turbulence statistical characteristics. Our results show that baseline predictive accuracy varies according to the observing site, the specific parameter, the chosen timescale, and the forecasting approach. Therefore, an OT forecasting model's accuracy cannot be quantified in absolute terms, but relatively to the baseline.",
+  "authors": [
+   "M. De Sepibus",
+   "E. Masciadri",
+   "C. Weinberger",
+   "A. Otarola",
+   "S. Miesske",
+   "C. Veillet",
+   "S. Ragland"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "physics.ao-ph"
+  ],
+  "comment": "Comments: 24 figures, 1 table",
+  "first_author": "M. De Sepibus",
+  "pdf_url": "http://arxiv.org/pdf/2610.18702",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Establishing baseline model performances for optical turbulence forecasting",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19217": {
+  "abstract": "We present the RemoTAP-Hybrid algorithm for global aerosol products retrieved from Multi-Angle Polarimeters (MAP), and apply it to one-year aerosol retrievals from the SPEXone MAP instrument. For the first time, Multiple Collaborated Neural Networks (MCNN) are used to perform global aerosol MAP retrievals over land and ocean. The combined use of MCNN with a full physics inversion in RemoTAP-Hybrid, significantly improves accuracy and computational speed of SPEXone aerosol retrievals. We validate the retrieved Aerosol Optical Depth (AOD), Angstrom Exponent (AE), Single Scattering Albedo (SSA), Absorption AOD (AAOD), Fine mode AOD (FAOD), Coarse mode AOD (CAOD), and fine mode effective radius (reff_fine) with AERONET data. The validation suggests that aerosol retrievals can be further improved when extending the aerosol description to include a fine non-spherical mode. For AOD, the Root-Mean-Square Error (RMSE) is 0.051 (0.037) over land (ocean), while 78.3% (80.8%) of the retrievals are within the requirement formulated by the Global Climate Observing System (GCOS). The RMSE is 0.186 (0.207) for AE, 0.038 (0.044) for SSA, 0.023 (0.014) for AAOD, 0.047 (0.031) for FAOD, 0.043 (0.027) for CAOD, and 0.021 (0.026) for reff_fine over land (ocean). Compared to the current RemoTAP algorithm, RemoTAP-Hybrid shows improved agreement with AERONET for AOD, AE, and FAOD over land and ocean while the number of valid retrievals is increased by 4% (3%) over land (ocean) and the computational time is reduced by 43% (32%). Finally, we present the first global seasonal maps of aerosol optical and microphysical properties and chemical composition from SPEXone.",
+  "authors": [
+   "Guangliang Fu",
+   "Sha Lu",
+   "Meng Gao",
+   "Jeroen Rietjens",
+   "Otto Hasekamp"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "19 pages, 16 figures. This article has been accepted for publication in IEEE Transactions on Geoscience and Remote Sensing. The supplemental material is available from https://ieeexplore.ieee.org/document/11488611/",
+  "first_author": "Guangliang Fu",
+  "pdf_url": "http://arxiv.org/pdf/2610.19217",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Collaborative Neural Networks significantly Improve Global Aerosol Retrievals From Multi-Angle Polarimeters",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19270": {
+  "abstract": "The ecological insurance theory posits that diverse forests are more resilient and better able to adapt to changing environmental conditions. Increasing drought and heat stress in Central Europe promotes mixed forests for maintaining ecosystem services. However, a diverse species distribution complicates remote sensing-based species mapping, as distinguishing pure from mixed species compositions at the pixel level remains challenging. We evaluated the potential of recurrent neural networks (RNNs) for tree-species classification from Sentinel-2 time series and investigated the spectral-temporal features underlying class discrimination, with particular emphasis on separating pure from mixed Norway spruce pixels. We compared RNN classification models with Random Forest (RF) and Extreme Gradient Boosting (XGBoost) and used Integrated Gradients (IG) to quantify feature attributions across spectral bands and time. The best-performing RNN achieved a Macro-F1 score of 0.851 on the test data, outperforming XGBoost by 0.012 and Random Forest by 0.103. Beyond classification performance, the attribution analysis revealed distinct spectral-temporal patterns associated with the separation of pure and mixed Norway spruce pixels. Attribution values increased particularly after approximately day of year (DOY) 125, while B11 showed the strongest contribution during periods of increasing spectral divergence between the two classes. These findings show that recurrent models can provide competitive classification performance while also revealing the phenological periods and spectral regions that are most relevant for distinguishing closely related forest compositions. Combining time-series classification with explainability therefore provides additional insight into the spectral-temporal mechanisms underlying tree-species discrimination and may support more detailed mapping of mixed forest structures.",
+  "authors": [
+   "Maximilian Kirsch",
+   "Christine Preisach"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Maximilian Kirsch",
+  "pdf_url": "http://arxiv.org/pdf/2610.19270",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Exploring Interpretability in Deep Learning-Based Forest Classification - Separating Similar Forest Classes using Sentinel-2 Time Series",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19772": {
+  "abstract": "This work introduces a Process Additive Neural Network (PANN) framework to disentangle compensating biases in atmospheric models, where errors in different physical processes can offset each other and obscure their origins. Using a single-column model, each PANN branch represents the tendency error associated with a separate physical process, and the summed branch outputs approximate the total error relative to a reference tendency. Once trained successfully, the branch outputs are expected to provide process-level error attributions and, when averaged, estimates of process-level bias. Initial experiments focus on cloud-related processes in OpenIFS SCM case studies, where cloud and convection tendencies are strongly coupled and compensation is difficult to diagnose using standard approaches. The aim is not to replace human interpretation of physical processes, but to extend it to regimes where model complexity, process interaction, and compensating errors make direct diagnosis difficult. By providing a physically structured form of machine-learning interpretability, PANN can help connect complex model behaviour with process-level explanations. This work supports both improved understanding of compensating errors and the development of more physically consistent weather and climate models.",
+  "authors": [
+   "Yuiko Ichikawa",
+   "Edward Groot",
+   "Jack Atkinson"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "Accepted at the NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning (TCCML). Corresponding author: yuiko.ichikawa@ouce.ox.ac.uk",
+  "first_author": "Yuiko Ichikawa",
+  "pdf_url": "http://arxiv.org/pdf/2610.19772",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Unmasking Compensating Errors in Numerical Weather Models: A Process-Additive Neural Network Approach",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19885": {
+  "abstract": "Inferring climate fields at higher spatio-temporal resolutions from coarse representations is essential for accessing socioeconomic and environmental impacts. The downscaling of modelled climate fields faces a trade-off between data storage constraints, simulation efficiency, and resolution requirements. While many methods for spatial downscaling have been proposed, joint spatio-temporal downscaling has received comparable little attention. When deriving, for example, daily fields from climate datasets that are available only as monthly averages at coarser spatial resolution, it is highly challenging to faithfully reproduce extreme event statistics and spatiotemporal consistency. To address this task, we introduce a generative machine learning approach, using a diffusion model to jointly downscale monthly temperature and precipitation fields into temporally consistent daily fields at higher spatial resolution. We demonstrate that our approach can generate high-dimensional multivariate climate fields at daily temporal and 0.25° spatial resolution from monthly input fields at 1° spatial resolution, exhibiting coherent temporal dynamics and physically plausible spatial structures. In particular, by incorporating a conditional guidance technique, we show that a pre-trained diffusion model can be directly leveraged to efficiently generate daily high-resolution fields conditioned on monthly inputs, without requiring additional fine-tuning or retraining. Our probabilistic approach thus provides an efficient and generalizable framework for spatio-temporal climate downscaling, enabling flexible climate fields generation for climate impact assessments and digital Earth simulator constructions.",
+  "authors": [
+   "Yu Huang",
+   "Shangshang Yang",
+   "Sebastian Bathiany",
+   "Michael Aich",
+   "Philipp Hess",
+   "Niklas Boers"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Yu Huang",
+  "pdf_url": "http://arxiv.org/pdf/2610.19885",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Generative modelling for multivariate spatio-temporal downscaling of monthly climate fields",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20405": {
+  "abstract": "Conventional deep convection schemes remain a primary source of uncertainty in global climate models, yet replacing them with data-driven alternatives while maintaining physical consistency and numerical stability is an open challenge. We present a hybrid configuration of the Community Atmosphere Model version 6 (CAM6), in which a fully connected deep neural network replaces the Zhang-McFarlane deep convection scheme (ZM), while radiation, turbulence, and other cloud processes are left unchanged. The network is trained on output from a storm-resolving global model - the global System for Atmospheric Modeling (gSAM) - using a coarse-graining approach to derive subgrid-scale convective fluxes and tendencies. This data-driven parameterization is ported to CAM6 and found to run stably for more than a decade while conserving energy and moisture. It produces a broadly realistic climatology without retuning the remaining parameterizations. Relative to the default Zhang-McFarlane scheme, the neural network parameterization substantially improves some long-standing model deficiencies. In particular, the biases in light precipitation and extreme precipitation are markedly reduced, and the diurnal cycle of tropical land precipitation shifts from a spurious midday peak over many regions to the observed late-afternoon peak. These results support targeted ML-based convection schemes as a viable path toward reducing systematic model errors in next-generation climate models.",
+  "authors": [
+   "Xavier J. Levine",
+   "Griffin Mooers",
+   "Jack W. Atkinson",
+   "Marat F. Khairoutdinov",
+   "Janni Yuval",
+   "Dominic Orchard",
+   "Paul A. O'Gorman"
+  ],
+  "categories": [
+   "physics.ao-ph"
+  ],
+  "comment": "Submitted to Journal of Advances in Modeling Earth Systems (JAMES). 45 pages, 8 figures; Supporting Information appended",
+  "first_author": "Xavier J. Levine",
+  "pdf_url": "http://arxiv.org/pdf/2610.20405",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Improved Precipitation Variability in the Community Atmosphere Model through Implementation of a Neural-Network Deep Convection Scheme",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20541": {
+  "abstract": "Jupiter's faint ring system contains micron- and submicron-sized dust whose dynamics are influenced by the planet's rapidly rotating magnetic field. Optical observations have established the morphology of the main ring and halo, but tenuous dust close to Jupiter remains difficult to characterize. We analyze nearly a decade of in-situ Juno Waves electric-field measurements using a two-stage convolutional neural network to identify and classify dust impacts, solitary waves, and other plasma waves. These in-situ dust-impact detections reveal a radially evolving structure extending well inside the traditionally observed halo. In the innermost region, dust is concentrated in a compact, equatorially symmetric layer, indicating that the optical inner boundary does not mark the end of the dust population. Farther outward, the layer expands vertically into a broad halo before contracting toward the main ring, directly revealing the toroidal morphology of the Jovian halo. Dust number density is enhanced within the halo and near the main-ring--halo transition. The vertical distribution also develops hemispheric asymmetries that vary with radial distance, consistent with an influence of Jupiter's magnetic geometry on charged-dust dynamics. In contrast, solitary waves occur predominantly at high latitudes, and their mapped magnetic footprints show a strong spatial correspondence with Jovian auroral structures, particularly the main auroral oval. Together, these in-situ measurements extend the remote-sensing picture of Jupiter's rings and reveal previously unresolved dust and plasma structures in its innermost magnetosphere.",
+  "authors": [
+   "Wenyu Zhang",
+   "Hao Cao",
+   "William S. Kurth",
+   "Mitchell M. Shen",
+   "Darrelle Wilkinson",
+   "Donglai Ma",
+   "Martin Brennan",
+   "George Hospodarsky",
+   "Scott J. Bolton"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "physics.space-ph"
+  ],
+  "comment": "Submitted to Astrophysics Journal (APJ)",
+  "first_author": "Wenyu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.20541",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Revealing the Spatial Distribution of Dust and Plasma Solitary Waves in Jupiter's Innermost Magnetosphere Using Juno Waves Observations",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20918": {
+  "abstract": "Utilities request mutual aid crews to restore power after severe storms, and requesting early secures more crews but relies on less accurate forecasts. We examined how forecast lead time affects the value of outage predictions for crew deployment, using operational forecasts from two AI weather models, GraphCast and FourCastNet, to predict outage occurrence for counties across the contiguous United States 24 to 120 hours ahead. Forecasts were evaluated by the share of outage burden captured by the counties where crews would be staged. Captured burden declined with lead time: the loss between three and five days was significant in all analyses, whereas the loss within three days was significant only for outages that had not yet started. Early deployment with all requested crews outperformed late deployment with fewer, and we report the availability ratio at which the two break even. Antecedent land surface predictors computed at forecast valid time include weather from the forecast period, which inflates their skill by 42 to 53% and reverses their apparent advantage over forecast meteorology at long lead times. Computed correctly, they improved occurrence skill by 17.5% at 24 hours but did not significantly change captured burden, a gap that attribution analysis linked to their static component. Prediction intervals covered only 0.476 of tropical cyclone events against a nominal 0.90. Calibration by hazard class corrected most of this shortfall at an 11% cost in interval width, as a diagnostic only, because hazard class is known only after the event.",
+  "authors": [
+   "Mohammad Kian Golkar",
+   "Luciano Alves de Oliveira",
+   "Mohamad Alipour"
+  ],
+  "categories": [
+   "physics.ao-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Mohammad Kian Golkar",
+  "pdf_url": "http://arxiv.org/pdf/2610.20918",
+  "primary_category": "physics.ao-ph",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.21084": {
+  "abstract": "Scientific prediction under uncertainty requires more than a single future state: it requires the distribution of possible outcomes. We show that this distribution-valued evolution can be learned directly as a stochastic solution operator between arbitrary source and target times. We introduce Stochastic Latent Twins, which represent the physical state through a deterministic encoder-decoder while placing stochasticity entirely in a probability-valued latent evolution map. This separation makes the stochastic transition law independent of the state representation and enables direct probabilistic prediction without recursive time stepping.   We establish an end-to-end Wasserstein approximation theory that separates representation and latent-transition errors, derive stability guarantees, and develop a distributional theory of physics conformity with latent-to-physical transfer bounds and conformity by construction. The resulting framework can be learned directly from observed transitions and supports forward prediction, backward conditional evolution, one-shot generation, and physics-conforming stochastic dynamics within the same formulation. Numerical experiments ranging from linear and non-Gaussian SDEs to stochastic Lorenz dynamics, generative modeling, a stochastic Hamiltonian system, and a two-dimensional stochastic Burgers equation verify the theory, expose the distinct roles of state representation and transition-family expressivity, compare favorably with recent stochastic and one-step generative methods, and demonstrate exact physical conservation by construction. More broadly, Stochastic Latent Twins provide a step toward scientific surrogates that represent not only the evolution of a system, but also its uncertainty and physical structure, opening new opportunities across uncertainty quantification, data assimilation, inverse problems, control, and digital twins.",
+  "authors": [
+   "Matthias Chung",
+   "Jack Michael Solomon",
+   "Deepanshu Verma"
+  ],
+  "categories": [
+   "cs.CE",
+   "math.NA"
+  ],
+  "comment": "47 pages, 15 figures, 6 tables",
+  "first_author": "Matthias Chung",
+  "pdf_url": "http://arxiv.org/pdf/2610.21084",
+  "primary_category": "cs.CE",
+  "published": "2026-10-15",
+  "tags": [
+   "data-assimilation",
+   "inverse-problems",
+   "uncertainty-quantification"
+  ],
+  "title": "Stochastic Latent Twins: Learning Stochastic Solution Operators",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21259": {
+  "abstract": "The unimolecular dynamics of Criegee intermediates depend strongly on their internal energy, which can differ substantially between nascent atmospheric species and laboratory-prepared reactants. Here, the decomposition dynamics of {\\it anti-}CH$_3$CHOO are investigated using molecular dynamics simulations on a neural network-based potential energy surface under thermal and mode-selective vibrational excitation. Simulations were performed at internal energies representative of those released during ozonolysis (chemical/thermal preparation, TP) or following vibrational excitation (VibEx) along the CH-stretching mode with two or three quanta, as can be done in laboratory studies. These excitation conditions strongly affect reaction yields and kinetics, with VibEx promoting passage across the initial cyclization barrier. For TP, 35 kcal/mol of internal energy are required to form molecular products, whereas for VibEx, 27 kcal/mol are sufficient. Although TP and VibEx ensembles access largely the same fragmentation pathways with comparable relative yields, the absolute product yields, characteristic timescales, and kinetic behavior differ substantially. Methyldioxirane is found to be a kinetic trap along the pathway. The resulting molecular-level description of {\\it anti-}CH$_3$CHOO decomposition provides guidance for interpreting experiments and contributes to a broader understanding of energy-dependent Criegee-intermediate dynamics.",
+  "authors": [
+   "Mitradip Das",
+   "Cangtao Yin",
+   "M. Meuwly"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Mitradip Das",
+  "pdf_url": "http://arxiv.org/pdf/2610.21259",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Energy Flow Shapes the Decomposition Dynamics of a Reactive Atmospheric Intermediate",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21482": {
+  "abstract": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For instance, in addressing climate change, AI-powered models are being used for faster and more accurate global weather forecasting, control and design of renewable energy, and monitoring deforestation. Machine learning algorithms analyze satellite imagery and socioeconomic data to predict poverty and promote sustainable development. AI has also transformed disaster response and conflict monitoring, providing innovative solutions for assessing damage and urgent needs and tracking displacement.",
+  "authors": [
+   "Noora Al-Emadi",
+   "Muhammad Imran",
+   "Yin Yang",
+   "Ingmar Weber",
+   "Fabjan Lashi",
+   "Gaia Rigodanza",
+   "Ivana Hajzmanova",
+   "Ferda Ofli"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Noora Al-Emadi",
+  "pdf_url": "http://arxiv.org/pdf/2610.21482",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [
+   "weather-forecasting"
+  ],
+  "title": "AI-Driven Disaster Response and Displacement Monitoring",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21502": {
+  "abstract": "Internal solitary wave (ISW) remote sensing requires task parameters and spatial information to be transferred across image acquisition, detection, stripe extraction, and propagation prediction. Here, we present ISW-Agent, which integrates large language model (LLM) interpretation with n8n workflows and independent scientific models through structured task constraints, geospatial transformations, and stage-specific output validation. In tests of 120 Chinese instructions per backend, GPT-5.6 Sol and DeepSeek both achieved a strict task-match rate of 94.2%, with all intents and execution decisions matching the reference. Sentinel-1 cases demonstrated continuous processing from dialogue requests to wavefront prediction for the specified scene. Of 50 timed scenes, 39 completed detection, extraction, and prediction with a median turnaround time of 48.04 s; 11 stopped after empty extraction. Across 3,408 controlled fault-injection runs, retries recovered 234 transient-failure conditions and output validation rejected 234 structural defects, while 61 provenance or completeness errors indicated the need for content-consistency checks. Overall, ISW-Agent thus connects natural-language requests to traceable spatial processing chains for multimodel ISW analysis.",
+  "authors": [
+   "Hao Zhang",
+   "Hengrui Liu",
+   "Lina Sun",
+   "Junmin Meng"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Hao Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.21502",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21993": {
+  "abstract": "Labeled Sentinel-1 Ground Range Detected (S1GRD) datasets remain scarce, limiting supervised deep learning for land-surface remote sensing, while self-supervised pretraining for this domain has been dominated by Vision Transformer (ViT)-based masked image modeling requiring substantial data and compute. We propose SparK-SAR, a sparse convolutional masked pretraining framework built on SparK and ConvNeXt, designed to exploit convolutional inductive biases for S1GRD imagery under constrained compute. SparK-SAR makes three core technical contributions: (i) ConvNeXt-RS, a domain-adapted encoder that halves the stem stride (4x to 2x) to produce 14x14 feature maps at stride 16x, providing 4x more spatial tokens at identical parameter count; (ii) a lightweight ConvNeXt-512 reconstruction decoder with PixelShuffle upsampling that reduces pretraining VRAM by 7.5-8.5% per GPU relative to a UNet-128 baseline while matching its accuracy; and (iii) an empirical characterization of FP16 mixed-precision pretraining instability in the standard SparK UNet-768 decoder on S1GRD data, complemented by a finding that finetuning with layer-wise learning rate decay (LLRD) improves downstream performance of pretrained encoders. On four Copernicus-Bench S1GRD tasks, our finetuned 27.8M-parameter ConvNeXt-RS encoder improves over a non-pretrained baseline by +4.7, +5.0, +5.8, and +1.4 pp on EuroSAT-S1, BigEarthNet-S1, DFC2020-S1, and Flood-S1 respectively, and outperforms the Copernicus-FM ViT (139M parameters, frozen) on three of four tasks at roughly 5x fewer parameters. A pretraining data-scaling study reveals task-dependent data efficiency: classification saturates with as little as 10-25% of the SSL4EO-S12 v1.1 corpus, while dense prediction continues to improve significantly up to 25-50%. The study also includes a CKA representation analysis and a geographic de-collision experiment.",
+  "authors": [
+   "Yuki Natsume",
+   "Sang-Ho Yun",
+   "Chai Kiat Yeo"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "30 pages, 9 figures. Extends a preliminary paper to be presented at SPIE Asia Pacific Remote Sensing 2026",
+  "first_author": "Yuki Natsume",
+  "pdf_url": "http://arxiv.org/pdf/2610.21993",
+  "primary_category": "cs.CV",
+  "published": "2026-10-15",
+  "tags": [
+   "remote-sensing"
+  ],
+  "title": "Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22077": {
+  "abstract": "Weather prediction is undergoing an important shift, with data-driven AI models outperforming leading numerical weather prediction systems on average at a fraction of the computational cost. Yet, whether this success extends to extreme events remains contested. Earlier evaluations have exposed important shortcomings, but have largely focused on deterministic models and metrics, leaving the capabilities of the latest probabilistic models less understood. We conduct an extensive benchmark of tropical cyclone forecasting, comparing GenCast, FourCastNet 3, and FGN with ECMWF's operational physics-based ensemble, IFS-ENS. We develop a suite of probabilistic metrics and diagnostic analyses to assess cyclone tracking, intensity biases, uncertainty, and the wind-pressure relationship that characterizes storm structure. We find that, despite remaining limitations in intensity and ensemble spread, leading AI models substantially outperform IFS-ENS in cyclone tracking: FGN achieves better probabilistic location scores for 90% of evaluated storms in 2025. Further analyses reveal model-specific failure modes and suggest a lingering influence of pretraining data, pointing to opportunities for targeted improvement. Nonetheless, these results suggest that AI models are capable of capturing physical relationships that remain predictive well beyond typical weather conditions, motivating further investigation into how these capabilities emerge and how to strengthen them.",
+  "authors": [
+   "Nathan Chalumeau",
+   "Xavier Renard",
+   "Remi Meynadier",
+   "Hugo Rakotoarimanga",
+   "Marcin Detyniecki",
+   "Emmanuel de Bezenac"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": null,
+  "first_author": "Nathan Chalumeau",
+  "pdf_url": "http://arxiv.org/pdf/2610.22077",
+  "primary_category": "cs.LG",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Can AI Forecast the Extremes? Evaluating Probabilistic Weather Models on Tropical Cyclones",
+  "topics": [
+   "Climate, Weather & Geophysics"
+  ],
+  "updated": "2026-10-15"
  }
 }

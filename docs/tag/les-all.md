@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>les — all</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <a href="les-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10430.html">Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields</a></div></td>
+<td>Peng Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10430">2610.10430</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16237.html">Improving Reduced-Order Rotating Detonation Engine Models with Data Assimilation and Machine Learning</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>

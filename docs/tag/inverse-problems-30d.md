@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04326.html">LyapuFlow: Controlling Generative Flows with Lyapunov Feedback for Inverse Problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
@@ -104,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19345.html">Inverse Problems in Musical Instrument Modeling: A Structured Taxonomy and Review</a></div></td>
 <td>Xinmeng Luan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19345">2609.19345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16536.html">Structure-Driven Inversion: A New Paradigm for Solving Inverse Problems</a></div></td>
-<td>Shengchang Chen</td>
-<td><a href="http://arxiv.org/abs/2609.16536">2609.16536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22321.html">Toward Well-Posed Problems in the Social Sciences: Hadamard&#x27;s Criteria as Epistemic Guardrails</a></div></td>
-<td>Don Li</td>
-<td><a href="http://arxiv.org/abs/2609.22321">2609.22321</a></td>
 </tr>
 </tbody></table>

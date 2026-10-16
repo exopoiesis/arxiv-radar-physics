@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13258.html">Neural Surrogate Modeling of Ultrasonic Wave Propagation in Heterogeneous Media</a></div></td>
 <td>Burla Nur Korkmaz et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13258">2610.13258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11120.html">Numerical Neural Operator: Connection Between Numerical Analysis and the Operator Learning and Building Discretized Neural Operators from Finite Element Methods</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Zecheng Zhang</td>
-<td><a href="http://arxiv.org/abs/2610.11120">2610.11120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11931.html">Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing</a></div></td>
-<td>Wenshuai Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11931">2610.11931</a></td>
 </tr>
 </tbody></table>

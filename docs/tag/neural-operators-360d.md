@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2474,17 +2474,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18989.html">Towards Universal Solvers: Using PGD Attack in Active Learning to Increase Generalizability of Neural Operators as Knowledge Distillation from Numerical PDE Solvers</a></div></td>
 <td>Yifei Sun</td>
 <td><a href="http://arxiv.org/abs/2510.18989">2510.18989</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08277.html">Enabling Automatic Differentiation with Mollified Graph Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ryan Y. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08277">2504.08277</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18067.html">Multiscale Neural PDE Surrogates for Prediction and Downscaling: Application to Ocean Currents</a></div><div class="paper-tags"><a href="oceanography-360d.html">oceanography</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Abdessamad El-Kabid et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18067">2507.18067</a></td>
 </tr>
 </tbody></table>

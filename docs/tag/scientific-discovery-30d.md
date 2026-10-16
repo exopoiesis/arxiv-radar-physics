@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,23 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19491.html">Efficiently Linking Unstructured Data for Multi-step Reasoning</a></div></td>
 <td>Jiaming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19491">2609.19491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11873.html">The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement</a></div></td>
-<td>Yi Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11873">2609.11873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16736.html">Dataset repurposing and disruptive AI research</a></div></td>
-<td>Yulin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16736">2609.16736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16995.html">PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress</a></div></td>
-<td>Kevin Qinghong Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16995">2609.16995</a></td>
 </tr>
 </tbody></table>

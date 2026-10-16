@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>turbulence-modeling — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="turbulence-modeling-7d.html">7d</a> <a href="turbulence-modeling-30d.html">30d</a> <a href="turbulence-modeling-90d.html">90d</a> <strong>360d</strong> <a href="turbulence-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14534.html">Physics-guided Bayesian neural networks for zonal corrections and uncertainty quantification in separated flows</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ali Eidi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14534">2511.14534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17946.html">Accelerating Bayesian Inference via Multi-Fidelity Transport Map Coupling</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Sanjan C. Muchandimath et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17946">2510.17946</a></td>
 </tr>
 </tbody></table>

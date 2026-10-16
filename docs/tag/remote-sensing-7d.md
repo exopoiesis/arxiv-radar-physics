@@ -7,9 +7,48 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21502.html">ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing</a></div></td>
+<td>Hao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21502">2610.21502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21993.html">Data-Efficient ConvNeXt Pretraining for High-Resolution Sentinel-1 GRD SAR Representation Learning</a></div></td>
+<td>Yuki Natsume et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21993">2610.21993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18323.html">Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing</a></div></td>
+<td>Pan Yin. Shuai Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18323">2610.18323</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19270.html">Exploring Interpretability in Deep Learning-Based Forest Classification - Separating Similar Forest Classes using Sentinel-2 Time Series</a></div></td>
+<td>Maximilian Kirsch et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19270">2610.19270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13547.html">MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution</a></div></td>
+<td>Liuqian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13547">2610.13547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13857.html">Revisiting the Task of Building Damage Assessment by Satellite Imaging</a></div></td>
+<td>Anthony Cioppa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13857">2610.13857</a></td>
+</tr>
+</tbody></table>

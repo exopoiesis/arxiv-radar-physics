@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04326.html">LyapuFlow: Controlling Generative Flows with Lyapunov Feedback for Inverse Problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Minseon Gwak et al.</td>
@@ -2456,11 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18547.html">Hyperparameter Selection via Early Stopping for Bayesian Semilinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Maia Tienstra et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18547">2510.18547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17946.html">Accelerating Bayesian Inference via Multi-Fidelity Transport Map Coupling</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="rans-360d.html">rans</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Sanjan C. Muchandimath et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17946">2510.17946</a></td>
 </tr>
 </tbody></table>

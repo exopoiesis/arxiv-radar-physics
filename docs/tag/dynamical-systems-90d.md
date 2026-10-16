@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
 <td>Anand Kumar Agrawal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03314.html">DAWIS: Data Assimilation with Windowed Inverse Sampling via Multitask Interpolants</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Erik Wikingsson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03314">2610.03314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02511.html">Post-Training Quantization of Autoregressive Weather Models</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Ananyo Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02511">2610.02511</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-25</td>
@@ -530,11 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18433.html">Intelligence from Learnable Novelty</a></div></td>
 <td>Yanbo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18433">2607.18433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16177.html">Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems</a></div></td>
-<td>Matteo Tomasetto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16177">2607.16177</a></td>
 </tr>
 </tbody></table>

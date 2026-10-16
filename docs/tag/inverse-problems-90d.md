@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04326.html">LyapuFlow: Controlling Generative Flows with Lyapunov Feedback for Inverse Problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Minseon Gwak et al.</td>
@@ -428,11 +434,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19425.html">Waves 2026 Book of Abstracts</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Lise-Marie Imbert-Gerard et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19425">2607.19425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16047.html">Rigorous Time-dependent Hamiltonian Learning via Continuous Weak Measurements</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
-<td>Jesús Jiménez-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16047">2607.16047</a></td>
 </tr>
 </tbody></table>

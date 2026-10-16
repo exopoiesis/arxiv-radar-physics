@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,17 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19239.html">Lazy training of quantum physics informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Anderson Melchor Hernandez et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19239">2609.19239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17323.html">A derivative-free framework for capturing macroscopic behavior of incompressible turbulent flows</a></div></td>
-<td>Jihun Han et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17323">2609.17323</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div></td>
-<td>Jonathan Weare et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2610.13690">2610.13690</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09859.html">Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature</a></div><div class="paper-tags"><a href="hydrology-90d.html">hydrology</a></div></td>
+<td>Matthieu Meignin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09859">2610.09859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03396.html">A Unified Framework for Bayesian Data Assimilation with Generative Models and Observation Interpolants</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Nikolaj T. Mücke et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03396">2610.03396</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01502.html">Learned End-to-End Guidance Schedules for Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Aneesh Barthakur et al.</td>
@@ -380,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18144.html">Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints</a></div></td>
 <td>Thomas MacDougall et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18144">2607.18144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Sodtavilan Odonchimed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15693.html">Toward a mechanistic understanding of inference in visual cortex and diffusion models</a></div></td>
-<td>Zeyu Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15693">2607.15693</a></td>
 </tr>
 </tbody></table>

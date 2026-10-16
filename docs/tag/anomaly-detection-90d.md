@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02763.html">A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
+<td>Pann Thinzar Seint et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02763">2610.02763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31157.html">Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection</a></div></td>
 <td>Jianan Liu et al.</td>
@@ -278,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18479.html">Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Dorianis M. Perez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18479">2607.18479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15527.html">Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Sodtavilan Odonchimed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15527">2607.15527</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Matthias Chung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06509.html">Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Eliot Walt et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06509">2610.06509</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05188.html">Multiresolution Sobolev Trained Fourier Neural Operator for Cross-Resolution Surrogate Modelling of Parametric Two-Phase Darcy Flows in Porous Media</a></div></td>
@@ -3044,11 +3056,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20952.html">LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
 <td>Sungjun Cho et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20952">2510.20952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17994.html">Assessing Monotone Dependence: Area Under the Curve Meets Rank Correlation</a></div></td>
-<td>Eva-Maria Walz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17994">2510.17994</a></td>
 </tr>
 </tbody></table>

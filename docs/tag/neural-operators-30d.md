@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20794.html">PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Jiachen Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20794">2609.20794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18419.html">HiLNO: A Hierarchical Latent Neural Operator with Multi-Scale Supervision for PDEs on General Geometries</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Zhicheng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18419">2609.18419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Amartya Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
 </tr>
 </tbody></table>

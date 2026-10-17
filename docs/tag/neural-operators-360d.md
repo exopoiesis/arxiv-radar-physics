@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">410 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,17 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20017.html">Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators</a></div></td>
 <td>Dena Firoozi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20017">2510.20017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19049.html">In-Context Learning of Stochastic Differential Equations with Foundation Inference Models</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Patrick Seifner et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19049">2502.19049</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18989.html">Towards Universal Solvers: Using PGD Attack in Active Learning to Increase Generalizability of Neural Operators as Knowledge Distillation from Numerical PDE Solvers</a></div></td>
-<td>Yifei Sun</td>
-<td><a href="http://arxiv.org/abs/2510.18989">2510.18989</a></td>
 </tr>
 </tbody></table>

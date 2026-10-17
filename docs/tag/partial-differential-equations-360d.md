@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">771 papers</span>
+  <span class="paper-count">770 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4634,11 +4634,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21012.html">Graph Neural Regularizers for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>William Lauga et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21012">2510.21012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18547.html">Hyperparameter Selection via Early Stopping for Bayesian Semilinear PDEs</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Maia Tienstra et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18547">2510.18547</a></td>
 </tr>
 </tbody></table>

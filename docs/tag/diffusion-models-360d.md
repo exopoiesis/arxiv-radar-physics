@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">543 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3254,23 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06293.html">BlockGPT: Spatio-Temporal Modelling of Rainfall via Frame-Level Autoregression</a></div></td>
 <td>Cristian Meo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06293">2510.06293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02048.html">Regression is all you need for medical image translation</a></div></td>
-<td>Sebastian Rassmann et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02048">2505.02048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18744.html">Diffusion Buffer for Online Generative Speech Enhancement</a></div></td>
-<td>Bunlong Lay et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18744">2510.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19022.html">MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models</a></div></td>
-<td>Aritra Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19022">2510.19022</a></td>
 </tr>
 </tbody></table>

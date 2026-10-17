@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,29 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20666.html">Bayesian Jammer Localization with a Hybrid CNN and Path-Loss Mixture of Experts</a></div></td>
 <td>Mariona Jaramillo-Civill et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20666">2510.20666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07259.html">ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Daolang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07259">2506.07259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08113.html">Uncertainty quantification of a multi-component Hall thruster model at varying facility pressures</a></div></td>
-<td>Thomas A. Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08113">2507.08113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18400.html">Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion</a></div></td>
-<td>Linsong Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18400">2510.18400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19069.html">Hubble tension in an anisotropic Universe</a></div></td>
-<td>Maksym Deliyergiyev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19069">2510.19069</a></td>
 </tr>
 </tbody></table>

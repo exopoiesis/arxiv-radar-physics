@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">512 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3086,11 +3086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19579.html">Multi-modal Co-learning for Earth Observation: Enhancing single-modality models via modality collaboration</a></div></td>
 <td>Francisco Mena et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19579">2510.19579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02422.html">Sampling Kantorovich operators for speckle noise reduction using a Down-Up scaling approach and gap filling in remote sensing images</a></div></td>
-<td>Danilo Costarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02422">2505.02422</a></td>
 </tr>
 </tbody></table>

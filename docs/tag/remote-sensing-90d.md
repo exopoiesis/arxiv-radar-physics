@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>remote-sensing — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <strong>90d</strong> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,11 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17661.html">Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</a></div></td>
 <td>Philipp Vaeth et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17661">2607.17661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16671.html">Foundation-Assisted Active Learning for Object Detection Annotation</a></div></td>
-<td>Jinchang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16671">2607.16671</a></td>
 </tr>
 </tbody></table>

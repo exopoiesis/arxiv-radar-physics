@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">234 papers</span>
+  <span class="paper-count">232 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1406,17 +1406,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19251.html">Synthesizability Prediction of Crystalline Structures with a Hierarchical Transformer and Uncertainty Quantification</a></div></td>
 <td>Danial Ebrahimzadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19251">2510.19251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01042.html">MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature</a></div></td>
-<td>Hirofumi Tsuruta et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01042">2509.01042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18911.html">Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
-<td>Andrew J. Medford et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18911">2510.18911</a></td>
 </tr>
 </tbody></table>

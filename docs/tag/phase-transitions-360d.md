@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23489.html">Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hemish Ahuja et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23489">2510.23489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18469.html">Uncovering critical temperature dependence in Heusler magnets via explicit machine learning</a></div></td>
-<td>Jean-Baptiste Morée et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18469">2510.18469</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,11 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19774.html">How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
 <td>Domantas Kuryla et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19774">2510.19774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div></td>
-<td>Jacob Eller et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
 </tr>
 </tbody></table>

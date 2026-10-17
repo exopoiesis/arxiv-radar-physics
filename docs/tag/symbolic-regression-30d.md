@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20997.html">MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Peiyi Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20997">2609.20997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18531.html">How Much Hyperspectral Information Does Chlorophyll Retrieval Really Need?</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Abed Hammoud et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18531">2609.18531</a></td>
 </tr>
 </tbody></table>

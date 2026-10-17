@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,17 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19168.html">Transfer Learning Beyond the Standard Model</a></div></td>
 <td>Veena Krishnaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19168">2510.19168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00063.html">AstroMMBench: A Benchmark for Evaluating Multimodal Large Language Models Capabilities in Astronomy</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Jinghang Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00063">2510.00063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18749.html">Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Deaglan J. Bartlett et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18749">2510.18749</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18020.html">FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Peiyu Zang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18020">2607.18020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16906.html">Neural operator preconditioning from mixed dataset for the Helmholtz equations: Application to transcranial ultrasound</a></div></td>
-<td>Yanfei Xiang</td>
-<td><a href="http://arxiv.org/abs/2607.16906">2607.16906</a></td>
 </tr>
 </tbody></table>

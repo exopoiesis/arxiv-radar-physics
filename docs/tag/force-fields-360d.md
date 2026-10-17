@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20541.html">Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations</a></div></td>
 <td>Henrik Christiansen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.20541">2503.20541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18911.html">Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Andrew J. Medford et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18911">2510.18911</a></td>
 </tr>
 </tbody></table>

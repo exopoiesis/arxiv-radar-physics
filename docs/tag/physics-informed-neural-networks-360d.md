@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">620 papers</span>
+  <span class="paper-count">619 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3728,11 +3728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19399.html">Iterative Training of Physics-Informed Neural Networks with Fourier-enhanced Features</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Yulun Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19399">2510.19399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18195.html">Ensemble based Closed-Loop Optimal Control using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Jostein Barry-Straume et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18195">2510.18195</a></td>
 </tr>
 </tbody></table>

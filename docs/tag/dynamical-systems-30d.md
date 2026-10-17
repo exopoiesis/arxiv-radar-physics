@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,23 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20399.html">SIPHy: Sparse identification of port-Hamiltonian systems from noisy data</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Håkon Noren Myhr et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20399">2609.20399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17997.html">The Attention Within: Consensus Dynamics in Selective State Space Models</a></div></td>
-<td>João Pedro Silvestre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17997">2609.17997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18631.html">Automatic denoising and differentiation based on Savitzky-Golay filtering and Homogeneous Differentiators for attractor reconstruction via differential embedding</a></div></td>
-<td>Uros Sutulovic et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18631">2609.18631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18894.html">Learning Lyapunov Operators for Nonlinear Systems</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Amartya Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18894">2609.18894</a></td>
 </tr>
 </tbody></table>

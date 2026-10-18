@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25085.html">FREESIA: Covariance-Aware Posterior Transport for Expressive and Scalable Data Assimilation</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Shiwei Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25085">2609.25085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19871.html">Physical knowledge on historical data matters more than enforcing physical constraints on the forecast</a></div></td>
-<td>Etienne Lehembre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19871">2609.19871</a></td>
 </tr>
 </tbody></table>

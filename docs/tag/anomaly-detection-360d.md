@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">285 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,29 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10750.html">Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection</a></div></td>
 <td>Laura Weihl et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10750">2510.10750</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19295.html">Reliability and Resilience of AI-Driven Critical Network Infrastructure under Cyber-Physical Threats</a></div></td>
-<td>Konstantinos A. Lizos et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19295">2510.19295</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19309.html">Neuromorphic computing for anomaly detection in a laser powder bed fusion process</a></div></td>
-<td>Shreyan Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19309">2510.19309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20019.html">Machine Learning-Based Localization Accuracy of RFID Sensor Networks via RSSI Decision Trees and CAD Modeling for Defense Applications</a></div></td>
-<td>Curtis Lee Shull et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20019">2510.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21837.html">Quantum Autoencoders for Anomaly Detection in Cybersecurity</a></div></td>
-<td>Rohan Senthil et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21837">2510.21837</a></td>
 </tr>
 </tbody></table>

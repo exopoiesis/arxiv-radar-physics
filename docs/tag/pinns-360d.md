@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,17 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21051.html">Lyapunov-Based Physics-Informed Deep Neural Networks with Skew Symmetry Considerations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Rebecca G. Hart et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21051">2510.21051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12149.html">Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Andrés Guzmán-Cordero et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12149">2505.12149</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19399.html">Iterative Training of Physics-Informed Neural Networks with Fourier-enhanced Features</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yulun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19399">2510.19399</a></td>
 </tr>
 </tbody></table>

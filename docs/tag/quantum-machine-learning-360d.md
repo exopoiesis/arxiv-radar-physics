@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,17 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04797.html">Quantum Artificial Intelligence for Software Engineering: the Road Ahead</a></div></td>
 <td>Xinyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04797">2505.04797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18623.html">Optimal quantum learning in proximity to universality</a></div></td>
-<td>Moein N. Ivaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18623">2510.18623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19494.html">Quantum Machine Learning methods for Fourier-based distribution estimation with application in option pricing</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Fernando Alonso et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19494">2510.19494</a></td>
 </tr>
 </tbody></table>

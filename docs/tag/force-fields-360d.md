@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20659.html">Kinetics of Peierls dimerization transition: Machine learning force-field approach</a></div></td>
 <td>Ho Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20659">2510.20659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20541.html">Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations</a></div></td>
-<td>Henrik Christiansen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20541">2503.20541</a></td>
 </tr>
 </tbody></table>

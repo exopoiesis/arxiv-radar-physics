@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">512 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3068,23 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20486.html">Hurdle-IMDL: An Imbalanced Learning Framework for Infrared Rainfall Retrieval</a></div></td>
 <td>Fangjian Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20486">2510.20486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05916.html">On the Effectiveness of Methods and Metrics for Explainable AI in Remote Sensing Image Scene Classification</a></div></td>
-<td>Jonas Klotz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05916">2507.05916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19329.html">Seabed-Net: A multi-task network for joint bathymetry estimation and seabed classification from remote sensing imagery in shallow waters</a></div></td>
-<td>Panagiotis Agrafiotis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19329">2510.19329</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19579.html">Multi-modal Co-learning for Earth Observation: Enhancing single-modality models via modality collaboration</a></div></td>
-<td>Francisco Mena et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19579">2510.19579</a></td>
 </tr>
 </tbody></table>

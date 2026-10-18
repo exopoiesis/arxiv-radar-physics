@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">540 papers</span>
+  <span class="paper-count">537 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3236,23 +3236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20159.html">IEnSF: Iterative Ensemble Score Filter for Reducing Error in Posterior Score Estimation in Nonlinear Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Zezhong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20159">2510.20159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17394.html">AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="flow-control-360d.html">flow-control</a> · <a href="rans-360d.html">rans</a></div></td>
-<td>Chunyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17394">2412.17394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05625.html">Training-Free Constrained Generation With Stable Diffusion Models</a></div></td>
-<td>Stefano Zampini et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05625">2502.05625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06293.html">BlockGPT: Spatio-Temporal Modelling of Rainfall via Frame-Level Autoregression</a></div></td>
-<td>Cristian Meo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06293">2510.06293</a></td>
 </tr>
 </tbody></table>

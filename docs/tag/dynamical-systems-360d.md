@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">655 papers</span>
+  <span class="paper-count">650 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3914,35 +3914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20952.html">LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Sungjun Cho et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20952">2510.20952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13093.html">Localized Dynamic Mode Decomposition with Temporally Adaptive Segmentation</a></div></td>
-<td>Qiuqi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13093">2503.13093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08065.html">LDMD with Temporally Adaptive Segmentation</a></div></td>
-<td>Qiuqi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08065">2510.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19161.html">Extreme Event Aware ($η$-) Learning</a></div></td>
-<td>Kai Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19161">2510.19161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19701.html">Non-intrusive structural-preserving sequential data assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Lizuo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19701">2510.19701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19784.html">Environment Inference for Learning Generalizable Dynamical System</a></div></td>
-<td>Shixuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19784">2510.19784</a></td>
 </tr>
 </tbody></table>

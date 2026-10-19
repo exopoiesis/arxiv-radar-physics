@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,17 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22564.html">Some aspects of neural network parameter optimization for joint inversion of gravitational and magnetic fields</a></div></td>
 <td>Yanfei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22564">2510.22564</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21994.html">A decomposition-based robust training of physics-informed neural networks for nearly incompressible linear elasticity</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Josef Dick et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21994">2505.21994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21012.html">Graph Neural Regularizers for PDE Inverse Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>William Lauga et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21012">2510.21012</a></td>
 </tr>
 </tbody></table>

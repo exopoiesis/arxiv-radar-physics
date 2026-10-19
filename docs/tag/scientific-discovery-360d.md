@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,11 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22312.html">LacMaterial: Large Language Models as Analogical Chemists for Materials Discovery</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
 <td>Hongyu Guo</td>
 <td><a href="http://arxiv.org/abs/2510.22312">2510.22312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Jiyu Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 </tbody></table>

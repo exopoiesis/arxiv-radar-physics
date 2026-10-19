@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13577.html">Constraints on Compact Dark Matter Population from Micro-lensing Effect of Gravitational Wave for the third-generation gravitational Wave Detector</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Xin-Yi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13577">2508.13577</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20751.html">Black Hole-Host Galaxy Correlations with Machine Learning: A Comparative Study of Illustris, TNG, and EAGLE</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Jacob Reinheimer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20751">2510.20751</a></td>
 </tr>
 </tbody></table>

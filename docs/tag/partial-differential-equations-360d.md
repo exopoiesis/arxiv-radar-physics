@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">770 papers</span>
+  <span class="paper-count">767 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4616,23 +4616,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21952.html">Revisiting Orbital Minimization Method for Neural Operator Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>J. Jon Ryu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21952">2510.21952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12944.html">CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs</a></div></td>
-<td>Jan Hagnberger et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12944">2505.12944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12180.html">Learning Mean-Field Games through Mean-Field Actor-Critic Flow</a></div></td>
-<td>Mo Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12180">2510.12180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21012.html">Graph Neural Regularizers for PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>William Lauga et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21012">2510.21012</a></td>
 </tr>
 </tbody></table>

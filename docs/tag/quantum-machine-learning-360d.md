@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,11 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21168.html">Quantum Neural Network Architectures for Multivariate Time-Series Forecasting</a></div></td>
 <td>Sandra Ranilla-Cortina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21168">2510.21168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04797.html">Quantum Artificial Intelligence for Software Engineering: the Road Ahead</a></div></td>
-<td>Xinyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04797">2505.04797</a></td>
 </tr>
 </tbody></table>

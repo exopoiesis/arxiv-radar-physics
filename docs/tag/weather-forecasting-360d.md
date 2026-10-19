@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,17 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21066.html">Scalable Machine Learning Analysis of Parker Solar Probe Solar Wind Data</a></div></td>
 <td>Daniela Martin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21066">2510.21066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04483.html">High-resolution ensemble retrieval of cloud properties for all-day based on geostationary satellite</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Haixia Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04483">2405.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20416.html">Learning Coupled Earth System Dynamics with GraphDOP</a></div></td>
-<td>Eulalie Boucher et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20416">2510.20416</a></td>
 </tr>
 </tbody></table>

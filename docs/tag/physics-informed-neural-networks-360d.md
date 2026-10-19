@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">617 papers</span>
+  <span class="paper-count">615 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3704,17 +3704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21426.html">A Rapid Physics-Informed Machine Learning Framework Based on Extreme Learning Machine for Inverse Stefan Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Pei-Zhi Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21426">2510.21426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21994.html">A decomposition-based robust training of physics-informed neural networks for nearly incompressible linear elasticity</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Josef Dick et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21994">2505.21994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21051.html">Lyapunov-Based Physics-Informed Deep Neural Networks with Skew Symmetry Considerations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Rebecca G. Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21051">2510.21051</a></td>
 </tr>
 </tbody></table>

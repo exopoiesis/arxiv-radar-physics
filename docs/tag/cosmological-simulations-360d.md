@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmological-simulations — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="cosmological-simulations-7d.html">7d</a> <a href="cosmological-simulations-30d.html">30d</a> <a href="cosmological-simulations-90d.html">90d</a> <strong>360d</strong> <a href="cosmological-simulations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03707.html">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Ningyuan Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03707">2507.03707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20751.html">Black Hole-Host Galaxy Correlations with Machine Learning: A Comparative Study of Illustris, TNG, and EAGLE</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Jacob Reinheimer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20751">2510.20751</a></td>
 </tr>
 </tbody></table>

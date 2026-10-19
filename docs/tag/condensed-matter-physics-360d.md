@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <strong>360d</strong> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23489.html">Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hemish Ahuja et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23489">2510.23489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08882.html">A unified quantum framework for electrons and ions: The self-consistent harmonic approximation on a neural network curved manifold</a></div></td>
-<td>Lorenzo Monacelli et al.</td>
-<td><a href="http://arxiv.org/abs/2410.08882">2410.08882</a></td>
 </tr>
 </tbody></table>

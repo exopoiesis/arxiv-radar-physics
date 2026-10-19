@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,29 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22217.html">Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need</a></div></td>
 <td>Yongchuan Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22217">2510.22217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04483.html">High-resolution ensemble retrieval of cloud properties for all-day based on geostationary satellite</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Haixia Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04483">2405.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16793.html">REOBench: Benchmarking Robustness of Earth Observation Foundation Models</a></div></td>
-<td>Xiang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16793">2505.16793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12006.html">Frequency-Dynamic Attention Modulation for Dense Prediction</a></div></td>
-<td>Linwei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12006">2507.12006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20486.html">Hurdle-IMDL: An Imbalanced Learning Framework for Infrared Rainfall Retrieval</a></div></td>
-<td>Fangjian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20486">2510.20486</a></td>
 </tr>
 </tbody></table>

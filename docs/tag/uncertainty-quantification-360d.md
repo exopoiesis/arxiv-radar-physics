@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">507 papers</span>
+  <span class="paper-count">504 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3038,23 +3038,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20905.html">VENI, VINDy, VICI: a generative reduced-order modeling framework with uncertainty quantification</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a></div></td>
 <td>Paolo Conti et al.</td>
 <td><a href="http://arxiv.org/abs/2405.20905">2405.20905</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04483.html">High-resolution ensemble retrieval of cloud properties for all-day based on geostationary satellite</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Haixia Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04483">2405.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20795.html">Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Juan Alejandro Pinto Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20795">2510.20795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20952.html">LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="inductive-bias-360d.html">inductive-bias</a></div></td>
-<td>Sungjun Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20952">2510.20952</a></td>
 </tr>
 </tbody></table>

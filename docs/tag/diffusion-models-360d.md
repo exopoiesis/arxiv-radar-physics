@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">537 papers</span>
+  <span class="paper-count">533 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3212,29 +3212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09538.html">AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches</a></div></td>
 <td>Wenjun Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09538">2506.09538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03639.html">Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach</a></div></td>
-<td>Yunuo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03639">2502.03639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13358.html">One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Nimrod Berman et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13358">2505.13358</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20141.html">Compositional Generation for Long-Horizon Coupled PDEs</a></div></td>
-<td>Somayajulu L. N. Dhulipala et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20141">2510.20141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20159.html">IEnSF: Iterative Ensemble Score Filter for Reducing Error in Posterior Score Estimation in Nonlinear Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Zezhong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20159">2510.20159</a></td>
 </tr>
 </tbody></table>

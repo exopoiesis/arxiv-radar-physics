@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">647 papers</span>
+  <span class="paper-count">643 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3872,29 +3872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22299.html">Stable neural networks and connections to continuous dynamical systems</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Matthias J. Ehrhardt et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22299">2510.22299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21889.html">Bridging Prediction and Attribution: Identifying Forward and Backward Causal Influence Ranges Using Assimilative Causal Inference</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Marios Andreou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21889">2510.21889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21952.html">Revisiting Orbital Minimization Method for Neural Operator Decomposition</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>J. Jon Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21952">2510.21952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22002.html">An Introductory Guide to Koopman Learning</a></div></td>
-<td>Matthew J. Colbrook et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22002">2510.22002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03734.html">On excitation of control-affine systems and its use for data-driven Koopman approximants</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Philipp Schmitz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03734">2511.03734</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,17 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20339.html">Interval and fuzzy physics-augmented neural networks (iPANN and fPANN) for uncertainty quantification and propagation in constitutive modeling</a></div></td>
 <td>Somesh Pratap Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20339">2607.20339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18965.html">Variational meta-learning inference for low dimensional neural system identification</a></div></td>
-<td>Matteo Rufolo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18965">2607.18965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18996.html">Bayesian Sequential Quantum Amplitude Estimation for Rare-Event Structural Failure Probability</a></div></td>
-<td>Alireza Tabarraei</td>
-<td><a href="http://arxiv.org/abs/2607.18996">2607.18996</a></td>
 </tr>
 </tbody></table>

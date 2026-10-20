@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">584 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3518,35 +3518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09207.html">Operator-Consistent Physics-Informed Learning for Wafer Thermal Reconstruction in Lithography</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Ze Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09207">2510.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13875.html">A discrete physics-informed training for projection-based reduced order models with neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>N. Sibuet et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13875">2504.13875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16035.html">Equivariant Eikonal Neural Networks: Grid-Free, Scalable Travel-Time Prediction on Homogeneous Spaces</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Alejandro García-Castellanos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16035">2505.16035</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17762.html">Trajectory Optimization for Minimum Threat Exposure using Physics-Informed Neural Networks</a></div></td>
-<td>Alexandra E. Ballentine et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17762">2510.17762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21262.html">PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Andrea Bonfanti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21262">2510.21262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21426.html">A Rapid Physics-Informed Machine Learning Framework Based on Extreme Learning Machine for Inverse Stefan Problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Pei-Zhi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21426">2510.21426</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22290.html">Analyzing GW231109_235456 and understanding its potential implications for population studies, nuclear physics, and multi-messenger astronomy</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Thibeau Wouters et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22290">2510.22290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21411.html">Optimizing searches for gravitational wave bursts using coherent WaveBurst 2G</a></div></td>
-<td>Alessandro Martini et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21411">2510.21411</a></td>
 </tr>
 </tbody></table>

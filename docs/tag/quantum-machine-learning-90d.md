@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20302.html">Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a> · <a href="hep-90d.html">hep</a> · <a href="high-energy-physics-90d.html">high-energy-physics</a> · <a href="qml-90d.html">qml</a></div></td>
 <td>Ivan Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20302">2607.20302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19506.html">Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design</a></div></td>
-<td>Krishna Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19506">2607.19506</a></td>
 </tr>
 </tbody></table>

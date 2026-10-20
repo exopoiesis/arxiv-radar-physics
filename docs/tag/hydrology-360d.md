@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrology — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="hydrology-7d.html">7d</a> <a href="hydrology-30d.html">30d</a> <a href="hydrology-90d.html">90d</a> <strong>360d</strong> <a href="hydrology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22279.html">The AI Tutor in Engineering Education: Design, Results, and Redesign of an Experience in Hydrology at an Argentine University</a></div></td>
 <td>Hugo Roger Paz</td>
 <td><a href="http://arxiv.org/abs/2510.22279">2510.22279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22535.html">RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting</a></div></td>
-<td>Mohamad Hakam Shams Eddin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22535">2505.22535</a></td>
 </tr>
 </tbody></table>

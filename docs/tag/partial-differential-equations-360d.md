@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">767 papers</span>
+  <span class="paper-count">760 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4574,47 +4574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17151.html">PICore: Physics-Informed Unsupervised Coreset Selection for Data Efficient Neural Operator Training</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Anirudh Satheesh et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17151">2507.17151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20905.html">VENI, VINDy, VICI: a generative reduced-order modeling framework with uncertainty quantification</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Paolo Conti et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20905">2405.20905</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12919.html">Continuous Simplicial Neural Networks</a></div></td>
-<td>Aref Einizade et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12919">2503.12919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13665.html">Axial Neural Networks for Dimension-Free Foundation Models</a></div></td>
-<td>Hyunsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13665">2510.13665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21262.html">PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Andrea Bonfanti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21262">2510.21262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21404.html">PC-NCLaws: Physics-Embedded Conditional Neural Constitutive Laws for Elastoplastic Materials</a></div></td>
-<td>Xueguang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21404">2510.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21426.html">A Rapid Physics-Informed Machine Learning Framework Based on Extreme Learning Machine for Inverse Stefan Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Pei-Zhi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21426">2510.21426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21952.html">Revisiting Orbital Minimization Method for Neural Operator Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>J. Jon Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21952">2510.21952</a></td>
 </tr>
 </tbody></table>

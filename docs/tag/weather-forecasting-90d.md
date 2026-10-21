@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,17 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21080.html">Nipping the Butterfly Effect in the Bud: Self-Output Fine-Tuning for Autoregressive Weather Prediction</a></div></td>
 <td>Yun-Ye Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21080">2607.21080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20716.html">Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency</a></div></td>
-<td>Maren Höver et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20716">2607.20716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20778.html">Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry</a></div></td>
-<td>Jason Y. Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20778">2607.20778</a></td>
 </tr>
 </tbody></table>

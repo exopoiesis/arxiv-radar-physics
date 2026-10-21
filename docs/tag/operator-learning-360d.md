@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">279 papers</span>
+  <span class="paper-count">278 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1682,11 +1682,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23810.html">A Physics-informed Multi-resolution Neural Operator</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Sumanta Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23810">2510.23810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17151.html">PICore: Physics-Informed Unsupervised Coreset Selection for Data Efficient Neural Operator Training</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Anirudh Satheesh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17151">2507.17151</a></td>
 </tr>
 </tbody></table>

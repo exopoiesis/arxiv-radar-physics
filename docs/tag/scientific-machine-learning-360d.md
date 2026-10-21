@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,11 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21124.html">UniFoil: A Universal Dataset of Airfoils in Transitional and Turbulent Regimes for Subsonic and Transonic Flows</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Rohit Sunil Kanchi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21124">2505.21124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22299.html">Stable neural networks and connections to continuous dynamical systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Matthias J. Ehrhardt et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22299">2510.22299</a></td>
 </tr>
 </tbody></table>

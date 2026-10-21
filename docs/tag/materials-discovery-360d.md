@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,17 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23394.html">fair_data.py: implementing FAIR data compliance in Tribchem</a></div></td>
 <td>Lucrezia Berghenti et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23394">2510.23394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05925.html">First principles approaches and concepts for electrochemical systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Mira Todorova et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05925">2411.05925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11569.html">The dark side of the forces: assessing non-conservative force models for atomistic machine learning</a></div></td>
-<td>Filippo Bigi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11569">2412.11569</a></td>
 </tr>
 </tbody></table>

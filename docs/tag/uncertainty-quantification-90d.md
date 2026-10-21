@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,17 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21382.html">Flexible generation of daily Earth system model projections across radiative forcing scenarios</a></div></td>
 <td>Yu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21382">2607.21382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20322.html">Bayesian Inference: Kernel-Based Model for Surface Temperature Reconstruction in Ice Borehole Thermometry</a></div></td>
-<td>Kshema Shaju et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20322">2607.20322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20339.html">Interval and fuzzy physics-augmented neural networks (iPANN and fPANN) for uncertainty quantification and propagation in constitutive modeling</a></div></td>
-<td>Somesh Pratap Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20339">2607.20339</a></td>
 </tr>
 </tbody></table>

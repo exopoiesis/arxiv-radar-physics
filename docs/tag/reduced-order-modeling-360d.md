@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01535.html">HFNO: an interpretable data-driven decomposition strategy for turbulent flows</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Marco Cayuela et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01535">2511.01535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14595.html">Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Nima Hosseini Dashtbayaz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14595">2505.14595</a></td>
 </tr>
 </tbody></table>

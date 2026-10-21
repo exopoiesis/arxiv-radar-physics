@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22562.html">LO-SDA: Latent Optimization for Score-based Atmospheric Data Assimilation</a></div></td>
 <td>Jing-An Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22562">2510.22562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14595.html">Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Nima Hosseini Dashtbayaz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14595">2505.14595</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <strong>90d</strong> <a href="quantum-many-body-systems-360d.html">360d</a> <a href="quantum-many-body-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06709.html">Out-of-control Hamiltonian Learning</a></div><div class="paper-tags"><a href="hamiltonian-learning-90d.html">hamiltonian-learning</a></div></td>
+<td>Weiyuan Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06709">2610.06709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06724.html">An FPRAS for Counting Common Bases of Two Matroids</a></div></td>
+<td>Xiaoyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06724">2610.06724</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03463.html">Generalization of Transformer-Based Neural Quantum States via In-Context Learning</a></div></td>
+<td>Zhen Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03463">2610.03463</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25511.html">Superextensive learning in quantum reservoirs at the onset of information scrambling</a></div></td>

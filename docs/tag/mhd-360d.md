@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26627.html">ERGO-ML and how to directly infer the multi-temperature nature of intra-cluster gas: simulation-based inference with TNG-Cluster</a></div></td>
+<td>Joey Braspenning et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26627">2610.26627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17254.html">DEMOS I. A Bayesian inference framework to constrain disc evolution from observed demographics</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Lorenzo A. Malanga et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17254">2610.17254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17284.html">DEMOS. II. What the full Lupus demographics truly tell us about protoplanetary disc evolution</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Lorenzo A. Malanga et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17284">2610.17284</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05657.html">Fast and Differentiable MHD Surrogate for Solar Wind using Neural Operator</a></div></td>

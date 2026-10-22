@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1030 papers</span>
+  <span class="paper-count">1042 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27500.html">Soliton Profiles in 1D: Enhanced Neural-Network Solvers and Constrained Deep Ritz Methods</a></div></td>
+<td>Chandler Haight et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27500">2610.27500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28322.html">Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Juntang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28322">2610.28322</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="pde-learning-all.html">pde-learning</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Arthur Bizzi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26458.html">Residual-Based Adaptive Refinement in Hybrid Variational-Collocation PINNs for Singular Elliptic PDEs with Mixed Dirichlet-Neumann Boundary Conditions</a></div></td>
+<td>Somnath Giri et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26458">2610.26458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27094.html">Binary Black Hole Puncture Initial Data with Physics-Informed Neural Networks</a></div></td>
+<td>Thiago Assumpção et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27094">2610.27094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27193.html">Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25506.html">A Method for Linearization of Systems of Quadratic Equations</a></div><div class="paper-tags"><a href="sciml-all.html">sciml</a></div></td>
+<td>A. A. Pak et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25506">2610.25506</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22903.html">PINN-LPCDD: Physics-Informed Neural Network with Learnable and Physically Consistent Domain Decomposition for Compressible Multi-Medium Flows</a></div></td>
+<td>Weiheng Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22903">2610.22903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22157.html">The importance of tensor handling and implementation of physics-informed DeepONets</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Nahum Banks et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22157">2610.22157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22743.html">Fourier-Feature-Embedded Complex-Valued Physics-Informed Convolutional Residual Networks for Sparse and Gappy Noisy Flow-Field Reconstruction</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Biswanath Barman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22743">2610.22743</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22390.html">Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Joonbeom Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22390">2610.22390</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13754.html">Utilizing Neural Networks for Solving Functional Renormalization Group Flow Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
@@ -26,6 +92,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="rans-all.html">rans</a> · <a href="turbulence-modeling-all.html">turbulence-modeling</a></div></td>
 <td>Sharath S. Girimaji</td>
 <td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23948.html">Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>David McShannon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23948">2610.23948</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">213 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="plasma-physics-360d.html">plasma-physics</a></div></td>
+<td>Seungone Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19159">2610.19159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17384.html">Measure Neural Mappings</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Ricardo Baptista et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17384">2610.17384</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07712.html">Mathematical Invariant-Enabled Topological Neural Networks for Molecular and Materials Property Prediction</a></div></td>

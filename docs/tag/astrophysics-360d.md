@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,58 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27409.html">The Inverse Problem of Velocity Reconstruction from Flow-Induced Magnetic Fields: Stability and Uniqueness</a></div><div class="paper-tags"><a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a></div></td>
+<td>Yacine Mokhtari</td>
+<td><a href="http://arxiv.org/abs/2610.27409">2610.27409</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27051.html">Graph Neural Networks for Astrophysics and Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
+<td>Christian Kragh Jespersen</td>
+<td><a href="http://arxiv.org/abs/2610.27051">2610.27051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22804.html">Gaia in Technicolor. I. A Simple Variability-Encoded Color-Magnitude Diagram</a></div></td>
+<td>Brad N. Barlow et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22804">2610.22804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22159.html">The Mission Market: Flying NASA&#x27;s Vetted, Unflown Science</a></div></td>
+<td>Blakesley Burkhart</td>
+<td><a href="http://arxiv.org/abs/2610.22159">2610.22159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11404.html">Oxygen isotopic ratio in open cluster RGB stars: A new method for accurate mass and age estimations</a></div></td>
+<td>O. Straniero et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11404">2610.11404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11630.html">Physics-informed interpretable forms for dipole resonances and quantities relevant for astrophysics</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Gourab Banerjee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11630">2610.11630</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04665.html">Efficient Neural Surrogates for Linear Radiation Transport on the Lattice and Hohlraum benchmarks</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Carmelo Gonzales et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04665">2610.04665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03946.html">Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
+<td>Elisa J. Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03946">2610.03946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02273.html">Comment on: &quot;The Preprint Evolution: The Rise of Unreviewed Drafts on arXiv and its Implications for Astronomy&quot;</a></div></td>
+<td>Noam Soker</td>
+<td><a href="http://arxiv.org/abs/2610.02273">2610.02273</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -716,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23330.html">The First Star-by-star $N$-body/Hydrodynamics Simulation of Our Galaxy Coupling with a Surrogate Model</a></div></td>
 <td>Keiya Hirashima et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23330">2510.23330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22527.html">Multi-Modal Masked Autoencoders for Learning Image-Spectrum Associations for Galaxy Evolution and Cosmology</a></div></td>
-<td>Morgan Himes et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22527">2510.22527</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15919.html">RINO: Renormalization Group Distillation with No Labels</a></div></td>
+<td>Zichun Hao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15919">2610.15919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12862.html">\textbf{\textsc{HepUKE}}: Uncertainty-aware Knowledge Evolution for High Energy Physics Analysis Agents</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
+<td>Zijie Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12862">2610.12862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06784.html">How to scale your HEP ML models: A recipe for robust architecture comparisons at scale</a></div></td>
+<td>Matthias Vigl et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06784">2610.06784</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00891.html">Towards Retrieval Augmented Generation in High-Energy and Astroparticle Physics</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>event-classification — all</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <a href="event-classification-90d.html">90d</a> <a href="event-classification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22817.html">Multiple Instance Learning for Interpretable Plasmoid Detection in the FLARE Device</a></div><div class="paper-tags"><a href="plasma-physics-all.html">plasma-physics</a></div></td>
+<td>Charles Marsden et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22817">2610.22817</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14533.html">Sample-Size Scalability and Representation Sensitivity of Quantum Machine Learning Models for Higgs Boson Event Classification</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
+<td>Shiksha Bhardwaj et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14533">2610.14533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12293.html">Machine Learning Meets High-Energy Nuclear Physics: From Pattern Recognition to Physics-Integrated Discovery</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Xun Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12293">2610.12293</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05408.html">Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification</a></div></td>

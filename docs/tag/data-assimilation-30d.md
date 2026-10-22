@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26567.html">Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="les-30d.html">les</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="rans-30d.html">rans</a></div></td>
+<td>Tom Moussie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26567">2610.26567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25001.html">UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models</a></div></td>
+<td>Yunbei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25001">2610.25001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24627.html">UDL-RT: A unified differentiable all-sky microwave radiative transfer model with learnable parameterizations</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
+<td>Zeting Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24627">2610.24627</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>galaxy-formation — all</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <a href="galaxy-formation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29868.html">Evaluating Zero-Shot Anomaly Detection for Identifying Unusual Galaxy Morphologies in CEERS and NGDEEP</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a></div></td>
+<td>T. B. Surakan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29868">2610.29868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27051.html">Graph Neural Networks for Astrophysics and Cosmology</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a></div></td>
+<td>Christian Kragh Jespersen</td>
+<td><a href="http://arxiv.org/abs/2610.27051">2610.27051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03946.html">Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
+<td>Elisa J. Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03946">2610.03946</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23982.html">The CAMELS-CROCODILE Simulation Suite: A New Cosmology--Astrophysics Playground for Machine Learning</a></div></td>

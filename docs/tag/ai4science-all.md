@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ai4science — all</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <a href="ai4science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08626.html">Feature Information Dynamics in Diffusion</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Jia-Shu Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08626">2610.08626</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28458.html">Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU</a></div><div class="paper-tags"><a href="black-holes-all.html">black-holes</a> · <a href="cosmology-all.html">cosmology</a></div></td>

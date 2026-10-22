@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pde-learning — all</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="pde-learning-7d.html">7d</a> <a href="pde-learning-30d.html">30d</a> <a href="pde-learning-90d.html">90d</a> <a href="pde-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Arthur Bizzi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05012.html">Solution-space heterogeneity shapes federated learning dynamics across partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>

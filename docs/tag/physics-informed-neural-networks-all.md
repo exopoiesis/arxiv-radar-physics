@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — all</h1>
-  <span class="paper-count">1084 papers</span>
+  <span class="paper-count">1093 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28322.html">Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Juntang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28322">2610.28322</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="pde-learning-all.html">pde-learning</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Arthur Bizzi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27193.html">Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Raul Jimenez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22157.html">The importance of tensor handling and implementation of physics-informed DeepONets</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Nahum Banks et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22157">2610.22157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22743.html">Fourier-Feature-Embedded Complex-Valued Physics-Informed Convolutional Residual Networks for Sparse and Gappy Noisy Flow-Field Reconstruction</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Biswanath Barman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22743">2610.22743</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19058.html">Conformalized Physics-Informed Weak Regression for Parameter Estimation in Epidemic Models</a></div></td>
+<td>Allan Peter Engsig-Karup</td>
+<td><a href="http://arxiv.org/abs/2610.19058">2610.19058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19254.html">Beyond Time Induction: Structured Conditional Neural Solvers for Parametric Stochastic-Volatility Pricing</a></div></td>
+<td>Jose Miguel Lara Rangel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19254">2610.19254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22390.html">Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>Joonbeom Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22390">2610.22390</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14461.html">PINNs for N=2* holography</a></div></td>
@@ -50,6 +98,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="rans-all.html">rans</a> · <a href="turbulence-modeling-all.html">turbulence-modeling</a></div></td>
 <td>Sharath S. Girimaji</td>
 <td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23948.html">Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a></div></td>
+<td>David McShannon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23948">2610.23948</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>

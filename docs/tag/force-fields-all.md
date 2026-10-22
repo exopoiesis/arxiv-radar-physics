@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>force-fields — all</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">179 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21205.html">A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands</a></div></td>
+<td>Xinghong Mai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21205">2610.21205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12151.html">Specialized machine learning force fields for materials dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Yue Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12151">2610.12151</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29361.html">Hamiltonian learning reveals optoelectronic mechanisms across thermodynamic state space in soft semiconductors</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="hamiltonian-learning-all.html">hamiltonian-learning</a></div></td>

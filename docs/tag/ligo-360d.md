@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28408.html">Hybrid Stars with Different Amount of Quark Matter</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Milena Albino et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28408">2610.28408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02590.html">Multi-Band Constraints on Cosmic Strings: Unifying Harmonic and Burst Spectra</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
+<td>Hansong Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02590">2610.02590</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31118.html">Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
@@ -446,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13577.html">Constraints on Compact Dark Matter Population from Micro-lensing Effect of Gravitational Wave for the third-generation gravitational Wave Detector</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Xin-Yi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13577">2508.13577</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00694.html">Muffled Murmurs: Environmental effects in the LISA stochastic signal from stellar-mass black hole binaries</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Ran Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00694">2507.00694</a></td>
 </tr>
 </tbody></table>

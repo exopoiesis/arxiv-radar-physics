@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neural-operators — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <strong>30d</strong> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29009.html">Local and Sparse Kernel Operator Learning for Incompressible Flows: An Operator Lagrange Formulation</a></div></td>
+<td>Ramansh Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29009">2610.29009</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26337.html">CIS-Transolver: A Cross-Layer Incremental-State Neural Operator for Fine-Scale Automotive Aerodynamic Flow Prediction</a></div></td>
+<td>Jianglong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26337">2610.26337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24400.html">Spatons: Spatiotonally Localized Building Blocks for Efficient XR Predistortion</a></div></td>
+<td>Mohammadjavad Maheronnaghsh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24400">2610.24400</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24708.html">Spherical Physics-informed Neural Operator with Multi-scale Coupling for Meteorological Downscaling</a></div></td>
+<td>Yiqiang Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24708">2610.24708</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23292.html">Distributed Performance Boosting through Neural Control for Plug-and-Play Networks</a></div></td>
+<td>Danilo Saccani et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23292">2610.23292</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21223.html">Learning and Forecasting Multiscale Spatiotemporal Epidemic Dynamics with Lagrangian-Eulerian Graph Neural ODEs</a></div></td>
+<td>Jinyi Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21223">2610.21223</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22446.html">Learnable Splines for Unstructured Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Vignesh Gopakumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22446">2610.22446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20120.html">A Bregman Proximal Viewpoint on Neural Operators</a></div></td>
+<td>Abdel-Rahim Mezidi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20120">2610.20120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20363.html">Fractional is Better: Learnable Derivative Orders in Neural Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Fares B. Mehouachi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20363">2610.20363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18210.html">Operator Surrogates</a></div></td>
+<td>Christoph Schwab et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18210">2610.18210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18682.html">Physics-Informed Deep Learning in Oncology</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Scindhiya Laxmi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18682">2610.18682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18939.html">Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Wonjae Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18939">2610.18939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17029.html">SPLICE: Sparse Physics Library Identification and Compositional Expansion</a></div></td>
+<td>Lucas Thil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17029">2610.17029</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15651.html">Learned Graph Bases for Neural Operators on Power-System Transients</a></div></td>
@@ -164,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29847.html">Elucidating the Conformal Structure of the Brinkman Penalisation Method for Geometry-Adapted, Structure-Preserving Operator Learning of Hamiltonian PDEs</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Teo Deveney et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29847">2609.29847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24021.html">Cost-Accuracy Trade-offs: Neural Operator vs Classical Numerical Solver</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Daniel Zhengyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24021">2609.24021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24746.html">Enhancing Transformer Representations of Symbolic ODE Expressions</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Xiyue Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24746">2609.24746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24947.html">Learning Physics from an Imperfect Ancestor</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>S. Mohammad Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24947">2609.24947</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
+<td>Seungone Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19159">2610.19159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17384.html">Measure Neural Mappings</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Ricardo Baptista et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17384">2610.17384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07712.html">Mathematical Invariant-Enabled Topological Neural Networks for Molecular and Materials Property Prediction</a></div></td>
 <td>Yiming Ren et al.</td>
@@ -224,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22811.html">From Hybrid Mechanistic--Data-Driven Modeling Toward Neuro-Symbolic AI: What, Why, and How</a></div></td>
 <td>Moein E. Samadi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22811">2607.22811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Amirhossein Nouranizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21688.html">Explainable quantum-compressed machine learning for complex fluid flows</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21688">2607.21688</a></td>
 </tr>
 </tbody></table>

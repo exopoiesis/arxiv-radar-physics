@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>jet-tagging — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <a href="jet-tagging-90d.html">90d</a> <strong>360d</strong> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29439.html">How Far Can Foundation Models Be Distilled for Efficient Jet Tagging?</a></div></td>
+<td>Jay Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29439">2610.29439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27106.html">This is SParTA: A modular, efficient and scalable transformer architecture for jet-tagging</a></div></td>
+<td>Rajneil Baruah et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27106">2610.27106</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26899.html">Towards Foundation Models on Hardware Accelerators for Particle Physics</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
@@ -176,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23962.html">Exploring an image-based $b$-jet tagging method using convolution neural networks</a></div></td>
 <td>Hangil Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23962">2510.23962</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24784.html">Sub-microsecond Transformers for Jet Tagging on FPGAs</a></div></td>
-<td>Lauri Laatu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24784">2510.24784</a></td>
 </tr>
 </tbody></table>

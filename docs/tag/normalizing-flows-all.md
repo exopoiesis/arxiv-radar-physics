@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>normalizing-flows — all</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <a href="normalizing-flows-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27404.html">Non-Classicality in $tW$ system via negativity and geometric quantum discord</a></div></td>
+<td>Amir Subba et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27404">2610.27404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22711.html">Normalizing Flow Maps</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Francesco M. Ruscio et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22711">2610.22711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03946.html">Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
+<td>Elisa J. Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03946">2610.03946</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22563.html">Stochastic Epidemic Model Criticism with Neural Evidence Estimation</a></div></td>

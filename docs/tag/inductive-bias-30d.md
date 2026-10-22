@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29111.html">SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism</a></div></td>
+<td>Erh-Wei Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29111">2610.29111</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15931.html">Mesh-Free Convolution: Learned Spectral Attenuation and Transport</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Niloufar Zakariaei et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04073.html">Why Convolution Still Matters: Evaluating Inductive Biases in Cryospheric Image Classification</a></div><div class="paper-tags"><a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Chhaya Kulkarni et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04073">2610.04073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24666.html">Experimental evidence of generalization in quantum machine learning in small-data regime</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Leena Anthony et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24666">2609.24666</a></td>
 </tr>
 </tbody></table>

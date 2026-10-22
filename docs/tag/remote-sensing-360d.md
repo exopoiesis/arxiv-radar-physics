@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">504 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29777.html">Key Findings for Small UAS for Post-Disaster Damage Assessment from the CURSE&#x27;26 Exercise</a></div></td>
+<td>Thomas Manzini et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29777">2610.29777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27544.html">Semantic Communications: Principles, Architectures and Applications</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Sasa Maric</td>
+<td><a href="http://arxiv.org/abs/2610.27544">2610.27544</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24627.html">UDL-RT: A unified differentiable all-sky microwave radiative transfer model with learnable parameterizations</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
+<td>Zeting Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24627">2610.24627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24710.html">Exploiting sparse conditional dependence in remote sensing observing systems</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Kelvin M. Leung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24710">2610.24710</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23416.html">GeoReason: Bridging Logical Reasoning and Spatial Fidelity in Remote Sensing Segmentation</a></div></td>
+<td>Cheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23416">2610.23416</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21502.html">ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing</a></div></td>
@@ -3026,17 +3056,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23382.html">An Efficient Remote Sensing Super Resolution Method Exploring Diffusion Priors and Multi-Modal Constraints for Crop Type Mapping</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Songxi Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23382">2510.23382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21076.html">DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding</a></div></td>
-<td>Weihao Xuan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21076">2505.21076</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22697.html">WaveMAE: Wavelet decomposition Masked Auto-Encoder for Remote Sensing</a></div></td>
-<td>Vittorio Bernuzzi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22697">2510.22697</a></td>
 </tr>
 </tbody></table>

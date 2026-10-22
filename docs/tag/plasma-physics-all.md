@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>plasma-physics — all</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <a href="plasma-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22817.html">Multiple Instance Learning for Interpretable Plasmoid Detection in the FLARE Device</a></div><div class="paper-tags"><a href="event-classification-all.html">event-classification</a></div></td>
+<td>Charles Marsden et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22817">2610.22817</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Seungone Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19159">2610.19159</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15505.html">Positive-Real Identification of Sparse Mori-Hamiltonians from Partial Observations</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>

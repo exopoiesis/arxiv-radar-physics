@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>schr-dinger-equation — all</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10651.html">Beyond the Ergodic Wall: A Discrete Geometric Physics Sandbox for Analysing AI Scaling Limits and Complexity Collapse</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Simon Richard Daniel</td>
 <td><a href="http://arxiv.org/abs/2610.10651">2610.10651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09081.html">Nonlinear Spectral Computing</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Ludovica Falsi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09081">2610.09081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07013.html">A numerical and efficient model for thermo-field electron emission calculations</a></div></td>
+<td>Salvador Barranco Cárceles et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07013">2610.07013</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>

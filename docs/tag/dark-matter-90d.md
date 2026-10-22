@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dark-matter — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <strong>90d</strong> <a href="dark-matter-360d.html">360d</a> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26343.html">Neural Bayesian Online Calibration with Deficient Simulators for MADMAX Dark Matter Experiment</a></div></td>
+<td>Nabil Salama</td>
+<td><a href="http://arxiv.org/abs/2610.26343">2610.26343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27068.html">ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Ibrahim Elsharkawy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27068">2610.27068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27088.html">DDELenS: Tomographic Weak Lensing Simulations with Dynamical Dark Energy</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="dark-energy-90d.html">dark-energy</a></div></td>
+<td>Shu-Fan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27088">2610.27088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19891.html">Low-cost neural summaries for cosmological inference: an ensemble of convolutional neural networks trained on approximate simulations</a></div></td>
+<td>Iñigo Sáez-Casares et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19891">2610.19891</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18460.html">Constraints on the cosmic reheating history from PTA data</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
+<td>Qi-Lin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18460">2610.18460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18776.html">Quantum-enhanced mechanical sensing with machine-learning estimation</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
+<td>Finn Müßigbrodt et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18776">2610.18776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17359.html">Untangling Similarities and Differences in Star Formation Histories Across Cosmological Simulations</a></div><div class="paper-tags"><a href="cosmological-simulations-90d.html">cosmological-simulations</a></div></td>
+<td>Alicia M. Savelli et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17359">2610.17359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07410.html">BRAHMa: Bar Recognition And Hatching using Machine learning -- a framework for oriented bounding box detection of galactic bars</a></div></td>
+<td>Rajit Shrivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07410">2610.07410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03946.html">Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="galaxy-formation-90d.html">galaxy-formation</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
+<td>Elisa J. Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03946">2610.03946</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00995.html">Search for dark matter produced in association with a low-multiplicity jet in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
@@ -122,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22812.html">Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
 <td>Alex Ostridge et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22812">2607.22812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21689.html">Light Antinuclei Coalescence: Femtoscopic Constraints via Neural-Flow Surrogates</a></div></td>
-<td>M. Korwieser et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21689">2607.21689</a></td>
 </tr>
 </tbody></table>

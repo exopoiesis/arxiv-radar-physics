@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30851.html">ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization</a></div></td>
+<td>Zhaoran Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30851">2610.30851</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24291.html">An important Bottleneck in LLM Optimizers: Principle-Level Local Optima</a></div></td>
 <td>Nian Ran et al.</td>
@@ -74,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23826.html">Self-Building Labs</a></div></td>
 <td>Jiaru Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23826">2610.23826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21360.html">Controlling the False Discovery Rate via Model-Agnostic Importance Measures</a></div></td>
-<td>Mengtao Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21360">2610.21360</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inductive-bias — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <strong>90d</strong> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31260.html">Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?</a></div></td>
+<td>Ravi Kumar Jha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31260">2610.31260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31330.html">Quantum Fokker-Planck solvers as trainable generative models</a></div></td>
+<td>Tariq Mahassen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31330">2610.31330</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29111.html">SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism</a></div></td>
@@ -188,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27188.html">Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Lennon J. Shikhman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.27188">2607.27188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22516.html">Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Peiyong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22516">2607.22516</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -34,6 +34,24 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.29546">2610.29546</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30239.html">Faithful Uncertainties in ML-Based Inverse Problems: GPs, NNs and NTKs for the Triplet PDF</a></div></td>
+<td>Nina Elmer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30239">2610.30239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30306.html">Structure-Preserving Dimension Reduction and Surrogates for Partially Linear Bayesian Inverse Problems</a></div></td>
+<td>Ziheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30306">2610.30306</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07609.html">PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation</a></div></td>
 <td>Yu Zhang et al.</td>
@@ -56,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23603.html">Bayesian Geophysical Inversion using Stein Mixture Variational Inference for Multimodal or Complex Solutions</a></div></td>
 <td>Xuebin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23603">2610.23603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
 </tr>
 </tbody></table>

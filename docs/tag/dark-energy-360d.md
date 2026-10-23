@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.29937">2610.29937</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30244.html">2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Benjamin M. Boyd et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30244">2610.30244</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26493.html">Exploring the Evidence for Evolving Dark Energy with the Jeffreys prior</a></div></td>
 <td>Joshua Layton et al.</td>
@@ -668,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02631.html">Supernova Classification using the Recurrent Neural Network in the CSST Ultra-Deep Field Survey</a></div></td>
 <td>Minglin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02631">2511.02631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23782.html">Does Machine Learning Work? A Comparative Analysis of Strong Gravitational Lens Searches in the Dark Energy Survey</a></div></td>
-<td>J. Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23782">2510.23782</a></td>
 </tr>
 </tbody></table>

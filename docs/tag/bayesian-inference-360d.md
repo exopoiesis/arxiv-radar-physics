@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">424 papers</span>
+  <span class="paper-count">421 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2540,23 +2540,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25038.html">A Black Box Variational Inference Scheme for Inverse Problems with Demanding Physics-Based Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>G. Robalo Rei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25038">2510.25038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17660.html">Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Julius Vetter et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17660">2504.17660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23765.html">Intrinsic Heralding and Optimal Decoders for Non-Abelian Topological Order</a></div></td>
-<td>Dian Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23765">2507.23765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23550.html">Bayesian Nonlinear PDE Inference via Gaussian Process Collocation with Application to the Richards Equation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yumo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23550">2510.23550</a></td>
 </tr>
 </tbody></table>

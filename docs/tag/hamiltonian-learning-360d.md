@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hamiltonian-learning — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="hamiltonian-learning-7d.html">7d</a> <a href="hamiltonian-learning-30d.html">30d</a> <a href="hamiltonian-learning-90d.html">90d</a> <strong>360d</strong> <a href="hamiltonian-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.24058.html">Natural gradient and parameter estimation for quantum Boltzmann machines</a></div></td>
 <td>Dhrumil Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2410.24058">2410.24058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15713.html">Hamiltonian learning via quantum Zeno effect</a></div></td>
-<td>Giacomo Franceschetto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15713">2509.15713</a></td>
 </tr>
 </tbody></table>

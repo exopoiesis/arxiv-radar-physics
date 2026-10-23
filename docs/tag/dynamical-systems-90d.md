@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31585.html">Action Learning for Scientific Simulations</a></div></td>
+<td>Sarah Liaw et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31585">2610.31585</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27179.html">Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective</a></div><div class="paper-tags"><a href="les-90d.html">les</a></div></td>
 <td>Lorenzo Cirigliano et al.</td>
@@ -632,11 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
 <td>Zituo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22457.html">Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>David Oexle et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22457">2607.22457</a></td>
 </tr>
 </tbody></table>

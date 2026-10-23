@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="rans-360d.html">rans</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="plasma-physics-360d.html">plasma-physics</a></div></td>

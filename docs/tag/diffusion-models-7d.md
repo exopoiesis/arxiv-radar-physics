@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
+<td>Lipeng Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31071">2610.31071</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29476.html">Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Mathias Grau et al.</td>
@@ -26,6 +32,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29989.html">Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation</a></div></td>
 <td>Ruopeng Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29989">2610.29989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30500.html">PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization</a></div></td>
+<td>Maximilian Stölzle et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30500">2610.30500</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -68,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24060.html">Generative Text Modelling and Language-Guided Visual Attention for Deciphering Palimpsests</a></div></td>
 <td>Robin Hollifeldt et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24060">2610.24060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21539.html">Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond</a></div></td>
-<td>Zhiyuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21539">2610.21539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21977.html">Learn Only Where You Can&#x27;t Compute: Structured Corrections to Gaussian Process Posteriors</a></div></td>
-<td>Tobias Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21977">2610.21977</a></td>
 </tr>
 </tbody></table>

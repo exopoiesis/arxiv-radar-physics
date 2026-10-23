@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15885.html">Comparative Study of Canvas- and Coordinate-Based Geometry-Conditioned Neural Networks for Real-Time Prediction of Indoor Environments with Varying Room Dimensions</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
 <td>Shaofan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15885">2610.15885</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12202.html">Sim-to-Real RL for ASVs using SysID</a></div></td>
+<td>Cody Sheltraw et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12202">2610.12202</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>

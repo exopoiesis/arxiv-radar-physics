@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30673.html">A 13 Year Black Hole Microlensing Survey in Omega Centauri</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a></div></td>
+<td>Zack Freeman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30673">2610.30673</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30396.html">Black-Hole Ringdown from Photon-Sphere Modes in an Elastic Analogue</a></div></td>
+<td>Jiaoqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30396">2610.30396</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26257.html">Analog regular black holes and black hole mimickers in a Bose-Einstein condensate: from the core to the light rings</a></div></td>
@@ -128,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04107.html">Exact Modular Completion of the ABJM Effective Twisted Superpotential</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
 <td>Seyed Morteza Hosseini</td>
 <td><a href="http://arxiv.org/abs/2608.04107">2608.04107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22011.html">Revealing Four Subpopulations of Binary Black-Hole Mergers with the Fifth Gravitational-Wave Transient Catalog</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
-<td>Nir Guttman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22011">2607.22011</a></td>
 </tr>
 </tbody></table>

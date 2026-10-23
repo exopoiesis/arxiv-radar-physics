@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,35 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23834.html">Task-aligned spectral inductive biases in parameterized quantum circuits</a></div></td>
 <td>Felix Frohnert et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23834">2610.23834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21344.html">Quantum Versus Classical Machine Learning for Neuropsychiatric Disorders: A Feature-Matched Multi-Cohort Evaluation</a></div></td>
-<td>Utsav Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21344">2610.21344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21395.html">When do quantum views help? Complementary classical-quantum representations in multi-view fusion</a></div></td>
-<td>Azadeh Alavi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21395">2610.21395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21562.html">A Quantum Machine Learning Approach to Content-Based Media Recommendation</a></div></td>
-<td>Mina Abbaszadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21562">2610.21562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22504.html">A comparative study of variational quantum classifiers and classical machine learning for $tW-t\bar{t}$ discrimination at the LHC</a></div><div class="paper-tags"><a href="high-energy-physics-7d.html">high-energy-physics</a></div></td>
-<td>Rohan Hindocha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22504">2610.22504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22691.html">Quantum-Classical Neural Networks for Solving Lindblad Master Equations</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-7d.html">variational-quantum-algorithms</a></div></td>
-<td>Rafael Florencio Díaz et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22691">2610.22691</a></td>
 </tr>
 </tbody></table>

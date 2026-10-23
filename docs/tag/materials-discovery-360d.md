@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">241 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,94 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div></td>
+<td>Aravindan Kamatchi Sundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29895">2610.29895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28629.html">GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery</a></div></td>
+<td>Yazhuo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28629">2610.28629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27355.html">Reaction-induced Localized Annealing for On-chip Materials Discovery</a></div></td>
+<td>Nensi Toncich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27355">2610.27355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17804.html">Learning from fracture: Teaching language models to design through physical experience</a></div></td>
+<td>Bo Ni</td>
+<td><a href="http://arxiv.org/abs/2610.17804">2610.17804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15603.html">CondMSP: Condition-Informed and Resource-Aware Inorganic Materials Synthesis Planning</a></div></td>
+<td>Heewoong Noh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15603">2610.15603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12739.html">Predictive Synthesis of MOFs and COFs</a></div></td>
+<td>Bin Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12739">2610.12739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07552.html">Reliability of AI/ML Computational Searches for Magnetic Materials: Databases, Validation, and Synthesizability</a></div></td>
+<td>Vladimir Antropov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07552">2610.07552</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div></td>
 <td>Dylan John et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div></td>
+<td>Jihan Kim</td>
+<td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08852.html">Autonomous Droplet Navigation via Model-Based Reinforcement Learning: Zero-Shot Transfer and Emergent Dynamics</a></div></td>
+<td>Rajneesh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08852">2610.08852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02671.html">LATHE: LAnguage-driven Toolkit for Hypothesis-based crystal Editing</a></div></td>
+<td>Qianyu Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02671">2610.02671</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03880.html">Reinforcement Learning on the Discrete Composition Channel of a Crystal Generator: Validated Gains and Reward Hacking</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Pawan Prakash et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03880">2610.03880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04134.html">Agentic Resource Allocation for Batch Multi-Objective Bayesian Optimization in Autonomous Materials Discovery</a></div></td>
+<td>Robert Robinson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04134">2610.04134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02599.html">TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods</a></div></td>
+<td>Anna T. Thomas et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02599">2610.02599</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>
@@ -1382,11 +1460,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26824.html">LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature</a></div></td>
 <td>Magdalena Lederbauer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26824">2510.26824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23394.html">fair_data.py: implementing FAIR data compliance in Tribchem</a></div></td>
-<td>Lucrezia Berghenti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23394">2510.23394</a></td>
 </tr>
 </tbody></table>

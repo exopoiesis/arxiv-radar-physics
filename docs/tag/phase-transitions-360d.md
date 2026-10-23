@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31663.html">Phase Transition from Random Features to Fully Trainable Networks</a></div></td>
+<td>Xin He et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31663">2610.31663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08755.html">Metastability and Sharp Propagation-of-Chaos Thresholds for Mean-Field Interacting Diffusions on the Circle</a></div></td>
+<td>Sayan Banerjee</td>
+<td><a href="http://arxiv.org/abs/2610.08755">2610.08755</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17347.html">On the Statistical Mechanics of Attention</a></div></td>
+<td>Jerry Yao-Chieh Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17347">2610.17347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09132.html">The Impact of Likelihood Tempering on the Limiting Predictive Moments of Variational Bayesian Linear Neural Networks</a></div></td>
+<td>Ian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09132">2610.09132</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01104.html">Systematic Bayesian investigation of the (2+1)-flavor QCD phase transition in a holographic model</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
@@ -914,17 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24930.html">Machine Learning the Entropy to Estimate Free Energy Differences without Sampling Transitions</a></div></td>
 <td>Yamin Ben-Shimon et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24930">2510.24930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20094.html">On the Structure of Stationary Solutions to McKean-Vlasov Equations with Applications to Noisy Transformers</a></div></td>
-<td>Krishnakumar Balasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20094">2510.20094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23489.html">Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Hemish Ahuja et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23489">2510.23489</a></td>
 </tr>
 </tbody></table>

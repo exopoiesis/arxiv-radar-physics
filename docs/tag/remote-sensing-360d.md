@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">507 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31304.html">Data-Driven Vision-Language Models for Remote Sensing: A Survey</a></div></td>
+<td>Yue Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31304">2610.31304</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29777.html">Key Findings for Small UAS for Post-Disaster Damage Assessment from the CURSE&#x27;26 Exercise</a></div></td>
@@ -3038,23 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24321.html">Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning</a></div></td>
 <td>Ivica Dimitrovski et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24321">2510.24321</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09732.html">Continental-scale habitat distribution modelling with multimodal earth observation foundation models</a></div></td>
-<td>Sara Si-Moussi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09732">2507.09732</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22964.html">Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges</a></div></td>
-<td>Liling Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22964">2510.22964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23382.html">An Efficient Remote Sensing Super Resolution Method Exploring Diffusion Priors and Multi-Modal Constraints for Crop Type Mapping</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Songxi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23382">2510.23382</a></td>
 </tr>
 </tbody></table>

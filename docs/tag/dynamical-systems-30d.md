@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31585.html">Action Learning for Scientific Simulations</a></div></td>
+<td>Sarah Liaw et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31585">2610.31585</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27179.html">Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
 <td>Lorenzo Cirigliano et al.</td>
@@ -200,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28364.html">LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials</a></div></td>
 <td>Oswin So et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28364">2609.28364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26440.html">Engineering safe structures: recent advances in structural reliability modelling</a></div></td>
-<td>Adwait Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26440">2609.26440</a></td>
 </tr>
 </tbody></table>

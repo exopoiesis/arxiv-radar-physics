@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1042 papers</span>
+  <span class="paper-count">1043 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27193.html">Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="rans-all.html">rans</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>

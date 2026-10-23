@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31605.html">A Priori Estimation of the Non-Linear Compression Potential and Quantification of Autoencoder Non-Linearity in Turbulent Flows</a></div></td>
+<td>Niklas Alexander Pissarski et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31605">2610.31605</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28378.html">Topology-Adaptive Seismic Response Prediction of Interconnected Structural Systems Using Reduced Order Model Embedded Graph Neural Network</a></div></td>
 <td>Huangbin Liang et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03996.html">Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
 <td>Konstantinos Alexopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03996">2608.03996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Michael Candon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22402">2607.22402</a></td>
 </tr>
 </tbody></table>

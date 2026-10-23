@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">595 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27193.html">Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Raul Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="rans-360d.html">rans</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -3578,17 +3584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24026.html">Efficient Global-Local Fusion Sampling for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Jiaqi Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24026">2510.24026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07841.html">Learning Robust Satellite Attitude Dynamics with Physics-Informed Normalising Flow</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Carlo Cena et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07841">2508.07841</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09207.html">Operator-Consistent Physics-Informed Learning for Wafer Thermal Reconstruction in Lithography</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ze Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09207">2510.09207</a></td>
 </tr>
 </tbody></table>

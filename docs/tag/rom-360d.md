@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31605.html">A Priori Estimation of the Non-Linear Compression Potential and Quantification of Autoencoder Non-Linearity in Turbulent Flows</a></div></td>
+<td>Niklas Alexander Pissarski et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31605">2610.31605</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28378.html">Topology-Adaptive Seismic Response Prediction of Interconnected Structural Systems Using Reduced Order Model Embedded Graph Neural Network</a></div></td>
 <td>Huangbin Liang et al.</td>
@@ -314,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25625.html">HybriNet-Hybrid Neural Network-based framework for Multi-Parametric Database Generation, Enhancement, and Forecasting</a></div></td>
 <td>Guillermo Barragán et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25625">2510.25625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23004.html">MultiLevel Variational MultiScale (ML-VMS) framework for large-scale simulation</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23004">2510.23004</a></td>
 </tr>
 </tbody></table>

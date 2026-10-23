@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31465.html">RheOPT: Few-Shot Non-Newtonian Flow Prediction via Newtonian Pretraining of RheOFormer</a></div></td>
+<td>Maedeh Saberi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31465">2610.31465</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24497.html">The Segal-Bargmann Transform in Neural Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Jie Xu et al.</td>
@@ -1712,11 +1718,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16656.html">Mesh-Informed Neural Operator : A Transformer Generative Approach</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Yaozhong Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16656">2506.16656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23810.html">A Physics-informed Multi-resolution Neural Operator</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sumanta Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23810">2510.23810</a></td>
 </tr>
 </tbody></table>

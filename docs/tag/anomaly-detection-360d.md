@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">295 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30777.html">One Pretrained Decision Model Is Enough for Training-Free Generalist Graph Anomaly Detection</a></div></td>
+<td>Xinyu Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30777">2610.30777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31478.html">MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models</a></div></td>
+<td>Khaled Waleed Dawoud et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31478">2610.31478</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29868.html">Evaluating Zero-Shot Anomaly Detection for Identifying Unusual Galaxy Morphologies in CEERS and NGDEEP</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
@@ -1772,11 +1784,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25809.html">Flex-GAD : Flexible Graph Anomaly Detection</a></div></td>
 <td>Apu Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25809">2510.25809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23702.html">In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Siddharth Chaini et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23702">2510.23702</a></td>
 </tr>
 </tbody></table>

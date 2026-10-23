@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">493 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,11 +2966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24598.html">A Novel XAI-Enhanced Quantum Adversarial Networks for Velocity Dispersion Modeling in MaNGA Galaxies</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Sathwik Narkedimilli et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24598">2510.24598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23489.html">Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Hemish Ahuja et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23489">2510.23489</a></td>
 </tr>
 </tbody></table>

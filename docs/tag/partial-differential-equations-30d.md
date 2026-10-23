@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
 <td>Stefan Klus et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29159">2609.29159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24913.html">Boson Star Factory: Past, Present, and Future</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Romain Gervalle et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24913">2609.24913</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25507.html">AKAPINN: Adaptive Kolmogorov-Arnold Physics-Informed Neural Networks for approximating solutions to quasilinear partial differential equations</a></div></td>
-<td>B. Veena S. N. Rao</td>
-<td><a href="http://arxiv.org/abs/2609.25507">2609.25507</a></td>
 </tr>
 </tbody></table>

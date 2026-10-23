@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31539.html">PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31539">2610.31539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29654.html">Probabilistic Machine Learning for Short-Term Atmospheric Seeing Forecasting</a></div></td>
 <td>Mary-Joe Medlej et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29654">2610.29654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="inverse-problems-7d.html">inverse-problems</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24525.html">Reconstruction of Unobserved Core Electron Density in Tokamak Plasmas with a Neural Operator Transport Surrogate and Uncertainty Quantification</a></div></td>
 <td>D. Sorokin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24525">2610.24525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21084.html">Stochastic Latent Twins: Learning Stochastic Solution Operators</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="inverse-problems-7d.html">inverse-problems</a></div></td>
-<td>Matthias Chung et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21084">2610.21084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22436.html">Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft</a></div></td>
-<td>Alvaro Peiro et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22436">2610.22436</a></td>
 </tr>
 </tbody></table>

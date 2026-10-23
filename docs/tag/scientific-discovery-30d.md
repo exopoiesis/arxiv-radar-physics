@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30851.html">ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization</a></div></td>
+<td>Zhaoran Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30851">2610.30851</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24291.html">An important Bottleneck in LLM Optimizers: Principle-Level Local Optima</a></div></td>
 <td>Nian Ran et al.</td>
@@ -308,11 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30199.html">ExplorationBench: Measuring AI Systems&#x27; Exploration in Verifiable Alien Worlds</a></div></td>
 <td>Ming Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30199">2609.30199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26661.html">Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent</a></div></td>
-<td>Brandon Bauer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26661">2609.26661</a></td>
 </tr>
 </tbody></table>

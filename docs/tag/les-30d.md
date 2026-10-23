@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>les — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <strong>30d</strong> <a href="les-90d.html">90d</a> <a href="les-360d.html">360d</a> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31547.html">A novel machine learning framework based on proper orthogonal decomposition for turbine wake flow predictions in natural waterways</a></div></td>
+<td>Mustafa Meriç Aksen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31547">2610.31547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27179.html">Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
@@ -32,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23809.html">Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Mohammad Almomani et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23809">2610.23809</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12170.html">Online Learning of a Spectral Eddy Viscosity Closure for Large Eddy Simulation Using Ensemble Kalman Inversion</a></div></td>
+<td>Katerina Kostova et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12170">2610.12170</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>

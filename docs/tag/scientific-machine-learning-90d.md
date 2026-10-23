@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="rans-90d.html">rans</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="plasma-physics-90d.html">plasma-physics</a></div></td>
 <td>Seungone Kim et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24726.html">Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Justin Sirignano et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24726">2607.24726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22811.html">From Hybrid Mechanistic--Data-Driven Modeling Toward Neuro-Symbolic AI: What, Why, and How</a></div></td>
-<td>Moein E. Samadi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22811">2607.22811</a></td>
 </tr>
 </tbody></table>

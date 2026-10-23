@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>plasma-physics — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <a href="plasma-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19159.html">Into the Unknown: Benchmarking AI agents on open scientific research problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Seungone Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19159">2610.19159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16910.html">QUARZ: a quasi-static particle-in-cell code with non-uniform radial grids for plasma wakefields</a></div></td>
+<td>Alexander Pukhov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16910">2610.16910</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-13</td>

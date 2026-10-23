@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <strong>90d</strong> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24418.html">Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks</a></div></td>
+<td>Francesco Tavani et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24418">2610.24418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18393.html">LunaTP: Enabling Efficient and Scalable Tensor Product for Equivariant MLIPs</a></div></td>
+<td>Yuanchang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18393">2610.18393</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14521.html">Learning Electron Density with Virtual Atoms for Transferable Atomistic Representations</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Yuzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14521">2610.14521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12151.html">Specialized machine learning force fields for materials dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="force-fields-90d.html">force-fields</a> · <a href="mlip-90d.html">mlip</a></div></td>

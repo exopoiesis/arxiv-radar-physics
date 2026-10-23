@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31465.html">RheOPT: Few-Shot Non-Newtonian Flow Prediction via Newtonian Pretraining of RheOFormer</a></div></td>
+<td>Maedeh Saberi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31465">2610.31465</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24497.html">The Segal-Bargmann Transform in Neural Partial Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Jie Xu et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24293.html">Constructive Universal Approximation by Infinite-Dimensional Neural Networks via Gaussian-Weighted Ridgelet Transform</a></div></td>
 <td>Sho Sonoda et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24293">2610.24293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22432.html">An Adaptive-Horizon Graph Neural Operator for coupled surrogate morphodynamic modelling</a></div></td>
-<td>Ying Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22432">2610.22432</a></td>
 </tr>
 </tbody></table>

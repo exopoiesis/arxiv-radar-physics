@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10140.html">Progress and Prospect of AI in ARPES Workflow</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Sandy Adhitia Ekahana et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10140">2610.10140</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22535.html">Approaching the Inverse Neutron Scattering Problem with Neural Networks</a></div></td>
 <td>Jingyi Luo et al.</td>
@@ -188,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26886.html">MaterialsGalaxy: A Platform Fusing Experimental and Theoretical Data in Condensed Matter Physics</a></div><div class="paper-tags"><a href="crystal-structure-prediction-360d.html">crystal-structure-prediction</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Tiannian Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26886">2510.26886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23489.html">Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Hemish Ahuja et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23489">2510.23489</a></td>
 </tr>
 </tbody></table>

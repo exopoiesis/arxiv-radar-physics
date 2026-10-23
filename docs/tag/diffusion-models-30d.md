@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Lipeng Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31071">2610.31071</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29476.html">Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29989.html">Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation</a></div></td>
 <td>Ruopeng Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29989">2610.29989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30500.html">PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization</a></div></td>
+<td>Maximilian Stölzle et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30500">2610.30500</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -236,23 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28749.html">Evaluating Cross-region Generalization for Wavelet-Diffusion Precipitation Downscaling</a></div></td>
 <td>Weikang Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28749">2609.28749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25869.html">Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention</a></div></td>
-<td>Shanghao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25869">2609.25869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-prediction-30d.html">crystal-structure-prediction</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Thomas Egg et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26482.html">Shallow-to-deep velocity model building via diffusion models-Part II: Realistic scenarios</a></div></td>
-<td>Shijun Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26482">2609.26482</a></td>
 </tr>
 </tbody></table>

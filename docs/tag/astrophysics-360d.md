@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09888.html">gwsnr: A python package for efficient signal-to-noise calculation of gravitational-waves</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Hemantakumar Phurailatpam et al.</td>
 <td><a href="http://arxiv.org/abs/2412.09888">2412.09888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23330.html">The First Star-by-star $N$-body/Hydrodynamics Simulation of Our Galaxy Coupling with a Surrogate Model</a></div></td>
-<td>Keiya Hirashima et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23330">2510.23330</a></td>
 </tr>
 </tbody></table>

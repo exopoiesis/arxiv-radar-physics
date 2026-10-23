@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31539.html">PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31539">2610.31539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29654.html">Probabilistic Machine Learning for Short-Term Atmospheric Seeing Forecasting</a></div></td>
 <td>Mary-Joe Medlej et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29654">2610.29654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -548,11 +560,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23202.html">jaxdae: A JAX-native Differentiable Solver for Differential-Algebraic Equations in Coupled Multi-physics</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Chengyuan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23202">2607.23202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22330.html">A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative Noise</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Nicolas Goeman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22330">2607.22330</a></td>
 </tr>
 </tbody></table>

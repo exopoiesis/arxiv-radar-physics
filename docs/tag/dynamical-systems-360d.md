@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">664 papers</span>
+  <span class="paper-count">663 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31585.html">Action Learning for Scientific Simulations</a></div></td>
+<td>Sarah Liaw et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31585">2610.31585</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27179.html">Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective</a></div><div class="paper-tags"><a href="les-360d.html">les</a></div></td>
@@ -3986,17 +3992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22705.html">Using &quot;AI Poincare&quot; to analyze non-linear integrable optics</a></div></td>
 <td>Lazare Osmanov et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22705">2510.22705</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20324.html">Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning</a></div></td>
-<td>Torben Berndt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20324">2506.20324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21318.html">A Deep Learning Framework for Identifying Weakly Chaotic, Strongly Chaotic, Resonant and Non-resonant Orbits in the Generalized Kicked Rotator</a></div></td>
-<td>Jian Zu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21318">2510.21318</a></td>
 </tr>
 </tbody></table>

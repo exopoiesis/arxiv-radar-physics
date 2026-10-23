@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">555 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Lipeng Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31071">2610.31071</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29476.html">Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29989.html">Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation</a></div></td>
 <td>Ruopeng Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29989">2610.29989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30500.html">PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization</a></div></td>
+<td>Maximilian Stölzle et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30500">2610.30500</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -3332,23 +3344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05535.html">Future of AI Models: A Computational perspective on Model collapse</a></div></td>
 <td>Trivikram Satharasi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05535">2511.05535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23020.html">M$^{3}$T2IBench: A Large-Scale Multi-Category, Multi-Instance, Multi-Relation Text-to-Image Benchmark</a></div></td>
-<td>Huixuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23020">2510.23020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23382.html">An Efficient Remote Sensing Super Resolution Method Exploring Diffusion Priors and Multi-Modal Constraints for Crop Type Mapping</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Songxi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23382">2510.23382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23768.html">Galactic Alchemy: Deep Learning Map-to-Map Translation in Hydrodynamical Simulations</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Philipp Denzel et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23768">2510.23768</a></td>
 </tr>
 </tbody></table>

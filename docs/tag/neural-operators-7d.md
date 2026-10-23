@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a></div></td>
+<td>Lipeng Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31071">2610.31071</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29009.html">Local and Sparse Kernel Operator Learning for Incompressible Flows: An Operator Lagrange Formulation</a></div></td>
 <td>Ramansh Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29009">2610.29009</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30498.html">CARS: a centerline-anchored attention surrogate for coronary blood flow on skeleton-generated lumen geometries</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a></div></td>
+<td>Reza Akbarian Bafghi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30498">2610.30498</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-19</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23292.html">Distributed Performance Boosting through Neural Control for Plug-and-Play Networks</a></div></td>
 <td>Danilo Saccani et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23292">2610.23292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21223.html">Learning and Forecasting Multiscale Spatiotemporal Epidemic Dynamics with Lagrangian-Eulerian Graph Neural ODEs</a></div></td>
-<td>Jinyi Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21223">2610.21223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22446.html">Learnable Splines for Unstructured Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Vignesh Gopakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22446">2610.22446</a></td>
 </tr>
 </tbody></table>

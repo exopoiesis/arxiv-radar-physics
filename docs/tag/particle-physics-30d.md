@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31180.html">Track finding and particle identification performance with particle physics foundation models</a></div></td>
+<td>Shuhang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31180">2610.31180</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28505.html">Blueprint for an AI-Enabled Particle Theory Community</a></div></td>
 <td>George T. Fleming et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06816.html">Reconfigurable On-Chip AI for Particle Physics Detectors with Logic Neural Networks</a></div></td>
 <td>Mila Bileska et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06816">2610.06816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26899.html">Towards Foundation Models on Hardware Accelerators for Particle Physics</a></div><div class="paper-tags"><a href="jet-tagging-30d.html">jet-tagging</a></div></td>
-<td>Maya Benyas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26899">2609.26899</a></td>
 </tr>
 </tbody></table>

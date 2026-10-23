@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dark-energy — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <strong>30d</strong> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29937.html">Constraining Dynamical Dark Energy with Tomographic Galaxy and CMB Weak Lensing Through Higher-Order Statistics</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
 <td>Shu-Fan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29937">2610.29937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30244.html">2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference</a></div><div class="paper-tags"><a href="cosmology-30d.html">cosmology</a></div></td>
+<td>Benjamin M. Boyd et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30244">2610.30244</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-19</td>

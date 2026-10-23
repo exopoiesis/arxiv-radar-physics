@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">710 papers</span>
+  <span class="paper-count">713 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,24 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29546.html">Sequential Entropic Optimal Transport for Bayesian Inverse Problems via Multilevel Monte Carlo</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Jason Beh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29546">2610.29546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30239.html">Faithful Uncertainties in ML-Based Inverse Problems: GPs, NNs and NTKs for the Triplet PDF</a></div></td>
+<td>Nina Elmer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30239">2610.30239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30306.html">Structure-Preserving Dimension Reduction and Surrogates for Partially Linear Bayesian Inverse Problems</a></div></td>
+<td>Ziheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30306">2610.30306</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>

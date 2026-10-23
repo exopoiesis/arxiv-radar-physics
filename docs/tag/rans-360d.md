@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.26567">2610.26567</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20585.html">Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Stavros Nousias et al.</td>
@@ -32,6 +38,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
 <td>Sharath S. Girimaji</td>
 <td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07829.html">Agentic Semantic Sensing for Resource-Adaptive AI-RAN</a></div></td>
+<td>Zhongqin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07829">2610.07829</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02618.html">A Token Service Interface for AI-Native RANs</a></div></td>
+<td>Jianan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02618">2610.02618</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>

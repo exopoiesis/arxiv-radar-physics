@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31539.html">PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31539">2610.31539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29654.html">Probabilistic Machine Learning for Short-Term Atmospheric Seeing Forecasting</a></div></td>
 <td>Mary-Joe Medlej et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29654">2610.29654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -3098,29 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23592.html">A Modern Theory of Cross-Validation through the Lens of Stability</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Jing Lei</td>
 <td><a href="http://arxiv.org/abs/2505.23592">2505.23592</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23437.html">A Physics-Informed Variational Inference Framework for Identifying Attributions of Extreme Stress Events in Low-Grain Polycrystals</a></div></td>
-<td>Yinling Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23437">2510.23437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23449.html">Schrodinger Neural Network and Uncertainty Quantification: Quantum Machine</a></div></td>
-<td>M. M. Hammad</td>
-<td><a href="http://arxiv.org/abs/2510.23449">2510.23449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23476.html">Human-AI Collaborative Uncertainty Quantification</a></div></td>
-<td>Sima Noorani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23476">2510.23476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23550.html">Bayesian Nonlinear PDE Inference via Gaussian Process Collocation with Application to the Richards Equation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yumo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23550">2510.23550</a></td>
 </tr>
 </tbody></table>

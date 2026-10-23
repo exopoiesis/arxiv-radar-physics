@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,24 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29546.html">Sequential Entropic Optimal Transport for Bayesian Inverse Problems via Multilevel Monte Carlo</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Jason Beh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29546">2610.29546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30239.html">Faithful Uncertainties in ML-Based Inverse Problems: GPs, NNs and NTKs for the Triplet PDF</a></div></td>
+<td>Nina Elmer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30239">2610.30239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30306.html">Structure-Preserving Dimension Reduction and Surrogates for Partially Linear Bayesian Inverse Problems</a></div></td>
+<td>Ziheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30306">2610.30306</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -200,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29969.html">Rapid Uncertainty Quantification on a Latent Field using Fisher Information</a></div></td>
 <td>Karl Daningburg et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29969">2609.29969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26653.html">Distributed Proximal Stein Variational Gradient Descent Algorithm for Large-scale Bayesian Inference in Traveltime Tomography</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Akshay Vishwakarma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26653">2609.26653</a></td>
 </tr>
 </tbody></table>

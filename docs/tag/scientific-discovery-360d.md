@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">518 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30851.html">ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization</a></div></td>
+<td>Zhaoran Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30851">2610.30851</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24291.html">An important Bottleneck in LLM Optimizers: Principle-Level Local Optima</a></div></td>
@@ -3116,17 +3122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24891.html">Idea2Plan: Exploring AI-Powered Research Planning</a></div></td>
 <td>Jin Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24891">2510.24891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07076.html">MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</a></div></td>
-<td>Zonglin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.07076">2410.07076</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23702.html">In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Siddharth Chaini et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23702">2510.23702</a></td>
 </tr>
 </tbody></table>

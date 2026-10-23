@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00923.html">Resolvent-Type Data-Driven Learning of Generators for Unknown Continuous-Time Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Yiming Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00923">2411.00923</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19885.html">FlightKooba: A Fast Interpretable FTP Model</a></div></td>
-<td>Jing Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19885">2506.19885</a></td>
 </tr>
 </tbody></table>

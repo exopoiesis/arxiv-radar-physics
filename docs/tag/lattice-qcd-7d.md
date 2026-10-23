@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>lattice-qcd — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="lattice-qcd-30d.html">30d</a> <a href="lattice-qcd-90d.html">90d</a> <a href="lattice-qcd-360d.html">360d</a> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29726.html">Mellin Moments of Proton Unpolarized GPDs at Nonzero Skewness from Lattice QCD with a Neural-Network Parametrization</a></div></td>
 <td>Min-Huan Chu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29726">2610.29726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22224.html">The hadronic-vacuum-polarization contribution to the muon anomalous magnetic moment in isospin-symmetric lattice QCD with twisted-mass fermions</a></div></td>
-<td>C. Alexandrou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22224">2610.22224</a></td>
 </tr>
 </tbody></table>

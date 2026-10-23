@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29850.html">Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy Simulation via Agentic AI</a></div></td>
+<td>Jiawei Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29850">2610.29850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30498.html">CARS: a centerline-anchored attention surrogate for coronary blood flow on skeleton-generated lumen geometries</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Reza Akbarian Bafghi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30498">2610.30498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27535.html">Ultra-Fast 4H-SiC AC-LGAD for 4D Tracking Applications</a></div></td>
+<td>Tao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27535">2610.27535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26567.html">Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="rans-90d.html">rans</a></div></td>
 <td>Tom Moussie et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26567">2610.26567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="rans-90d.html">rans</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23087.html">Geometry-Aware Latent Representation Learning for Drag Coefficient Prediction of Irregular Particles</a></div></td>
+<td>Zihao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23087">2610.23087</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-11</td>
@@ -50,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02056.html">Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Nichula Sathmith Wasalathilaka et al.</td>
 <td><a href="http://arxiv.org/abs/2610.02056">2610.02056</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02442.html">AI-driven Thermal-aware Data Center Capacity Planning</a></div></td>
+<td>Yixing Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02442">2610.02442</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>
@@ -278,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24860.html">Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
 <td>Xiaozhu Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24860">2607.24860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22402.html">Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>Michael Candon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22402">2607.22402</a></td>
 </tr>
 </tbody></table>

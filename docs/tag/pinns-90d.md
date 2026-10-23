@@ -52,6 +52,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="rans-90d.html">rans</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Yatin Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25506.html">A Method for Linearization of Systems of Quadratic Equations</a></div><div class="paper-tags"><a href="sciml-90d.html">sciml</a></div></td>
 <td>A. A. Pak et al.</td>
@@ -632,11 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23276.html">Performance of Krotov, PRONTO and PINN for optimal control of quantum gates</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Martín D. Jiménez et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23276">2607.23276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21932.html">Generalized Neural Operator for Parametric and Boundary-Value Problems</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Ruoyan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21932">2607.21932</a></td>
 </tr>
 </tbody></table>

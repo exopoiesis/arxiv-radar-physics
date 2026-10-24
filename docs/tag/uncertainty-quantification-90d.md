@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,17 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26781.html">Recent Progress in Ab-Initio Nuclear Theory for Precision Physics Searches in Muonic Atoms and Superallowed $β$ Decays</a></div></td>
 <td>Simone Salvatore Li Muli et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26781">2607.26781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23008.html">Nesterov acceleration in optimizing over probability measures</a></div></td>
-<td>Jiaqi Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23008">2607.23008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23202.html">jaxdae: A JAX-native Differentiable Solver for Differential-Algebraic Equations in Coupled Multi-physics</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Chengyuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23202">2607.23202</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08860.html">When is a System Discoverable from Data? Discovery Requires Chaos</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Zakhar Shumaylov et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08860">2511.08860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00049.html">Adaptive Spatio-Temporal Graphs with Self-Supervised Pretraining for Multi-Horizon Weather Forecasting</a></div></td>
-<td>Yao Liu</td>
-<td><a href="http://arxiv.org/abs/2511.00049">2511.00049</a></td>
 </tr>
 </tbody></table>

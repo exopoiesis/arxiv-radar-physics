@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,23 +2522,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09888.html">gwsnr: A python package for efficient signal-to-noise calculation of gravitational-waves</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Hemantakumar Phurailatpam et al.</td>
 <td><a href="http://arxiv.org/abs/2412.09888">2412.09888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12112.html">Quantifying Irreversibility via Bayesian Subjectivity for Classical &amp; Quantum Linear Maps</a></div></td>
-<td>Lizhuo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12112">2503.12112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24951.html">Resource-Efficient and Robust Inference of Deep and Bayesian Neural Networks on Embedded and Analog Computing Platforms</a></div></td>
-<td>Bernhard Klein</td>
-<td><a href="http://arxiv.org/abs/2510.24951">2510.24951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25038.html">A Black Box Variational Inference Scheme for Inverse Problems with Demanding Physics-Based Models</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>G. Robalo Rei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25038">2510.25038</a></td>
 </tr>
 </tbody></table>

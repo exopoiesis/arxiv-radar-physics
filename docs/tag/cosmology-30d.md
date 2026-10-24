@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03946.html">Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="dark-matter-30d.html">dark-matter</a> · <a href="galaxy-formation-30d.html">galaxy-formation</a> · <a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
 <td>Elisa J. Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03946">2610.03946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28458.html">Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU</a></div><div class="paper-tags"><a href="ai4science-30d.html">ai4science</a> · <a href="black-holes-30d.html">black-holes</a></div></td>
-<td>A. Spurio Mancini</td>
-<td><a href="http://arxiv.org/abs/2609.28458">2609.28458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30312.html">FPCA-Enhanced Simulation-Based Inference for Robust Type Ia Supernova Cosmology</a></div></td>
-<td>Moonzarin Reza et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30312">2609.30312</a></td>
 </tr>
 </tbody></table>

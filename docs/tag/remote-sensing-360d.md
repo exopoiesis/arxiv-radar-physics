@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">505 papers</span>
+  <span class="paper-count">502 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3026,23 +3026,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19311.html">DGTRSD &amp; DGTRS-CLIP: A Dual-Granularity Remote Sensing Image-Text Dataset and Vision Language Foundation Model for Alignment</a></div></td>
 <td>Weizhi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.19311">2503.19311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18384.html">LiDAR Remote Sensing Meets Weak Supervision: Concepts, Methods, and Perspectives</a></div></td>
-<td>Yuan Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18384">2503.18384</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23592.html">A Modern Theory of Cross-Validation through the Lens of Stability</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Jing Lei</td>
-<td><a href="http://arxiv.org/abs/2505.23592">2505.23592</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24321.html">Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning</a></div></td>
-<td>Ivica Dimitrovski et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24321">2510.24321</a></td>
 </tr>
 </tbody></table>

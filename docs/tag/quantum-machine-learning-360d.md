@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">492 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2948,23 +2948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25839.html">Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative</a></div></td>
 <td>Cassandre Notton et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25839">2510.25839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07216.html">Quantum Machine Learning and Grover&#x27;s Algorithm for Quantum Optimization of Robotic Manipulators</a></div></td>
-<td>Hassen Nigatu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07216">2509.07216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24348.html">Tight Generalization Bound for Supervised Quantum Machine Learning</a></div></td>
-<td>Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24348">2510.24348</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24598.html">A Novel XAI-Enhanced Quantum Adversarial Networks for Velocity Dispersion Modeling in MaNGA Galaxies</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Sathwik Narkedimilli et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24598">2510.24598</a></td>
 </tr>
 </tbody></table>

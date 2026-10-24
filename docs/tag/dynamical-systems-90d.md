@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,11 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23558.html">Topological Feature Extraction of Scanty Time Series Data: A Data-Driven Approach for Dynamic State Change Detection</a></div></td>
 <td>B. Rishab Antosh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23558">2607.23558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23337.html">Neural operator discovery from heterogeneous trajectories</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a></div></td>
-<td>Zituo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23337">2607.23337</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inverse-problems — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24710.html">Exploiting sparse conditional dependence in remote sensing observing systems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="remote-sensing-7d.html">remote-sensing</a></div></td>
 <td>Kelvin M. Leung et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24710">2610.24710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21049.html">SALTO: Solver-Anchored Lifted Transfer Operators for Nonlinear Event Inference</a></div></td>
-<td>Qi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21049">2610.21049</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23603.html">Bayesian Geophysical Inversion using Stein Mixture Variational Inference for Multimodal or Complex Solutions</a></div></td>
-<td>Xuebin Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23603">2610.23603</a></td>
 </tr>
 </tbody></table>

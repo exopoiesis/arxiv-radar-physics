@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25925.html">Equation Discovery, Parametric Simulation, and Optimization Using the Physics-Informed Neural Network (PINN) Method for the Heat Conduction Problem</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Ehsan Ghaderi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25925">2510.25925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11307.html">Approximating the universal thermal climate index using sparse regression with orthogonal polynomials</a></div></td>
-<td>Sabin Roman et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11307">2508.11307</a></td>
 </tr>
 </tbody></table>

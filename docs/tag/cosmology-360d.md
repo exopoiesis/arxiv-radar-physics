@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">184 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,11 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13577.html">Constraints on Compact Dark Matter Population from Micro-lensing Effect of Gravitational Wave for the third-generation gravitational Wave Detector</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Xin-Yi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13577">2508.13577</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13960.html">Learning the Universe: Cosmological and Astrophysical Parameter Inference with Galaxy Luminosity Functions and Colours</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
-<td>Christopher C. Lovell et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13960">2411.13960</a></td>
 </tr>
 </tbody></table>

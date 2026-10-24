@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24708.html">Spherical Physics-informed Neural Operator with Multi-scale Coupling for Meteorological Downscaling</a></div></td>
 <td>Yiqiang Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24708">2610.24708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23292.html">Distributed Performance Boosting through Neural Control for Plug-and-Play Networks</a></div></td>
-<td>Danilo Saccani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23292">2610.23292</a></td>
 </tr>
 </tbody></table>

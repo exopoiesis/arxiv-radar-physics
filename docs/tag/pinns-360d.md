@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">595 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,17 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25925.html">Equation Discovery, Parametric Simulation, and Optimization Using the Physics-Informed Neural Network (PINN) Method for the Heat Conduction Problem</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
 <td>Ehsan Ghaderi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25925">2510.25925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14430.html">Prox-PINNs: A Deep Learning Algorithmic Framework for Elliptic Variational Inequalities</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yu Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14430">2505.14430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24026.html">Efficient Global-Local Fusion Sampling for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jiaqi Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24026">2510.24026</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">284 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,23 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25379.html">A Deep Learning Framework for Multi-Operator Learning: Architectures and Approximation Theory</a></div></td>
 <td>Adrien Weihs et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25379">2510.25379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09795.html">DeltaPhi: Physical States Residual Learning for Neural Operators in Data-Limited PDE Solving</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Xihang Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09795">2406.09795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08428.html">Physics-Informed Latent Neural Operator for Real-time Predictions of time-dependent parametric PDEs</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Sharmila Karumuri et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08428">2501.08428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16656.html">Mesh-Informed Neural Operator : A Transformer Generative Approach</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Yaozhong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16656">2506.16656</a></td>
 </tr>
 </tbody></table>

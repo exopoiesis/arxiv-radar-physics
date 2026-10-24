@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>particle-physics — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <strong>90d</strong> <a href="particle-physics-360d.html">360d</a> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Johannes Buchner</td>
 <td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23377.html">Predict before you train: Scaling Laws for particle physics foundation models</a></div></td>
-<td>Jan-Lucas Uslu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23377">2607.23377</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24828.html">Multi-property Feynman-Kac Steering of Crystal Diffusion Models</a></div></td>
 <td>Oded Mousai et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24828">2610.24828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23772.html">Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars</a></div></td>
-<td>Simon Giebenhain et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23772">2610.23772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24060.html">Generative Text Modelling and Language-Guided Visual Attention for Deciphering Palimpsests</a></div></td>
-<td>Robin Hollifeldt et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24060">2610.24060</a></td>
 </tr>
 </tbody></table>

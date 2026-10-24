@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,29 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27013.html">LightPro: A Linear Photonic Processor with Full Programmability</a></div></td>
 <td>Amin Shafiee et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27013">2510.27013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17804.html">Incongruent Melting and Phase Diagram of SiC from Machine Learning Molecular Dynamics</a></div></td>
-<td>Yu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17804">2502.17804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24463.html">Deep-Learning-Empowered Programmable Topolectrical Circuits</a></div></td>
-<td>Hao Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24463">2510.24463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24874.html">Molecular simulations of Perovskites CsXI3 (X = Pb,Sn) Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Atefe Ebrahimi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24874">2510.24874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24930.html">Machine Learning the Entropy to Estimate Free Energy Differences without Sampling Transitions</a></div></td>
-<td>Yamin Ben-Shimon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24930">2510.24930</a></td>
 </tr>
 </tbody></table>

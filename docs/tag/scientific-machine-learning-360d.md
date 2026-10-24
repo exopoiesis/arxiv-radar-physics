@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,17 +1286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01830.html">Towards Multi-Fidelity Scaling Laws of Neural Surrogates in CFD</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Paul Setinek et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01830">2511.01830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13723.html">Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project</a></div></td>
-<td>Pratik Rathore et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13723">2505.13723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21124.html">UniFoil: A Universal Dataset of Airfoils in Transitional and Turbulent Regimes for Subsonic and Transonic Flows</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
-<td>Rohit Sunil Kanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21124">2505.21124</a></td>
 </tr>
 </tbody></table>

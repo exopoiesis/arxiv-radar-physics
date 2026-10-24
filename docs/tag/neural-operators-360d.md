@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2510,23 +2510,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26227.html">Transcending Sparse Measurement Limits: Operator-Learning-Driven Data Super-Resolution for Inverse Source Problem</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Guanyu Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26227">2510.26227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09795.html">DeltaPhi: Physical States Residual Learning for Neural Operators in Data-Limited PDE Solving</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Xihang Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09795">2406.09795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16656.html">Mesh-Informed Neural Operator : A Transformer Generative Approach</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Yaozhong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16656">2506.16656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24557.html">Enforcing boundary conditions for physics-informed neural operators</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Niklas Göschel et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24557">2510.24557</a></td>
 </tr>
 </tbody></table>

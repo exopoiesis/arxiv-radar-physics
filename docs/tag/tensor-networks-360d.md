@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26543.html">The Structure of Relation Decoding Linear Operators in Large Language Models</a></div></td>
 <td>Miranda Anna Christ et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26543">2510.26543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08329.html">Neuralized Fermionic Tensor Networks for Quantum Many-Body Systems</a></div></td>
-<td>Si-Jing Du et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08329">2506.08329</a></td>
 </tr>
 </tbody></table>

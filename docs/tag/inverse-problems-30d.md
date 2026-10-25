@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31539.html">NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Márcio Marques et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31539">2609.31539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29220.html">A Unified Frequency-Domain Model for Cascaded Filter-Interpolation Modulation in Tomographic Reconstruction</a></div></td>
-<td>Detian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29220">2609.29220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29969.html">Rapid Uncertainty Quantification on a Latent Field using Fisher Information</a></div></td>
-<td>Karl Daningburg et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29969">2609.29969</a></td>
 </tr>
 </tbody></table>

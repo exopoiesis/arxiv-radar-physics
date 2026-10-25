@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25747.html">Bayesian Model Discovery with Language Models: Closing the Loop between Hypotheses and Experiments</a></div></td>
 <td>JooKyung Yuh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25747">2610.25747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14465.html">Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval</a></div></td>
-<td>Zhisheng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14465">2610.14465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24454.html">MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery</a></div></td>
-<td>Sizhe Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24454">2610.24454</a></td>
 </tr>
 </tbody></table>

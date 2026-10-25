@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">615 papers</span>
+  <span class="paper-count">611 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3680,29 +3680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26904.html">$\mathrm{SU(N)}$ lattice gauge theories with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
 <td>Simone Romiti</td>
 <td><a href="http://arxiv.org/abs/2510.26904">2510.26904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25554.html">Learning Soil Physics from Partial Knowledge and Data: Partitioning Capillary and Adsorbed Soil Water</a></div><div class="paper-tags"><a href="data-driven-physics-360d.html">data-driven-physics</a></div></td>
-<td>Sarem Norouzi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25554">2510.25554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25563.html">Leveraging an Atmospheric Foundational Model for Subregional Sea Surface Temperature Forecasting</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Víctor Medina et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25563">2510.25563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25731.html">LieSolver: A PDE-constrained solver for IBVPs using Lie symmetries</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>René P. Klausen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25731">2510.25731</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25752.html">Meshless solutions of PDE inverse problems on irregular geometries</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>James V. Roggeveen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25752">2510.25752</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">489 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,17 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26487.html">Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
 <td>Wajdi Hammami et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26487">2510.26487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25449.html">Variational quantum computing for quantum simulation: principles, implementations, and challenges</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Lucas Q. Galvão et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25449">2510.25449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25839.html">Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative</a></div></td>
-<td>Cassandre Notton et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25839">2510.25839</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01246.html">Quantum Machine Learning for State Tomography Using Classical Data</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="quantum-state-reconstruction-360d.html">quantum-state-reconstruction</a></div></td>
 <td>Shabnam Jabeen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01246">2507.01246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25449.html">Variational quantum computing for quantum simulation: principles, implementations, and challenges</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Lucas Q. Galvão et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25449">2510.25449</a></td>
 </tr>
 </tbody></table>

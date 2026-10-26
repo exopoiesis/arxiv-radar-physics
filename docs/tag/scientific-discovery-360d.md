@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3098,11 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27598.html">InnovatorBench: Evaluating Agents&#x27; Ability to Conduct Innovative LLM Research</a></div></td>
 <td>Yunze Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27598">2510.27598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26688.html">FlowQ-Net: A Generative Framework for Automated Quantum Circuit Design</a></div></td>
-<td>Jun Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26688">2510.26688</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,23 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03895.html">Learning to shine: Neuroevolution enables optical control of phase transitions</a></div></td>
 <td>Sraddha Agrawal et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03895">2511.03895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23098.html">Learning phases with Quantum Monte Carlo simulation cell</a></div></td>
-<td>Amrita Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23098">2503.23098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26158.html">Toward a Phenomenological Theory of Earthquakes</a></div></td>
-<td>A. V. Guglielmi</td>
-<td><a href="http://arxiv.org/abs/2510.26158">2510.26158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27013.html">LightPro: A Linear Photonic Processor with Full Programmability</a></div></td>
-<td>Amin Shafiee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27013">2510.27013</a></td>
 </tr>
 </tbody></table>

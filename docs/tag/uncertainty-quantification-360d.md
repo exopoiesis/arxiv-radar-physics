@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">512 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3086,11 +3086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12451.html">Quasi-Monte Carlo methods for uncertainty quantification of wave propagation and scattering problems modelled by the Helmholtz equation</a></div></td>
 <td>Ivan G. Graham et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12451">2502.12451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26058.html">A Review of AI-Driven Approaches for Nanoscale Heat Conduction and Radiation</a></div></td>
-<td>Ziqi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26058">2510.26058</a></td>
 </tr>
 </tbody></table>

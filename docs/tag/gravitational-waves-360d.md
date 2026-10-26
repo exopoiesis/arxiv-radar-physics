@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01959.html">Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Eleonora Villa et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01959">2511.01959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11663.html">Gravitational-wave signatures of mirror (a)symmetry in binary black hole mergers: measurability and correlation to gravitational-wave recoil</a></div></td>
-<td>Samson H. W. Leong et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11663">2501.11663</a></td>
 </tr>
 </tbody></table>

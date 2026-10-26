@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25608.html">Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Pinki Khatun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.25608">2607.25608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24513.html">Physics Transformer: Tailoring Transformer for General PDE Prediction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
-<td>Guoze Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24513">2607.24513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24726.html">Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Justin Sirignano et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24726">2607.24726</a></td>
 </tr>
 </tbody></table>

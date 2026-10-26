@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">775 papers</span>
+  <span class="paper-count">771 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4640,29 +4640,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00418.html">Structure-Preserving Physics-Informed Neural Network for the Korteweg--de Vries (KdV) Equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Victory Obieke et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00418">2511.00418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21153.html">Climate Science and Control Engineering: Insights, Parallels, and Connections</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Salma M. Elsherif et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21153">2504.21153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26365.html">Incorporating Local Hölder Regularity into PINNs for Solving Elliptic PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Qirui Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26365">2510.26365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26962.html">Finite Element Representation Network (FERN) for Operator Learning with a Localized Trainable Basis</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Zecheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26962">2510.26962</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27018.html">Domain decomposition architectures and Gauss-Newton training for physics-informed neural networks</a></div></td>
-<td>Alexander Heinlein et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27018">2510.27018</a></td>
 </tr>
 </tbody></table>

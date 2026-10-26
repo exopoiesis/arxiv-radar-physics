@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,17 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02574.html">Probing large-scale structures with the two-point function and the power spectrum: insights into cosmic clustering evolution</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Camila Franco et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02574">2502.02574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26593.html">Hybrid Physical-Neural Simulator for Fast Cosmological Hydrodynamics</a></div></td>
-<td>Arne Thomsen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26593">2510.26593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26932.html">The ANUBIS detector and its sensitivity to neutral long-lived particles</a></div></td>
-<td>ANUBIS Collaboration</td>
-<td><a href="http://arxiv.org/abs/2510.26932">2510.26932</a></td>
 </tr>
 </tbody></table>

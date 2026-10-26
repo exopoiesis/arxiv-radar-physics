@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">291 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1760,23 +1760,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27146.html">SERVIMON: AI-Driven Predictive Maintenance and Real-Time Monitoring for Astronomical Observatories</a></div></td>
 <td>Emilio Mastriani et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27146">2510.27146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03509.html">AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning</a></div></td>
-<td>Pablo Gómez et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03509">2505.03509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26487.html">Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Wajdi Hammami et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26487">2510.26487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00099.html">A generative adversarial network optimization method for damage detection and digital twinning by deep AI fault learning: Z24 Bridge structural health monitoring benchmark validation</a></div></td>
-<td>Marios Impraimakis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00099">2511.00099</a></td>
 </tr>
 </tbody></table>

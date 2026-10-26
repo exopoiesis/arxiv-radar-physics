@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3320,17 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00248.html">Object-Aware 4D Human Motion Generation</a></div></td>
 <td>Shurui Gui et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00248">2511.00248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15121.html">Generative thermodynamic computing</a></div></td>
-<td>Stephen Whitelam</td>
-<td><a href="http://arxiv.org/abs/2506.15121">2506.15121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26081.html">Group-Equivariant Diffusion Models for Lattice Field Theory</a></div></td>
-<td>Octavio Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26081">2510.26081</a></td>
 </tr>
 </tbody></table>

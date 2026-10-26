@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">416 papers</span>
+  <span class="paper-count">413 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2492,23 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25803.html">Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training</a></div></td>
 <td>Hong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25803">2510.25803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25697.html">Fourier Neural Operators for Two-Phase, 2D Mold-Filling Problems Related to Metal Casting</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Edgard Moreira Minete et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25697">2510.25697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26121.html">Uncertainty-Aware Diagnostics for Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Mara Daniels et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26121">2510.26121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26227.html">Transcending Sparse Measurement Limits: Operator-Learning-Driven Data Super-Resolution for Inverse Source Problem</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Guanyu Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26227">2510.26227</a></td>
 </tr>
 </tbody></table>

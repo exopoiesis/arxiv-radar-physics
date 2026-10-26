@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>data-assimilation — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26567.html">Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="les-7d.html">les</a> · <a href="navier-stokes-equations-7d.html">navier-stokes-equations</a> · <a href="rans-7d.html">rans</a></div></td>
 <td>Tom Moussie et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26567">2610.26567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25001.html">UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models</a></div></td>
-<td>Yunbei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25001">2610.25001</a></td>
 </tr>
 </tbody></table>

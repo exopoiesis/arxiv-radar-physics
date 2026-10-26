@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.06819.html">A Physics-Constrained Neural Differential Equation Framework for Data-Driven Snowpack Simulation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Andrew Charbonneau et al.</td>
 <td><a href="http://arxiv.org/abs/2412.06819">2412.06819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21153.html">Climate Science and Control Engineering: Insights, Parallels, and Connections</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Salma M. Elsherif et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21153">2504.21153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26653.html">Towards Reliable Sea Ice Drift Estimation in the Arctic Deep Learning Optical Flow on RADARSAT-2</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Daniela Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26653">2510.26653</a></td>
 </tr>
 </tbody></table>

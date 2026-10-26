@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01982.html">SEAL - A Symmetry EncourAging Loss for High Energy Physics</a></div><div class="paper-tags"><a href="jet-tagging-360d.html">jet-tagging</a></div></td>
 <td>Pradyun Hebbar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01982">2511.01982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09298.html">DeepOSets: Non-Autoregressive In-Context Learning with Permutation-Invariance Inductive Bias</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Shao-Ting Chiu et al.</td>
-<td><a href="http://arxiv.org/abs/2410.09298">2410.09298</a></td>
 </tr>
 </tbody></table>

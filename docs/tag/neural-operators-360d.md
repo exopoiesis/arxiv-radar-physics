@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">413 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,17 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01924.html">Neural Green&#x27;s Functions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Seungwoo Yoo et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01924">2511.01924</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23936.html">A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations</a></div></td>
-<td>Junho Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23936">2510.23936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25803.html">Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training</a></div></td>
-<td>Hong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25803">2510.25803</a></td>
 </tr>
 </tbody></table>

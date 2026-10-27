@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,29 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00545.html">Extraction of Moment Closures for Strongly Non-Equilibrium Flows via Machine Learning</a></div></td>
 <td>Hang Song et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00545">2511.00545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02729.html">Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Marcel Aach et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02729">2412.02729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16857.html">DrivAerStar: An Industrial-Grade CFD Dataset for Vehicle Aerodynamic Optimization</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Jiyan Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16857">2510.16857</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27101.html">A Hierarchical Deep Learning Model for Predicting Pedestrian-Level Urban Winds</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Reda Snaiki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27101">2510.27101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00122.html">Engineering.ai: A Platform for Teams of AI Engineers in Computational Design</a></div></td>
-<td>Ran Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00122">2511.00122</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gravitational-waves — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <strong>90d</strong> <a href="gravitational-waves-360d.html">360d</a> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12392.html">Learned proposals in trans-dimensional inference are optimal at equilibrium, not during assembly</a></div></td>
 <td>Argyro Sasli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12392">2608.12392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26125.html">Emulating the complex galactic-scale orbital dynamics of LISA massive black hole pairs with normalizing flows</a></div><div class="paper-tags"><a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
-<td>Pedro R. Capelo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26125">2607.26125</a></td>
 </tr>
 </tbody></table>

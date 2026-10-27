@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>lattice-qcd — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <a href="lattice-qcd-90d.html">90d</a> <strong>360d</strong> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03065.html">Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Zaki Panjsheeri et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03065">2511.03065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27541.html">Holographic equation of state matched with hadron gas equation as a tool for the study of the quark-gluon plasma evolution</a></div></td>
-<td>A. V. Anufriev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27541">2510.27541</a></td>
 </tr>
 </tbody></table>

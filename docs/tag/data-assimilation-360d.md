@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01468.html">DAMBench: A Multi-Modal Benchmark for Deep Learning-based Atmospheric Data Assimilation</a></div></td>
 <td>Hao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01468">2511.01468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27388.html">Using data assimilation tools to dissect GraphDOP</a></div></td>
-<td>Patrick Laloyaux et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27388">2510.27388</a></td>
 </tr>
 </tbody></table>

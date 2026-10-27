@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2918,17 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18188.html">QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Bikash K. Behera et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18188">2501.18188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03399.html">Typical Machine Learning Datasets as Low-Depth Quantum Circuits</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Florian J. Kiwit et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03399">2505.03399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01246.html">Quantum Machine Learning for State Tomography Using Classical Data</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-state-reconstruction-360d.html">quantum-state-reconstruction</a></div></td>
-<td>Shabnam Jabeen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01246">2507.01246</a></td>
 </tr>
 </tbody></table>

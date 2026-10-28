@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,17 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00537.html">Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching</a></div></td>
 <td>Hongjie Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00537">2608.00537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26749.html">Image Recognition via Vaisman--Neifeld&#x27;s Geometry</a></div></td>
-<td>N. C. Combe et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26749">2607.26749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26951.html">A Spectral-Domain Pseudo-Inverse Construction Method for Unitary Diagonalizable Linear Inverse Problems</a></div></td>
-<td>Shengchang Chen</td>
-<td><a href="http://arxiv.org/abs/2607.26951">2607.26951</a></td>
 </tr>
 </tbody></table>

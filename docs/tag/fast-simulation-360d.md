@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fast-simulation — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="fast-simulation-7d.html">7d</a> <a href="fast-simulation-30d.html">30d</a> <a href="fast-simulation-90d.html">90d</a> <strong>360d</strong> <a href="fast-simulation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24254.html">GPT-like transformer model for silicon tracking detector simulation</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Tadej Novak et al.</td>
 <td><a href="http://arxiv.org/abs/2512.24254">2512.24254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05108.html">LEMURS dataset: Large-scale multi-detector ElectroMagnetic Universal Representation of Showers</a></div></td>
-<td>Peter McKeown et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05108">2509.05108</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02602.html">Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Ferhat Ozgur Catak et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02602">2511.02602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18188.html">QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Bikash K. Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18188">2501.18188</a></td>
 </tr>
 </tbody></table>

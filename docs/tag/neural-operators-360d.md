@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2474,11 +2474,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01535.html">HFNO: an interpretable data-driven decomposition strategy for turbulent flows</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
 <td>Marco Cayuela et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01535">2511.01535</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01924.html">Neural Green&#x27;s Functions</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Seungwoo Yoo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01924">2511.01924</a></td>
 </tr>
 </tbody></table>

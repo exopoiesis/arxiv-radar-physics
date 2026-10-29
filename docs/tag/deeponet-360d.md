@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08795.html">PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Junyi Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08795">2510.08795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03016.html">Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow</a></div></td>
-<td>Heming Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03016">2506.03016</a></td>
 </tr>
 </tbody></table>

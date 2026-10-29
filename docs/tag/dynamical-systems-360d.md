@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">657 papers</span>
+  <span class="paper-count">656 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3950,11 +3950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02091.html">Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling</a></div></td>
 <td>Lancelot Da Costa et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02091">2511.02091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00923.html">Resolvent-Type Data-Driven Learning of Generators for Unknown Continuous-Time Dynamical Systems</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Yiming Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2411.00923">2411.00923</a></td>
 </tr>
 </tbody></table>

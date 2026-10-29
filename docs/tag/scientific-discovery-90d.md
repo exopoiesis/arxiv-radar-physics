@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,11 +620,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02662.html">Verifier-Guided Model Discovery for Physical Dynamical Systems with Pretrained Symbolic Transformers</a></div></td>
 <td>Farbod Faraji et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02662">2608.02662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28079.html">Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction</a></div></td>
-<td>Tianyou Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2607.28079">2607.28079</a></td>
 </tr>
 </tbody></table>
